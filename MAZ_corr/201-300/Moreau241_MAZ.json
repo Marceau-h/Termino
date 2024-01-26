@@ -1,0 +1,106 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Contrats – Paris (France)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, pour la validité de tous\n          contrats, obligations et autres actes, faits et passés en cette ville de Paris entre tous\n          particuliers et communautés.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-02-05",
+                "#text": "5 février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "Arreſt de la Cour",
+            "de Parlement.",
+            "POVR LA VALIDITÉ DE TOVS",
+            "Contracts, Obligations &amp; autres Actes faits",
+            "&amp; paſſez en cette Ville de Paris, entre tous",
+            "Particuliers &amp; Communautez.",
+            "Du quatrieſme Féurier mil ſix cens quarante-neuf.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "EXTRAICT DES REGISTRES",
+            "de Parlement.",
+            "CE jour, la Cour toutes les Cham",
+            "bres aſſemblé́es, Sur ce qui a eſté",
+            "propoſé́ qu’il a eſté donné vn Arreſt",
+            "au Conſ il, tenu à Sainct Germain",
+            "en Laye, depuis peu de jours, Por",
+            "tant que tous Contracts &amp; Obligations faits en",
+            "cette Ville, depuis le cinquieſme Ianvier, ſeront",
+            "nuls: Ce qui eſt contre l’ordre &amp; eéquité, &amp; fait à̀",
+            "deſſein de troubler le repos &amp; tranquillité publique,",
+            "&amp; renuerſer le commerce d’entre les fidelles Subjets",
+            "du Roy: La matiere miſe en deliberation, L A",
+            "DITE COVR a ordonneé &amp; ordonne, Que",
+            "tous leſdits Contracts, Obligations &amp; autres Actes",
+            "faits &amp; paſſez en cetteVille entre tous Particuliers &amp;",
+            "Communautez, vaudront &amp; ſeront executez com",
+            "me bien &amp; legitimement faits ſuiuant les Ordon",
+            "nances, enſemble tous ceux qui ſeront cy apres faits,",
+            "nonobſtant tous Iugemens &amp; Lettres à ce contrai",
+            "res: Et ſera le preſent Arreſt, à la requeſte du",
+            "Procureur General du Roy, leu, publié &amp; affiché"
+        ],
+        [
+            "4",
+            "par tous les Catrrefours de eette Ville &amp; Faux",
+            "bourgs, à̀ ce qu’aucun n’en pretende cauſe d’igno",
+            "rance. FAIT en Parlement le quatrieſme Février",
+            "mjl ſu eens quarane neuf. Signé, RADIGVES.",
+            "Colationn à l’Original parmoy Conſeiller",
+            "Secretaire du Roy &amp; ds ſes Finances."
+        ]
+    ]
+}

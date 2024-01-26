@@ -1,0 +1,127 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": true,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Censure",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrèt de la cour de Parlement, portant défenses, à tous\n          imprimeurs et colporteurs, d’imprimer et exposer en vente aucuns ouvrages et autres écrits\n          concernant les affaires publiques, sans permission registrée augreffe de ladite cour, sur\n          peines y contenues.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01-27",
+                "#text": "27 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "Arreſt de la Cour",
+            "DE PARLEMENT.",
+            "PORTANT DEFENSES A TOVS",
+            "Imprimeurs &amp; Colporteurs d’imprimer &amp; expoſer",
+            "en vente aucuns Ouurages &amp; autres Eſcrits concer",
+            "nant les affaires publiques, ſans permiſſion regiſtrée",
+            "au Greffe de ladite Cour, ſur les peines y contenuë̈s.",
+            "Da vingt-cinquiéme Ianuier mil ſix cens quarente-neuf.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "EXTRAICT DES REGISTRES",
+            "de Parlement.",
+            "SVR ce qui a eſté remonſtré à la Cour par",
+            "le Procureur General du Roy, Que con",
+            "tre les anciens Reglemens, Ordonnan",
+            "ces &amp; Arreſts renouuellez &amp; publiez en",
+            "diuers temps, pluſieurs particuliers ſe li",
+            "centient de faire imprimer, vendre &amp; debiter publique",
+            "ment pluſieurs ouurages ſous diuers tiltres, libelles iniu",
+            "rieux &amp; diffamatoires, &amp; autres écrits concernans les aſ",
+            "faires publiques, ſans nom d’Autheur ny d’Imprimeur:",
+            "Requerant y eſtre pourueu. La matiere miſe en delib",
+            "ration: LA CovR a fait &amp; fait tres-expreſſes inhibi",
+            "tions &amp; defenſes à toutes perſonnes de quelque qualité",
+            "&amp; condition qu’elles ſoient, de compoſer &amp; mettre an",
+            "lumiere aucuns libelles iniurieux &amp; diffamatoires, &amp; à",
+            "tous Imprimeurs, Libraires, Relieurs &amp; Colporteurs,",
+            "d’imprimer, debiter, y txpoſer eu vente aucuns libel.",
+            "les ny autres eécrits concernans les affaires publiques,",
+            "ſans que le nom de l’Autheur, de l’Imprimeur, &amp; du lieu",
+            "où l’impreſſion ſera faite, ſoient au commencement,",
+            "auec la Permiſſion regiſtré́e au Grefſe de la Cour, à peine",
+            "de cinq cens liures d’amende &amp; de punition exe mplai¬:",
+            "re: Enjoint à tous Commiſlaires, Huiſſiers, Sergens &amp;",
+            "autres Offciers de Iuſtice, de ſaiſir &amp; tranſporter les",
+            "preſſes &amp; caracteres des Maiſtres Imprimeurs &amp; autres",
+            "qui ſeront trouuez imprimans aucuns liures, libelles ou"
+        ],
+        [
+            "4",
+            "autres écrits, ſans ladite Permiſſion, pour eſtre vendue",
+            "au plus offrant &amp; dernier encheriſſeur, en la maniere",
+            "accouſtumée, &amp; les deniers en prouenans aumoſnez à",
+            "l’Hoſtel-Dieu de cette Ville de Paris, Meſmes d’arreſter",
+            "&amp; conſtituer priſonniers tous les lmprimeurs, Colpor",
+            "reurs &amp; autres qui ſeront trouuez imprimans ou debi.",
+            "tans telles pieces, pour leur eſtre le procez fait &amp; parfair,",
+            "&amp; punis ſelon la rigueur des Ordonnances. Ordonne",
+            "qu’à la diligence du Procureur General du Roy, le pre",
+            "ſent Arreſt ſera ſignifié au Syndic &amp; Adjoints de la Li",
+            "brairie, pour eſtre leu &amp; publié en la Communauté des",
+            "Imprimeurs &amp; Libraires, &amp; outre publié &amp; affiché par",
+            "les carrefours &amp; autres lieux accouſtumez de cette Ville",
+            "de Paris. Enjoint au Preuoſt de Paris, ſes Lieutenans, de",
+            "tenir la main à̀ l’execution du preſent Arreſt, informer",
+            "des contrauentions, &amp; proceder à l’encontre des con",
+            "treuenans ſuiuant la rigueur des Ordonnances &amp; Ar.",
+            "reſts. FarcT en Parlement le vingt-cinquieme Ianuier",
+            "mil ſix cens quarente-neuf. Signé, dv TILLET.",
+            "Collationné ̀ l’original par moy Conſeiller Sgcretaine",
+            "du Roy &amp; de ſes Finanmces."
+        ]
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "imprimatur": "Auec Permißion.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "déclaration",
+        "subject": [
+            "Noblesse",
+            "Gouvernement"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1651-02-28",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "AB"
+        },
+        "titre": "Déclaration des prétentions de la noblesse, assemblée aux\n          Cordeliers à Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-09-14",
+            "#text": "14 septembre 2022"
+        },
+        "author": {
+            "orgName": "Assemblée de la noblesse"
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1651",
+            "#text": "1651"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
+            "@ref": "isni:0000000359773502",
+            "persName": {
+                "forename": "Veuve de Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "DECLARATION",
+            "DES",
+            "PRETENTIONS",
+            "DE LA",
+            "NOBLESSE",
+            "ASSEMBLEE AVX",
+            "CORDELIERS A PARIS.",
+            "A PARIS,",
+            "De l'IMPRMERIE de la Veufue I. GVILLEMOT, ruë",
+            "des Marmouzets, proche l'Egliſe de la Magdeleine.",
+            "M. DC. LI.",
+            "Auec Permißion."
+        ],
+        [
+            "3",
+            "s A Noblefſe re de!",
+            "mande que le bien de",
+            "’ſtat &amp; du publie, &amp;",
+            ". rjen pour ſon ntereſt",
+            "particulier, remettantaux Eſftats",
+            "generaux toutes les infractions",
+            "qui ont eſté faites cntre leurs",
+            "droicts, &amp; les rediſant aux Or.",
+            "donnances des Rois, &amp; areſtez",
+            "des Eſtats geheraux, &amp; pour cet",
+            "effect elle demanlde qu’ils ſoient",
+            "tenus au pluſtoſt dans la ville de",
+            "Paris, qui eſt le principal lieu de",
+            "la France, &amp; le pluis conſidera",
+            "le eoie u enenoene ſe ſendlt",
+            "ué ſi iuſte par Meſſieurs du Cler¬"
+        ],
+        [
+            "gé, qui eſt le premier Corps,:",
+            "qu’ils ſe ſont joints auec la No0",
+            "bleſſe pour demã̃der au pluſtoſt",
+            "leſdits Eſtats, &amp; l’on s’eſtonne",
+            "que le tiers Eſtat, qui eſt le plus",
+            "intereſſeéau deſordre preſent, tãt",
+            "par le retranchement, retarde",
+            "ment &amp; mauuais payement des",
+            "rentes, que par les violences que",
+            "les gens de guerre font dans les",
+            "Prouinces, faute de payement,",
+            "ne ſe joigne auec les deux autres",
+            "Corps, pour demander enſem",
+            "hle leſdits Eſtats, qui ſont vn re",
+            "mede innocent pour empeſcher",
+            "la ſuitte des maux, qu’a cauſé́ le",
+            "miniſtere du Cardinal Mazarin,",
+            "&amp; que ceux de fa cabale s’effor.",
+            "cent tous les iours de continuër."
+        ]
+    ]
+}

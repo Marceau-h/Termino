@@ -1,0 +1,157 @@
+{
+    "imprimatur": null,
+    "corrector": true,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "poésie",
+            "burlesque",
+            "satirique"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-08",
+            "@who": "AB"
+        },
+        "titre": "Les Ténebres de Mazarin, en vers burlesques.",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-16",
+                "#text": "16 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-26",
+                "#text": "26 avril 2021"
+            }
+        ],
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@source": "None",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "LES",
+            "TENEBRES",
+            "DE",
+            "MAZARIN,",
+            "EN VERS",
+            "BVRLESQVES.",
+            "M. DC. XXXXIX."
+        ],
+        [
+            "3",
+            "LES",
+            "TENEBRES",
+            "DE",
+            "MAZARIN,",
+            "en Vers Burleſques.",
+            "PARIS écoute auec plaiſir",
+            "Combien t'on plus grand ennemy",
+            "A l'eſprit chauffé l'enuers",
+            "Et la ceruelle de trauers,",
+            "Cet animal à double etage",
+            "Ie voudrois bien qu'il fuſt en cage:",
+            "Apres qu'il nous a eu rauy",
+            "Nos Finances, Iuſtes &amp; Louys,",
+            "Il a bien ſouffert des Arreſts",
+            "Sans ſe ſauuer par les Marais.",
+            "A ij"
+        ],
+        [
+            "4",
+            "Faut-il pas qu'il ſoit vn fanc ſot",
+            "De n'auoir pas pris ſon eſſort",
+            "Vers la Sicile ou l'Italie",
+            "Pour mener ſa premiere vie.",
+            "Le temps a eſté fort propice",
+            "S'il euſt voulu entrer en lice",
+            "Les vents ont eſté violents,",
+            "S'il euſt oſé cet inſolent",
+            "Monter ſur mer, mis il a craint",
+            "Qu'elle ne luy ouuriſt ſon ſein",
+            "Pour le ſubmerger tout viuant",
+            "Et le conduire aux Eliſiens",
+            "Meſmes la campagne plaiſante",
+            "S'eſtoit montrée vn peu riante",
+            "A la faueur des bons François",
+            "Qu'il a tous reduits aux abois",
+            "Ce fut la ſemaine paſſée",
+            "Que la terre fut échauffée",
+            "Par les ardeurs de ce bel Aſtre",
+            "Voyant chaſſer tous nos deſaſtres;",
+            "Mais ce lafche auec ſa marote,",
+            "Il n'oſeroit ſortir la porte",
+            "De peur qu'il ne ſoit attrapé",
+            "Et de nos gens bien mal traité,",
+            "Il auoit beau ce bonnet rouge",
+            "Se retirer auec des trouppes",
+            "En quelque lieu de ſeureté",
+            "Qu'on"
+        ],
+        [
+            "5",
+            "Qu'on luy euſt volontiers baillé;",
+            "Mais maintenant faut qu'il periſſe",
+            "Et j'en verray faire juſtice",
+            "Moy-meſme qui chante ces vers",
+            "Eſtant aſſis au cabaret:",
+            "Car quoy qu'il faſſe, quoy qu'il penſe,",
+            "On luy apprendra vne danſe",
+            "Lors qu'il y penſera le moins,",
+            "Ie voudrois que ce fuſt ſoudain.",
+            "Monſieur de Beaufort a juré",
+            "Qu'il l'auoit par trop offencé",
+            "Pour luy pardonner cette faute,",
+            "Et qu'il luy en joüeroit d'vne autre.",
+            "Monſieur Delbeuf &amp; ſes Enfans",
+            "Luy en pourront bien faire autant.",
+            "Ce grand Mareſchal de la Mothe",
+            "Il guette toûjours à la porte",
+            "Et ne le quittera jamais,",
+            "I'en ſuis certain, ie le promets.",
+            "Le grand Marquis de la Boullaye",
+            "Qui ne redoute pas les playes",
+            "Tâche jour &amp; nuit à le prendre",
+            "Pour de luy prendre la vengeance.",
+            "Monſieur de Narmontier auſſi",
+            "Qui eſt de ce noble party",
+            "A juré ſa ruyne totale",
+            "Et qu'il le traitteroit en eſclaue.",
+            "B"
+        ],
+        [
+            "6",
+            "Et le moindre de nos Soldats",
+            "Qui ſont tous gras &amp; bien gaillards",
+            "Et preſts à deffendre leur pain,",
+            "Voudroit le tenir par la main,",
+            "Il luy feroit fort bonne chere",
+            "Mais il ne luy en couſteroit guere.",
+            "Voyés donc qu'il eſt abuſé",
+            "D'auoir ſi long-temps demeuré;",
+            "Sont-ce pas dépaiſſes Tenebres",
+            "Qui ſont dans l'eſprit de ce traiſtre ?",
+            "Mais n'en cherchés point le ſecret",
+            "C'eſt Dieu qui veut que ces mesfaits",
+            "Soient punis exemplairement",
+            "C'eſt bien vn juſte jugement."
+        ]
+    ]
+}

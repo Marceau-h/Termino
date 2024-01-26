@@ -1,0 +1,100 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſte.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Rentes de l'Hôtel de ville de\n            Paris",
+            "Intérêt (économie politique)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, du 25 janvier 1649, par\n          lequel il est ordonné, aux payeurs des rentes, de payer les arrérages dus et échus aux\n          rentiers, qui sont présents en cette ville.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01-26",
+                "#text": "26 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT.",
+            "Du vingt-cinquieéme Ianuier 1649.",
+            "Par lequel il eſt ordonne aux Payeurs des Rentes",
+            "de payer les arrerages deubs eſcheus aux",
+            "Rentiers qui ſont preſent en cette Ville.",
+            "A PARIS",
+            "Par les Imprimeurs &amp; Libraires ordinaire",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Maieſte."
+        ],
+        [
+            "EXTRAICT DES",
+            "Reiſtres de Parle ment.",
+            "Qu A COVR, toutes les hambres",
+            "8",
+            "S aſe mblees delberant ſur les affaires",
+            "ſt",
+            "le t pe eneeoun ſonret us dſonde",
+            "qu ſe pourroient commetrre aux",
+            "B",
+            ", pay mens des rentes de l Hoſtel de",
+            "lsV?",
+            "ette Ville de Paris, &amp; attendu la",
+            "neceſſiré preſente: A ORDONNE ET",
+            "ORDONNE aux Payeurs deſdites rentes payer",
+            "les arrerages d’icelies deubs, eſcheus &amp; à̀ eſheoir aux",
+            "Rentiers qui lont preſent en cette Ville, à̀ l’ex luſion",
+            "des abſens hors cettedite Vlle. Faict defences auſdits",
+            "Reeueurs d’en vſer autrement, &amp; de contreuenir",
+            "au preſent Arreſt, ſans neantmoins tirer à conſe",
+            "quence pour l’aduenir. FAICT en Palement le",
+            "vingt mquieſnc Ianuier ml ſix cens quarante-neuf.",
+            "Signé, GVYET.",
+            "Collarionme à̀ l’Original par moy Conſeiller",
+            "Secretaire du Roy, &amp; de ſes Finances."
+        ]
+    ]
+}

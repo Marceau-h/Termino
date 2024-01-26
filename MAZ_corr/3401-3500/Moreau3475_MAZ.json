@@ -1,0 +1,173 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": [
+            "vers",
+            "prose"
+        ],
+        "genre": [
+            "requête",
+            "rhétorique délibérative"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+            "Conti, Armand de Bourbon (1629-1666 ; prince de)",
+            "Longueville, Henri II (1595-1663 ; duc de)"
+        ],
+        "creation": "1650-11-15",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-18",
+            "@who": "AB"
+        },
+        "titre": "Requête de madame la princesse de Condé à messieurs du\n          Parlement pour la justification de messieurs les princes, le 2 décembre 1650.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000118756621",
+            "@source": "Mazarine",
+            "persName": {
+                "forename": "Claire-Clémence de Maillé-Brézé, princesse de",
+                "surname": "Condé"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1650-12-02",
+                "#text": "daté du 2 décembre 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "REQVESTE",
+            "DE",
+            "MADAME",
+            "LA",
+            "PRINCESSE",
+            "DE CONDÉ.",
+            "A Meſsieurs du Parlement,",
+            "POVR LA IVSTIFICATION",
+            "de Meßieurs.",
+            "Le deuxiéme Décembre mil ſix cens cinquante.",
+            "A PARIS,",
+            "M. DC. L."
+        ],
+        [
+            "2",
+            "rſte de lYl C pepe ſeſou",
+            "titque oadeaPteeſſe ſbleres",
+            "Vne eter s ple d’&amp; luay pree equ",
+            "ſte, aus fjns dpbtenir ſeureté pour ſa peſonne,",
+            "&amp; itiedpolr Meſſiesurſſeslndaas aiſa plais",
+            "te, qui eſt l’vue ſouſagrmen qui reſte aux",
+            "miſerables, luſßPſſej od’luy fiſt con",
+            "noiſtre que ſa ſortie hors de Paris luy eſtoit neceſ",
+            "ſair fi lle e yonloiritriter l alq’dpep4",
+            "ſir guerir pan ſta-humblesſupplicacid. C",
+            "poaedé etrarliire &amp; les iobpelle léué",
+            "qusfaiſit cola ui ammaoloit Afry, &amp;",
+            "qpauuoib vouluiſ ſaili d d pdeslonuede la Su4",
+            "plianté, i de: ue lled ſucldi’Ehguy ei ſo s",
+            "dans bopaſfagle ih ifrlnt. pelolaeſolatmn",
+            "d’lleD herhnti lol anofeé dansl’exeiemibedlu",
+            "RNoameEll ltral laus la villaid Bou,",
+            "daead , io le Palanoi d’aan ieoeuë&amp;ifqiſe",
+            "ſous la prot eſt iordarRaffoerbeioidemeté",
+            "juſulnl ollé́ra Qiſhreldœfuieraad qudl emnpe",
+            "la Rad jcasl! bds umuobnns eſftir lppail,",
+            "&amp;t hobo nté deluy pnnmmatne aſſs iertfiuſeieds",
+            "d oy &amp; du : en pbunde ma de ai leurs’ Ma",
+            "jefteaz comtti elle. fitllexrlalmuoauxreu lqs",
+            "geoumtene laſ lheerhda dM onſteuifbnl m",
+            "r&amp;ids ſifſeuà les Bainà d onty o ſae",
+            "de L nguleollbe s cb qu iolle lort deuoir eſpbre",
+            "çu ſe u fuble lacueill&amp; ids pdrdeaqilg",
+            "eurent"
+        ],
+        [
+            "5",
+            "eurent agreables luy donner, que demeurant dans",
+            "la ſoumiſſion &amp; dans le reſpect, elle -obtiendroir",
+            "de la iuſtice du Roy, ce que les mouemensexei",
+            "tez à cette occaſion auoient empeſché iuſqu’à lors.",
+            "Mais au hieu de receuoir l’effet de ſes paroles, &amp;",
+            "le ſuccez des eſperances qu’on luy auoit fait con.",
+            "ceuoir, elle vient d’apprendre que depuls peu de",
+            "iours, pour rendre l’oppreſſion acheuée, par les",
+            "plus in;urieux de tous les outrages, Meſfieurs les",
+            "Pinces de Condé, de Conty &amp; Due de Longue",
+            "uille, ont eſté transferez au Havre de Grace,",
+            "place ſciruée ſur le bord de la Mar, où la mali",
+            "gnité de l’air, la faciliré d’eſtre tranſportez hors",
+            "du Royaume, &amp; la puiſſance abſoluéë que lenrs",
+            "ennemis declarez ont dedans, luy donnent ſuies",
+            "de tout craindre, s’l n’y eſt promptement pour",
+            "ueu C’eſt ce qui oblige la Supljance d’iplorer",
+            "l’authorité des Loix, &amp; la protetion de laluſti",
+            "ce, daurant plus que l’afliction ayant reduit Ma¬:",
+            "dame la Princeſſe ſa belle-mere, aux dernieres.",
+            "extremitez de ſa vie, elle deule eſt-en puiſſauce",
+            "de la demander. C cS DE No ¬!",
+            "se1GnNs, &amp; qu’il vous apprt que depuis",
+            "le dix- huictiéme lanvier dernier, Monſieur le",
+            "Proeureur General du Roy n’a pris aucnes Con",
+            "cluſions contre leſdits Monſieur le Ptinc de Con",
+            "deé ſon mary, Monſieur le Prince de Conty, &amp;",
+            "Monſieur le Duc de Longueuille, dont l’empri",
+            "l"
+        ],
+        [
+            "ſonueaent ne vous a eſté́ connu juſqu’à prefent,?",
+            "u pan vne Lettre de Cachet, qui eſt vne",
+            "orme non encore pratiqueée, non ſeulemen",
+            "dann la deention des Prinees du Sang: miie",
+            "meſmes des parciculiers, que par les Odonnan",
+            "ces &amp; notamment par la derniere Declara",
+            "rin du mois d’Octobre nmi ſir eens quarenfe",
+            "ui&amp;t Il at dit qu’auouns Subiees di",
+            "de quelque qualité &amp; condiion qu’ils fbient, hel",
+            "ſeront traittez à l’aduenir eriminelement, qle",
+            "ſelon les formes préſcriptes par les oix d Roy",
+            "aume v ovs e ’ i o Do r rn,",
+            "Que ledit ſieur Procureur Genetal lerà preſente",
+            "ment mandé pour declarer s’il a aucune hofe à",
+            "propoſer contre leſdirs Monſieur le Prince de",
+            "Condé Monſieur le Prinee de Conty &amp; Due de",
+            "Lnguouille, &amp; ad faute de ce faire; qu’ii ſera in",
+            "ceſſamndene pourueu ̀ leut liberté en la manie",
+            "re que la Cour le lugera à propos, pour le bien",
+            "du Royaume, l’obſeruation des Odonnances,",
+            "&amp; notammene de la Declaratlon du huictiéme",
+            "Otobre nmail ſix ces quadreAe huict: Ert cepen",
+            "dant pour la ſeeté des perfonnes deſdits Mon",
+            "ſieur le Prince de Condé, Meſſieurs le Prince de",
+            "Conty, &amp; Duc’de Longueuille, qu’ils ſeront con",
+            "duito&amp; amenez au Louure, &amp; gardez par vn e",
+            "tilhomme oneier de la haiſo u Roy, et Vous,",
+            "ferez bien."
+        ]
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1652-04-28",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre du duc de Lorraine à madame la duchesse d'Orléans,\n          sa sœur, touchant la marche de son armée, et les assurances qu'il lui donne, qu'il vient\n          se joindre à Son Altesse Royale pour éloigner le Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121428928",
+            "persName": {
+                "forename": "Charles",
+                "surname": "Lorraine (De)",
+                "name": "Charles IV"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000385986464",
+            "persName": {
+                "forename": "Jacob",
+                "surname": "Chevalier"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "EE ’",
+            "AA IL IL I L",
+            "DV DVC",
+            "DE LORRAINE",
+            "DORLEANS",
+            "Touchant la marche de ſon Armeée, &amp;",
+            "es aſſeurances quil luy donne, qui",
+            "vient ſe joindre à S. A. R. pour eſloi",
+            "ner le ſdaann",
+            "d e t l e",
+            "Ie",
+            "1, pres Sainct lean",
+            "oen"
+        ],
+        [
+            "a.",
+            "no",
+            "¬a",
+            "1",
+            "anae"
+        ],
+        [
+            "3",
+            "leMtedſedodſoodil di",
+            "!",
+            "deeediteees",
+            "T ¬ 1",
+            "L L IL I IE",
+            "DV DVCDE L’ORRAINE",
+            "A MADAME LA DVCHESSE",
+            "DORLEANS SA SOEVR.",
+            "Toacdhant la aaarche de ſon Amée, &amp; les aſſeurances",
+            "quil luydoaes qu’il vient jaindreàR.",
+            "poar eſloigner le Mazari.",
+            "lapa.",
+            "ny op las -emp que voſre vuu a",
+            "ou innocenca ont renty les effects de la Ti",
+            "nnie das Miniſtres de France, pour ne point",
+            "onibuer ce qui ſera de moy pour reprimet",
+            "us dmſlences, &amp; mertee hn aux malheuns",
+            "A ij"
+        ],
+        [
+            "de tant de gens de bien. Ie ſerois indigne du",
+            "rang que ie tiens parmy les Souuerains de l’Eu",
+            "rope, ſ ie ne ioignois mes armes auec celles",
+            "de tant de Princes oppreſſés pour taſcher de les",
+            "deliurer d’vne perſecutrion qui ne peut eſtreapprou",
+            "uée que par ceux qui n’aiment ny l’honneur, ny",
+            "la iuſtice. Ie me ſouuiens des trauelſes que le Car",
+            "dinal de Richelieu a cauſeées aà ſon Alteſſe Roiale",
+            "vnſtre mary, le voyant reduit à ſe refugier dans",
+            "mes Eſtars, où il a voulu renouueller l’alliance que",
+            "les Rois ſes predeceſſeurs n’auoient point d’eſniée",
+            "à noſtre Maiſon. Les miſeres &amp; les violences queie",
+            "vous ay veu ſouffrir en ſuite, me ſont des mo",
+            "tifs aſſez puiſſans pour me rendre aupreés de vons,",
+            "Madame, auec le plus de trouppes, &amp; le plusl",
+            "grand nombre de ſoldars qu’il me ſera poſſible",
+            "pour vanger rant d’injures que le Ciel regardel",
+            "auec indignation, &amp; que toute la terre condam",
+            "ne auec horreur &amp; maledetion. L’eſtat oû ie ſuis,",
+            "priueé de mes Duchés, deſpouillé́ de mon Do",
+            "maine, &amp; mes ſuiets traitteés plus rudement que",
+            "des eſclaues, veut que ie me ſerue de l’occaſion",
+            "que Dieu me preſente pour aider chaſtier les",
+            "autheurs de tant de deſordres, &amp;ſloigner la cai",
+            "ſe de tant de troubles, &amp; de tant de calamiteés",
+            "publiques. Ne pouuant diſſimuler plus longtemps",
+            "la douleur qui me tient de voir lon Alteſſe Roy",
+            "ale, les l’rinces du Sang, &amp; tous nos alliez efloi",
+            "gnez¬"
+        ],
+        [
+            "gnez de ſa Maieſté́ pour faire iouir vn petit",
+            "eſtranger de toute l’authorité Royale, auee",
+            "lus d’empire &amp; plus de liberté qu’il ne doit.",
+            "Eſtant honteux à tant de Princes de cette",
+            "qualité d’abandonner nſi le timon &amp; le",
+            "gouuernement du Royaume, à vn criminel",
+            "&amp; vn banny qui ne ſçait rien faire que du",
+            "mal, &amp; meſpriſer le ſang Royal. Ie ſç̧ais les",
+            "aflictions que vous en auez, Madame, ie",
+            "ſuis aduerty des remedes que ſon Alteſſe",
+            "Royale meon beau-frere y prepare, ie conuois",
+            "les peines que Monſieur le Prince ſe donne",
+            "pour empeſcher l’acecroiſſement de tant de con",
+            "fuſons, ieſuis aſſeuré du zele &amp; de l’affection",
+            "des Palemens qui n’abandqnneront point",
+            "me querelle ſi importante., &amp; vne reforma",
+            "oa nereſſaire. ie renaque que tous les",
+            "Souuetains y prennent part, &amp; ie vis par",
+            "perience que eous les, bouis Francois ſecon",
+            "dent les deſſeins de ſon Aleſſe Royale voſtre",
+            "mary, ſur la creance qu’ila ont qu’il ne tra",
+            "aille qu’au repos de la Chreſtienté, &amp; au",
+            "fonlagement de tous es peuples, C’eſt pour",
+            "quoy, M A A qulque propoſition",
+            "*;",
+            "puanngeuſe , le, Caripal Maairin me",
+            "faſe faire tous les iours, pour m’attirer à ſon"
+        ],
+        [
+            "party, ie vou prote fby dé ére &amp; de Sou",
+            "ueraini, que le tetay pluſtoſt erernelemeht",
+            "priueé de rnes Eſtats, que de ſecondert ia",
+            "mais les violences &amp; les Tirannies d’vn pe",
+            "tit Fauory qui ſçauroit niesr obeir, que",
+            "commender; me diſpõſadht de joindee ea",
+            "dilience l’armée de ſon Alteſſe Royale &amp;",
+            "de l’augmenitet de ſept ou huict mille hom",
+            "mes que ie uy conduis moy meſme. le dois",
+            "ce deuoir à l’hohneur de ſõn alſiance, ie ne",
+            "puis réfuſeér ce ſecburs à deés Prifcees oppre",
+            "ſés comme moy, &amp; ce ſeroit trahir le bieh",
+            "public, &amp; redoubler les maux du pauure",
+            "peuple que de flatter d’audantage vn miſera",
+            "ble Italien qui fomente la goerle ’ deplis",
+            "tat d’années, &amp; ui ſenble ’aimep aurre",
+            "pourre d le s rg e Neor, d l’oa",
+            "blaledent des Prouinceb. Mbnſieair l’Arei",
+            "dué Leéopoſ m’aydnt ermoyé les ſie Regi",
+            "pmeris qu’il n’attolt ’poblr, quahd oht tlla",
+            "ſera aſſenbleé, roiſs poùttons faire vn oops",
+            "aſſeés &amp;6ſiderladble poir fairte conoiſtrs ax",
+            "ſiecles à veir ; qil h’y a point de fdur,",
+            "aſſes grande pou afr e ugRbyal, uy de.",
+            "’faubris aſſes ptſfs pbu ſbbare taas de"
+        ]
+    ]
+}

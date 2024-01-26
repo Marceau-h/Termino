@@ -1,0 +1,204 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "nouvelles",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+            "Condé, Charlotte-Marguerite de Montmorency (1594-1650 ; princesse\n            de)",
+            "Orléans, Gaston (1608-1660 ; duc d')"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-07",
+            "@who": "AB"
+        },
+        "titre": "Les Nouvelles de l’élargissement de monseigneur le\n          Prince, envoyées au cardinal Mazarin par un sien ami.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@source": "Mazarine",
+            "persName": {
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "J. M."
+                }
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1650-08-15",
+                "#text": "mi-août 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LES NOVVELLES",
+            "de l’élargiſſement de Mon",
+            "ſeigneur le Prince, enuoyées",
+            "au Cardinal Mazarin par vn",
+            "ſien amy.",
+            "M DC L"
+        ],
+        [
+            "3",
+            "LES",
+            "NOVVELLES DE",
+            "L’ESLARGISSEMENT",
+            "DE MONSEIGNEVR",
+            "LE PRINCE.",
+            "ENVOIEES AV CARDINAL",
+            "Mazarin, par vn ſien amy.",
+            "Monsieur,",
+            "Ie ne ſcay ſi voſtre Eminence n’a pointman",
+            "qué de menager adroitement les aftections de",
+            "ſon Alteſſe Royalle; ie vous aſſeure du moins",
+            "qu’il eſt l’vnique cauſe de l’élargiſſement de",
+            "Monſieur le Prince; &amp; que ſans autre conſeil",
+            "que celuy qu’il prend de ſes plus pures incli",
+            "ations, il a conſenty joieuſement à la ſortie",
+            "e ce deſiré de tous les bons ſujets de l’Eſtat.",
+            "Les plus paſſionńs pour les intereſts de",
+            "A ij"
+        ],
+        [
+            "4",
+            "oſtre Eminence ont reç̧eu cette nouuelle auee",
+            "des ſentimens dejoye, qui ne trouueroit point.",
+            "de cteance dans rron eſprit, ſr ne n’en eſtoi",
+            "moy meſmele témoin; &amp; quelque opiniaſtre",
+            "teé que les Frondeurs ayent témoigné juſqu’à",
+            "preſent pour ſaper les fondemens de voſtre for",
+            "tune, il nes’en eſt neantmoins trouué pas vn",
+            "de tous eux, qui n’ait reſté́ moins ſatisfait de",
+            "cpt heureux éuenement que ceux que vos ma",
+            "gnificences ont intereſſeé le plus à̀ la querelle",
+            "de voſtre party.",
+            "Il eſt vray que ie ne vous ferois point part",
+            "le’eette nouuelle, ſans les ofdres expreés que",
+            "j’ay reçeu de voſtre Eminence, &amp; ie vous en",
+            "euſſe cellé́ toutes les illuſtres circonſtances,",
+            "n’eſtoit que ie me ſens obligé par la pſſionjp",
+            "uiolable que i’ay pourvoſtre ſeruice e neops",
+            "les deſguiſer point, quelques deſauatagéuſts",
+            "que vous vous les puiſfiés imaginer dans cette",
+            "importante conioncture de vos affaires.",
+            "e ne parle point à̀voſtre Eminence, ny de",
+            "feux de joye qu’on ’a fais dass Paris lejot de",
+            "a ſortie de cét Illuſtre Prince, ny des coaa5",
+            "es de l’artillerie de l’Atſenal, qui an stfais",
+            "hautenmehe resentirle brait, np du grandr",
+            "rs des Courriers:qui ſonts partioaoeſmg",
+            "pour enporters les rouuelles anee lri",
+            "ſance"
+        ],
+        [
+            "anee dans toutes les villes de Praice, ny des",
+            "Panegyriques qui font journellement ſuer ton",
+            "es les plus importantes Preſſes, pour faire",
+            "voir au jour le Paralelle de ce Prince, auec tous",
+            "les vleux conquerants de l’antiquité; &amp; fonder",
+            "les heureux preſages de ce qu’il doit faire, dans",
+            "la conjoncture dé la Vierge &amp; de la Balance,",
+            "ſous la conſtellation deſquelles il a brizé les fers",
+            "de ſon empriſonnement.",
+            "Cette deduction de toutes les circonſtances",
+            "de ſa ſortie ſeroit trop longue pour vne ſimple",
+            "Lettre, &amp; tropimportune pour voſtre Eminen",
+            "ce, qui ne doute nullement que le bruit de cet",
+            "te ſortie n’ait retenty dans Paris, auec beaucoup",
+            "plus de triomphe, que les nouuelles du fameux",
+            "aarnage de Roeroy; puis que cét effet de la",
+            "puiſſance en ce point abſolué de ſon A.R. ne",
+            "pouuoit qu’il ne fut ſuiuy de toutes les accla",
+            "mations d’vn peuple qui ne reſpiroit plus il y a",
+            "quelque mois, qu’apres les eſperances d’vn ſi",
+            "notable bon heun.",
+            "Vſte Pblitique neantmoins re doir point",
+            "’eſtonner de ceé́t accident impreueu, qui de",
+            "aande plûtoſt que voſtre Eminence s’étudie",
+            "à la recherche des plus belles congratulations",
+            "dont elle ſe pourra jamaisauiſer, pour felicirer",
+            "ſanA. R. tonuçhant la déliurance de Monſieur",
+            "¬-3"
+        ],
+        [
+            "1",
+            "le Prince, -&amp; luy faire auoee qu’apres les ui",
+            "Ctoires qu’il a remporté, les Places qu’il a foroé́,",
+            "les Prouinces qu’il a couru à pas de conqueran,",
+            "eét élargiſſement neantmoins eſt le plus illuſtr",
+            "de tous ſes ouurages.",
+            "Diray-je bienençore à voſtre Eminenee que",
+            "les raiſons des applaudiſſemens de cette ſortie!",
+            "ſont priſes de ’innocence dece Prince, &amp; qu’o",
+            "n’a fait retentir le bruit-de ſon élargiſſement",
+            "auee ces acclamations publiques, que parce",
+            "qu’on a creu qu’il eſtoit le plus juſtement deſiré",
+            "&amp; le moins capable de tous les Princes dumot",
+            "de Il eſt vray qu’on le donne generalement à l",
+            "joſtice des pleurs de ſa mere, &amp; qu’on dit que",
+            "cette iluſtre Princeſſe ne l’a obtenu, qu’apre",
+            "que le Ciel &amp; la terre ne l’ont peu refuſer à̀ la",
+            "conſtante pourſuitte de ſes tendreſſes mater",
+            "nelles.",
+            "1",
+            "Ie m’en rapporte pour moy de toutes les rai",
+            "ſons, au deſſein de Monſieur le Duc d’Orleans.",
+            "Mais ie ſuis bien le plus mauuais Poliriqub du",
+            "monde, ſi la France ne voit bientoſt queſoA.",
+            "R. procedera genereuſement à lai déliurafieée",
+            "d’vn des Freres de Monſieur le Prince, &amp; qu’i",
+            "eſt bien difficile de eroire qu’il s’arreſte en ſi",
+            "beau chemin aptes les grandes accelahation",
+            "qu’il a receu en ſuitte d ce premien elargſfe",
+            "ment."
+        ],
+        [
+            "I’aurois beau m’é́tendre ſur le raport de cet",
+            "te nouuelle: I’aſſeure voſtre Eminence que ie",
+            "n’en dirois jamais tant comme il y en a, qu’on",
+            "ajoute conſtammant dans Paris, qu’apres cette",
+            "illuſtre déliurance, ſon A R. ne ſçauroit refu",
+            "ſer le repos à l’Eſtat, &amp; la paix a toute l’Euro",
+            "pe, &amp; qu’on croit meſme que cette nouuelle",
+            "cauſera plus de reſiouiſſance à la Cour, que les",
+            "importantes priſes du Chaſteau de Vaire, &amp; des",
+            "Iſles Saint Georges.",
+            "Voila ce que ie n’ay peu refuſer aux deuoirs",
+            "de ma fidelité, auec proteſtation, Monſeigneur,",
+            "qu’il neſera jamais d’occaſion, quelque dfficile",
+            "que nos ennemis la faſſent naiſtre, où ie ne faſſe",
+            "voir auſſi genereuſement vne paſſion toute de",
+            "ſintereſſée pourvoſtre querelle, que vos bien",
+            "faits m’ont liberalement obligé de viure &amp;",
+            "mourir auec gloire",
+            "MONSIEVR,",
+            "De V. E.",
+            "Tres humble tres obeiſſant &amp; tres",
+            "fidelle ſeruiteur I M."
+        ]
+    ]
+}

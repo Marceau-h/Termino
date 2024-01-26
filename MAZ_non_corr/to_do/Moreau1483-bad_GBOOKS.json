@@ -1,0 +1,60 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre du roy escrite à son parlement de Paris\n                    sur les affaires présentes. De Saumur, etc.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "Sans Date",
+            "#text": "Sans Date"
+        },
+        "pubPlace": {
+            "@ref": "geonames:0000000",
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "A",
+            "û¬",
+            "GENEREVX",
+            "PRINCE",
+            "AVX PARISIENS",
+            "o ll e o e e e ee lu e ee lo",
+            "cu i’e os ee u"
+        ]
+    ]
+}

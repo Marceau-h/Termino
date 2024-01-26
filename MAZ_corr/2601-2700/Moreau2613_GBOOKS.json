@@ -1,0 +1,156 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "réponse",
+            "texte officiel",
+            "ordonnance"
+        ],
+        "subject": [
+            "France, Parlement de Provence",
+            "Finances publiques, France",
+            "Impôts",
+            "Provence"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-06-18",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Ordonnance de monseigneur Louis de Valois, comte d'Alais,\n          colonel général de la cavalerie légère de France, gouverneur et lieutenant général pour le\n          roi en ses pays et armées de Provence, contre l'arrêt du parlement d'Aix en\n          Provence.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000120001201",
+            "persName": {
+                "forename": "Louis-Emmanuel de Valois, duc d'",
+                "surname": "Angoulême"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-06-21",
+                "#text": "21 juin 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ORDONNANCE",
+            "MONSEIGNEVR",
+            "LOVISDE",
+            "VALLOIS",
+            "COMTE DALAIS.",
+            "EOl el eeuel",
+            "Coaaleie leeede rane,",
+            "i’pou le or, eu des",
+            "ee",
+            "un"
+        ],
+        [
+            "AA&amp; AA",
+            "p rgvpvppp ig",
+            "3",
+            "ORDONNANCE",
+            "r",
+            "de Monſeigneur Louis de",
+            "Valois. Comte d’Alais, Co",
+            "lonel General de la Cauale",
+            "rie Legere de France, Gou",
+            "uerneur &amp; Lieutenant Ge",
+            "neral pour le Roy, en ſes",
+            "Pays &amp; Armées de Prouen",
+            "CC.",
+            "tSTANT important d’empeſ",
+            "ſ e&amp; edn quie les lene qui iren",
+            "dans la Prouinte d’Aix, non ſeu",
+            "Ple eſe ienenr ounr enp eine nonien",
+            "ſoient diuertis, mais encore afin d’oſter ce",
+            "ſecours injuſte à la rebellion de ladite ville,",
+            "&amp; la pouuoir d’autant plus facilement rame",
+            "ner aà ſon deuoir, qu’elle ſera auſfi-bien deépour",
+            "ueüe d’argent que d’hommes. NOVS auons",
+            "fait deffences à Maiſtre Pierre Gaillard Thre",
+            "ſorier du Pays &amp; à ſes Commis, de faire voitu.",
+            "rer dans Aix les deniers de leurs receptes, à"
+        ],
+        [
+            "3",
+            "peine d’eſtre proeedé cbntre eux cormne fa",
+            "reurs de la rebellion de ladite ville, &amp; de confiſ",
+            "rion des deniers quiſeront ſaiſis, dont ils de",
+            "meureront ſolidairement &amp; en leurs noms reſ",
+            "ponſables. Enjoignant aux Conſuls &amp; Habi",
+            "tans des Villes &amp; Communautez de la Prouin",
+            "ce, de s’oppoſer auſdites voitures &amp; en arre",
+            "ſter les deniers: &amp; accordant ſous le bon plai",
+            "ſir de Sa Majeſté́, à ceux qui denonceront la",
+            "oiture qui s’en feroit, le quart de ce qui ſera",
+            "ſaiſi en conſequence de leurs denonciations,",
+            "cependantjuſqu’aà ce qu’autrement ſoit pour",
+            "ueu par ſadite Majeſté́: Ordonnons que les",
+            "deniers de la recepte du Vigueriat de Folcal",
+            "quier ſerontportez à la ville de Siſteron, ceux",
+            "de Draguignan en la ville de Brignolle, ceux",
+            "de Graſſe à Antibe, &amp; ceux de Barjaux, Aups",
+            "&amp; Caſtelane audit Brignole, attendu la dé́bau",
+            "che deſdites villes de Folcaquier, Dragui",
+            "gnan, Graſſe, Aups, Barjaux &amp; Caſtelane. Et",
+            "pour plus gran de ſeurereé deſdits deniers, Nous",
+            "ordonnons que ceux des Vigueriats de Seine,",
+            "Colmars, Mouſtiers, Digne &amp; Apt ſeront por",
+            "tez audir Siſteron, &amp; ſeront tenus les Commis",
+            "dudit Threſorier du Pays, d’eſtablir les Bu",
+            "reaux de leurs recepres eſdites Villes de Siſte",
+            "ron, Brignole &amp; Antibe, &amp; les Communau",
+            "tez en dependantes, d’y porter les deniers auſ",
+            "¬",
+            "a"
+        ],
+        [
+            "quels ils ſont cottiſez: &amp; pour les autres re",
+            "ceptes ſe continuëront ez Villes où̀ elles ont",
+            "accouſtumeé de ſe faire: &amp; pour la recepte ge",
+            "nerale le Bureau en ſera eſtably à Tolon, oùles",
+            "deniers des recepees particulieres ſeront por.",
+            "tez. Faiſant deffences à̀ tous gens de guerre",
+            "de mesfaire ny meſdire auſdits Commis, à",
+            "peine de la vie: Et neantmoins pour leur aſ",
+            "ſeurance, enjoignons aux Conſuls des Coma",
+            "munautez où ils paſſeront de leur donner de",
+            "lieu en lieu eſcore conuenable, à peine de",
+            "reſpodre de la perte deſdits deniers. Fait à",
+            "Marſeille ce vingtieſme Iuin 164.",
+            "Signé LOVIS DE VALOIS. Et plus bas",
+            "par Monſeigneur, IVVE NEL, ainſi ſignéà",
+            "a a a",
+            "l’original.",
+            "i2",
+            "lo",
+            "que"
+        ]
+    ]
+}

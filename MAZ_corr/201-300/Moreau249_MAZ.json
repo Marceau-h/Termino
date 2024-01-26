@@ -1,0 +1,105 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſte.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Militaires",
+            "Impôts",
+            "Aliments – Approvisionnement"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant défenses, à tous\n          soldats et autres personnes , de quelque qualité qu'elles soient, d'aller, ès maisons des\n          particuliers, habitants de cette ville et fauxbourgs, demander aucuns deniers, si ce n'est\n          en la présence de deux conseillers de ladite cour.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-02-22",
+                "#text": "daté du 22 février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "Arreſt de la Cour",
+            "DE PARLEMENT.",
+            "PORTANT DEFENSE SA TOVS",
+            "Soldats &amp; autres perſonnes de quelque qua",
+            "lite qu’elles ſoient, d’aller és Maiſons des Par",
+            "ticuliers habitans de cette Ville &amp; Faux",
+            "bourgs, demander aucuns deniers, ſi ce n’eſt",
+            "en la preſence de deux Conſeillers de ladite",
+            "Cour.",
+            "Du 22. Fevrier mil ſix cens quarante-neuf.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſte."
+        ],
+        [
+            "3",
+            "EXTRAICT DES REGISTRES",
+            "de Parlement.",
+            "COR Le toutes ie ni vbses affem: |",
+            "blées,Sur ce quia efté propofé qu'au-",
+            "ans fout émancipez d'aller",
+            "Maïfons de quelques Particuliers",
+            "habitans de cette Ville, &amp; fur faux pretextes ont",
+            "voulu exiger des fommes de deniers notables,",
+            "À quoy eftoit befoin de | pourucoir : LÀ Fait",
+            "je faittres expreffes in ibitions 8 defenfes àtoutes",
+            "perfonnes de. quelqr qualité &amp; condition",
+            "qu’elles foient;d”: alle: ifons des Particuliers",
+            "habitans de cb V Faux-bourgs, pour",
+            "demander &amp; faire recherche de deniers, fi ce",
+            "n’eften prefence de deux Conféillers de ladite",
+            "Cour, à peine delaviecontrelescontreuenans.",
+            "Etfera le prefent Arreftà la requeftc du Procu--",
+            "reurGenceral du Roy;publié &amp; affiché en tousles",
+            "Carrefours de cettedite Ville &amp; Faux-bourgs,",
+            "à ce qu'aucun n’en pretende caufe d' ignorance, |",
+            "FAIT en Parlementle vingt-deuxiéme Février",
+            "mil fix cens quarante-neuf/",
+            "Signé : DV TILLET."
+        ]
+    ]
+}

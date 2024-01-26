@@ -1,0 +1,114 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "placard",
+            "discours adressé",
+            "plainte",
+            "rhétorique délibérative"
+        ],
+        "subject": [
+            "Louis XIV (1638-1715 ; roi de France)",
+            "Conti, Armand de Bourbon (1629-1666 ; prince de)",
+            "Beaufort, François de Bourbon-Vendôme (1616-1669 ; duc de)",
+            "Lorraine, Charles II de (1596-1657 ; duc d'Elbeuf)",
+            "La Rochefoucauld, François de (1588-1650 ; prince de\n            Marcillac)",
+            "Bouillon, Frédéric-Maurice de La Tour d'Auvergne (1605-1652 ; duc\n            de)",
+            "La Mothe-Houdancourt, Philippe (1558-1652)",
+            "La Trémoille, Louis de (1612-1666 ; duc de Noirmoutiers)",
+            "Concini, Concino (1569-1617)",
+            "France. Parlement de Paris",
+            "Prévoté des marchands (Paris)"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": true,
+        "creation": "1649-03-01",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-11-03",
+            "@who": "KA"
+        },
+        "titre": "Le salut de la France dans les armes de la ville de\n          Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-09-14",
+            "#text": "14 septembre 2022"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Carrier",
+            "@when": "1649-01",
+            "#text": "janvier 1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "1"
+    },
+    "texte": [
+        [
+            "LE SALV",
+            "l",
+            "1",
+            "DAN LES ARMFES DE LA VIIIE DE PARIS.",
+            "A Le lon Gene de l Hrnce, conduiſam ſa Meſte en ſ ſloe Ryle.",
+            "bef, &amp; de Beaufort, Generaux de l’rmee, de Pinr",
+            "C Les Ducs de oillon &amp; de l Motre-H’eudncour, Generex,",
+            "e",
+            "ee",
+            "de",
+            "?",
+            "ee-e o",
+            "Son Alteſſe le ’Prince de Conty, Gencraliſiime de l’armee du Ry. en le",
+            "General de larmee.",
+            "ſee?",
+            "erelree e",
+            "PA.",
+            "V",
+            "D Le Corps du Parlement, accompagné de Mees de Vle",
+            "E Le Mazarin, accompagne de ſes Monopolers, seffcnr le renſr .que Ireeſ, p s ven",
+            "coneries",
+            "proſperiee.",
+            "F Le Marquis d’Anere ſe noy nt, en taſchan: de coaler le Viſſu ̀ fond, fſant ſigne rn",
+            "main dans ſa premiere entrepriſe.",
+            "e ly el",
+            "S e eire lenue e ereue es ſ eo en eneilne ne leie eruen e lenu leen",
+            "t",
+            "generale de l’Eſtat, Paris, le chef de ce grand cuorps de la Monarchie Françoſe, ſi",
+            "rdoutable à rous ſes cnne",
+            "êé mis, &amp; qui ne peut eſtre atterré que par la propre",
+            "peſanteur. Si Prs ne s’eſtoit le remer arme pour la deſſenſe",
+            "de cetre Couronne, &amp; la conſeruation de ſos authoriteé: les arnes de Paris, cette",
+            "Nfplus renommee que celle",
+            "d’Argos, ſous la conduitte d’vn autrc Iaſon, dine ſang de nos Roys, aſliſte des Polux",
+            "&amp; des Caſtor, utres dluſtres Angnottes",
+            "dont l’experience &amp; la valeur nous promettentdéia vn port aſſeurcé en commançant",
+            "à deſplier les voiles. Inuincibles l Ierauts,",
+            "que l’obier du peril ne peut arreſter, vous n’auez cmbartre en cettc celcbre conqueſte",
+            "qu’vn Dragon, gardien de tus le",
+            "threſors de la France, vne harpie orgueilleuſe des deſpoiiilles &amp; de ricneſſe de ce",
+            "loriſſant Royaume, vn ſerpent qi le emplit",
+            "depuis rante l’annees du ſanges peuples, &amp; que noſtre foibleſſe laiſſe laſchement",
+            "acrifier tous les iours à ſon inſatiae conuoi.",
+            "ſe,à la honrte de l’Eſtat, au deſ-uantage de noſtre eune Monarque, &amp; au meſpris",
+            "des Loix &amp;e de la Iſtce;&amp; qu’apreſent taut",
+            "de ſages Nectors s’efforcenr de faire reuure aux deſpens de leur propres vies &amp; de",
+            "rous leur bie. Mis le nl eſt i grane e",
+            "l prclent, que l’effur du remede conſiſte i la diligenice Porrons donc nos arme vers",
+            "cer ennem comman de rous les Eſtats",
+            "randis que noſtre Prelat ſiſté de ſou Clegeé porte les bra, vers le Cel enne vn autre",
+            "Moiſe, combatrons en vris Ioiuer, &amp;",
+            "urant arésde foy que de ſer croyons noſtrevitore ecertane que l’ais meritera de porter",
+            "yn iour le rom e eleneur d.",
+            "L’EST AT &amp; duſalut de laFRANCE."
+        ]
+    ]
+}

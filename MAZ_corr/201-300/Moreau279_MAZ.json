@@ -1,0 +1,99 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": true,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Joly, Guy (16..-1678)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement donné en faveur de Monsieur\n          Joly.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1650-02-02",
+                "#text": "2 février 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000001831368",
+            "@xml:id": "IL_BrunetJean.xml",
+            "persName": {
+                "forename": "Jean",
+                "surname": "Brunet"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT.",
+            "Donné en faueur de Monſieur Iolly.",
+            "A PARIS,",
+            "Chez IEAN BRVNET, ruë neuve ſainct Louys, au Canon",
+            "Royal proche le Palais.",
+            "M. DC. L."
+        ],
+        [
+            "4",
+            "lou l lV at dudlit mois de Deeembre &amp; is lanui",
+            "demier, A la Requeſte dudit Procureur Geneal, pour raiſon a.",
+            "eſnotion armuec au Plaiss &amp; ſſenbles faies en cee dirs",
+            "Vile ledr lour vieſne Deeembre, Are de ladire Cour di",
+            "vViugtieſme d lit ois de Decembre, par lequel entre autres ui",
+            "lerauroit eſte or donne que le nomme Rocqmont cy deaut Lieu¬.",
+            "enant lela Ceonmpannie du Sieut de la douilre ſernit ouy n",
+            "terrogé ſur le contenu eſdtes informations, cependant demeure.",
+            "roit priſonne en la Conciergerie du Palais, Interrogatoires",
+            "luy faits par leſdits Conſelllers commis ledit iour vingtieſme .",
+            "cembe , Autres lnterrogatoires par eux fais les 17. 1 Ianmuiet",
+            "dernier à Maiſte Matieu Deſmartioe aux Aduiocat enm laidie",
+            "Cou , &amp; liched Pelot ſd duoeatau Conſeil priue du oy ſuiuant",
+            "l’Arreſt dudit iour dix ſeptieſme lanuier contenans leurs Cojfe¬.",
+            "ſions Deſnegations: Requeſtes preſentéeslà la Cour parler",
+            "Illy ee que pout les cauſes y contenuts, il luy fut permis cont",
+            "nuer ſon oformation, a cette fin obtenir monition, meſme .",
+            "enuoyer del’aecuſation contre luy inteatée, Concluſions dd",
+            "Procureur General du Roy, Tout conſidere IT AESTE QVi",
+            "ladite Cour a reuuoyé &amp; renuoye ledt Iolly de l’accuſartion eon.",
+            "y tentée, luy permet continuer ſon infotrmation par leſdit",
+            "oaſoulloa eono a eue ſiu vltent monitiou en formne d",
+            "drolt, Ejoint à tous Curez, Vcaires, &amp; autres Preſtres, iecele",
+            "publier, &amp; fulminer, A ce faire contraits par ſaſie de leu T.,",
+            "porel, pour le tout communique audit Procureur General,",
+            "veu eſtre fait droict ainſi qu’il appartendra. Faict en Parlement le",
+            "premier Fevrier 1650. Signé LE TENNEVR."
+        ]
+    ]
+}

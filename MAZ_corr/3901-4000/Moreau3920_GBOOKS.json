@@ -1,0 +1,161 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "parodie"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-07-20",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-05-09",
+            "@who": "ZC"
+        },
+        "titre": "Le véritable arrêt de la cour de Parlement donné, toutes\n          les chambres assemblées, les vendredi et samedi 19 et 20 juillet 1652.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@role": "speaker",
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1652-07-20",
+                "@when": "1652",
+                "#text": "mention des 19 et 20 juillet 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "LE VERITABLE",
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT,",
+            "Donné toutes les Chambres",
+            "aſſemblées,",
+            "Les Vendredy &amp; Samedy dix neuf&amp; vingtié",
+            "me Iuillet mil ſix cens cinquante-deux.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libr. ordinaires du Roy.",
+            "M. DC. LII.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "LE VERIFTBLE",
+            "Arreſtde la Cour de Parle",
+            "ment: Donné toutes les",
+            "Chambres aſſemblées, les",
+            "Vendredy &amp; Samedy dix",
+            "neuf &amp; vingtieſme Iuil",
+            "let mil ſix cens cinquante",
+            "deux..",
+            "SſE jour la Cour oures les",
+            "Chambres aſſemblées, Mon",
+            "l’ ſieur le Due d’Orleans Oncle",
+            "N due oy &amp;r le ſieur erine de",
+            "Condé y eſtas, aſſiſtez des",
+            "S, pa Ooiedeu de l Coumonae",
+            "Apres auoir oy preſent Bechefert, Subſtitud",
+            "pour le Procureut General du Roy, le recit"
+        ],
+        [
+            "fa le iour d’hye par Mt le Preſident de",
+            "Neſnond, de ce quis’eſt paſſé en ſa Deputa",
+            "ton faite de ſa perſonine, &amp; de Mr le Preſ¬:",
+            "dent de Longueil, &amp; des Conſeillers de1",
+            "ladite Cour vers le Roy; Lecture faite de",
+            "la Lettre. de Cachetà eux eſcriterde lapatt",
+            "dudit Seigneur, conteiuë àu Regiſtre dudit",
+            "iour d’hicr: Et propoſirions faites par mon",
+            "dit-Sieur le Duc d’Orleans; Et oy anſſi ledit",
+            "Suhſtitũd, luy retiré, la matiere miſe en de",
+            "hberation pendant deux matiné́es, A decla",
+            "ré là perſonne dudit Seigneur Roys n’eſtre en",
+            "liberté, &amp; eſte detenuë par le Cardinal Ma",
+            "arlAj Et er confequence quemondit Sieur",
+            "leDuc d’Otleans ſuiuant l’Arreſtey-deuant",
+            "donné, ſera prié de la part de ladite Cour,",
+            "d’employer l’authorité dudit Seighreur Roy",
+            "&amp;la ſienue, pour mettre la perſonne de",
+            "ſa Majeſté eu plceine liberté; luy faire",
+            "rendre l’honneur, le ſeruice, &amp; l’obeyſ",
+            "ſance qui luy ſont deubs; ſe ſeruir pour",
+            "cét effet de tous moyens legitimes qu’il",
+            "jugera vtles &amp; neceſſaires, pour garantir",
+            "le Royaume de la ruine en Iaquelle il eſt",
+            "preſt de tomber par Ies mauuais çonſeils",
+            "e dudi"
+        ],
+        [
+            "5",
+            "ade Candinal, ptendre la qſité de Lied",
+            "tentGeneral du Roy dans- eſfend l",
+            "qanme, Trres, &amp;-Seigneuries deſo",
+            "deyſaace, &amp; n fuaire toutes les fnctios.",
+            "Odonne q’il erarecoanu en Hadleqallte",
+            "partous les Sujets de Sa Majeſté, tant &amp; ſi",
+            "ngueneut qule lalit Crdinal ſeren Fran",
+            "ce, &amp; que ladite Declaration contre luy",
+            "&amp;adit Sigous Ry, ſoiteséeué; Et le",
+            "dt Seux Prince e C&amp;dé ſiprié d’ac",
+            "per ſous d’auot &amp;dit Sieur Duc",
+            "dOdeans le Commandt&amp; l Con",
+            "duite des Armées: Crdonne en outre, que",
+            "les Ofeiers du Roy, Capitaines de ſes Gar",
+            "des, &amp; ous autres ayans Charges prés la",
+            "perſonne de Sa Majeſté, en demeureront",
+            "reſponſables, &amp; leur poſterité; &amp; qu’il ſera",
+            "eſcrit audit Seigneur Roy de la part de la",
+            "dite Cour, pour excuſer leſdits Deputez de",
+            "neseſtre rendus à̀ la ſuitte de Sadite Majeſté́,,",
+            "la ſupplier derechef de vouloir eſloigner",
+            "ledit Cardinal Mazarin; &amp; à tous les Parle",
+            "ens, leſquels ſeront inuitez de donner pa",
+            "eil Areſt; &amp; aux Maires &amp; Eſcheuins des",
+            "B"
+        ],
+        [
+            "6",
+            "Vilesprncipales du teſort: Et fera epn",
+            "ſent Areſt affiché́ par tout oud beſoin ſera,",
+            "ce qu’aucun n’en pretende cauſe d’ignoran",
+            "ce, FAIT en Parlement le vinagtiebaa",
+            "luillet nil ſix cens cinquante-deux.",
+            "Siń DV TILLET.",
+            "Colaiaané à’lrigiuaal, par nmj",
+            "Coaſeidler, Secratare das Roy, Mai",
+            "ſon Carae de Fran &amp; de ſa",
+            "Fuass."
+        ]
+    ]
+}

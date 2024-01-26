@@ -1,0 +1,144 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Vendôme, César de Bourbon (1594-1665 ; duc de)",
+            "Rohan, Henri de Chabot (1615?-1655 ; duc de)",
+            "France. Etats provinciaux de Bretagne"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-09",
+            "@who": "AB"
+        },
+        "titre": "Arrêt du parlement de Bretagne, portant défenses, à\n          monsieur de Vendôme et à tous autres, de troubler monsieur le duc de Rohan en la\n          présidence des états de ladite province.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000123225884",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Bretagne"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-09-30",
+                "#text": "daté du 30 septembre 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000122796968",
+            "@xml:id": "IL_LePetitPierre.xml",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Le Petit"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DV PARLEMENT",
+            "DE BRETAGNE.",
+            "PORTANT DEFFENCES",
+            "à Monſieur de Vendoſme &amp; à tous",
+            "autres, de troubler Monſieur le Duc",
+            "de Rohan en la Preſidence des Eſtats",
+            "de ladite Prouince.",
+            "A PARIS.",
+            "Chez PIERRE LE PETIT, Imprimeur &amp; Libraire",
+            "ordinaire du Roy, rüe S. Iacques, à̀ la Croix d’Or.",
+            "M. DC. LI."
+        ],
+        [
+            "EXTRAIT DES REGISTRES",
+            "de Parlement.",
+            "VEV par la Cour trois Requeſtes preſentées en",
+            "icelle, deux par Meſſire HEnRY CHAoT",
+            "Duc de Rohan, Pnnce &amp; paron de Leon, &amp;la",
+            "troiſieſme par les Gentils-hommes faiſans pour",
+            "le corps de la Nobleſſe de Bretagne: Par les deux premieres",
+            "deſquelles ledit ſieur Duc de Rohan auroit pour les cauſes y",
+            "contenuës, requis qu’il euſt pleu à ladite Cour, faire def",
+            "fences à Meſſire Ceſar Duc de Vendoſme de le troubler",
+            "dans la Preſidence en l’ordre de la Nobleſſe, declarer tou",
+            "tes les Aſſemblées deſdits Eſtats où ledit ſieur de Vendoſme",
+            "auroit Preſidé, nulles &amp; illicites, reſtablir la liberté qui doit",
+            "eſtre conſeruée dans leſdits Eſtats par les voyes qu’elle trou",
+            "ueroit raiſonnables; Et cependant faire deffences aux Ec",
+            "cleſiaſtiques, Gentils-hommes, &amp; Communautez de la Pro",
+            "uince, de ſe trouuer ny deliberer auſdits Eſtats, Et comman",
+            "dement à tous les ſujets du Roy de tenir la main aux volon",
+            "tez de ſa Majeſté &amp; execution des Arreſts de ladite Cour:",
+            "Et pour faire procez verbal des Soldats &amp; Barricades poſées",
+            "aux entreées du Conuent des Iacobins, &amp; pouruoir à l’exe",
+            "cution des Arreſts de ladire Cour, commettre deux Con",
+            "ſeillers d’icelle; Et par celle deſdits Gentils-hommes de cet",
+            "te Prouincee, ils auroient re quis pour les cauſesy contenues,",
+            "à ce qu’il euſt pleu à ladite Cour faire deſences à toutes ſor",
+            "tes de perſonnes de quelques qualitrez qu’elles ſoient, de",
+            "troubler ledit ſieur Duc de Rohan en la Pteſeance &amp; Preſi",
+            "dence des Eſtats, &amp; vouloir faire tres- humbles remonſtran¬"
+        ],
+        [
+            "aaaa¬¬",
+            "3",
+            "1",
+            "1",
+            "4",
+            "ces, à ſa Majeſté, à ce qu’il luy eſt pleu transferer leſdits",
+            "Eſtats de la ville de Nantes, &amp; annuller tout ce qui pourroit",
+            "eſtre fait auſdits Eſtats, comme n’eſtant vne compagnée ny",
+            "libre ny complette: Acte d’oppoſition faite par leſdits Gen",
+            "tils-hommes de cette Prouince, à la pretention dudit ſieur",
+            "Duc de Vendoſme de preceder tous les Barons de cette Pro",
+            "uince comme Comte de Penthievre, &amp; le plus proche pa",
+            "rent du ſang de Bretagne, paſſée aà̀ Nantes le 26. Septembre",
+            "dernier, coppie d’Arreſts du Conſeil d’Eſtat du Roy &amp; de",
+            "ladite Cour, des 22. Aouſt &amp; ;. Septrembre i51 ſignifiez",
+            "au ſieur Mareſchal de la Meillerays, &amp; audit ſieur Duc de",
+            "Vendoſme, les 7. du preſent mois, auec leurs declarations",
+            "au pied deſdites ſignifications: Concluſions de l’Advocat",
+            "General du Roy, &amp; tout conſideré. L A CoVR fait deffen",
+            "ces audit Duc de Vendoſme &amp; tous autres, de troubler ledit",
+            "de Rohanen la Preſidence au corps de la Nobleſſe, en la te",
+            "nuë des Eſtats de cette année. A declaŕ les Aſſemblées qui",
+            "ont eſté faites auſquelles ledit Duc de Vendoſme apreſidé,",
+            "&amp; celles qui ſe feroient au prejudice du preſent Arreſt nul",
+            "les; Ordonne qu’il ſera informeé de la verité des faits conte",
+            "nus aux Requeſtes dudit Duc de Rohan &amp; Gentils-hom",
+            "mes de la Prouince, fait procez verbal de l’eſtat des choſes;",
+            "Et pour ce faire &amp; eſtablir la liberté deſdits Eſtats. Ladite",
+            "Cour a commis &amp; commet, auec tout effet &amp; connoiſſance",
+            "de cauſe, Maiſtres Franç̧ois Grimaudet, &amp; François du Hal",
+            "gouet Conſeillers en la preſence de Maiſtre Reneé de Mon",
+            "tigny Advocat General du Roy: Ordonne ladite Cour que",
+            "leſdites Requeſtes, &amp; autres actes y attachez demeureront",
+            "au Greffe. Fait en Parlement à Rennes, Chambres aſſem",
+            "blées, le trentieſme Septembre 1651."
+        ]
+    ]
+}

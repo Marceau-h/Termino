@@ -1,0 +1,135 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "00-00-0000",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre du cardinal Mazarin écrite au sérénissime archiduc\n          Léopold, ensemble celle de M. de La Tour, gouverneur d 'Arras, écrite à monseigneur le\n          prince de Conty.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": [
+            {
+                "@ref": "isni:0000000121223121",
+                "persName": {
+                    "forename": "Jules",
+                    "surname": "Mazarin"
+                }
+            },
+            {
+                "persName": {
+                    "forename": "Philippe",
+                    "surname": [
+                        "Torcy (De)",
+                        "Comte de la Tour"
+                    ]
+                }
+            }
+        ],
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": "Sans Nom",
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "EI",
+            "MAZARIN",
+            "EOpou.",
+            "i ie oeee",
+            "6",
+            "uDCi"
+        ],
+        [
+            "2,:",
+            "l",
+            "i. it.",
+            "a?,",
+            "onaGoogle"
+        ],
+        [
+            "A3ee8s",
+            "3",
+            "Se e&amp;eeeee- ee",
+            "LETTRE DV CARDINAL MAZARIN,",
+            "eſcrite au Sereniſſime Archiduc Leopold.",
+            "ONsEINEVR,",
+            "I’eſperois en ſuite du traité ſigné",
+            "par voſtre Alteſſe Imperiale le a. Decembre, qui",
+            "me fut rendu le ſecond de ce mois &amp; an preſent, le",
+            "ſieur Magineti porteur de la preſente qu’elle ſeroit",
+            "au porte de ſair ct Germain en Laye, des que le Roy",
+            "y ſeroit arriué: mais ie ne voy aucun effect du con",
+            "uenu, le deſir extreme que i’ay de voir reuü̈ſſir vn ſi",
+            "glorieux deſſein pour la maiſon, me ſollicite inceſ",
+            "lamment de la conjurer à ne point differer l’execu-",
+            "tion de ces genereuſes entrepriſes, ſielle ne me veut",
+            "mettre dans l’impuiſlance d’oxecuter mes promeſ",
+            "ſes, ledi ſieur Magineti ( aux paroles duquel elle",
+            "donnera croanee s’il luy plaiſt, j l’aſſeurera des bon.",
+            "nes intentions que i’ay touſiours eu pour la maiſon",
+            "d’Auſtriche, que ma naiſſance h’obhige d’honorer",
+            "au deſſus de toutes les couronnes de l’Vniuers. Et",
+            "l’afſection que ie luy porte me preſſe de ſouhaiter:",
+            "pluſtoſt la mort que de manquer aux occaſions de",
+            "luy teſmoigner ce que ie luy ſuis. Et tres particuliere",
+            "mentà voſtre Alteſſe lmperiale, l’obeiſſance verita",
+            "ble que ie luy a voueé en qualité́ de",
+            "MONSEIGNEVR,",
+            "Voſtre tres humble &amp; tres obeiſſant,",
+            "&amp; tres fidel ſeruiteur,",
+            "De Sait Cermin e Laye",
+            "ce 4. auier i64 9.",
+            "lILs Car 1 a2."
+        ],
+        [
+            "¬¬¬¬¬- rL,",
+            "EFTDE MONSIEVR DE LA TOVR",
+            "ouuerneurd’rras Mopſigneurle",
+            "Prinee de Conty..",
+            "ONSEIGNEVR,",
+            "iques eompagnies de aualerie paroiſſant",
+            "jnſollamment depuis quelques iours aux enuirons",
+            "de cette plaee, m’bligerent à monter à cheual pour",
+            "leur aller taſterl poaſd’, ce qui m’a reïſſi ſi henreu",
+            "ſement quee;. des ennemis ſonedemeurez morts ſur",
+            "la place,j9. faits prlſonniers, ſans auoir perdu aucun",
+            "des miens. Et par vnſurcroiſt de bon-heur enma re",
+            "rraite, trois de mes Caualiets arreſterent à vne demy",
+            "feuë de Lens le ſieur Magineti Gentil. homme Si",
+            "cilien lequel eſtoie charge d’vne lettre pourl’Archl.",
+            "duc Leopold, à raiſon de quoy i’ay eommandé qu’il",
+            "fut reſerré́, &amp; qu’on flt vn eſſayſur luy pour tirer des",
+            "lumieres de la negotiation. Dont i’enuoye vn ex",
+            "traic&amp;t à voſtre Alteſſe, afin qu’il luy plaiſe ordonner",
+            "ce que ien feray, luy proteſtant derechef de per",
+            "dre pluſtoſt la vie que de faillir a la fideliré que ie",
+            "dois au Roy &amp; à̀ l’Eſtat &amp; de viure &amp; mouris,A",
+            "e",
+            "MONSEIGNE VR,",
+            "Voſtre tres-humble &amp; eres- obeiſant",
+            "ſeruito,",
+            "p La TovR.",
+            "D’As ce i7. Ianajer1é649."
+        ]
+    ]
+}

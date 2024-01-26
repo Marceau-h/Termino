@@ -1,0 +1,87 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-14",
+            "@who": "AB"
+        },
+        "titre": "Lettre du roi écrite au cardinal Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "persName": "Louis XIV"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1651-12-21",
+                "@notAfter": "1651-12-31",
+                "#text": "dernière semaine de\n            décembre 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans Lieu"
+        },
+        "publisher": "Anonyme",
+        "nbPages": "2"
+    },
+    "texte": [
+        [
+            "LETTRE DV ROY",
+            "eſcrite au Cardinal Mazarin",
+            "MOn Couſin, i’ay ſujet de croire ſelon les or¬",
+            "dres que ie vous ay cy deuant donnez, que",
+            "les trouppes que i’ay deſiré que vous miſſiez ſur",
+            "pied, ſont en eſtat de marcher &amp; de me ſeruir:",
+            "C’eſt pourquoy mon intention eſt, que ſans aucune",
+            "perte de temps, vous vous acheminiez auec ces",
+            "meſmes trouppes du coſteé́ ou ie ſuis, &amp; ſans repli¬",
+            "quer à cet ordre que vousy obeï̈ſſiez;, Ie mande à",
+            "mon Couſin le Mareſchal d’Hoquincourt, de s’ad¬",
+            "uancer auſſi auec celles que i’ay fait aſſembler en",
+            "mes Prouinces de Picardie &amp; Champagne, &amp; par",
+            "va ordre que ie luy adreſſe, le commande aà toutes",
+            "les Villes de mon Royaume de l’y receuoir &amp; lo¬",
+            "ger: Et à tous mes Officiers &amp; ſujets de fauoriſer ſa",
+            "marche. Ce que i’eſpere qu’ils executeront, peu",
+            "d’entre eux pouuans ignorer combien i’en ay be¬",
+            "ſoin pour reduire ſoubs mon obeiſſance ceux qui",
+            "s’en ſont ſouſtraiſ,jqieſt le ſeul moyen qui peur",
+            "auancer leur repos, pouir lequel ie trauaille inceſ¬",
+            "ſamment, &amp; l’affection &amp; la fidellité que vous",
+            "09S",
+            "auez touſiours euë à mon ſeruice, m’aſſeurant que",
+            "l",
+            "vous executerez ſans remiſe ce qui eſt de ma vo¬",
+            "-a¬",
+            "1",
+            "i3",
+            "1I"
+        ],
+        [
+            "ſa ſainte &amp;e digne garde, Eſerit à̀ Poictiers le dou ie¬",
+            "e ecembre mſx ees echqunt-vs Sige,",
+            "g r e",
+            "LoVS. V ply ba, a Lou ,Et ai",
+            "daet al daCo",
+            "A mon Cousin le Cardinal Ma¬",
+            "arin."
+        ]
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": [
+            "Gouvernement",
+            "Parlement de Paris"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1651-09-07",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-17",
+            "@who": "AB"
+        },
+        "titre": "Lettres du roi écrites à monseigneur le duc de Montbazon,\n          pair et grand veneur de France, gouverneur et lieutenant général pour le roi en la\n          province de l'Isle-de-France, contenant ce qui s'est passé au Parlement, le roi y séant,\n          en son lit de justice, sur la déclaration de sa majesté (majorité), et le choix des\n          ministres que Sa Majesté a mis dans son conseil.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-09-14",
+            "#text": "14 septembre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "persName": "Louis XIV"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-09",
+                "#text": "datées de septembre 1651"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "viaf:107622650",
+            "@xml:id": "IL_RibotveuvedeClaude.xml",
+            "persName": {
+                "forename": "Veuve de Claude",
+                "surname": "Ribot"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "J e T¬ ’l",
+            "S l Se?",
+            "A MONSEIGNEVR",
+            "LE DVC",
+            "DE MONTBASON",
+            "PAIR ET GRANDVENEVR",
+            "de enee ee o e le",
+            "leoie e r e e die eee",
+            "eee e e e erenr e lee ee",
+            "2",
+            "¬ PA1S.",
+            "ſnne e ue",
+            "dele u ſe eet e ee l ue",
+            "ue pelue en",
+            "es euee¬"
+        ],
+        [
+            "cvs",
+            "A",
+            "A &amp;aapas",
+            "des",
+            "la",
+            "l",
+            "de",
+            "&amp;8",
+            "-",
+            "ſ On Couſin, Apres vne longue Minorité.,",
+            "dont les premieres années ont eſté accompa",
+            "gnées de beaucoup de gloire &amp; de pluſieurs pro",
+            "grés ſolides contre les Ennemis declarez de cette",
+            "Couronne„ auec vne tranquilité vniuerſelle de mon",
+            "Royaume, &amp; dont les dernieres, quoy que pleines",
+            "de dificultez &amp; de rauerſes, n’ont pas laiſſé de mas",
+            "quer la pradence &amp; la force auee leſquelles la 1 eyne",
+            "Madame ma Mere a gouuerné cet Eſtat pendant ſa",
+            "Regence, mes Armes ayant toûjours eſté ſuperieures à̀",
+            "celles des Ennemis du dehors, &amp; les troubles du dedans",
+            "a’ayant point cauſé d’alteration ny de prejudicenotables",
+            "àl’Eſtat, ayant plû à Dieu me faire paruenir à l’aâge de",
+            "Majorité, auquel(ſuiuant les Loix de mon Royaume",
+            "ie dois prendnre l’Adminiſtranion des Eſtats &amp; des Peu.",
+            "ples que Dieu aſoûmis à̀ mon obeſſance; l’ay premie",
+            "ement rendu graces publiques à la Diuine Bonté, e",
+            "enant aujourd’huy mon Lict de luſtice en ma Courde",
+            "Parlement de Paris, de routes les benedictions qu’elle a",
+            "verſé ſi abondamment ur ma Perſonne &amp; ſur mon Rei",
+            "gne: l’ay auſſi remercié́pubhquement la Reyne madite",
+            "ame &amp; Mere, dela bonne, glorieuſe &amp; vuile Admi¬"
+        ],
+        [
+            "niſtration: Et pour témoigner autant que ie puis hu",
+            "mainement combien ie deſire faire honorer la Diuime",
+            "Majeſté dans mon Royaume, &amp; empeſcher qu’elle ae",
+            "ſoit offenſée, i’ay fait lire en ma preſence vne Declara",
+            "tien, pour reïterer les defenſes, &amp; agrauer les peines or",
+            "données par les Roys mes Predeceſſeurs, contre les Blaſ",
+            "phemateurs du Sainct Nom de Dieu; &amp; vn Edit portant",
+            "les plus ſeueres defenſes &amp; les plus exactes precautions",
+            "que l’on a pû aduiſer en mon Conſeil, &amp; par l’aduis de",
+            "pluſieurs Gentilshommes zelez pour la conleruation de",
+            "la Nobleſſe qui m’eſt tnres-there, contre ceuxqui ſe bar",
+            "tront en duel, rencontre, ou autrement, aupreyudie de",
+            "mes Otedonnances :I’ay auſſi faic moiſtre comtme",
+            "outes mes penſeé́es &amp; inclinatens tondoiont aà tegner",
+            "auec pieté &amp; juſtice;, &amp; aà exerceren toures ocaſios",
+            "toute la clemence dontvn bon Roy peueſtrecapablé,",
+            "ayant declaré́ par la bouche de mon Chancoliar, qu:",
+            "i’oubliois toutes les choſes paſſé́es où̀ ie pourroisi auor",
+            "eſté offenfe, &amp; ne ſouhaitois rien daanitage que i’vnibn",
+            "de tous mes Sujets ſous mon obeïiſſancé, &amp; de maintenir",
+            "&amp; rendre pairfaite celle de la Maiſoni Royale, eſtant bie",
+            "marry que mon Couſin le Ptince de Codé ait efté ah",
+            "ſent d’vne Ceremonie ſr coafiddrable&amp; celebr s Et",
+            "afin de ne luy laiſſeraoun fujat de demourer éloigneé́",
+            "de moy, i’ay auſſ fairt dire en na- preſonce mes Letres",
+            "Patentes, pat bſquelles e le declare innocent ; apde;",
+            "quoy ie me prohes qu’il le remettra entieremeno danxs",
+            "ſon deuoir, &amp; que i’auray tout ſujet de le traitter auſfi",
+            "bien &amp; fauorablement que par le paſfé: Surquoy i’ay",
+            "bien voulu vous faire ſçauoir mes intentions par coe",
+            "Lettre, afn que vous en donnie part à tous mes Sera",
+            "uitours¬"
+        ],
+        [
+            "ieurs &amp; Sujets de l’étendë de voſtre Carge, &amp; que",
+            "vous teniez la min à l’execution deſdites Declar ations",
+            "&amp; Edt, qu ſeront enuoyez au plû̂toſt en mes autres",
+            "Cours de P’arlement, pour y eſtre publiez comme ils",
+            "l’ont eſté en celle de Paris; Vous recommandant de ſui",
+            "ure ponctuellement meſdtes teſolutions pour le bien",
+            "general &amp; leſoulagement de mes Sujets de l’é́tendü de",
+            "voſtre Charge, &amp; oour y faire regner l’ordre &amp; la luſtice,",
+            "&amp; obſeruer m:s Ordonnances en tout ce qui dé́pendra",
+            "de vous. Ce que me promettant de voſtre bonne con",
+            "duite &amp; de voſtre fidelité &amp; affection aà mon ſeruice, ie",
+            "ne vous en diray pas dauantage, que pour vous aſſeurer",
+            "de la continuation de ma bien-veillance; priant Dieu,",
+            "qu’il vous ait, Mon Covsn, en ſa ſaincte garde.",
+            "eſcrit à̀ Paris le 7. iour de Septembre i6;i.",
+            "7",
+            "LOV1S.",
+            "D Gven Gavd."
+        ],
+        [
+            ", ,Z",
+            "ZZS: x",
+            "ee::",
+            "eeee:p",
+            "ſ On Couſin, Outre ma Lettre cy",
+            "VL jointe, Ie vous fais celle-cy pour",
+            "vous dire, que deſirant donner vn eſta",
+            "bliſſement folide à la conduite de mes",
+            "affaires, &amp;. en mes Conſeils. l’ay rap",
+            "pellé prés de moy le ſieur Marquis de",
+            "Chaſteau- neuf, pour en auoir la premiere",
+            "&amp; principale direction; I’ay donnél gar",
+            "de des Sceaux de France au Sieur Molé,",
+            "Premier Preſident en ma Cour de Parle",
+            "ment de Paris; &amp; la Sur-Intendance de mes",
+            "Finances au Sieur Marquis de la Vieuville,",
+            "eſperant qu’auec l’aſſiſtance Diuine, &amp; par",
+            "le ſeruice que ie recevray de gens de cette",
+            "experience, ainſi que de ceux que ie retiens",
+            "dans mes Conſeils, toutes choſes ſeront",
+            "conduittes à la fin que ie me ſuis propoſée;",
+            "qui eſt de m’oppoſer aux entrepriſes de mes"
+        ],
+        [
+            "ennemls au dehors, d’empeſcher les trou",
+            "bles au dedans de l’Eſtat, de garentir mes",
+            "Sujets de toute oppreſſion, injuſtice &amp; de",
+            "ſordre, &amp; de paruenir au reſtabliſſement",
+            "d’vne bonne &amp; ferme Paix: Dequoy vous",
+            "aurez à donner part à tous mes Sujets de",
+            "l’etenduë̈ de voſtre Charge, ainſi que du",
+            "contenu en mon autre lettre; &amp; ſur ce ie",
+            "prie Dieu qu’il vous ait, Mon Couſin, enſa",
+            "ſainte garde. Eſcrit à Paris le 9. iour de Se",
+            "ptembre i6̃.",
+            "LOV IS.",
+            "DE GVENEGA VD."
+        ]
+    ]
+}

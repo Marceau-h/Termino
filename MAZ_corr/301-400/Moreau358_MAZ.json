@@ -1,0 +1,107 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſte.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Saint-Luc, François II d'Espinay marquis de (160.-1670)",
+            "Guyonnet, Jacques (16..-16..)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Toulouse donné, toutes\n          les chambres assemblées, le 25 novembre 1651, déclarant le sieur Guyonnet, conseiller au\n          parlement de Bordeaux, criminel de lèse majesté; défense, à tous sujets, de le reconnaître\n          ni payer les tailles ni arrérages en conséquence de ses ordonnances, et que le présent\n          arrêt sera remis ès-mains de M. de Saint-Luc, lieutenant du roi en la province de Guyenne,\n          pour exécuter tant le présent arrêt que celui du 23 octobre dernier.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000122905175",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Toulouse"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-11-25",
+                "#text": "daté du 25 novembre 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE TOLOSE.",
+            "Donéné les Chambres aſſemblées le 25. Nouembre 165.",
+            "Declarant le ſieur Guyonnet Conſeiller au Parle",
+            "ment de Bordeaux, criminel de leze-Majeſté;",
+            "deffenſes à tous les ſujets de le reconnoiſtre, ny",
+            "payer les tailles ny arrerages, en conſequence de",
+            "ſes Ordonnances; &amp; que le preſent Arreſt ſera",
+            "remis és mains de Monſieur de ſainct Luc, Lieu",
+            "tenant du Roy en la Prouince de Guyenne, &amp;",
+            "celuy du 23. Octobre dernier.",
+            "A PARIS.",
+            "Par les Imprimeurs &amp; Libraires ordinaires du Roy.",
+            "M. DC. LII.",
+            "Auec Priuilege de ſa Majeſte."
+        ],
+        [
+            "Gouuerneurs de places, leurs Lieutenans, Gentils-hommes, Ma",
+            "giſtrats, Conſuls, Preuoſts, &amp; à tous autres Subjets du lRoy,",
+            "d’aſ",
+            "ſembler les Communes au ſon du bat-ſain, courir ſus audit Guy",
+            "onnet &amp; à ſes troupes, &amp; les tailler en pieces: Faiſant",
+            "inhibitions",
+            "&amp; deffenſes à tous Conſuls, Villes &amp; Communautez, &amp; autres",
+            "Subiets du Roy de quelque qualite qu’ils ſoient, leur preſter ay",
+            "de, adminiſtrer aucuns viures, deferer aux Ordonnances dudit",
+            "Guyonnet, ny en conſequence d’icelles payer aucunes tailles ny",
+            "arrerages d’icelles à peine de payer deux fos, &amp; d’eſtre procede",
+            "contre eux comme deſobeiſſans au Roy, perturbateurs du repos",
+            "&amp; tranquillite publique, &amp; complices dudit Guyonnet; &amp; neant",
+            "moins qu’à la diligence dudit Procureur General,il ſera inçeſſam",
+            "nent informé des contrauentions qui ſeront faictes au preſerit",
+            "Arreſt, pour l’information rapportée eſtre ordonné contre les",
+            "coupables ainſi qu’il appartiendra: Et que le preſent Arreſt, en",
+            "ſemble celuy du 2;, Octobre dermier, ſeront remis entre les mains",
+            "du ſieur de S. Luc Lieutenant du oy en ladite Prouince, pour",
+            "l’execution d’iceux, afin que la force en demeure à la Iuſtice Sou",
+            "ueraine du Roy, &amp; que extraict d’iceluy deuë̈ment vidimé &amp;",
+            "collationne, ſera enuoyé par toutes les Seneſchauſſees, Baillages",
+            "&amp; Iudieatures oyalles dudit reſſort, pour eſtre leu &amp; publie à la",
+            "requeſte du Subſtitut dudit Procureur General, qui ſera tenu",
+            "en aduertir la Cour au mois. Prononce à Toloſe en Parlement le",
+            "25. Nouembre 1651."
+        ]
+    ]
+}

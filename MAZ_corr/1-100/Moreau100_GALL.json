@@ -1,0 +1,59 @@
+{
+    "imprimatur": null,
+    "corrector": true,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "poésie",
+            "burlesque",
+            "satirique"
+        ],
+        "subject": "Conti, Armand de Bourbon, prince de, 1629-1666",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1650-01-18",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-06",
+            "@who": "AB"
+        },
+        "titre": "L'apologie de l'autruche en vers burlesques.",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-16",
+                "#text": "16 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-23",
+                "#text": "23 avril 2021"
+            }
+        ],
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1650-01-20",
+                "@when": "1650",
+                "#text": "à partir du 20 janvier 1650"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "8"
+    },
+    "texte": null
+}

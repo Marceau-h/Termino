@@ -1,0 +1,155 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre écrite par l'archiduc Léopold à messieurs\n                    les président et gens tenant la cour de Parlement de Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "T E ¬",
+            "1 H I",
+            "H",
+            "I I I IL",
+            "ESCRITE",
+            "PAR LARCHIDVC",
+            "LEOPOLDE",
+            "MESSIEVRS LES PRESIDENS",
+            "&amp; Gens tenans la Cour de Parlement",
+            "PAIs",
+            "chez pPian Vn1Qvr",
+            "deunt le coilege ltoyi",
+            ". DC XLiXx.",
+            "AVEC PERMISSION."
+        ],
+        [
+            "¬",
+            "„ ..",
+            "1",
+            "?",
+            "¬¬",
+            "-i¬"
+        ],
+        [
+            "3",
+            ",",
+            "&amp;’p’é’ ’’ppt’e’",
+            "ESSIEvVRS,",
+            "Ie vous enuoye le Porteur",
+            "de Cette, qui vous dira de ma part, ce que ie luy ay.",
+            "encharge; &amp; ainſi ie vous prie de luy donner entiere foy",
+            "&amp; credence, &amp; ſur ce ie prie Dieu de vous auoir,",
+            "MESSIEVRS, en ſa ſaincte garde. De Bruxelle le o.",
+            "de Feb. 649.",
+            "Voſtre tres-affectionné,",
+            "LEOPOLDE GVILH.",
+            "Propoſition faite par moy ſoubſigné à Meſſieurs du Parlement,",
+            "de la part de Monſeigneur l’Archiduc Leopolde,",
+            "le a. Feburier 1ié649",
+            ", P s auoir preſenté ma Lettre de Creance, i’ay dit",
+            "S que iene pouuois douuer que ma venue ne fuſ apre¬",
+            "ble à la Copagnie, puis que i’apyortois les oſſres de la",
+            "Paix tant deſi ee par toute la Cheſtieé, &amp; ſineceſ¬",
+            "ſaire au bon-heur &amp; à la tranquilli e de deux Cou¬",
+            "ronnes; qu’il eſtoit vray, que depuis deux ans le Cardinal Maza¬",
+            "rini ne l’auoit point voulu conclure, quoy qu’il euſt pu le faire a¬",
+            "uec des conditions aduantageuſes à la France. Ms que depuis la",
+            "ſortie du Roy hors de Paris, ledit Cardinal auot recherchié́ &amp;",
+            "propoſé vn accommodement auec des conditions qui eſtoicnt fort",
+            "aduantageuſes à l’Eſpagne, ayant teſmoigne que ſon principalmo¬",
+            "rif, eſtoit de chaftier, ainſi qu’il diſoit, les Rebelles du Parlement,",
+            "&amp; mettre Paris à la raiſon. Apres qu’il auroit ioint les forces de",
+            "France &amp; d’Eſpagne par le moyen de cette Paix, que neantmoins",
+            "le Roy Catholique, mon Maiſtre, n’a pas eſtimé́ qu’il fuſt ny ſur ny",
+            "honneſte d’accepter ſes offres en cette ſaiſon, ayant iugé qu’il ne",
+            "lay ſeroit pas honnorable de prendre cette occaſion, de contri¬",
+            "buer à l’oppreſfion d’vne ſi Auguſte Compagnie, &amp; de la Ville Ca¬"
+        ],
+        [
+            "pitale du Royaume; que le Roy mon Maiſtre ny auoit pas creu, n",
+            "plus qu’il y euſt ſeurete de traitter auec vn honmme condamné &amp;",
+            "decclare Ennemy du Roy &amp; de l’Eſtat, par Arreſt d’vn Parlement",
+            "qui doit reglſtrer &amp; verifier les Traitrez de Paix, pour les rendre",
+            "ſes &amp; aut hentiques. Mais comme le Roy mon Maiſtre e reut ti¬",
+            "rer autres aduantages des occaſiõs preſentes, que d’vne Paix equi¬",
+            "table &amp; ferme, qu’il m’a enuoyé vers Meſſieurs du Pat lement, qu’il",
+            "çait eſtre attachez aux vrais intereſts du Roy Tres-Chreftien &amp; de",
+            "ſon Eſtat, &amp; où reſide principalement ſon authorité legitime, pour",
+            "leur offrir d’eſtre les Arbitres de la Paix, &amp; que volontiers de Roy",
+            "mon Maiſtre ſe ſouſmertroit à leur iugement: que s’ils n’en veu¬",
+            "lent eſtre les Iuges, il laiſſe à leur choix de deputer de leur Corps",
+            "en tcl lieu qu’ils voudront eélire, meſme à Paris, fi bon leur ſen¬",
+            "ble, où le Roy mon Maiſtre enuoyera ſes Deputez, pour y traittet",
+            "&amp; conclure vne bonne Paix &amp; raiſonnable, qui donne le repos &amp;",
+            "la tranquillité perdurable aux deux Couronnes; auquel Traitté ſe¬",
+            "ra auſſi compris le Duc de Lortaine, qui n’a pas voulu s’accomno¬",
+            "der auec ledit Cardinal, pour contribuer à l’oppreſſion dudit Par¬",
+            "lement, &amp; de la Ville de Paris, mais eſt demeuré ioint au party",
+            "d’Eſpagne. Cependant ie declre qu’il y a defia dix-huit à vingr",
+            "mil hommes qui s’aſſersblent ſur la Frontiere, donnant parolle",
+            "qu’ils n’entreprendront rienſur lesTerres du Roy Tres-Chreſtien,",
+            "ny ſur les Places qui ſont ſur leſdites Frontieres; ce qu’on auroit",
+            "pû faire dans le mauuais eſtat auquel elles ſe trouuent, ne reſtant",
+            "que deux cens hommes dans Peronne, autant dans ſainct Quen¬",
+            "tin, &amp; beaucoup moins dans le Caſtelet, &amp; les autres à proportion.",
+            "I’offre auſſi de la part du Roy mon Maiſtre toutes leſdites Troupes",
+            "au Parlement, pour ſa conſeruation, s’il en a beſoin, auquel cas le",
+            "Parlement en vſera en la maniere qu’il iugera le plus à propos, ſoit",
+            "en les faiſant conduire par des Officiers François qui ſeront de ſa",
+            "dependance, ſoit en prenant toutes les autres precautiõs qui pour¬",
+            "roient oſler toutes craintes, que leſdites Trouppes puſſent agir au¬",
+            "trement que pour le ſeruice &amp; ſelon les bonnes intentions du Par¬",
+            "lement; &amp; au cas que ledit Parlement n’euſt pas beſoin deſdites",
+            "Trouppes pour le defendre, ie donne parole, au Nom du Roy",
+            "mon Maiſtre, qu’elles demeureront ſur les Frontieres ſans rien en¬",
+            "treprendre, pendant que ladite Paix ſe trairtera. I’ay prié la Com¬",
+            "pagnie, de deliberer ſur ma propoſition, &amp; mes offres, &amp; me rendre",
+            "eſponſe pour la faire à mon Maiſtre. Signé, DOM IQSEPH",
+            "DE MESCAS, ETARNOLFINI.",
+            "u",
+            "F IN.",
+            "L E"
+        ]
+    ]
+}

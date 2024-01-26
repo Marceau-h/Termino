@@ -1,0 +1,105 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "poésie à forme fixe",
+            "ballade"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": true,
+        "creation": "1649-01-26",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-15",
+            "@who": "AB"
+        },
+        "titre": "Ballade des maltôtiers",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-03",
+            "#text": "3 juin 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "None",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "BALADE",
+            "DES",
+            "MALTOTIERS.",
+            "M. DC. XLIX."
+        ],
+        [
+            "MESSIRE DENIS AMELOT, Vicomte de Biſſeuul, Cheer",
+            "Seigr de Chaillou, Comer or-dlu Roy en ſes Coneilde ut di rrec",
+            "tioni at fm ce, et prermier des Raqtéordre de ſon ſoſtel, ee:",
+            "B. Moncornet excudit Auec priuilege du Roy 1650"
+        ],
+        [
+            "3",
+            "BALADE",
+            "DES",
+            "MALTOTIERS.",
+            "MOnopoleurs qui m’auez mis à ſec,",
+            "Et fait payer trois taxes ric à ric,",
+            "Mot ne ſonnez qui vous a clos le bee,",
+            "Faudroit au moins parler par vn Syndicq;",
+            "C’eſt, dites-vous, que pour voſtre trafic",
+            "Cherchez vn lieu qui ſoit plus loin du choc;",
+            "En verité voila fâcheux acroc",
+            "Que vous ont mis les Frondeurs du Barreau;",
+            "Mais n’en pleurez, car depuis la Saint Roc",
+            "A Mont-faucon l’on vous dreſſe vn Bureau.",
+            "D’oreſnauant pouuez prendre vn rebec,",
+            "Et ne ſçauriez appliquer de maſtic",
+            "Qui rien valuſt) à ce dernier échee,",
+            "Taillez, rognez, mettez en l’alambie,",
+            "Donner vn ſou ne vous veut le public,",
+            "Pluſtoſt mertroit ſa teſte ſur vn bloc:",
+            "b¬¬-ooaaraapo o.",
+            "a oo¬ ana¬e¬s o¬ 8 ¬ ¬"
+        ],
+        [
+            "e",
+            "1",
+            "¬¬¬¬,¬",
+            "4",
+            "Or priez Dieu que ſoient pendus au croe,",
+            "Otils quigens couchent ſur le carreau,",
+            "Car ie ſuis ſeur qu’en reprenant l’eſtoc,",
+            "A Mont-faucon l’on vous dreſſe vn Bureau.",
+            "Tenus eſtans plus grands voleurs que Bec,",
+            "Quand vous ſeriez aufli forts que Mardi,",
+            "Si ne fuyez d’icy iuſqu’a Lubee,",
+            "Mort qui deſia tient le doigt ſur ſon clic,",
+            "Rendra dans peu vos eorps droits comme vnm pi,",
+            "Ou bien il faut vous affubler d’vn froe;",
+            "Car autrement il n’eſt ny roy, ny roc,!",
+            "Qui ſoit baſtant vous ſauuer du Bourreau,",
+            "Ie vous le dis tenez cela pour hoc,",
+            "A Montfauconl’on vous dreſſe vn Bureau.",
+            "ENV0Y.",
+            "FRince n’auront la vieilleſfe d’Enoe,",
+            "Gens à traiter en détail comme en bloc,",
+            "Tous léurs bombans ie n’eſtime vn naueau;",
+            "u e enone ele e de deneeinn",
+            "FIN."
+        ]
+    ]
+}

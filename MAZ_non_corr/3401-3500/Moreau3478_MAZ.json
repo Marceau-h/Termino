@@ -1,0 +1,157 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Condé‎, Charlotte-Marguerite de Montmorency‎ (1594-1650‎ ; princesse\n            de)",
+            "Condé‎, Louis de Bourbon‎ (1621-1686 ; prince de‎)",
+            "Conti‎, Armand de Bourbon‎ (1629-1666 ; prince de‎)",
+            "Longueville‎ II, Henri (1595-1663‎ ; duc de)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-17",
+            "@who": "AB"
+        },
+        "titre": "Requête de mademoiselle de Longueville, fille de Henry\n          d'Orléans, duc de Longueville, présentée à nos seigneurs de Parlement ( le 7 décembre\n          1650) touchant la mort de madame la princesse douairière de Condé et le transport de\n          messieurs les princes du château de Vincennes à Marcoussi et au Hâvre et sur leur\n          délivrance.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000080818398",
+            "persName": {
+                "forename": "Marie d'Orléans-Longueville",
+                "surname": "Nemours"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1650-01-08",
+                "#text": "8 janvier 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2989317",
+            "#text": "Orléans"
+        },
+        "publisher": "Anonyme",
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "REQUESTE",
+            "DE MADEMOISELLE",
+            "DE LONGVEVILE",
+            "Fille du Duc de Lon¬",
+            "gueville.",
+            "Preſentée en Parlement de Paris, tou¬",
+            "chant la mort de Madame la Princeſſe, &amp;",
+            "le tranſport de Meſſieurs les Princes du Cha¬",
+            "ſteau de Vincennes à Marcoußy &amp;au",
+            "Havre, &amp; ſur leur deliurance.",
+            "A Orleans ce 14. Decembre 1650."
+        ],
+        [
+            "SVpplie humblement Mrie d’Oleans, fille",
+            "de Henry d’Orleans Due de Longueville,",
+            "diſant, que le dix huictieſme de Iauier der¬",
+            "nier, ledit Duc de Longuevlle ſon pere auroit",
+            "eſté arreſteé dans le PalaisRoyal auec Meſſieurs",
+            "ſes beaux Freres les Princes de Condé &amp; de",
+            "Conty, les Autheurs de certe entepriſe s’e¬",
+            "ſtantſervis du nom de ſa Maieſté, pour autho¬",
+            "riſer vne violence ſi extraordinaire faite contre",
+            "les Loix de l’Eſtat, contre la D eclararion du",
+            "Roy du mois d Otobre ia8. &amp; ſans aueunes",
+            "formalitez de Iuſtice, qu’au meſme temps ils",
+            "auroient eſté́ conduirs au Chſteau de Vin.",
+            "cennes, où ledit Duc de Longuevil le auroit",
+            "eſté traitteé d’vne maniere ſi dure &amp; ſi outra¬",
+            "geuſe, que les plus criminel!s auroient iuſte",
+            "uiet de s’en plaindre; Que dudit Chaſteau de",
+            "Vincennes ils auroient eſte transferez en ce¬",
+            "luy de Maucouſſi, ſous rels pretextes qu’il a pleu",
+            "à leurs ennemis d’nucnter pour contnuer vne",
+            "perſeeutlon ſi deraiſonnable. Que quoy qu’il",
+            "ſoit aſſez viſible que leſdits enn mis des Prin¬",
+            "ces prilonniers, ont pour le mons fait deſſein",
+            "de mettre leurs Maiſons dans vne ruine &amp; de¬",
+            "ſolaclon entlere, à quoi ils ont deſi fait vn",
+            "aſſez notable ptogrez, Madame la Prineeſſe",
+            "Douairiere eſtant morte de douleur depuls peu"
+        ],
+        [
+            "de iours, ladite ſuppliante s’eſtoit touſiours",
+            "ſlattée qu’ils ne pouvoient achever vn ſi perni¬",
+            "cieux deſſein, pendant que leſdies Princes ſe¬",
+            "roient proche du Parlement, &amp; que la Cour",
+            "daigneroit examiner la malice artficieuſe des",
+            "perſecuteurs de ſon pere &amp; de ſa Maiſon Qe!",
+            "le auroit quelque eſgardà ſa naiſſance, on",
+            "âge, au ſeruice qu’il a eu l’honneur de rendre",
+            "au oy &amp; à cet Eſtat, &amp; ſur tout à ſon inno¬",
+            "cence, mais que ſes irreconciliables ennemis",
+            "ayant bien preueu que le Parlement ſeroit vn",
+            "obſtacle à leurs mauvais deſſeins, auſſi puiſſant",
+            "comme il eſt legitime, ils ſe ſeroient adviſez de",
+            "mertre leſdits Princes en vn lieu où ils fuſſent",
+            "privez de touteaſſiſtance, &amp; principalement de",
+            "la bonne uſtice de la Cous pourquoy il les au.",
+            "roit fait conduire dans la Cradelle du Havre",
+            "de Grace, hors le reſſort du Parlement, auquel",
+            "lieu ils ſont tellement à la diſcretion de leurs",
+            "ennemis, que le moindre peril où ils ſe trouuẽt",
+            "expoſez, eſt de mourir daus vn mauuais air, où",
+            "les corps les plus ſains &amp; les plus robuſtes om",
+            "peine de conſerver quelque ſanteé, ce qui eſt",
+            "ſauf correction, non ſeulement contre toute",
+            "iuſtice &amp; raiſon, mais encore contre toure hu¬",
+            "maniteé, &amp; ce d’autant plus qu’il ne s’eſt preſen¬",
+            "té aueuns denonciateurs contre ledi Duc de",
+            "Longueville, &amp; que depuis onze mois qu’ileſt",
+            "priſonnier, Monſieur le Procureur General n’a",
+            "point encore propoſeé aueunes accuſatons",
+            "contre luy.",
+            "Ce conſideré Noſſeigneurs, &amp; qe ce que"
+        ],
+        [
+            "dſſLs eſt notoirement connu de toute la Fran¬",
+            "ee ’l eſt fait contre les Loix del’Eſtat &amp; no",
+            "taonmient contre la Declaration du Roy du",
+            "mois d’oobre 164s. &amp; qu’en la perſonne du¬",
+            "dir Duc de Longueville, la foy publique, &amp; la",
+            "Delaration de ſa Maieſté ſont violées ; lvous",
+            "plaiſe d’ordonner que ledit Due de Longue",
+            "le ſera amené à̀ telle des priſons, &amp; ſoustelle",
+            "garde que la Cour upra conuenables pou",
+            "uyefre ſon procez fait &amp; parfair. s’ii ſe rrouve",
+            "des aececuſateurs contre luy, ce conforme’t",
+            "i laditeDbeclaration duRoy du mois d’Ooctohre",
+            "6s. &amp; cependant quil lera permis à ladite",
+            "Marie d’Orleans ſa fille de demeurer en cette¬",
+            "ville dans ſa maiſon de l’Hoſtel de Soiſſons.",
+            "oour rendre a ſondit pere les ſer vic e les aſ¬",
+            "ances à̀ quoy la nature &amp; ſa naiſſance l’obli¬",
+            "gent, ſans quilſoit permis à ſes enemisde lep",
+            "aire ſortir, ſous quelque pretexte que ce puiſſe",
+            "ſre, pendant qu’elſe ſéra employée pour la",
+            "uſtification de ſon innocence, &amp; iuſques à ce",
+            "qu’autrement il en ait eſté́ ordonné par la",
+            "Cour &amp; vous ferez bien.",
+            "FIN."
+        ]
+    ]
+}

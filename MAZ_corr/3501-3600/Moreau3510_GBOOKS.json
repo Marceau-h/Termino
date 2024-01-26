@@ -1,0 +1,230 @@
+{
+    "imprimatur": "Auec permißion de Son Alteße Royale.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "discours adressé",
+            "résolutions",
+            "rhétorique délibérative",
+            "avis"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-07-11",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "La résolution de Son Altesse Royale et de MM. du\n          Parlement sur la réponse faite à messieurs les députés, avec l'avis de monsieur le prince\n          de Condé, touchant l'éloignement du cardinal Mazarin, en Parlement, le 17 juillet\n          1652.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": [
+            {
+                "@ref": "isni:0000000121336441",
+                "persName": "Gaston d'Orléans"
+            },
+            {
+                "@ref": "isni:0000000121755355",
+                "orgName": "Parlement de Paris"
+            },
+            {
+                "@ref": "isni:0000000121209573",
+                "persName": {
+                    "forename": "Louis II de Bourbon, prince de",
+                    "surname": "Condé"
+                }
+            }
+        ],
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-07",
+                "#text": "juillet 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121226728",
+            "@xml:id": "IL_LeGentilJacques.xml",
+            "persName": {
+                "forename": "Jacques",
+                "surname": "Le Gentil"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "L A",
+            "D E",
+            "RESOLV TION",
+            "SON ALTESSE",
+            "ROYALE.",
+            "ET DE M’DE PARLEMENT.",
+            "ſur la reſponſe faite à Meſſieurs les",
+            "Deputez.",
+            "Acc d’auss de Monſeur le Prince de Caode tou",
+            "chat l’eloignemaent da Cardinmal Maanin.",
+            "En Parlement le ;. Iuillet e5e.",
+            "CE C",
+            "APAIS",
+            "Chez IAeQV 1",
+            "Auec permißion de Son Alteße Royale.",
+            "u e ll"
+        ],
+        [
+            "êêA dd taa",
+            "gpreseaacos",
+            "VS VS , .",
+            "RE SyE",
+            "Son AltoſſeR oyale &amp;de",
+            "Aſertlee ul Prleheit,",
+            ", ſuux la Beſponſe du oy faie",
+            "t ſelleirs les pepbter a",
+            "Saincd Tenys n firaoni",
+            "o",
+            "1",
+            ". Ee. c:2",
+            "Anelltaindnſoaeuv lhà du n",
+            "auiaiteogaett ddalul",
+            "e!",
+            "l.",
+            "uoun",
+            "! no up. l",
+            "T E Sme dy reiaama aapmrd̀ inne",
+            "Aaatoalal Chamdrei aſfembees",
+            "th deSol’Aleſe Royaſe &amp; des",
+            "Moſiona lé Princelde Qodé, loRefponto",
+            "ayfaite - Maſieams les Depueaz da",
+            "Ealomnenmien la Ville de Saine bDen. e!",
+            "vic de oe ois pronoacée pa ton",
+            "ſinuilu adedte eeaux &amp;e coneeue en",
+            "ces!tcmes. :."
+        ],
+        [
+            "Meſears, le Roy m’a ’commmdé́. de",
+            "us dite, que quoy qû’il ſoir aiſé à çecon",
+            "oiſtre’que l’on vott tlalremén’que la de",
+            "ande; à laquee n -nſiſte ppu’éloigne-",
+            "en de Moſieur le Cardinat Mazarin, e",
+            "iqr recerts, lheantmoiu ſ Mjeſté",
+            "a pas laiſfé de, prendre reſolutioa de luy",
+            "ermettre de ſe’retirer ſur les preſfantes in",
+            "aaces quc ay a nt eté. faites, lors que",
+            "s ordies peceſaires aront eſte donnez",
+            "ur l’eieécutio, de ce qui doit eſtre pour",
+            "reſtalbûſtaent du dalme dans le Royau¬.",
+            "e; &amp; pour cét effet, Sa Majeſté́ entend",
+            "ue u, aſte auoi ſn imrenfios ̀",
+            "IonAeut llo u d’rleanà &amp; às onſieur",
+            "Prince, afin qu’il enaofent icy des De",
+            "ute &amp; cependant, que vous demeuries",
+            "rcha dôdſrfonxiou v",
+            "qanea luſu lalpipane dea Aus.",
+            "hda enyeſpriMeſfiests lspgt",
+            "e remrtiet lblRoDdlaRbhſtion iell",
+            "uoir eiſe de nedrs h padt àes peuples par",
+            "élaignemens d Canlinaad Maaarim anqnel",
+            "loignemortſadaMjeſdé feroit bhppdiei de:",
+            "ausille-iaceſîammeau Mônſftle Bfin?!",
+            "e Condé́, dont la prudence. danse les",
+            "Conſeihs"
+        ],
+        [
+            "Gonſeils n’eſt pas moindre queda gnolofju",
+            "danlqs çambag preuoynnt teiiſ’",
+            "quiuoque qui ſe jpuoie dans doieſponſ,",
+            "u or ouphant le rouile du Cdii",
+            "Ianai a it, ueonforḿaneal’anade",
+            "SonAleeſs Rqral le ſien eoinqueSa",
+            "éte ſerouit ſappliée, non ſeulement dn",
+            "et le CriptMaaam rnaiomenqreqn",
+            "filo edioie q’il ſioix auſin",
+            "du REoraue nfoana oi",
+            "ioù de S Maieſte oe Aeſde de la Cus",
+            "peel pnii tpe eſdleiououpſeleeaaai",
+            "n ete dt,",
+            "1er11",
+            "Q ſ’au eenois doe dadn",
+            "les Dues ſdſy gperor os huriil",
+            "leoi d latieſipd o’il eſinil dua",
+            "pet les peplei, a leſuupuuSe a.",
+            "udit ortqſiunoeori T lſaieaeſideeeae",
+            "Caradnal ſuerſn eſan ſeodeudenr",
+            "Cour, maiy d Bogupae e iu ds",
+            "obeiſune, couiſormemeni aur ooourn",
+            "de ſa Maieſt́, &amp;Arreſtde laGarr",
+            "Que Pou e peoore qu e o, d",
+            "gandſe luy fp nnoye pae don dece",
+            "op ale &amp; lonſieus le Plfaeo doeſit",
+            "Pieſident de, Neſponſeoie pauuilni"
+        ],
+        [
+            "6",
+            "ſuplide la part du de Sadite Alteſſe Royale",
+            "&amp;de donſeur le Prince, d’aſſeuret le Roy",
+            "qu’ilsetoiet peſts de teteuoir-&amp;executer",
+            "lesodres l qu’l plairoit à Sa Majeſte leur",
+            "donncr, apres l’éloignement du Cardina",
+            "Madain,faiunt la paroſe de Sadite Ma",
+            "jet",
+            "Et quant à a Commmiffion donnée à̀",
+            "Meſfieuis les Dopate, de demeurer pro.",
+            "chedui Roy pourly faireéJeurs remnonſtran",
+            "ces, &amp; attendte la eſporſe dé S Majeſté;",
+            "la Cr n l’a ptolongee que juſques̀",
+            "Lundy prochain quinziẽme de cé mois, la",
+            "reuoquéi preſent comme dés lors; Et en",
+            "joint nulfdits ſieurs Deputez e ſe rendre",
+            "Mardy luit heut́s do ’fatin ei fa grand’",
+            "Chambr pour e l’Aſſenble geerale",
+            "quis’y doiotenir-,l rendrecompt de teur",
+            "Depusaon, &amp; onher leur atfe fur la der",
+            "niare dolibrauion que la Cour y dot pren",
+            "dre ce. iont-â.",
+            "De cete reſolueoni lPhioos deons reco",
+            "noiſtre en preiet lieu d’obligation que",
+            "nous auons aSon lreſſe Ryadſe, d’auoir",
+            "jufſque loy inſſbé- aeé tadnt ſé yviguieur à.",
+            "l’éloignenent de etlydone lapreſence"
+        ],
+        [
+            "ſeule eſt la cauſe des maux que nous ſouf",
+            "frons.",
+            "En ſecond lieu, le judicieux auis de Mon¬",
+            "ſieur le Prince de Condé, qui pour faire voit",
+            "ſa ſincerité́, &amp; ſe vanger de l’injure que quel",
+            "ques eſprits broüillons luy ont fait, publiãt",
+            "qu’il ne cherchoit que les moyens de pro",
+            "longer la guerre, a voulu leuer toutes lesoc",
+            "caſions qui la pourroient deſormais exciter,",
+            "faiſant éloigner le C. M. non ſeulement de",
+            "la Cour, mais encore du Royaume.",
+            "Et enfin la prudence de Meſſieurs de la",
+            "Cour, dont les intentions ne tandans qu’a",
+            "rendre au Roy les ſoûmiſſions &amp; deuoirs",
+            "de Sujets zelés pour ſon ſeruice, agiſſent",
+            "en ce rencontre auec autant de modera",
+            "tion &amp; de franchiſe que ceux dont les eſ",
+            "prits ne tendent qu’au it. deſordres, mon",
+            "ſtrent de dupliciteé dans tout ce qu’ils pro",
+            "poſent.",
+            "FIN."
+        ]
+    ]
+}

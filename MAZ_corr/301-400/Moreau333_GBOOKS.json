@@ -1,0 +1,145 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "subject": "Loyers",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant décharge entière\n          du loyer du terme de Pâques dernier; et, pour faire droit sur la remise de celui de la\n          Saint-Jean ensuivant, à renvoyé les parties à la barre de ladite cour, pour contester par\n          instances séparées.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-09",
+                "#text": "septembre 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000110444682",
+            "@xml:id": "IL_LesselinAlexandre.xml",
+            "persName": {
+                "forename": "Alexandre",
+                "surname": "Lesselin"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "A",
+            "r",
+            "H",
+            "I L",
+            "31",
+            "u",
+            "DE PARLEMENT.",
+            "T E",
+            "PORTANT DESCHARGE ENTIERE",
+            "du loyer duTerme de Paſques dernier; Et pout",
+            "fair droit ſur la remiſe de celuy de la ſainct",
+            "Iean enſuiuant, a reuoyeé les Parties à la",
+            "Barre de ladite Cour pour conteſter par inſtan",
+            "ces ſeparées.",
+            "b l",
+            "e",
+            "A PARIS,",
+            "Chez ALEXANDRE LESSELIN, rë",
+            "de la Barillerie, à la Fontaine des Paſtoureaux",
+            "deuant le Palais.",
+            "M. DC. LI1."
+        ],
+        [
+            "¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬",
+            "tûut a",
+            "- i 4",
+            "T Ve¬ D",
+            "T e",
+            "A 1",
+            "A I A L L IL",
+            "DES REGISTRES",
+            "D",
+            "1",
+            "t ers",
+            "E PARLEMENT.",
+            "E V par la Cour la Requefe preſa",
+            "ee le dix aeufeſne un mi fxeen",
+            "cinquane-deux, pa lacques de la",
+            "M Mare lac ques Cbppi, Iaque",
+            "ge n Ceorgr Ceuilane ſlee Deſlidle",
+            "Niolas le Dreux, Chales Godefroy, Prançois",
+            "incent, lacques Bain, Michiel Fillaffiet,la",
+            "ques Mallaſſis, Eſtienne Baty, lean Coiaſe,",
+            "Charles Deſcombes, Fenmçoiſe Chaaudun, veuf",
+            "ue de Iean Moriniere, Francois Philippartt, Char",
+            "les Vaillane, Claude Mignot, ulien Daubray,",
+            "Pierre Daniſy, acquas Mocheron,Poullet,Vatin,",
+            "acques Regnon, Pirre de la Vigne, Larmber",
+            "antant, Guillaunae Bourgeois , Chadas Che",
+            "ard, Ioſepl Boutifart, Marin- aid, brancois",
+            "eſpez, Claude Louuerteebacquio Raynaault,",
+            "uillaumne Maaiey Roch Moriphaleldoel,",
+            "aonas le Poe tſhsldaue ſaac le Fobvre,",
+            "n Dufour, ea Raloe,’ AnMhoine Vailly Ga",
+            "el oacbe,- IaoquPneloſ, eoad Puiſee",
+            "A",
+            "L.¬.aa",
+            "A",
+            "L"
+        ],
+        [
+            "6",
+            "gé les demandeurs du quartier de Paſques dermiei,",
+            "&amp;pour faire droictſur la renmiſe de celuy eſcheuau",
+            "iour de S. lean enſuiuant, a renuoyé les parties à la",
+            "barre de ladite Cour, pour conteſter par inſtances",
+            "ſeparées de chacun quartier, rë &amp; conditions de",
+            "perſonnes’en la maniere accoſtuaée; cependat",
+            "par prouiſion ſans preiudice de leurs dcoicts, &amp; des",
+            "conuentioas &amp; tranſations faites entre aucunes",
+            "deſdites parties quiſeront entratenuës, Ieſdits de",
+            "maandeurs tenus payer aux deffendeurs en denie",
+            "ou quittances. valables les loyers dudirz quartier de",
+            "S. Iean; Et faiſant droi&amp;t ſur les concluſions dudit",
+            "Procureur geueral, fait defenſes conformement",
+            "aux Arreſts deladite Couraà cousloeataires &amp; ſous",
+            "locataires de cette ville&amp; aux-bourgs de s’aduor",
+            "tir &amp; conuoquer par billets &amp; atfiches; s’aſſembler",
+            "&amp; attrouperſous preeexte depourſuiure la deſchar",
+            "ge deſditsloyes ny pour quelque autte eaufe que",
+            "eſoit; ſous telle pein qu’il appaxrtiendra ſans deſ",
+            "pens. Fait en Parlement, le ſixieſme Septenabre",
+            "ail ſix cens cinquante-deux.",
+            "Signé, DVTILLE..",
+            "e ¬"
+        ]
+    ]
+}

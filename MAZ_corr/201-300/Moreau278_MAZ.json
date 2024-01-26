@@ -1,0 +1,193 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "faux"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Beaufort, François de Bourbon-Vendôme (1616-1669 ; duc de)",
+            "Retz, Cardinal de (1613-1679)",
+            "Broussel, Pierre (1576?-1654)",
+            "Charton, Louis (16..?-1684)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement sur l’accusation portée\n          contre M. le duc de Beaufort, M. le coadjuteur en l'archevêché de Paris M. de Broussel,\n          conseiller en ladite cour, et M. Charton, aussi conseiller, président aux requêtes du\n          palais.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@role": "speaker",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1650-01-26",
+                "#text": "26 janvier 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
+            "persName": {
+                "forename": "Veuve de Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "SVR L’ACCVSATION",
+            "intentée contre Mr le Duc de Beaufort,",
+            "Mr le Coadjuteur en l’Archeueſché de",
+            "Paris, Mr de Brouſſel Conſeiller en la",
+            "dite Cour &amp; Mr Charton auſsi con",
+            "ſeiller &amp; Preſident aux Requeſtes du",
+            "Palais.",
+            "A PARIS,",
+            "Che la veufve I. GVILLEMEOT, ruë de",
+            "Marmouzets, deuant la petite porte de",
+            "l’Egliſe Saincte Magdeleine.",
+            "M. DC. L."
+        ],
+        [
+            "EXTRAICT DES REGISTRES5",
+            "de Parlement,.",
+            "E V par la Cour, toutes les",
+            "é Chambres aſſemblées, les in",
+            "formations &amp; continuations",
+            "d’icelles faites ſuiuant les Arreſts de la",
+            "dite Cour, les vnze, treinze, quatorze,",
+            "ſeize, dixſepe, dix -huict, vingt-vn",
+            "Decembre dernier, &amp; dix-huit du",
+            "preſent mois, par les Conſeillers à ce",
+            "commis, à laRequeſte du Procureur Ge.",
+            "neral du Roy, demandeur, pour raiſon",
+            "de l’émotion arriuée au Palais, &amp; aſſem",
+            "blées faites en cette ville de Paris ledit",
+            "iourvnze Decembre: Autres Informa",
+            "V¬",
+            "3",
+            "11",
+            "11",
+            "1",
+            "1",
+            "i"
+        ],
+        [
+            "4",
+            "ions faites par les Lieutenans Cuil &amp;",
+            "Criminel du Chaſtelet conjoinctement:",
+            "Autre information fa ite par ledit Lieu",
+            "tenant Criminel du Chaſtelet, les douze",
+            "&amp; treize dudit mois de Decembre: A",
+            "la Requeſte du Subſtitud dudit Procu",
+            "reur General: Arreſts de ladite Cour",
+            "dudit treize Decembre &amp; quatorze",
+            "enſuiuant, par leſquels auroit eſté or",
+            "donné que les nommez la Boulaye, Ger",
+            "main, Lagneau, &amp; autres veſtus de dif",
+            "ferentes couleurs, deſignez eſdites In",
+            "formations, ſeront pris au corps &amp; ame",
+            "nez priſonniers en la Conciergerie du",
+            "Palais: Autre Arreſt de ladite Cour du",
+            "vingt enſuiuant, par lequel auroit eſté",
+            "ordonné́ que le nomméRoquemont, ey",
+            "deuãt Lieutenant de laCompagnie dudit",
+            "la Boulaye, ſeroit ouy &amp; interrogé́ ſur le",
+            "contenu eſdites informations, circon",
+            "ſtances &amp; dépendances: cependant de",
+            "meureroit priſonnier en la Conciergerie",
+            "¬"
+        ],
+        [
+            "1",
+            "du Palais, pour les interrogatoires veus",
+            "eſtre fait droict ainſi que la cour ver",
+            "roit eſtre à faire: inrerrogatoires à luy",
+            "faits par leſdits Conſeillers ledit iour",
+            "vingtie ſmeDecembre, cõrenant ſes re",
+            "cognoiſſances, confeſsions &amp; denega",
+            "tions: concluſions dudit Procureur ge",
+            "neral, Arreſts de ladite Cour deſdits a0.",
+            "&amp; vingt-deux dudit mois, par leſquels",
+            "entre autres auant faire droict ſur leſ",
+            "dites concluſions auroit eſté ordonné",
+            "que François de Vendoſme Duc de",
+            "Beaufort, Pair de France, Iean Francçois",
+            "Paul de Gondy Archeueſque de Co0",
+            "rinthe, Coadiuteur en l’Archeueſché",
+            "de Paris, M. Pierre Brouſſel onſeil",
+            "ler en ladite Cour, &amp; Louis harton",
+            "auſſionſeiller en icelle, &amp; Preſident aux",
+            "Requeſtes du Palais, ſe retireroient:Re",
+            "queſtes par eux preſentees les ſept &amp; di",
+            "xieſme dudit preſent mois, aà ce que ſans",
+            "auoir eſgard auſdites concluſions, il fut à",
+            "B",
+            "r",
+            "!"
+        ],
+        [
+            "¬",
+            "leur eſgaid procedé au iuge ment deſdi",
+            "tes informarions, prealablement &amp; ſpa",
+            "remeẽt d’auec les autres, &amp; ce faiſant en",
+            "uoyez abſous, ſur leſquelles Re queſtes",
+            "auroit elté rdonné qu’eniugeant la",
+            "diteCour feroit ce qu’il anpartiendroit:",
+            "Autre Arreſt du dozieſme du dit pre",
+            "ſent mois, par lequelauroir eſté or don",
+            "né entr’autres choſes que l’ophi com",
+            "menceroit a leur eſgard: Autre A rre ſt",
+            "du dix-ſept enſuiuant, par leqel auroit",
+            "eſlté ordonné que M des Martine aux &amp;",
+            "Be’ot A duocats, detenus pri",
+            "ſonniers par l’ordre du Roy, ſeroien par",
+            "leſdtsConſeillers com mis ouys &amp; nter.",
+            "rogez ſur le contenu deſdites informa",
+            "ions:inrerrogatoires a eux faits par leſd.",
+            "conſeillers com mis, leſdits iours &amp;",
+            "i. hui ct dudit preſent. mois, contenans",
+            "leurs confeſſions &amp; dene gat ions: ſout",
+            "conſideré, dit a eſté que la Cour a decla",
+            "ré &amp; declare n’y-auoir eu lIeu de com¬"
+        ],
+        [
+            "prendre en l’aceuſation &amp; eſdites eoncluſions du",
+            "Procur u Geneal, leſdits de Ven olme !uc de",
+            "Ieaufrt Gondy odjuteur, Brouſlel &amp; harron",
+            "faſant les a renuoyez &amp; renuoyent de ladite accuſa:",
+            "tion &amp; ſeront inuiiez de venr prendre leur p ace.",
+            "F i en lP’arlement le vingr deuxeſm lanuier, mil",
+            "ſis cens cinquante. igne, LE TLNNEVR."
+        ]
+    ]
+}

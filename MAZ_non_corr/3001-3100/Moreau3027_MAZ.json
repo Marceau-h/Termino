@@ -1,0 +1,191 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Épernon, Bernard de Nogaret de La Valette (1592-1661 ; duc d')",
+            "Bordeaux (Gironde)",
+            "France -- 1648-1653 (Fronde)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-16",
+            "@who": "AB"
+        },
+        "titre": "Récit véritable de tout ce qui s'est fait et passé tant\n          dans la ville de Bordeaux qu'aux environs de la ville; de Bordeaux, le 13 septembre\n          1649.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": "Anonyme",
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1649-09-13",
+                "#text": "publication datée du 13 septembre\n            1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:000000007740264X",
+            "persName": {
+                "forename": "Jean",
+                "surname": "Le Rat"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "RECIT",
+            "VERITABLE",
+            "DE TOVT CE QVI C'EST FAIT",
+            "&amp; paſſeé, tant dedans la ville de Bordeaux",
+            "qu’aux enuirons de la ville.",
+            "De Bordeaux le 13. Septembre 1649",
+            "Iouxte la Copie imprimée à Bourdeaux.",
+            "M. DC. XLIX"
+        ],
+        [
+            "N E TT",
+            "E",
+            "V II A. L",
+            "T g evr 71 o oe¬s",
+            "2 V ZI E9 1",
+            "fait &amp; paſſ́ tant dedans la ville",
+            "de Bordeaux, qu’aux environs",
+            "e, de la ville.",
+            "!",
+            "De Bourdeaux le 1s. Septembre. 149.",
+            "J E dernier Courier qui partit d’icy pour",
+            "LLParis le Ieudy neufieme iour de ce mois",
+            "ut pris par les gens de Monſieur d’Eſpernon,",
+            "ce qui a empeſche que vous n’aués pas receu la.",
+            "ſuitte des nouvelles de ce pays, ie vous man¬",
+            "dois enr’autre choſe que le pacquet du Roy",
+            "avoit eſteé ouvert par Monſieur de Sauuebœuf",
+            "au Conſeil de Guerre: &amp; enſuitte porteé au",
+            "Palais on n’a point touché pr reſpect a la",
+            "lettre du Roy",
+            "L’on a trouve dunsle pacquet les articles de¬"
+        ],
+        [
+            "v",
+            "4",
+            "paix, vne Declaration poreant amniſtie gene¬",
+            "ralle &amp; vne lettre de Monſieur de l’Aurilſiere",
+            "eſcripre à Monfieur de Comminge par laquel¬",
+            "le iſ exorte d poarter onſieund ſpernn,",
+            "vn accomo dement attendant qu’on ſoit e¬",
+            "eftat de punr exemplairement les rebelles e",
+            "Bourdeaux &amp; de Suyenne. Le diſcours s’ac¬",
+            "corde ec luy que l ſieur dl’ Arillote eſcri¬",
+            "voit i Monſieur d’A genſon¬",
+            "I’on a roué dans es déſpechet vnelettre",
+            "de ſon Eminance eſcriteà Monſieur d’Eſpernõ",
+            "par laquelleil lay eoaſeille deftaire demolir luy",
+            "meſme la Cicadelle de Lborneaffin que Ie peu¬",
+            "ple luy en ayt obligation luy recommandant de",
+            "gagner l’eſprit du peuple autant qu’il le pour¬",
+            "a, ros reconnoiſſons bien la conſequence de",
+            "ce Cõſeil, &amp; pour la perfection de cette paix, il",
+            "y duit dans ladie deſpeche vn Arreſt duCo¬",
+            "ſeil d’enhauſt qui aſſe los Arreſt de ce Parle¬",
+            "ment donné a la deſcharge du peupleſur la ve¬",
+            "atdes Belaionis le Iuillet, &amp; d’Octo¬",
+            "bre 6 s. rdonne quela Couf des Ardes ſea",
+            "reſale Eufdeau, &amp; le Bureau de a Con¬",
+            "neftableſe traſfeéà ’Blaie pour y leverles",
+            "deu eſcus par t oneaurx de touses autres droits",
+            "impoſeés ſr les Marhndiſes, &amp; denŕs entrant",
+            "&amp; ſortant tant ſur prnvilegiez que nonprvile¬",
+            "giéstellemene que les Bourgois de Bourdeaux",
+            "paye"
+        ],
+        [
+            "5",
+            "paierot quatre eſcus au lieu de deux, I’on dit que",
+            "dans l’vn des artidles de paix qu’il eſt porte que",
+            "noſtrearmee ſera congediée, &amp; envoyée en",
+            "Caralogne, &amp; qu’vn mois apres on devoit faire",
+            "xeeuter l’Arreſt du Conſeil, &amp; beaucoup d’au¬",
+            "res pauſions l’ on croitiey quele ſujer de l’en¬",
+            "voy de Monfieur de lavie A dvoeat Generar,",
+            "en l’execuuon de c’eſt Arreſt qui au lieu de do,.",
+            "nerla paixa cette Provimce la ruine entiertm et",
+            "eiudlrodt deonie le ſou de l rie ſei eun",
+            "auPalement ſurtoutes les propoſirion ſor ſ.",
+            "qnoele oni na pns eonoue delſiere l pluſpau",
+            "cou qui lesontenendu diſent que eſ ,",
+            "lernuonilinns de deſ eur reun rertene pn",
+            "euopnnene ur n anr le ſurle ſein urepe",
+            "niu urnniodlſnie ieien e ne liie lee",
+            "Ps lil de prnuun pnl nur pur loqu ul",
+            "dſon ſtre preſtdeonende l un ae e ler rilee",
+            "enrledis lamnet a donne areſl le e",
+            "noe on l onſeile d ln u le ſperno e",
+            "n on ni de n pn nouie eree e ene",
+            "aeieden oaune oniſe raileuei",
+            "aeiene neuie eionena deue iu leſ",
+            "leſen e eonus p liue le nuinernene",
+            "ai enle ene en dinilesnanſeo ſe ne ne",
+            "lnieo re neſe nrinu leun ene e",
+            "eluſ ne ni none nelin eui e ee",
+            "n le deeeedueapei, e&amp; onp l le"
+        ],
+        [
+            "les Canons de Monſtrie font mervellle, os",
+            "tranch́es du coſte des Chartreux ſont advan¬",
+            "ces d’hyer iuſques au foſſedu grand Buolevert,",
+            "les aſiegés du chateau firent ſortie mardy au ſoir",
+            "la nuit: mais ils ont eſté bien repouſſez nous",
+            "auons vne baterie qui ioura ce iourd’huy pnes les",
+            "carmes, les tranchées qu’on a fait pour enpeſ¬",
+            "cher le ſecours de la place, ont retardé quelque",
+            "iours la priſe du chateau, mais nous eſperons",
+            "que par le prochain Courier nous enpourrons",
+            "mandet la priſenous avons quatre bonne bat¬",
+            "teriées, vne ſur les pilliers tutelli, &amp; vne ſur",
+            "les Chartreux, &amp; vne ſur le Gay du Chaſteau",
+            "Rouge, l’autre du coſté de la cordelier.",
+            "Nous avons advis que Monſieur d’Eſper¬",
+            "non à reſoln de tanter le ſecours, ſoit par",
+            "tcrre ou par Mer, ce qui fait que nous ſom¬",
+            "me: toutes les nuits ſous les armes.",
+            "Il y a des Coureurs au trauers francs Ba¬",
+            "teaux plats chargeées de Farine, auec du Ca¬",
+            "non parties de ces troupes trauerſerent hier,",
+            "&amp; avant hier. Apotanſac s’il fait ſon effort",
+            "pnr terre, infalliblement il ſera battu, &amp; s’il y",
+            "vient par la Riviere il le ſera encore mieux, &amp;",
+            "il ne vient pas ſecourir cette place apres l’a¬",
+            "uoir reloſu dans ſon Conſeil de Guerre il ſe",
+            "pert derepuution d’autre coſte s’il ne reüſſit",
+            "pes que le chaſteau ſoit à nous il verra bien"
+        ],
+        [
+            "1.",
+            "ecſ anres la, priſe plus de huit mil hommes",
+            "à cés trouſſes, iamais on a veu des gens plus re¬",
+            "ſolus que nos habitans, à bien faire ou perir ge¬",
+            "nereuſement, enfin nous ſommes à la vueille",
+            "d’vn grand combat ſi l’ennemy ſe preſente ce",
+            "ſoir pour le ſecours, comme l’on leroid.",
+            "FIN."
+        ]
+    ]
+}

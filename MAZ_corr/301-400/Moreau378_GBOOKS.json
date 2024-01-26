@@ -1,0 +1,175 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "subject": "Parlement de Paris",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt du conseil d’État, portant commandement, au\n          parlement de Paris et de Pontoise, de se rendre au château du Louvre, le mardi, 7 heures\n          du matin, donné, à Saint-Germain-en-Laye, le 18 octobre 1652.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121754977",
+            "orgName": "Conseil d'État"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-10",
+                "#text": "octobre 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "O",
+            "HH l",
+            "A",
+            "co seu",
+            "T",
+            "DESTAT",
+            "Portant commandement au",
+            "Parlement de Paris &amp; de",
+            "Pontoiſe, de ſe rendre au",
+            "Chaſteau du Louure, le",
+            "Mardy 7. heures du matin.",
+            "mi à Sane Seuain ayr, le die hui",
+            "fiéme Otobre 6sz.",
+            "8",
+            "A",
+            "ie",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ord. duRoy.",
+            "Auec Priuilege de ſa Maieſté."
+        ],
+        [
+            "2?",
+            "ses",
+            "Erarcr pes roſones",
+            "du Conſeil d’Eftat.;",
+            "O V I S par lagrao",
+            "t de Dieu Roy de Fran",
+            "8",
+            "ee &amp; de Nauarre:",
+            "us cux qui ces preſentes",
+            "Lettres verront: Salut. Ayans",
+            "eſté ſupplépar tous les Cbops",
+            "denoſtrebonne ille de Panis,",
+            "de vouloirreſtabli leepos&amp;",
+            "la tnqulit́&amp; fotifipar",
+            "oſtre preſence lesbmiihs in",
+            "tentions de la’ meillmepartie",
+            "A i",
+            "ru"
+        ],
+        [
+            "4",
+            "de nos Sujets affectionmnez à",
+            "noſtre ſeruice en ladite Ville,",
+            "eſtãs bien aſſeurez par les ma",
+            "ques qu’ls nous ont nouelle",
+            "ment données de leur fidelité,",
+            "que nous y receurohs toute",
+            "l’obeyſſance quinouseſtdeuë:",
+            "Cesraiſonsjointes aà̀ l’affection",
+            "que nous auonstouftourscon",
+            "ſeruée pour noſtre bonne ville",
+            "de Paris, comme la Capitale",
+            "de noſtre Royaume Nous",
+            "ont fait piendre reſolution",
+            "daorder leursſupplicatios,",
+            "-ce quils oht deſiré de Nous, &amp;",
+            "retournerundy . dupreſent",
+            "mois,"
+        ],
+        [
+            "5",
+            "mois, en noſtredite ville de Pa",
+            "rs, pour y reſtablirtoutescho",
+            "ſesdans leurpremier ordre, &amp;",
+            "comne elles eſtoient aupara",
+            "uant es mouuemens. A ces",
+            "cauſes, &amp; autres bonnes conſi",
+            "derationsà cé Nous mouuãs,",
+            "deil’auisde noſtré Conſeil, ou",
+            "eſtoiene la Reyne noſtre tres",
+            "honotes ane &amp; Mere, plu",
+            "feuts Ptinées, Dues, Pairs, &amp;",
+            "Officiers de oſte Couron",
+            "pe, &amp; autres grands &amp; nota",
+            "bés lpéoſunnages de noſe",
+            "Cohſeil, ayans reſolu de tenir",
+            "noſtre Liude Iuſtiçe l Mardy",
+            "B"
+        ],
+        [
+            "6",
+            "22. de ce mois, ennoſtre Cha",
+            "ſteau du Louure Nousauons",
+            "ordonné &amp; ordonnons à tous",
+            "nos Preſidens, Conſeillers, &amp;",
+            "autres Officiers de noſtre Par,",
+            "lement de Partis, de ſe rendre",
+            "prés de Nous ledit iour de",
+            "Mafdy ſept heures du matins",
+            "pour y entendre noſtre volon",
+            "té, &amp; deliberer ſur les affaires",
+            "qui leur ſeront par Nous pr0",
+            "poſé́es. SI donnons en Man",
+            "dementànos Amez &amp; Feaux",
+            "tenans noſtre Coui de Parle",
+            "ment de Paris transferéà Pon",
+            "toiſe, Qu’apres aoir faitpu¬"
+        ],
+        [
+            "7",
+            "blier &amp; enregiſtrer ces Preſen",
+            "tes, ils ayent à ſe conformer à",
+            "e qu’elles contiennent, ſans y",
+            "apporter aucun retardement.",
+            "Car tel eſt noſtre plaiſir, en",
+            "témoin dequoy nous y auons",
+            "faitmettre noſtre Seel Donné",
+            "à ſain&amp;t Germain en Laye, le",
+            "18 iourd’Octobre, l’an de gra",
+            "ce652. Et de noſtre Regne le",
+            "dixiéme: Et ſur lereply, Par le",
+            "RoydeGVENEGAVD.",
+            "oel eeee",
+            "ler, Secretaire du Roy, Maiſoa &amp; Conu",
+            "ronne de France, &amp; de ſes Fiances."
+        ]
+    ]
+}

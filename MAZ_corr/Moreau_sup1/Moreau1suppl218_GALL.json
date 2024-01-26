@@ -1,0 +1,85 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "rondeau",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-28",
+            "@who": "KA"
+        },
+        "titre": "Rondeau contre les mazarinistes",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Antonomaz",
+            "@notBefore": "1651-02-06",
+            "@when": "1651",
+            "#text": "autreou du 6 février 1651"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "2"
+    },
+    "texte": [
+        [
+            "RONDEAV",
+            "CONTRE",
+            "LES MAZARINISTES.",
+            "M. DC. LI."
+        ],
+        [
+            "RONDEAV.",
+            "TRop doucement s’en va le Mazarin,",
+            "Vn poſtllon deuroit aller plus viſte,",
+            "Si dans Paris on lé teoit au erin",
+            "lIl pourroit bienauoir vn mauuais giſte.",
+            "Les Mazarins que l’on voit à ſa ſuitte,",
+            "De ſes amis ou de ceux de ſon train,",
+            "S’en vont diſant, de peur dela pourſuitte,",
+            "Trop doucement s’en va le Mazarin.",
+            "Le vieil Paluau, qui eſt vn homme fin,",
+            "ort eſtonné de voiede bougre en fuirte,",
+            "e le eie eun e enes de edann",
+            "1",
+            "2"
+        ],
+        [
+            "ldeutuſer,&amp; l’on crait qu’il medite",
+            "De reunir pour faire le mutin:",
+            "Maais il ſeroit raitté en Sodomite",
+            "Si dans Paris on le tenoit au crin.",
+            "Enfin c’eſt trop parder d’vn Tabarin,",
+            "Apres l’Arreſt ſi la Franceil ne quitte,",
+            "Et s’il ne prend la routte de Thurin,",
+            "Il pourtoit bien auoir vn mauuais giſte.",
+            "Braues Frondeurs, du Parlement l’eſlite,",
+            "Encores qu’il ſoir bien pouſſé, l’harlequin,",
+            "A le juger ſelon qu’il le merit,",
+            "On dit par tout qu’on traitte le faquin",
+            "Trop doucemee",
+            "a",
+            "ASuv",
+            "1",
+            "’e",
+            "ei ereeis",
+            "E . ei",
+            ": e eien e",
+            "."
+        ]
+    ]
+}

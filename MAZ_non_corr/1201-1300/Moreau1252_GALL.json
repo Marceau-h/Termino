@@ -1,0 +1,183 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2021-11-15",
+            "@who": "AB"
+        },
+        "titre": "Entretiens (les) du prince de Condé et du prince\n                    de Conty, répondant l’un à l’autre par dialogue.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000108647130",
+            "persName": {
+                "forename": "Claude",
+                "surname": "Boudeville"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LES",
+            "ENTRETIENS",
+            "DV",
+            "PRINCE DE CONDE,",
+            "&amp; du Prince de Conty.",
+            "Reſpondant l’vn à l’autre par Dialogue.",
+            "A PARIS,",
+            "Chez CLAVDE BOVDEVILLE, ruë des Carmes",
+            "au Lys Fleuriſſant. 1650."
+        ],
+        [
+            "LES ENTRETIENS DV PRINCE",
+            "de Condé, &amp; du Prince de Contv,",
+            "reſpondant l’vn à l’autrer",
+            "Dialogue.",
+            "Le Prince de ſondé.",
+            "Cieux faut-il me voir au Chaſteau de",
+            "J Vincenne,",
+            "- eſt pour l’ambition dont mon ame é¬",
+            "ſtoit pleine,",
+            "Voulant que tout chacun fut ſoubmis ſous ma",
+            "loy.",
+            "Mais pour auoir vſé d’vne trop grande audace",
+            "Enuers la Majeſté de Louys ce grand Roy,",
+            "Me voicy enfermédans cette forte place.",
+            "Le Prince de Conty.",
+            "C’eſt pour nous vnaffront qui eſt irreparable",
+            "Cher frere de Condé cela eſt reprochable:",
+            "Car noſtre ambition ſembloit auxCieux monter",
+            "Mais fortune à ce coup a bien tourné la chance,",
+            "Car pour auoir voulu ce grand Eſtat heurter",
+            "Nous voila chaſtiez d’vne telle imprudence.",
+            "A ij"
+        ],
+        [
+            "4",
+            "Le Prince de Condé.",
+            "Le peuple de Paris en rit à plaines gorges,",
+            "Il ſe mocque de moy, &amp; de mille eloges",
+            "Qu’on m’a fait autresfois, auec tant de beaux",
+            "vers,",
+            "Des ſtances &amp; des ſonnets, Odes &amp; paralelles:",
+            "Mais voicy auiourd’huy vn terrible reuers,",
+            "Au lieu de m’eſleuer on me nomme infidelle.",
+            "Le Prince de Conty.",
+            "Ne le faut point celer nos ames ambitieuſes",
+            "Rendront à tout iamais nos memoires odieuſes",
+            "Et à n’en point mentir nous nous ſommes ou:.",
+            "bliez,",
+            "On voit bien comme Dieu les orgueilleux ab¬",
+            "baiſſe,",
+            "Ainſi qu’il le veut ils ſont humiliez,",
+            "On le voit bien en nous, car chacun nous de¬",
+            "laiſſe.",
+            "Le Prince de Cond́.",
+            "Il me faut aduoüer, deConty mon che’frere,",
+            "l’ay eſté plus cruel que Neron -&amp; Tybere,",
+            "Superbe, audacieux plus que n’eſſtoit’Tarquin:",
+            "Car mon’anbition me porto’t iuſqu’aux nuës:",
+            "Mais",
+            "¬¬",
+            ".",
+            "e e"
+        ],
+        [
+            "5",
+            "Mais ie voy à preſent par vn fatal deftin,",
+            "Que mes puiſſances ſont de beaucoup abbatuës",
+            "Le Prince dei Conty.",
+            "Nous coniecturions par de trop hautes audaces",
+            "Que de penſer auoir toutes les fortes places,",
+            "Et nous rendre par tout les maſtres abſolus,",
+            "De grandes vanitez nos ames eſtoient remplies,",
+            "Trop de mauuais deſſeins nous auions reſolus:",
+            "Mais nous ne viendrons pas à bout de nos folies",
+            "Le Prince de Condé.",
+            "Faut-il que i’aye veſcu d’vne vie déreiglée,",
+            "Ayant de mes grandeurs l’ame trop aueuglée,",
+            "Voulant de plus en plus m’accroiſtre&amp; agrãdir:",
+            "Mais pour me’ſtre exalté faut que ie m’humilie",
+            "Mon eſprit tout de feu ſe doit bien refroidir,",
+            "Venant à y penſer ie rougis &amp; pallie.",
+            "Le Prince-de Conty.",
+            "Quand la fortune veut elle tourne ſa rouë,",
+            "Et des Grande d’y cybaselle ſe moeque &amp; ioue.",
+            "Elle nous a donné vn terriblefouflet;",
+            "La populace qu’eft contre nous indignéa,",
+            "S’en va bien fulminer contre noſtre lignée,",
+            "B",
+            "¬A¬¬¬¬-¬¬¬¬¬ ¬¬"
+        ],
+        [
+            "6",
+            "Et nous ſerons mocquez du maiſtre &amp; du valet.",
+            "Le Prince de ondé.",
+            "Oiy, car on nous à pris d’vne adreſe ſubtille,",
+            "Et oſtre deſſein eſtà ce coupinutille,",
+            "Ie monde va diſant, que c’eſt vn coup d’Eſtar;,",
+            "Parce que l’on m’a pris contre mon eſperance;",
+            "En effet tout chacun m’appellera vn fat",
+            "Quipenſoit deuenir le maiſtre de la France.",
+            "Le Prince de ſonty.",
+            "Si nous euſſions eſté bien prudens &amp; bien ſa¬",
+            "ges,",
+            "Nous ſerions contentez de nos honneurs &amp;",
+            "chaiges,",
+            "Sans eſtre des grandéurs ſi aſpres &amp; conuoiteux;",
+            "A quoy nous ont ſeruy nos dignitez &amp; grades;",
+            "Nous en faiſions par tiop des pompes &amp; para¬",
+            "des,",
+            "Et ſembloit à nous’voir que nous fuſſions des",
+            "Dieux.",
+            "Le Priues de Condé",
+            "Au lieu oû me voila je ſuis inconſolable",
+            "¬¬",
+            "Carje ſeray de tous la riſée &amp; la fable,"
+        ],
+        [
+            "vra2",
+            "D’autant que ievoulois par trophaut aſpirẽr;",
+            "On dira que i’eſtois plein d’audace &amp; folie",
+            "De ce que ie voulois de tous lieux m’emparer;,",
+            "Mais qu’à ce coup icy l’entrepriſe eſt faillie.",
+            "Le Prince de Conty.",
+            "Vous voyez qu’vn malheur à nos deſſeini",
+            "ſuccede.",
+            "Il ne ſe trouue aucun que noſtre cauſe plaide,",
+            "Au contraire, l’vn dit, que c’eſt vn coup du",
+            "Ciel",
+            "De ce que l’on a fait vne ſi belle priſe,",
+            "Nous -la faut aualler douce comme du miel:",
+            "Car ie ne crois iamais que ſoyons en franchiſe.",
+            "FIN."
+        ]
+    ]
+}

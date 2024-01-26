@@ -1,0 +1,171 @@
+{
+    "imprimatur": "AVEC PRIVILEGE DE SA MAIESTE.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "subject": "Cour des Aides",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt du conseil d’État du roi, du 29 août 1652, portant\n          injonction, à messieurs de la cour des aydes de Paris, de se rendre, dans trois jours,\n          dans la ville de Pontoise; à faute de ce, déclarés criminels d’Etat, désobéissants et\n          rebelles à Sa Majesté.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121754977",
+            "orgName": "Conseil d'État"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-08",
+                "#text": "août 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2986140",
+            "#text": "Pontoise"
+        },
+        "publisher": {
+            "@ref": "isni:0000000005438555",
+            "@xml:id": "IL_CourantJulien.xml",
+            "persName": {
+                "forename": "Julien",
+                "surname": "Courant"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "¬¬¬ ¬¬¬¬",
+            "7",
+            "i D",
+            "A RR",
+            "1 r",
+            "ES 1I",
+            "CET T",
+            "DVCONSEIL",
+            "D’ESTAT DV ROY,",
+            "Du9. Aouſt 65. Portant injonction à Meſſieurs de la",
+            "Cour des Aydes de Paris de ſe rendre dans trois iours",
+            "dans la vil le de Pontoiſe, à̀ faute de ce declarez criminels",
+            "dEſtat, deſobeyſſans &amp; rebelles à̀ ſa Majeté.",
+            "e",
+            "i",
+            "e",
+            "as",
+            "APONTOIS E,",
+            "Par IVLIENCOVRANT, Imprimeur",
+            "o dinaire du Roy.",
+            "M DC.LI I.",
+            "AVEC PRIVILEGE DE SA MAIESTE."
+        ],
+        [
+            "5¬",
+            "A",
+            "AteeP’i",
+            "EXTRCT DES RESTRE5",
+            "du Conſeil d’Eftat du Roy.",
+            "E Roy ayant ſceu qu’au preiu",
+            "dice de ſa Declaration du .",
+            "LLe ce mois, Contenant les iuſ",
+            "tes cauſes qu’il auroit eu d’or",
+            "donner la tranſlaction de ſa Cour des",
+            "Aydes de Paris en la ville de Pontoi",
+            "ſe, &amp; d’interdire tous ceux de cette",
+            "Compagnié de faire aucunes ſonctions",
+            "de leurs charges iuſques à ce qu’ils",
+            "euſſent ſatisfait à ſon commandemẽt",
+            "ſur les peines portées par ladite De",
+            "claration, leſdits Officiers n’auroient",
+            "pas laiſſé de continuer leur ſceance",
+            "comme ils la renoient auant ladite",
+            "tranſlation, que pour couurir cette",
+            "contrauention de quelques cauſes",
+            "ils auroient mis cette Declaration"
+        ],
+        [
+            "entre les mains du ProcurcurGeneral",
+            "de Sa Maieſté pour en faire changer",
+            "l’adreſſe, &amp; qu’e ncore qu’on leur euſt",
+            "fait ſç̧auoir qu’il n’y auoit aucun cha",
+            "gement à pretendreen la forme qu’el",
+            "le auoit eſteé reſoluë, ils n’auroient",
+            "pas laiſſé́ de perſeuerer en cette deſo",
+            "beyſſance, à quoy eſtant neceſsaire",
+            "de pouruoir promptement pour eui",
+            "ter le preiudſce à ſon authorité &amp; le",
+            "ſcandale que le public en receuroit.",
+            "SA MAIES I E’eſt at en ſon Conſeil",
+            "Enjoint &amp; ordonne aux Officiers de",
+            "ſa Cour des Aydes qui ſont dans la",
+            "ville de Paris ou ailleurs de ſe rendre",
+            "dans t rois iours pour tous delais dans",
+            "la ville de Pontoiſe pour y faire la",
+            "ſonction de leurs charges, &amp; pour",
+            "executer le contenu en ladite Decla",
+            "ration u i: de ce mois, autrement",
+            "&amp; à̀ faute de ce faire dans ledit temps,",
+            "&amp; iceluy paſsé́ elle declare ceux dcl",
+            "dits"
+        ],
+        [
+            "¬¬",
+            "5",
+            "dits Officiers qui continueront aucue",
+            "ne fonction de leursCharges dans lad.",
+            "ville de Paris ou qui aſſiſtecrõtaux aſse",
+            "blees qui s’y tiendront cy-apres, ſous",
+            "quelque preterxte que ce puiſse eſtre,",
+            "deſobeyſsans &amp; rebelles, attaimts &amp;",
+            "conuaineus de crime de leze Maieſté,",
+            "veut &amp; entend que leur procez leur",
+            "ſoit fait &amp; parfait ſelon la rigueur de",
+            "ſes Ordonnanees, que leurs biens",
+            "ſoient declarez acquis &amp; confiſquez",
+            "&amp; les deniers prouenans de la iouyſ",
+            "ſance &amp;vente quien ſera faite appli",
+            "qué́ au payement &amp; entretenement",
+            "deſes gens de guere, &amp; afin que l’e",
+            "emple de leur punition empeſchea.",
+            "l’adue r tous ſes Otficiers &amp; Subiets",
+            "e romber dans de ſemblables ceimes,",
+            "Sa Maleſté a ordonne &amp; ordonne que",
+            "leurs Oſfices ſeront &amp; demeureront",
+            "Pour iamais ſupprimez, ſans qu’ils",
+            "puiſsent reuenir pour quelque cauſe"
+        ],
+        [
+            "&amp; occaſion que ce ſoit en leurfauseur",
+            "ou de leurs reſignataire ou heritiers:",
+            "Enioint à ſon Procûreur General en",
+            "ladite Cour des Aydes, de faire pour",
+            "l’execution dudit Arreſt, outes les",
+            "diligences qui ſeront neceſsaires &amp; de",
+            "la ter aduertie du ſoin qu’il en aura",
+            "pris. Faict au Conſeil d’Eſtat du Roy",
+            "ſa Maieſté y eſtant, Tenu à Compie",
+            "gne le vingt-neufieſme iour d’Aouſût",
+            "mil ſix cens cinquante-deux.",
+            "Signe, DE GVENEGAVD."
+        ]
+    ]
+}

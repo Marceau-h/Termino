@@ -1,0 +1,135 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "avis",
+            "discours adressé"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-07-02",
+        "change": {
+            "@status": "corrected",
+            "@when": "2021-11-10",
+            "@who": "AB"
+        },
+        "titre": "Dernier avis donné aux Parisiens dans la crise des maux\n          de l'État.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "DERNIEB",
+            "ADVIS",
+            "DONNE'",
+            "AVX PARISIENS.",
+            "dans",
+            "la crize des maux",
+            "de l’Eſtat.",
+            "A",
+            "PARIS.",
+            "M. DC. LII."
+        ],
+        [
+            "3. Dernier aduis",
+            "donné aux Pariſiens dans la criſe des maux de l’Eſtat. bien Meſſieurs,",
+            "Monſieur le Prince vous LL trahit il’s’eſt- il acecordé ſeerettement auec 1’",
+            "vos ennemis, &amp; ceux de l’Eſtat pour vous ad perdre -Eſtes-vous eneor dans ce",
+            "ſentimene miurieux ’aà la gloire d’vn Heresquis’eſt expoſeé à̀vos yeux Etqui",
+            "n’auroit poinfrazardé ſa vie,ſes biens, ſesamis, pour veas defaireé d’vne adrmée dé",
+            "voleurs, sSil n’eſtoit dans des lenriments dignes des Bour Sons,",
+            "&amp; plas digneés encori de ſaeincerité Vouis l’a ’uez ve",
+            "cômnbatete ’Vos auez veute mépris qu’il a ntde méãgePlaie: Vousl auëe veu eomme il",
+            "l’a piodgoit pour eonſeruer a voſtre, &amp; ſi vous aoez pris la peire",
+            "dehionterſur vos murailles, vous auez Heneer oso’ ſês ’ebtps ’eſpée qu’il ’a donré",
+            "pout ſerirbefertseld ṕes̈ evraiy quleedës hlié euit terhfné vos maux,ſr vons",
+            "l’euſiex tant foft́ peu ſe cdnlé’Et-qe-Vous ne ſerirez plusdans",
+            "l’apprehenſion ’eſtee ex peez àle-ej rannie du Mtaarin, ivous eu <lb rend=\"¬\"",
+            "break=\"no\" />ua"
+        ],
+        [
+            "ſiez autant aimé ce braue Prince qu’il vous a aimez: <lb",
+            "rend=\"¬\" break=\"no\" /> 4  Vous vous laiſe charmer pat cent pains que la j Cour",
+            "vous enuoye; Etvous ne voyezpas qu’elle t’a d’autre deſſein que d’en rapporter cent",
+            "ſeptiers de bled; &amp; qu’auec les meſmei charrttes qu’elle faitl femblant de",
+            "vous donner dequoy viure, elleemme ne des nmaniedons de goerre",
+            "poutvoun faure moutir. Mais le mal heur eſt, que vous vous donnez aà̀ vnpeu d’apparence,",
+            "&amp; que vous ne voyez pas que Mazarin &amp; la Reyne vous flattent, pare qu’ils",
+            "voyent bien qu’ils ont beſoin de vous-meſme, poarſe defaire de vous: Sçachez",
+            "qu’il eſt remps de vous deſabuſer; que la Reyne eſt Eſpagnolle; que le Mazarineſt lta <lb",
+            "rend=\"¬\" break=\"no\" />lien, &amp; que Meſſieurs les Princes ſont les Bnfans de la",
+            "maiſon Royalle, qui ne ſçauroient choquer la Royauté, ſans ſe choque5 eux -meſmes,",
+            "&amp; quineſca roient ſe maintenir, qu’en maintenant Sa Maieſté.;",
+            "Si ſon Alteſſe Royale n’agiſſoit que par ſes inclina tions toutes",
+            "pures, vous le verriez voler au traues des uads pourconmuinere quil eſt ntres ter! Mais",
+            "ſa grande bonté́ ne le ſoumer queop desin preſſions eſtrangeres, qui débauchept par",
+            "leurs dete¬! ſtables intrigues la generoſité de ſonEſptit tput bied <lb rend=\"¬\"",
+            "break=\"no\" />faiſant: Et vous nereſſentez les effets de cet iiuſte aſcendant que yos",
+            "ennemis ons ſur ſon Eſprip, qule parce qu’vn infame Coadiuteur le poſſede ſoue le faux",
+            "pretexte de cetre trompeuſe monſtre de pieteé, qu’il fais ́clater à la faueur",
+            "deſoamis &amp;e de ſop  ehapeau"
+        ],
+        [
+            "3 ehapeau’rouge  Votre",
+            "obeyſſan ee eſt indigne du nom François, ſi vous la rendez à d’autres qu’à voſtre",
+            "Roy, &amp; aux  Princes de ſon Sang: Et puis qu’il n’y a u’eux qui riſ <lb rend=\"¬\"",
+            "break=\"no\" />quent tout ce qu’ils ont pour vous conſeruer la hber ré:",
+            "Eſt-ilpoſſible que vous ſoyez aſſez inſenſibles, pour voir vn bougre, vn bougeron, vn",
+            "ltalien, &amp; pour tout dire vn Mazarin, qui iouyt des plaiſis de Ia Cour entre",
+            "les bras &amp; les careſſes de ſes Mignõnes, pendant que vos Compatriotes, vos",
+            "Braues, vos lllu ſtres, ie veux dire, les Nemours, les Beauforts,",
+            "les Princes de Tarante, les Rochefoucauts, les Tavan. nes, les Valons, les",
+            "Ierzais, les Guitaux, &amp; pour en eherir par deſſus les Princes",
+            "du Sahng de vos Roys ’entrégorgent pour cimenter voſtre Paix de leur propre",
+            "ſang.  Ah! laſcheté qui doit vous arracher les larmes des yeux, &amp; vous",
+            "mettre les armes à la main, pour commencer la gueriſon de vos maux. Premirere <lb",
+            "rend=\"¬\" break=\"no\" />ment, par vos maladies interieures, c’eſt àdire, par la perte",
+            "de M. de l’Hoſpital, du Coadiuteur, du Pre uoſt des Marchands, de",
+            "la Chevreuſe, &amp; de tous les mauuais domeſtiques de S. A. R. qui ſont les pe <lb",
+            "rend=\"¬\" break=\"no\" />ſtes de voſtre ſanté, &amp; les cometes trop funeſtes de os",
+            "mal-heurs. Si les chefs de vos diuiſions ſont deſtruits, les fa <lb rend=\"¬\"",
+            "break=\"no\" />ctionnaires tourneront caſaque: ceux que l’aveu",
+            "glement engage dans vn contraire party, ſe range 1"
+        ],
+        [
+            "ront",
+            "dans leur deuoir: Il n’y aura plus que les enno mis de Mazarin qui tiendront le haut",
+            "du paué: pour eſtre François il faudra dire qu’on elt ennemy de cet ennemy de",
+            "l’Eſtat: Et les troupes qui nous reſi ſtent maintenant, parce que",
+            "leurs chefs quiſont Ma 2arins ſont de la faueur, changeront",
+            "bien-toſt de qualité́, pour n’épouſer que vos intereſts. giſſez donc auec vne",
+            "vigueur, qui ſoit digne de vous: N’abandonnez iamais S. A. R. qu’elle n’ait abandonné",
+            "premierement tout ce qu’elle protege de Vauriens &amp; de Faquins: Teſmoignez aà̀ M.",
+            "le Prince par vne correſpondance d’affection, qu’il a ſubiet de vous aymer,",
+            "puiſque vous l’aymez enre uanche; devoiez vous à ſa ſuitre pour",
+            "le ſuiure pat tout, ou ſa prudence, ſa valeur &amp; ſon affection vous voudronr",
+            "mener, &amp; tenez pour certain, que ſi vous le ſecondez, la perte de Mazarin &amp;",
+            "des Mazarins, n’eſt pas vn affaire de quatre iours. FIN A"
+        ],
+        [
+            "<pb",
+            "n=\"8\" />"
+        ]
+    ]
+}

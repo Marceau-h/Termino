@@ -1,0 +1,111 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "ordonnance",
+            "texte officiel"
+        ],
+        "subject": [
+            "Police",
+            "Alimentation"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-04",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Ordonnance de police, par laquelle il est enjoint à tous\n          les boulangers, tant de gros que de petit pain, d'y mettre leur marque et le nombre de\n          livres qu'il pèsera ; comme aussi il leur est fait défense de vendre la livre à plus haut\n          prix qu'il n'est porté par la présente ordonnance, sur les peines y mentionnées. Du\n          sixièmejour de mars 1649.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-03",
+                "#text": "mars 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "-L",
+            "S8o20",
+            "D TT",
+            "E",
+            "ORDONNANCE",
+            "DE POLICE,",
+            "PAR LAQVELLE IL EST ENIOINT",
+            "à tous les Boulengers, tant de gros que petit pain,",
+            "d’y mettre leur marque, &amp; le nombre de liures",
+            "qu’il peſera: comme auſſi il leur eſt fait defenſes",
+            "de vendre la liure à plus haut prix qu’il n’eſt por",
+            "t par la preſente Ordonnance, ſur les peines y",
+            "mentionnées.",
+            "Du ſixiéme iour de Mars 1649.",
+            "o",
+            "A PAR1S,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Maieſté."
+        ],
+        [
+            "4",
+            "qu’à raiſon de deux ſols la liure le pain bis",
+            "blanc dix-huit deniers la liure; &amp; le pain des",
+            "Pauures vn ſol la liure. Sur leſquels pains leur",
+            "enioignons de mettre leur marque &amp; le poids.",
+            "Defenſes à eux de contreuenir a noſtre preſente",
+            "Ordonnance, à peine de quatre cens liures",
+            "d’amende, &amp; de punition corporelle, s’il y échet.",
+            "Enioignons au ſurplus aux Boulengers de petit",
+            "pain, de garder &amp; obſeruer l’Ordonnance, ſur",
+            "les meſmes peines. Enioint aux Commiſſaires",
+            "du Chaſtelet, d’y tenir la main, &amp; de nous faire",
+            "rapport par chacun iour des contrauentions à̀",
+            "la preſente Ordonnance. FAIT par nous Meſ",
+            "ſire DREvX DAvBRAY Conſeiller du Roy,",
+            "Lieutenant Ciuil au Chaſtelet de Paris, le6.!",
+            "iour de Mars 1649.",
+            "Signé, AVBRAY, BONNEAV.",
+            "HVBERT Greffier,",
+            "Le Samedy 6. iour de Mars16̃49. l’Ordonnan",
+            "ce cy-deſſus a efte leuë &amp; publiée par moy Iean Ioſ",
+            "ſier luré Crieur ordinaire du Roy en la Ville, Pre",
+            "uofté́ &amp; Vicoteé́ de Paris, par les Carrefors or",
+            "dimaires &amp; lieux accouftumez de cette Ville &amp;",
+            "Faux-bourgs. Ace faire i’auois trois Trompettes,",
+            "Ieau du Bos, Iaeques ls Frain, &amp; vn atre com",
+            "nis de Didier Ordin, dis Champagne, ſure",
+            "Trompettes.",
+            "Signe, IOSSIER."
+        ]
+    ]
+}

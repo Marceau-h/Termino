@@ -1,0 +1,61 @@
+{
+    "imprimatur": null,
+    "corrector": true,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "poésie",
+            "burlesque",
+            "satirique"
+        ],
+        "subject": "Journée des\n            barricades",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1648-04",
+        "change": {
+            "@status": "corrected",
+            "@when": "2021-11-09",
+            "@who": "AB"
+        },
+        "titre": "Agréable récit de ce qui s’est passé aux dernières\n          barricades de Paris, décrites en vers burlesques.",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-09",
+                "#text": "9 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-13",
+                "#text": "13 avril 2021"
+            }
+        ],
+        "author": {
+            "@ref": "isni:0000000000029242 ",
+            "persName": {
+                "forename": "Claude-Charles de l'Aubespine",
+                "surname": "Verderonne"
+            }
+        },
+        "pubDate": {
+            "@source": "Carrier",
+            "@when": "1649-02-15",
+            "#text": "15 février 1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000371172953",
+            "@xml:id": "IL_BessinNicolas.xml",
+            "persName": {
+                "surname": "Bessin",
+                "forename": "Nicolas"
+            }
+        },
+        "nbPages": "23"
+    },
+    "texte": null
+}

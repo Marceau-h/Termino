@@ -1,0 +1,171 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subject": [
+            "Scarron",
+            null
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-07-13",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-06",
+            "@who": "ZC"
+        },
+        "titre": "La calotte de Mazarin renversée. Sur la mort de son neveu\n          Manchiny, par le sieur Scaron .",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@role": "dubious_author",
+            "@source": "Moreau",
+            "@ref": "isni:0000000120990126",
+            "persName": {
+                "forename": "Paul",
+                "surname": "Scarron"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "LA",
+            "CALOTTE",
+            "DE MAZARIN",
+            "Renuerſée,",
+            "SVR LA MORT DE SON NEPVEV",
+            "MANCHINY.",
+            "Par le Sieur Scaron.",
+            "A PARIS,",
+            "M. DC. LII."
+        ],
+        [
+            "LA CALOTTE RENVEPSEE",
+            "de Mazarin: Sur la mort de Manchiny",
+            "ſon Nepueu.",
+            "A AZARIN pour faire le Docde,",
+            "A auſſi pris vne Calote,",
+            "nde faire le Pedent,",
+            "Le capable &amp; l’Homme Prudent:",
+            "Et de mieux tenir affulée,",
+            "Sa Teſte qu’eſt chauue &amp; pelée,",
+            "Et cacher deſſous ce Rondeau",
+            "Les malices de ſon cerueau,",
+            "Las, que fut-il en Italie,",
+            "Pour y exercer ſa Folie:",
+            "Car c’eſt bien contre noſtre gré,",
+            "Qu’en France il eſt iamaſs entré.",
+            "Son Ame du Diable teatée,",
+            "Auec ſa Teſte Calottée,",
+            "Neous eſt venu porter mal-heur,",
+            "Et ecauſer toute la rumeur,",
+            "Que luy &amp; toute ſa couuée",
+            "En peuſſent elle-eſtre creuée,",
+            "Pour auoir trop emply leur ſae,",
+            "Ne nous laiſſant ny frie ny frae,"
+        ],
+        [
+            "Que ſa Calotte Satinée,",
+            "Au Diable fut elle entreinée,",
+            "Mais i’entends auee le Porteur,",
+            "Qui eſt vn affamé voleur,",
+            "Pour auoir pris noſtre maſille,",
+            "Cela nous eſchaufe la Bille,",
+            "Car ſi nous le pouuions tenir,",
+            "Nous le ferions bieſouſtenir,.",
+            "Mais il ne faut paqu’il ſe frotte",
+            "D’apporter icy ſa Calotte,",
+            "Qu’il a miſe toute a rebours",
+            "Parce que depuis quelque iours,",
+            "Il eſt deuenu tout fantaſque,",
+            "Semble d’vnHypocondriaque,",
+            "Auee la mine d’vn Bany,",
+            "En regrettant ſon Manchiny?",
+            "Il a renuerſé ſa Calotte,",
+            "Tant il pleure &amp; ſe déconforte,",
+            "Diſant helas! mon cher Nepueu,",
+            "Tu as quitté bien-toſt ce lieu,",
+            "Faut-il que tu ſois mert ſi ieunes",
+            "Ie n’ay plus dieſperance aucune.",
+            "Las ie me voy tour déconflt,",
+            "Ie crains de perdre mon credit,",
+            "En vn mot deſia ie commance",
+            "A viure dans ameffiance, i",
+            "Car ie crains que quelques aceidẽts",
+            "Ne"
+        ],
+        [
+            "Ne m’arriue mal-gré mes dents,",
+            "I’ay bien ſujet de me déplaire,",
+            "Ne faiſant pas bien mon affaire,",
+            "Car en voyant mon Nepueu mort,",
+            "Ie ne croy pas venir au port:",
+            "Mais bien de trouuer mon n’aufrage",
+            "Ce qui ſait que ie perds courage.",
+            "Enſin ce Diable Mazarin,",
+            "Prenoit ſa Calotte en ſa main,",
+            "Puis la re mettoit ſur ſa Teſte",
+            "En demenant piteuſe Feſte,",
+            "La mettant s’en deſſus deſſous",
+            "Faiſant les grimaces d’vn Foux,",
+            "Croyant auoir mauuaiſe iſſuë,",
+            "D’vne telle deſconuenuë,",
+            "Et pour en parler en vn mot,",
+            "Cét ignorant ce Maiſtre ſot,",
+            "Auee que ſa belle Callotte,",
+            "Meitte bien qu’on le ballotte.",
+            "Il faut dire la verité,",
+            "Que ie faiſois difficulté,",
+            "Comme de porter la Marotte",
+            "e me couurir d’vne Calotte:",
+            "Elle eſt fort commode en tout lieu;",
+            "Nommément au Temple de Dieu,",
+            "u Palais;au champs, &amp; au Louure",
+            "Du à toute heure onſe deſcouure:"
+        ],
+        [
+            "8",
+            "es plus braues de ce Royaume",
+            "u et de ce petit heaume,",
+            "Pour1'S que ie n’cnends pas,",
+            "Ca le a de puiſſans appas,",
+            "Ceſteenerable Calotte,",
+            "Sur noſtre ſiecle qui radotte,",
+            "Ou pour monſtrer vn eſprit ne:",
+            "Il faut faire le Symonet,",
+            "Il ſe faut de guiſer la teſte",
+            "Pour dire que lon n’eſt pas beſte,",
+            "Qu’on eſt eſloigné du commun,",
+            "Pour moſtrer oque l’on eſt quelqu’vn;",
+            "Affin qu’en paſſant par la ruë",
+            "Le menu peuple nous ſaluë,",
+            "C’eſt le train de ſe maintenir,",
+            "C’eſt le moyen de paruenir,",
+            "Et de toſt faire ſa Fortune,",
+            "C’eſt pourquoy i’en veux portervne:¬¬¬",
+            "Ay-je point attendu troptart?",
+            "Et oüy, que le Diable y ait part.¬",
+            "FIN."
+        ]
+    ]
+}

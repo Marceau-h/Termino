@@ -1,0 +1,80 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Remontrance de la noblesse à monseigneur le duc\n                    d'Orléans pour estre admise, conjointement avec le clergé, à l'audience de Leurs\n                    Majestés et pour obtenir d'elle (sic) le temps et la députation libre pour la\n                    tenue des Estats généraux, prononcée par monsieur le comte de Fiesque.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1651",
+            "#text": "1651"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "leurs Majeſtez; afin que tous enſemble nous",
+            "leurs rendions nos reſpects, &amp; les tres-humbles",
+            "remerciemens d’auoir voulu honorer noſtre",
+            "Aſſemblée de l’enuoy de Monſieur le Mareſ¬",
+            "chal de l’Hoſpital, &amp; que nous faſſions enten¬",
+            "dre les iuſtes aiſons que nous auons de ne nous",
+            "point ſeparer. Nous auons auſſi ordre d’en re¬",
+            "preſenter quelques vnes des principales à",
+            "VOSTRE ALTESSE ROYALE.",
+            "La premiere à eſté que la conuocation des E¬",
+            "ſtats generaux eſtãt ſate durant la Regéce, pour",
+            "n’eſtre tenus que das la minorité, nous auõs tou¬",
+            "te ſorte de ſujets de craindre que le Roy ne les",
+            "reuoque quãd il ſera majeur, &amp; par conlequand",
+            "que la grace que leurs Majeſtez nous font par",
+            "cetre cõuocatiõ ne ſoit infructueuſe&amp;sãs effect.",
+            "La ſeconde, qu’il eſt porté par la lettre qu’on",
+            "eſcrit aux Baillifs pour ce ſujet, qu’on ne pro¬",
+            "cederoit point à de nouuelles eſlections, &amp;",
+            "que celles qui furent faites en 649. auroiẽt lieu;",
+            "ce qui ſeroit contreuenir à vn des articles de la",
+            "paix de Paris, qui porte en termes expres que",
+            "tont ce qui auroit eſté fait de part &amp; d’autre",
+            "depuis le. de Hanuier, iuſques au iour de la",
+            "concluſion de la paix ſeroit declaré nul, &amp; de",
+            "plus que ces eſlections ayant eſté faites dans vn",
+            "temps"
+        ]
+    ]
+}

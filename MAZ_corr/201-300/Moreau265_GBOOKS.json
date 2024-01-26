@@ -1,0 +1,109 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-30",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, en faveur des locataires\n          et sous-locataires des maisons de la ville et fauxbourgs de Paris, pour leur décharge du\n          loyer de Pâques dernier, avec règlement pour les baux, rentes foncières et autres,\n          constituées pour la construction des bâtiments, donné sur les requêtes des propriétaires\n          desdites maisons, et pour l’exécution des arrêts précédents des 10 et 14 présents mois et\n          an.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-04-27",
+                "#text": "daté du 27 avril 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "Arreſt le la Cour",
+            "DE PARLEMENT.",
+            "EN FAVEVR DES LOCATAIRES",
+            "&amp; Sous-locataires des Maiſons de la Ville &amp; Faux",
+            "bourgs de Paris, pour leur deſcharge du loyer de",
+            "Paſques dernier, Auec Reglement pour les Baux,",
+            "Rentes foncieres &amp; autres conſtituées pour la",
+            "conſtruction des Baſtimens.",
+            "Donné ſur les requeſtes des Proprietaires deſdites Maiſons, &amp; por l’exe",
+            "cution des Arreſts precedens, des 10. &amp; 14. des preſens mois",
+            "&amp; an.",
+            "Du 27. Auril 1649.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "EXTRAICT",
+            "DES REGISTRES",
+            "DE PARLEMENT.",
+            "LA COVR ayant deliberé ſur la",
+            "requeſte preſentée levingt- deuxiéme",
+            "de ce mois &amp; an, par les Proprieaires",
+            "des Maiſons de cette Ville &amp; Faux",
+            "bourgs de Paris, Bourgeois &amp; Habitans de la",
+            "dite Ville, &amp; veu les Concluſions du Procureur",
+            "neral du Roy ſur ladite requeſte, enſemble",
+            "les Arreſts des dix &amp; quatorziéme de ce mois &amp;",
+            "an, A ORDONNE &amp; ordonne, Que leſdits",
+            "Aireſts ſeront executez; ce faiſant, tous Mar",
+            "ands qui ſont Artiſans, &amp; tous Locataires",
+            "pour reloüer, &amp; Sous-locataires, qui tiennent",
+            "aà louage partie ou portions des Maiſons louees",
+            "n Chambre garnie ou non garnie, en cettedite",
+            "Ville &amp; Faux bourgs, demeureront deſchargez",
+            "quaier eſheu à Paſques dernier ſeule¬"
+        ],
+        [
+            "ment: Fait defenſes de preſenter aucune reque",
+            "ſte en nom collectif ſous le nom des Proprie",
+            "taires, ſauf à chacun en particulier aà ſe pour",
+            "uoir pardeuant les Iuges ordinaires pour la di",
+            "minution pretendu qu’il peut deuoir, d’vn",
+            "quartier d’arrerages des rentes foncieres &amp; au",
+            "tres conſtituees pour l conſtruction des baſti",
+            "mens des Maiſons dont les Locataires ſe trou",
+            "uent deſchargez, defenſes au contraire. FAICT",
+            "en Parlement le vingt-ſeptiéme Auril mil ſix",
+            "cens quarente-neuf.",
+            "Signe, DV TILLET.",
+            "Collationné à l’original par moy Conſeiller Secne",
+            "taire du Roy &amp; de ſes Finances."
+        ]
+    ]
+}

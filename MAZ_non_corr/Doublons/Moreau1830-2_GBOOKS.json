@@ -1,0 +1,257 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre contenant ce qui s'est passé en\n                    l'assemblée du Parlement, depuis le (sic) dimanche et lundi 14 et 15 mars 1649,\n                    sur le sujet des articles signés à Ruel.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "l r1l 7",
+            "-.",
+            "!l D",
+            "LHu",
+            ".",
+            "I TTD*",
+            "AEII RE",
+            "CONTENANT",
+            "QVI SE ST pSSe",
+            "en l’Aſemblée du Parlement de.",
+            "pis le Dimanehe &amp;e lundy qu",
+            "torre &amp; quinzieſme Mars rmi ſ",
+            "e quaranre neuſ, ſur le ſuiet de",
+            "Articles ſignéesa Ruei",
+            "AAâA",
+            "4pg¬",
+            "one lnr lſide covi ou¬",
+            "erereerpuee"
+        ],
+        [
+            "a",
+            "2",
+            "ILETTRE CONTENA",
+            "r E",
+            "e qui s’eſt paſe en l’aſembe",
+            "du Parlement, depuis le Diman",
+            "che &amp; Lundy l &amp; quinieſme",
+            "Mars 1649. ſur le ſujet des aru",
+            "cles fignées à Ruel.",
+            "g osEVR.",
+            "1 Pi, que nos Letres ne ſont plus ſ",
+            "a e peus ſn itnn al in ſorie e lene",
+            "lus n eidi e , la, prnis l’oeeafon i e le",
+            "d vous depeſeher de Laquais, pout appen",
+            "dre de vous nouueles ceraines de ou,",
+            "qui e pate l Conſeenee de Pael le",
+            "Laurier don les earoſes de Meaueuns po"
+        ],
+        [
+            "3",
+            "Deputz eſtoient enuironnez nos faiſoie",
+            "eſperer qu’ils rapportoient la Paix, &amp; u’ils",
+            "auoient vaincasl celaqui en eſtoile pinci¬0",
+            "pal ohſtaœle Mis le Refultae des aſeimnbléds",
+            "d’hier &amp; d’aujourd’huy nous a fait voirq",
+            "cette Paix ne pouuant venir que de Dieu ſeul,",
+            "&amp; que ſa iuſtice n’eſtant encore aſſez vangée",
+            "de nos crimes, nous n’en deuions ſi toſ a¬",
+            "ndre les effects. Arreſt fut hier donneé. par",
+            "lequel Meſſieurs nos Prinoces &amp; Geherau",
+            "ſont declarez vnis auec le Parlement, &amp; les",
+            "pretentions des vns &amp; des autres com¬",
+            "munes: Aujourd’huy leur Aſſembolée qui a",
+            "duré depuis huict heures du matin juſqu’à cinq",
+            "du ſoir, nous a long-temps tenus en ſuſpens",
+            "dans le deſir que nous auions d’en apprendre",
+            "l’iſſuë; mais enfin nous voyons que tout ſe",
+            "diſpoſe à la guerre, ou du moins aux lon",
+            "geurs d’vne ſeconde Conference: lIs ont a",
+            "reſtez que Deputez ſeroient enuoyez pour",
+            "POer le cahyer contenant les pretentions de",
+            "Meſſieurs nos Generaux, &amp; ue tres-humble",
+            "Remonſtrance ſeroit faite au Roy, à ce que",
+            "l’Article portant la continuation des preſts",
+            "pour deux aas fuſt biffé du Traitté de Paix.Le",
+            "bruit court qu’ils demandent la meſme choſe"
+        ],
+        [
+            "Gur la figaatare du Cardinal Mazarin : ſicor",
+            "la eſtoit tout le monde preaoit infaillible¬",
+            "ent la guerte, mais encore Paris l’aymeroit¬",
+            "il mieax qu’rae Paix honteuſe: Ie ne vous oſ",
+            "tout die fur ce ſujes. A dien, Ie ſuis,",
+            "oNsIEv",
+            "Voteé tres-aſſetianÉ",
+            "eieee",
+            "&amp;Paleluodnaſals uMa ies¬"
+        ],
+        [
+            "our la ſignatare du Cardinal Mazarin: ſieo",
+            "la eſtoit tout le monde preaoit infaillible¬",
+            "ent la guerte, aais encore Paris l’aymeroit¬",
+            "il micuax qu’vne Paix honteuſe: Ie ne vous oe",
+            "tout dite ur ce ſujes. A dien, Ie ſuis,",
+            "MONSIEVR",
+            "a",
+            "Vaſtré tres-afetinn¬",
+            "ſeuia¬",
+            "aaleladria as uanis¬"
+        ],
+        [
+            "Sour la ſigaatare du Cardinal Mazarin ſi eo",
+            "la eſtoit tout le monde preuoit infaillible¬",
+            "ent laguerte, ais encore Paris l’aymeroit¬",
+            "il mieax qu’vne Paix honteaſe: Ie ne vous oe",
+            "tous dire fur ce ſujes. A die, Ie ſui,",
+            "MONSIEv",
+            "Voſté eras-affectian",
+            "euieae",
+            "iledaſals uM ies¬"
+        ],
+        [
+            "our la ſignatare du Cardinal Mazanin ico",
+            "la eſtoit tout le monde preaoit infaillible¬",
+            "aent la guerte, ais encore Paris l’aymeroit¬",
+            "il mieax qu’vne Paix honteaſe: Ie ne vous s",
+            "tout die ſur ce ſujes. A die, Ie ſuis,",
+            "MoNSIEv;",
+            "Vaſté eres-affebiuÉ",
+            "enierear",
+            "Palelaaraſas u Maaues¬"
+        ],
+        [
+            "our la ſignatare du Cardinal Mazarin: ſi c¬",
+            "la eſtoit tout le monde preuaoit infaillible¬",
+            "ent la guerte, ais encore Paris l’aymeroit¬",
+            "il mieax qu’ae Paix honteſe: Ie ne vous os",
+            "tout dire fus ce ſujet. A dien, Ie ſuis,",
+            "MONSIEv,",
+            "Votns res-afetianê",
+            "ſeiree",
+            "aleladraols Ma ues¬"
+        ],
+        [
+            "our la ſigoatare du Cardinal Mazarin: ſi ce",
+            "la eſtoit tout le monde prenoit infaillible¬",
+            "ent la guerte, aais encore Paris l’aymeroit¬",
+            "il mieax qu’vne Paix honteuſe: Ie ne vous os",
+            "tout dire fus ce ſujet. A die, Ie ſuis,",
+            "MOsIEV.",
+            "Voſtné res-affeiun¬",
+            "eitete",
+            "iileladnéjaals uMan uos¬"
+        ],
+        [
+            "our la ſigaatare du Cardinal Maain: ſi ce",
+            "la eſtoit tout le moude preuaoit infaillible¬",
+            "ent la guerte, aais oncore Paris l’aymeroit¬",
+            "il mieax qu’ne Paix honteuſe: Ie ne vous oe",
+            "out dire ſus ce ſujes. A dien, Ie ſuis,",
+            "MONSIEV,",
+            "Voaté tfes-afeiané",
+            "ſeuiere",
+            "Pleluédaſals uaaies"
+        ],
+        [
+            "our la figaatare du Cardinal Mazarin: ſieo",
+            "la eſtoit tout le monde preuoit infaillible¬",
+            "ent la guerte, maais eoncore Paris l’aymeroit¬",
+            "ilmieax qu’vne Paix honteuſe: le ne vous oſs",
+            "tout dire fur ce ſujet. A dien, lIe ſuis,",
+            "MONSIEv;",
+            "Voſtrs raesaffeiu",
+            "ſeitee",
+            "eiallaadrsa as Ma ios¬"
+        ],
+        [
+            "our la ſigaatare du Cardinal Maarin : ſic",
+            "la eſtoit tout le monde preuoit infaillible¬",
+            "ent la guerre, mais encore Paris l’aymeroit¬",
+            "il miex qu’vne Paix honteaſe: Ie ne vous os",
+            "out dire ſur ce ſujes. A die, Ie ſuis,",
+            "oNsiEv",
+            "Voſtré res-affeâûiau¬",
+            "ſeuitete",
+            "ialeludrãalas uMaios¬"
+        ],
+        [
+            "our la ſignatae du Cardinal Mazaria: ſi ce",
+            "la eſtoit tout le monde preaoit infaillible¬",
+            "ent la guerte, maais eoncore Paris l’aymeroit¬",
+            "il miex qu’vae Paix honteuſe: Ie ne vous os",
+            "tout die ſur ce ſujet. A dien, Ie ſuis,",
+            "MONSIEv;",
+            "Vaſtré res-affeuÉ",
+            "emieoe",
+            "&amp;alelaadraſas u,Mes¬"
+        ],
+        [
+            "ur la ſigaatare du Cardinal Mazarin: ſi ce",
+            "la eſtoit tout le monde prenoit infaillible¬",
+            "ent la guerre, aais encore Paris l’aymeroit¬",
+            "il miax qu’vne Paix honteaſe: Ie ne vous ſs",
+            "tout die ſur ce ſujet. A die, Ie ſuis,",
+            "MONsIBv;",
+            "Vaſtné re-afſfectiusé",
+            "ſeuieoe",
+            "eaeluadraals uMaiios¬"
+        ],
+        [
+            "E",
+            "1",
+            "."
+        ],
+        [
+            "our la figaatare du Cardinal Maania: ſi ce¬",
+            "la eſtoit tout le monde prenoit infaillible¬",
+            "ent la guerte, oais ncore Paris l’aymeroit¬",
+            "il mieax qu’ae Paix honteuſe: le ne vous oſes",
+            "ous dire fur ce ſujet. A dien, Ie ſuis,",
+            "ONSIEVR",
+            "Vſtreé tres-aéfet¬",
+            "ſeuiea",
+            "ialeladria als uMa iss."
+        ]
+    ]
+}

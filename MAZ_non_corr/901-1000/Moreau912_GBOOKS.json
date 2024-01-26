@@ -1,0 +1,155 @@
+{
+    "imprimatur": "Avec Privlége du Roy",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2021-11-16",
+            "@who": "AB"
+        },
+        "titre": "Déclaration du roi, du 3 février 1649, par\n                    laquelle sont donnés six jours aux habitants de Paris pour rentrer dans leur\n                    devoir.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121209573",
+            "persName": {
+                "forename": "Louis",
+                "surname": "De Bourbon"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2979783",
+            "@source": "Moreau",
+            "#text": "Saint-Germain-En-Laye"
+        },
+        "publisher": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "DECLARATION",
+            "DV ROY.",
+            "Par laquelle ſont donneZ ſix jours aux habitans de Paris",
+            "pour rentrer dans leur devoir",
+            "LOVIS par la grace de Dieu Roy",
+            "de France &amp; de Navarre: A tous",
+            "ceux qui ces preſentes Lettres ver¬",
+            "ront, Salut. Dans les reſolutions",
+            "Se que nous aon eſle forte de",
+            "fe prendre pour noſtre ſeurté, &amp;",
+            "pour le mainrtien de l’authorité",
+            "royale, contre le Parlement de Paris, où quelques",
+            "factieux s’eſtoyent par violence &amp; par cabales rendus",
+            "maiſtres des ſentimens des autres de la compagnie",
+            "qui ſont bien intentionnez, Nous avons toujours aſ¬",
+            "ſicnnement ſouhaité que nos peuples, &amp; particulie¬",
+            "rement les habirans de noſtre bonne ville de ’aris, re¬",
+            "connuſſent que le chaſtiment que nous voulions faire",
+            "de ces factieux ne les regarde point, &amp; n’avons ri n",
+            "obmis pour empeſcher qu’ils n’y priſſent part, par le",
+            "A"
+        ],
+        [
+            "2",
+            "ſeu! morif de l’aſfection que nous leur portons, &amp; non",
+            "par aueune apprehenſion de l’apuy qu’ils pc uvoyent",
+            "doner au Parlement: N’ayãt jamais douté que d’vne fa¬",
+            "çon ou d’autre nous ne venios à bout d’obliger bié toſt",
+            "tous les rtebelles à l’obeyſſance qu’ils nous doivẽt. Mais",
+            "nous avons veu avec grand regret, que toutes nos di¬",
+            "ligences ont eſteé́ invtiles, &amp; que les artifices dont ces",
+            "meſchans ſe ſont ſervis pour abuſer leſdit, habitans de",
+            "noſtre ville de Paris, ont tellement prevalu aux bonnes",
+            "intentions que nous avons tousjours euës pour eux,",
+            "qu’ils les ont engagez à defendre leur crime par vn",
+            "autre, leur mettant les armes à la main contre leurs",
+            "Souverain, &amp; leur faiſant croire aujourd’hui qu’il n’y",
+            "a plus de ſalut pour eux que dans la reſiſtance qu’ls",
+            "nous feront. Nous aurions à la verité juſte raiſon de",
+            "nous ſervir de la puiſſance que Dieu nous a miſe en",
+            "main pour chaftier vne rebellion ſ eſtrange en toutes",
+            "ſes circonſtaaces, &amp; ne laiſſer pas vn ſi mauvais erem¬",
+            "ple impuni: Mais conſiderant que l’authoriré́ ſouve¬",
+            "raine n’é́clate pas moir s dans les ations de cle mence,",
+            "que dans celles de la juſtice, &amp; compatiſſnt d’ailleurs.",
+            "à ce que leſdirs habirans ſe ſoat jettez dans ce mauuais",
+            "pas, pluſteſt par malheur&amp; deceus de l’aparence d’vn.",
+            "faux bien, que par mauvaiſe volonté, ou par deſſein",
+            "forné́ de nous de ſobeyr, &amp; noſtre affection meſme &amp;",
+            "noſtre tendreſſe s’augmentant aà proportion que nous",
+            "ſçavons que leurs miſeres &amp; leurs ſoufrances augmen¬",
+            "tent: Nous voulons bien leur ten lre les bras pour les",
+            "retirer du precipice dans lequel ils ſe trouvent, &amp; leur",
+            "donner vne nouivelle &amp; indubitable marque de l’a¬"
+        ],
+        [
+            "3",
+            "mour que nons avons pout ex. A CES CAVSES, de",
+            "l’avis de la Reine Régente noſtre tres-honorée Dame",
+            "&amp; Mére, de noſtre tres-cher &amp; tres-amé́ Oncle le Duc",
+            "d’Orleans, de noſtre tres-cher &amp; tres-amé Couſin la",
+            "Prince de Condé́, des autres Princes, Dues, Pairs &amp;",
+            "Officiers de noſtre Couronne, &amp; autres grands &amp; no",
+            "tables perlonnages de noſtre Conſeil, eſtans en grand",
+            "nombre pres de nous, Nous avons dit &amp; déclareé́, di¬",
+            "ſons &amp; déclarons par ces préſentes ſigneé́es de noſtee",
+            "main, que ſi dans fir jours, à compter de la darte de",
+            "ces preéſentes, les Habitans de noſtre ville de Paris,",
+            "quittent les armes &amp; rentrent dans leur devoir, obli¬",
+            "geans par ce moyen les gens ſe diſans tenir noſtreCourt",
+            "de Parlement de Paris à nous obeyr, en cas qu’ils ne",
+            "répondent pas d’eux-meſmes, comme ils doivent, aux",
+            "nouvelles marques que nous leur donnons ce jour¬",
+            "d’huy de noſtre bonteé, nous oublierons ontiere¬",
+            "ment &amp; pardonneront les fautes paſſées deſdits ha¬",
+            "bitans, ſans qu’ils en puiſſent jamais eſtre recher¬",
+            "chez, pour quelque cauſe &amp; occaſion que ce ſoit, les",
+            "recevrons en noſtre grace, &amp; que nous retournerons",
+            "auſſi-toſt eſtablir noſtre ſejour dans ladite ville, &amp; leur",
+            "confirmerons plainement routes les graces que nous",
+            "leur avons ci- devant departies par noſtre Declaration",
+            "du 22 Oétobre dernier, &amp; ſerons preſts à leur en faire",
+            "de nouvelles en toutes ot caſions. SI DONNONS",
+            "en mandement à tous nos Officiers &amp; ſujets d’obeir à",
+            "la-préſente Déclaration, &amp; de tenir la main à ce qu’el¬",
+            "le ſoit exécutée de point en point ſe lon ſa forme &amp; te¬",
+            "neur, CAR rel eſt noſtie plaiſir. En teſmoin de.",
+            "1"
+        ],
+        [
+            "4",
+            "quoi nous avons fait mettre noſtre ſeel à ces préſen¬",
+            "tes, que nous avons fait lire &amp; publier en noſtre Con¬",
+            "ſeil, la Reine Reégente noſtre tres honorée Dame &amp;",
+            "Mere preſente, où eſtoyent auſſi noſtre tres sher &amp;l",
+            "tres-amé Oncle le Due d’Orleains, noſtre tres-cher &amp;",
+            "tres-amé Couſn le Prince de Condé, &amp; autres Peinces,",
+            "Ducs, Pairs &amp; Officiers de noſtre Couronne, &amp; plu¬",
+            "ſieurs Grands Seigneurs eſtans pres de nous. DON.",
+            "N E’ à̀, S. Germain en Laye, le onzié́me jour de Février",
+            "l’an de grace 164o, &amp; de noſtre regne le ſixieéme. Signé́,",
+            "LOVIS. Et plus bas, par le Roy la Reine Regente ſa",
+            "Mere preſente. DE GVENEGAVD.",
+            "Imprimé à Saint Germain en Laye, 1694.",
+            "Avec Privlége du Roy."
+        ]
+    ]
+}

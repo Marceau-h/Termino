@@ -1,0 +1,123 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "lamentation",
+            "regrets",
+            "soupirs"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-01-18",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Les soupirs et regrets des nièces de Mazarin sur la perte\n          et mauvaise vie de leurs oncles ).",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "S0VPIRS",
+            "REGRETS",
+            "DES NIEPCES",
+            "o n",
+            "e",
+            "ne"
+        ],
+        [
+            "1.",
+            "A,ataeeaaana",
+            "aaommeaa..4¬.",
+            "u e",
+            "e r",
+            "-ç4aape S-oman",
+            "i e e",
+            "i",
+            "LES SOVPRS ET RECPETS OES",
+            "Niepees de Mazarin, ſur la perte &amp; mauaaiſe",
+            "ie de leursoneles",
+            "éForv e trop inconſtante! ô deſſeins",
+            "trop eruels, mais infaillibles pourtanten vos",
+            "fatalitez: Auez-vous, ô̂ Seigneur, détrempé",
+            "les grandeurs de ee monde du fiel d’ne ſi grande in",
+            "conſtance ? Tout y eſt-ilcemply d’vn pareil change",
+            "ment, &amp; parmy tant de vagues &amp; tempeſtes ? N’y a",
+            "il point vn lieude refuge, de repos &amp; d’aſſeurance?",
+            "Faut-il touſourseſtre mal content au gé́ d’vne lege",
+            "reté? Qui eu iaraais peu croire que ce Soleil, le Soleil",
+            "de vie eu ainſi eclipſé; i’eſperions’apres luy de preſi",
+            "der aux Aſtres: Mais, helas ! aous ne voyons plus",
+            "qu’vne noire &amp; obſcure nuit, qui enuelopera le reſte",
+            "e nos iours; vaines ſont les eſperances du monde,",
+            "puis qu’il coronne ceux qui arreſtent leurs for",
+            "tunes en luy d’vne vie ſi inconſtante &amp; d’vne fin ſi",
+            "ſtrange.",
+            "Sicile tu deuois bien plutoſt retenir noſtre oncle que",
+            "de l’enuoyer à la France, pour apres tant d’honneurs",
+            "eſtre la eureée de la fureur d’vn peuple, ô chere ame",
+            "prncipe de noſtre vie, faudra-il que vos cendres",
+            "ſoient ainſi diſſipé́es, ô eſtrange memoire, ſi voſtre",
+            "vie leur porte tant d’horreur, voſtre mort ne les doit",
+            "elle pas contenter; eſtes-vous ſscoulpable que de ne",
+            "meriter la terr, mais parmy le grand nombre n’en",
+            "A ij"
+        ],
+        [
+            "4",
+            "tendrons nous quelque cry de ſa compaſſion bien",
+            "loin de là, puis que cette haine eſt tellement inuererée",
+            "dans le cœur des peuples, qui crient touſiours luſques",
+            "à la ſin de ſes deſirs; vous n’eſtes ſeul ſujet de leurvén",
+            "geance, &amp; le iour de voſtre mort ſérà le commence",
+            "ment de la noſtre.",
+            "O iour pour nous trop miſerable, qui nous oſté le",
+            "reſte de noſtre vie; deuiez-vous nous donner enpar",
+            "tage vne eternité de ſouſpirs &amp; vne vie de regretsl",
+            "O Parque trop cruelle à nos treschers parens, au",
+            "moins trancheélée fil d’vhe vieſi funeſte, qué nous ne",
+            "viuions plus parmy tant de langueurs, que hous ne vi",
+            "uiõs plus d’vne vieſimourãte, que nous ne mourions",
+            "plus d’vne vie ſi laguiſſante, que nous ne langulſ",
+            "ſions plus d’vne vie ſiegrertée &amp; que nousnerégret.",
+            "tions plus vne vie forcéel",
+            "De qui tirerons nous ſecours, aurions nous des adms",
+            "pour tramer vn refuge, ô douce ame, nous e voulons",
+            "troubler vô̂tre repos, mais vus ne hous lalſſé aucun",
+            "proteteur, point d’amis, tanr d’ennermis, neantmoins",
+            "Dieune veut que les nepueux portent les inlquitezde",
+            "Ieurs oncles;nous aurons donc recours à vous ôirii",
+            "mortel, &amp; par voſte grace trouuerons celle dus ſRoy,",
+            "quine nous permetra vous offrir les pleurs du reſte",
+            "de nos iours, grace qui eſtſiadmirable, qu’il faut que",
+            "leae",
+            "nous en pouſſions dehors les effets. C’eſt vne grande",
+            "ceux à qui vous eſtes contraires &amp; ennemis. Ochers",
+            "parens, encore s’en trouue t’il vn notable notable qui",
+            "a compaſſion de nos maiſeres, &amp; efinisl!"
+        ]
+    ]
+}

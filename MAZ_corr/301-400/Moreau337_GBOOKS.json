@@ -1,0 +1,180 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de nos seigneurs du parlement, toutes les chambres\n          assemblées ,M. le duc d'Orléans y étant, pour obtenir du roi la paix et l'amnistie\n          générale.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-10",
+                "#text": "octobre 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
+            "persName": {
+                "forename": "Jacob",
+                "surname": "Chevalier"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "D",
+            "AA I",
+            "r¬9",
+            "L L",
+            "DE NOSSEIGNEVRS",
+            "DE PARLEMENT.",
+            "Toutes les Chambres ſſembées¬.",
+            "Mr le Duc d’Orleans y eſtant.",
+            "&amp; l’Amaiſtie Gemeralle.",
+            "roiſiéme iour d’Otobre 1652",
+            "A PAR1S,",
+            "Chez I Aco ChEv aALIeR, prés Saint lean",
+            "de Latran.",
+            "M. DC. L1I."
+        ],
+        [
+            "2 7 la?",
+            "1",
+            ".4’.",
+            "3",
+            "¬. .",
+            "s.",
+            "rl",
+            "5",
+            ":2’",
+            "s. 2.",
+            "aa",
+            ". 1.",
+            "..",
+            "12,",
+            "l",
+            "1",
+            "ſnm.",
+            ".",
+            ".....",
+            "e",
+            ",",
+            ". 1",
+            ".A",
+            "oua",
+            "I",
+            "!"
+        ],
+        [
+            "5.",
+            "Sejeee",
+            "1 E r",
+            "A",
+            "R.",
+            "DE NOSSEGNEvRS.",
+            "DV PARLEMENT",
+            "Toues les Chaimbres Aſſemblées, Monſieu",
+            "lé’Duc d’Orleahs y eſtant",
+            "Pour obtenir du Roy a Paix, &amp; IAmnilie",
+            ". Gnenal.",
+            "Extrait- des Regiſtres de -Parlement.",
+            "S",
+            "E",
+            "E jour la Cour",
+            "toutes les Cham",
+            "bresAſſemblées;",
+            "J ſur ce que Mon",
+            "ſieurle Duc.",
+            "d’Orleans oncle",
+            "du Roy preſent,",
+            "eſchefertSubſtirut pourle Pro",
+            "A ij"
+        ],
+        [
+            "anon e eene a dueiee",
+            "de Ioyeuſe qui eſtoit allé versle!",
+            "Roy pour obtenit des Paſſe.",
+            "ports pour ſes Deputez, eſtoit de",
+            "retour ſans en auoit rapporté",
+            "aucuns, mais ſeulement que la",
+            "volonté du Royeſtoit que luy",
+            "Duc d’orleans ſignaſt ſes pro",
+            "poſitions, &amp; quapres il accor",
+            "deroit leſdits Paſſeports, &amp; que",
+            "pourluy il auoit des-ja pluſieurs",
+            "fois declaré &amp; declaroit encore",
+            "à preſent qu’il n’auoit autre pro",
+            "poſition à faire au Roy, ſinon",
+            "qu’il luy pleut accorder vne Am",
+            "niſtie en bonn. forme verifiée",
+            "dans le Parlement à Paris, Oüy",
+            "ledit Subſtitud, luy retireé, la ma",
+            "tione miſe en deliberation",
+            "ARRESTE."
+        ],
+        [
+            "5",
+            "AR,",
+            "rr-t",
+            "REST’E que ledlt fieur",
+            "u d’Orleans ſera remercié de",
+            "ſes ſoins &amp; bonnes intentions",
+            "pour la Paix &amp; le bien de l’E.",
+            "ſtat, &amp; ſupplié de la part de la",
+            "Cour de continuer, &amp; d’eſcrire",
+            "Adés aujourd’huy audit Seigneur",
+            "Roy, que la ſeulle Propoſition",
+            "qu’il a a faire eſt qu’il luy plaiſe",
+            "a Ccorder vne Amniſtie dans les",
+            "trmes ordinaires en bonne for",
+            "e yerifiée dans le Parlement à",
+            "Paris: Et que le preſent Arr ſt",
+            "ſra affiché par tous les Carre",
+            "fours de la Ville &amp; fauxhourgs",
+            "de cette Ville. FAICT en",
+            "Parl ement, le troiſieſme iour",
+            "B"
+        ],
+        [
+            "16",
+            "’octobre mil ſix cens cinquan.",
+            "- te-deux.",
+            "2.",
+            "Signé,",
+            "7 r",
+            "L ’ ad."
+        ]
+    ]
+}

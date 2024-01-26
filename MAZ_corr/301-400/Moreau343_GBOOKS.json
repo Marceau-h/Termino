@@ -1,0 +1,120 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-01",
+            "@who": "AB"
+        },
+        "titre": "Arrêt du parlement de Provence sur les nouveaux troubles\n          arrivés dans la ville de Marseille.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121732655",
+            "orgName": "Parlement de Provence"
+        },
+        "pubDate": [
+            {
+                "@source": "BM_Lyon",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1650-03-21",
+                "#text": "daté du 21 mars 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DV PARLEMENT",
+            "DE PROVENCE.",
+            "Sur les nouueaux troubles arriuez dans la ville",
+            "de Marſeille.",
+            "APRES que lecture a eſte faite en la Cour les",
+            "Chambres aſſemblées, de la lettre à elle eſ",
+            "crite ar les Conſuls de la ville de Marſeille, dat",
+            "tée du dix-neufieſme de ce mois, preſent le Procu",
+            "reur general du Roy qui a requis ſa Majeſté eſtre",
+            "d’abondant aducrtie de l’eſtat auquel ſe reuue la",
+            "dite Ville de Marſeille: qu’il ſoit depute de Cor miſ",
+            "ſaires pour informer de toutes les meneées qui on",
+            "eſteé faites &amp; qui ſe font prejudiciables au ſeruice du",
+            "Roy, &amp; que juſquee qu’il ait pleu à ſadite",
+            "Majeſté d’enuoyer ſes ordres, deffenſes ſoient fa",
+            "tes à toutes perſonnes de faire aucunes leué́cs",
+            "amas de gens de guerre, s’attroupper, faire aucuns",
+            "actes d’hoſtilité, ny interrompre la lberté du ne",
+            "goce &amp; rranſport des bleds d’vn lieu à autre dans la",
+            "Prouince, ſur les peines portées par les Ordon",
+            "nances &amp; Declarations du Roy; Comme auſſi qu’l",
+            "ſoit informé des voleries &amp; rançonnemens dotl"
+        ],
+        [
+            "2",
+            "a plai nte, commis par les gens de guerre ſur leur",
+            "marche de Portuis à Aurioſ,&amp; à leur retour à au",
+            "tres endroits de la Prouince.",
+            "e ei eou i e eoe e nene rl",
+            "LA COVR a ordonaé &amp; ordonne que le",
+            "ſon Procureur general de l’eſtat auquel ſe treuue la",
+            "dite ville de Marſeille, &amp; ſa Majeſté tres-humble",
+            "ment ſuppliée d’y enuoyer ſes ordres, &amp; la decla¬.",
+            "ration de ſon bon plaiſir &amp; volonté: Et iuſques",
+            "lors, pour y maintenir le calme &amp; la tranquilité, a",
+            "fait &amp; fait inhibitions &amp; deffenſes à toutes perſon",
+            "nes de quelque eſtar, qualité, &amp; condition qu’elles",
+            "ſoient, de contreuenir aux Ordonnances, &amp; à la",
+            "Declaration du dernier lanuier anné́e preſente: fai",
+            "re entrer dans la Prouince aucunestrouppes Eſtran",
+            "geres, en faire leuée dans-icelle, ny aſſembler en",
+            "corps celles qui y ſont deſia, faire aucuns degaſts,",
+            "actes d’hoſtilite, ny int rrompre le negoce, com",
+            "merce &amp; tranſports des bleds &amp; denrées d’vn lieu à",
+            "l’autre dans ladite Prouince, le tout ſans permiſſion",
+            "du Roy, ſellée du grand Seau, à peine d’eſtre decda",
+            "rez criminels de leze-Majeſté, &amp; perturbateurs du",
+            "repns public. A fait &amp; fait auſſi inhibitions &amp; def",
+            "fenſes à tous les Gentils- hommes, Villes &amp; Com",
+            "munautez de ladite Prouince, de donner pour rai",
+            "ſon de ce aucune ayde, faueur, &amp; aſſiſtance aux",
+            "contreuenans auſdites Ordonnances, Declaration,",
+            "&amp; preſent Arreſt, ſur meſme peine: Ordonne que"
+        ],
+        [
+            "dœs contreuentions, enſemble des voleries &amp; ran.",
+            "cnnemens dont ledit Procureur general ſe plaint,",
+            "circonſtances &amp; deépendances, en ſera informé en ce",
+            "qai ſera à faire en cette ville d’Aix, par Maiſtres de",
+            "L-der &amp; de Laurens Conſeiller du Roy, &amp; hors",
+            "d’i elle, par le premier des Conſeillers en ladite Cour",
+            "ttd aué ſur les lieux, Lieutenansdes reſſorts, &amp; Iu",
+            "ges Royaux, pour les informations rapporteées eſtre",
+            "ord dnneé ce qu’il appartiendra: Et ſeront extraicts",
+            "du reſent Arreſt deliure audit Procureur genera!",
+            "pue les enuoyer par tout où beſoin ſera. Fait à",
+            "a en Parlement, &amp; publié à la Barre, le vingt",
+            "vrai ſme Mars mil ſix cens cinquante.",
+            "Colarion eſt faie.",
+            "Signé, ESTIENNE."
+        ]
+    ]
+}

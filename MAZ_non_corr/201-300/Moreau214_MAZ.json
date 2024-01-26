@@ -1,0 +1,128 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſeté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Militaires",
+            "Pillage"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, du 17 décembre 1648,\n          portant défenses, sur peine de la vie, à tous gens de guerre, capitaines, soldats et\n          autres , de commettre aucunes exactions et violences à l’endroit des sujets de Sa Majesté,\n          et à eux enjoint de vivre et se contenir suivant les ordonnances.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "persName": "France. Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1648",
+                "#text": "1648"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1648-12-22",
+                "#text": "22 décembre 1648"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": "Imprimeurs et libraires ordinaires du roi",
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR DE",
+            "PARLEMENT, Du 17. Decembre 1648.",
+            "Portant defenſes, ſur peine de la vie, à tous Gens de",
+            "Guerre, Capitaines, Soldats, &amp; autres, de commettre",
+            "aucunes exactions &amp; violences à l’endroit des Sub¬",
+            "jets de ſa Majeſté: Et à eux enjoint, viure &amp; ſe",
+            "contenir ſuiuant les Ordonnances..",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires",
+            "ordinaires du Roy.",
+            "M. DC. XLVII.",
+            "Auec Priuilege de ſa Majeſeté."
+        ],
+        [
+            "3",
+            "miſſion ſera deliurée au Procureur General du",
+            "Roy, pour informer des faicts contenus en ſa plain¬",
+            "te, pour les Informations rapportées &amp; à luy com¬",
+            "muniquées, eſtre procedé contre &amp; ainſi que de",
+            "raiſon: AFAIT &amp; fait inhibitions &amp; défenſes à",
+            "tous Gentils-hommes, Capitaines, &amp; autres, à",
+            "peine de la vie, de commettre aucunes exactions,",
+            "voyes de faict &amp; violences à l’endroit des Subjets",
+            "du Roy, Leur enjoint viure &amp; ſe contenir ſuiuant",
+            "les Ordonnances, &amp; incontinent ſe rendre aux",
+            "lieux des Garniſons à eux ordonnées. Et en y al¬",
+            "lant, fait defenſes de ſéjourner plus d’vne nuict",
+            "en meſme lieu, ſans demeurer au plat Pays, autre¬",
+            "ment &amp; à faute de ce faire, en cas de contrauen¬",
+            "tion, enjoint aux Baillifs &amp; Seneſchaux, de tenir la",
+            "main à l’execution de l’Arreſt: Aux Preuoſts des",
+            "Mareſchaux, Viſbaillifs, Viſſeneſchaux, Lieute¬",
+            "nans &amp; Archetrs, ſe mettre en Campagne, ſe ſaiſir",
+            "des Coû̂pables, leur faire &amp; parfaire leurs procés,",
+            "&amp; excecuter leurs jugemens, nonobſtant oppoſi¬",
+            "tions &amp; appellations quelconques, ſuiuant les Or¬",
+            "donnances. ET pour les enuirons de cette Ville,",
+            "En IonrT au Lieutenant de Robbe courte, &amp;",
+            "Preuoſt de l’Iſle, incontinent monter à Cheual",
+            "auec leurs Compagnies ſeparément ou conjoin¬",
+            "tement, comme ils aduiſeront, Aller aux champs,",
+            "&amp; faire ceſſer les voleries &amp; violences au ſoula¬",
+            "gement"
+        ],
+        [
+            "gement des Sujects du Roy, &amp; à ce quaucun n’en",
+            "pretende cauſe d’gnorance, Ordonne que l’Arreſt",
+            "ſera publé́ à ſon de trompe, affiché aux lieux pu¬",
+            "bhcs, &amp; enuoyé aux Bailliages &amp; Seneſhauſſees",
+            "pour y eſtre leu, publié &amp; executé aà̀ la diligence des",
+            "Subſtiruds du Procureur general qui certiffieront",
+            "auoir ce fct au mos. FAICT en Parlement",
+            "le dxſeptieſme Decembre mil ſix cens quarante",
+            "huct.",
+            "Signé, DV TILLET.",
+            "Collatioané aà l’Original par moy Confeiller",
+            "Secretaire du Roy, &amp; de ſes Finances.",
+            "A",
+            "e",
+            "A-Aé",
+            "eDzE",
+            "E Samedy dieneufieſme iour de Decomj",
+            "bre milſix cens quarante huict, l’Aryre",
+            "cy deſus a eſté leu &amp; publié à ſon de Trompe",
+            "&amp; cry public par les Carrefours ordinaires ?",
+            "eetraordinaires de cette Ville &amp; Fauxbourgs"
+        ],
+        [
+            "6",
+            "deParis, par moy lean Ioßieruré́ Crieur ordi¬",
+            "naire du Roy, en la Ville, Preuoſté Vcomté",
+            "deParis, &amp; affſiché par tout ou beſoin a eſté:à",
+            "ce faire i’auois trois Trompettes, Iean du Bos",
+            "Juré Trompettes, &amp; deux autres Trompettes,",
+            "Signé IOSSIER."
+        ]
+    ]
+}

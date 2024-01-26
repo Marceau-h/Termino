@@ -1,0 +1,96 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Arrêt de la cour de parlement, portant qu’il sera\n                    fait recherche des moyens d’avoir argent, pour l’armement et subsistance des\n                    gens de guerre, avec défense, aux habitants, de payer aucunes tailles ni autres\n                    taxes ; et en cas de contravention , qu’il sera procédé par voie de\n                    représailles.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "818o25",
+            "A rereſlE l la",
+            "Arreſt de laCour",
+            "DE PARLEMENT,",
+            "PORTANT QVIL SERA FAIT",
+            "recherche des moyens d’auoir argent pour",
+            "l’Armement &amp;Subſiſtance des gens de guerre,",
+            "Auec defenſes aux habitans de payer aucunes",
+            "Tailles ny autres Taxes; Et en cas de contra¬",
+            "uention, qu’il ſera procedé par droict de re¬",
+            "preſailles.",
+            "Du az. Février mil ſix cens quarante-neuf.",
+            "a",
+            "ds",
+            "t",
+            "l8",
+            "s",
+            "See",
+            "iq",
+            "APARIS.",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy",
+            "L.aſaa",
+            "M. DC. XLIX.",
+            "uec Priuilege de ſa Majeſt"
+        ],
+        [
+            "4",
+            "tre leſdits habitans de Pont-carré, rapportera en la",
+            "Cour ſa Commiſſion dans trois jours apres la ſigni¬",
+            "fication du preſent Arreſt en ſon domicile à Paris,",
+            "à la requeſte du Procureur General du Roy, &amp; juſ¬",
+            "ques à ce, luy a interdit l’exercice de ſa Charge, luy",
+            "fait defenſes d’en faire aucune fonction, à̀ peine de",
+            "faux. FAIT en Parlement le vinge- deuxieéme",
+            "Février mil ſix cens quarante-neuf.",
+            "Signé,DV TILLET.",
+            "Coldationnè I’Original parmoy Conſeiler",
+            "Secretaire du Roy &amp; de ſes Finaces.",
+            "l:",
+            "e,",
+            "E-on",
+            "n"
+        ]
+    ]
+}

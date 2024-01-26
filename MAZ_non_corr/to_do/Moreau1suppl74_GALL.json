@@ -1,0 +1,200 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Coup (le) de foudre, ou l'Écho du bois de\n                    Vincenne",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "Sans Date",
+            "#text": "Sans Date"
+        },
+        "pubPlace": {
+            "@ref": "geonames:0000000",
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "s.i"
+    },
+    "texte": [
+        [
+            "07"
+        ],
+        [
+            "LE COVP",
+            ".",
+            "DE FR0O",
+            "?",
+            "p¬",
+            "¬",
+            "OV",
+            "DE",
+            "du Bois de Vincenne.",
+            "e",
+            "A1",
+            "r",
+            "dl",
+            "A PARIS,",
+            "De l’Imprimerie de laeus CAABoT.",
+            "ruë de la Machine, à l’enſeigne",
+            "de Lequinoxe.",
+            "M. D.C. L."
+        ],
+        [
+            "3",
+            "ds ſds de d dſt d̀ de de l ede d ds dt ds ds ed de de de det",
+            "8,",
+            "A te ad t pp e A e",
+            "LE COVP DE FRONDE",
+            "0V",
+            "Il’Echo du Bois de Vincenne.",
+            "Sur le chant des Frondeurs.",
+            "Ieſt certain depuis quinzaine,",
+            "Qu’on n’entend que gemiſſemens,",
+            "Chaſteau du Bois de Vinceine,",
+            "Que font Condé &amp; ſes parens,",
+            "Leſquels l’vn l’autre ſe querellent,",
+            "Et tres-mal-heureux ils s’appellene,",
+            "Le plus vieux diſant à Condé,",
+            "C’eſt pour vous auoir ſecondé.",
+            "De Conty diſoit a ſon frere,",
+            "En qu’elle miſere ſommes nous,",
+            "Le Roy &amp; la Reyne ſa mere,",
+            "Nous traittent auec grand courroux,",
+            "Eſt ce recompencer nos peines,",
+            "Denous tenir en relles geſnes,",
+            "Eſt-ce le fruit de nos valleurs,",
+            "e nous traitter comme voleurs,",
+            "A"
+        ],
+        [
+            "4",
+            "Ventrebleu dit Condé i’enrage,",
+            "De me voir pris de la façon,",
+            "C’eſt Mazarin remply de rage,",
+            "Qui nous à tendu l’hameçon,",
+            "Mais par la mort ſi i’en eſchappe,",
+            "Ie luy donneré bonne tappe,",
+            "Puiſque par ſon mau dit Conſeil,",
+            "Nous ſommes a l’ombre du Soleil.",
+            "Que n’ay ie pas fait pour ce traiſtre",
+            "Il s’en deuroit bien ſouuenir,",
+            "Quoy ne ma- t’on pas veu paraiſtre,",
+            "En tous lieux pour le maintenir,",
+            "I’ay hazardé cent fois ma vie.",
+            "Pour ſatisfaire à ſon enuye,",
+            "Et au iourd’huy ceſte animal,",
+            "Ne me procure que du mal.",
+            "Ie veux qu’onme berne &amp; metonde,",
+            "dit Longueuille, iurantBieu,",
+            "Si ce n’eſt vn grand ooup de fronde,",
+            "qui nous à ietté en ce lieu,",
+            "L’on voit l’effect de ſa puiſſance,",
+            "Car elle a de tous iouiſſance",
+            "Et l’on voit les frondeurs au point,",
+            "Que l’on ne s’imaginoit point.",
+            "Conſiderez"
+        ],
+        [
+            "Conſiderezvn peu le monde,",
+            "ll ny a point de ſeureté,",
+            "Et qu’il eſt bien fol qui ſi fond",
+            "Ie vous le dis en verité,",
+            "A-ton pas veu pendantla guerre,",
+            "Le Bourgeois renuerſer par terre,",
+            "Les partiſans de Mazarin,",
+            "Et maintenant c’eſt leur Couſin.",
+            "Conty reprenant leurs parolles,",
+            "Dit ma foy il ont bienraiſon",
+            "Puiſque iay pris de leurs piſtolles;",
+            "De nous laiſſer dans la priſon,",
+            "Et vous Monſieur de Longueuille,",
+            "Vous vous teniez dans voſtre Ville,",
+            "Mon frere faiſoit le diable icy,",
+            "Et moy i’alloisà Iuuizy",
+            "Mais ne ſoyons point tant epeine",
+            "Et ceſſons vn peu de gemir,",
+            "Boüillon, la Mouaſſaye, &amp; Turenne,",
+            "Nous pourront venir ſecourir,",
+            "S’il ny viennent à la mal-heure,",
+            "Nous y fe rons longue demeure,",
+            "Et n’aurons pas le meſme ſort,",
+            "Qu’a eu ey-deuant de Beaufort"
+        ],
+        [
+            "Ce Beaufort nous fait bien la nique,",
+            "Auecque le Coadjiuteur,",
+            "Etioignent l’homme de pratique,",
+            "Pour augmenter noſtre malheur,",
+            "Chacun en rit, chacun en dance,",
+            "Chacun en fait reſiouiſſance,",
+            "Et meſme l’on voit dans Paris,",
+            "Par noſtre perte bien des ris.",
+            "Il faut franchement quejaduoüe,",
+            "Que nous ſommes bien eſtonnez,",
+            "D’eſtre cheu dans vn tas de boüe",
+            "Lors qu’icy l’on nous a menez,",
+            "Nous ne ſçauons pas l’origine,",
+            "Du mal heur que l’on nous machine,",
+            "onel e enoe leune",
+            "Nous penſions bien par noſtre adreſſé,",
+            "Venir about de nos projets,",
+            "Mais ils ſont tous a la renuerſe,",
+            "Et la Fronde les a deffaicts,",
+            "Si l’on vouloit vn peu attendre,",
+            "Ace que nous voulons pretendre,",
+            "Et nous tirer de ce lieu cy,",
+            "Nous dirions ma foy grand mercy."
+        ],
+        [
+            "7",
+            "C’eſt vne choſe veritable,",
+            "Et l’on ne le peur pas nier,",
+            "D’heureux on deuient miſerable,",
+            "De Prelars on deuient meuſnier,",
+            "L’on en voit vn fort bon exemple,",
+            "En ces meſſieurs ſil’on contemple",
+            "Le commancement &amp; la fin,",
+            "Du Boſſu, du Preux, &amp; du Fin.",
+            "Pour moy qui ay deſcrit l’Hiſtoire,",
+            "Que vous auez leuë cy-deſſus,",
+            "Ie vais ſerrer mon eſcritoire,",
+            "Laiſſant là ces Meſſieurs reclus,",
+            "Si quelqu’vn leur ouure la porte.",
+            "Ie veux que le diable l’emporte,",
+            "Et que l’eſtafier Saint Martin,",
+            "Les tourmente ſoir &amp; mati.",
+            "Amen."
+        ]
+    ]
+}

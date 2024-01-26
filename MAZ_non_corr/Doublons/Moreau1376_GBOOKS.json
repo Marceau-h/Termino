@@ -1,0 +1,176 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "burlesque",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1649-03-15",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Le festin burlesque du fourbe ou La Micaresme des partisans.\n          Traittez à la Cour par leur chef & protecteur le C. M.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-05-25",
+            "#text": "25 mai 2021"
+        },
+        "author": "Anonyme",
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000011194155",
+            "persName": {
+                "forename": "Veuve d'André",
+                "surname": "Musnier"
+            }
+        },
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "ou L E E’ETTT l LOII IN BVRLESQVE DV FOVRBE OVLA MICARESME DES PARTISANS.",
+            "Traittez à la Cour par leur chef &amp; Protecteur le C. M. E aes due u e R, au mone oinds",
+            "nul ie en is enue ei iene n . Ee E Ruso"
+        ],
+        [
+            "2 er LE F EST I NLB V RLE QYE, 1V la Micareſme des Partiſans traittez à la our,",
+            "par lear chef&amp;s prorecteurle . Efatal ennemy de l’Eſtat, mais cher amy &amp; confident",
+            "de la cballe na tiſanne le C. M.pour conſoler &amp; ejqyr cette tourba aſiges, du mauuais",
+            "ſucces. de leurs affaires, &amp; peu d’eſ¬ poir qu’ilsont de releuer le monopole renuersb,",
+            "&amp; auſ¬ pour taſcher de diſſiper de ſon eſprir les brouillas e la crainte que luy cauſe",
+            "la prudente affeétion qu’a noſtre Parlement au bien de l’Eſtat, la valeur de nos Princes,",
+            "&amp; le zele de tous les peuples auſeruice du oy, eſtant magnifique commeileſt: ſur tout en",
+            "momeries, ieux, balets &amp; feſtins, pourueu q’ils luy couſtent au¬i peu que la",
+            "ſuperbe&amp; enchanteuſeComedie d’Orphee; qui luy fit produire aux yeux de la Car des",
+            "Seraines apriuoiſees de ſa main, &amp; faites a ſon vſage, des Tri¬ tons Hongres &amp;",
+            "Poiſſons d’A vril, &amp; autres monſtres venus d’Iralie à ſi grands frais, ( bien que pour",
+            "le diues¬ iſſemens d’vne nuicty que la France en doit ſentir l’in. commoditeé plufieurs",
+            "aneess puis que la leuee des de¬ niers pour la paye de nos armeesſeruoit de fonds aà̀ cette",
+            "fanfare &amp; paya la peine de l’inuenteur, bien qu’elle fut non ſeulement invile",
+            ":mihenteale &amp; dommagea¬ Elacau lailore ta ce bofon d’Eſtae, diſie, c’,aiſé",
+            "stulrceoſſeareſnmieûa troupe volanute &amp; les miiſtres de ſes aphes:pour faire voir .AE.N"
+        ],
+        [
+            "ii -ae rierneloieftapoſfiblepres l’enchanemend,’ pincpaux Genies de la France,",
+            "qu’il retient ſou¬ ais aà̀ ſa dnaion. Il a fait par ſes chdrmes que lé́s nquare partiés du",
+            "nonde, les elemens, &amp; meſ¬ nr les tfersont fourny aà ce qu’il a deſiré́ pour la ſom¬",
+            "ptuoſité, abondasace &amp; rareté de ce feſtin, dont il a bien voulu que Paris euſt la",
+            "Relation pour luy donner ſujat de craindre autant que d’admirer ſa puiſſance, la voicy",
+            "eteur,; telle qu’elle ma eſté́ donnee: mais pour ne te laiſler pas ſurprendre à",
+            "l’eſtonnement, i’ayme mieux que tucroie que c’eſtvn mensſonge de mon inuenrion, paurdonner",
+            "quel qoer moment e diseetifſemene àſon eſprit ennuyé de la longueur des miſeres de noſtre",
+            "the¬ ae Pari. Premier ſeruice. A l’abord, la table fat couuerte de ſix biſquerds¬ lephansſix",
+            "autres de crocodilles ſoruisen baſſins defõ¬ taehuit doncaines de herſſoas en ſalnigodisdeux",
+            "mille rats de Braaxil en galima free, deux mille oneleõ̃s en capirotades, douze hures de",
+            "Lyons en forme de teſte doeau, intpieds d’helah, &amp; quatre douxsésde lan¬ uedcrntaniran",
+            "éorme depiedsi&amp; langue de motõ: aMais au milliau, Il futposé vn monſtre Amphibie au",
+            "coabouillon, õme hypogriphe eu hannaché de bea¬ illesd’edits, de rtrairez, de rermaiſes,",
+            "deſabuentions &amp; luplemens de haut gouſt, il eſtoit timbié d’vae boui¬ gette à pluſieurs",
+            "bouſons, &amp; portoit autour du colgrãd nombre d’ſcuſſons ou pluſtoſt eſcarcelles,",
+            "epreſentã̃t apmes de Meſfieofs es conuiex ſes gnmifſes ſembloiée eſréineffanaont occu pees",
+            "àranaſſe autour de ſoy ddnçbae de differenses pietei d’or &amp; d’asgpa"
+        ],
+        [
+            "qui eſtoient miſes, &amp; ſeparees chacuiesen learcappai 4 tenances dans ces",
+            "bougettessmais ce qui fit émerueillor les aſſiſtans, c’eſt de voir que ce mõſtre portoit le",
+            "viſage -de chacun d’eux en particulſier, &amp; que dans l’entretie quelqu’vn de la compagnie",
+            "ayant prononceé le nom de Farlement, le fantoſme diſparut à l’inſtane, ce qui fie auancer le",
+            "ſecond ſeruice. Second ſeruee. Il futſerui Soixante dronadaires bardez enu chaponms duMans,",
+            "trente mulets d’Auuergne farcies de grenoüil¬ les &amp; lardez de nerfs de bœuf. Cinquante",
+            "Reinocerots rotis en guiſe de eochons de laict. Doue porcs eépics auec leur peau &amp;",
+            "leursſoyeengui¬ ſe de lardons. Quinze liaornes lardees de viperes aue leur bois y paſſerent",
+            "en dindons. Soixante leopards en accolade de lapins-de garenne, ſoirante quatre boncs à̀ la",
+            "Napolitaine. roiſfieſme ſeruice. Quatore censniboux &amp; chatshuans enphme pou faiſns.",
+            "Soixanue mil douzaine de-imaſſoas enbroche pourallouettes. Douze mil douzaines de chauueſou¬",
+            "ris graſſe pour otolans. Six vingt enards à̀ la vinai¬ grette. irille corbeauxen faicaſſee",
+            "de poulets, &amp; ſix douxaine de dragons volans aà̀ la dodlne. Douze ſal. mandres à la",
+            "ſauce à Robert. Qaatrleſae ſeroice: ouxe cens oyſeax de proye de toutes ſoros po prdix,",
+            "beccaſſes &amp; geliottes. Cinquaote giffnns edezdeſarpons d’Aftique, ayans toas figas",
+            "dbſasy"
+        ],
+        [
+            "5 aàharleavlſage d paadan¬ denconnus dechacun à la grimoeae. ut ai a milieu de",
+            "la able vn paaſeorepephag chaǵ de es, qail ſrie ſeulemede ſpoaettpfonnepy yat se’oucher.",
+            "aiſie ſaueedepanienie. ’ua ebalaine en venaiſon. Milledouains deo. quehigues en tourtes deux",
+            "cens cinquante blemum¬ Aen-douzaihese Pigmees qui ſariiut ous vi¬ n de leur pmſe, &amp; ſur",
+            "la plate forme farant lan6 enmps fgues &amp; poſurs aeirmiueouenudae ut l’nd’ed iouoit du",
+            "fageolet, &amp; aprea retouroonme , joromicile apresauoir nabandlécennafſndlaſ¬ ſebonné",
+            "gace. Siniefme faiO ¬ll ’ ent dazaies d’œufs d’Auaiche at la hugacote d Poreugaſe. Soiranse",
+            "totoe diu Nhd’ipffnmyat ble grendeur, dont les ecaills farent pteſentees à cea efiéurs,",
+            "pSur fairedes Imperiaes leors oairoſes, aueec des cloux d’or à leur entrée à̀ Paris. D",
+            "llere ſamgus des ah aaotide ſanji¬ quee porene igure huineomhlesoi. ifſues, Ragomts l",
+            "entremes. nll Sojrante douaines de nerfsr de boaf umee pouar lngeb. enomile",
+            "eſieuleednmuuorlaſanteblamhan¬ uoyec par le audoeigneun&amp; ſo minene n e¬",
+            "erroifafcddlaeoenudtiõ le la gderre enla Chre¬ ſtienté, dont ila profité ſur l’ſtat de",
+            "Veniz¬ &amp;elpele douilrp ldeuigllbmdnnlappuoupour ueql anchoies. Six charettes de ſauerles",
+            "d’Egype lannos - &amp; Péd efaaſele. E"
+        ],
+        [
+            "6. Qide e jabsns dhygpala uas fogs ds nboasdeMaydo¬¬ ar Salada Daauaaiſes",
+            "dpogoalués d’or poabolepe¬ rap-quioloagtl ſoyvnhiamdesu¬ ndacan chatates de nox de Galles",
+            "confites envi¬ aigre.’ 11 auuueuiages plats de chadona de l’Arabie piece heureuſe.: Aant",
+            "deiguesd’orioos&amp;epunelles de canadas pour oliuesu21 ſaatbsbi aumiea de ces plats vn",
+            "graad baſſin de lude de Gſeoangne, ce qui fie vn peu murmurrrle Pamueomme nmes de",
+            "mauuispaeſage, ce qu¬ taae apporoû ,ib tur nté &amp; gardé pour vne autre fois: .i on",
+            "Paar. le deſſert. Sn vagedoueaine de eitroiuiles de laterre de Po¬ miſſion. ’seaneeedome",
+            "bdis de gateculsdu lapp ouonuioro plnde poaioend’angpiſes e deſpaa¬ gle vilain.. ’Six",
+            "chareoes de pomimes denfe. ,oiouans noe un des lands der ſnmbie deſere edou¬",
+            "zechaetesd’atticltaaox fauuages?. l noempue ae ſe dſnilſueſrnupde ſoiann¬ dadinede",
+            "bouieilles deguigu muſras de Nor¬ mique? ,gume fluaons de vinde prunellé de la pouuee",
+            "Eſpagne.¬ aluoifie d cores ertes auans oqonre miuie oureiles de lurdefaielahde"
+        ],
+        [
+            "1! damenpira Le defſee leú pn vit parait deſſus la table &amp; deue chacua dees",
+            "aſſeurne feraine nuéchascune ſa co¬ pe d’abondance en main, repeſenean le viſage au na¬",
+            "turel des belles qui ſont hoécs, de leurlentretien à Paris, qui ietteront aà̀ chacuu de",
+            "leurs galands des eaux &amp; poudres de ſenteurs, &amp; chanterent des vandeuilles pour",
+            "obtenir deux augmenpatina de leurs penſion d’a¬ mour, nouueaux carroſſes &amp; emmeubbements",
+            "à lour retourà Paris. Ces Dames diſparuës l’on ſeruis la nape dans vn baſ¬ ſin aà̀ lauer vn",
+            "grand nombre de teſteshumaines dont le ſpectacle deuoit faire horreurmais ces aeſſieuts y",
+            "ro: erent de la conſolation, voyant quea’eſtoent cello¬ de leurs ennemis &amp; ſur le doute",
+            "qu’elles fuſſent natu;¬ relles, quelques vns yporterent les mainqui desfirent eſtonnes,, ar",
+            "cs peſtas ſe crouuerent auoir des dents qui mordiren douſreuſement ees curieux, en ſorte",
+            "qu’ils s’en ſeirent lengtomps, &amp;puis leroutdiſp¬ laiſſapt de la pour &amp; dlatuſiou ea",
+            "leur ame. Et, jucanqapres vn ſi grand repas ils deuoiens auoir beſoin de poudre digeſiue, il",
+            "hn fat ſerui dahs ne boeëte d’or vereil, elle eſtoit compoſée de cendre etpe de l puſslere",
+            "que fait le, mounement du odjaque, &amp; des pſsjeux ſurquoy roulleat les deu pol ley,faire",
+            "durans l’eſté, aue vn peu dola ſu ye qu’eagen ele feu element are au ciol de la lune",
+            "ſon’voiſin. dont cagun de ces Meſieurs les pariſans psit vne cueilliere lsepar curiteique pa",
+            "neçeſsitei, penſant auoir ous, J’eſtomaeh auſsi, chaud que l’Aucriche ayane tane digeré",
+            "d’or &amp; d’agent dopuis. que le mono¬"
+        ],
+        [
+            "r 8 pole es employe mais on trauaille à paii aue ¬a vomiitif oompdſt d’Areot ide",
+            "Pai lenehe qui leur fera voir qu’il eſt mdigeſt en leur faiſant tendretout: C feſtin tout a",
+            "fait aheue ce’grand Cardinal ou plaſtot Arcbhifeurbe, pourdeut teſnoigner ſa ſcience la ral.",
+            "gie, &amp; aſſeurer leus eſprits par d’autres proges plus recreatifs que les preeedens,",
+            "s’eſtant ſaiſ d’vne verge enchantée il eohnanda ea frappant quelques perſon¬ nages epreſeez",
+            "das- vne tapiſſerle de deſccendre pour donner la uſique à la compagnie, au defaut de cle de",
+            "la chanbre u Roy dermeureée icy, tellement que tout aufa-solt rit ’rireſias ſeſaiſit d’vne",
+            "vieille, olphee d’vne Aaſte:aàtris tpous &amp; d’v petit t. bourin , Annibalde Carthage",
+            "descyrmhballes, Geofroy aà la grand dent d’vne veſse de pahc’au bruit d’vn ba¬ ſõ, eluin",
+            "d’vntambsardebaſqe, ils firent merueile auec’csinſtturesy lyat ioint desfs voix pot haten",
+            "vne Hyrme à laloülangede la altoute &amp; deſts enfans, &amp;ſur l’ſperarſce de l voii vn",
+            "iour re¬ fleuoiaps les pretenduéës funserailles da arlenentt desBoubgeoisde pàriſ, aſs",
+            "c&amp;e qui ſteſouuéadmirbble e’oſt que l’afnod Apulee ayant ſté appeſleé́ à̀ ſon toüt qunta",
+            "la rapiſſerie pour venir battre la meſure aueeſa verge naturelle, tantoſt ſur l’eſpaule de",
+            "l’vn tanoſff ſut l’eſpaule de ſ’autre, ce quifitn peu ripre l’aſsiſtahte co tefois d but des",
+            "des ſe ſouudenant touſiouirs des ciocoſtancsdeefeſtin, lo’patmy la rare ſomptuoſ¬ 2é i’s",
+            "aoientiemaqé la alicde de celuy qui lesfraſie¬ toit, quilt etioûé btux leur imiprifmant",
+            "lcrin¬ e du ſoooqiiſs ateoddiee, don ſt ne ſlera pas extmpe duymeme ſi oi ly fa luſtibe. 2 1"
+        ]
+    ]
+}

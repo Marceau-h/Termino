@@ -1,0 +1,167 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Guyenne",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-04",
+            "@who": "AB"
+        },
+        "titre": "ARREST de la Cour de Parlement de Bourdeaux",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-04-20",
+                "#text": "mention de publication le 20 avril 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:6455058",
+            "#text": "Bordeaux"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121390552",
+            "@xml:id": "IL_MongironMillangesJacques.xml",
+            "persName": {
+                "forename": "Jacques",
+                "surname": "Mongiron Millanges"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE BOVRDEAVX.",
+            "Portant inhibitions &amp; deffences à toutes ſortes de per",
+            "ſonnes du Reſſort de ladite Cour, de pourſuivre",
+            "aucune eſuoquation generale ou particuliere con",
+            "cernant les mouvements paſſez.",
+            "Du 20. avril 1651.",
+            "A BOVRDEAVX;",
+            "Par I. MONGIRON MILLANGES",
+            "ordinaire du Roy. M. DC."
+        ],
+        [
+            "3",
+            "EXTRAICT",
+            "DES REGISTRES",
+            "de Parlement.",
+            "SVR ce qui a eſte re",
+            "preſenté à la Cour, Que",
+            "pluſieurs perſonnes du",
+            "Reſſort dicelle de tou",
+            "E tes qualitez ont pourſui",
+            "vy &amp; obtenu par vne",
+            "ſurprinſe manifeſte di",
+            "verſes eſuoquations, ou particulieres ou",
+            "generales, contre les Declarations des",
+            "années mil ſix cens quarante-neuf &amp; mil",
+            "ſix cens cinquante, par leſquelles Sa Ma",
+            "jeſté a declaré qu’elle n’accordera aucune",
+            "eſuoquationquiſoit fondée ſur les mouve",
+            "A 2"
+        ],
+        [
+            "4",
+            "mens pſſez; Ioint que toutes les eſuoqua",
+            "rions qui ſont données ſans connoiſſance",
+            "de cauſe, ſans ouyr les parties, ſont di",
+            "rectement contraires aux Ordonnances",
+            "de Blois, &amp; à la Declaration du mois",
+            "d’Octobre mil ſix cens quatante-huict,",
+            "par leſquelles il eſt Ordonné́ que les Iu",
+            "ges paſſeront outre au jugement des pro",
+            "cez, nonobſtant leſdites eſuoquarions: ce",
+            "qui a eſté partieulierement ordonné par la",
+            "Cour au mois de Fevrier164o par l’Ar",
+            "reſt d’enregiſtrement de ladite Declara",
+            "tion de mil ſix cens quarante-huict, pour",
+            "les eſuoquations qui auoient eſté accor",
+            "dées depuis le iour de ladite Declaration",
+            "iuſques audit enregiſtrement: Comme",
+            "auſſi pluſieurs par euidente ſurprinſe ob",
+            "tiennent ſur Requeſte, &amp; ſans connoiſ",
+            "ſance de cauſe, des ſurç̧oiances des exe",
+            "cutions des Arreſts de la Cour: ce qui eſt",
+            "contraire aà̀ ladite Ordonnance de Blois,l",
+            "&amp; a ladite Declaration de mil ſix cens",
+            "quarante-huict. LA COVR, les",
+            "Chambres"
+        ],
+        [
+            "5",
+            "Chambres aſſemblées, ouy le Proeur",
+            "General du Roy, A FAICI inh",
+            "tions &amp; deffences à̀ toutes ſortes de p.",
+            "ſonnes du Reſſort d’icelle, de pourſuir",
+            "aucune eſuoquation generale ou partie",
+            "liere, ſans connoiſſance de cauſe, &amp; ſan",
+            "ouyr les parties, ny qui ſoient fondées ſu",
+            "les mouvemens paſſez, à peine de tou",
+            "deſpens dommages &amp; intereſts que le",
+            "parties pourroient ſouffrir à raiſon de ce",
+            "ORDONNE en outre conformé",
+            "ment auſdites Ordonnances &amp; Declara",
+            "tions, &amp; ſuiuant l’Arreſt d’enregiſtreme n",
+            "de ladite Declaration de l’année mil ſi",
+            "cens quarante-huict, que nonobſtant lei",
+            "dites eſuoquations, il ſera paſſé outre a",
+            "jugement de tous les procez qui ſo",
+            "pendus en la Cour, &amp; qui y ſeront me",
+            "aà l’aduenir; Comme auſſi nonobſtan",
+            "les ſurçoiances obtenuë̈s ſur ſimple Re",
+            "queſte, &amp; contre les termes de la ſuldi",
+            "te Ordonnance de Blois, &amp; de ladit",
+            "Declaration de l’année mil ſix cens qua",
+            "B"
+        ],
+        [
+            ".-¬¬",
+            "ate-huict, il ſera paſſé outre par ladite",
+            "nur, ſur l’execution deſdits Arreſts,",
+            "nformément a ladite Ordonnance &amp;",
+            "claration. ORDONNE ladite",
+            "our que le preſent Arreſt ſera affiché",
+            "eu &amp; publié dans l’Audience, &amp; enuoyé",
+            "lns tous les Bailliages, Seneſchauſſées",
+            "Sieges du eſſort, pour y eſtre fait",
+            "enblable lecture &amp; publication. PAIT",
+            "Dourdeaux en Parlement les Chambres",
+            "ſſemblées le ro. Fevrier 165r.",
+            "Signé, SVAV.",
+            "Leas &amp; publié à Bourdeaux en Parlement.",
+            "n l’Audience de la Grand-Chambre, le 20.",
+            "vril mil ſix cens cinquante-vn,",
+            "e",
+            "Signe, LAROCHE"
+        ]
+    ]
+}

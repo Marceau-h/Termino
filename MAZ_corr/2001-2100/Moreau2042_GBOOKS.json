@@ -1,0 +1,115 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1651-02-06",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-10",
+            "@who": "AB"
+        },
+        "titre": "Lettre de nosseigneurs de la cour de Parlement de Paris,\n          envoyée aux autres parlements de France, sur le sujet de l'éloignement du cardinal\n          Mazarim, du 10 février 1651.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-02",
+                "#text": "datée de février 1651"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LETTRE DENOSSEI. ’",
+            "gneurs de la Cour deParlement",
+            "de Paris, Enuoyée aux autres",
+            "Parlemens de France,ſur le ſujet",
+            "de l’éloignement du Cardinal",
+            "Mazarin.",
+            "Du ro. Feburier 16;r.",
+            "A",
+            "s a8",
+            "ans",
+            "A PARIS,",
+            "Par les Imprimeurs ordinaires du Roy.",
+            "Auec Priuilege de ſa Maieſté."
+        ],
+        [
+            "3",
+            "AſAs",
+            "S V",
+            "a8",
+            "n",
+            "uſp",
+            "LETTREDE NOS SEIGNER5",
+            "de la Cour de Parlement de Paris, Enuoyée",
+            "aux autres Parlemoans de Fnance, ſur le ſu",
+            "iet del’éloignement du Cardinal Mazarin.",
+            "Da 1o. Febarier 16r.",
+            "ESSIEVRS",
+            "Vous reconoiſtrez par les actes cy",
+            "enclos, les ſoins particuliers de no",
+            "ſtre Compagne pour maintenir",
+            "l’authorité Royale, &amp; apporter",
+            "A ij"
+        ],
+        [
+            "4.",
+            ".",
+            "quelque ſoulagement à tant de mi¬.",
+            "ſeresque les Subjets du Roy ſouf",
+            "frent, &amp; la cauſe veritable de tant",
+            "Cde mal heurs prouenãs de la mau",
+            "uaiſe conduitte du Cardinal Maza",
+            "in. Elle y a en fin pourueu par",
+            "l’Arreſt que l’on vous enuoye. Et",
+            "comme vous en pouuez connoiſtre",
+            "les eſfets en voſtre Prouince, on ſe",
+            "promet que vous y employerez",
+            "l’authorité que vous auez par l’hon",
+            "neur de vos charges &amp; voſtre affe",
+            "ction au public: Vous aſſeurant",
+            "que nous ſerons touſiours,",
+            "MESSIEVRS,",
+            "8",
+            "u",
+            "Vos bons Freres &amp; Amis",
+            "les gens tenans la Cour",
+            "de Parlement.",
+            "Sgné, GVYET.",
+            "Parus ce r2. Febrer 165I."
+        ]
+    ]
+}

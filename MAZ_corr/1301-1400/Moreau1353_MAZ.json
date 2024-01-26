@@ -1,0 +1,113 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Épernon, Bernard de Nogaret de La Valette (1592-1661 ; duc d')",
+            "Bordeaux"
+        ],
+        "creation": "1649-09-05",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-10",
+            "@who": "AB"
+        },
+        "titre": "Extrait des registres du Parlement de Bordeaux.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-09-24",
+                "#text": "daté du 24 septembre 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "EXTRAICT",
+            "DES REGISTRES",
+            "du Parlement de Bordeaux.",
+            "A PARIS,",
+            "M. DC. XLIX."
+        ],
+        [
+            "EXTRAICT DES",
+            "REGISTRES DV PARLEMENT",
+            "de Bordeaux.",
+            "SVR ce qui a eſté repreſente s laCour,",
+            "que le Sieur Due d’Eſpetnon, a bailé",
+            "diuerſes Ordonnances dans leſquelles",
+            "il qualifie Calomnieuſement les Hb",
+            "rans de Bordeaux, rebelles &amp; factieux,",
+            "faiét ſemerdiuers faux bruits cotre les H’bitans, bien",
+            "que pour iuftifier leurs bonnes intentions il ne ſoit",
+            "beſoin da conſiderer que leur moderation &amp; condui",
+            "teans loppreſſion qu’ils ont ſoufferte &amp; ſoffrent",
+            "depuis huit mois, neantmoins cét mauuaiſes impre¬.",
+            "ſions ont eu tel effet quelles on fait conſentir &amp; con",
+            "trainct les Habitans des Villes de Bergere, Se Foy,!",
+            "Mbnt- flanqui, Mont ſegure; Lareole, Matmande,i",
+            "&amp; autres du reſort le la Cour, de foumiir des gens de",
+            "Guerte, pour cõcouir aux mauuais eſſeins dudit Duc",
+            "d’Eſperno Masd’autant que danstoutes les reneon!",
+            "Hſes Hbieansde eétVjlles ont demoé vnis à ceux",
+            "de’Botdeaux, pouitle Seruice ’du Roy,qu’õ peut direà.",
+            "..",
+            "A."
+        ],
+        [
+            "pleeye e eſt eme deur, nlianiop quil pue",
+            "fournydes Arnaes pous oonbradeſdus Habitas,",
+            "uepiegrpformé delyrs eſſins reequpon,",
+            "lt oes, s’ vodued eA &amp;luiropal",
+            "ſagſ eu qui yéllet poru des vires &amp; veniqau",
+            "ſeruice de cette Ville dont la perte entraine auacelles",
+            "la leur ineuitable. Ouy ſur ce, le Procureur General",
+            "du yrl pou, es Cmpres-extardinasomens",
+            "aſſblées,à Ordouné &amp; prdnea que les Habins",
+            "deſdites Vlles &amp; autres du reſſort de la Cour; ſetont",
+            "iuf9rmé́, dçs ritables ppreſſipns qu’ont ſouffertle",
+            "Habiansde, Bqtdeaux, depuispuic mois &amp; ſouffr",
+            "encoe par l’ordre dudit Due d’Efpernon, &amp; ſeront",
+            "exortés de rappeller les ges de Guere founis par elles",
+            "audit Duod’Eſpernon &amp; baillat-paſſageà cux quij",
+            "aouen àla deffences de cettg ille, portey des,",
+            "viures co mé ils auoient accouſtumé de faire moyen",
+            "nat ce ladite Cour a mis &amp; metles Habitans deſdires",
+            "Vilbea fusle proejon du oy &amp;x de la Cour, faict,",
+            "indbiios &amp; deffanees audt-Duc dEſpçrnon &amp; tqua",
+            "aatresde laux mesfaireen leurs perſonnes &amp; biens &amp;;",
+            "enonſequence leu a permis &amp; permet de s’armer,",
+            "darepouſſod aqui vouroieey ppte de l’Em",
+            "peſheneutodongque lprgenp Arreſt ſera, l;,,",
+            "peiuibleu, publje paygout ou, efninſe. Donné en",
+            "Parlement le 24. Sepembre, 1649."
+        ]
+    ]
+}

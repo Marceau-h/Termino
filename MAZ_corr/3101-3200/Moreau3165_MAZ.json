@@ -1,0 +1,142 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "récit",
+            "relation"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Harcourt, Henri de Lorraine (1601-1666 ; comte d')",
+            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+            "Bougy, Jean Le Révérend, marquis de (1618?-1658)",
+            "Esparbès de Lussan, Marie (16..-16.. ; Comtesse de Jonzac)",
+            "Barbézieux-Saint-Hilaire (Charente)",
+            "Saint-André-de-Cubzac (Gironde)",
+            "Jonzac (Charente-Maritime)"
+        ],
+        "creation": "1652-01-09",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-17",
+            "@who": "AB"
+        },
+        "titre": "Relation escrite de Poictiers,du XX janvier MDLII,\n          contenant les avantages emportés sur l'armée de M. le Prince par l'armée du roy.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1652-01-26",
+                "@when": "1652",
+                "#text": "à partir du 26 janvier 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "RELATION",
+            "ESCRITE",
+            "DE POITIERS.",
+            "Contenant les auantages em",
+            "portez ſur l’Armée de mon",
+            "ſieur le Prince parl’Armée du",
+            "Roy.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires du",
+            "M. DC. LII.",
+            "Auec Priuilege de ſa Majeté."
+        ],
+        [
+            "4",
+            "diligence à Barbeſieux, où eſtoit le Mar",
+            "uisde euy, auecenuiror 4oo. hmmes",
+            "de pied, 5o. cheuaux, &amp; quantité d’Offi",
+            "eiers; ils ſe retirerent tous d’abord dans le",
+            "Chaſteau, où mondit ſieur le Comte d’Har",
+            "court les fit inueſtir: mais ayant appris quë",
+            "Monſieur le Prince ſe retiroit du coſté de",
+            "Bordeaux en grand haſte, il laiſſa le com",
+            "mandement de l’attaqué dudit Chaſteaà",
+            "Monſieur de Bellefons Mareſchal de",
+            "Camp, auec lequel le lendemainledi ſeur",
+            "de Leuy capitula, &amp; ſe rendit uoc tous",
+            "leſdits Ofſiciers &amp; Soldats priſonniers de",
+            "guerre: Mondit ſieur le Comte paſſa outre,",
+            "&amp; marcha en toute diligence pour eſſayer",
+            "de ioindre Monſiur de Price. Il tomba?",
+            "dans le nilieu de ſes quartié poehe Saine",
+            "Andŕ en vn lieu nommé́ ſainct Anthonin,",
+            "où̀ il y auoit cinq Regimons d Cauallerie",
+            "logez, dees meilloues troupes, eſtanteel",
+            "les que Marſin auoit amehb&amp;s d Cathalo",
+            "gne; elles ont eſté ehtſetement defaites?",
+            "Va ormé Gaudis de la maſou de Mitel",
+            "poix qui commandolt vndefdite egu",
+            "nmens ya eſé tue &amp;puſiun oadod",
+            ".Lgrs."
+        ],
+        [
+            "enuiron cinq cens Caualliers de pris, &amp;",
+            "neuf cens cheuaux.",
+            "L’on’ne doit pas obmettre que Monſieur",
+            "le Prince, ayant laiſſé vne garniſon de qua",
+            "tre cens hommes à Ionſac, &amp; ayant eſté",
+            "prié par la Dame du lieu de la retirer; &amp;",
+            "luy l’ayant refuſé, elle ſe reſolut auec l’aſſ¬,",
+            "ſtance des Habitans de ſe deffaire de cette",
+            "garniſon; à quoy elle reüſſit ſi heureuſe",
+            "ment, qu’il ne reſta aucun Officier ny ſol",
+            "dat qui ne fut pris ou tué; il ne ſe peut",
+            "dire auec quelle valeur ladite Dame, auec",
+            "vne Damoiſelle de condition de ſes paren",
+            "tes, ſe porta en cette occaſion.",
+            "La Garniſon de Pons a eu le meſme ſort.",
+            "Monſieur le Cheualier d’Albret ayant aſ",
+            "ſemblé quelques- vns de ſes amis, l’a entie",
+            "rement defaitte, &amp; s’eſt rendu maiſtre du",
+            "Chaſteau de Pons.",
+            "En fin en ſix iours de temps il y a eu plus",
+            "de quinze cens hommes &amp; dix-huict cens",
+            "cheuaux pris de l’Armé́e de Monſieur le",
+            "Prince; l’on ne ſ̧ait point certainement en",
+            "coreoù il ſe ſera retiré. Monſieur de Tracy"
+        ],
+        [
+            "vient d’arriuer, qua apporte ces nouueſ",
+            "les a ſa Majeſté.",
+            "La Relation partlculiete en viendra de",
+            "main, auec les noms de ceux qui ont con",
+            "tribué à de ſi glorieuſes aCtions; Cepen dant",
+            "en attendant ie vous enuoye ce petit me",
+            "rnoie, afin que chacur ſoit informé de ce",
+            "fuecez ſi aduantageux aux Armes du Roy."
+        ]
+    ]
+}

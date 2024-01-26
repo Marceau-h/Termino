@@ -1,0 +1,181 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſte",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2021-11-16",
+            "@who": "AB"
+        },
+        "titre": "Déclaration du roi, portant qu'à l’avenir aucuns\n                    étrangers, quoique naturalisés, ni même les François qui auront été promus à la\n                    dignité de cardinal, n’auront plus entrée au conseil, ni admis (sic) à la\n                    participation des affaires de Sa Majesté, vérifiée en parlement, le 20 avril\n                    1651.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121209573",
+            "persName": {
+                "forename": "Louis",
+                "surname": "De Bourbon"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1651-04-21",
+                "#text": "21 avril 1651"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": "Imprimeurs et libraires ordinaires du roi",
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "DECLARATION",
+            "DV ROY,",
+            "PORTANT QV’A L’ADVENIR",
+            "aucuns Eſtrangers quoy que naturaliſez, ny meſ¬",
+            "me les Franç̧ois qui auront eſté promeus à la di¬",
+            "gnité de Cardinal, n’auront plus entrée aux",
+            "Conſeils, ny admis à la participation des affaires",
+            "de ſa Majeſté.",
+            "Verifée en Parlement le vingtiéme Auril 1651.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires du Roy.",
+            "PCLl",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "LOVIS par la grace de Dieu",
+            "Roy de Franee &amp; de Nauare,",
+            "A tous preſens &amp;ai venir Salut",
+            "Les Gens de noſtre Cour de",
+            "a parlement de Paris, Apres plu¬",
+            "ſieurs deliberations ſur l’oceurrence des af¬",
+            "faires preſentes de ce Royaume, nous ayant",
+            "fait diuerſes inſtances pour exclurre à l’a¬",
+            "uenir de l’entrée de nos Conſeils, &amp; admi¬",
+            "niſtration de nos affaires, tous Eſtrangers,",
+            "meſme naturaliſez, &amp; les Cardinaux quoy",
+            "que François; Novs apres auoir mis la",
+            "matiere en deliberation en noſtre Con¬",
+            "ſeil, ayant eſgard aux remontrances des",
+            "Gens de noſtredite Cour, &amp; faiſant conſi¬",
+            "deration des raiſons qui nous ont eſté par",
+            "eux repreſentées ſur ce ſujet; De ’ADv1s",
+            "de la Reyne Regente noſtre tres-honoreée",
+            "Dame &amp; Mere, de noſtre tres- cher &amp; tres¬",
+            "A ij"
+        ],
+        [
+            "4",
+            "amé Onele le Due d’Orleans, de noſtse",
+            "trescher &amp; tres-ameé Couſin le Prince de",
+            "Condé, &amp; autres ’rinces, Ducs, P’airs, Of¬",
+            "ficiers de noſtre Courone, Grands &amp;No¬",
+            "tables perſonnages de noſtre Conſeil,",
+            "Novs auons dit &amp; declare par ces pre¬",
+            "ſentes ſignées de noſtre main, Diſons &amp;",
+            "declarons, voulons &amp; nous plaiſt, Qu’à",
+            "l’aduenir aucuns Eſtrangers quoy que na¬",
+            "turaliſez, ny ceux de nos ſubjets qui au¬",
+            "ront. eſté promeus à la dignitéde Car¬",
+            "dnal, n’auront plus entrée en nos Con¬",
+            "ſeils, &amp; ne ſeront admis à la partieipa¬",
+            "tion de nos afſaires. S . DONOS en",
+            "mandement a nos amez &amp; feaux les ens",
+            "tenans noſtre Cour de Parlement à Pa¬",
+            "ris Que ces preſentes ils ayen à faite",
+            "lire, publier &amp; regiſtrer, pour eſtrte eiẽ",
+            "cutees ſelon leu torme &amp; teneute CaR",
+            "tel eſt noſtre plai. Et afin que-e ſoit",
+            "choſe ferme &amp; ſtable aà touſiours; Nous",
+            "auons fait mettre noſtre ſecl à̀ teſdites",
+            "preſentes. Dona’ a Paris le dix-huictié¬",
+            "me iour, d’Auril. l’an do gnad́ -nil-ſix",
+            "cens"
+        ],
+        [
+            "ens cinquante-vn, &amp; de noſtre regne le",
+            "huictiéme, Signé LOVIS; Et ſur le reply",
+            "eſt eſcrit, Par le Roy la Reyne Regente ſa",
+            "Mere preſente, de Gven e av, &amp; ſel¬",
+            "lées ſur lacs de ſoye rouge &amp; verte du grand",
+            "ſceau de cire verte. Et encore ſur le reply eſt",
+            "eſcrit.",
+            "Leuës, psbliées l’udiance tenant, &amp; Re¬",
+            "itrées au Grefe de la Cour, Ouy ce requeraut",
+            "Procureur eneral d Ray, pour extre exe¬",
+            "cuté́es ſelon leur forme teneur, &amp; coppies",
+            "coldanionées à l’original enuoyées aux Bailla¬",
+            "ges Seneſchauſſees de ce reſſort, poar y eſtre",
+            "pareillement leaes, publieées, regiſtrées &amp; exe¬",
+            "catees. Enjoint aux Subſtituts due Pracarer",
+            "Geooal dy air la maaain, &amp; cerriſier la Cor",
+            "aoir ce fait aa aois. Paris en Parlemeent",
+            "le vingtieſme Auril mil ſix cns ciqaante-vn.",
+            "Signé, GVTET.",
+            "0",
+            "Extrait des Regiſtres de Parlement.",
+            "E Iov, la Cour toutes les Chambres",
+            "aſſemblées, ayant dehibere ſur les Let¬"
+        ],
+        [
+            "6¬",
+            "tres Patentes données a Paris le dix-huictiéme",
+            "du preſent mois &amp; an, ſignées LoVis, &amp; ſur",
+            "le reply, Par le Roy &amp; la Reyne Regente ſa",
+            "Mere preſente D GVENEAVD, &amp; ſcel¬",
+            "lé́es du grand Sceau de cire vette en lacs de",
+            "ſoye; par leſquelles &amp; pour les cauſes y conte¬",
+            "nuës ledit Seigneur Roy, de l’aduis de ladite",
+            "Dame Reyne Regente, de ſes tres-chers &amp;",
+            "tres-amés Oncle le Duc d’Orleans, &amp; Couſin",
+            "le Prince de Condé, &amp; d’autres Princes, Ducs,",
+            "Pairs &amp; Officiers de ſaCouronne, grands &amp;",
+            "notables perſonnages de ſon Conſeil; Auroit",
+            "dit &amp; declaré, veut &amp; luy plaît, qu’à l’aduenir",
+            "aucuns Eſtrangers, quoy que naturaliſez, ny",
+            "ceux de ſes ſujets, qui auront eſté promeus à la",
+            "digniteé de Cardinal, n’auront plus entrée en",
+            "ſes Conſeils, &amp; ne ſeront adrmis à la participa¬",
+            "tion de ſes affaires, ainſi que plus au long eſt",
+            "porté par leſdites Lettres à la Cour addreſ¬",
+            "ſantes; Concluſions du Procureur General",
+            "du Roy, A ARRESTE &amp; ordonneé, Que",
+            "leſdites Lettres ſeront leues, publiées &amp; regi¬",
+            "ſtrées au Greffe d’icelle, pour eſtre execu¬",
+            "tees, gardées &amp; obſerúes ſelon leur forme",
+            "&amp; teneur; &amp; que coppies collationnées ſe¬"
+        ],
+        [
+            "3",
+            "ront enuoyées aux Baillages, Seneſchauſſées,",
+            "&amp; autres ſieges du reſſort, pour y eſtre auſſi",
+            "regiſtrées &amp; executées à la requeſte dudit",
+            "Procureur General, &amp; diligence de ſes Subſti¬",
+            "tuts. Fait en Parlement le dix-neufieéme Auril",
+            "mil ſix cens cinquante-vn.",
+            "Signé,",
+            "V I l.",
+            "Collationné aux Originaux par moy Con¬",
+            "ſeiller Secretaire du Roy &amp; de ſes Finances."
+        ]
+    ]
+}

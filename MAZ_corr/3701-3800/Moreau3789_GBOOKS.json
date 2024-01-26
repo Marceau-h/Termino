@@ -1,0 +1,132 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-05-23",
+            "@who": "ZC"
+        },
+        "titre": "Le tout en tout du temps.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LE TOVT",
+            "EN TOVT",
+            "DV TEMPS"
+        ],
+        [
+            "LE TOVT",
+            "EN TOVT",
+            "du Temps.",
+            "JE Roy enfant iegnore tou.",
+            "l-LaReiue egente donme tout,",
+            "IperitDe dAnjou ſcttout,",
+            "LadReine dAleterre pleure tout,,",
+            "¬..",
+            "Le Duc d’Orleans ioüe tout,",
+            "iueeieiſaioie aiei¬",
+            "Mdamoſe eſt tiſte dua tout,",
+            "Le Prince de Conde prend tout,",
+            "Madame la Princeſſe ſouffre tout,",
+            "Le Prince de Conty apprend tout,",
+            "Le Duc de Vendoſme eſpere tout,",
+            "Le Duc de Mercœur voit tout,",
+            "Le Duc de Beaufort ſe deffie de tout,",
+            "Le Duc de Longueuille preuoit tout,",
+            "Meſfieurs de Guiſe attendent tout,",
+            "Le Duc d’Elbœufpaye tout,",
+            "Le Comte d’Harcourt ſuit tout,",
+            "Le Duc d’Angouleſme rit detout,",
+            "Le Duc de Montbazon va par tout.",
+            "Pendant que ſa femme fait tout,",
+            "Le Cardinal enleue tout,",
+            "Le ſur- Intendant gaſte tout,",
+            "liuanaas¬",
+            "E",
+            "J atbbuote!"
+        ],
+        [
+            "LeChancellier ſcelle tout,.",
+            "De Guenegaud ſigne tout,",
+            "¬¬",
+            "De Tubœuf controlle tout.",
+            "Le Cheualier dela Valette iuſtifietont,",
+            "Le Commandeur de larre loie tous,",
+            "Les Curtiſans adairenttot,:",
+            "Les Ianſeniſtes blaſment tout,",
+            "Leurs Conteſtansapprouuenat tout,",
+            "Les Predicateurs d̂guiſeneu,",
+            "L’Eſpagnol ſepreuaut detot,",
+            "Les Huguenots ricnt de toat.,",
+            "Les Partiſans demadentont,",
+            "Apres auoir pilleletou4i",
+            "Et ne rendrontpasfitoftout.",
+            "Le Parlement verifie tous,",
+            "Le Premler Preſident reuelle tout,",
+            "Et l’on l’aceuſe de tout,",
+            "Quoy qu’il nefaſſe pastout,",
+            "De DBrouxelles a brouille tout,",
+            "Et le Peuple a crié de tout.",
+            "Le Courier fait mention de tout,",
+            "Les Eſtrangers ecriuent tout,",
+            "On n’a pas pû aller par tout,",
+            "Les Fanfarrons terraſſent tout,",
+            "La Riuiere a emmeneé tout,",
+            "Le Preuoſt des Marchans pille tout,",
+            "Les Eſcheuins retranchent tout,",
+            "D’Aubray preſte la main à tout,",
+            "Et le Criminel corrompttout,",
+            "Les Commiſſaires depolſiſſent tout,",
+            "Les Marchans conſeruent tout",
+            "Les Chicaneurs ne font riedutout,",
+            "Et les Armuriers vendent tout,",
+            "Les Mones prient Dieu pour tout,"
+        ],
+        [
+            ".",
+            "4",
+            "Les gens de guerre volent tout,",
+            "Les putains font cul bas par tout,",
+            "Poux &amp; punaiſes mangent tout,",
+            "Les morpions s’artachent partout,",
+            "Les Poëtes parlent de tout,.",
+            "Quoy qu’ils ne ſoient pas pleins de tout,",
+            "Les artiſans ont quitte tout,",
+            "Enfin tout n’eſt fait que partoue,",
+            "Et le tout a conſommé tout,1.",
+            "Tout va partout, tout eſt paropt.:",
+            "Et tout le monde agit partout",
+            "Les pauures Francois ſouffrent tout",
+            "Mais à la finil perdront rout",
+            "Si Dieu ne met lamai à tout",
+            "L grand diable emporteratout.",
+            "FIN."
+        ]
+    ]
+}

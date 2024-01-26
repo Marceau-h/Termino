@@ -1,0 +1,133 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "ordonnance"
+        ],
+        "subject": [
+            "Alimentation",
+            "Approvisionnement"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-02-19",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Ordonnance de messieurs les prévôt des marchands et\n          échevins de la ville de Paris, par laquelle il est enjoint aux boulangers et pâtissiers de\n          faire dorénavant des pains de deux et trois livres seulement pour la subsistance et\n          soulagement des pauvres gens.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-03",
+                "#text": "mars 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000008903969",
+            "@xml:id": "IL_RocoletPierre.xml",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Rocolet"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "312859",
+            "ORDONNANCE",
+            "DE MESSIEVRSLES",
+            "PREVOSTDES MARCHANDS ET",
+            "Escn vins Dela ViLL De Pais.",
+            "Par laquelle il eſt enioint aux Boulangers",
+            "Patiſsiers de faire doreſnauant des pains de",
+            "deux &amp; trois liures ſeulemet, pour la ſubſiſtance",
+            "&amp;ſoulagement des pauures gens.",
+            "Du premier rs 16̃49.",
+            "Ceee",
+            "u2 N",
+            "s",
+            "4",
+            "8",
+            "tsls lS",
+            "s",
+            "ns",
+            "I!",
+            "l.",
+            "l",
+            "u",
+            "A PARIS,",
+            "chez P.Roe oeT Impr. &amp; Libr. ordin. du Roy,",
+            "&amp; de la Maiſon de Ville, au Palais, aux Armes",
+            "du Roy, &amp; dela Ville.",
+            ",",
+            "M DC. XLIX.",
+            "Auec Priuilege de ſa Maieſté."
+        ],
+        [
+            "AAAhA A",
+            "P pr les Preuoſt des archands &amp; Eſcheuins",
+            "de la villede Pais.",
+            "é VRla plainte à nous faite",
+            "au Bureaus de la Villes pur",
+            "St les Habitans des Faux.",
+            "bourgs de cette Vijlle, au preiudice",
+            "&amp; contrauention de nos Ordõnan",
+            "ces precedentes, portant injonction",
+            "aux Boulangers &amp; Patiſsiers de cet",
+            "te Ville&amp; deſdits Faux-bourgs, de",
+            "faire des pains de deux&amp; trois lires,",
+            "leſdits Boulangers &amp; Patiſsiers n’ex",
+            "posẽtenvente que des pains de inq",
+            "&amp; ſix liures, &amp; utresplus peſans, dõt",
+            "les pauures gens n’ont moyen de ſe",
+            "fournir. Requerant y eſtre pour",
+            "ueu. NOVS, faiſant droct ſur lad.",
+            "plainte &amp; requiſitoire, A VONS"
+        ],
+        [
+            "4",
+            "conformement à noſd. Ordonnan",
+            "ces, Enjoint aux Boulangers &amp; Pa",
+            "tiſsiers deſdits Fauxbourgs de faire",
+            "doreſnauant des pains dudt poids",
+            "de deux &amp; trois liures ſeulement,",
+            "afin que les pauures gens en puiſſent",
+            "achepter pour leur ſubſiſtance. Fai",
+            "ſons deffences auſdits Boullangers",
+            "&amp; Patiſsiers de faire &amp; cuir des painms",
+            "de plus grand poids,à peine de la vie.",
+            "Ce qui ſera pubhié &amp; affiché dans",
+            "leſdits Faux-bourgs &amp; par tout a",
+            "leurs où beſoin ſera, à̀ ce qu’aucun",
+            "n’en ignore. Fait au Bureau de la",
+            "Ville le premier iour deMars 649.",
+            "Signé, LE MAIRE.",
+            "Collaeiooné à I’Originial padr moy Grefier",
+            "de ladue Ville, ſoubs fgné. A",
+            "3"
+        ]
+    ]
+}

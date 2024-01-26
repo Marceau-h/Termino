@@ -1,0 +1,183 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "prosopopée",
+            "lamentation",
+            "plainte"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-06-17",
+            "@who": "AB"
+        },
+        "titre": "Les plaintes de la France sur l'état présent.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1648-09",
+                "#text": "septembre 1648"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LES PLAINTES",
+            "DE",
+            "LA FRANCE,",
+            "SVR",
+            "L'ESTAT PRESENT."
+        ],
+        [
+            "3",
+            "LES PLAINTES",
+            "T",
+            "T DT",
+            "T",
+            "R H",
+            "DE",
+            "RANCE.",
+            "1 A!",
+            "SVR",
+            "D C1",
+            "CT R",
+            "T r¬",
+            "IT",
+            "D N",
+            "ILILD IA I I. ON .",
+            "IEV tout puiſſant, iettez les yeux ſur moy,",
+            "J Et du haut de vos Cieux, regardez ma miſere,",
+            "L Er appaiſez du tout, voſtre grande Colere,",
+            "Prenant miſeicorde d’vnmiſerable Roy.",
+            "De voſtre œil clairvoyant, vous le voyez trahir,",
+            "Par ceux qui font ſe mblant, d’aymer la pauure France,",
+            "Mais au lieu de l’aymer, ils preignent les Finances,",
+            "Affin que bien pluſtoſt, ils puiſſent luy nuire¬",
+            "A ij"
+        ],
+        [
+            "Ces Miniſtres ont Iu gé, pour faire mieux leurs gain",
+            "Qu’il falloit renuerſer Paris ſa grande Ville,",
+            "Et pour le rendre encore d’auantage debile:",
+            "Ruiner ſon Parlement; quii eſt tout ſon ſouſtien.",
+            "Vous ſçauez o bonDieu, que tous les pauures gens",
+            "Ont eſté ruinez par tels brigandages,",
+            "Leurs femmes violées, leurs biens mis enpillage?",
+            "Et encore jettez dans d’atroces tourmens.",
+            "&amp; Siecle maudit, ô Siecle peruers",
+            "On commet tous les iours, &amp; tant &amp; tant de crimes",
+            "Leſquels feroientrougir les ſtigieuſes abyſmes:",
+            "Sans qu’on n’oſe rien dire, ny Proſe ny Vers.",
+            "Helas bon Dieu helas ? hé que i’ay de tourmens",
+            "Quand ie voy que ie porte, de mal-heureux coupables,",
+            "Qui ſont par leurs actions, &amp; leurs geſtes hayſables:",
+            "Et qui preignent plaiſir à tuer les Innocens.",
+            "Perfide Mazarin Infame Cardinal",
+            "Hé penſe tu couurir de ce manteau t’on vice,",
+            "Tes vols tes pillages, &amp; t’a grande malice:",
+            "De ce manteau diſ-ie quite ſciez ſi mal.",
+            "Tu te trompe impie, parjure &amp; bourreau",
+            "Car tu veux reſſembler cét ancien Boniface,",
+            "Lequel"
+        ],
+        [
+            "Lequel deuant ſa mort, ſe deſchira la face,",
+            "Puiſque tant d’innocens tu mets dans le tombeau.",
+            "Mais tout le monde ſçait, que tu n’eſt qu’vn maraut",
+            "Et ce que tu voudras encore que tu face,",
+            "Tu n’éuiteras pas pourtant cette diſgrace:",
+            "Que tu dois eſperer, &amp; attendre d’enhault.",
+            "Bon Dieu que cet homme eſt ſuperbe &amp; inſolent",
+            "Cet homme lequel vient de la lie du vulgaire,",
+            "Qui à̀ touſiours eſté dans de grandes miſeres:",
+            "Iettant des yeux affreux, ſur les Princes du Sang.",
+            "&amp; La grande Inſolence, enverité ie croy,",
+            "Qu’apres qu’il à tant fait, qu’il peut plus que la Reyne,",
+            "Et qu’il met ceux qu’il veux, enchainez dans les geſtes",
+            "Il vcut aller encore par deſſus noſtre Roy.",
+            "Helas ou ſommes nous reduits, en cetemps",
+            "Dans lequel on fait gloire, d’auoir de la vengeance,",
+            "Tant de ie ne ſçay qui marchent auec inſolence,",
+            "Pardeuant les vertueux, &amp; pardeuant les grands.",
+            "Où eſt auſſi allée cette bellevertu,",
+            "Puiſque on ne la void plus, &amp; que tous n’eſt que vice,",
+            "Et qu’on ne rend icy, que de grandes iniuſtice:",
+            "Par toutes leſquelles choſes, vn Royaume eſt tortu.",
+            "B"
+        ],
+        [
+            "6",
+            "Où eſt donc cette honeſte, &amp; tres celebre Cour,",
+            "Où eſtoit la Franchiſe, où eſtoit la Iuſtice,",
+            "Où on ne parloit point, d’auoir de la malice,",
+            "Ny d’aymer les delices, ny faire vn mauuais tour.",
+            "Où eſt donc cette France, où ſont dõc ces beaux Lys,",
+            "Fault il qu’ils ſoient changez, pour de la vilenie,",
+            "Et que tout ce beau lieu, ne ſoit plus qu’infamie:",
+            "Ils fault qu’ils ne ſoient plus, mais des Crapaux noirçis",
+            "Tous ces vilains ſuperbes;ſont vils &amp; preſumptueux,",
+            "Quand ils ſont tout au haut de l’inconſtante rouë̈,",
+            "Mais ils choiront enfin, rudement dans la bouë:",
+            "o qu’il fera beau voir, mander ces orgueillieux.",
+            "Il fault de plus encore, que de nobles Seigneurs,",
+            "ui viennent les voir, ſoient trois heures à la porte,",
+            "A garder la muls, car il ne fault qu’ils hortent:",
+            "De peur d’eſtre importuns, eueillans ſes Meſſieurs.",
+            "A la fin l’on leurs dit, qu’on les demande la bas,",
+            "Ils commencent à iurer, par leurs bonne fortune,",
+            "Qu’ils n’ont point de repos, &amp; qu’on les importune:",
+            "Diſant à leurs valets, d’y queie n’y ſuis pas.",
+            "Hé quoy mes bons François, &amp; quoy mes bons enfans",
+            "Sera il touſiours dit, que vous les laiſſeriez faire,"
+        ],
+        [
+            "que vous ne chaſſerez, cet engeance de vipere",
+            "Et tous ces orgueilleux, &amp; Miniſtres inſolens.",
+            "Ils ſe nomment, &amp; s’apellent puiſſants, &amp; potentats",
+            "Parce que Satan qu’ils ſeruẽt, eſt Roy de ce bas monde,",
+            "Lequel de tous Coſtez, cſt entouré de londe:",
+            "C’eſt pourquoy ils ſe nomment, Miniſtres des Eſtats.",
+            "Ah? montrez vous vaillans, ne ſoyez pas poltrons,",
+            "Hé quoy voudriez vous, auoir vn eſprit laſche,",
+            "Vos Peres n’eſtoient pas marquez de cette tache,",
+            "Puiſque pour combattre, ils ont paſſé les monts.",
+            "Ne ſecourez vous pas, le ioug d’vn Italien",
+            "D’vn perfide Italien, d’vn laſſif &amp; infame,",
+            "Qui par arts inouys, à excité la flamme,",
+            "Dans le Cœur de la Reyne, pour faire mieux ſon gain.",
+            "Vos Peres ont meſprisé, tout le pouuoir Romain,",
+            "Ont auſſi combatu, en diuerſes rencontres,",
+            "Ont vaincu, ont perdu, &amp; eſté à l’encontre,",
+            "De gens, de perſonnes, qui eſtoient hault à la main.",
+            "N’eſtes vous pas eſimeu, d’vn deſir glorieux,",
+            "Ie Croy que vous auez, à preſent du courage,",
+            "Et que malgré ecux, leurs fureurs, &amp; leurs rages",
+            "Vous metterez abas, tous ſes preſumptueux.",
+            "FIN."
+        ]
+    ]
+}

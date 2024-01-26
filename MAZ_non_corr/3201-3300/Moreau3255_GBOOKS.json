@@ -1,0 +1,168 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "narration",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1652-08-26",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Relation véritable de tout ce qui s'est fait et passé en\n          Parlement, dans la dernière assemblée tenue en présence de Son Altesse Royale et de\n          monsieur le Prince, le 2? et 3? septembre 1652.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2026-04-20",
+            "#text": "26 avril 2021"
+        },
+        "author": "Anonyme",
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000367182999",
+            "persName": {
+                "forename": "Claude",
+                "surname": "Le Roy"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "A T T",
+            "DE 1",
+            "ELA I I U IN",
+            "V ¬ B",
+            "VERITABLE.",
+            "De tout ce qui s’eſt ſaict &amp; paſſé en",
+            "Parlement dans la derniere aſſem",
+            "blée, tenuë en preſence de ſon Al",
+            "teſſe Royale &amp; de Monſieur ’le",
+            "Cep en le de noiefne &amp;e roſie ſne",
+            "2",
+            ".",
+            "1",
+            "e",
+            "A PAR1S,",
+            "Chez CLAVDE LE ROY, au Mont",
+            "Sainct Hyllaire.",
+            "¬",
+            "M DC. L1. 1"
+        ],
+        [
+            "2",
+            "1",
+            "1",
+            "L",
+            "ſſbas"
+        ],
+        [
+            "aoaeaoéépaêo5",
+            "RELATION VER1.",
+            "table de tout ce qui s’eſt",
+            "fait &amp; paſſé en Parlement,",
+            "dans la dernire Aſſem",
+            "blée tenuë en preſence de",
+            "ſon Alteſſe Royale, &amp; de",
+            "M le Prince, lé deuxieſme",
+            "&amp; troiſieſme Septembre",
+            "1652.",
+            "E Lundy a2. iourde Sep",
+            "e embre i6si le Parle.",
+            "Il nent eunt aſiemi",
+            "E ſur la reſponce duRoy",
+            "Eeon Aleſſ Royale, iur",
+            "la Lettreeſcrité́à ſa Majſté, de¬"
+        ],
+        [
+            "liberant ſur icelle, &amp; ſur la De",
+            "clatation de Monſieur le Due",
+            "d’Orleans &amp; de Monſieur le Pr",
+            "ae. L’heure ayant ſonné, la deli",
+            "beration ne fut point concluë̈; &amp;",
+            "fut remiſe au lendemain huit",
+            "heures du matin, ou ſon Alteſſe",
+            "Royale &amp; Monſieur le Prince",
+            "ne manquerent point de ſe trou",
+            "uer-pour renouueller comme ils",
+            "auoient deſia faict leur Declara",
+            "tion; ou ils ne furent pas ſitoſt",
+            "arriuez, que Monſieur le Prnce",
+            "fut à la Chambre des Comptes,",
+            "&amp; Cour des Aydes, pour reïte",
+            "rer les meſmes proteſtarions, &amp;",
+            "es prier de deſpmtsr de leurs",
+            "Cotps vers le Roy, pout le re",
+            "mercieér de l’eſloignement du C.",
+            "Mazarin, &amp; pier ſa Majeſté d’ai",
+            "oir ai bpnté de reuenis dans ſa",
+            "bonne"
+        ],
+        [
+            "bonne Ville de Paris, poun y re",
+            "mettre lcs eſprits encores tous",
+            "effarez des oppreſſions du Car",
+            "dinal Mazarin, &amp; reunir par ſa",
+            "preſence tous ſes Suiets à luy ren",
+            "dre l’obeïſſance duë à ſa Maieſt́.",
+            "Monſieur le Pnince reuenu dans le Parle",
+            "aent, &amp; la Cout continuant ſa deliberatio",
+            "a enfin ordonné́ que Monſieur le Dac d’Or",
+            "leans ſera prié de la part de la Coapagnis",
+            "d’eſcrire derechef au: Roy , pouraſſurer a Ma",
+            "jeſté que luy, &amp; Monſienr le Prince ſoat tous",
+            "pres de poſer preſeatêment les armes, pous¬",
+            "ueu qu’elle ait la bonteé d’enuaoyer les ordres",
+            "aeceſſaires pour eſloiger las tronpes Françoi",
+            "ſes de certe Ville, en les occupant aillens",
+            "pour ſon ſeruice, &amp; paſſeport ponr faire reti",
+            "rer auec aſſurance les Eſtrangeres; Qu’il prie",
+            "ra auſſi ſa Majeſté d’accorder vne Declaratio",
+            "d’Amſtie generale bonne &amp; deaë fomne,",
+            "&amp; afin d’aheuer lba conclaſion de toutes cho",
+            "es, à̀ la ſeureté d’vn chaeun, que le Roy ſeca",
+            "pareilemane ſapplié de uaceais les Deſpucez"
+        ],
+        [
+            "8",
+            "de Monſieur le Due d’Orleas &amp; de Monſieur",
+            "le Prince, &amp; qu’en outre toutes les Cours Sou",
+            "uaraies ſeront inuitées de deſputer vers le",
+            "Roy: Qu’aſſemblée generala ſera faite pour ce",
+            "aeſime ſajet dansl’Hoſtel de Ville, Tours les",
+            "Corps &amp; Coummunaatez, ou Monſieur le",
+            "Duc d’Orleans &amp; Monſieur le Prince iront",
+            "faire vne ſemblable Declaration que celle,",
+            "dont les Regiſtres du Parlemeat demeurent",
+            "chargez: Et qu’il ſera eſcrit de la pare de la",
+            "Compagnie à Monſieur le Preſident de Meſ",
+            "me, de ſolicirer inceſſamment aupres du Roy",
+            "l’Audiance, pour les Deſputez qui ſeront en",
+            "uoyez aà ſa Majeſteé. Voila ce qui s’eſt faiét",
+            "dans le Parlement, toutes les Chambres aſ",
+            "embleé́es. en reſencë de Monſieur le Duc",
+            "d’Orleans &amp; de Monſieur le Priace, le Mardy",
+            "troiſiéme iour de Septembre mil ſix cens cin",
+            "quante deux.",
+            "Apres la Declaration de Meſſieurs les Prin",
+            "ces, nous ne pouuons plus dourer de leur lin",
+            "cerité, quoy que les medilans en puiſſent",
+            "dire, puis que nous voyons qu’apres auoir",
+            "deſpenceé tout leur bien, &amp; celuy de leurs amis,",
+            "ils enuelooent toutes leurs pretentiors dan6",
+            "la ſureé aule de lea perſoanes, dans le re¬"
+        ]
+    ]
+}

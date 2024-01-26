@@ -1,0 +1,191 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "subject": [
+            "Concini, Concino, 1569-1617",
+            "Galigai͏̈, Leonora Dori, 1571?-1617"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, du 8 juillet 1617, donné\n          contre le défunt marquis d’Ancre et sa femme.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01",
+                "#text": "deuxième semaine de janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
+            "persName": {
+                "forename": "Veuve de Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARRESTDE LA COVRDE",
+            "Parlement, du 8. Iuillet r6r7. donné con",
+            "D, -lm",
+            "tre le deffunct Marquis d’Ancre &amp; ſa",
+            "ee¬.",
+            "V s",
+            "femme.",
+            "E V par la Cour, les grand Chambre, Tournelle, &amp;",
+            "de l’Edict aſſemblées, le procez criminel fait ſui",
+            "uãt les Lettres parentes du Roy, par les Conſeillers",
+            "d’icelle à ce par el le Coõmis, à la Requeſte duProcu",
+            "reur gene ral, demandeur en crime de leze-majeſté,",
+            "diuine &amp; humane, contre Maiſtre Pierre Mulart,",
+            "Procureur en ladire Cour, curateur par el le ordonneé à la memoire",
+            "de deffunt Concino Conchini, viuant Marquis d’Ancre, Mareſ",
+            "chal de France, Leonora Galligai ſa veufue, Vincent Ludouici, &amp;",
+            "Anthoine Montaubert leurs Secretaires, priſonniers en la Con.",
+            "ciergerie du Palais, pour raiſon des impierez entrepriſes contre",
+            "l’auctoriré du Roy &amp; de ſon Eſtar, rraittez &amp; negociatiõs ſecrettes",
+            "auec les Eſtrangers, fontes d’artilleries, changement des Armes du",
+            "Roy, &amp; application de celles dudit Conchini ſur leſdites Artille",
+            "ries, Magaſis d’Armes, Poudres, &amp; autres munitions de Guerre,",
+            "interuerſion des deniers publics, appliquez au proffit deſdits Con",
+            "chini &amp; Galligai, &amp; tranſport d’iceux hors le Royaume ſans",
+            "per",
+            "miſſion du Roy: Informations: Interrogatoires des 6. 27. &amp; 3o.",
+            "Avril, deux, trois, ſix, ſept, huit, neuf, dix, vnze May, &amp; quatrieſ",
+            "me jour de Iuin derniers: Confrontations des teſmoings: Autre",
+            "procez criminel fait à la Requeſte de Dame Marie Bochard, veuf",
+            "ue du deffunt ſieur de Prouuille, viuant Sergent major en la Ville",
+            "&amp; Citadelle d’Amiens, tant en ſon nom que comme rutriee des",
+            "enfans mineurs dudit deffunt &amp; d’elle, pour raiſon de l’aſſaſſinae",
+            "commis en la perſonne jdudit deffunt de Prouuille, ſuiuant autre",
+            "Arreſt de renuoy fait par le Roy, contre leſdits Mulart curateur,"
+        ],
+        [
+            "&amp; Galli gai: Concluſions ciuiles &amp; production de ladire Bochard:",
+            "Deffences par artenuation dudit Mulart curateur: Requeſte pre.",
+            "ſentée par Marie le Mairat, veufue de deffunt Nicolas Largentier,.",
+            "ſieur de Vaucemain, le2y. luin dernier, ſigniffiée &amp; miſe au ſac, de",
+            "l’Ordonnance de ladite Cour: Concluſions du Procureur general",
+            "du Roy, &amp; tout ce que par luy a eſté́ mis &amp; produit: Ouys &amp; inter.",
+            "rogez par ladite Cour, leſdits Mularcurateur, Galligai, Ludoui",
+            "ci &amp; Montaubert, ſur les cas à eux impoſez &amp; contenus audit",
+            "pro",
+            "cez; tout conſider. DIT AESTE que ladite Cour a decſaré",
+            "&amp; declare leſdits Conchini, &amp; Galligai ſa veufue, criminels dele.",
+            "ze- majeſté diuine &amp; humaine, Et pour reparation, a condamne",
+            "&amp;",
+            "cõdamne la memoire dudit Conchinai à perpetoiré, &amp; ladite Galli.",
+            "gai aà auoir la teſte traché́e ſur vn eſchafaut, pour cét effet dreſſé en",
+            "la place de Gréve de cetrte Ville de Paris, ſon corps &amp; teſte bruſlez",
+            "&amp; reduits en cendres, leurs biens feodaux, tenus &amp; mouuans de la",
+            "Couronae de France, ré́vnis &amp; incorporez au Domaine d’icelle:",
+            "Leurs autres fiefs, biens meubles &amp; immeubles eſtãs en ce Royau",
+            "me, acquis &amp; confiſquez au Roy, ſur iceux prealablement pnis la",
+            "ſomme de quarante huit mil liures pariſis d’amande, pour eſtre",
+            "employez à̀ œuures pies, pain des Priſonniers de la Conciergerie",
+            "&amp; autres neceſſirez, ſelon la diſtriburion qui en ſera faite par ladie",
+            "Cour, &amp; vingt-quatre mil pariſis, qu’lle a adjuge &amp; adjuge à̀ la",
+            "dite Bochasd auditnom, ſur tous leſdits biens confiſquez, le tiers",
+            "à",
+            "elle, &amp; les deux autres tirs auxenfans dudle de ffunt &amp; d’elle, pour",
+            "toure reparationciuille, deſpens, dommages &amp; intereſts, outre les",
+            "ſommes contenuës és rres donnez contre les complices. Et a",
+            "ladite Cous declaré &amp; declare tous les autres biens par leſdits",
+            "Conchini &amp; Galligai acquis, cant à Rome, Florence, qu’autres",
+            ", lieux hors le Royaume, appaptenir aur Roy, comme prouenus des",
+            "denairs dudit ſeigneu Roy, &amp; mal peis au fonds de ſes Finances. Et",
+            "à̀ cette fin le Pnocureur general du Roy fera les diligences neceſſai.",
+            "res pour la reſtieution d’iceux, A declaré &amp; declare l’enfant nay",
+            "da nariage deſdits Conchini &amp; Galligai ignoble, &amp; incapable de",
+            "teni eſtats, offices &amp; dignitez en ce Royaume; Ordonne que la",
+            "maiſon en laquelle demeuroit ledit deffunt, pré́s le Louure, ſera",
+            "raſée &amp; demolie, ſous le bon plaiſir du Roy, &amp; que les biens non",
+            "ouuans de la Curonne, ſront vendus, &amp; les denirs en proue¬"
+        ],
+        [
+            "nans, auec d’autres cy-deſſus declarez, appartenir au Roy, mis eni",
+            "ſes coffres pour eſtre employez aux affaires dudit ſeigneur Roy. Et.",
+            "pour le regard dudit Ludouici &amp; Montaubert, ſera plus amplemẽt.",
+            "contr’eux informé pour raiſon des cas mentionnez audit procez,",
+            "circonſtances &amp; dépendances, cependant les a eſlargis &amp; eſlargit",
+            "par tout, à̀ la charge d’eux repreſenter quand par ladite Cour ſera",
+            "ordonné, eſliſant domicille, &amp; faiſant les ſubmiſſiõs accouſtumées;",
+            "Afait &amp; fait inhibitions &amp; deffences à toutes perſonnes de quelque",
+            "qualité &amp; condition qu’ils ſoient, auoir intelligences &amp; commu",
+            "miquer auec les Eſtrangers, par eux ou par perſonnes interpoſé́es,",
+            "directement ou indirectement, ſans commandement expres &amp;",
+            "permiſſion du Roy , ne ſous pretexte de party, droict d’aduis, deſ",
+            "domnmagemens, &amp; autres moyens tendans à inreruerſion &amp;",
+            "dimi.",
+            "nutian de ſes Finances, prendre part &amp; proffit à̀ iceux, le",
+            "tout ſur",
+            "peine de la vie, &amp; de repetition des deniers cõtre leurs heritiers, &amp;.",
+            "heritiers de leurs heriiers.Et ſera déliuréCniſſion au Procureur",
+            "general, pour infotmer des contrauentiorts au preſent Arreſt. Et",
+            "encore à toutes pers õ̃nes de tranfporter l’ot &amp; l’argeoe mõnoyé &amp;",
+            "non monnoyé hors le Royaume, à̀ peine de confiſcation de corps",
+            "&amp; de biens. A declaré &amp;declare rous Eſtrangersincçapables de re",
+            "nir Offices, Benefices, houneurs, dignitez, Gouuernemens &amp; Ca,",
+            "pitaineries en ee Roy aum, ſoiuant las Edicts&amp; Ordonnances.",
+            "Ordon ne ladite Cour que Conſtojoux ſera pris au corps &amp; ameneé",
+            "priſonnier en la Conciergerie du Palais, pour eſter à droict, &amp; où",
+            "il ne pourra eſtre aprehendé, ſera adjourné à trois briefs jours à̀ ſon",
+            "de Trompe &amp; cry public, à̀ comparoir en ladite Cour, ſes biens",
+            "ſaiſis, &amp; Commiſſaires y eſtablis, juſques à ce qu’il ait obey, &amp; que",
+            "Maiſtre",
+            "Robin, cy-deuant Controlleur des Fnances, pri",
+            "ſonnier, ſera ouy &amp; interrogé ſur les cas reſultans dudit",
+            "procez,",
+            "pour ce fait &amp; communiqué́ au Procureur general, ordonner ce",
+            "qu’il appartiendra. Et ſur la Requeſte de ladite le Mairat, du 27",
+            "Iuin dernier, ſe pouruoira pardeuers le Roy, ainſi qu’elle verra",
+            "bon eſtre. Fair en Parlement, &amp; prononcé à ladte Galligai, &amp; exe",
+            "cuté le 8. Iuillet i67. &amp; auſdits Ludouici &amp; Montaubert",
+            "atteints,",
+            "au Guichet deſdites Priſons, qui ont promis &amp; juré ſe repreſenter,",
+            "&amp; fait les ſubmiſſions, &amp; eſleu domicille en la maiſon de Maiſtre.",
+            "Fournier, Procureur en ladite Cour, le i;. dudit mois."
+        ],
+        [
+            "A PARIS,",
+            "De l’IMPRIMERIE de la Veufve",
+            "I. GVILLEMOT, ruë des",
+            "Marmouzets, deuant la petite Porte",
+            "de l’Egliſe Sainte Magdeleine.",
+            "CxXXiX"
+        ]
+    ]
+}

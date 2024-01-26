@@ -1,0 +1,151 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Louis XIV (1638-1715 ; roi de France)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-17",
+            "@who": "AB"
+        },
+        "titre": "Tocsin (le) de la France pour le maintien du roi et de sa\n          couronne.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": "Anonyme",
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-01",
+                "@notAfter": "1649-03",
+                "#text": "pendant le blocus de\n            Paris"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": "Anonyme",
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "LE",
+            "TOCSEIN",
+            "DE LA",
+            "FRANCE.",
+            "POVR LE MAINTIEN",
+            "DV ROY.",
+            "ET DE SA COVRONNE",
+            "A PARIS.",
+            "M. DC. XLIX."
+        ],
+        [
+            "LE",
+            "TOCSEIN",
+            "DE LA",
+            "FRANCE.",
+            "POVR LE MAINTIEN DV ROY,",
+            "&amp; de ſa Couronne¬",
+            "AVX armnes, entrons dans la lice.",
+            "&amp; dies ſe de e le",
+            "L’ſtis a pois ſit inmts",
+            "Courage, Francois Royaliftes,",
+            "Vlu eous pu eeulunt pn ir",
+            "Pour vaincra es Cardualies?"
+        ],
+        [
+            "Princes, Pairs, uous, Ducs de France,",
+            "Il faut monirer voſtre vaillance.",
+            "Au feruice de noſrre Roy;",
+            "LeParlement prend ſa tutelle,",
+            "N’a-t’il pas déja pr ſa Loy",
+            "Banny ce Miniſtre infidelle?",
+            "¬",
+            ",1",
+            "Le arti qpi le fluoriſe!",
+            "ſe ouboir ſlE nd. dPlnde",
+            "Mais c’eſt ce qué nee panpas:",
+            "Il a tant fait de volleries.",
+            "Qau’il fſait qu’ igpurue tras",
+            "Puniſſe ſes piren 1",
+            "J",
+            "Tlndise, qs deuieſdrs cet Eonmme!",
+            "Qui du Pape, &amp; efmae de Rome,",
+            "!",
+            "Eſt plus hay que n’eſt la mort?",
+            "Las! que ſon tourment eſt eetre",
+            "Il faut que pour plaire à ſan ſort,",
+            "Il ſoit le börreau de luy meéme.",
+            "Saurait-il fuir ſom maftag53",
+            "Tout laiuda a bmae ſon domage1",
+            "3",
+            "Les Partiſans manquent de ecœu;",
+            "Le grand Heros qui le progeS¬",
+            ",",
+            "Void par vn inſge uahere, -",
+            "Fondre ſes deiſſall. come rege1"
+        ],
+        [
+            "Que jie te plains, igue abuee",
+            "Bien-toſt tu ſeras la risee",
+            "Des Potentats de l’Vuiuers;",
+            "es mouuemens de ta vengeance,",
+            "Font désja tomber à l’enuers¬",
+            "Les fondemens deſa Regence..",
+            "Par vne apparence viſible",
+            "Tu deuois eſre plus ſenſble",
+            "Aux douleurs des pauures Francois;",
+            "Pour vouloir ſauuer vn inſame,",
+            "Faloit-il reduire aux abois",
+            "Vn corps dont tu dois etre l’aue?",
+            "Ces inſatiabler Harbies",
+            "¬1",
+            "Que la terreur tient aſſoupes",
+            "N’exercent plus leurs cruatez;",
+            "Les autours rouget leurs etrauils,",
+            "Et les Demons ſot appreffez,",
+            "Pour celebrer leuts fexailles.",
+            "Heros, qui ioints à la Iuſtice,",
+            "Auez arreſte que le vica",
+            "Seroit à vos pieds abbatu;",
+            "Ale querir noſtre Monarque,",
+            "N’eſt ce pas de voftre Veru,",
+            "Nous donner la meilleure marque?"
+        ],
+        [
+            "1",
+            "Son rapt, nous eſt vn crime horrible,",
+            "e ne ſsay come il eſt poſible",
+            "Que nus ayons ſouffert ce tort;",
+            "La vengeance en ſera plus grande,",
+            "Si par voſtre puiſſant effort",
+            "Paris a ſon Roy que’il de mande.",
+            "C’eſt ce que dla France respire.",
+            "Que de reuoir dans ſon Empire",
+            "Son Auguſe, &amp; ieune LOVIS;",
+            "A llons, courons à ſa conqeſt,",
+            "Le Ciel nous prepare pour prx",
+            "Vne couronne ſur la teſte.",
+            "Soldats, à ce bris des allarmes,",
+            "Accourez, &amp; prenez les armses.",
+            "Pour foudroyer nas onnemis;",
+            "Il ſaut que lorgueil ’humilie,",
+            "Qu’en ſon throne le Roy ſoit mais,",
+            "Malgré l’Eſpagne, &amp; l’Italie i",
+            "FIN."
+        ]
+    ]
+}

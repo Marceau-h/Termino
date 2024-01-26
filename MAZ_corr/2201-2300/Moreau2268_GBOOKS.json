@@ -1,0 +1,138 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1654-01",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-05",
+            "@who": "AB"
+        },
+        "titre": "Lettres de monseigneur l'éminentissime cardinal de Retz,\n          archevêque de Paris, au roi et à la reine.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121441815",
+            "persName": {
+                "forename": "Jean-François Paul de",
+                "surname": "Gondi de Retz"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1654",
+                "#text": "1656"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1654-12-14",
+                "#text": "datée du 14 décembre juin 1654"
+            }
+        ],
+        "pubPlace": {
+            "@source": "None",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "LETTRES DE MONSEIGNEVR",
+            "l’Eminentiſſime Cardinal de Retz Archeueſque",
+            "de Paris, eſcrittes au Roy &amp; à la Reyne.",
+            "AV ROY.",
+            "I’auo fais toa mes effſorts dés les premiers mmeas de Ie",
+            "iberté qu’il a plû d Dieus de e redre poaur doer ̀ V’oſtre",
+            "eſté des marpues de mo obeiſſance &amp;- de ma fdelié, &amp;",
+            "V’oîne Majeſté eaſt pû voir dass la leetve quee i’eus l ’bonaer",
+            "de day eſcrire deſlors, les ſeeimnems d’s ſyjes tres fidele &amp;",
+            "res paſſioé, ſi l’areifcs de mes oemis a aaoit ſfpprimé les",
+            "aſeuraces que ie lay doaois de mos zelſe, &amp; d’ve entiers",
+            "ſomiſſioa à ſes ordres &amp; àd ſes comaaademes. Comne ienay",
+            "iamais riem eu de plas ſcaſfble que les occagſioas de teſfmoigner",
+            "d V. M. vn atcachememt iaiolable d ſon ſeraice &amp; d ſes vo",
+            "lontés, auſſi cette malice de mes perſuters, &amp; le ſoi qu’ils",
+            "ont pris d’eſtouffer auprés de V. M. touter les preues de l",
+            "paſſion &amp; dau reſpet que i’ay pour elle, me ſt beaucoup mois",
+            "ſupportables que les maux de la priſon que’ils m’ont fait ſouf",
+            "frir depuis vn f long temps. le ſerois aaſ ſenfſblemenme eouché",
+            "des procadres oxtraordiaairesr que l’oa fait cotre moy de",
+            "pais maſortie, &amp;- des faſſs indbtioms que l’os a pretenda",
+            "eirer da cheanin que iay pnis paur me rendre auprés de S. S.",
+            "ſi leſjour que iy fais preſentement e faifoit clairoment voir"
+        ],
+        [
+            "V. M. l fân de mon voyage, &amp; la ſiacerité de mes ineneioae.",
+            "Ie ne me ſuis rendau, SI RE, aupreé́s dau Pape qui etmon Iage,",
+            "que pour faire mieux connoiſtre mon innoceceà V. M. &amp; pou",
+            "tirer plus faicilement l’Egliſe de Paris, que Dieu m’a commiſe,",
+            "de la comfuſon en laquelle on l’a voul ietter pendaaa mon",
+            "abſence. Vous verrez, SIRE, par ma conduite &amp; par l’ap",
+            "plication que i’auray en c lieu pour toutes les choſes qui regar",
+            "dent le ſeruice de V. M. que ie coſerueray iey cecee meſfnepac",
+            "ſion que i’ay toauſfours eue de luy doner des preuues d’m",
+            "parfite obeiſſance, &amp; d’vne fdelué́ inuiolable. Voila, SIRE,",
+            "les proteſtations que ie fais ̀ V. M. apres leſquelles i’eſpere",
+            "que Dieu lay touchera le cœur, non ſeulemene ſur la perſẽc",
+            "tion que ie ſouffre, mais pareioulieremeut ſur l’inſaure e- le",
+            "ſCandale que l’on fai à l’Egliſe par la proſcripeio de mes",
+            "gands Vicaires, des Chanoines &amp; des Curés de mon Diocee.",
+            "Puiſſs l diuine Prouidence qui a mis dar V. M. dés le eon.",
+            "mencement deſon aage cette haute valeur qui le rend ſiredoau",
+            "able à ſes enmemis, lay iſpirer le moauememt de faire bien eo?",
+            "eſer tous ces deſordres, &amp; luy donner cetee noble ardour qui",
+            "ſi forement engageé tous vos Predeceſſeurs à la defas d",
+            "droies de l’Rgliſe, &amp; à la proeion des Miuiſrer du ſouu",
+            "rai Moarquedes Roys. Ce ſone les prieres que fait à̀ Die,",
+            "SIRE,",
+            "De V. M.",
+            "De Rome ce i4.",
+            "Deembre é654.",
+            "Le tres humble, tres obeiſſant",
+            "&amp; tres fidelle ſeruiteur &amp; ſujet",
+            "LE CARDINAL DE RETz."
+        ],
+        [
+            "A LAREYNE.",
+            "VlaDaE,",
+            "Le plus ſeffble deéplaiſîr que jaye eu pendant toutes les per",
+            "ſeutionr que i’ay ſouffertes depis deaex ans a egfêé celay de me",
+            "voir priué de l’bhonneur des bones graces de V. M. &amp; des",
+            "moyes de luy poueoir donner des preuues de mon iamocence,",
+            "&amp; du zele que ie conſeruois dans mes liens pourſonſeruice. Ien",
+            "ay tenté toutes les voyes poſſibles dé́s qu’il pl à Die me",
+            "déliarerde ma captiuité, &amp;- ie continuëalgré l’effort demes",
+            "Sememis daxs cemeſme deſfr, &amp; dans les eſperances que la iui",
+            "ce &amp; la pietéde V. M. ſeroat efi tochées des maax de ſon",
+            "Beſque, &amp; des prieres continuelles de ſes peuples. Les an",
+            "ennes obligations que i’ay ̀ V. M. me font pareillemenmt croire",
+            "que’apres les teſmoigager de S. S. vous ne refuſerez pas ̀ mon",
+            "innocence voſtre protetion auprés du Roy. I’attends, MA.",
+            "DAME, cette grace de la bonité de V. M. apres tant de bienm",
+            "faies que i’ay receu de ſ main, &amp; ie luy proteſte que les aſſea",
+            "rances qu’elle donner aa Roy de ma fidelité &amp;- de mon obeſ",
+            "ſance ſront conffrmées par toutes les altions de ma vie, qu",
+            "feront auſûi voir la paßios auec laqulle le ſuis,",
+            "MDAME,",
+            "De V. M.",
+            "De Rome ce 14",
+            "Decembre 1654,",
+            "Le tres humble, tres obeï̈ſſant,",
+            "&amp; fidelle ſeruiteur &amp; ſujet",
+            "1 Cno un ier"
+        ]
+    ]
+}

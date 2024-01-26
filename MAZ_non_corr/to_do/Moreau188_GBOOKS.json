@@ -1,0 +1,179 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Arrêt de la cour de parlement de Bordeaux contre\n                    le cardinal Mazarin , portant qu’il videra le royaume dans huitaine.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "Sans Date",
+            "#text": "Sans Date"
+        },
+        "pubPlace": {
+            "@ref": "geonames:0000000",
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "40",
+            "tg",
+            "oaaa, Google"
+        ],
+        [
+            "3162-2",
+            "hhhhſs",
+            "pyvpuuvu",
+            "v r¬",
+            "EST",
+            "DE LA COVR DE",
+            "Parlement de Bordeaux,",
+            "’contre le Cardinal Maza¬",
+            "rin, portant qu’il vuidéra le",
+            "Royaume dans huictaine.",
+            "ExTACT DES REFGSTESp",
+            "la Cour de Parlement.",
+            "p E iour la Ccourles Chambre; ſm¬",
+            "Q’ulees, deliberat ſpr la Leerre qui",
+            "Vlua sſe eeire ar aeſieos pu lar",
+            "é ſegoent dePapis, &amp; ſur celle desDepu¬",
+            "e&amp;eladuteopr, qui ſont prés de leurs Majé¬",
+            "ſex, lectefaite des Arreſts dudit Parleent,",
+            "aas. ns dureſent mqis; Etquys ur ce les",
+            "4"
+        ],
+        [
+            "c-",
+            "r.",
+            "ens du Roy, A O Boii tdosie, Qe",
+            "le Roy &amp; la Reyné Regente ſeront tres-humble¬",
+            "mene-remnersiezpar: fes DPeptez e-’éloigne¬",
+            "men du Cardinal Mdzarif, âns efperadnce de e¬",
+            "rour, ſuiuant la Declaration qui a eté portée au¬",
+            "dit Parlement de Paris. Et en conſequence, ene",
+            "joint udit Crdial azarin, àſes Parens&amp; Be¬",
+            "meſtiques eſtrangers de vuider le R oyaue dans",
+            "huiCaine. Fait inhibitions &amp; deffgçes à tous les",
+            "Gouuerneurs &amp; Capitaines des Places, Maires,",
+            "Eſcheuins, Conſds &amp; lunass des Villésd Rſſot,",
+            "deleur donenraycepejraiteayd, ny fauor;",
+            "Et apres la huictaine paſ́e, leir permet ſén¬",
+            "ble les Communes pop ler oquqir fs. Ordon¬",
+            "ne en outre que par les meſmes Depuuez ſeürs",
+            "Majeſtez ſeront tres- humblemenr ſupliées d’ex¬",
+            "clure à l’aduenir des Conſeils du Roy rous Eſtr¬",
+            "gers, meſmes ceux qui font haturaliſez &amp; tous",
+            "autres, ayant ſerment à̀ autre Prince qu’an Roy,",
+            "&amp;’d’e fdir éypelier la Delaratien,ſ pour eſfre",
+            "enuoyéé à ſon Parlehent, ’àfin qelleé y ſoit pa¬",
+            "blié́e &amp; enregiſtrée comme vhie loy-ihuiolable,",
+            "à laquelle l e ſdit point eontreuëhiu. Et ſera le",
+            "preſent Atrelt affiehlé, leu &amp; publseaſodel Tr̃¬",
+            "pe par les Cantons accouſtnee de la peſonte",
+            "Ville, &amp; enuoyé aux ’Baillfàges, Senécaſſobes &amp;"
+        ],
+        [
+            "5J",
+            "Sieges duReſort, poury eſtré pareillentle",
+            "publié &amp; executé à la Requeſte du Procureur",
+            "General du Roy, &amp; diligence de ſes Subſtituts.",
+            "Fait à Bordeaux en Parlement les Chambres aſ¬",
+            "ſemblé́es le 5. jour de Fevrier mil x cens cin¬",
+            "quantevn. Signé SVAV.",
+            "E ſeiziése Fevrier, mil ſix cens cinquante",
+            "LL &amp; vn, l’Arreſt de la Cour cy deſu a eſté",
+            "par NMoaus uißier en ladite Cour, aßſté de Maiſtre",
+            "Iean RQiiere mon Collegue, außi uißier en ladite",
+            "Coar, du Capitaine du Guet &amp; des Archers de ladite",
+            "Ville, leu &amp; publié́ à ſon de Trompe par les Cantons",
+            "&amp;s Carrefours accouſtumez de cette Ville, aux fins",
+            "qu’il ſoit notoire à evn chcun, &amp; que perſonmne n’e",
+            "pretende cauſe d’ignmorance. Fait à Bordesux le jour,",
+            "mois &amp;an que deſſus. digné, MAZERAN.",
+            "A PARIS, Chés Guillaume Saſſier, Imprimeur &amp; Libraire or¬",
+            "dinaire du Roy, ruë des Cordiers, proche la Sorbonne, aux",
+            "deux Tourterelles:"
+        ],
+        [
+            ".¬",
+            "46",
+            ",",
+            "....",
+            ".. i..",
+            "¬",
+            ".,",
+            "!",
+            ".",
+            ".1",
+            "9",
+            "F",
+            "a",
+            "ne8",
+            "’e",
+            ".",
+            "onoa, Google"
+        ],
+        [
+            "l1",
+            "ſu",
+            "Il",
+            "detara",
+            "E",
+            "n",
+            "l1",
+            "l",
+            "ll",
+            "lt",
+            "aſall",
+            "li",
+            "l",
+            "ll",
+            "l",
+            "1lſln",
+            "e",
+            "Ia",
+            "ie1",
+            "dlill tllillil",
+            "l",
+            "I",
+            "l",
+            "li ſll",
+            "l",
+            "1lll",
+            "lllll",
+            "l"
+        ]
+    ]
+}

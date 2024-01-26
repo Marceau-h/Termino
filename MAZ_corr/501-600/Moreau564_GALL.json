@@ -1,0 +1,60 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "poésie à forme fixe",
+            "ballade",
+            "burlesque"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-01-26",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-15",
+            "@who": "AB"
+        },
+        "titre": "Ballade burlesque des partisans",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-03",
+            "#text": "3 juin 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "None",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "1"
+    },
+    "texte": [
+        [
+            "BALLADE",
+            "BVRLESQVE",
+            "DES",
+            "PARTISANS.",
+            "PRelat paſſé nous mettanten eredir,",
+            "Pour s’enrichir ſouffroit nôtre malice.",
+            "Prelat paſſant a forgé maint Edit,",
+            "Et pour voller s’eſt fait noſtre complice.",
+            "Bien loin d’auoir quelqué peur du ſupplice,",
+            "Chacun de nous eut caroſſe doré:",
+            "Et pour ſon or des plus grands honoré,",
+            "Oſa bien faire aux Meſſires la nicque.",
+            "Mais ce beau temps n’aura guere duré,",
+            "Iules deloge, adieu donc la boutique."
+        ]
+    ]
+}

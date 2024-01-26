@@ -1,0 +1,104 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſte",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2021-11-18",
+            "@who": "AB"
+        },
+        "titre": "Déclaration, faite en Parlement par monseigneur\n                    le prince de Conty et messieurs les généraux contre le cardinal Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000119302891",
+            "persName": {
+                "forename": "Armand",
+                "surname": "de Bourbon"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-03-21",
+                "#text": "21 mars 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": "Imprimeurs et libraires ordinaires du roi",
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "DECLARATION",
+            "FAITE EN PARLEMENT",
+            "Par Monſeigneur le Prince de Conty, &amp;",
+            "Mrs les Generaux,",
+            "Contre le Cardinal MAZARIN.",
+            "Du 20. Mars 1649.",
+            "A PARIS.",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "EXTRAICT DES REGISTRES",
+            "de Parlement",
+            "Ce jour, la Cours toutes les Chambre;",
+            "aſſemblées, Monſieur le Prince de",
+            "Conty a dit, Que luy et Meſſieurs les",
+            "Generaux, declarent qu’ils n’ont don¬",
+            "ne les pretentions dont ſont chargez leurs De¬",
+            "putez, que pour la neceſſité oùu ils ſe ſont treu¬",
+            "uez de chercher leur ſeureté, en cas que le Car¬",
+            "dinal Mazarin demeure dans le Miniſtere: Ile",
+            "proteſtent de renoncer a leurs intereſts particu¬",
+            "liers deés le moment qu’il en ſera exclus; Mais",
+            "en cela, comme en toute autre choſs, ils ſe",
+            "ſouſmettent aux ſentimens du Parlemen, du¬",
+            "uei eis peneieune e ue e nuie enuioioe",
+            "vnir, Declarant qu’ils ne ſe ſont iamais ioint",
+            "à cette Compagnie que pour la Paix generale,",
+            "le ſoulagement des Peuples, &amp; la conſeruation",
+            "de la Ville de Paris, Que de ce il auoit eſté",
+            "dreſſé Memoire ſigneé dudit Sieur Prince de"
+        ],
+        [
+            "4",
+            "Conty, lequel il a requis eſtre inſeré &amp; mis an",
+            "Greffe; Ce qui a eſté fait, &amp; d’vn commun vœu,",
+            "arreſté qu’il ſera deliuré autant du preſent Acte:",
+            "Et a encores ledit Sieur Prince de Conty dit,",
+            "que Monſieur le Duc de Longueuille ſera dans",
+            "les meſmes ſentimens. Faict en Parlement le",
+            "Vingtiéme Mars mil ſix cens quarente-neuf.",
+            "Signé, DV TILLET.",
+            "Collasionné à l’original par moy Conſeiller Secre¬",
+            "taire ds Roy &amp; de ſes Finances."
+        ]
+    ]
+}

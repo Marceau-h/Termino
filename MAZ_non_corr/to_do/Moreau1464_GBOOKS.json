@@ -1,0 +1,188 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Gallicinium nuper auditum, Franciam expilante\n                    Mazarino. Quis dedit gallo intelligentiam ? JoB, 38. Qui preparat corvo escam\n                    suam. ID.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "This is a reproduction of a library bool that vas digitize",
+            "by Google as part of an ongoing effort to preserve the",
+            "information in boos and male it universally accessible.",
+            "¬",
+            "Goole bools",
+            "I",
+            "https:ſſboos.google.com",
+            "E",
+            "Eeas",
+            "er",
+            "’",
+            "E8"
+        ],
+        [
+            "olblpuotle",
+            "IN EI",
+            "12ss-B",
+            "ALT¬",
+            "i",
+            "."
+        ],
+        [
+            "a",
+            "rg",
+            "Ee",
+            "r",
+            "LA",
+            "a"
+        ],
+        [
+            "1",
+            "l E"
+        ],
+        [
+            "GALLICINIVM",
+            "FRANCIAM",
+            "EXPILANTE",
+            "MAARIN0",
+            "oe ee en e",
+            "A PARIS,",
+            "e"
+        ],
+        [
+            "2 n f",
+            "a",
+            "a",
+            "ooaaooſe"
+        ],
+        [
+            "mngn aneoampaamqan ioun,",
+            "a 4",
+            "S e S e’e",
+            "aoma me ocaa &amp;-..",
+            "q e i ’’S’",
+            "GALLICINIVM NVPER AVD V",
+            "Franciams expilate Maariss.",
+            "e V Regi per etaremRegine matriper ſe¬",
+            "um non licet:",
+            "À Surglre prneipsRegpi¬",
+            "En Gallus claruit,",
+            "Quemadmodum anſer animoſus captâ Roma:",
+            "Recipite omen.",
+            "Omen eſt enim futurz victoriz Gallis.",
+            "Vigilate Franei, egai,armainobhiles,ignobiles,",
+            "Quotquot Ludouici ſubditi.",
+            "Ludouicinobis pereunt, ne Sanctoquidem parcendo,",
+            "ſi ſit aureus:",
+            "Exulant nammi Regij:",
+            "Regij Senatores exularunt:",
+            "Hæc fuit ſcilieert iuſtorum omniumſors.",
+            "Sed exularunt diuerſis in locis?.",
+            "Hic Italorum dolus",
+            "Ne ſemtu deprehenderent, &amp;t oõſolaretur exilio.",
+            "Nummus Regius,",
+            "Senator Regius,",
+            "Vterque ſacra principis imago:",
+            "Imagini vtrique bellum indicitur:",
+            "Indicitur, &amp; tacebimus?",
+            "Hereſis noſtra virtus Cardinalis eſt:;",
+            "Perge Curia;",
+            "A ij"
+        ],
+        [
+            "4",
+            "Sat quieti, ſatpatientiæ daumeſt:",
+            "Siluere ſatis oppreſſ ſub Mazarino leges.",
+            "Clama, nec ceſſa.",
+            "Fugam indixeras, ſalutem neglexit,",
+            "Qui vult omia ſecum perire.",
+            "Eequid tandiu grauiores ſuſpendis ictus?",
+            "Age nunc, in cœleſtü caput inſolitum fulmen intorque.",
+            "Non erit ſatis graue, quod grauiſſimum puras.",
+            "Expergiſciminiprincipes?",
+            "Veſtris debetur mucronibus",
+            "Qui populorum fregit patientiam, &amp; purpuratoru¬",
+            "ſpreuit clementiam.",
+            "Profligate hocmonſtrum?",
+            "Vendicate Regnum;",
+            "Regi puero,",
+            "Cuius œtas innocens maieſtatem ſeruat idbatame",
+            "Reginæ matri,",
+            "Cuius ſexus facilior authoritatem amiſit legitimam.",
+            "Et ſubditis omibus,",
+            "Quam dudum anhelant pacem, ac ſœpius ereptamre¬",
+            "ſtituite.",
+            "Dvs OTme; Ma xrme",
+            "Confunde hominem diuitiarum quibella fouet.",
+            "-aaaaaa,allaa,,,a,..,,",
+            "3"
+        ],
+        [
+            "l",
+            "ſ8"
+        ],
+        [
+            "a"
+        ],
+        [
+            "iii",
+            ","
+        ],
+        [
+            "3",
+            "t",
+            "R",
+            "r",
+            "l",
+            "1",
+            "1",
+            "11",
+            "1",
+            "1",
+            "1",
+            "11l",
+            "All"
+        ]
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Toulouse donné contre\n          ceux qui arment pour M. le duc de Bouillon.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1650-08",
+                "#text": "août 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000367213580",
+            "@xml:id": "IL_SassierGuillaume.xml",
+            "persName": {
+                "forename": "Guillaume",
+                "surname": "Sassier"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "9",
+            "ARRES T",
+            "DE LACOVR DE",
+            "Parle ment de Toloſe, don é́",
+            "contre ceux qui arment pour",
+            "Monſieur le Duc de DBuillon.",
+            "nr",
+            "8",
+            "r",
+            "DC1"
+        ],
+        [
+            "4",
+            "ftrats &amp; Officiers de ne ſouffrir que ladite",
+            "leueée ſe faſſe dans leurs terres &amp; juriſdictions,",
+            "ny que viures &amp; logements leur ſoient baid",
+            "lez &amp; adminiſtrez;, a peine d’eſtre declarez",
+            "cçriminels de leze-Majeſteé́, &amp; perturbateurs",
+            "du repos public. Et a enjoinct &amp; enjoin ct",
+            "aux Communautez de leur courre ſus, &amp; les",
+            "tailler en pieces; neantmoins que de tout",
+            "r",
+            "ce deſſus il ſera enquis. EAICT à Toloſe",
+            "en Parlement le onzieéme Aouſt mil ſix cens",
+            "cinquante.",
+            "Signé, DE MALENFANT.",
+            "M. DE PApvs Rapporteur.",
+            "A",
+            "lE",
+            "uee?",
+            "Chés Guillaume Saſſier, Imprimeur &amp; Libraire",
+            "ordinaire du Roy, &amp; de M. le Mareſchal de",
+            "l’Hoſpital, Souuerneur de Paris, rue des",
+            "Cordiers, aux deux Tourterelles."
+        ]
+    ]
+}

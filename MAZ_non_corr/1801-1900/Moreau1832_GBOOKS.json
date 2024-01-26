@@ -1,0 +1,132 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1649-03-11",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre contenant la véritable nouvelle de la paix,\n          suivant ce qui a été arrêté à la conférence tenue à Ruel.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": "Anonyme",
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000110237472",
+            "persName": {
+                "forename": "Antoine",
+                "surname": "Coulon"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "A",
+            "A",
+            "CONTENANT",
+            "la veritable nouuelle de la Paix,",
+            "ſuiuant ce qui a eſté arreſté",
+            "a la Conference tenuë",
+            "a Ruel.",
+            "2",
+            "AAA¬8",
+            "g",
+            "S",
+            "A PAR1 S,",
+            "cae a aue r &amp;i ov Los,",
+            "d’Eſceſſe, aux roils Camailleres.",
+            "c32",
+            "SE",
+            "are iauiston",
+            "12l6l-"
+        ],
+        [
+            "2",
+            "Ta",
+            "teee44",
+            "e",
+            "J",
+            "LEIIRE CONIEN A N T",
+            "la veritable nouuelle de la Paix",
+            "De Ruel le xij. ars 6e",
+            "ONSIEVR,",
+            "le croirois pecher contre l’ami",
+            "tié que je vous ay voü̈ée, ſi ie diffe",
+            "rois vra moment à vous anonce",
+            "vne nouuelle, que ie ſçay vous deuois eſtre tres",
+            "agreable; Et pour le ſujt de laquelle vous faites",
+            "des vœux continuels vous auez ſceu par ma de",
+            "niere la craince où̀ nous ſtions, que la Conferen",
+            "ce, qui ſe tenoit icy apres beaucoup de longueurs,",
+            "nous promit forepeufric; &amp; celle-cy vous",
+            "Appredna quele ſiucet dola heſm Conûereace",
+            "a paſſé noſtre eſpois. Dieu, dont la bonté a tou",
+            "jours pris vnſoing",
+            "lenaſtte pauure",
+            "France, ſemble audì joutd’ huiy prodigalement",
+            "vſé de ſes graces, pourltiret d precipice où elle"
+        ],
+        [
+            "9",
+            "etoit engagée : lôrs que tout le monde apprehen",
+            "doit les ſiniſtres cffets d’vne guorre lnteſtine, done",
+            "la finſembloit necefſairement enfermer celle de la",
+            "Monarchie: Nous voyons par vn changement",
+            "ineſperé, les difficultez qui s’oppoſoient aà vne",
+            "bonne paix, deuenir les moyens pour l’execution",
+            "d’icelle. Le Cardinal Mazarin, qui en fut le prin",
+            "cipal obſtacle, ſe reſoud enfin a boire la couppe",
+            "d’amertume, que par fon imprudence &amp; temerité́.",
+            "il s’eſt luy meſme preparée, en l’attentat par luy",
+            "commis en laperſonne ſacré́e du Roy. Il ſubit la",
+            "peine qui luy eſt impoſée par l’équitable Arreſt du",
+            "Parlement. Et Meſſieurs nos Deputez, pour ne",
+            "point vſer à l’endroit de ce laſche ennemy des der",
+            "nieres rigueurs de la luſtice, luy accordent pour",
+            "retraite, Portolongone, Piombino, Monaco, ou",
+            "Liegé, luy font ce pont d’or pour deliurer la Fran",
+            "ce de ſa tyrannie. Les troupes qu’il auoit appel",
+            "ées, pour la rune deParis, onsordre de ſe retirer",
+            "en Allemagne, eandis que les noſtres ſubſiſteront.",
+            "Pour ce qui regarde Meſſieurs nos Generau x, Mon",
+            "ſieur le Duc d’Orleans &amp; Monſieur de Longue",
+            "uille ſe doiuent rendre à Paris, &amp; s’aboucher,",
+            "pour leur donner contentement. Ie remets à vous",
+            "dire de viue voirx les autres particularitez de cette",
+            "Paix, vous aſſeurant que la generale eſt vn des",
+            "articles d’icelle, &amp; que nous jouirons de l’vne &amp;"
+        ],
+        [
+            "amaaaaaar-aoeaî’",
+            "4",
+            "aeauuodanpoude temps Ct ceueje ſoui",
+            "l, ueclameſune poionaqueeſni",
+            "2",
+            "1",
+            "MONSIEVR.",
+            "Votre tés-affectienné.",
+            "ſeruiteus.",
+            "Aue e iaMansi6es"
+        ]
+    ]
+}

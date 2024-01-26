@@ -1,0 +1,165 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "subject": [
+            "Normandie",
+            "Longueville II, Henri (1595-1663 ; duc de)"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-07-13",
+            "@who": "AB"
+        },
+        "titre": "Remercîment des Normands à Son Altesse de Longueville\n          pour la paix.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000109284925",
+            "@xml:id": "IL_BesongneCardin.xml",
+            "persName": {
+                "forename": "Cardin",
+                "surname": "Besongne"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "REMERCIMENT",
+            "DES NORMANS",
+            "A",
+            "SON ALTESSE",
+            "DE LONGVEVILLE",
+            "POVR LA PAIX.",
+            "A PARIS",
+            "Che CARDIN BESONGNE, ré d’Ecoſſe au",
+            "mont ſainct Hilaire, au Chapeau Royal.",
+            "M. DC. XLIX."
+        ],
+        [
+            "3",
+            "REMERCIMENT",
+            "DES NORMANDS.",
+            "A",
+            "SON ALTESSE",
+            "DE LONGVEVILLE",
+            "POVR LA PAIX.",
+            "ODE",
+            "PRINCE execellent, illutſre,",
+            "E eſſe,",
+            "ne qu ies ſoin llunieu",
+            "s ont d’vne profonde ſagreſe",
+            "omn eils r ann",
+            "Sans toy, bel eſprit, &amp; belle ame,",
+            "L’horreur du fer &amp; de la ſlame",
+            "Aji"
+        ],
+        [
+            "4",
+            "Nous euſt fait des maux infinis:",
+            "Et de long temps la Paix ſacrée",
+            "Faite außi-toſt que deſirée,",
+            "N’auroit les peuples reſioüis.",
+            "&amp;¬",
+            "Mon Dieu, que la guerre civille",
+            "A des torrents impetueux.",
+            "Que par les champs &amp; dans la ville",
+            "Elle ébranle de vertueux.",
+            "Que ſa fureur eſt redoutable,.",
+            "Que ſa rage eſt épouuentable.",
+            "Meſme entre les plus innocens:",
+            "Que ſon deſordre &amp; ſon rauage,",
+            "Souuent du plus ferme courage",
+            "et en deſordre tous les ſens.",
+            "¬8",
+            "Que la plus belle des Prouinces,",
+            "Aymable &amp; qouuerneur aymé,",
+            "Auec raiſon que tu luy vinſſes",
+            "Brùloit d’vn deſir enflammé:",
+            "Que ſon zele &amp; que ta prudence",
+            "Ont dignement ſauve la France",
+            "De"
+        ],
+        [
+            "De mille bharbares efforts,",
+            "Do t les mons cruelles éſpreuves",
+            "N’euſſent par tout fait voir que veufves,",
+            "Que pleurs, qu’orphelns, &amp; que morts.",
+            "Le Roy meſme de qui l’Enfance",
+            "Preſage beaucoup de valleur,",
+            "Et ſur qui les plus grands de France",
+            "Pre nnent l’exemple de la leur:",
+            "Auß toſt qu’a ce grand Monarque",
+            "Les ans auront donné la marque",
+            "D’vn re doutable otentat,",
+            "Il étendra ſa gratitude",
+            "1 C",
+            "ns el eee ne ſee iet",
+            ".",
+            "Außi la Reyne que ie priſe",
+            "Comne vn treſor tres precieux,",
+            "Sçachant nos maux eſtre en leur criſé,",
+            "A oulu adéſiller les yeuax:",
+            "Cette imcompaable Princeſſe,",
+            "Qui veille à nestre bien jans ceſſe,"
+        ],
+        [
+            "6",
+            "Et q’on ne peut aſſez cherir,",
+            "eserueille de ta conduite,",
+            "D’auoir combats, mis en fuite,",
+            "Et ſurmonte ſans coup ſerr.",
+            "e,*",
+            "’",
+            "Oue Meſſeigneurs, tes deux Deaux freres,",
+            "Ont lien jecondé tes deſeins",
+            "A ous retirer ades miſeres",
+            "Ous nous plongeoent d’auares mains,",
+            ".",
+            "Ces deux grands &amp; rares Genies,",
+            "Dont les forces ſont infinies",
+            "ur les Peusples &amp; ſur les Rois,",
+            ". ,",
+            "Partagent aue toy la gloire",
+            "De la veritable ictoire",
+            "Que le oy gaigne par vous trois.",
+            ".",
+            "T",
+            "La Paix eſt faite, &amp; ce miracle",
+            "Qui fat à preſet tanr de bruit,",
+            "¬",
+            "Eait qu’au ’rintemps ſans nulobſtacle",
+            "L’Olvier nous donne ſon fruit.",
+            "Mais afin que ta enonmee,",
+            "Dont l’odeur eſt -par rou ſeée,",
+            "3"
+        ],
+        [
+            "7",
+            "Puiſſe porter plus loing ſon vol;",
+            "Faits par ta haute politique,",
+            "Que cette Paix ſe communique",
+            "De nous encore à l’Eſpagnol¬",
+            "FIN."
+        ]
+    ]
+}

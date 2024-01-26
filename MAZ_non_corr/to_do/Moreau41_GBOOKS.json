@@ -1,0 +1,175 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Adieu (l’) de monseigneur le duc de Beaufort fait\n                    aux bourgeois de Paris avant son départ pour le soulagement des peuples.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "£50321!",
+            "L’AD’Y‘EV",
+            "' DE",
+            "MONSE-IGNEVR",
+            "LE DVC",
+            "DE” BEAVFORT:",
+            "FAIT",
+            "AVX BOVRGEOIS DE PARIS,",
+            "auantfon depart, pour le foulagcmcnt",
+            "d s I’euples.",
+            "A P ARIS:",
+            "Chcz IACOB CHEVALIER,Ptoch€ Sam?!",
+            "[can de Latmn.‘ ,",
+            "M. DC,_L1L. v f,",
+            ".7 . /. I."
+        ],
+        [
+            ", r"
+        ],
+        [
+            "WWWWﬁWp .",
+            "-... : L’ADIEV",
+            "DE MONSEIGNEVR",
+            "16 Due de Beaufort , fait aux",
+            "Bourgeois dc Paris, auant fon",
+            "depart , pour-1c foulagcment",
+            "des Bcuglcs. v ' .",
+            "1‘ V i’",
+            ".-'I i. J a :1} 2‘ I '1\" ‘v3",
+            "V i",
+            "f m",
+            ". ”I; m: fais paint Profcfsmn",
+            "cIc cette cIPcce dc genemﬁbc' qui ppndamge dc",
+            "MEI} wus cw ,qpi 1;: font point; infcnﬁblcs,",
+            "ﬁgjq q‘oy gas 120“! anpir Newman. 13 .31 sit",
+            "a . n 1)"
+        ],
+        [
+            "u",
+            ". ’ ~ 4 ‘",
+            "pas neceﬂhire dc changer dc nature , 8: dc nc",
+            "{c point Iaiffcx toucher d'auhnrage aux outrages",
+            "'dc_la Fortune ,que {1 nous anions vn occur dc",
+            "bronze; au contraire, j’cﬁﬁmcqu’il y a dc ccra",
+            "mines foiblcfrcs, qui font trop iullcs pour eﬂre",
+            "honteufes , 8: j: nc craindray Pas d'auoiier quc '",
+            "jc n’ay pas airczde Force pour fupporttr aucc",
+            "indifference la néccrsité qni m'obligc é vou’s",
+            "qnitt'cr , quand jc fais reﬂcﬁtion'fur les‘ :6.",
+            "‘moigrpéges guy: vous m'auczygndys dq vgﬂrc",
+            "biqn-VCﬂiancc , &amp; de‘lh'ﬁart quc vo‘us inc:",
+            "prife cn todsmesintcrcﬂx; qua'nd je’nié {Jou-",
+            "uiens dc 19, joye quc Vous rcfcnritcs , lorg'qnc",
+            "vos vccux , pluﬁoﬂ que mori induﬂrig ,' me",
+            "tirerem dc la Captiuitc’, dam Iaquellé 1'3: 610.",
+            "lente Politiquc d’vn Miniﬂrc. auoit rcfolu dc",
+            "me fairc paifcr ma vie, (Ennd jc fonge qu'i",
+            "mon rctour dans vofh‘c Ville,vous ﬁﬂes c'cla.",
+            "tcx funvos ,vifagcs lcs marquesd’vne aﬁ'céhion '",
+            "qui n: Geﬁjamais de'rhc‘nric, ny‘dans lcsfgpﬁ,",
+            "uerﬁltions particulicres, ny clans lqs_rch6hx£§s",
+            "Publiqucs , 8c qu'en ﬁn 1c pqufqn )2: fair péqr",
+            "vonslvous a donpéy‘nc' ﬁgrabﬁg. £53113; m",
+            "fmcs (cruilceéhq Pluﬁéﬂ vbus ﬁf'éﬁcﬁe‘gt‘ﬁti-",
+            "'ch'e'zc‘: ma'Fortun'e, quéivOUs' ahcz'g'tdﬁ'fiburs",
+            "crﬁ‘q'uc maconfémngionrcﬁoit cirquekiue {bf-",
+            ". :e ﬂegﬂﬂﬁiﬁﬁ‘véﬁwﬂ’aﬁoﬁﬁ 3fo Mia :93\";",
+            "\"- 1-015",
+            "1"
+        ],
+        [
+            "(015 fans violence m’; fcparcr dc ran: d’hon-",
+            "v vncﬂcs gensﬁqui it n: {gauroisnierque je nc",
+            "dcmeurc xouﬁours fornedcuablc:Mais com—",
+            "me jc tigns 511131 fdudroit rcnonccraux plus Iai—",
+            "fonnablcs cmime'ns que 'la Naturc nous in-",
+            "fpirc , pour quittcr fans dc’plaiﬁr dc; ‘pctfonn'es",
+            "qui'noys {om , §cgui 'nous doiucnt cﬂrc'cxp",
+            "‘ tremcmcnt abuts ,Qjc goy Aquc' gc fueit xenon-",
+            "‘cd’ encore him d'auantage £11 raifon , ﬁ nous",
+            "‘ crmcttionsqucc'cs‘mouhcmensd’amitie’nous",
+            "cht faillir conuc'l'amitic’ ms‘fmc , «Sc-f1 pour",
+            "'nopsiéya‘rgncrilc “Fe; dc quintet no; amis,",
+            "'nous kur rcfuﬁons 'aﬁfkmu qd'ils nous dc»",
+            "mandcnt. ,",
+            "-' . ~Péuy-‘moy' anlquc rude qug me {cit cc;",
+            "'c'loi heme-hi, j: in’m conlolc parlTEipcmnccr",
+            "‘que yqu‘ﬂ’nc yous kn Pas xeuté faxr inu~",
+            "tile , j'aymt. bimm’icui pctdr; la, {adsfaéﬁon",
+            "dc voﬁrc L cmfagnic; quc l’cccaﬂnn dc vqus",
+            "{civil-Ellit pigis‘qucvouan'c [gaunqz jogffrir Ia",
+            "pnfcncc du Pcrtnrbat'cur dc voﬁrc rcpos , je",
+            "conﬁns '5. m’c’loigncr de vos murailks , Pour",
+            "abligcz cct Enncmy i s'ﬂcignex pout )amais",
+            "de la Rance ,c’cﬂ I: but dc Ia Gncncquc non!»",
+            "auons emu-rile; &amp; quay, gun I: {an dcs ar-",
+            "mes I'oit or inaixcmcm dcutcuxmtammoin:",
+            "Ia Mics 515.5 will” .va 5191‘ Film“ dc 1““",
+            "3"
+        ],
+        [
+            "5",
+            "ﬁicccz‘ ; cé h’eﬂ rry pour établir n6 [he Fortune;",
+            "ny pour aﬂbuuir noﬁrc ambition , que nous",
+            "nous mcttons en Campagne': C'cﬂla confer.",
+            "nation du Royaumc ; c'eﬂ 1c falu: dc mus lcs",
+            "Frangois qui nous fait Cnmbalrc , 8?. nos inten-",
+            "tionsfo‘n: G ﬁnccres, que nous nc fcrions pas",
+            "P811 dc tom} 12 Iuﬁicedu Ciel , ﬁ nous doutiom",
+            "‘q u'il n: 1cm pré :2“: come la faucur qu'clkscn",
+            "nttcndcnt. l'efperc uc vous vcrrczdanspcudc",
+            "'tcinps vos Enncmis a. vos Picds , l'ordrcrc’rably",
+            "‘dans cét‘terMonarchic ., [cs troubles appaifezJ",
+            "’8: voﬂ're rcpos aircuré ; pour le moinsljgpujs",
+            "Vpus promettr‘c , qua Pnis-quc 1c choix ‘dc",
+            "Son Anus: ROYALLE, 5: ma page",
+            "inclination m’obligc dc meme Immainzé cc",
+            "grand ouurage , ‘j' trauaiﬂcmy dc tell: foggy,",
+            "quc Je vous vcrray on .10“ Blank column»-",
+            "‘vousmevcrrczdanslcTambca'u. _ . ;",
+            "far-Cum de'Mmg/e‘ggumk 1",
+            "' [Dchd'OrlemL , . .."
+        ]
+    ]
+}

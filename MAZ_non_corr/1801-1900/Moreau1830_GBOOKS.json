@@ -1,0 +1,125 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1649-03-15",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre contenant ce qui s'est passé en l'assemblée du\n          Parlement, depuis le (sic) dimanche et lundi 14 et 15 mars 1649, sur le sujet des articles\n          signés à Ruel.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": "Anonyme",
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000110237472",
+            "persName": {
+                "forename": "Antoine",
+                "surname": "Coulon"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "q",
+            "re r",
+            "1",
+            "H",
+            "LL IL I L",
+            "CONTENANT",
+            "CE QVI S’EST PASSE",
+            "en l’Aſſemblée du Parlement, de",
+            "puis le Dimanche &amp; Lundy qua",
+            "le eie e lelree",
+            "aâaAê8",
+            "Ae4A",
+            "A PARI S,",
+            "c l vufu ciroi covouns",
+            "d’Eſcoſſe, aux trois Cramailleres.",
+            "Eil",
+            "ae Permißlon.",
+            "261-B"
+        ],
+        [
+            "-. 4.....",
+            "ais",
+            "A*",
+            "HTT",
+            "LETTRE CONTENANT",
+            "ce qui s’eſt paſſé en l’aſſemblée",
+            "du Parlement, depuis le Diman",
+            "che &amp; Lundy 4. &amp; quinzieſme",
+            "Mars t6̃49. ſur le ſujet des arti",
+            "cles ſignées à Ruel.",
+            "osEVR",
+            "Puis que nos Lettres ne ſont plus ſuſpe",
+            "es, &amp; que la liberté de Ia ſortie ne leur et",
+            "plus interdite; l’ay pris loccaſion à ce ſoir",
+            "de -tous depeſcher ce aquais y pous appren",
+            "dre de vous nouuelles certaines. de. tout ce",
+            "qui s’eſt paſé à l CConferenco de Ruel. Les",
+            "Lauriers dont les carroſſesde Meſſieurs nos"
+        ],
+        [
+            "Deputez eſtaient enuironnez nous faiſoien",
+            "eſperer qu’ils rappqrtdient la Pai 7&amp; qu’l",
+            "auoient vain cus cluy qui en oſtole e ptiiſeĺ",
+            "pal obftacle: Mais le’Reſaleat des aſſeiHblée",
+            "d’hier &amp; d’aujourd’huy nous à ſait vVoit- que",
+            "cette Paix ne pouuant venir que de Dieu ſeul,",
+            "&amp; que ſa iuſtice n’eſtant encore aſſez vangée",
+            "de nos ctimes, nous n’en deuions ſi toſt at",
+            "rendre les effects. Arreſt fut hier donné, par",
+            "lequel Meſſieurs nos Princes-&amp; Genetaux",
+            "ſont declarez vnis auec le Parlement, &amp; les",
+            "pretentions des vns &amp; des autres com",
+            "munes: Aujourd’huy leur Aſſemblée qui a",
+            "duré depuis huict heures du matin juſqu’a cinq",
+            "du ſoir, nous a long-temps tenus en ſuſpens",
+            "dans le deſir que nous auions d’en apprendre",
+            "I’iſſuë; mais enfin nous voyons que tout ſe",
+            "diſpoſe à la guerre, ou du moins aux lon",
+            "guours d’vnie ſeconde Conference: Ils ont ar",
+            "reſtez que eute ſeroient enuoyez pour",
+            "porter le cahyer contenant les pretentiaps de,",
+            "Meffieurs nos Generaux, &amp; que tres-hümble",
+            "Remonſtrance ſeroit faite au Roy, à ce que",
+            "l’Article portant la continuation des preſts",
+            "pour deux ans fuſt biffé du Traitté́ de Paix. Le",
+            "bruit court qu’ils demandent la meſme choſe"
+        ],
+        [
+            "a-¬ ¬„¬,,, ,,,r",
+            "pour la ſignature du Cardinal Mazarin: ſi ce",
+            "la eſtoit tout le monde preuoit infaillible",
+            "ment la guerre, mais encore Paris l’aymeroit",
+            "il mieux qu’vne Paix honteuſe: Ie ne vous oſe",
+            "tout direſur ce ſujet. A dieu, Ie ſuis,",
+            "1o",
+            "MONSIEVR",
+            "Voſtre tres-affetionné",
+            "ſeuiurau",
+            "A aiale luauoit i Mani os¬"
+        ]
+    ]
+}

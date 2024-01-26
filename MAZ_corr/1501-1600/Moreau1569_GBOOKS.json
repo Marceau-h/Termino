@@ -1,0 +1,274 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "discours adressé",
+            "harangue"
+        ],
+        "subject": [
+            "Montpensier, Anne-Marie-Louise-Henriette d'Orléans, duchesse de,\n            1627-1693",
+            "Orléans, Gaston, duc d', 1608-1660",
+            "Orléans (Loiret)"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-03-23",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-21",
+            "@who": "MF"
+        },
+        "titre": "Harangue faite à Mademoiselle, à son arrivée en la maison\n          de ville d'Orléans, par MM. Thoinard, président, de La Grillière , lieutenant général,\n          Boilève, maire de ville, de Bélébat, échevin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": [
+            {
+                "@ref": "isni:0000000446441426",
+                "persName": {
+                    "forename": "Nicolas",
+                    "surname": "Toinard"
+                }
+            },
+            {
+                "@ref": "viaf:158162060322251401061",
+                "persName": {
+                    "forename": "François III",
+                    "surname": "de Beauharnaix, seigneur de la Grillère"
+                }
+            },
+            {
+                "@ref": "viaf:157162060386551401351",
+                "persName": {
+                    "forename": "Robert",
+                    "surname": "Boillève"
+                }
+            },
+            {
+                "@ref": "viaf:147162060268851400361",
+                "persName": {
+                    "forename": "Claude Parîs, seigneur de",
+                    "surname": "Bellebat"
+                }
+            }
+        ],
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
+            "persName": {
+                "forename": "Jacob",
+                "surname": "Chevalier"
+            }
+        },
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "HARANGVE",
+            "FAITE",
+            "A MADEMOISELLE,",
+            "A SON ARRIVEE EN LA MAISON",
+            "de Ville d’Orleans.",
+            "PAR MESSIEVRS",
+            "THOINARD, Preſident,",
+            "DE LA GRILLIERE, Lieutenant General,",
+            "BOILESVE, Maire de Ville.",
+            "DE BELLEBAT Eſcheuin.",
+            "A PARIS,",
+            "Chez IACOB CHEVALIER, proche",
+            "Sainct Iean de Latran.",
+            "M. DC. LII."
+        ],
+        [
+            "3",
+            "HARANGVE FAITE",
+            "à Mademoiſelle, à̀ ſon arriuée",
+            "en la Maiſon de ville d’orleans.",
+            "DEMo1sELLE.",
+            "Les cauſes des moux, &amp; des accidens, qui",
+            "aniuent à̀ chacun des humains ſont ou pu",
+            "blicques, ou generalles, quand en meſme",
+            "temps elles ocnent pluieurs, -omme peſte,",
+            "famine, guerre, tyrinnie. Et les maux ſont",
+            "pour la pluſpart fleaux enuoyez de Dieu, &amp;",
+            "d Ciel, au moins la cauſe propre, &amp; pra",
+            "chaine n’eſt pas ſi aiſeée à cognoiſtre ou par",
+            "ticulieres &amp; connues, ſçauoir par le fait",
+            "d’autruy.",
+            "Les maux publics; encor qu’ils touchent",
+            "vn chacun en particulier; ſont en diuers",
+            "lens, &amp; plus, &amp; moins peſans, &amp; dangereux",
+            "A ij",
+            "rrr4",
+            "1"
+        ],
+        [
+            "4",
+            "quẽ les piués, qui ont leur cauſe con",
+            "nuë. Ills le ſont dauantage, car ils viennent",
+            "aà la foule, aſſaillent plus impetueuſement,",
+            "auec plus de bruit, de tempeſte, &amp; de furie:.",
+            "ont plus de ſuite, ſont plus eſclatans, produi",
+            "ſent plus de deſordre, &amp; de confuſion.",
+            "Toutesfois puiſque c’eſt Dieu, &amp; ſa pro",
+            "uidence, de laquelle vient, &amp; depend vne",
+            "neceſſité́ abſoluë, qui gouuerne, &amp; modere",
+            "tout, à laquelle tout eſt ſubiet;",
+            "Ce ſeroit",
+            "impieté &amp; follie de ſe roidir contre,’uiſque",
+            "les choſes inſenſibles luy rendent obeiſſance,",
+            "&amp; que l’on n’aduence rien contre ſes vo",
+            "lontez.",
+            "Il eſt donc euident que nos guerres ciuiles",
+            "ſont des iuſtes effects de la cholere de Dieu,",
+            "pour nous punir, auſſi les deuons nous pren",
+            "dre de ſa part auec toute reſigation, &amp; bai",
+            "ſer la main qui nous bleſſe, &amp; laquelle nous",
+            "guecrit en nous bleſſant. Mais c’eſt vne bonté",
+            "toute extraordinaire, &amp; diuine, ſeule depen",
+            "dante de la diuinité́ increée, de nous voir pro",
+            "tegés dans des malheurs, qui n’ont rien de",
+            "ſermblable que leur augmentation, &amp; de voir",
+            "la premiere fille de France, née d’vn pere tout",
+            "parfait s’abbaiſſer iuſques là, que de venir en",
+            "perſonne dans cette ville, laquelle ſouffre pu",
+            "bli¬"
+        ],
+        [
+            "bliqement auec toutes les autres, &amp; parti",
+            "litement dans tous les deſordres.",
+            "Lon ſe laiſſe perſuader &amp; conduire par",
+            "impreſion, tout ſe meſure par opinion, &amp;",
+            "lopnion offenſe plus que le mal; noſtre im",
+            "nce nous fait plus de mal que ceux deſ",
+            "quels nous nous plaignons.",
+            "Toutrs les moralitez ceſſent au ſeul aſpect",
+            "de voſtre preſence, &amp; il n’y a point de con",
+            "anté, ny d’incomparibilité d’humeurs &amp;",
+            "de volontez qui ne s’accordent pour vous",
+            "ir leurs vœux. Tout ce peuple qui vous",
+            "nuuronne teſmoigne viſiblement ſes ſenti",
+            "mens reſpectueux, &amp; vous demande les ef",
+            "ſecnsde voſtre protection, auſſir bienque ceux",
+            "de voſtre clemence.",
+            "Cela eſt ſi certain &amp; ſi neceſſaire, que les",
+            "Legiſlateurs meſmes qui one voulu reigler le",
+            "commerce &amp; les affaires du monde, ont per",
+            "is en la luſtice diſtrihutiue pluſieurs paſſe",
+            "doicts, &amp; n’ont iamais empeſché les mou",
+            "uemens d’vne inclinatrion particuliere; ſur tout",
+            "nues ceux qui nous obligent eſtroitement.",
+            "hont permis de ſe bleſſer, &amp; deceuoir iuſ¬",
+            "ques à la moitié du iuſte prix, à̀ plus forte",
+            "lon de rendre les deuoirs&amp; les ſoubmiſ",
+            "ons deues au meite, à̀ laenaiſſance, &amp; a.",
+            "lobligation.",
+            "B",
+            "l",
+            "11",
+            "1",
+            "21,",
+            "¬ Al"
+        ],
+        [
+            "La concurrence &amp; l’oppoſition des affaires",
+            "qui porte que le plaiſit, le proffit, &amp; le bien",
+            "des vns, eſt le dommage &amp; le deſplaiſir des",
+            "autres, me font dire pour tout le reſte des",
+            "habitans de la Ville, que leur bon-heur eſ!",
+            "d’autant plus grand, qu’il eſtoit preſque in",
+            "eſperé, &amp; qu’il excedde au ſubject de l’au",
+            "thorité de celle qui le cauſe; ſans voſtre ſe",
+            "cours Orlcans ſeruoit de triomphe à la van",
+            "geance du Cardinal Mazarin, &amp; eſtoit à̀ la",
+            "veille de ſuccomber à ſes fourbories, &amp; ſoubs",
+            "les armes du Prince Thomas.",
+            "C’eſt faute de courage, que de ne ſçauos",
+            "meſpriſer l’offenſe: Les hommes de bien ne",
+            "ſont point ſubjers aà̀ iniure: ils ſont inuiola",
+            "bles, vne choſe inuiolable n’eſt pas ſeule.",
+            "ment celle qu’on ne peut frapper, mais qui",
+            "eſtant frappée ne reçoit aueune bleſſure.",
+            "C’eſt le plus fort rempart contre tous les",
+            "accidens que cette reſolution; que nous ne",
+            "pouuons receuoir du mal que de nous-meſ",
+            "mes. Si noſtre raiſon eſt telle qu’elle doit,",
+            "1¬2",
+            "nous ſommes inuulnerables.",
+            "Mais venant de’l’eſprit au’corps, &amp; du",
+            "particulier au géneral, il eſt neceſſaire de",
+            "donner des reamnedes differens, puiſque leuts",
+            "maladies ſont differetes. La tyrannie ne ru¬"
+        ],
+        [
+            "7",
+            "E pas leſprit, &amp; elle peut ruyner le Corps",
+            "tle peut renuerſer des Generalitez, &amp; peut",
+            "12",
+            "empter des particuliers.",
+            "Mademoiſelle voſtre depart de Paris mon",
+            "ſte aſez voſtre deſir pour la paix, &amp; com",
+            "me vous eſtes informée des calamitez publi",
+            "ques que toure la France ſouffre; Monſieur",
+            "notre Duc, apres vne laſſitude toute pleine",
+            "de bonté, &amp; toute extraordiaire ne peut pas",
+            "loufr qu’on ſe ſerue de la bouche de ſa Ma",
+            "jeſté pour perdre tout le Royaume, &amp; tous",
+            "ſes plus fidelles ſubjets. Tous les Princes du",
+            "Sang ont vne meſme paſſion pour le bien",
+            "publie, &amp; ie ne ſçay ſi ie dois finir lors que",
+            "e dois paler de voſtre Charite. Car ie vois",
+            "quantité de ſubjets ſans auoir la fonce de m’en",
+            "pouuoir ſeruir, &amp; ie n’ay point d’éloquence",
+            "pour commencer hardiment les eloges qui",
+            "vous lont deubs. Voicy toute la Ville qui",
+            "vous donne ſes Clefs, qui eſpere voſtre pro",
+            "etion, &amp; qui fait ſerment de reſpandre ſon",
+            "ſang iuqſqu’à la derniere goutre pour l’ac",
+            "compliſſement de vos ordonnances. Devous",
+            "die la Reyne des Amazones, de vous nom",
+            "mer la Liberatrice des Peuples, de declarer",
+            "lbrement la grandeur devos ſntentions, en",
+            "u de due toût ce que là Lahgue’utmine",
+            "i Ct",
+            "l",
+            "1",
+            "1"
+        ],
+        [
+            "peut proferr, c’eſt trop peu, eu egardà vo",
+            "perfections, &amp; aà toutes les vertus enſemble",
+            "que vous employez pout proteger ceux qui",
+            "ne ſont pas moins par inclination que par",
+            "nature,",
+            "1 y",
+            "MADEMOISELLE.",
+            "De Voſtre Alteſſe,",
+            "E",
+            "vn",
+            "Les Tres humbles, tres-obeyſſans",
+            "&amp; tres- fidelles ſeruieurs,",
+            "&amp; ſubjes",
+            "2",
+            "To1 ARD, Preſident.",
+            "DE l GrRLLiERE, Lieutenant Genera",
+            "Bo1ssvVE, Maire de Ville.",
+            "BE BEELEBA Elcheuin¬"
+        ]
+    ]
+}

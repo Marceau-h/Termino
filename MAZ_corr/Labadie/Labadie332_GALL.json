@@ -1,0 +1,73 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "poésie",
+        "subject": [
+            "Ormée",
+            "Bordeaux"
+        ],
+        "handwritten_note": true,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-08-31",
+            "@who": "AB"
+        },
+        "titre": "SUR l'Amnistie de Bourdeaux",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Labadie",
+                "@when": "1653",
+                "#text": "1653"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1653-08-28",
+                "#text": "28 août 1653"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Labadie",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@xml:id": "IL_CramoisySebastien.xml",
+            "@ref": "isni:0000000423421174",
+            "persName": {
+                "forename": "Sébastien",
+                "surname": "Cramoisy"
+            }
+        },
+        "nbPages": "1"
+    },
+    "texte": [
+        [
+            "SVR",
+            "L'AMNISTIE",
+            "DE BOVRDEAVX.",
+            "accordée le Iulliet 1653.",
+            "ENFIN la Garone ſoubmiſe",
+            "De ſon Prince recoit la loy,",
+            "Et plus ſage que la Tamiſe",
+            "Elle rend hommage à ſon Roy:",
+            "Et le peuple qui l’enuironne",
+            "Suit l’exemple de la Garone.",
+            "L’Eſpagne au lieu de ſecourir",
+            "Selon ſon deſſein ces rebelles,",
+            "Leur a donné les eſcroüelles",
+            "Que le Roy seul pouuoit guarir.",
+            "Imprimé chez Sebaſt-Cramoyſy",
+            "A Paris le 28. Aouſt. 1653."
+        ]
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "imprimatur": "AVEC PERMISSION",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "articles",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Paix de Bordeaux (1649)",
+        "creation": "1649-04-30",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Articles de la paix, accordés entre messieurs du\n          parlement de Bordeaux et monsieur d'Argençon",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": [
+            {
+                "@ref": "isni:0000000383255772",
+                "persName": "Louis XIV"
+            },
+            {
+                "@ref": "isni:0000000115726371",
+                "persName": {
+                    "forename": "René de Voyer",
+                    "surname": "Argenson"
+                }
+            },
+            {
+                "@ref": "isni:0000000119572170",
+                "orgName": "Parlement de Bordeaux"
+            }
+        ],
+        "pubDate": {
+            "@source": "Mazarine",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2989317",
+            "#text": "Orléans"
+        },
+        "publisher": {
+            "@ref": "isni:0000000364426759",
+            "@xml:id": "IL_HototGilles.xml",
+            "persName": {
+                "forename": "Gilles",
+                "surname": "Hotot"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARTICLES",
+            "DE LA PAIX,",
+            "Accordée entre Meſſieurs du",
+            "Parlement de Bourdeaux,",
+            "&amp; Monſieur d’Argençon",
+            "Commiſſaire deputé par",
+            "le Roy.",
+            "A ORLEANS,",
+            "Chez GILLES HOTOT, Imprimeur du Roy,",
+            "de ſon Alteſſe Royale &amp; de la Ville. 1649.",
+            "AVEC PERMISSION"
+        ],
+        [
+            "Articles de la Pix, accordée entre Meſſieurs du Par",
+            "lement de Bourdeaux, &amp; Monſieur dArgencon.",
+            "1 Q(3 E deſarmement &amp; l’e loignement des",
+            "ſſ Trouppes tant par eau que par terre,",
+            "la",
+            "Z ſera fait au pluſtoſt au meſme iour.",
+            "es rouope ſeoue renreu.",
+            "b diſtance de dix lieuës ordonnées par lc",
+            "feu Roy, &amp; pour ne donner ombrage à̀ la Ville de",
+            "Bourdeaux, &amp; ſuiuront la route qui leur ſera ordõ̃née",
+            "par ſa Majeſteé.",
+            "3. L’ouuerture des paſſages &amp; le commerce ſera libre",
+            "tant par terre que par les deux riuieres.",
+            ". Le Chaſteau de Langoiran aueec les meubles qui",
+            "yeſtoient, enſemble ce luy de Vayres &amp; autres, ſeront",
+            "rendus aux proprietaires.",
+            "5. Les gens de guerre qui ſont aà̀ Libourneſeront en",
+            "nombre neceſſaire pourlagarde du Re duict en l’eſtat",
+            "qu’il eſt aà̀ preſent iuſques a’ordre du Roy, fans qu’on",
+            "puiſſe ce pendant continuer le trauail dudit Reduict.",
+            "6. Ceux qui feront l’aduance dela ſubſiſtance des",
+            "ſoldats dudit Reduict de Lbourne enſerõt rembour",
+            "ſcz ſous le bon plaiſir du Roy, par deduction ſur les",
+            "deniers de la Taille, Subſiſtance, ou autrement.",
+            "7. Tous les priſonniers de guerre ſerpnt rendus de",
+            "part &amp; d’autre.",
+            "S: Ily auraſeureté entiere pour les perſonnes&amp; les",
+            "piens des partieuliers cant du Parlement que de l.a",
+            "Ville de Bordeaux &amp; autres qui les ont aſſiſtez: Et a",
+            "¬--eraaars",
+            "1",
+            "1",
+            "1",
+            "1",
+            "3"
+        ],
+        [
+            "faA",
+            "4",
+            "ces fins ſaMajeſté ſera ſuppliée de donner ſa Decla",
+            "ration neceſſare.",
+            "9 I ſera mis dans le Chaſteau Trompette iuſquesà",
+            "ſept vingts ſacs de farine au pluſtoſt qu’ilſe pourra, &amp;",
+            "ſur l’aduis qui ſera donné par le Parlement du remps",
+            "conuenable à ceéteffet.",
+            "10. Et pour laſeureteé de la remiſe deſdites farines,",
+            "ont eſteé donneztrois cautions qui demeureront deſ",
+            "chargez dés lors que celaſera effectue.",
+            ".On pourra continuer la garde de la Ville quand",
+            "il ſera neceſſaire.",
+            "12. Le Chaſteaui du Ha ſera remisés mains du Sieur",
+            "Marquis de Roquelaure, ou ceux qui auront charge",
+            "de luy. Fait à Bourdeaux le premier de May milſix",
+            "cens quarante-neuf.",
+            "Ainſi ſignez.",
+            "Dabermet, Pronaier Preſi¬ Argençon Maiſtre des Re",
+            "questes.",
+            "denr.",
+            "e Suduiraut, Conſailler, Curſol, Cunſeiller, Commijſ",
+            "ſaireſoſait.",
+            "Cooomiſſare ſiſe.",
+            "Daſalt Aduocas General, Dußault, Depaté.",
+            "Commiſſaire.",
+            "Richon, Deputeé.",
+            "Calaimont, Iarai.",
+            "Conſtant, Depat Aduoc.",
+            "Fouques Baurg.",
+            "A oVS ſoub-finez certifions qu l cle nmi",
+            "N dansle Chateau Trompetcela quaieieede qu",
+            ". nges ſas de farine de deu boiſſur chaoun",
+            "aiſant cent ſoixante boiſeaux: Enfoy depornou",
+            "uosſigné cespreſenues-ourdeauleeroas",
+            "Signe Agençan. Hamnt."
+        ]
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers/prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Beaufort, François de Bourbon-Vendôme (1616-1669 ; duc de)",
+        "change": {
+            "@status": "not_corrected",
+            "@when": "2022-02-01",
+            "@who": "AB"
+        },
+        "titre": "Avis aux Parisiens",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": "Anonyme",
+        "pubDate": {
+            "@source": "Mazarine",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans Lieu"
+        },
+        "publisher": "Anonyme",
+        "nbPages": "1"
+    },
+    "texte": [
+        [
+            "eoôllell?",
+            "TCASSlC",
+            "eee",
+            "lae",
+            "re¬",
+            "¬"
+        ],
+        [
+            "r,",
+            "r5i",
+            "1",
+            "l",
+            "E",
+            "E",
+            "li &amp;",
+            "E1",
+            "e",
+            "l",
+            "Ju",
+            "E",
+            "11l",
+            ".",
+            "1e1",
+            "1",
+            "1",
+            "1",
+            "l",
+            "I",
+            "li",
+            "l’e"
+        ],
+        [
+            "ooôs.",
+            "CL„3 .a2. e89."
+        ],
+        [
+            "T T",
+            "7",
+            "r¬",
+            "ADVIS AVX PARISIENS.",
+            "A 1",
+            "TE VPLES DE PARIS, conſidere que l’atentat que le Cardi¬",
+            "2",
+            "nal Mazarin fit faire la nuict du Samedy dernierle a9. Octobre 1;o.",
+            "contre Monſieur le Due de Beau-fort, eſt vne marque aſſeurée du deſ¬",
+            "ſein qu’il à de te perdre: car ne l’ayant oſé entreprendre tans qu’il l’a",
+            "creu eſtre ton Protecteur, iuſques à ce qu’il l’à eu deſcrié dans la Ville",
+            "par mille libelles diffamatoires qu’il a fait publier contre l’integrité de",
+            "ce Duc, &amp; ne l’ayant peuobliger parſes artifices à conſentir à ta ruïne, il",
+            "la voulu faire aſſner, pour en ſuitte ſe venger de la Ville de Paris, a¬",
+            "pres qu’il ſe ſeroit deffaict d’vne perſonne ſi conſiderable &amp; ſi neceſſai¬",
+            "re au peuple; puiſque les charges, n’y les alliances, ny les promeſſes ne",
+            "l’ont iamais pu détacher de ſes intereſts, pour leſquels il ſera touſiours",
+            "preſts dexpoſer ſa vie.",
+            "Afiché le Vendredy 4. ouembre 1s",
+            "¬¬. A. . 2.¬¬¬¬ ¬..¬¬¬aA¬2¬"
+        ],
+        [
+            "S",
+            "L",
+            "-"
+        ]
+    ]
+}

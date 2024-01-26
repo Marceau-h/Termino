@@ -1,0 +1,168 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Vin",
+            "Aides (impôt)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant défenses, aux\n          vendeurs contrôleurs de vins, de recevoir et prendre plus grands droits que les deux tiers\n          de ce dont ils jouissent à présent",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "persName": "France. Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1648",
+                "#text": "1648"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1648-10-16",
+                "#text": "16 octobre 1648"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000359773502",
+            "persName": {
+                "forename": "Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "ARREST DE LA COR DE PARLEMENT",
+            "Portant deffences aux Vendeurs, Controolleurs de",
+            "Vins, de receuoir &amp; prende plus grands droicts qu",
+            "les deux tiers de ce dont ils jouyſſent a preſent.",
+            "VEV parla Cour, toutes les Chamhres aſembĺes,",
+            "ſ la ſ equeſte prelenrée pmr t dne ioreau, Nicolas",
+            "Muſſot, Iean Arier &amp; autres, juſques au nombre",
+            "S&amp; de ent unuanue nre rounis e ve oue uonnr",
+            "rains; Contenant qu’ils onr accouſtumé d’amenet",
+            "tous les ans lesVns par la voye de la riuiere d’Yon¬",
+            "ne, en cette Ville de Paris, les vns qu’ils receuil¬",
+            "lent de leurs Vignes, &amp; qu’ils acherent des pauures Vignerons. Mais",
+            "l’ex. erience du paſſe a appris aux Supplians, que la peine qu’ils pren¬",
+            "nent de façonner leurs Vgnes, acheter &amp; amener leſdits Vins, leur",
+            "eſt inutille &amp; à charge: &amp; que les Bourgeois de Paris, pour la fourni¬",
+            "eure deſquels les Supplians employent rous leurs ſoins, achetent leſ¬",
+            "dits V ins beaucoup plus qu’ils ne vallet. Car outre que les Supplians",
+            "font obligez de payer en paſſant au Porr de Ioigny, douze deniers",
+            "pour chacun muid de Vin: à̀ Villeneufue le Roy. quatre ſols quarre",
+            "deniers: à ens, cinq ſols: a S Meſmin, vn lol: à̀ Melun, vn ſol, auſſi",
+            "pour chacun muid de Vn, &amp; le ſol pour liure de toures leſdites ſom.",
+            "mes. Ils ſont contrains payer à l’entré́e de cettedite Ville, quarorze",
+            "liures cinqſols deux deniers;, Sçauoir les antiens cinq ſols, trois ſols",
+            "quatre deniers, attribuez par Declaration de l’an 15;4. dix deniers",
+            "pour muid, augnentez en l’année 1569. cinq ſols de nouuelle arrri¬",
+            "bution, de l’anńe 5o;. vingt ſols, &amp; dix ſol, artribuez en l’année",
+            "5S96. quine ſols, pour la conſtruction du Pont ne uf, cinq ſols,",
+            "pour les i’auures Enfermez, autres dix ſol, &amp; uarante-cnq ſols, at¬",
+            "ribuez en l’année 63. ſoixante ſols, artribuez en l’année 6̃;7 qui",
+            "ue deuoient eſtre leuez que pendant deux anneées, autres dix ſols, ſous",
+            "pretexte de la deſpence de la cloſture de Pars du coſté de Montmar¬",
+            "1l"
+        ],
+        [
+            "a",
+            "rre, vingt ſols pour la conſtruction de Maubouge, deux ſols pour le",
+            "Barrage, cinq deniers pour la ceinture de la Reyne, trois ſols pour le",
+            "reſtabliſſement du Pont rouge, &amp; deux ſols ſix deniers de toutes les",
+            "fuſdites ſommes, &amp; vingt ſols qui ſe leuent en vertu d’Arreſt du Con¬",
+            "ſeil du 8. Mars dernier. Outre ce, les Supplians ſont obligez de payer",
+            "le ſol pour liure dudit Vin, meſimes des Inpoſitions ſuſdites, &amp; dix ſols",
+            "pour muid de nouuelle Impoſition, joint audit Gros, deux ſols ſix",
+            "deniers pour chacun muid, trois liures à̀ cauſe du droict de Treillis;",
+            "Ce qui augmente notablement le prix dudit Vin, &amp; ce qui fait vn no¬",
+            "table prejudice aux Supplians, eſt la dureté auec la quelle ils ſont trait¬",
+            "tez par les Vendeurs, Courtiers &amp; Iaulgeurs. Car encores que par les",
+            "Edicts de creation deſdits Offices, que le malheur du Siecle a pro¬",
+            "duit, Il ſoit en la liberté des Supplians, &amp; des Bourgeois, de ſe ſeruir",
+            "ou non du miniſtere deſdirs Vendeurs, Courtiers &amp; l aulgeurs. Neant.",
+            "moins ils ont rendu leur fonction neceſſaire en ſorte, que de tous les",
+            "Vins qui ſont amenez en cette Ville par les Supplians, leſdits Ven¬",
+            "deurs exigent vingt deniecrs pour chacune liure, &amp; comptent vingt¬",
+            "vn muid pour vingt, qui eſt vne condirion contraire à leur eſtabliſſe.",
+            "ment, les Courtiers prennent huit ſols pour chacune piece de Vin,",
+            "tant groſſe que petite, &amp; les Iaulgeurs prennent auſſi cinq ſols pour",
+            "chacune piece. Toutes leſquelles Impoſitions jointes enſemble, en.",
+            "Cheriſſent ſi hautement le prix deſdirs Vins, qu’il eſt impoſſible quil",
+            "puiſſe eſtre à prix raiſonnable: A CES CAVSES; Requeroient leur",
+            "eſtre ſur ce pourueu: Ce faiſant qu’il leur fut permis de faire aſſigner",
+            "en la Cour, tous les Fermiers &amp; autres qui leuent les droicts cy. deſ¬",
+            "ſus, ſur les Ports ou paſſent les Barteaux des Supplians, chargez de",
+            "Vins, &amp; à l’entrée de Paris, pourrapporter les titres, en vertu deſquels",
+            "ils perçoiuent leſdits droits: Et cependant, attendu l’excez des Im¬",
+            "poſitions qui ont accouſtumé d’eſtre leuez, à l’entrée de cette Ville",
+            "de Paris;, faire deffences aux Fermiers deſdirs droits d’entreée, d’exiger",
+            "aucuns des nouueaux droits, attribuez depuis le deceds du deffunt",
+            "Roy Henry IV. Aux Ven deurs, Iaulgeurs &amp; Courtiers, de leuer au¬",
+            "cun droict des Supplians;, ſinon de ceux qui ſe ſeruirontactuellement",
+            "de leur miniſtere, &amp; reduire ledit droict de Vendeurs, Courtiers &amp;",
+            "Iaulgeurs, ſur le pied des droicts de leur creatrion: Veu auſſi les Edicts,",
+            "Declarations,&amp; autres pieces atttachées à ladite Requeſte, &amp; ouy"
+        ],
+        [
+            "ſur ce les gens du Roy: Tout conſidere. LADITE COVR, a or¬",
+            "donné &amp; ordonne, que leſdits Supplians auront Commſſion pour",
+            "faire aſſigner en icelle qui bon leur ſemblera, aux fins de leur Reque¬",
+            "ſte, &amp; repreſenter les titres, en vertu deſquels ils perçoiuent des droits",
+            "ſur les Vins, Cependant par maniere de prouiſion, fait tres-expreſſes",
+            "inhibitions &amp; deffences auſdits Vendeurs, Controlleurs de Vins, de",
+            "receuoir &amp; prendre plus grands droicts, que les deux tiers de ce dont",
+            "ils jouyſſent à preſent, Ce faiſant, ne prendront plus de trente ſols",
+            "par chacun muid de Vin, de quelque prix qu’il ſoir, &amp; ſeront au ſur.",
+            "plus les Arreſts &amp; Reglemens executez, juſques à ce que autrement",
+            "par la Cour en ayr eſté ordonne. Fair en Parlement, le 14 Octobre",
+            "rr r¬",
+            "1648. Signé, GVYET.",
+            ".’An mil ſix cens quaae-bat, le r5;. four d’oobre: la Requeſfe",
+            "LLdes Marchanmds de ins de ecee r lle, Fauxbourgs &amp; Banlieue de",
+            "ceese rie de Paris: Fut le preſent, moſtré &amp; ſignmiffe, &amp; d’iceluy baille",
+            "coppie à la Comanauté desVendeurs, &amp; Coneroſeurs de Pins de cette rle",
+            "de Paris, en parlt pour eue en leur Bureau, ſiz ruë de la Aortellerir, ̀Iean",
+            "Regnault, l’vn d’iceux, &amp;a l Communaté des Court ies de ins, auſſi",
+            "de cette rille, en parlant pour eux en eur Bur eau, à Touſſaint Bonamy,",
+            "l’vn d’iceux, &amp; à la Communauré́ des Iaulgeurs de ins de cete Vidle .",
+            "Paris e perlont poar eux leur Bareau, ſiz en ladite rae, pierre Oſ¬",
+            "ſt l’v d’iceu, leur aye fais les defeees mentiomnees audit rreſ, &amp;",
+            "les ay aſſigé &amp; donne aſſgnation, à̀ omparoir au prenmierjour, parde¬",
+            "mant eſſeigneurs de ladite Cour de Parlement, peur reſpondre aux ,s",
+            "dudit lrret, en outre ainſi que de raiſon, auſquels parlant qae deſus,",
+            "ay laiſe enſemble oppie du preſent explaiet, par moy aiſier en icelle,",
+            "ſous-ſigné́, Habinot.",
+            "e"
+        ],
+        [
+            "¬¬",
+            "A PARIS,",
+            "pe ’lpimeie de l dvi i EoT s",
+            "des Marmouets, deuant la petite Porte de",
+            "l’Egliſe Sainte Magdeleine,",
+            "M. DC. XLVIII."
+        ]
+    ]
+}

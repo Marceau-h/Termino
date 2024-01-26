@@ -1,0 +1,111 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-01",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Rouen, portant que le\n          cardinal Mazarin, qui séjourne dans les places de ladite province, lève les garnisons et\n          les change, ait à s'en retirer promptement, ses parents et domestiques étrangers,\n          autrement permis, aux communes et autres, de courir sus.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000480502587",
+            "orgName": "Parlement de Normandie"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-02-15",
+                "#text": "daté du 15 février 1651"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000110444682",
+            "@xml:id": "IL_LesselinAlexandre.xml",
+            "persName": {
+                "forename": "Alexandre",
+                "surname": "Lesselin"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "de Rouen.",
+            "PORTANT QVE LE CARDINAL",
+            "Mazarin, qui ſéjourne dans les Places de ladite",
+            "Prouince, leue les garniſons &amp; les change, aye à",
+            "s’en retirer promptement, ſes Parens &amp; Domeſti",
+            "ques Eſtrangers, Autrement permis aux Communes",
+            "&amp; autres de courir ſus.",
+            "Du Mercredy quinzieſme Fevrier 1651.",
+            "A PARIS,",
+            "Chez ALEXANDRE LESSELIN, ruë de la",
+            "Barillerie, proche la grande porte du Palais,",
+            "au coin de la ruë de la Calandre, à la",
+            "Fontaine des Paſtoureaux.",
+            "M. DC. LI."
+        ],
+        [
+            "3",
+            "EXTRAICT DES REGISTPES",
+            "de ParlemenT.",
+            "LA Cour, toutes les Chambres aſſem",
+            "blées, en procedant ſuiuant l’arreſté du",
+            "jour d’hier à la deliberation des Lettres",
+            "&amp; Arreſt du Parlement de Paris du",
+            "neufieſme du preſent mois, attendu",
+            "qu’il est notoire que contre la volonte du Roy &amp; de la",
+            "Reyne Regente ſa mere rapportée par ledit Arreſt, le Car",
+            "dinal Mazarin eſt dans cette Prouince, ſejourne dans les",
+            "Places par où il paſſe; leue les garniſons &amp; les change,",
+            "meſme s’eſt retiré dans le Havre de Grace, le tout au pre",
+            "judice de l’authorité Royale, repos &amp; tranquillité de la",
+            "Prouince. A ORDONNE &amp; ordonne en execution",
+            "de la volonté du Roy &amp; de la Reyne Regente, mentionńe",
+            "audit Arreſt, Que ledit Cardinal Mazarin, ſes Parens &amp;",
+            "Domeſtiques Eſtrangers, sortiront de la Prouince dans",
+            "huitaine: Et à̀ faute de ce, ledit temps paſſe, ſera contre",
+            "eux procedé extraordinairement; Permis aux Communes",
+            "&amp; à tous autres de leur coure ſus. Fait defſences à̀ tous"
+        ],
+        [
+            "Gouuerneurs de Places, Maires et Eſcheuins des Villes &amp;",
+            "autres Subjets du Roy de les retirer ny receuoir. Et or",
+            "donne que le preſent Arreſt ſera leu, publié à̀ ſon de",
+            "trompe &amp; cry public, &amp; affiché aux Carreſours de cette",
+            "Ville, &amp; les Vidimus envoyez aux Bailliages &amp; Sieges de",
+            "ce reſſort, pour y eſtre pareillement leu, publié, regiſtré &amp;",
+            "affiché à la diligence des Subſtituts du Proeureur General:",
+            "Auſquels eſt enjoint de certifier la Cour de leur diligence",
+            "dans quinzaine. Fait en Parlement le quinzieſme du",
+            "preſent mois de Fevrier mil ſix cens cinquante-vn."
+        ]
+    ]
+}

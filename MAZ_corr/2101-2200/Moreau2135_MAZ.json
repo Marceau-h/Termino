@@ -1,0 +1,98 @@
+{
+    "imprimatur": "AVEC PRIVILEGE DU ROY.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": "Rentes de l'Hôtel de Ville",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-02-08",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-14",
+            "@who": "AB"
+        },
+        "titre": "Lettre du roy à messieurs les prévôt des marchands et\n          échevins de sa bonne ville de Paris sur l'assurance du payement des rentes, de Saumeur ,\n          le seizième de février 1652.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "@source": "Mazarine",
+            "persName": "Louis XIV"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1652-02-21",
+                "@notAfter": "1652-02-28",
+                "@when": "1652",
+                "#text": "dernière semaine de\n            février 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000008903969",
+            "@xml:id": "IL_RocoletPierre.xml",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Rocolet"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DV ROY",
+            "Eſcrite à Meſsieurs les Preuoſts des",
+            "Marchands &amp; Eſcheuins",
+            "de sa bonne Ville de Paris.",
+            "Sur l'aſſeurance du payement des Rentes.",
+            "De Saumur, le ſeiziéme de Féurier 1652.",
+            "A PARIS,",
+            "Chez PIERRE ROCOLET Imprimeur &amp; Libraire ordinaire",
+            "du Roy, &amp; de la Maiſon de Ville, au Palais",
+            "aux Armes; &amp; de la Ville.",
+            "M. DC. LII.",
+            "AVEC PRIVILEGE DU ROY."
+        ],
+        [
+            "ne Ville de Paris, &amp; pour leuer tout le doute que",
+            "eeét Arreſt du huictleſnme Ianuier luy en auoit pû",
+            "laiſſer, en l’interpretant par celuy de noſtre Con",
+            "ſcil, que nous vous enuoyons, Nous auons telle",
+            "men aſſearé le fonds deees Rentes, que nous l’a",
+            "uons preferé́ à toutes aſſignations leué́es &amp; à leuer,",
+            "meſmes à la partie de l’Eſpargne: Et nous nous",
+            "promettons qu’apres cette marque de noſtre ſince",
+            "rité &amp; de noſtre bien-vueillance, vous aurez d’au",
+            "tant plus de ſujet de nous continuet les effects de",
+            "voſtre fidelité, que nous preferons l’intereſt de",
+            "noſtre Ville de Paris &amp; des Rentiers aux noſtres, &amp;",
+            "aà nos affaires les plus importantes. DONNE3",
+            "Saumeur le ſeiziéme Fevrier mil ſix cens cinquan",
+            "te-deux. Signe LOVIS:",
+            "E GVENEGv.",
+            "L",
+            "Et plus bas,",
+            "E ſur la ſiſcripion,",
+            "Anostres-chers &amp; bien-amez les Preuoſt",
+            "des Marchands &amp; Eſcheuins de noſtre",
+            "bonne Ville de Paris."
+        ]
+    ]
+}

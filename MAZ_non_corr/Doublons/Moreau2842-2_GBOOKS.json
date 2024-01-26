@@ -1,0 +1,131 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Prédiction de Nostradamus sur la perte du\n                    cardinal Mazarin, en France, extraite de la Centurie 8ᵉ, article 9.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:0000000",
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "1",
+            "oi15",
+            "tdttedtltſtſtjjla?",
+            "gss",
+            "Ensd",
+            "6",
+            "pREDIcTION",
+            "DE NOSTRADAMVS",
+            "SVR LA PERTE",
+            "DV CARDINAL MAZARIN",
+            "en France.",
+            "Exaite de la Ceuurie bainiéme, aricle neuf",
+            "uaVoicy les termes de la Prediction.",
+            "A ſouſtenir la grand Cape troublee,",
+            "Pour l’éclaircir les Rouges marcheront,",
+            "De mort famille ſera preſque troubleée,",
+            "Les Rouges ouges, ſe ouge aſſmmeront.",
+            "INTERPRETATION.",
+            "Mle pue e eue e e e enen",
+            "l pnt eonunueouun p l prenie nun u!",
+            "le lanaurin eſt deſigne par la gran, Caon",
+            "ller ne ue ue l is e ine d dreine",
+            "ne il e niune eue i ueſeun roue, ous l"
+        ],
+        [
+            "¬",
+            ".",
+            "deſcend iuſques au deſſous des talons; mais auec",
+            "tout cela, ll n’eſt pas ſans eſtre agité e ſon eſ¬",
+            "prit, conformé́ment à la prediction, qui dit",
+            "qu’il eſt troublé.",
+            "Le ſecond vers, nous fait voir que ſon trou¬",
+            "ble vient de ce que Noſſeigneurs du Parlement",
+            "deſignez par ce mot de Rouges (a cauſe de la lon¬",
+            "gue robe rouge, dont ils ſont affeublez) s’aſſem¬",
+            "blent tous les iours, &amp; depuis trois mois ils n’ont",
+            "fait qu’aller &amp; venir tant aà̀ ſainct Germain en",
+            "Laye, qu’au Palais Royal, pour deſcouurir ſes",
+            "deſſeins &amp; maluerſations de ſon Miniſtere: Car",
+            "le Vers porte que pour l’éclaircir ils marcheront.",
+            "Et de faict ils ont tant marché, qu’ils tiennent le",
+            "Loup par l’oreille.",
+            "Le troiſieſme Vers nous repreſente qu’en ſui¬",
+            "te de ce vn Conſeiller, qui opinoit dans le Par¬",
+            "lemenat, au ſujee &amp; on fauoue dudie Mazarin, y",
+            "eſt mort ſiſoudainement, qu’vn chacun en a eſté",
+            "eſtonné́, &amp; ſa famille toute troublee, comme",
+            "porte le Vers.",
+            "Le dernier Vers menace d’vne Cataſtrophe",
+            "eſtrange ledit Mazarin, lors qu’il l’aduertit que",
+            "les Rouges Rouges duplicatiuement pris, aſſom¬",
+            "meront le Rouge; c’eſt à dire, qu’infalliblement"
+        ],
+        [
+            "ils le perdront. Et deſia ll eſt perdu d’honneur",
+            "quand meſme il viuroit encore vn ſiecle.",
+            "Or ne s’en faut il pas eſtonner, pource que",
+            "comme Dieu a reuelé́ à̀ ſes Prophetes l’eſtat de",
+            "l’Egliſe Militante, &amp; tout ce qui luy doit arriuer",
+            "infalliblement iuſques à la fin des ſiecles: Auſſi",
+            "comme Gouuerneur de l’Vniuers, il denonce à",
+            "l’auance &amp; quand il luy plaiſt par ſes ſeruiteurs",
+            "les deſordres qui doiuent arriuer dans les Gou¬",
+            "uernemens des Eſtats, dans les reuolurions &amp;",
+            "changemens des Royaumes &amp; des Empires,",
+            "aux fins de fermer la bouche aux Impies qui",
+            "oſent dire: Non videbit Dominus, nec intelliget",
+            "Deus Iacob.",
+            "!",
+            ".¬"
+        ],
+        [
+            "1¬",
+            ".",
+            "1 .",
+            "1a!",
+            "uea, Google",
+            "... a¬"
+        ]
+    ]
+}

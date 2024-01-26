@@ -1,0 +1,107 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1649-01-18",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre de la cour de Parlement de Paris, envoyée aux\n          baillifs, sénéchaux, maires, échevins et autres officiers de ce royaume, du 18 janvier\n          1649.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": "Parlement de Paris",
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": "Les imprimeurs & libraires ordinaires du Roy",
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "r¬a.",
+            "LEI",
+            "DE L A",
+            "81190",
+            "¬.",
+            "IE",
+            "COVR",
+            "DE PARLEMENT",
+            "DE PARIS",
+            "Enuoyée aux Baillifs, Seneſchaux, Maires,",
+            "Eſcheuins &amp; autres Offieierxs",
+            "de ce Royaume.",
+            "Du dic-huictieſme Ianuier mil ſix cens",
+            "quarante-nmeuf.",
+            "8",
+            "A PARIS,",
+            "Pa les lmprneus e uionine o",
+            "raires ordinaires du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſle."
+        ],
+        [
+            "1",
+            "e¬"
+        ],
+        [
+            "es",
+            "Et",
+            "eSSIEVS.",
+            "Bien que nous ne dou tions pas que vous",
+            "ne ſoyez aſſeurez des ſoins que la Cour a pris",
+            "en toutes rencontres, de la conſeruation de",
+            "l’Eſtat &amp; de ſa fidelité enuers le Roy: Neant",
+            "nmoins ecomrnne le Cardinal Mazarin ennemy",
+            "du Royaume, taſche par toutes ſortes de",
+            "moyens &amp; par la voye ouuerte des armes,",
+            "d’opprimer l’authorité du Roy, celle de la",
+            "Cour &amp; la liberté publique, par vne armée",
+            "auec laquelle il a fait inueſtir Paris, apres en",
+            "auoir enleué le Roy à deux heures apres mi",
+            "nuit; Nous vous donnons aduis, &amp; vous en",
+            "uoyons les Arreſts par l’vl deſquels il eſt de",
+            "claré perturbateur du repos public, &amp; par",
+            "l’autre enjoint auxtroupes de ſe retirer, &amp; à",
+            "A ij",
+            "r,,"
+        ],
+        [
+            ".",
+            "4",
+            "faute dece faire, aux Conamuaes de courre",
+            "ſus, afin d’empeſcher le pernicieux deſſein",
+            "dudit Cardinal. Nous vous prions d’ayder",
+            "de viures &amp; de forces cette grande Ville,",
+            "dont la ruyne cauſeroit enſuite celle de l’E",
+            "ſtat, que nousvous conuions de nous ayder",
+            "à conſeruer toure entiere au Roy, afin qu’il",
+            "connoiſſe vn iour ſes bons ſeruiteurs. Nous",
+            "ſommes,",
+            "8",
+            "2",
+            "Vos bonsamis les Ges tenans l",
+            "Cour de Parlement de Paris..",
+            "Siń, DV TILLET.",
+            ".",
+            "1",
+            "ce dilqitiefnu uijtpe"
+        ]
+    ]
+}

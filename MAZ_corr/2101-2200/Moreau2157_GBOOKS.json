@@ -1,0 +1,111 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1651-10-01",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-06",
+            "@who": "AB"
+        },
+        "titre": "Lettre du roi écrite à Son Altesse Royale, de Bourges, le\n          7 octobre 1651.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "persName": "Louis XIV"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-10",
+                "#text": "datée d'octobre 1651"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "TTrD E",
+            "LETTRE",
+            "DV ROoY.",
+            "ai e i ioe",
+            "p",
+            "eeone le ueue",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "Aſ6u",
+            "3",
+            "res",
+            "LETTREDVROY,",
+            "ESCRITE",
+            "A SON ALTESSE ROYALE.",
+            "e",
+            "ON ONCLE, Ie n’ay",
+            "ſl pas voulu demeurer",
+            "ſs plus long-temps ſans",
+            "ſ vous donner part de",
+            "8 l’heureux ſuccés de mon",
+            "oane, &amp;eomnme le ſuis nure de",
+            "lanle &amp; dela Tour de fourues e",
+            "plabiansaantobugenon conſenle",
+            "Puaede courn &amp;eur qu eſoien",
+            "ute luy, de ſe retirer, apres auoirt fait",
+            "ledemiers eeoro pou les pgonrer du,",
+            "lebeion Cela lenmpedne pas que",
+            "eneſois toujours dans lesmeſes ſen",
+            "A ij"
+        ],
+        [
+            "4",
+            "timens que ievous ay témoignez, &amp;",
+            "que ie ne ſouhaitte que vous puiſſiez",
+            "remettre mon Couſin le Prince de",
+            "Condé dans ſon deuoir; vous aſſeurant",
+            "que voſtre entremiſe me ſera toû̂jours",
+            "tresagreable, &amp; que i’approuueray",
+            "toutes les choſes que vous ferez ſurce",
+            "ſujet pour le bien de mon ſeruice:",
+            "eſtant tres-perſuadé de l’affection que",
+            "vous auez pour moy, qui prie Dieu,",
+            "mon Oncle, qu’il vous ayt en ſa ſainte",
+            "&amp; digne garde. Eſcrite à Bourges ce 7.",
+            "Octobre, 1651.",
+            "Voſtre bien bon &amp; aſfectionné",
+            "Et plus bas,",
+            "a I.",
+            "nepueu,",
+            "Lov1S,",
+            "D LOEIE.",
+            "2"
+        ]
+    ]
+}

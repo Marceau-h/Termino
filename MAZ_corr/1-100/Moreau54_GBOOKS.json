@@ -1,0 +1,213 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "dialogue",
+            "burlesque"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-11",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "KA"
+        },
+        "titre": "Agréable conférence de deux paysans de Saint-Ouen et de\n          Montmorency sur les affaires du temps.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-09-14",
+            "#text": "14 septembre 2022"
+        },
+        "author": {
+            "@source": "Mazarine",
+            "@ref": "isni:0000000056461034",
+            "persName": {
+                "forename": "Louis",
+                "surname": "Richer"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-02-22",
+                "#text": "22 février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "AGREABLE",
+            "CONFERENCE",
+            "DE",
+            "DEVX PAISANS",
+            "DE SAINT OVEN",
+            "&amp; de Montmorency,",
+            "SVR",
+            "LES AFFAIRES DV TEMPS.",
+            "A",
+            "Paris",
+            "M. DC. XLIX"
+        ],
+        [
+            "AGREABLE CONERENCE DE",
+            "DEVX PAISANS DE S. OVEN &amp; de Montmore ncy ſur les affaires du temps. Piaror. A",
+            "guay Ianin, ou vas tu ſi vite, y ſemble que tu nou de graigne, he",
+            "queſdon pay ne nou couneſſon nou pu? Iani. Ha ! honeur Piarot, per m’name ie ne",
+            "te voiois pas, i’ay len tendeman ſi perturbe de tout cé tumulte",
+            "que i’an ſu tou mal  Piarot. -de mouay. Hé, ya propou, que di nan en vou",
+            "quarquié, ce guieble dé ſoudar auanty tou rauagé cheu vou queme dans noute vilage?",
+            "Tai. Sion, par ma figuette, y gnyauon laiſſé ne fric ne frac; cé guieble de",
+            "Laueman, ce ladre de Polacre auon mange iuſ qu’aux tripe de nout",
+            "aſue qui auet le fatrcin, &amp; ſi encor ce fu vn Vanredy. Piar-ot. Ie",
+            "m’atten que ſon dé Mahomitan; quer ardé y ſe bouton à rable ſan dire Benedicité, é",
+            "buuan tou dan vn aue queme dé couchon; y larient bon beroin dalé au Catricheume à",
+            "Maiſtre Ian nout Cuzeé, quer y ne ſçauan pas leuPatinoutre enrançoy; ie ne ſçay",
+            "queſt leu maiſtre, mai y neſt guiere ban morigené, quer il endure qu’il embrochion à",
+            "ſa berbe dé fille toute viue. Ianin. Voi ſeman la fille à Gariau an a evu vne",
+            "belle venee, y la rencontrire au glan, mai pal ſanguié al fu ban glańe; y fallu la",
+            "rapporté ſu vne ciuiere queme vn cour ſain, &amp; n’an dy qui ly boutire pu de trante",
+            "guieble dan le cors, nan la veut enuoigé faire vne neuuaine à . Hubar. Piaror. Enfin",
+            "la Guieu grace ian ſome debleyé́, nan dy qui ſon allé B ij 2¬"
+        ],
+        [
+            "aſſiegé",
+            "Pazi, é qui le voulon bouttre à feu e ya ſan. Iai. May qui guieble lez a fai",
+            "veni pou troumanté ainſin lé  Cretian? Pirot. Bel demande. hé ſçay tu pas",
+            "ban que c’eſt le Cardena; y leſt py qu’anragé conte lé Pariſian à caure qui l’auon",
+            "confriſque  Iain. fſu office. Hé queul office auety ? Pirot. Ie",
+            "nan ſçay par ma fy rian, may ie m’attan que c’eſt l’office de grau Marazin ou Magaſin,",
+            "tant-y-a qui la dorire. ain. Heé, pourquoy l’auanty confriſqué? Piaxot. Hé,",
+            "pal ſanguié ceſt pour poigé ſe dette, quer vne bel’nuy y fi vun trou à la Leune, e qui",
+            "py eſt y lanleui nout peti ouay, é nan dy qui bouty vn quiebe dan le ventre de chaque",
+            "cheuau pour alé pu vite de peur que le Bourgea ne l’attrapiſſian. aain. Y",
+            "fau don qui fet Nigroumancian? Paxor. Sy ne leſt, yſçay ban ou y ſon, quer nan",
+            "dy qu’il eſt d’vn pay ou eſt la grand porte de l’Anfé; &amp; où Belzibu fait le guiebe",
+            "à quatre. Te ſouuan tupas ban de ce Carnaua, qui fezi venitou l’anfé dans la",
+            "ſale du Rouay. Inin. O Guieu ſait aueunou, hé́ comen laiſſe nan noutbon Rouay",
+            "Pianot. aueu ly? Dame lé Pariſian auan iuré tou hau quile voulien rauoir, é y lauan",
+            "ſoumeé le Cardena de le remene, may y nan veut ran faire, qu’nan ne ly rande ſu",
+            "office. Ianmin. é ban qu ne ly ren nan. Piaoeor Ra qu’nan à garde,",
+            "len dy que ceſt vn volleu, qu’il a farré l oule ſu. la depence du Rouay, é qui yandet",
+            "les office à cé Partuyſan¬"
+        ],
+        [
+            "Partuyſan qui enleuain tou cheu nout pour",
+            "poige la ſuſtances n an dy qu’il a enuojé tou nout argen eu ſon pay pour auoir dé C",
+            "omedian, dé́Muriſſian, dé́Stature, é dé bilboquette pour bout tre",
+            "dan ſon Palai, qui eſt pu gran tras foy que na2i; may ceſt ban py, y boutti vn impos",
+            "ſu le metié dé́ preſidenté dé Conſilié du arleman, é pour le faire poigé y lan fi",
+            "bouttre tras ou quatre an priron, &amp; nan dy qui ly euſſe croupy puto que de le",
+            "poigé, fi lé pariſian ny fuſſien accouru. Ian. Hé nes pas quan nan fit lé",
+            "barricadre, nout proculeux friſca lé vi de pi vn bou iuſqu’à l’autre, y dy qui feſet",
+            "beau var, quer y lauient fai dé muraille de touniaux plein de fiau auſſi houte que nout",
+            "cloché, y tirian par le bondon de gran cou d’harquebeine  Piarot, De carabeine",
+            "veu tu dize. Iai. Ie voulais dize d’harquebure, mai n’importe, &amp; y di ſdity qu’vn",
+            "cou ſditi,parcy ſditi, vn Courounay Souiſſe, &amp; ſditi pu de trante de cé ſoudar,",
+            "&amp; ſi ſdity, ſi la boule n’ent rebondi ſu le tambourin du tambourineux, y l’euſt,",
+            "ſditi, tué toute la Com pagnie. Ou ojait de tou couté, hola, qui",
+            "va là, demeutr-là; hola Coupora, hour la garde; y liauet dé couilleureine à toute lé",
+            "far neſtre, parguié y ny feſet pas bon. E ſditi le Chanſilié,",
+            "hela,, ſtila qui boutte les beignets ſu ces coutras, la failli, ſditi belle; Query",
+            "feſy paſſé ſon coche par deſſu vne barricade, n’en criy haro ſu ly, fallu quiſe cachi,",
+            "Dieu beni la Cretianté, reuerance, dans le priué, &amp; que tou lé Seigneur du Rouay",
+            "le vinſſien reque ri tou breneux, encor ne vou liton pas lé laiſſé",
+            "paſſé qui ne criiſ. ſent viue le Rouay, viuc Bruxelle. piarot. Hé,",
+            "pourquoy Bruxelle? nan di que c’eſt vne ville des Efpa gnols.",
+            "Ieni. Ho! c’eſt ban tou vn, mai ce n’aſt pas de meſme, c’eſt vn de cé Conſiliez",
+            "qu’il auien pri. Pya. Hé ban enfen, qu’en arriuity? Iais. Dame,",
+            "qu’oen aiuitily allt demaquê;y leraienesteas triom B"
+        ],
+        [
+            "phe",
+            "ieſque danNoutreDame, é y fire chanté́ le Tedian;Quer nan di que le premié qu’en auet",
+            "chanté ne valet rian, à caure qu’en auet polli l’Eglize en prenan ce Conſilié. Du de",
+            "pi ie ne ſçai rian de ſan qu’en a fait à Pazi, quer quan nen y veut alleé n’en renconte",
+            "ſur le cham de ce guieble de Mazarin, qui auan ſix iambe, qui vou racourciſſantout",
+            "viage; temain le pore Thibau polu qui n’en eſt pas reuenu dire de nouuelle.",
+            "piarot. Noute Cuzé en reueni y glia di iours qui nou couti toute l’hi <lb rend=\"¬\"",
+            "break=\"no\" />ſtoize. nou dizi que la Faſte dé Rouas, bon iour bon œuure, le Cardena",
+            "fezi faize vn gran gaſteau pourt faizc la Riauté́, é y feſi ſi ban qui fu le ouay, e",
+            "de boizee reboizc tan que tou lé beigneur s’endormarcnt;quer l’en di qu’il auct bouté",
+            "de la man doc dan leu vin. Là deſſu meinnuy ſonni, &amp; queme tou",
+            "lé Bourgeas dormien, y lé chargy tou queme deé cor mor dan ſon coche, &amp; lé",
+            "meni à ſain Gearmain auan qui fuſſient reueillez: mai quan lé Bourgeas ſceure qu’an",
+            "auet derobeé leu Rouay, le guiebe fu ban au vache; auſcrme auſerme, n’en cour au",
+            "porte, &amp; n’en ne laiſſe pas entré ny ſorti vn chat ſi ne di le mo; enfen tou depi",
+            "ſtan là l’an ny vouay que dé́ ſoudar qui ſon tou de feé, l’en ny enten que",
+            "pata-pata-pan, poutou-poutou-pou, Dame y ne fait pas bon ſe ioué à eu. Iais. Mai",
+            "nan diſet qui mourion tou de faim, à caure qu’en auet bouché́ le chemin de la riuiere,",
+            "&amp; qu’nan lauet fai retourné d’où al venet. Parot. Ian ſomon, mai",
+            "palſanguié leé Bourgea auan fai vne voutre ſous liau par où y fſeſon veni le pain de",
+            "Goneſſe &amp; de Corbey, &amp; nan di qu’il en feron cor vn autre pour alé à Saint",
+            "Gearmain, à caure que le Cardena a fai griller le pon de Saint Clou. Iai. Viue",
+            "lé bon zeſpri, parguié y fau auoué que cé́ ariſian ſon ban fais. parot. <lb",
+            "rend=\"¬\" break=\"no\" />Queux guiehea de badaus, y frappan queme de ſour, y tuant dé",
+            "pouronais queme d’autre home; Vz anan deuan eux vn biau Signeur, qui lome Monſeu de",
+            "Biaufor, qui chaſſe tou cé Laue man deuan ly queme de brabi sE",
+            "n’en di quiz auan cor de leu cuté le free deMonſeu le prince, &amp; ban d’autre",
+            "Signeux."
+        ],
+        [
+            "Ianin. Tredame, c’eſt vne guiebe d’affaire, que deu fi ore",
+            "ſe battaint ainſin l’vn contre l’autre. piarot. Dame voize, é ſi nan dy que le",
+            "cadet rendra le pu ainé victu, quer y la Guieu &amp; rairon de ſon couté. Iauis. fau",
+            "ban dize qu’ouy, piſque Monſeu le Couarjuteur en eſ4 auſſi. pPia, Queſty",
+            "ce Couariuteur? Ianmin. Ardé, ceſty laà qui heriteza de la c harge dc Monſeu de Pazi.",
+            "Pdarot. Ha voiremansi ay ouy diae qu’ila ofſur d’eortie le Cardena, car nan dy",
+            "qui leſt pouſſcdé du Marquis d’Ancre. Iann. Heé! ou aice qui l’exortizera?",
+            "paos. Dan Noutre-Dame de Pazi. anmis. Hé qu’en feran’enpar apres?",
+            "iaot. N en l’enuoigera à Roume à noute ſain Pere le Paple, pour obteni ſon",
+            "excomication; &amp; pi nan fra la paix par toute la Cre tienteé;",
+            "car nan di que Lerchedu l iopo eſt venu à Pazi aueu pu de cen mil hommes.",
+            "Ianmin. Qui iguieble eſt ce Liopo? ie m’atten que c’eſt vn Sararin. piros. O!",
+            "tu las di, c’eſt lc Rouay du Pahis-bas. Ianin. Hé ban don queſty venu faire ce",
+            "Liopo? iarot. . Dame y leſt venu faire la paix aueu le parleman pour alé",
+            "re¬. bouté le nrince de la Galle dan ſon Riaume ;tu ſç̧ày ban que ce guiebe de",
+            "Milour auant coppé́ le cou à Monſeiſon pere: Ce damné de Far-fer, dije For-faxe, y",
+            "dizet qui le voulet rebourre dan ſon troune: y fezy bati vn gran thiatre deuan Noutre <lb",
+            "rend=\"¬\" break=\"no\" />Dame.  Ianin. Voize tu la di ſon dé Literian."
+        ],
+        [
+            "8 Piarot. Y lauan pour tan deé Legliſe;o ban pour reueni à̀ mon conte, y",
+            "bouti le Rouay ſu ce thiatre, mai rtandy qui ly boutet ſa Cou rone,",
+            "vn lomé, aye vn lomé, attan ie lay ſu le bou des dents, Gro gne,",
+            "diie Groumelle ly abaty la teſtepar driere. Iaoi. Ah! quieu piqué le barbare, y",
+            "lez faut bouttte tre-tou à feu &amp; y l’ioe. a ſan. Dame ouy, nan di que",
+            "dé quan ara fait la paix, nan ſera vn biau gran pon pour paſſé dan leu pay pour le",
+            "ſaccagé tretou. 1He ſtrepenne y me targe que ie ne voge tou cça, ie ne vourais a",
+            "pargui mor pour rian auan ſtam- la: H qui fera bon viure? nen ſera en repous, nan ne",
+            "poigerapu de Taion,ny de Suſtance; ce Monſeu le Receueu de nout vilage ſera ban",
+            "peneux, l’en ne lyfra pu obenigna pour auouer du repi; l’en ne",
+            "vara pu cez guiebe de Monopoliez quivenien affiché de grans placars à la pourte",
+            "de nout paroiſſe; enfen ie ſeron tretou heureux queme de peti Rouas. vaêt.. Mai",
+            "pendant ſtan-là, queme dit l’autre, ie patiſſon. Iani. Ne t’anqueſte piarot, nul",
+            "ban ſan pene, di le prouuarbe, ie bu ton apres queme dez trou.",
+            "pianoe. Apropou de boize, ſi tu voulais poigeé chopeine cheu la gra Margo, tu",
+            "ſerais vn braue gars, ie n’ay bouté dannuy ban de Guieu dan mon cors. Iami. par",
+            "ſaint Ian ie ne ſçache pas vn peti denié, hourmy ſiblan que noute minagere m’a baillé",
+            "pour auar vne falourde.  Piarar. Hé, va va Ianin; le fret eſt paſſé, vla leté",
+            "qui vien, ne vanty pas miecux ſe richauffé le dedan que le dehour. as, Entre",
+            "don piarot: ie- ne te ſç̧aurois dedize, beuuons noute alourde, ſi y fau tramblé ie",
+            "trambleron. FIN."
+        ]
+    ]
+}

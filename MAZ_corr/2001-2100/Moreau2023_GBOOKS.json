@@ -1,0 +1,146 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-05",
+            "@who": "AB"
+        },
+        "titre": "Lettre de monsieur le garde des sceaux de France et\n          premier président à M. le président de Bailleul.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121204991",
+            "persName": {
+                "forename": "Mathieu",
+                "surname": "Molé"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-05-12",
+                "#text": "datée du 12 mai 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": [
+            {
+                "@ref": "isni:0000000121202363",
+                "@xml:id": "IL_AlliotGervais.xml",
+                "persName": {
+                    "forename": "Gervais",
+                    "surname": "Alliot"
+                }
+            },
+            {
+                "@ref": "isni:0000000367184775",
+                "@xml:id": "IL_LangloisEmmannuel.xml",
+                "persName": {
+                    "forename": "Emmanuel",
+                    "surname": "Langlois"
+                }
+            }
+        ],
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "LETTRE DE MONSIEVR LE GARDE",
+            "des Sceaux de Fvance, &amp; premer",
+            "Preſidene: Eſcritè",
+            "Monſieur le Preſidemr de Bailleul.",
+            "MONSIEVR, Depuis la",
+            "voſtre receuë, nous auons apris la ſur.",
+            "LVA priſe de la ville de S. Danis, qui",
+            "n’eſtoit pas difficile, puiſquepour",
+            "oſter tout ombtage on ne l’auoit pas voulu",
+            "fortifiet, mais y laiſſer ſeu lement deux Compagnies de Suiſſes,",
+            "qui ont accouſtmé d’y eſtre en",
+            "garniſon : S Maieſté a auſſi toſt pris reſolution d’y",
+            "enuoyet vne partis",
+            "de la gar de de ſa perſonne qui l’a repriſe:; &amp; afin que chacun",
+            "reconnoiſſe",
+            "laveié du deſſein qu’elle a touſiours euë, qui n’a eſtéautre quede con leuer la libetrteêdu commerce, elle retireca toutes ſes trouppes",
+            "quſy ſont,",
+            "Rs"
+        ],
+        [
+            "314",
+            "&amp; en laiſlera la garde à ſa bonne Ville",
+            "de Paris, pouty enuoyer des Habi.",
+            "tans, où en faire faire la gatde par les Habitans de",
+            "la ville de S. Denis;,",
+            "s’aſſeurant qu’elle ne voudra entreprendre cette garde qu’auec",
+            "l’effet qua",
+            "l’on deſre, &amp; que la ſeurere publique ſera eſtablie pour touſiours. le",
+            "ien dray à bon-heur que les occaſions ſe preſentent de vous",
+            "pouuoir teſmoi gner que ie ſuis,",
+            "moNSEvR,",
+            "Le ia. May",
+            "i6;a. au ſoir.",
+            "Voſtre tres-huamble ſeruitour, Mo",
+            "Et as das da pacquet eſt",
+            "eſcrit,",
+            "A Monſieur, Monſieur de Bailleu, Conſeiller du Roy",
+            "en ſes Conſeils,",
+            "&amp; Preſident en ſon Prlement.",
+            "Il anoit receu encor vne autre Lettre, laquolle il",
+            "fit pa reillerment voir de meſſieurs Fouquet &amp; Bignon; par la",
+            "que le ces Meſſieurs donnoient aduis, que leur retardement pr uenoit d’vne Conference, qui ſe deuoit faire pour conuenir",
+            "des",
+            "moyens d’eſloigner les armé́es des enuirons de Paris, &amp;",
+            "les faire retirer à dix",
+            "lieueës. Et pour ce, M. le Mareſchal auoit",
+            "eſté́ mande de fe trouuer à S. Germain,",
+            "&amp; M. le Dac d’Or leans conuieé d’y enuoyer quelqu’vr de ſa",
+            "part; ce qa’il fit,",
+            "ayat choiſt por cela le Comte de Betunae, qui partit aue",
+            "le",
+            "Mareſchal de l’Hoſpital.",
+            "On fit afficher aux coins des ruës le contenu en la Lettre",
+            "de",
+            "M. le Garde des Sceaux, pour faire entendre aux Bour geois de",
+            "Paris, que la tepriſe de S. Denis ’eſtoit poit pauur",
+            "ntention qu’eut ſa Majeſté de",
+            "tenir ce paſſage bouché, ny",
+            "empeécher la ſeureté du public &amp; du particulier;:",
+            "&amp; neant moins les troupes du Roy tuërent ce iour là tout ce",
+            "qui ſe",
+            "rencontra dans la pleine de S. Denis, ou pluſieurs volontai es, qui n’en ſçnoient la repriſe, eſtane allez voir ce qui ſe",
+            "nuil",
+            "ſonren oniſn oe ſin du nieu mls ornme Cnnm",
+            "bee, &amp; Capitaine de ſon Quartier, ayant",
+            "mené ſa Compagnie",
+            "au Palais pour le garder, comme auoient fait d’autres Com agaieales ioars precedeas,. &amp; eſftant arriué ea la Cour du"
+        ],
+        [
+            "3y15",
+            "Palais, fut abandonné de tous ſes Soldats, diſans;, Qu’ils n’é.",
+            "toient",
+            "pas faits pour garder Meſſieurs, &amp; qu’ils ſe gardaſſent",
+            "eux-meſmess’ils vouloient:",
+            "ainſi M Quelin demeura ſeul,",
+            "les Bourgeois meſme des enuirons ayant incité cette Com pagnie de ſe retirer toute entiere, comme elle fit."
+        ]
+    ]
+}

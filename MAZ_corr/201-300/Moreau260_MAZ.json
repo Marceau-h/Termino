@@ -1,0 +1,126 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "faux",
+            "arrêt"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant confirmation de\n          l’arrêt du 8 janvier dernier à l’encontre du cardinal Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@role": "speaker",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01-28",
+                "#text": "28 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000061037983",
+            "@xml:id": "IL_TargaVeuvedeFrancois.xml",
+            "persName": {
+                "forename": "Veuve de François",
+                "surname": "Targa"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT.",
+            "Portant confirmation de l’Arreſt du hui",
+            "ctiéme Ianuier dernier mil ſix cens qua",
+            "rante-neuf, à̀ l’encontre du Cardinal",
+            "Mazarin.",
+            "Du vingt-ſeptiéme iour de Mars 1649.",
+            "A PARIS,",
+            "Chez la Veufue FRANCOIS TARGA, ruë Saine",
+            "Victor, au Soleil d’Or.",
+            "M. DC. XLIX."
+        ],
+        [
+            "Arreſt de confirmation de celuy du 8. Ianuier der",
+            "nier 1 . à l’encontre de MaZarin.",
+            "vVE la leueſe eale faire nar leſenie",
+            "les Generaux, leſquols ſe ſont ce jourd huy",
+            "preſentez au Parlement, pour paruenir à leurs ſu",
+            "retez, s’eſtans declarez en la Cour pour le ſeruic",
+            "du Roy, de la Compagnie, &amp; du epos vniuerſel",
+            "public, contre ledit Cardnal Maaatin, lequel",
+            "prendimpertnẽment la quahit́ de premier Mini",
+            "ſtre d Eſtat Requeians ’execuuon enterodudt",
+            "Arreſt, iuridiqu ment contre luy rendu. &amp; auee",
+            "grande cõ̃noiſſance de cauſe; Et que neantmoims",
+            "comme refractaire n’a voulu ſatistre, ny obeir",
+            "depuis ledit temps, quoy qu’il luy ſoit notoe, &amp;",
+            "aà tous les peuples, &amp; qu’à feute de ce faire ils deſi",
+            "7",
+            "rent qu’il leur ſoit pe: mis de le faie exe uter par",
+            "toutes voyes deues, &amp; y agir comme en pael cs.",
+            "E’vn des Meſhieurs de la Cour a dt qu’il ne s’eſt",
+            "iamis rencontre ny veu dans vne occaſion ſi",
+            "preſſante des actions ſi loûables &amp; auan ageuſes a",
+            "l Compgnie &amp; aux peuples,s’eſt às leſdits ſieurs",
+            "Gneraux volort airement &amp; genereuſen ét por",
+            "ao tez,. &amp; preſentezauec ben- veillance du epos",
+            "public au Patlement, &amp; que ce ſeut vne ngra¬"
+        ],
+        [
+            "4",
+            "titude dene pas remrquer ces rques de coura",
+            "ge, &amp; des actions ſi heroiques pour deſtruire",
+            "l’ambition, la barbarie, &amp; l’impieté dudit Cardi.",
+            "nal Mazarin declaré ennemy capital de l Eſtat &amp;",
+            "de cette Conmpagnie, l’aut heur &amp; le motif de l’en",
+            "tiere ruine du Royaume &amp; com merce d’iceluy,",
+            "qui merite l’animaduerſion de laCour, &amp; des peu",
+            "ples, leſquels reſpirent &amp; deſirent vnanimement",
+            "qu’il ſoit tenu de ſatisfaire audit Arreſt, &amp; qu’à",
+            "faute de ce, d’en encourir les peincs y portées.",
+            "Ouy ſur ce le Procureur General. Tout conſi",
+            "deré.L ADITE COVRa ordonné &amp; ordon",
+            "ne qu’ayant égard aà̀ la requiſition deſdits Sieurs",
+            "Generaux. que ledit Cardinal Mazarin ſatisfera",
+            "audit Arreſt du huictieſmeſ anuier dernier ſur les",
+            "peines y porrées ſans retardation. Et ſera le pre",
+            "ſent Arreſt enuoyeé aux Sieurs Deputez de ladite",
+            "Cour pour tenir la main à̀ l’execution d’iceluy,",
+            "&amp; y auoir tel eſgard que de raiſon Fait-en Par",
+            "lement ce vingt-ſeptieſme iour de Mars mil ſix",
+            "Cens quarante neuf.",
+            "Sgné. DV TILLET.",
+            "Collationné à l’Original, par moy Conſëller",
+            "Secretaire du Roy &amp; de ſes Finances.."
+        ]
+    ]
+}

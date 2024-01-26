@@ -1,0 +1,185 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "déclaration"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-08-23",
+        "change": {
+            "@status": "corrected",
+            "@when": "2021-11-18",
+            "@who": "AB"
+        },
+        "titre": "Déclaration faite par Son Altesse Royale et par M. le\n          Prince dans le Parlement, chambre des Comptes, cour des Aydes et Maison de ville de Paris,\n          sur le sujet de l'éloignement du cardinal Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": [
+            {
+                "@ref": "isni:0000000121336441",
+                "persName": {
+                    "forename": "Gaston",
+                    "surname": "d'Orléans"
+                }
+            },
+            {
+                "@ref": "isni:0000000121209573",
+                "persName": {
+                    "forename": "Louis II de Bourbon, prince de",
+                    "surname": "Condé"
+                }
+            }
+        ],
+        "pubDate": {
+            "@source": "Moreau",
+            "@notBefore": "1652-08-22",
+            "@notAfter": "1652-12-31",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
+            "persName": {
+                "forename": "(veuve de Jean)",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "DECLARATION",
+            "FAITE PAR",
+            "SON ALTESSE",
+            "ROYALE",
+            "ET PAR MONSIEVR",
+            "LE PRINCE",
+            "DANS LE PARLEMENT,",
+            "CHAMBRES DES COMPTES, COVR DES",
+            "Aydes, &amp; Maiſon de Ville de Paris, ſur le ſujet",
+            "de l'eſloignement du Cardinal Mazarin.",
+            "A PARIS,",
+            "De l'Imprimerie de la Veufue I. GVILLEMOT, Imprimeuſe",
+            "ordinaire de Son Alteſſe Royale ruë des Marmouzets,",
+            "proche l'Eſglise de la Magdeleine.",
+            "M. DC. LII."
+        ],
+        [
+            "DECLARATION",
+            "faite par ſon A. R. &amp; par",
+            "Monſieur le Prince dans le",
+            "Parlement, Chambre des",
+            "Comptes, Cour des Ay",
+            "des, &amp; Maiſon de Ville de",
+            "Paris, ſur le ſujet de l’éloi",
+            "gnement du C. Mazarin.",
+            "LA reſolurion qu’a pris le",
+            "Roy de faire ſontir le",
+            "Cardinal Mazarin hors du",
+            "Royaume dans la con",
+            "joncture preſente, iuſtfie",
+            "d’vne telle ſore ce que",
+            "r a ous auons fait pour",
+            "l’empeſcher d’y rentrer, &amp; depuis qu’il y eſ",
+            "A i"
+        ],
+        [
+            "leurnonene one rne e niue ne penue leieſ",
+            "qui ont voulu aurhoriſer ſa demeure en",
+            "France n’ont ils eu la hardieſſe d’alleguer",
+            "autre choſe, ſinon qu’il n’eſtoit que le pre",
+            "epeie e",
+            "texre de la guerre, &amp; qu’elle auoit des cau",
+            "paple d’oſter: Mais comme nous prote",
+            "ſtons qu’il a eſté le ſeul &amp; le veritable motif",
+            "qui nous a mis les armes à la main, Nous",
+            "venons dans la Compagnie pour l’aſſeurer",
+            "que nous ſommes preſts de les poſer, &amp; d’e",
+            "eue ſieer enſne len queiliuioinus qu",
+            "nous y auons faites, preſuppoſant que la",
+            "eoe l eun n neni pne e e en e ſee",
+            "pourueu qu’il plaiſe aà ſa Majeſteé de faire ce",
+            "qu’il conuient pour le repos de ſon Eſtat. &amp;",
+            "ce qui s’eſt touſiours pratiqué en de ſem",
+            "blables occaſions, qui conſiſtent ſeule",
+            "ment à donnervne Amniſtie en bonne for",
+            "me, à eſloigner les Troupes des enuirons",
+            "de Paris, &amp; retirer celles qui ſont dans la",
+            "Guyenne &amp; dans les Prouinces, pour les",
+            "employer ailleurs ſur les frontieres, &amp; à re",
+            "ſtablir les choſes au meſme eſtat qu’elles",
+            "eſtoient auant les preſens mouuemens, &amp;",
+            "par¬"
+        ],
+        [
+            "3",
+            "partieulierement ce qui concerne la rév",
+            "nion du Parlement, &amp; donnervne route &amp;",
+            "ſeureteé́ pour la retraite des troupes Eſtran",
+            "geres qui ſont ſous noſtre commande",
+            "ment. Nous ſommes tous diſpoſez à en",
+            "uoyer ex pres à ſa Majeſté, pour luy faire en",
+            "tendre les meſmes choſes auec tout le",
+            "reſpect que nous luy deuons, ne doutant",
+            "point que la Compagnie ne le iuge ainſi à̀",
+            "propos, &amp; de nous conformer aux ſenti",
+            "mens qu’elle prendra dans vne occaſion",
+            "auſſi importante que celle cy, &amp; d’où deé",
+            "pend la tranquillité publique. En témoin",
+            "dequoy nous auons ſigneé la preſente De.",
+            "claration. Fait aà̀ Paris lez. Aouſt 6;.",
+            "Signé GASTON, &amp; LOVIS DE",
+            "BOVRBON."
+        ],
+        [
+            "6",
+            "E qui ſe paſſa hier dans les Compa",
+            "Agnies Souueraines &amp; à l’Hoſtel de",
+            "Ve edeue de deſimnet le &amp;rdini",
+            "Mazarin &amp; ceux de ſa faction; qui nous",
+            "ont touſiours voulu perſuader, que la de",
+            "mande de ſon éloignement, n’eſtoit qu’vn",
+            "pretexte pour ſurprendre la credulité des",
+            "peuples, &amp; abuſer de leur ſimpliciteé. Apres",
+            "la Declaration de ſonAR. &amp; de Monſieur",
+            "le Prince, qui ne contient aucune condi",
+            "tion qui ne ſoit tres-raiſonnable, il eſt",
+            "certain qu’il ne depend plus que de la",
+            "Cour de donner le repos &amp; la tranquillité",
+            "à l’Eſtar.",
+            "Mais ce qui doit encore charger les",
+            "Miniſtres de la hayne publique, s’ils ne",
+            "prennent cette occaſion d’accommoder",
+            "les affaires; c’eſt que le Parlement, qui à",
+            "droict de ſe plaindre, &amp; de ſe faire iuſtice à",
+            "luy-meſme de beaucoup d’outrages qu’il",
+            "en a receus, remet ſes reſſentimens au",
+            "publiec, afin de faciliter la paix, &amp; qu’il",
+            "ne reſte rien qui puiſſe encore troubler le",
+            "repos des peuples. Enfin on verra dans"
+        ],
+        [
+            "la Declaration des Princes l’eſprit gene",
+            "ral de toute la France, qui ſe ſauuera en",
+            "core aujourd’huy par vn miracle, comme",
+            "elle a fait pluſieurs fois, s’il reſte ſeule",
+            "ment aux Miniſtres la lumiere narurelle,",
+            "&amp; quelque peu du ſens commun.",
+            "FIN."
+        ]
+    ]
+}

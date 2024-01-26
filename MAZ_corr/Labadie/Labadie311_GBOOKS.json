@@ -1,0 +1,180 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "relation",
+            "récit"
+        ],
+        "subject": [
+            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+            "Harcourt, Henri de Lorraine (1601-1666 ; comte d')",
+            "Villeneuve-sur-Lot (Lot-et-Garonne) – 1652 (siège)"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-08-31",
+            "@who": "AB"
+        },
+        "titre": "RELATION véritable contenant tout ce qui s'est fait\n          & passé au siege de Ville-neufve d'Agenois, où les trouppes du Comte d'Harcourt ont\n          esté defaites, par celles de Monsieur le Prince, sous la conduite des sieurs Marcin, &\n          Balthazar",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1652-08-07",
+                "@notAfter": "1652-08-14",
+                "@when": "1652",
+                "#text": "deuxième semaine\n            d'août 1652"
+            }
+        ],
+        "pubPlace": [
+            {
+                "@ref": "geonames:2988507",
+                "@source": "Labadie",
+                "#text": "Paris"
+            },
+            {
+                "@source": "Mazarine",
+                "@ref": "geonames:2988507",
+                "#text": "Paris"
+            }
+        ],
+        "publisher": {
+            "@ref": "isni:0000000108720465",
+            "@xml:id": "IL_DesprezGuillaume.xml",
+            "persName": {
+                "forename": "Guillaume",
+                "surname": "Desprez"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "RELATION",
+            "VERITABLE,",
+            "CONTENANT TOVT CE QVI S'EST",
+            "fait &amp; paſſé au ſiege de Ville-neufue d’Agenois,",
+            "où les trouppes du Comte d’Harcourt ont eſté de",
+            "faites, par celles de Monſieur le Prince, ſous la",
+            "conduite des ſieurs Marcin, &amp; Balthaſar.",
+            "Auec la deſroute &amp; honteuſe ſortie des Mazarins.",
+            "A PARIS,",
+            "Chez GVILLAVME DESPREZ, ruë ſainct",
+            "Victor au Lyon couronné.",
+            "M. DC. LII."
+        ],
+        [
+            "Les ſieurs de Marcin &amp; le Colonel Balthazr",
+            "qui venoient de remparter vne ſignalée victoire",
+            "ſu les troupes Mazarines conduites par le Marquis",
+            "de Montauſier Gouuerneur d’Angoumois &amp; par",
+            "le ſieur de Follelle Mareſchal de camp dans le Pe",
+            "gort, ne frent pas ſi toſt aduertis de l’entrepriſe",
+            "du Cmte d’Harcourt qu’ils reſolurent de ecou",
+            "nr le ſieur de Teubon, &amp; de faire oir aux Ma",
+            "2 r1ns qu’ils ſont auſſi accouſtumez de vaine que",
+            "de combarre: ils marcherent donc &amp; quiterent le",
+            "Perigort pour aller dans l’Agenois auec quinae",
+            "cens Cheuaux, &amp; quelque infantene que les caua",
+            "liers portoient en croupe pour faire plus de dili",
+            "gence.",
+            "Le Comte d’Harcourt eſtant aduerty de leur",
+            "marche ſe reſolut d’enuoyer leur partie des trou",
+            "pes qui eſtoient deuant Ville neufue pour sy op",
+            "poſer, &amp; pour rerarder le ſecours que leſdirs ſieurj",
+            "d: Mr in &amp; Balthaſar amenoient. Ces troupes",
+            "eſtoient conduites par le Comte de Lſlebonne",
+            "neveu du lit Comte d’Harcourt, lequel ayant deſ",
+            "couuerr, les troupes de Monſieur le Prince mat",
+            "cha droit à elles. Les ſieurs de Marcin, &amp; deBal",
+            "thaſar firent faire alte aux leurs, &amp; ſe reſolurent",
+            "de receuoir le Comte de l’lſle bohne, de la belle",
+            "ma. iere qu’ils ont aecouſtumé de traitter les Ma",
+            "arins, C’eſtoit dans vne grande plaine, aſſez",
+            "prez de Ville-neufue, que ces Meſſieurs ayan",
+            "rangéle aonds, ls les firent marcher les vns",
+            "con:"
+        ],
+        [
+            "3",
+            "contre les autres, les tronpes de Monſieur le Pin",
+            "ce deuoient paſſer aà Gue, vne petite riuiere ap",
+            "pellée le Lor, &amp; c’eſt là que Ie Comte de Lſle",
+            "bonne les attendoit, de ſorte que le ſieur de Mar",
+            "cin le piſtolet aà̀ la main, ſuiuy de ces gens paſ",
+            "ſa le premier, &amp; ſoudain fut viuement atraqué",
+            "par le Comte de Liſlebonnae qui auoit beaucoup",
+            "plus de monde que luy, mais le ſieur Marcin auec",
+            "fort peu deſes gens qui auoit paſſe les premiers fit",
+            "ferme pen dant que les autres paſſoient: ce fut là",
+            "qu’au commancement la victoire fut douteuſe, &amp;",
+            "que les braues ſe firent remarquer par des actons",
+            "erraotrdinaires,le combar y fut extrcmement opi",
+            "niaſtre; Mas enfin le plus petit nombre qui eſtoit",
+            "celuy des troupes de Monſieur le Prince lemport",
+            "ſur le plus gand, apres vne conteſtation de deux",
+            "heures, le carnage y fut grand eu eſgard à̀ la quan",
+            "tite des con batans:ar il y fut tue plus de quatre",
+            "cens hommes du ceſté desenncmis, les plus vail",
+            "lan de Officiers y frenr ruez, bleſſez ou pris; En",
+            "tre aurres on tient que le commandant quieſtoit",
+            "le Comte de L ſlcbonne y ſut tué, apres vne lon",
+            "gue &amp; vigoureuſe 1eſiſtance, les ſieurs Marcin &amp;",
+            "Balthaſa n’y ont pas perdu cent hommes, mais ils",
+            "y ont perdu de braues Officiers, dont vous aurez",
+            "les noms en peu de temps, auec toures les aurres",
+            "particularirez de ce combat ſiauantageux..",
+            "Apres cette viétoie &amp; celle que les troupes de",
+            "Monſieur le Pince r’emporterent ſur le Marquis",
+            "de Montauſier, l Guyenue peut auec raiſon con",
+            "B"
+        ],
+        [
+            ".,",
+            "ceuoir l’eſperance d’vne entiere &amp; prochaine hi",
+            "beté, rout le Perigort qui en eſt vne des prouinces",
+            "la plas conſidrable eſt abſolument purgeée des",
+            "Mzrins; ceux de Brdeaux, quoy que diuiſez",
+            "ples querelles p reiculieres ſont toutesfois vnis",
+            "pour en purger aſſi leur ville, ils ont r’appellé",
+            "qel ques Conſeillers qu’ils auoient exilez, mais",
+            "c’eſt pres auoir eſté aſſeurez qu’ils embraſſeroient",
+            "vn ni mement le bon party &amp; qu’ils renonceroient",
+            "à Sta. Le Comte d’Harcourt apres tant d’eſ",
+            "chez n’eſt pluse eſtat d’ataquer, il ſera bien-heu",
+            "reuxs’l pt de neurer ſut la deffenſiue, il na pa",
+            "vnc l’e de rer re:car Agen ne veut plus de luy, &amp;",
+            "Perigeux et hs de danget, il auoit men acé les",
+            "Bouleois le fire le degit de leurs vignes s’ils e",
+            "luy donnoient cent mille eſcus, mais ie penſe que",
+            "s’l n’a ps d’autre argent il ne reuiendta pas plus",
+            "nche de ce pais là qu’il y eſt allé; l’on tient il y a",
+            "log temps que le Car dinal Maarin le t’appelſe, i",
+            "le peut faire lans prejli-ia-a3 ſee a qaſ;",
+            "tes, car il n’a plus que faire en ce pais là.",
+            "Tous ces auantages qu atriuent en foule à eſ",
+            "ſieurs les Pinces, nous doiuent faire eſperer qu’ile",
+            "conduirnt leur ouurage à̀ bs, qu’ils oſteront l",
+            "cauſe faneſte de nos diſions, &amp; qu’ils nous pro",
+            "cureront le bon-heut d’vne paix gendetale, qui",
+            "nus ſera d’autant plus douce que nous auons ſi",
+            "long temps goulte les amertumes de la guerte.",
+            "FIN."
+        ]
+    ]
+}

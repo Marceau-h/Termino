@@ -1,0 +1,142 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majefté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arréêt de la cour de parlement, du 8 janvier 1592, pour\n          la diminution des baux et loyers des maisons en la ville et faubourgs de Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-04-15",
+                "#text": "mi-avril 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT.",
+            "Du 8. Ianuier 1649. Pour la diminution des Baux",
+            "&amp; loyers des Maiſons en la Villee &amp; Fau",
+            "bourgs de Paris.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Librairés ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majefté."
+        ],
+        [
+            "3",
+            "EXTRAICT DES REGISTRES",
+            "de Parlement.",
+            "EV PAR LA COVR , la Requeſte preſen",
+            "cee par les Marchands &amp; Bourgeois de Pa",
+            "ris, ignez en ladite Requeſte; par laquelle,",
+            "’A aeendu que cy deuan ladite Cour pou",
+            "Z la calamte du temps, leur auoit fait dimi",
+            "Ee",
+            "nution d’vn tiers, apres d’vn quart des",
+            "loyers des Maiſons par eux tenuës à loùa",
+            "ge Mais que continuant de mal en pis, &amp; pou cmpeſche",
+            ", coneraintos &amp; executions rigoureuſes de ſi peu de meu",
+            "bles qui ler reſte, pres auot conſumé ce qu’ils auoient",
+            "plus preeieux en frais de Iuſtice, les Proprietairos non",
+            "paye es Loeataires non aequitte, ains reduius iuſques à le",
+            "palle, leur fmle pout i’auoit moen ds eeuoit leur",
+            "ee eauſ des lurleanees que l’on impetre, &amp; moins de",
+            "aire aucun trafic, ſoit en cette Ville ou aux champs, ne pou",
+            "ans payet ſans eſtre payez: ioint la cheré de tous viures qu’ls",
+            "ſont contraints de ſouffrir; &amp; outre, d’aller n ennoyer aux",
+            "Pores, ſeninelle, &amp;e forifieaiones ls ſont ordinrement",
+            "ampiaea n daure eue noyen ds vaquer aſiſer u",
+            "Selieui, conſeruauon de leur Religion, &amp; defenſes de",
+            "viie, Ils requeroient, pout les eauſes &amp; conſiderations ſuſ",
+            "ites, diminution leur eſtre faite des loyers des Maiſons par eux",
+            "oceupées,à quoy ſe monte leurs Baux, n’en payer qu’vne ſixiemo",
+            "parti, qui ſera de ſix vn, ſi mieux les Proprieaires des Maſons",
+            "’aiment tous les Baux faits aux Supplians, eſtre caſſez &amp; reſo",
+            "lus, ſans que pour se leſdis Supplians ſoient tenus leur payer",
+            "aucuns deſpens, dommages &amp; intereſts, &amp; que pendant ladite",
+            "calamité &amp; miſerte du temps, tant leſdits Proprietaires que Lo",
+            "cataires, ſe pſſent accommaoder de gré à gré, &amp; ſe maintenit",
+            "les vns aues les autres. V a V auſſi l’Arreſt de ladite Cour du",
+            "a2o. Decembre deruier paſſé, donné ſur ladite Requeſte, con¬"
+        ],
+        [
+            "4",
+            "enant ſutſeanee ioſques au quinaiéme iour de ce mois, depno",
+            "ceder au tranport &amp; vente des biens meubles pri pat elu",
+            "oe ur les Sp plians pour ous les lores pus eut deuo, un",
+            "defenſes roai Huiſneis &amp; Segens, de proee der auit uiſpor.",
+            "&amp; enee es Coneluſion du lP’tooureur Ceneral du Roy, u",
+            "ne e le diues e queſteauoit eſts conmonique PDeu eque",
+            "pe ſonrées ̀ ladiue Cour, l’vns pat las Doen e curounes",
+            "Chapiure &amp; Comunaute de ’Eguiſe de S’ Gemuin de r",
+            "crrou, Chantre, Chanoines &amp;e Chapierede ’Eglſe S. Hono",
+            "ré, Cheueeier, Chanoines, Chapiere &amp; Communauuss",
+            "deie, le Peuoſt, Chanoines &amp;e Chapire S Ncolas du on¬ la deuieme par les",
+            "Marguiſlera de l’œuure &amp;e raouigu.",
+            "de S. lacques de la Boucheris, ndane anin d’eſtrereeo l",
+            "peiuenmnont oppoſans, &amp; ouis ſur la reſolution des Bauoguiſe",
+            "par ler Supplians &amp;e ſur le touti La matiere miſe en deliberutdionr",
+            "LA Co V ayant egard a ladite Requeſte, neeeſure, miſers",
+            "lamirdu tempis O n on ’ &amp;e oradonne, dQu d",
+            "Pau fuuant iudieaiaires qu’autres ̀ noufan &amp; au deſfos, ae",
+            "preee dens les quinuieme At as, ls E oaunaiue n pay",
+            "one plus qus le quat du ſoyer conrenu eſdius os, pontie",
+            "oardde ceux faie depui ledie quinaiema Aueil iſques au",
+            "dermier Aouſt yoo. ne payeront que la moitie deſuie au.",
+            "&amp; quant à nen fais depuis le ſiege leue, les Loeaais",
+            "payeront que les deux iaet du conenu eſaius au u",
+            "e duninuions l̀ oommeneer au ee eſeheoa la oan",
+            "my dermier: ſi mieux n’aimene les Proprietair, duiſon",
+            "conſentir la reſolution deſdits Baux; ce qu’ils ſeront ,",
+            "d’opter dans huictaine apres la ſignification du preſent Arre4",
+            "à eux faite. Fa 1er en Parlement le huictieme Ianuier il",
+            "cinq cens quatre vingts douze. Signé, Le Maço.",
+            "collaionń’à l’rignal pa moy Conſeiler eceeaire",
+            "du Roy &amp; de ſes Finances."
+        ]
+    ]
+}

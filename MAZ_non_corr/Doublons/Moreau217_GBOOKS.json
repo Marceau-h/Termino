@@ -1,0 +1,182 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Arrêt de la cour de parlement , donné, toutes les\n                    chambres assemblées, le huitième jour de janvier 1649, par lequel il est\n                    ordonné, que le cardinal Mazarin videra le royaume, et qu’il sera fait levée de\n                    gens de guerre, pour la sûreté de la ville et pour faire amener et apporter\n                    sûrement et librement les vivres à Paris",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "nE cov",
+            "4S1",
+            "A Pvrr",
+            "DE PARLEMENT",
+            "po v Tovrs¬s",
+            "Chambres aſſemblées le &amp; iour",
+            "de Ianuier 1649.",
+            "PARLEQVEL ILEST ORDONNE",
+            "Quele Cardnal Maarin vuidera leRoyaume,",
+            "&amp; qu’il ſera fait leuée de Gens de guerre pourt",
+            "la ſeureté de la Ville, &amp; pour faire amener &amp;",
+            "apporter ſeurement &amp; librement les Viures",
+            "a Paris.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinai¬",
+            "res du Roy.",
+            "MDC. XLIX.",
+            "uec Priuilege de ſa a jeſteé́¬"
+        ],
+        [
+            "l",
+            "r",
+            "1",
+            "e",
+            "1",
+            "s",
+            ", ¬",
+            ".",
+            "n",
+            "2-¬",
+            "1",
+            "1"
+        ],
+        [
+            "r",
+            "l",
+            "ll",
+            "Pea",
+            "Va¬",
+            "Vr",
+            "J",
+            "raeT D EoSTE",
+            "T¬ 1",
+            "de Parlement.",
+            "é E jour la Cour toutes les Chambres aſ¬",
+            "ſemblées deliberant ſur le recit fait pat",
+            "les Gens du Roy, de ce qu’ils ſe ſont",
+            "tranſportez à Sainct Germain en Laye",
+            "par deuers ledit Seigneur Roy, &amp; la Reyne Regente",
+            "en France, en l’execution de l’Arreſt du jour d’hyer,",
+            "&amp; du refus de les entendre, &amp; qu’ils ont dit que la",
+            "ie iuie ileau e r e e n r er er err Se",
+            "DONNE, que tres-humbles Remonſtrances par",
+            "eſctit ſeront faites audit Seigneur Roy, &amp; aà̀ ladite",
+            "Dame Reyne Regente, Et attendu que le Cardinal",
+            "Mazarin eſt notoirement l’Autheur de tous les de¬",
+            "ſordres de l’Eftat &amp; du mal preſent, l’a declaré &amp; de¬",
+            "cdare Perturbateur du repos public, Ennemy du Roy",
+            "&amp; de ſon Eſtat, luy enjoint ſe retirer de la Cour",
+            "dans ce jour, &amp; dans la huictaine hors du Royaume:",
+            "&amp; ledit temps paſſé, ENIONT à tous les ſubjets",
+            "du Roy de luy courre ſus.FAIT defenſes à toutes",
+            "perſonnes de le receuoir; Ordonne en outre qu’il ſe¬",
+            "ra fait leuee de Gens de guerre en cette Ville en nom¬",
+            "bre ſufſiſant: A cette fin Commiſſion deliurée pour",
+            "la ſeureteé de la Ville, tant en dedans que dehors,"
+        ],
+        [
+            "¬¬¬¬¬¬¬¬",
+            "&amp; eſcorter ceux qui ameneront les Viures; &amp; fai¬¬",
+            "reen ſorte qu’elles ſoient amenées &amp; apportées en",
+            "toute ſeureté &amp; liberté. Et ſera le preſent Arreſt leu,",
+            "publié &amp; affiché par tout où il appartiendra, à ce",
+            "qu’aucun n’en preétende cauſe d’ignorance. Enjoint",
+            "au Preuoſt des Marchands &amp; Eſchcuins tenir la main",
+            "à l’execution. Fait en Parlement le huictieſme Ian¬",
+            "uier mil ſix cens quarante-neuf.",
+            "Signé, DV TILLET.",
+            "Collationne à l’Original parmoy",
+            "Conſeiller Secretaire du Roy",
+            "&amp; de ſes Finances.",
+            "J EVendredyhmicteſme iour delamuier milſix cens puaranm¬",
+            "Lte-neuf, l’Arreſt &amp;y-deſſus de Noſſeigneurs de la Cour de",
+            "Parlement, a eſé leu &amp; pub’ié à ſon de Trompe &amp; Cry pu¬",
+            "blic, tant és Portes &amp; Enmtres de cetre Ville&amp; Fauxbourgs",
+            "de Par, qu’aux Carrefours &amp; Places publiques de certedite",
+            "ille &amp; Fauxbougs, par moy ean doßier, Iure Crieur",
+            "ordinaire du Roy en la Vſle, Preuoſté́ &amp; V’icomté de Paris, en",
+            "ls preſence de Maiſtres Iean Finot &amp; Pierre Laurens, Huiſ¬",
+            "ſiers en ladite Cour, accompagné de trois Trompettes, lean du",
+            "Bos, lacques le Franc, lureZ Trompetes du Roy, &amp;d’vnau¬",
+            "tre Trompette commis de Ddier Ordin, dit Champagne, außi",
+            "Iuré Trompette, &amp; affcié oà beſoin a eſté.",
+            "Signé, IOSSIER.",
+            "¬¬¬¬¬",
+            "¬¬"
+        ],
+        [
+            "ſa"
+        ],
+        [
+            "&amp; eſcorter ceux qui ameneront les Viures; &amp; fai¬,",
+            "re’en ſorte qu’elles ſoient amenées &amp; apportées en",
+            "toute ſeureté &amp; liberté. Et ſera le preſent Arreſt leu,",
+            "publié &amp; affiché par tout où il appartiendra, aà̀ ce",
+            "qu’aucun n’en pretende cauſe d’ignorance. Enjoint",
+            "au Preuoſt des Marchands &amp; Eſcheuins tenir la main",
+            "à l’execution. Fait en Parlement le huictieſme Ian¬",
+            "uier mil ſix cens quarante-neuf.",
+            "Signé, DVTILLET.",
+            "Collationne à l’Original parmoy",
+            "Conſeiller Secretaire du Roy",
+            "&amp; de ſes Finances.",
+            "J EVendrey hmictieſme iour delamuier milſix cens quaranm¬",
+            "Dte-neuf, l’Arreſt o-deſſus de Noſſeigneurs de la Cour de",
+            "Parlement, a eſlé leu &amp; pub’ié à ſon de Trompe &amp; Cry pu¬",
+            "blc, ant és Portes &amp; Enmtres de cetre Ville&amp; Fauxbourgs",
+            "de Pars, qu’aux Carrefours &amp; Places publiques de cettedite",
+            "ille &amp; Fauxbourgs, par moy lIean doßier, Iure Crieur",
+            "ordinaire du Roy en la Viſle, Preuoſté́ &amp; Vicomté de Paris, en",
+            "la preſence de aiſtres lean Finot &amp; Pierre Laurens, Huiſ¬",
+            "ſers en ladte Cour, accormpagné de trois Trompettes, lean du",
+            "Bos, lacques le Franmc, lureZ Trompetes da Roy, &amp; d’vnau¬",
+            "re Trompette coommis de Didier Ordin, dit Champagne, außi",
+            "luré Trompette, &amp; affché́ oà beſoin a eſteé.",
+            "Signé, IOSSIER.",
+            "¬¬",
+            "al",
+            "¬¬.l"
+        ]
+    ]
+}

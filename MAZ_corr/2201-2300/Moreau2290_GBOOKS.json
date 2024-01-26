@@ -1,0 +1,173 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1651-02-28",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-05",
+            "@who": "AB"
+        },
+        "titre": "Lettres monitoires de monsieur l'official de l'archevêché\n          de Paris pour avoir preuve des contraventions faites par un certain quidan et ses\n          adhérents à l'exécution des arrêts de la cour, des 7, 9, 20 février et 2 mars\n          1651.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121814044",
+            "orgName": "Eglise catholique. Diocèse"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "Sans date",
+                "#text": "Sans date"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651",
+                "#text": "1651"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": [
+            {
+                "@ref": "isni:0000000123698534",
+                "@xml:id": "IL_ImprimerieRoyale.xml",
+                "persName": {
+                    "orgName": "Imprimeurs et libraires ordinaires du roi"
+                }
+            },
+            {
+                "@ref": "isni:0000000008903969",
+                "@xml:id": "IL_RocoletPierre.xml",
+                "persName": {
+                    "forename": "Pierre",
+                    "surname": "Rocolet"
+                }
+            }
+        ],
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "LETTRES",
+            "MONITOIRES",
+            "DE MONSIEVR",
+            "L’OFFICIAL DE L’ARCHEVESCHE DE PARIS,",
+            "Pour auoir preuue des Contrauentions faites pr vn",
+            "certain Quidan, &amp; ſes adherans, à l’exccution des",
+            "Arreſts de la Cour, des 7. 9. 20. Fevrier,",
+            "&amp; 2. Mars 1651.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; libtires ordinaires du Roy.",
+            "Auec Priuilege de ſa Maieſté."
+        ],
+        [
+            "3",
+            "LETTRES MONITOIRES DE MONSIEVR",
+            "l’Official de l’Archeueſché de Paris,",
+            "FFI CIAIS Pariſienſis diles",
+            "noſtris Rcforibus, ſeu icanis, &amp; in",
+            "l eorum reouſationem omnmibus Presby.",
+            "ſ eris, Noaris mobis ſibdiis, ſalutem",
+            "l n Donaino. Novs vous man",
+            "dons, que bien &amp; diligemment vous ad",
+            "moneſtiez de noſtre part &amp; authorité,",
+            "ſous peine d’excommunication, par trois",
+            "Dimanches conſecutifs, és Prones de vos",
+            "Egliſes, comme à preſent par la teneur",
+            "des preſentes; Nous admoneſtons à la",
+            "requeſte de Monſieur le Procureur Ge",
+            "neral du Roy, de la part duquel nous a",
+            "eſté expoſé; Que par Arreſt de la Cour,",
+            "du vnzieéme du preſent mois de Mars, il",
+            "auroit eſté ordonné, qu’il ſeroit inceſ",
+            "ſamment informé à ſa requeſte, des faits",
+            "mentionnez en iceluy, &amp; contre les y",
+            "A li"
+        ],
+        [
+            "4",
+            "dénommez. Et aà cette fin, que toutes",
+            "Lettres Monitoires luy ſeroient déli",
+            "urées en forme de droict, pour auoir plus",
+            "facilement preuue des contrauentions",
+            "faites par certain Quidan, &amp; ſes adherans,",
+            "à l’execution des Arreſts de la Cour, des",
+            "ſept, neuf&amp; vingtFevrier dernier &amp; deux",
+            "de ce preſent mois contre luy rendus; En",
+            "ſemble de la Depredation faite par ledit",
+            "Quidan, ou par ſes ordres, ſur les vaiſ",
+            "ſeaux eſtrangers, diſſipation des finances,",
+            "tranſports de de niers hors le Royaume,",
+            "empeſchemens à la Paix, &amp; mauuaiſes",
+            "impreſſions par luy donné́es au Roy, cir",
+            "conſtances &amp; dependances, &amp; contre",
+            "ceux qui l’ont ſuiuy, aſſiſté &amp; retiré, &amp;",
+            "qui ont eu commerce &amp; correſpondan",
+            "ce par lettres &amp; autrement auec ledit",
+            "Quidan, depuis, &amp; au preiudice de la",
+            "puplication dudit Arreſt duneufFevrier",
+            "dernier dequoy &amp; de tout ce que deſſus,",
+            "auroit ledit ſieur Expoſant commencé",
+            "de faire informer pardeuant les Conſeil",
+            "lers de la Cour à ce commis &amp; deputez:",
+            "Mais"
+        ],
+        [
+            "5",
+            "Mais dautant que l’on détourn",
+            "peut-eſtre les Témoins, il ne peut",
+            "auoir la preuue toute entiere, ſice",
+            "¬ a",
+            "n’eſt par le moyen de nos Lettres.",
+            "monitoires, Nous requerans jcelles;",
+            "pour eſtre publiées eontretous ceux",
+            "&amp; celles qui ont veu, ſceu, &amp; enten",
+            "du aucune choſe des fts cy-deſſus;",
+            "&amp; generalement de tous les depor",
+            "temehs dudit Quydan, &amp; qui ont",
+            "connoiſſance de tous ſes biens, &amp;",
+            "de oeux qui pourroient les auoir re",
+            "celez &amp;latitez, qu’ils ayent à̀ les de¬.",
+            "clarer, &amp; repreſenter rous Regiſtres",
+            "&amp; Actes publics, pour en tirer les",
+            "éclairciſſemens neceſſaires àa la Iu",
+            "ſtice&amp; au bien de l’Eſtat, dans les",
+            "ſix jours apres la troiſiéme publica",
+            "tion des preſentes, a celuy qui les",
+            "publiera: ou autrement nous vſe¬"
+        ],
+        [
+            "6",
+            "rons à l’encontre d’eux de cenſutesl",
+            "Eccleſiaſtiques, &amp; ſelon la forme de",
+            "droict nous nous ſeruirons de la",
+            "peine d’excommunication. Dat",
+            "Pariſius, ſub Sigello Curie notre vnià cum",
+            "ſſgneo noſftro, anno Dominmi millefmo fec.",
+            "centſimo qinqaageſmo primo, die dec",
+            "ſeta menſis Marnj. Viſa DV SVS",
+            "A1.",
+            "GALLOT..",
+            "Collaeo facta eſt ad originale ſanuin &amp;",
+            "integruim, cum preſentibus reddîtutts",
+            "’per mes Notarios publicos Apoſtoldcos",
+            "&amp; Eccleſiaſticos Pariſuis commoranres",
+            "ſabſignatos. Actum Pariſuis, anno, men",
+            "e die prœdicis."
+        ]
+    ]
+}

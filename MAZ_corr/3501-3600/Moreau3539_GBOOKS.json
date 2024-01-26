@@ -1,0 +1,124 @@
+{
+    "imprimatur": "AVEC PERMISSION",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-04",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-07-29",
+            "@who": "ZC"
+        },
+        "titre": "Révélation d'un bon hermite sur la prochaine paix\n          générale et délivrance de Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000108647130",
+            "@xml:id": "IL_BoudevilleClaude.xml",
+            "persName": {
+                "forename": "Claude",
+                "surname": "Boudeville"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "REVELATION",
+            "D’VN BON",
+            "HERMITE",
+            "Sur la prochaine Paix generale &amp;",
+            "deliurance de Paris.",
+            "A PARIS,",
+            "Chez CLAVDE BOVDEVILLE, ruë des Carmes,",
+            "au Lys Fleuriſſant.",
+            "M. DC. XLVIIII.",
+            "AVEC PERMISSION"
+        ],
+        [
+            "3",
+            "âaa a aaaâaâ Ad8 8.",
+            "REVELATION D’N BON ERITE:",
+            "Sar la prochaine Paix generale &amp; deliurance de Paris.",
+            "MY Lecteur, ayant vn deſir extréme de con",
+            "A mibouer de ma parquelque hoſe auconuene",
+            "Aé ment &amp; à la ioye du public; i’ay bien voulu te",
+            "v faire participant de la Reuelation d’vn bon &amp;",
+            "deuot Hermite, laquelle durant ces calamirez preſentes",
+            "te doit fournir vn fujet capable de te réioüir &amp; te conſo",
+            "ler Connoiſſant donc de longue main ce bon Pere, dont",
+            "ie tais le nom &amp; a demeure, à cauſe de ſa modeſtie meſ",
+            "he en ayant touſiours fait grand cas pour ſa pieteé́ &amp; au",
+            "tres vertus, ie me ſuis rendu ſi familier auec luy, qu’il n’a",
+            "point de difficulté à me découurir ce qu’il a de plus ſe",
+            "cret dans l’ame. Depuis quelques iours eſtant venu à",
+            "Paris pour me voir, &amp; apres quelques diſcours ordinai",
+            "es ſur les troubles publics, me declara en cette ſorte ce",
+            "qui luy eſtoit aduenu pendant les douceurs d’vn paiſible",
+            "ſommeil. Apres auoir acheueé mes prieres, dit-il, &amp; bien",
+            "verſeé des larmes, mes ſens ne me ſembloient qu’à demy",
+            "afſoupis, tant les choſes que ie vay vous apprendre, pa",
+            "eiſeilen leuſleal nmesoreoluieiſnles i nes reins",
+            "lors que i’entendis vne voix qui s’addreſſa à moy en ces",
+            "l termes: (Prens courage, tu auras en brefdu ſoulagement",
+            "en tes trauaux, vn malheur eſtranger va cauſer la deli.",
+            "le le nenene ene loei e enone e enue l de",
+            "comme durant le ſerein d’vn beau iour, au plus haut de",
+            "l’air les Bannieres reſplendiſſantes de l’Eglile Romaine,"
+        ],
+        [
+            "4",
+            "enuironnees d’vn nombre preſque infiny d’Armes bril",
+            "ances auec les eſtendarts de l’Empire, de la France &amp; des",
+            "Eſpages, i’apperceu auſſiles eſtendarts de quelques au",
+            "tres Royaumes &amp; Souuerainetez, mais ils paroiſſoient",
+            "fort peu: &amp; le tout eſtoit porté ou conduit vers l’Angle",
+            "terre par vne petite legion d’Anges. Amy Lecfeur, ie",
+            "crois que tu n’as pas beſoin d’aucune explication pour",
+            "le recit de ces choſes miraculeuſes. Pour moy iene les",
+            "eus pas pluſtoſt oüis, que ma penſée ſe porta ſur le de",
+            "teſtable parricide des Anglois, &amp; ſans m’arreſter au rap",
+            "port de la ioye indicible qu’il en auoit conceuë, ie l’inter.",
+            "rompis, pour luy dire qu’aſſeureément Dieu par vne Paix",
+            "generale des Catholiques veut vnir les trois plus illuſtres",
+            "Potentats de la terre, aſſauoir l’Empereur, les Roys de",
+            "¬",
+            "1",
+            "France &amp; des Eſpagnes, afin de punir le crime abomi",
+            "nable de l’Angleterre, &amp; qu’à ce deſſein ils doiuent eſtre",
+            "ſecondez ou aſſilez de quelques autres Roys Catholi",
+            "ques, Princes ouuerains, ou de puiſſantes Republiques,",
+            "Si l’on veut s’arreſter à ce que prediſent les Almanachs,",
+            "on trouuera qu’aucuns ont donné aduis de quelque cho",
+            "ſe qui eſt conforme &amp; approchant de ce que deſſus: Dans",
+            "e ie le e unele ſe l oe en ne rouoneeiunr ſee",
+            "furieuſe entrepriſe. Amy, Lecteur, par cette Paix gene",
+            "rale qu’on eſpere en peu de iours, tu dois attendre bien",
+            "toſt la fin des miſeres ciuiles &amp; inteſtines; Et partant",
+            "prendte parience en tes maux, benir &amp; loüer Dieu en tes",
+            "ſouffrances, &amp; te çonſoler en s’eſcriant, que non eſt aliu",
+            "quipugnet pro nobs niſi tu Deus noſter, puis qu’il veille con",
+            "tinuellement pour la conſeruation de ton eſtre &amp; de ta",
+            "vie. Adieu."
+        ]
+    ]
+}

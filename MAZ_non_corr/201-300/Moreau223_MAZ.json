@@ -1,0 +1,73 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Prévoté des marchands (Paris)",
+            "Expropriation",
+            "Indemnisation"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, concernant les\n          retranchements pour la sûreté de la ville et faubourgs de Paris",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "persName": "France. Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-01-12",
+                "#text": "12 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": "Imprimeurs et libraires ordinaires du roi",
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT,",
+            "Concernant les Retranchemens pour la",
+            "ſeureté de la Ville &amp; Faux-bourgs",
+            "de Paris.",
+            "Du douzieſme Ianier milſx cens quarante-neuſ",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires du Roy.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "1",
+            "l’execuion du preſent ArreſtF1c en",
+            "Parlement le douieſme Ianvier, mil ſiz",
+            "cens quarante-neuf.",
+            "yyy e¬",
+            "Signé, DVTILLET.",
+            "Colarionneé ̀ ſ’Original par moy Conſeiller",
+            "Seretaire du Roy d de ſes Finances."
+        ]
+    ]
+}

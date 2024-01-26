@@ -1,0 +1,72 @@
+{
+    "imprimatur": "Auec Permißion.",
+    "corrector": false,
+    "entête": {
+        "form": [
+            "vers",
+            "prose"
+        ],
+        "genre": "lettre",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-15",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-07",
+            "@who": "AB"
+        },
+        "titre": "Lettre de M . d'Auremesnil, chef de la noblesse de Caux\n          en Normandie, envoyée à monseigneur le duc de Longueville, sur le sujet de la descente de\n          six mille hommes aux ports de Dieppe, Saint- Valery et le Hâvre, conduits par le sieur de\n          Tibermesnil, gouverneur pour les États de Hollande, avec le nombre de notre armée en\n          Normandie.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000359658280",
+            "persName": {
+                "forename": "François de",
+                "surname": "Pardieu d'Auremesnil"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121237136",
+            "@xml:id": "IL_CoulonVeuvedAntoine.xml",
+            "persName": {
+                "forename": "Veuve d'Antoine",
+                "surname": "Coulon"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DE MONSIEVR",
+            "D’AVREMESNIL",
+            "Chef de la Nobleſſe de Caux",
+            "en Normandie, enuoyée à",
+            "Monſeigneur le Due",
+            "DE LONGVE VILLE",
+            "Sur le ſujet de la deſcente de ſix",
+            "mille hommes aux Ports de",
+            "Dieppe,S. Vallery &amp; le Havre,",
+            "conduits par le ſieur de Tiber",
+            "meſnil Gouuerneur pour les",
+            "Eſtats de Hollande.",
+            "en ene eened e .",
+            "aloe erel e erne e onuo. Auec Permißion."
+        ]
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1649-03-30",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre du roi envoyée à messieurs de la cour des Aydes de\n          Paris, du 30 mars 1649, apportée le 31 dudit mois de mars, par le sieur de Saintot, maître\n          des cérémonies.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "persName": {
+                "forename": "Louis",
+                "surname": "Bourbon (De)",
+                "name": "Louis XIV"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000008903969",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Rocolet"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "¬¬T I",
+            "H",
+            "1",
+            "L L 1L IL I AA",
+            "DV ROY",
+            "ENVOYEE A MESSIEVRS",
+            "de la Cour des Aydes de Paris,",
+            "du trentieſme Mars 16 49.",
+            "ldit mois de Mars, Par le ſieur de",
+            "e un e e",
+            "d.",
+            "A PAR1 S.",
+            "re du Roy, a",
+            "o leonnri lune l le e liee ui",
+            "e x",
+            "Auee Priuilege de ſa Majeſté.",
+            "l1",
+            "1",
+            "h"
+        ],
+        [
+            "tur",
+            "I",
+            "D PA L 1.",
+            "tos amez &amp;e feaules Depurede voſrs So",
+            "eei",
+            "l pagoie quon aſite au confrnee de uel",
+            "N poor eie eſſer lespreſens mounenmens &amp; u",
+            "’ont ſignéles Arnieles quionteſteareſterpoures",
+            "eoqnoiinee de ce quis yeſt paſe &amp; voosane be eaoe",
+            "nee qu il ſnuneine i&amp;r pondualeoous anonsi luſt",
+            "nuinue de u ſeirnanrume deun riedle, ſnfi l urls",
+            "deſie ui nu le poniſadnoire plon n’nrie n dne",
+            "aeur en e nſeu ounas ouireus dlns re nrile",
+            "ie e e u eieo eiirnue depronone lerelſblie",
+            "Eren en peer ner le e lien qee na ſans ſ un le",
+            "ie oeet nen eoun e qui eoneine ſeemonal lni nee",
+            "aies epui ououenu puendnue lonered ei enes e eſn",
+            "Veni ooi d e eſire e ur dePrlemntnomornremn",
+            "lnmelrne Dpure quai ſoient nuel, pour on ier onoee",
+            "l il rliles ou ai que lquesrenm onmorineeaſereg noiee",
+            "Feiuo iu inieie enieine enerpe",
+            "pene oenn eue oun ele uouin qoidae i ieſpn ie",
+            "ee ne en eoereie nou de nndieies i lepue lſie",
+            "ne e ie oe ueieo ſiun eone leoauinnuſine",
+            "uieoe e e un ſ e ſai ſe ſeniroer ve prneoueſen ne",
+            "nar e e i ce e e ilun eounuornonnuonſiemre nr",
+            "lnrn de e inueon de e prourour lſle nn u",
+            "nure pe lenuenrne ua iredue doi de elenene eie",
+            "ounron i on le double au penier jonpo",
+            "¬.",
+            "l",
+            "1",
+            "lll",
+            "¬"
+        ],
+        [
+            "l",
+            "!",
+            "4",
+            "les faire executer en ce qui vous concertne: Et quoy que nous",
+            "eſtimios bienque faiſant ce qui eſt raiſonnable &amp; poſſible pour",
+            "leſlits Princes, lss’y accommoderont. Touteſois cõme nous",
+            "n’auons point de certitude de leurs ſentimens ſur ce ſujet; nousl",
+            "auons bien voulu faire cette Lettre, par l’aduis de la Reyne",
+            "Regente noſtretres honoree Dame &amp; Mere, pour vous teſ",
+            "moigner &amp; aſſeurer que noſtre reſolution eſt, à l’égard de tou",
+            "tes les Compagnies Souueraines, &amp; de toute noſtre bonne",
+            "Vlle de Paris, de continiier aà̀ faire plainement &amp; entieremét",
+            "executer ledir Traité de Ruel, quant bien leſdits Princes, &amp;",
+            "ceux qui les ont ſuiuis n’en voudroient pas conuenir, &amp; que",
+            "nous feront retirer toutes nos Trouppes de tous les quartiets",
+            "qu’elles occupent aux enuirons de Paris, au meſme inſtãr que",
+            "celles qui ſont ſous la charge des Pincs ſeront licentiées, ne",
+            "retenant les noſtres de par deçaà, que pour empeſcher qu’ils",
+            "n’entreprennent aucune choſe contre noſtre ſeruice: Et ne",
+            "ouhaiant ien aueeplus d’afſection, que de voir la Campa.",
+            "eime &amp; ſoulaǵe entoute maniere, ainſi que noſe bon",
+            "ne Vilede Parn dans l’abondance &amp; le repot entier quoy",
+            "ou vous ehnos de rauailer, &amp; vous enployer entouuee",
+            "quilepemdbnade voun ſelon que vou jpger a ſdeu qu ileon",
+            "ie anbienpdble, tieloy denoſdrt ſeruiee cli pou.",
+            "oos ne vou en ferons eele ey plus expreſſe ny plus",
+            "reue ſinmerous vou reure que onsnue leunile dire",
+            "ale qpinoun oet lu nnuile o nn s oenrene n en",
+            "len peroere lſun oni ſe eouns pueoe ue enoneese",
+            "oe oVs Ee plus au, E cſere e,",
+            "Et ſur la ſuſcription eſt eſerit;",
+            "&amp; fſaue ls gms uans naſbe Cour de",
+            "Aydes de Pars,"
+        ]
+    ]
+}

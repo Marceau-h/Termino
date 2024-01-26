@@ -1,0 +1,547 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Arrêt de la cour de parlement, toutes les\n                    chambres assemblées, le dixième jour de janvier 1649",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "I I",
+            "DE PARLEMENT",
+            "TOVTES LES CHAMBRES",
+            "aſſemblées, du dixiéme Ianuier mil",
+            "ſix cens quarante-neuf.",
+            ".",
+            "a",
+            "A PARIS,",
+            "Par les Imprimaurs &amp; Libraires ordinai¬",
+            "res du Roy.",
+            "C XL1X¬",
+            "Auec Priuilege de ſa ajeſte."
+        ],
+        [
+            "¬",
+            "1?",
+            "21",
+            "?, ¬3 4 1",
+            "5¬;",
+            "..2 .",
+            "op",
+            "iI172",
+            ".",
+            "¬",
+            "a.",
+            "2,¬.",
+            "4",
+            "..",
+            "¬",
+            ".",
+            "1.",
+            "..",
+            "A¬",
+            "¬¬¬",
+            ",",
+            ".",
+            "..",
+            "2 .",
+            "e J",
+            "Ei A1",
+            "-itnibio eel rant nlml1",
+            "7 -4r1",
+            "0 .",
+            "¬",
+            ".-",
+            "I.11",
+            "’D ’e0",
+            "¬",
+            "¬",
+            "i.",
+            "Coogle"
+        ],
+        [
+            "3",
+            "EE",
+            "V s",
+            "IT",
+            "EATRAICT DESRE.",
+            ".",
+            "giſtres de Parlement.",
+            "E ur ur ce qui a eſté repreſene?",
+            "l Cou oues les Canore",
+            "&amp;mbles, quaueons emnemir dnre",
+            "pos pblie uroient poblil le jour",
+            "l’e uil sauoie diuiſinunenr e e oe ie pers",
+            "l ln dſeoeiendr u vie e eur le pneneone",
+            "eesſounraonpoſironu dunnun pe pnenre",
+            "oungps du peuiple pour fauoriſerlenr t",
+            "ideſreinu larnu leae niſe en deionenu",
+            "aun ts re qei eun en in enr e rnn",
+            "Pe du Poeuens Cenmal du i ou en poin",
+            "u Peaoſ des arthnds eeeie",
+            "nelues lueree de la ſuredion de il e",
+            "eues , aee l ne lnu aaeieon , e eun",
+            "ſnoigne ey douans, doot la cont edl e",
+            "lnuſdie, d imn &amp;e ne lenr p eon es ne",
+            "miles &amp; biens en la proreeion uuuega¬"
+        ],
+        [
+            "de de ladite Cour Faiſant tres expreſa nai",
+            "e ons &amp; deſenles a coues peoues de lane",
+            "eſeilie n, nſdne i peue de la ie eee",
+            "ps aleei le ouu ſrne jout de lnuieu ina",
+            "cens quarante-neuf.",
+            "Signae, DV TILLET.",
+            "2¬.",
+            "1.",
+            "Colationń ’Originalpa",
+            "cunſir Surmeaioe du0",
+            "&amp; de ſes Finances. l",
+            "1",
+            "e",
+            "1.ii",
+            "!."
+        ],
+        [
+            "ap¬"
+        ],
+        [
+            "de de ladite Cour; Faiſant tres expreſs l¬",
+            "uaons t deſenſes a rouues peaoes de les",
+            "eſaire n, neine i peinie dle l ve ſee",
+            "p entut le doie ſne iou de amaier naes",
+            "cens quarante-neuf.",
+            "Signé, DVTILLET.",
+            "Coationne’ ’Originalpar",
+            "-",
+            ".",
+            "Cu eir umaioe da",
+            "&amp; de ſes Finances.",
+            "o",
+            "5.7¬"
+        ],
+        [
+            "aauhqt¬"
+        ],
+        [
+            "de de ladite Cour; Faiſant tres- expreſes ni¬",
+            "eon &amp;t deſenſes a roures peſonnen de l",
+            "ſ ſaire ny unedine s peune de la ve fe e",
+            "p denent le adioie tme ou de ane naſi",
+            "cens quarante-neuf.",
+            "Signe, DV TILLET.",
+            "-¬1",
+            ".",
+            "Colationne ’Originalpr",
+            "cunſeir Sueraiot du",
+            "&amp; de ſes Finance6.",
+            "..6i."
+        ],
+        [
+            "uaſſt¬"
+        ],
+        [
+            "de de ladite Cour; Faiſant tres- expreſ nai¬",
+            "aom t deſenlesa routes peones dele",
+            "Pſſine oy nediure s peire de l ve fe e",
+            "plenet le ue ſne ou de lanae rii",
+            "cens quarante-neuf.",
+            "Signeé, DVTILLET",
+            ".",
+            "...",
+            "Collationné à l’Originalpa",
+            "Cu iirt uuaiot du",
+            "&amp; de ſes Finaces.",
+            "1..!."
+        ],
+        [
+            "- ¬ ſ¬"
+        ],
+        [
+            "de de ladite Cour; Faiſant tres expreſes ni¬",
+            "amt defenle a roures peorine de le",
+            "ſeire n nedire a peine dle l ve ee",
+            "Snerte le dnie eme ou de uuie- uid",
+            "cens quarante-neuf.",
+            "Sigae, DVTILLET.",
+            "2..",
+            "1.",
+            "Colationnéa l’Originalpar",
+            "Cs eir Seaire du",
+            "&amp; de ſes Financeis.",
+            ".6i."
+        ],
+        [
+            "ſſ¬"
+        ],
+        [
+            "de de ladite Cour; Faiſant tres- expreſes n¬",
+            "ams u defenles ̀ roures peoins de l",
+            "ſine ny nedure s peine de l ve fle",
+            "p eonet le uuſne ou de lanae rai",
+            "cens quarante-neuſ.",
+            "Signeé, DVTILLET.",
+            "2¬",
+            "A..",
+            "Colationné ̀ l’Originalpar!",
+            "de eiit ſiereuineu",
+            "&amp; de ſes Finances.",
+            ".",
+            ".i."
+        ],
+        [
+            "--",
+            "o¬"
+        ],
+        [
+            "e de ladite Cour; Faiſant tres- expreſes nue",
+            "Ston deſenſe i roue peone dele",
+            "Plſlſine y n edinre i peiuie de l vie laie",
+            "peonet le daie ſne ou de auuie nia",
+            "cens quarante-neuf.",
+            "Signae, DVTILLET.",
+            ".¬",
+            "...",
+            "Colarionnéà l’Originalp",
+            "Cun dilr Samuainte dn",
+            "&amp; de ſes Financet.",
+            "9",
+            "1.i."
+        ],
+        [
+            "- oſ¬"
+        ],
+        [
+            "de de ladite Cour; Faiſant tres expeſes ni¬",
+            "eionu de fenilei rounes qeſoie del",
+            "ſeire n nedire a peine de l vie Ee",
+            "S een le atu ſme oun de luniesinds",
+            "cens quarante-neuf.",
+            "Sigaé, DVTILLET.",
+            "2.¬.",
+            ".",
+            "Colationnéà l’Originalp?",
+            "Cun diur Sarain da",
+            "&amp; de ſes Finances.",
+            "..",
+            ".i."
+        ],
+        [
+            "ſq¬"
+        ],
+        [
+            "de de ladite Cour; Faiſant tres expreſes ni¬",
+            "aton t defenſes a roues peſoines de le",
+            "ſeieine n, une dire i pen de l e ee e",
+            "S re le oeime pou de luue- uid",
+            "cens quarante-neuf.",
+            "Sigae, DV TILLET.",
+            "Colationne’àtOriginalpar",
+            ".¬",
+            "1",
+            "Cu ir Surmaont du",
+            "&amp; de ſes Finonces.",
+            ".i."
+        ],
+        [
+            "l"
+        ],
+        [
+            "de de ladite Cour, Faiſant tres expeeſes ani",
+            "i on defeunles ouree peoines de l",
+            "lſſie nu unednre a peine de la vue lie e",
+            "p le e le uru ſne jout de ſlamuie riis",
+            "cens quarante-neuf.",
+            "2¬",
+            "..",
+            "e ¬",
+            "Sigaeé, DVTILLET",
+            "Colationn’̀ l’Originalpor",
+            "Cun iur Semeaonr da",
+            "&amp; de ſes Financt6s.",
+            ".i."
+        ],
+        [
+            "ſq¬"
+        ],
+        [
+            "e de ladite Cour; Faiſant tres expreſes inai",
+            "ton deſfeuſes i oue pſonen dele",
+            "ſeleire nr nedire s peinre d l ve fEee",
+            "S ſee le unn ſne ount de lnoiet uuiis",
+            "cens quarante-neuf.",
+            "Sigae, DV TILLET.",
+            "Colationme’ à tOriginalpar",
+            "¬¬¬",
+            ".",
+            "eu qeir Suruapt de",
+            "&amp; de ſes Finances.1",
+            ".i."
+        ],
+        [
+            "oau¬"
+        ],
+        [
+            "e de la dite Cour, F’aiſant tres expreſes ao¬",
+            "e ions dfenle à rores peſeoues de leae",
+            "ſlſire nr unedne i peine de l ve e",
+            "p enent le neſdne jour de lanuier nniea",
+            "cens quarante-neuf.",
+            "¬2¬",
+            "..",
+            "¬",
+            "Sigaé, DV TILLET.",
+            "Colationnéa l’Originalp",
+            "de ſnir ſſeoelaoi de i",
+            "&amp; de ſes Finances.¬",
+            ".",
+            "s.. i."
+        ],
+        [
+            "uaſſt¬"
+        ],
+        [
+            "l ¬¬¬¬",
+            "e de ladite Cour; Faiſant tres- expreſes nai¬",
+            "oioun u deſenuſes a oues peſouens dele",
+            "ſeainre nuy, nedire i peinre de la vue aies",
+            "p erei le unrnu ſne jout de lnuies ais",
+            "cens quarante-neuf.",
+            "2.",
+            "e¬",
+            "Sigaé, DVTILLE T.",
+            "Colanionne’à toriginalp",
+            "de ſiſ eoelao dei",
+            "&amp; de ſes Financts.",
+            "1.",
+            "¬",
+            ".i."
+        ],
+        [
+            "s",
+            "1"
+        ],
+        [
+            "de de ladite Cour, Faiſant tres expreſs nai¬",
+            "ſeionu defeniſeia ounes nefaine dele",
+            "eſeaire uy ndire s pene de a ve ee",
+            "prr ea le nie ſme ou de luu- ii",
+            "cens quarante-neuf.",
+            "i..",
+            ".",
+            ".",
+            "¬",
+            "Signaé, DV TILLE T.",
+            "Colationne’ lOriginmalpar",
+            "de ſir eoraoidei",
+            "&amp; de ſes Finances.¬",
+            ".",
+            "3.ii."
+        ],
+        [
+            "ſſt¬"
+        ],
+        [
+            "l",
+            "e de ladite Cour; Faiſant res- expreſes n",
+            "Ston u deſenſesi roue aſone dele",
+            "Pſ ſine y n ednre i peinie de l vue lie e",
+            "S ſerres le onie ſne oun de lanmiet inies",
+            "cens quarante-neuf.",
+            "Signe, DVTILLET.",
+            "¬1",
+            "i.",
+            "Collationńà l’Originalpar",
+            "de ſei dueenaoneiu",
+            "&amp; de ſes Financés.",
+            "..",
+            "8",
+            ".i."
+        ],
+        [
+            "uaſſt¬"
+        ],
+        [
+            "de de ladite Cours Faiſant tres expreſes na¬",
+            "Si onr t deſenlesa toures peoines delat",
+            "P ieire n nedir i peine de l vre lee",
+            "eei le onu ſne jout de auies nmds",
+            "cens quarante-neuf.",
+            "Sigaé, DVTILLET.",
+            "-.",
+            "..",
+            "Collationné’ l’Originalp",
+            "Cu ir Cruairt da n",
+            "&amp; de ſes Financeis. d",
+            "o",
+            "1.7il."
+        ],
+        [
+            "uaſſt¬"
+        ],
+        [
+            "de de ladite Cour, Faiſant rres expreſea iaí",
+            "n ons &amp; deſenſes a oures pefoinens delet",
+            "eſin n n eire i peiie de ua vie Else",
+            "S r emre le onſtoe ou de lunuiu naſi",
+            "cens quarante-neuf.",
+            "Signá, DV TILLET.",
+            ".¬.",
+            ".",
+            "Collarionne’̀ lOriginmalpa",
+            "Cu qiir rrmaioe de",
+            "&amp; de ſes Finances.",
+            ".i.",
+            "1"
+        ],
+        [
+            "ſq¬"
+        ],
+        [
+            "de de ladite Cour Faiſant rres expreſs inal",
+            "iton defeunſesa roues peaſones de l",
+            "ſeire nr nedire i peint de l ves eiee",
+            "S ere le nr ſne out de lumiesirais",
+            "cens quarante-neuf.",
+            "Sigaé, DVTILLET.",
+            "-¬.",
+            "..",
+            "Colationne’̀ l’Originalpar",
+            "Cun ir Surmairt du",
+            "&amp; de ſes Finances.",
+            "1",
+            "t.i."
+        ],
+        [
+            "ſq¬"
+        ],
+        [
+            "e de ladite Cour Faiſant tres expreſes naui¬",
+            "on &amp; deſenlesa toues peaoinos de lr",
+            "e aire uy nedure i peine de l ve fee",
+            "S renrs le ouiſrne ou de lunuiu naa",
+            "cens quarante-neuf.",
+            "Sigaé, DV TILLET.",
+            "¬¬2.",
+            "Colationne ̀ lOriginalpar",
+            "cu qir urmaioeda",
+            "&amp; de ſes Financẽ.",
+            ".",
+            "9¬",
+            ".i¬"
+        ],
+        [
+            "-"
+        ],
+        [
+            "de de ladite Cour Faiſant rres expreſa iaui",
+            "ions &amp; deſenſes a roues pefoiues de la",
+            "eaure nuy nmdure s peine de la ves ee",
+            "S enre le omſne ou de luuuit rila",
+            "cens quarante-neuf.",
+            "Signá, DV TILLET.",
+            ".",
+            "Colationné l’Origialpar",
+            "2",
+            "u eir nmaioe da",
+            "&amp; de ſes Finances.",
+            "..:",
+            "0",
+            ".i."
+        ],
+        [
+            "uaſſt¬"
+        ],
+        [
+            "de de ladite Cour, Faiſant rres expreſauni",
+            "on t dſenſesa oures peaoiues delaue",
+            "enine u, nl ire e pene de d vie ase",
+            "S eneu le ooieene jou de lanie mda",
+            "cens quarante-neuf.",
+            "Sigae, DVTILLET.",
+            "-2¬.",
+            "i..",
+            "ma¬¬¬",
+            "Collationné à l’Originalpar",
+            "de ſit diereninidui",
+            "&amp; de ſes Finances.d"
+        ],
+        [
+            "oa¬ I"
+        ],
+        [
+            "e de ladite Cour, Faiſant tres expreſaini¬",
+            "oeinn &amp; d enſeni oues ruſoinous delee",
+            "ſſine ny nednre peinie dle l ve luie",
+            "S nere le onie ſme ou de lunuler olu",
+            "cens quarante-neuf.",
+            "Sigae, DVTILLET.",
+            ".",
+            "mm¬¬¬¬",
+            "Colationne’ lOriginmalpar",
+            "Cu qir ſamaunr de",
+            "&amp; de ſes Finances.",
+            "o"
+        ],
+        [
+            "ſ¬"
+        ],
+        [
+            "l l-¬¬",
+            "de de ladite Cour, Faiſant rres expeſai¬",
+            "ouns &amp; deſentes coures peroinens de leu",
+            "ſſine n ne dinre ai peinie de ve uise",
+            "peent il anieſone jout de lnaear nae",
+            "cens quarante-neuf.",
+            "Signá, DVTILLET.",
+            "-",
+            ".",
+            "Colanionmé à torigialpe",
+            "u oir Sueaome dun",
+            "&amp; de ſes Finances. ¬"
+        ]
+    ]
+}

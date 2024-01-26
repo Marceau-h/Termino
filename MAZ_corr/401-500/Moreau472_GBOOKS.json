@@ -1,0 +1,123 @@
+{
+    "imprimatur": "Auec Permiſſion.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-04",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-04",
+            "@who": "AB"
+        },
+        "titre": "Avis à la reine, sur la conférence de Ruel.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000110344972",
+            "@source": "BM_Lyon",
+            "@role": "alleged_author",
+            "persName": {
+                "forename": "Daniel",
+                "surname": "Hay du Chastelet, abbé de Chambon",
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "E. B. P."
+                }
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000003330006",
+            "@xml:id": "IL_SaraRobert.xml",
+            "persName": {
+                "forename": "Robert",
+                "surname": "Sara"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "AVIS",
+            "A LA REYNE.",
+            "SVR LA CONFERENCE",
+            "DE RVEL.",
+            "A PARIS,",
+            "Par ROBERT SARA, ruë de la Harpe,",
+            "au Bras d'Hercule.",
+            "M. DC. XLIX.",
+            "Auec Permiſſion."
+        ],
+        [
+            "3",
+            "ADVIS A LA REYNE.",
+            "fur la Conference de Ruel.",
+            "MADAME,",
+            "Voicy le coup de partie qui doit décider de",
+            "grandes affaires: Iuſques iey le Royregnepaiſi",
+            "blement, voſtre MaijeſtéeſtRegento, &amp; Paris en",
+            "eſtar &amp; en uolonxé, &amp; meſme en impatienoe de reuoir bien",
+            "toſt l’on’&amp;e l’autre: Il ne faut qu’vn ſeul moment, &amp; vne reſolu",
+            "tio mal priſe pour renuerſer-toutes ces choſes, puis qu’elles",
+            "ſont enleurpeſohaant, d&amp; quela Monarchie de France eſt ſj",
+            "vieille, quele moindr accident la peut mettre aà ſon dernia",
+            "periode luſquesàcetteheure MamME, le Conſeil d’en",
+            "haur reu que la Parlement auoit tort;ie- ne- diray point",
+            "maiatenans e qui en eſt, mais tous les peuples de France",
+            "ſouſtiénnentle contraire, &amp; ils ſontbien reſolasde maintenir",
+            "que l’authorité du Roy ordinaire, &amp; l’extraordinalre meſm",
+            "eſtenduë, iuſques où, les neceſſite d’vne- longu guerre- la",
+            "pouuöent raiſonnablmencportej, na point eſteé vioĺe. Cet",
+            "intereſt public ioint peut-eſtre à celuy de quelqpes-particu",
+            "liers, produira auec le temps d’eſtranges monſtres, &amp; qui",
+            "gourreiens auſſi bien renuerſerdes Royaumes comme des",
+            "maiſons Bourgeoiſes, &amp; des chaumieres de Payſans. Il ſem",
+            "ble, MaADmME, que le Ciel dopuis trente ans ait conjuŕ",
+            "la ruine de toutes les Monarchies: C’eſt pourquoy il faut",
+            "éuiter ſoigneuſemeat ce qui peut donner lieu à des reuolu¬"
+        ],
+        [
+            "fons ſi fueſtes Quand le bon Piloe voir qe la çempeſte",
+            "eſt tro fſoree, il abbaiſſe-les voiles: Faites-e de mefme,;",
+            "M Da , ne rſquez poin le toue pour vne peie partie,",
+            "&amp; n’obligez pbirt le Roy à eonqerir des villes en Frances",
+            "comme il fait en Eſpagne. Cela arriuera aeanemoins, M",
+            "DAME, ſi ous continuez d’oſter le pain &amp; la paix aux Pari",
+            "ſiens, puis qu’ils ſeront forcez de rechercher l’vn &amp; l’autre",
+            "par",
+            "les armes. Et comme les affaires nefiniſſentlamais par oùel",
+            "les comnencent, Dieuſeul peur cognoiſtre les accidens qui",
+            "en pourtont ſuuenir, mais les hommes &amp; ls Rois meſmes les",
+            "doiaent bien apprehender. Quoy qu’ih en foit, qui ioüie, ha",
+            "Earde; &amp; qui fairt la guerre, peux auaſſi toſt pedre que ggnen",
+            "Le ſubjet armé contre ſon Maiftre deuient ſon é́gal, &amp; l’an",
+            "thorité d’va Prince eſt bien hertée plus furieuſemen pax",
+            "des Canons que pat des Remonſtranes. ’Oe, M D a n8.",
+            "le remede à̀ tous ces inconueniens, eft de choiſis prompa",
+            "ment les mindres;’ c’eſt à dice, de ne poinr rejetrer les pr",
+            "poſitions tures-hunables de Meſſieurs les Depot, ataiteaque",
+            "les peuples affamez ne perdert legitimement lereſpeb qu’ils",
+            "doiuet à̀ Votre Majeſté; &amp; craifteauſſt que es reuohaions",
+            "hi merueilleuſes, &amp; fi prejudiciables à tane de oyaumes,",
+            "n’acheuet leurs cours as prejudice du voſtte ſi vous neluy",
+            "doarrez bien eoſt la pairx, en mettant fi à troutestgerre",
+            "taat domeſtiques qu’eſtranmgeres.",
+            "E. B. P."
+        ]
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre du roi écrite à Son Altesse Royale, de Bourges, le\n          24 octobre 1651.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "persName": {
+                "forename": "Louis",
+                "surname": "Bourbon (De)",
+                "name": "Louis XIV"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1651",
+            "#text": "1651"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": "Les imprimeurs & libraires du Roy",
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "I",
+            "1H I",
+            "IL",
+            "DV ROY",
+            "l",
+            "A SON ALTESSE ROYALE.",
+            "Sur ſon depart de Bourges pour Poictiers, le?.",
+            "Octobre 165r.",
+            "A",
+            "e e",
+            "e elu",
+            "ee",
+            "le",
+            "Ve",
+            "iaer",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires du Roy,",
+            "DC. L1.",
+            "Aueee Priaulege de ſa Maité"
+        ],
+        [
+            "s a 5",
+            "2¬¬ *",
+            "-1",
+            "1",
+            ".",
+            "ooogle"
+        ],
+        [
+            "3",
+            "Aſu!",
+            "9",
+            "r rerû* r rv",
+            "I AV, l4",
+            "E S TE,",
+            "A SON ALTÉSSE ROYALE.",
+            "ON oNG ’E Fa",
+            "deſiré vous donner ad",
+            "uis que ie partiray de",
+            "main pour m’en aller à̀",
+            "s Poictiers, où ie fais eſtat",
+            "de merendre auant la bonne Feſte, &amp;",
+            "vous dire que j’eſpere que Dieuquia",
+            "donneé de bons commencemens aàce",
+            "voyage, en fauoriſrala ſuiter Vus",
+            "aſſeurantqu&amp; l: ceſolation que ie",
+            "prens de m’auancer, ne change point",
+            "la volonté que ie vous ay cy-deuant",
+            "A i"
+        ],
+        [
+            "témigńe-pour l’accomrmodeent",
+            "des affaires: me promettant auſſi que",
+            "vous continuere de me donner des",
+            "marques deoſtre affection, comme",
+            "j’ayay ſingd yous-qnfae oir de",
+            "dd beillnde, los qudleslocba",
+            "ſions s’en preſenteft: Et ſur ce, je",
+            "prie Dieu ai mo Oncle; qu’il vous",
+            "tienne en ſa ſaincte &amp; digne garde.",
+            "Ecrit aS Bouigeslela iour d’Octo",
+            "bee,P65y1",
+            ".!l",
+            "u Ej",
+            "ua",
+            "Voſtre bien bon &amp; affectionné",
+            "nepueu,.",
+            "oyS,",
+            ". Eeploibais",
+            "o t ou li e l’ll ii",
+            "2",
+            "-EP ſur laiſſcaipuouli n.",
+            "ClAMmonu dl, u’ras",
+            "i1",
+            "h",
+            "2",
+            "n1"
+        ]
+    ]
+}

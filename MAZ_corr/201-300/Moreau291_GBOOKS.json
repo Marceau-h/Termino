@@ -1,0 +1,134 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "subject": "Mazarin",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, donné contre le cardinal\n          Mazarin, ses parents et domestiques, à ce qu’ils aient à vuider le royaume de France,\n          terres et places de l’obéissance du roi.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1651-02-10",
+                "#text": "10 février 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": [
+            {
+                "@ref": "isni:0000000109176887",
+                "@xml:id": "IL_QuinetToussaint.xml",
+                "persName": {
+                    "forename": "Toussaint",
+                    "surname": "Quinet"
+                }
+            },
+            {
+                "@ref": "isni:0000000385986464",
+                "@xml:id": "IL_ChevalierJacob.xml",
+                "persName": {
+                    "forename": "Jacob",
+                    "surname": "Chevalier"
+                }
+            }
+        ],
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "D",
+            "ARREST",
+            "H",
+            "DE LA COVR",
+            "DE PAREMENT.3",
+            "Donné́ contre le Cardinal Ma",
+            "zarin, ſes parens &amp; domeſti",
+            "ques eſtrangers, à ce qu’ils",
+            "ayent à̀ vuider le Royaume de",
+            "France, Terres &amp; Places de",
+            "l’obeyſſance du Roy.",
+            "du nefieſmne Feurier i6j",
+            "A",
+            "e",
+            "A PARI S,",
+            "Chez TOVSSAINCTQVINET,",
+            "IACOB CHEVALIER, deaant le",
+            "College Royal."
+        ],
+        [
+            "3",
+            "EXTRAICT DES RE",
+            "giſtres de Parlement.",
+            "E iour la Cour toutes les Chambres a",
+            "ſemblées, Ayant deliberée ſur le reelt",
+            "&amp; faic par les Gens du R oy de ce qil leur",
+            "Z a eſté dict par le dit Seigneur Roy &amp; la",
+            "ene Regente ſur l’execuion des Ares des",
+            "ſeptieſme &amp; huicieſme des mois. &amp; n &amp; Deçlara",
+            "tion de la voloaté́ dudit Signeur &amp; de ladite Da",
+            "me Reyne que l’eſloignement d Cardinal Maza",
+            "rin eſt ſans eſperance de retout, &amp; oüy ſur ce les",
+            "Gens du Roy.",
+            "A arreſté́ &amp; ordonné en conſequence de ladite",
+            "Dec laration &amp; Volonté dudit Seigneue Roy &amp; de",
+            "ladite Dame Reyne Regente, que dans quinzaine",
+            "du iour de la publicatioa du preſent Areſt, le",
+            "dit Cadinal Mazarin, cas Parens &amp; Do¬ a",
+            "meſtiques Eſtrangers vuideront le Royaume de",
+            "France, Terres &amp; Places de l’obeyſſance du Roy,",
+            "&amp; faure de ce faire ledit temps paſſé, ſera contre",
+            "eux procedé extraordinairement, permis aux Come"
+        ],
+        [
+            "4¬.",
+            "munes &amp; tous autres de leu ourir ſus, ſans qu’l",
+            "puiſſe reuenir pour quelque pretexte, aauſe, employ",
+            "&amp; occaſion que ce ſoit. Fait deffenees ledit temps",
+            "paſſé à̀ tous ouuemeurs des Prouines,. Mairee",
+            "&amp; Eſcheusins des Villes &amp; autres Subjets du Roy,",
+            "de les retirer &amp; receuoir, Ordonne que le preſent",
+            "Arreſt ſera afficheé, leu, &amp; publié à ſon de trompe",
+            "&amp; cry publie par tous les Carrefours de cette Ville",
+            "&amp; Paux-bourgs, &amp; enuoyé au Bailliage, Seneſ",
+            "chauſſee &amp; Siege du Reſſort, pour y eſtre pareil",
+            "lement leu, publié &amp; exeecuté aà la Requeſte du",
+            "Procureur General du Roy &amp; diligences de ces",
+            "Subîtituts, &amp; quil en ſera donné aduis aux autres",
+            "Parlemens. rait en Parlement le neufieſme",
+            "uier il ſix cens cinquante-vn.",
+            "Signé, GVYET.",
+            "us",
+            "A",
+            "e"
+        ]
+    ]
+}

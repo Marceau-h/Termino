@@ -1,0 +1,83 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "prophétique",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Nostradamus (1503-1566)",
+            "Nostradamus (1503-1566). Prophéties"
+        ],
+        "creation": "1650-01",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-14",
+            "@who": "AB"
+        },
+        "titre": "Grande et merveilleuse prédiction touchant les affaires\n          du temps présent, et même de ce qui peut arriver dans le cours de cette présente année\n          1650, tirées des Centuries de Nostradamus.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Mazarine",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "2"
+    },
+    "texte": [
+        [
+            "GRANDE ET MERVEILLEVSE",
+            "PREDICTION,",
+            "TOVCHANT LES AFFAIRES",
+            "DV TEMPS PRESENT,",
+            "Et meſme de ce qui doit arriuer pendant le",
+            "cours de cette preſente Année 1649.",
+            "Tirees des Centuries de Noſtradamaus.",
+            "L’Oeuure qu'on voit ſur les piliers,",
+            "Nous apprend pour toutes nouuelles,",
+            "Qu’il n’appartient qu’aux Cheualiers",
+            "D’exterminer les infideles.",
+            "Six, quatre ne produira",
+            "Rien que rage &amp;que fureur,",
+            "Grands &amp; petits , tout perira",
+            "A ſeryir l’Eſtat peu d’honeur."
+        ],
+        [
+            "2",
+            "Ianauier verra l’emotion,",
+            "Que Fevrier reparera:",
+            "Mars les Armes allumerera,",
+            "En Auril grande ſedition.",
+            "May ſur tous les mois mal-heureux,",
+            "Iuih nous fera voir l’Angoulmois,",
+            "Iuller vn peu plus gratienx,",
+            "Aouſt promet les Ponts de Blois.",
+            "Paris Septembre verra,",
+            "Oobre la Baſtille ouurira,",
+            "Nouembre vn Duc s’éloignera,",
+            "Qui en Decembre perira.",
+            "Alors que tu’oiras chanter",
+            "Le oy daolaois, ſia,-in s eroi",
+            "Vn homme tu verras monter",
+            "Sur va eſchafaut de bois,",
+            "A celle qui aura traeé",
+            "La fortune du tré́paſſés:",
+            "Perte viendra troismois apeérs;",
+            "D’vn qui la touche de plus prés."
+        ]
+    ]
+}

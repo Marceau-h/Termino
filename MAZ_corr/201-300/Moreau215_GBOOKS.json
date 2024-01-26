@@ -1,0 +1,112 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "subject": "Paris",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, concernant le nettoyement\n          des boues de la ville et fauxbourgs de Paris, avec injonctions, aux entrepreneurs et\n          receveurs , de continuer l’exercice de leurs charges",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-01",
+                "#text": "janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "o1oss",
+            "A rrſ I",
+            "AIII e I LO",
+            "DE PARLEMENT,",
+            "CDNCERNANT LE NETTOYEMENT",
+            "des Boü̈es de la Ville &amp; Faux-bourgs de Paris,",
+            "Auec injonction aux Entrepreneurs &amp; Receueurs",
+            "de continuer l’exercice de leurs Charges.",
+            "D deuxieéme iour du mois de Ianuier mil ſie",
+            "cens quarente-neuf",
+            "1",
+            "9",
+            "&amp;s",
+            "e",
+            "PARIS,;",
+            "Par Ies Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "¬¬¬ oaaaaa",
+            "M. DC. XLIX.",
+            "Auee Priuilege de ſ aſeſté."
+        ],
+        [
+            "1",
+            "Contracts faits auec eux; Ordonne qu’ils ſeron?",
+            "payez conformément auſdits Contracts, par leſdits",
+            "Receueurs, leſquels feront diligence de recouurer",
+            "les deniers des particullers ſuiuant les Rolles des",
+            "Taxes, pour ſix mois, par aduance: au payement",
+            "deſquelles Taxes ſeront leſdits particuliers con",
+            "trains, nonobſtant oppoſitions &amp; appellations fai",
+            "tes &amp; à faire, &amp; ſans prejudice d’icelles, iuſques à ce",
+            "qu’autrement par ladite Cour en ayt eſté ordonné.",
+            "Enjoint au Preuoſt de Paris ou ſon Lieutenant Ci",
+            "uil, Subſtitut dudit Procureur General, &amp; Officiers",
+            "du Chaſtelet, tenir la main à l’execution du preſent",
+            "Arreſt, lequel ſera leu, publié &amp; affiché à la reque",
+            "ſte dudit Procureur General, en tous les carrefours",
+            "&amp; autres lieux de cette Ville &amp; Faux-bourgs, à ce",
+            "qu’aucun n’en pretende cauſe d’ignorance. FA1cT",
+            "en Parlement le deuxiéme Ianuier mil ſix cens qua",
+            "rente neuf. Signeé, DV TILLET.",
+            "Collauionneé à l’orgial parmooy Conſeiller ecretae",
+            "da Roy &amp; de ſes inances.",
+            "A",
+            "T E vingt-haictiéme iour de Ilanier mil ſix cens quarente-nea;",
+            "lLL l’Arreſt o-deſſus de NMoſſeigneurs de la Cour de Parlement, a eſteé",
+            "leus &amp; publie ̀ ſon de Trompe &amp; cry public, par tos les Carrefors ords",
+            "naires &amp; extrordinaires de cetçe Ville &amp; Fux-bougs de",
+            "Paris, pa so5",
+            "ean Ioßier, lIuré Crieur ordinaire du Roy en la Ville, Preuoſteé &amp; Vicommné",
+            "de Paris, &amp; afficheé o beſoin a eſté, ASiſté de Didier Ordin, Iean du",
+            "Aos, &amp; acques le Fhain, larez rompetres da Ry eſdts lieue.",
+            "Signeé, oSSIER."
+        ]
+    ]
+}

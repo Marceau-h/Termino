@@ -1,0 +1,121 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Armes – Paris (France)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant défenses, à tous\n          quinqualiers , armuriers et autres marchands de cette ville et faubourgs de Paris, de\n          cacher, recéler ou détourner les armes qu’ils ont en leur possession, avec injonction de\n          faire leur déclaration, au greffe de ladite cour, de la quantité qu’ils en ont.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-02-05",
+                "#text": "5 février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "Arreſt de la Cour",
+            "DE PARLEMENT.",
+            "PORTANT DEFENSES A TOVS",
+            "Quinqualiers, Armuriers &amp; autres Marchands de",
+            "cette Ville &amp; Faux-bourgs de Paris, de cacher,",
+            "receler ou deſtourner les Armes qu’ils ont en leur",
+            "poſſeſſion, Auec injonction de faire leur decla",
+            "ration au Greffe de ladite Cour, de la quantité",
+            "qu’ils en ont.",
+            "Du quatriéme Feburier mil ſix cens quarente-neuf.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "E RAL1 E ’",
+            "de Parlement.",
+            "CE IOVR, la Cour toutes les Chambes",
+            "aſſemblées, ſur ce qui a eſté propoſé que",
+            "les Marchands Quinqualiers, Armuriers &amp;",
+            "Sr&amp;autres qui font trafic des Armes, pour em",
+            "peſcher l’execution de l’Arreſt du trentiéme lanuier,",
+            "qui a reglé le prix auſdites Armes, refuſent d’en ven",
+            "dre, les cachent &amp; recelent, par vn monopole preju",
+            "diciable à̀ la choſe publique: La matiere miſe en deli",
+            "beration;LADITE COVR a ordonné &amp; or",
+            "donne, Q las le ioerle la publication du preſent",
+            "Arreſt, tous Quinqualiers, Armuriers &amp; autres Mar",
+            "chands de cette Ville, ſeront tenus faire leur declara",
+            "tion au Greffe de ladite Cour, de toutes les Armes",
+            "qu’ils ont en leurs maiſons &amp; magaſins, &amp; pas tout",
+            "ailleurs en cette-dite Ville &amp; Faux bourgs: leur fait",
+            "tres-expreſſes inhhitions &amp; defenſes d’en cacher ou",
+            "receler en quelque ſorte &amp; maniere que ce ſoit, à peine",
+            "de confiſcation, &amp; de payer le double de ce qui ſe",
+            "trouuera recelé ou deſtourneé, dont le tiers de la va",
+            "leur ſera donneé au denonciateur envertu du preſent",
+            "Arreſt: Lequel, à la requeſte du Procureur General"
+        ],
+        [
+            "4",
+            "du Roy, ſera leu &amp; publié à̀ ſon de Trompe, &amp; affiché",
+            "par tous les Carrefours de cette dite Ville &amp; Faux",
+            "bourgs, à ce qu’aucun n’en pretende cauſe d’igno",
+            "rance. Frcr en Parlement le quatriéme Feburier",
+            "mil ſix cens quarente-neuf. Signe, RADIGVE.",
+            "Collationné à l’origialparmoy Conſeiller Secreaire",
+            "d oy &amp; de ſes Finances.",
+            "LE cinquiéme iour de Feburier mil ſie cens qua",
+            "rente- neuf, l’Arreſt eydeſſas de Noſſeigneurs de",
+            "Cour de Parlemenmt, à eſſé leu &amp; publié ſon de Trompe",
+            "&amp; cry pnblic, par tous les Carrefours ordinaires &amp; ex",
+            "trordinaires de cerie ’ll Eu hage da Bavs, par",
+            "moy Iean Ioſſer, lure Crieur ordinaire du Roy en la Ville,",
+            "Peuoſe &amp; Vieomte de Paris, &amp; affcbépar tout où be",
+            "ſoin a eſté, Aſſſtéde Didier Ordin, Iean d os, &amp; Iac",
+            "ques le Frain, Iurez Trompentes du Roy eſadis lin,",
+            "Signé, IOSSIER."
+        ]
+    ]
+}

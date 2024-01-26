@@ -1,0 +1,193 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Harangue faite à monseigneur le duc d'Orléans,\n                    prononcée en l'assemblée de la noblesse, le 25 mars 1651, par monsieur de\n                    Lignerac, l'un des gentils-hommes de ladite assemblée.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1651",
+            "#text": "1651"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "HARANGVE",
+            "A MONSEIGNEVR",
+            "LEDVC",
+            "DORLEANS,",
+            "de la obleſa les rlſdarnnn pan lſonſeon",
+            "luie dſaeueiole",
+            "e u",
+            "d",
+            "r",
+            "’ll’ueaſee ¬",
+            "PAs",
+            "eu er eile oie reei",
+            "e e uane",
+            "Auec Perijsion."
+        ],
+        [
+            "11",
+            "LE¬",
+            "a",
+            "1",
+            "4",
+            "a",
+            "1",
+            "5"
+        ],
+        [
+            "oSestAee",
+            "A Sſ&amp;es é",
+            "ls",
+            "ONSEIGNEVR,",
+            "Voſtre Alteſſe Royale, doit eſtre perſuadeée",
+            "que ceſte Aſſemblée eſt remplie de reſpect &amp;",
+            "e reſſentiment des obligations qu’elle luy a",
+            "données en luy accordant ſa protection; Ainſi,",
+            "MosEIcnEvVR, voſtre Alteſſe Royale s’eſtac¬",
+            "quiſe le cœur non ſeulement de quatre ou",
+            "cinq cens Gentilshommes qui la compoſent,",
+            "mais de toure la Nobleſſe du Royaume, qui",
+            "touchee de meſme motif, mettra toute ſa gloi¬",
+            "re à employer ſa vie &amp; ſon ſang pour la recon¬",
+            "noiſſance de tant de bontez vers elle, c’eſt vne",
+            "veriteé qui ne reçoit pas de contredit, apres la¬",
+            "quelle ie ſupplie voſtre Alteſſe, de me permet¬",
+            "tre de dire, que l’affaire que nous traictons au¬",
+            "iourd’huy en cette Aſſemblee eſt d’vn tel poids",
+            "&amp;d’vne ſi hauteimportance, que nous ne ſçau¬",
+            "rions chercher ny trop de precautions, ny y"
+        ],
+        [
+            "4",
+            "appor ter aſſez de prudence: Car enfin, MOn¬",
+            "sEIGNEvR, nous auons l’intereſt de tous les",
+            "Corps qui compoſent cette Monarchie en nos",
+            "mains, puis que le but de noſtre vnion a eſté le",
+            "bien public, &amp; que nous n’auons iamais conſi¬",
+            "dereé le noſtre, qu’en tant qu’il eſtoit compris",
+            "dans le general.",
+            "Enfin, MOsEcNEvR, nous ſerons reſpon:",
+            "ſables &amp; au Clergé, &amp; ̀ la Nobleſſe &amp; au tiers",
+            "Eſtat, de toutes nos demarches en ce rencon¬",
+            "tre, &amp; toutes nos actions ſeront ou dignes de",
+            "reproche ou de loüange; mais ie paſſe plus",
+            "auant, MosEinev, i’eſtime que nous le ſe¬",
+            "rons encores enuers le Roy; ſi nous n’agiſſons",
+            "pas auec toute la fermeté &amp; la ſincerité, que",
+            "nous ſommes obligez dans vne occaſion ſi im¬",
+            "portante pour ſon ſeruice, &amp; lors qu’il ſera",
+            "dans le temps à diſcerner les veritables ſerui¬",
+            "ces d’auec les intereſſez, il auroit ſuiet de nous",
+            "faire vn ſenſible reproche, de n’auoir pas cher¬",
+            "cheé toutres les voyes &amp; tous les moyens, qui ſe",
+            "peuuent imaginer pour obtenir ce que nous",
+            "demandons, qui ſont les E ſtats generaux, par",
+            "leſquels toure la Monarchie re çoit vn ſoulage¬",
+            "ment entier, ce qui ne peut eſtre ſans que le",
+            "Souuerain enreç̧oiue vn norable aduantage.",
+            "Toutes ces raiſons, MosEGevr, nous",
+            "feroient deſirer de grandes ſeretezpour l’ob¬",
+            "tention"
+        ],
+        [
+            "don de oe que demandons auec tantde iuſti¬",
+            "e;-mais lors que le conſidere que voſtre Al¬",
+            "teſſea eu la bonté&amp; Noſſeigneurs les Princes",
+            "duSang, de ce ioindre à nous, pour demander",
+            "ce que nous deſirions, &amp; que voſtre Alteſſe eſt",
+            "vonuë en ce liep auec Monſeigneur le Prince,",
+            "nous àpporrer l’effect de vos ſoings, auec la",
+            "ſeuretéde leurs Maieſtez, iointe à̀ celles de vod¬",
+            "ſtre Alreſſe, &amp; de Noſleigneurs les Pi inces de",
+            "Condé &amp; de Cohty; Lors, dis ie; que ie con¬",
+            "ſidere que c’eſt l’Oncle du Roy, qui a le pluas",
+            "d’intereſt en la conſeruation de cet Eſtar; &amp;",
+            "qui teſmoigne le plus de zele &amp; de chaleur",
+            "pour cela, &amp; que voſtre Alteſſe par vne bonté",
+            "inifinie, &amp; vne prudence digne d’admiration,",
+            "s’eſt rendu le Pere des Peuples, le Protecteur",
+            "de la Nobleſſe, le ſouſtien du Clergé, enrepri¬",
+            "mant par ſes ordres les inſolences que l’on",
+            "commettoit par les deſordres de la guerre au",
+            "preiudice du culte Diuin, &amp; le Prorecteur des",
+            "Loys, donnant la vigueur &amp; la force aux Ar¬",
+            "reſts du Parlement, pour redonner la liberteé́",
+            "à cét illuſtre innocent, qui luy auoit eſté rauie",
+            "par l’artfice captieux &amp; trompeur d’vn Eſtran.",
+            "ger, qui ne pouuoit rendre vn ſeruice plus no¬",
+            "table aux ennemis de cette Couronne, qu’en",
+            "renfermant cét Heros, qui ne les a iamais ap¬",
+            "prochez qui ne les ait defaits, &amp; remporté́ en"
+        ],
+        [
+            "-peu dé temps huict ou’ dix de leurs meilleres",
+            "Plaees,&amp; gaignétrois grandos Barailles. Tou¬",
+            "tes ces raiſons iointes enſehble, Mons si¬",
+            "anv, fons que ie ſuis ſans àpprehenſion de",
+            "reproche, ayant yn garand de voſtre conſide¬",
+            "raon; Et partant ie dnclus que nous deuons",
+            "obeiraux ordtes de voſtré Alteſſe, &amp;e deferer à",
+            "les ſentimens ce qu’elle deſire, &amp; que nous",
+            "’en deuons iamais auoir d’autres que de vi¬",
+            "-ute &amp; de mourir vos treshumbles &amp; tres¬",
+            "obeiſſans ſeruiteuss.",
+            "!",
+            "2",
+            "ie1",
+            ".D",
+            "i",
+            "2. 2 l",
+            "2 .1",
+            "22."
+        ],
+        [
+            "aa"
+        ],
+        [
+            "4",
+            "L¬-",
+            "¬",
+            "onaGoogle",
+            "!"
+        ]
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Condé, Claire-Clémence de Maillé Brézé (1628-1694 ; princesse\n            de)",
+            "Bourbon, Henri-Jules de (1643-1709)",
+            "Foullé, Étienne (1600-1673)",
+            "Guyenne",
+            "Bordeaux"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-04",
+            "@who": "AB"
+        },
+        "titre": "Lettre de la cour de parlement de Bourdeaux escrite à la\n          cour de parlement de Paris",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": {
+            "@source": "Mazarine",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:6455058",
+            "#text": "Bordeaux"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE BOVRDEAVX,",
+            "ESCRITE A",
+            "LA COVR DE",
+            "PARLEMENT DE",
+            "PARIS.",
+            "A BOURDEAVX",
+            "Par IEAN MILLANGES, Imprimeur ordinaire",
+            "du Roy. M. DC. L."
+        ],
+        [
+            "LETTRE DELA COVR DE PARLEMENT",
+            "de Bourdeaux, eſcripte à̀ la Cour de",
+            "Parlement de Paris.",
+            "MESSIEVRS,",
+            "IL y a prez de deux ans que cette Provibce, &amp;",
+            "partieuliérement cetteVille de Dourdeaux, louffre tout cee qui",
+            "peut conceuor dnjue &amp; de perlecutionu, Vou aue tel",
+            "moigneé que leurs digrace vons one touchés, &amp; apres Qe",
+            "vous auea aequs la paix d la v le de Par, &amp;obtr r uvne D",
+            "elaratiou de SaMajeſte, pourrendre la liberte &amp; les f’rivil5gei",
+            "a tout ce qu’il y à de grand &amp; de ce nſiderable dans l’Eſtat,",
+            "ous auez voul̂ contribuer à noſtre iepos partitulier, com",
+            "meeſtant vne des parties de ce grand Corps quire ſtoit tore",
+            "afigé. En ſorte que la douleur &amp; le reſſentiment que vou",
+            "Pefmoignaſtes de nos ſou ftrances, ayda hevucoup à la pa",
+            "aquil pluſt au Roy nous accorder, de laque le nous n uons",
+            "Jouſſe les fruies qu’enimaee paree ou’eleà cſté volée en",
+            "Pre ee qui nous a touſiours paru des inie ntions de Sa l aleſté",
+            "paur celuy qui à ereite &amp; fomente la puere contre ſes Conei",
+            "oyens &amp; contre la Ville capitale de ſon Gouernemen pou",
+            "a deftreuire. Ee quelques eftorts que nous ayons laits par de ſi",
+            "lonoues &amp; de fi continuelles plaintes, il ſe m’le qu’on vueille",
+            "plutoſit nous oſter l’eſperance, que l’oppreion puſouon",
+            "ſaiſdle t uſiours au millieu de nous la caule de nos mſeres,pen",
+            "dant leſquelles Madame la Prneeſſe, &amp; Monſieur le Due",
+            "d’Angue n ſon fis, ont paru depuis p ude iours nopinenes",
+            "on eette compagnie, lans autre equipae ny aprarel que",
+            "ux de leuraflieion. ſe plaignans de la Longue derennion",
+            "eu t de leur daty, &amp; des autres p nces, conte le;",
+            "armnes de la derniére Deelaration, demandans ſeuree pour",
+            "leus peſonnei&amp;t pour leuns ves et bie que leuſe e ole",
+            "auae u laeondton de la ſorune ſuden auſ lgnene de",
+            "licequ’is le ſont de compaſſion, nous n’auons pas vouu",
+            "a-¬¬,",
+            "3 l"
+        ],
+        [
+            "2",
+            "e De",
+            "1",
+            "lll ll l",
+            "3",
+            "enerer en ćonnoiſſance de leurs plaintes, &amp; nous teons tdus",
+            "jours dans le reſpect que nous deuons auRoy; nous nous ſont",
+            "mes contente2 e leur promettre, ſous le bon plaiſir de S",
+            "Maieſté, la liberté de leur ſeiour dans cette Vile, &amp; la ſeureté",
+            "de leur perſonnes. ſi cheres &amp; ſi conſiderables à̀ l’ tat, &amp; de",
+            "ſupplier tres-humblement Sa Maieſté de faire, lur les deman",
+            "des porré́es par la A equeſte qu’ils nous ont preſentée, &amp; le",
+            "renuoy des Peinces a leus luges at urels, les conſiderarions",
+            "quls iugeroõt à propos, pourt le bien de ſon ſeruice, &amp; pour le",
+            "re pos de cette Province, qui va eſtre le Theatre de duerſes",
+            "Tra gedies, par les diuers partis qui s’y forment ſur l’inexecu",
+            "tion de ceſte Declaration ſi celebre, de l’an mil ſix cens qua",
+            "rante huict, que voſtre zele au bien de l’Fſtat. a proeure aà tou J",
+            "te la France; &amp; par l’iofraction auſſi de la Declaration que le",
+            "Roy auoit particu’iérement accordé́e à ceſte province: ou",
+            "nousauons veu revenir les lntendansauec de noms pus doux",
+            "&amp; des procedures plus cruelles, &amp; le ſieur de Fou’é condam",
+            "ner par desSentencesPreſidales des Parroiſſes entiéres au f u,",
+            "&amp; tous les habitans, les vns à la potence, les autres à la galeé́re",
+            "&amp; au baſſement, ſans dſtinction des aages ny des ſex s pour",
+            "n’auoir pas peu payer rout ce que l’auarice auoit voulu exiger",
+            "deux, imputant l’mpuiſſance à crime, &amp; failant eecuter ees",
+            "inhumanitez a man armée par forme de Iuſtice. Nous eſpe",
+            "rons pourtant que comme les graces de ces Declarations &amp;",
+            "de ceſte paix, ont eſté l’ouurage de voſtre interce ſſion",
+            "vous ſereés ialoux d en promouuoir l’execution, &amp; que comme",
+            "vous ſç̧aués l’vſage de flechir le cœur des Roys, vous ferés",
+            "ceſer tant de plantes par voſtre entremiſe, &amp; les rauages qi",
+            "menacent ceſte Province, qui peuuent entraiſner la perte de",
+            "lſtat, puis qu’elle en eſt vne des plus conſiderables, &amp; qu’el",
+            "eſt lur le pnct d’eſtre deſchirée par les mains propres des",
+            "Sts du Roy, ou par celle de l Eſtranger, qui à les yeux de",
+            "rous coſtés tendus aà̀ la ruyne de ceſteMonarchie, ç̧a eſte le ſu",
+            "jer de ceſte dépeſche, &amp; du Regiſtre que nous auons faict dans",
+            "eeſte dernié́re ocecurance, ſurt le ſuiet de Madame la princeſſe,",
+            "duquel nous auonsiugé́ vous deuoir informer par vnConſeil",
+            "1"
+        ],
+        [
+            "1",
+            "1l",
+            "1",
+            "8",
+            "lor d-’eeſte Compagnie, auquel nous vous prlons ’’adleuſîtes",
+            "ereéance pour tout ce qu’il vous expoſera de naoſtre parr, &amp; de",
+            "Nous croire",
+            "MESSIEVRS"
+        ]
+    ]
+}

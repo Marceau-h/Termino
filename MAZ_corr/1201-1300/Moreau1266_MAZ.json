@@ -1,0 +1,131 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "épitaphe",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-10",
+            "@who": "AB"
+        },
+        "titre": "Épitaphe de la sainte boutique d'un maître savetier de la\n          rue des Prêcheurs.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-04-15",
+                "#text": "mi-avril 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "EPITAPHE",
+            "DE LA SAINTE",
+            "BOVTIQVE",
+            "D’VN MAISTRE",
+            "SAVETIER",
+            "DE LA RVE DES PRECHEVRS.",
+            "A PARIS,",
+            "M. DC. XLIX."
+        ],
+        [
+            "EPITAPHE DE LA SAINTE",
+            "Boutique d’vn Maiſtre Sauetier de la ruë",
+            "des Preſcheurs.",
+            "7 Mort qui n’eſpargnez perſonne,",
+            "V Auez rauy noſtre prud’homme,",
+            "Son nom eſtoit Thomas outhieé,",
+            "En ſon viuant Maiſtre Sauetié,",
+            "8",
+            "e.",
+            "Son nom de guere ſaie outique, u",
+            "Touſiours ils chantoit la Muſique,",
+            "Puis ayant beu à pleine taſſe,",
+            "De ſon chapeau faiſoit la baſſe.",
+            "Sur tout il eſtoit honneſte homme,",
+            "Et ſans reproche de perſonne,",
+            "Sa mort affligea ſes amis:",
+            "Il n’auoit aucuns ennemis,",
+            "Comme auſſi fut fort regreteé,",
+            "De tous les prudens du Meſtié,",
+            "Ayant pris du jus de la treille,",
+            "Auec eux il faiſoit merueille,",
+            "Et ſans ſe ſoucier d’attropos,",
+            "Touſiours gaillard en ſon propos,",
+            "Remply d’vne heureuſe memoire,",
+            "Recitoit quelque belle hiſtoire;",
+            "Ou les ſentences de Platon,",
+            "De Senecque de Caton,",
+            "De Caliſthene de Socrate,",
+            "De Siceron de Plutarque,"
+        ],
+        [
+            "De Noſtradamus de Diomede,",
+            "Et de l’ingenieux Archimede,",
+            "Et outre es exercices,",
+            "Entendoit rort bien l’artifices,",
+            "Les iours de ſainct lean &amp; ſainct Pierre,",
+            "Et quelquefois durant la guerre;",
+            "Faiſoit proche le Pillory,",
+            "Vn feu de ioye bien jolys",
+            "Et finalement à vray dire,",
+            "Auoit touſours le mot pour rire:",
+            "Meſme le iour de ſon treſpas,",
+            "Vn Chirurgien luy tenant le bras,",
+            "L’aduertit que ſans faillir,",
+            "Ce iour là il deuoit mourir;",
+            "Surquoy luy fit cette reſponſe",
+            "Faut-il auoir cette honte,",
+            "De mourir en ce temps d’Eſté,",
+            "Que le pain eſt aà bon marché,",
+            "Et que ne mourois-ie cetre Hyuer",
+            "Durant que le pain eſtoit cher;",
+            "Ou bien lors que i’eſtois en garde",
+            "Tremblant de froid au Corps de Garde,",
+            "Son diſcours eſtant acheué",
+            "Peu apres il eſt treſpaſſé,",
+            "Aagé de cinquante-huict ans,",
+            "Au grandregret de ſes parens,",
+            "L’anneée mil ſix cens quarente-neufieſme,",
+            "Au mois d’Auril le vnzieſme,",
+            "Le propre iour de Paſques Cloſe,"
+        ],
+        [
+            "4",
+            "Deuant Dieu ſon ame repoſe,",
+            "Attendant la reſurrection",
+            "Dieu luy veuille faire pardon,",
+            "Et à tous autres Treſpaſſez,",
+            "Qui comme luy ſont paſez,",
+            "Tous confreres parens &amp; amis,",
+            "Dites pour luy Pater, De profundis,",
+            "Libera, Fidelium, Miſerere,",
+            "Et requies quam in pace.",
+            "RBeal qui in Domino moriuntu."
+        ]
+    ]
+}

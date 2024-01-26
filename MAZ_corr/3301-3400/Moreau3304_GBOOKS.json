@@ -1,0 +1,80 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "rhétorique délibérative",
+            "remontrances"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-01-30",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-07-15",
+            "@who": "MF"
+        },
+        "titre": "Remontrance de la reine d'Angleterre à la reine régente\n          touchant la mort de son mari à l'état présent.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000447083018",
+            "@role": "speaker",
+            "persName": "Henriette-Marie de France, reine d'Angleterre"
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "i",
+            "ne",
+            "ce",
+            "&amp;s",
+            "ErTR NCE D E",
+            "Ree dAdngleterre à l Reine Regenmte",
+            ", toachant la nort deſon mary",
+            ", ela. leftatprſ",
+            "i bAuE.",
+            "e2",
+            "Dans l’eſtat où le ſui e quoy que",
+            "n’aye beſoin quede conſolarion ie me troune pour",
+            "tant obligée par l’amourque ie dois auoair &amp;que il’ay",
+            "vouee au Roy à voſtro Maieſté, &amp; à touce la france,",
+            "de donner v peu de trefue à mon iuſte reſſeati",
+            "ment, &amp;devous faire part des penſées qu’il me dicte,",
+            "pour voſte repas &amp; celuy de toue le Peuple d",
+            "ance: mais que voſtre Maieſté prenne le tout, s’l",
+            "lplait, enhouns prt, uis qile vous feravoi,",
+            "Sredr oo acceioa &amp; de aoaela",
+            "vaſtrecpncencsme¬.",
+            "e Ry d Angleerre, Manſaignu,&amp; mon ma",
+            "Ietmog, ada4ſe lrmaſne eredqui: ’auoit",
+            "treſgjquegpés, atooburir honrouſehan,",
+            "rſtr, mis qul crim uocis ilfit, ſos Suiet",
+            "les sedujaicdilet mre mai a pdans l.",
+            "ilhdoſandgonpoſ ilpmaie cobn",
+            "toutes les troupes qu’il auoit pour ſa defence, a’im",
+            "i1",
+            "B ij"
+        ]
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "lettre",
+            "texte officiel"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1650-07-04",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-07",
+            "@who": "AB"
+        },
+        "titre": "Lettre de messieurs du Parlement de Bordeaux écrite au\n          roi sur le sujet de la dépêche de Sa Majesté faite audit Parlement, étant en sa ville\n          d'Angoulême.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1650-07",
+                "#text": "datée de juillet 1650"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000367213580",
+            "@xml:id": "IL_SassierGuillaume.xml",
+            "persName": {
+                "forename": "Guillaume",
+                "surname": "Sassier"
+            }
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "1",
+            "lpe lleledſill dteltelllſe-e",
+            "LETTRE",
+            "MESSIEVRS DV",
+            "PARLEMENT DE",
+            "BoVDEAX.",
+            "AV ROY",
+            "SVRLESVIET DE",
+            "li epes ce Es A lſ",
+            "l ee ene",
+            "lenli eile d l npoulene",
+            "e",
+            "PNe os",
+            "lue re eon nene uen",
+            "de enei e ne ’lae ee"
+        ],
+        [
+            "A ,",
+            "agr,",
+            ".",
+            "aa,",
+            "uons. A’vos bonnes graces nous recom",
+            "mandons.",
+            "JOsTRE SovERAIN SE 1GEvR,",
+            "Nous auons receu auec toute ſor",
+            "te de reſpect, la Le trtre dont il a pleu",
+            "à voſtre Majeſté nous honorer, &amp; la",
+            "joye que nous auons d’aprendre le deſ",
+            "ſein qu’elle a de s’achaeminer dans cette",
+            "ville, ſeroit pleinement accomplie, ſi nous",
+            "n’auions cogneu aà meſme temps rous les",
+            "eſprits alarmés par l’approche de Mon",
+            "ſieur le Cardinal Mazarin, qu’ils regar",
+            "dent comme le ſeul protrecteur du",
+            "ſieur Duc d’Eſpernon, lequel il a deſſein",
+            "de remettre dans cette ville, ſur la ruine",
+            "&amp; ſur la perte des habitans, qu’ils",
+            "croyent ineuitable, par l’appuy qu’il luy",
+            "a donne ſi publiquement dans le cours A",
+            "de toutes ſes violences, &amp; par les et",
+            "1res qu’il a de nouueau eſcrites udit",
+            "ſieur Carlinal, dequoy nous auons eſti",
+            "meé eſte obligés d’informer voſtre Ma",
+            "jelté, comme nous croyons qu’elle l’a",
+            "eſté par ſon Proeureur General; afin qu’il",
+            "luy plaiſe de conſilerer ce que la defien"
+        ],
+        [
+            "3",
+            "e &amp;le deſeſpoir peut produire dans l’eſpnir",
+            "des Peoples, &amp; de ne douter point de la",
+            "fdelié inuiolable de vore parlenment",
+            "&amp; de la continuation de nos ſoins a pre",
+            "t &amp;e à diſipe les nelgenees que",
+            "leennemis de voſtre Eeſtat pourroient fr",
+            "nes dans cee uile conire le bien du ſet",
+            "ie de voſtre Majeſé, qui nous ſena",
+            "mſiouns plus chere que noure propre",
+            "e omme ayans lhonneur d lſlre n",
+            "uiolablement,",
+            "ou sans n saue.",
+            "os trés humbles &amp; trés obeſſants",
+            "ſeruireun &amp; ſujes, Le Gens enns",
+            "votre Cour de Parlement de bour.",
+            "deau ſigné, DE Po e",
+            ".:.",
+            "ee à DPonrdeaux en voſtre Parlement les",
+            "Cals ſrmli le l al r",
+            "1",
+            "1",
+            "Se oSuillaume Saſier, Imprimeur &amp; Librai",
+            "e orinaire du ey nue des Cordiens, pros",
+            "ce la Sorbonne, aur deus Tou tereles."
+        ]
+    ]
+}

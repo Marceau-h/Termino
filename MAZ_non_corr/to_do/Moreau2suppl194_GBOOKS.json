@@ -1,0 +1,136 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers/prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Stances sur le départ de monseigneur le premier\n                    président, garde des sceaux de France.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:0000000",
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "s.i"
+    },
+    "texte": [
+        [
+            "Ap olen",
+            "Sraors",
+            "SV R",
+            "MONSEIGNEVR",
+            "LE PREMIERPRESIDENT,",
+            "e",
+            "srerat",
+            "A PARIS,",
+            "’ar Arone Est i n , Premier Imprimeur",
+            "Libraire ordinaire du Roy,",
+            "eeetee-ee¬",
+            "au College Royal, deuant S. Benoit.",
+            "M. DC. LII."
+        ],
+        [
+            "1",
+            "e",
+            "1",
+            "1",
+            "t",
+            ", iû",
+            "..",
+            "neen",
+            "s¬",
+            "onaGooge"
+        ],
+        [
+            "seAi&amp;ee l titea1",
+            "S",
+            "S e?",
+            "epe’eeFit ieptette",
+            "STANCES",
+            "SVR LE DEPART DE MONS EI GN EVR",
+            "LE prEEr PrREsDENT, GARDE",
+            "des Seaux de France.",
+            "t yE Palſeinue de e Flamdean,.",
+            "&amp;l Qui duiriorad Smar iluminoit ant d’ames,",
+            "Nous dérole de flammes,",
+            "Et qu’elle met d’esfprits dans le iombeau!",
+            "quelle va cauſer d’inquietude:",
+            "Qe tons les bons Franois la plaindront àgenoux;",
+            "Et que cét Hyuer ſera rude,",
+            "Pus qu’vn aure Soleil ſe retire de nous!",
+            "éts",
+            "Ce Minmiſtre ſans paſfſon,",
+            "haſooit tou les curs, commme faiſit liu.",
+            "Et reenoit en bride,",
+            "eux qui endoienmt à la ſedition.",
+            "ous par ſes ſoins viuoient en aſſurance;",
+            "ldnanudit au Roy lun ſes plun dauprope.",
+            "e lanmour pourt lFane.",
+            "Et onſermoit au Ry l’amourde ſes Subjes."
+        ],
+        [
+            "éêta",
+            "Non! Franç̧ois vous ſerez contents,",
+            "Et gouſtereZ dans peu, les fruicts de cre abſence:",
+            "Vn Dieu pair ſa puiſſance,",
+            "Apres l’Hyuer vous rendra le Printemps.",
+            "Que vos efprits taſchent à ſe reſoudre.",
+            "Bien toſt des mainms de Mars, ſes onſeils plus qu’hu",
+            "Feront tomber la foudre,",
+            "Et puis il reiendra l’Oliue dans les mains.",
+            "¬",
+            "1",
+            "Es Vertus Heroiques de Monſeigneur lel",
+            "LL. Preſident Garde des Seaux de France, brille",
+            "tant de ſplendeur &amp; de gloire, qu’elles ne ſont p",
+            "l’ornement de la veritable Hiſtoire, que l’appt",
+            "ſaire du bon-heur &amp; du repos de ceſte Monarcl",
+            "pourquoy n’y ayant perſonne qui ne doiue pre",
+            "tant de part à ſes intereſts particuliers, qu’à ſe",
+            "veilles &amp; trauaux pour le bien de IEſtat, j’ay",
+            "choſe aggreable au public, de luy donner ces t",
+            "ces, compoſees par vn des plus celebres Auth",
+            "temps, qui par les Poënes Heroïques qu’il a",
+            "Triomphes de LOVIS LE IVS T E que",
+            "uant imprimez, s’eſt deſ-ja immortaliſe luy",
+            "immortaliſant ce Grand Roy.",
+            "A",
+            "EST1",
+            "l",
+            "e2"
+        ]
+    ]
+}

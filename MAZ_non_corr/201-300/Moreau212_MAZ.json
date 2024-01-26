@@ -1,0 +1,94 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté́",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Vin",
+            "Aides (impôt)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant décharge de 58\n          sols 6 deniers sur chacun muid de vin et autres breuvages à l’équipolent, entrans dans la\n          ville et faubourgs de Paris, lu et publié le 15 octobre 1648",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "persName": "France. Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1648",
+                "#text": "1648"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1648-10-16",
+                "#text": "16 octobre 1648"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": "Imprimeurs et libraires ordinaires du roi",
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST DE LA COVR",
+            "DE PARLEMENT.",
+            "PORTANT DESCHARGE",
+            "de cinquante huict ſols ſix deniers ſur",
+            "chaque muid de Vin, &amp; autres Breuua¬",
+            "ges à l’equipolent, entrans dans la Ville",
+            "&amp; Faux-bourgs de Paris.",
+            "Leu &amp; publié le quinziéme iour d’Otosbre mil ſix",
+            "cens quarante-huict.",
+            "A PARIS.",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLVIII.",
+            "Auec Priuilege de ſa Majeſté́."
+        ],
+        [
+            "Oſficiers du Roy, tenir la main à l’Execution du",
+            "preſent Arreſt Ordonne qu’à la diligence du Pro¬",
+            "cureur general, il ſera leu, publié &amp; affichépar tous",
+            "les Carrefours de cette Ville &amp; Faux-bourgs, &amp;",
+            "par tout ailleurs que beſoin ſera, à ce qu’aucun",
+            "n’en pretende cauſe d’ignorance. Fait en Parle¬",
+            "ment le quatorzieſme Octobre mil ſix cens qua¬",
+            "rante-huict. Signé, GVYET.",
+            "7 r E ¬",
+            "J E leudy quiniéme iour d’Olobre mil ſix cens",
+            "Lquarante-huit, lArreſt cy-deſſus de Noſſeigneurs",
+            "de la Cour de Parlement, a eſté leu &amp; publié à ſon de",
+            "Trompe &amp; Cry publie, tant en Place de Gréue, Pore",
+            "au Vin, qu’en toures les Portes &amp; Entrées de cette",
+            "V’ille &amp; Faux-bourgs de Paris, &amp; auſſi aux Carre¬",
+            "fours &amp; Places publiques de cettedite Ville &amp; aux¬",
+            "bourgs, par moy Iean Ioßier, luré́ Crieur ordinaire du",
+            "Roy en l Vide, Preuoſté &amp; Vicomté de Peris, en la",
+            "preſence de Maiſtres Adrien Moreau &amp; François de",
+            "Sanlecque, Huißiers en ladite Cour, accompagné de",
+            "trois Trompettes, Iean du Pos, Iacques le Franc, Iurez",
+            "Trompetres du Roy, &amp; d’vn autre Tromperte, com¬",
+            "mis de Didier Ordin, dit Champagme, außi Iuré",
+            "Trompette, &amp; affiché où beſoin a eſté.",
+            "Signé,",
+            "IOSSIER."
+        ]
+    ]
+}

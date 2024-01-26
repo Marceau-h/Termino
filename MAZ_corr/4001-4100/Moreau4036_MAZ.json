@@ -1,0 +1,211 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "lettre",
+            "épigramme",
+            "prophétique"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Paris (France)",
+            "Emprisonnement des\n            princes"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-18",
+            "@who": "AB"
+        },
+        "titre": "Vision miraculeuse d'un hermite, envoyée à monseigneur le\n          prince de Condé, en son dernier logement du bois de Vincennes.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@source": "Mazarine",
+            "@role": "alleged_author",
+            "persName": {
+                "forename": "Antoine de",
+                "surname": "Saint-Onufre"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1650-01-15",
+                "@notAfter": "1650-02-15",
+                "@when": "1650",
+                "#text": "entre la seconde\n            quinzaine de janvier et la première quinzaine de février 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "VISION",
+            "MIRACVLEVSE,",
+            "D'VN HERMITE ENVOYEE",
+            "A Monſeigneur le Pince",
+            "de Condé.",
+            "En ſon dernier logement du Bois de",
+            "Vincennes.",
+            "A PARIS",
+            "M. DC. L,"
+        ],
+        [
+            "3",
+            "VISION",
+            "MIRACVLEVSE",
+            "D’vn Hermite enuoyée à Mon",
+            "ſieur le Prince de Condé.",
+            "En ſon derier logement dis Bois de,",
+            "Vincennes.",
+            "Aetas linre Dene lenſe eue nre e i eſue",
+            "plus du grand monde, &amp; voſtre heureuſe",
+            "retraitte au Bois de Vincennes nous fait voir",
+            "S&amp; uuiourenuy vn Pine deaenu fermite le",
+            "prie Dieu de tout mon eœur que ce ſoit pour",
+            "ſong-temps, &amp; ie penſe que cette demeure",
+            "ne vous ſera pas moins vtile qu’à tout le monde. On dis que la",
+            "flatterie de la Cour vous a gaſté, &amp; ie m’imagine que voas",
+            "eſtes en lieu( ̀ moins que vous ne ſoyez ſans raiſon j oùvous",
+            "pourezeuaporer l’eſprit de ſouuerain &amp; ſi vous traittez du",
+            "A i"
+        ],
+        [
+            "4",
+            "Monarque, ce ne ſera plus que parmy les arbres de voſtre ſol.",
+            "tude, à̀ qui vous commaderez au trauers de vos grilles de fer",
+            "Il y aura grand plaiſir à vous conſiderer en cét eſtat, cependantc",
+            "ſi vous m’en voulez croire, quoy que ie ne ſois qu’vn fimple",
+            "Hermite; cét é́loignement de la Cour vous obligera de ren.",
+            "trer ſouuent en vous meſme, &amp; ce bois ſans vous y promener",
+            "vous tiendra lieu de ce lycée où̀ les Anciens Philoſophes one",
+            "fait des meditations ſi ſçauantes à l’ombre des Ormeaux.",
+            "Souuenez vous s’il vous plaiſt, que vous habitez vn lieu qui",
+            "l’a eſtepar vn geand Prince dont la vertu fur ſoubçonnée, &amp;",
+            "que vous reſpirez l’air de ſesvertusqui y furent autrefois ca",
+            "ptiues &amp; qui en onteſté tiré́es plar le ſecret d’vne pruiden",
+            "e adoable. Souuenez-vous quë-cette illſtre Perſeée vine",
+            "au ſecours d’vne Andromede que vous auiez expoſée à la ra",
+            "ge des monſtres &amp;des Demons.",
+            "le voy que c’eſt icy vn pas bien gliſſant, &amp; de peur d’ou",
+            "urir vne playe qui pour voſtre honneur deuroit eſtre gue",
+            "ie, ie ne vous repreſente cette action que pour vous obliger",
+            "d’en faire penitence. Vous eſtes en lieu propre pour cel f",
+            "vous ſç̧auez profiter de voſtre priſon, &amp; vous accommoder à",
+            "la volonteé de Dieu &amp; aux ordres du Roy voſtre Maiſtre. Vous",
+            "voyez bien, Monſeigneur, que c’eſt là̀ le langage d’vn Anaco",
+            "rette, &amp; non pas celuy d’vn paſſionné, ſi ce n’eſt du ſalur de",
+            "voſtre ame, qui vous doit eſtre plus precieuſe que toutes les",
+            "Couronnes de la terre. Et croyez que tout ce que ie vous ay",
+            "dit iuſques icy, &amp; que tout ce que ie pretens vous dire en ce",
+            "peu de lignes, m’a eſté inſpireé d’en haut par le rencontre d’vn",
+            "bon Ange qui s’eſt monſtré à moy, e forme viſible dans",
+            "mon Deſert de Noſtre Dame de Val-Adam. Ne meſpriſez",
+            "donc pas, s’il vous plaiſt, Monſeigneur, ce qui vous eſt icy",
+            "envoyeé́ de ma part, &amp; vous ſouuenez de ce qui a eſté dit au",
+            "trefois par vn excellent eſprit, que nous deuons receuoir d’auſ",
+            "ſi bonne part ce que nous verſent les moindres Eſtoilles, que",
+            "ce qui nous vient des grandes. Voyla de quelle ſorte ie reſve",
+            "en ma Celulle, &amp; ce que i’ay crû eſtre obligé de vous",
+            "dire."
+        ],
+        [
+            "Peut eſtre que la leçon que ie vous feray eontre l’ambi.",
+            "tion, qui eſt le ſujet de voſtre diſgrace, ne vous ſera pas tonut à̀",
+            "fait inutile, &amp; que quandie vous repreſenteray la fragilité des",
+            "grandeurs du monde &amp; les diuers accidens de la vie, vous y",
+            "rrouuerés de quoy vous conſoler. Ie veux croire qu’il n’en",
+            "ſera pas de vous ce qu’vn bel eſprit qui vid encore, a dit",
+            "des Eſpagnols, Que c’eſt leur couſtume de ne faire pas du",
+            "mal à̀ demy, quand ils le peuuent, &amp; d’eſtre conſtans dans la",
+            "malice, quand ils s’y iertent.",
+            "Toutesfois on m’a ſouuent dit, que vous auiez deſpouilleé",
+            "les Egliſes de ſes plus riches ornemens, que vous auiez violé",
+            "des choſes que les Demons reſpectent, &amp; que le remps n’o",
+            "ſeroit toucher qu’auec crainte. Mais ie laiſſe cetre mariere à̀",
+            "voſtre Confeſſeur, pour vous dire en paſſant, Que ſi vous euſ",
+            "ſiez fait vn peu de reflexion fur ee qui vous a eſteé ́crit,",
+            "la fin d’vne Piece, qui porte pour titre: Diſcours ſur la depu",
+            "ration du Parlement, A Monſieur le Prince de Condé. vous",
+            "euſſiez moderé voſambition, &amp; iamais Prophete n’a par",
+            "lé ſi clairement de ce qui vous vient d’arriuer que cét Au",
+            "theur. Enfin, Monſegneur, il eſt tres conſtant que vous",
+            "auez tres-mal pris vos meſures. Pour éleuer vn baſtiment",
+            "iuſte &amp; ſuperbe. Ce n’eſt pas aſſez d’auoir à ſa diſpoſition des",
+            "foreſts &amp; des carneres, &amp; d’aſſembler vne infinité de mare",
+            "riaux, il faut outre cela la ſçience de l’Architecte &amp; la",
+            "dire.",
+            "ction ilfaar l’induſtre des ouuriers, &amp; leur peine.",
+            "De quoy- ne vus eſtes vous point ſouuenu que l’ambi",
+            "tion eſt ſt pernieiux, qu’elle a fais choir les plus ſublimes",
+            "Intelligehees dü ſejour de ler gloire, au fond des aby ſ",
+            "mes. C’eſt vni feu ardent qui brille durant la nuict de",
+            "l’erreur, pour nous conduire en des precipices.",
+            "Tout ce qu’elle eſtalle à nos yeux, eſt de la nature de ces",
+            "viandes pantes de ce fameux feſtn, qui contentoit les",
+            "yeux en affamant le ventre. Et quand tour ce qu’elle nous",
+            "5 9",
+            "monſtre auroit de la ſolidité, ne ſç̧auez vous pas qu’il en",
+            "eſt de routes ces choſes, comme dit Prothée des Potes. Ne",
+            "vous ſouuenez vous plus que celuy qui treuua la fortune",
+            "B"
+        ],
+        [
+            "l",
+            "6",
+            "̀ ſa porte qui demandoit à̀ loger, ne treuua point de clou",
+            "pour attacher ſà roue Si vous auie eſté ſage vous n’au",
+            "riez point cherché auec tant d’empreſſement ’vne couron",
+            "Ee, &amp; toucefois quelques vns diſent, que vous en auez de",
+            "iré deux. C’eſtoit buën aſſez de vous contenter des hon.",
+            "peurs qui ſont deus à voſtte naſſance, &amp; des tiires que",
+            "ous vous ecſtes acquis, vous reſouuenant du, Von plus vln",
+            "u grand Hercule. Mais ie voy bien que ous auez uoula",
+            "miter les auareieun qui au ſenriment d’ao bon eeriuan ſen",
+            "oit aſe combien ils ont de reſors, &amp; tourefois ils ſont en",
+            "des peines continuelles pour en aceroiſtre le nombre. I’auroi,",
+            "iy ſans doure vne ample mauiere à vous entretenir lonr",
+            "emps, mais la cloche ’aduertie d’aller à veſpres, &amp; l’eſpee",
+            "ou fnorer vne aurefois la ſairre de ce diſeoun que ienay",
+            "poin encore coucheé ſur le papier.",
+            "MONSEIGNEVR,",
+            "J re mmdu Erulear an Eſe",
+            "Al co, i umna",
+            "Oge ermale ade oſe",
+            "aſ",
+            "1 Dae ade a-Aada, as",
+            "e ret e .",
+            "1"
+        ],
+        [
+            "tQe s, epehh,A&amp; h,8",
+            "d e e el ſſede deeeide iſ",
+            "A MONSIEVR LE PRINCE DE CONDE",
+            "Au Bois de Vincenne. giſt en cet appartemenm",
+            "u Guerrier qui peut eſtre en rage;",
+            "Mais ſi l’on prerend quil ſoit ſege,",
+            "Il faut qu’il demeure en la cage",
+            "Iaſques au iour du Iugemen."
+        ]
+    ]
+}

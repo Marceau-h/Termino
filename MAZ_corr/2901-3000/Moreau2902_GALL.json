@@ -1,0 +1,61 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "subject": "Emprisonnement des\n            Princes",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1650-01-18",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-06-21",
+            "@who": "AB"
+        },
+        "titre": "Les promesses du prince de Condé.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "Sans date",
+            "#text": "Sans date"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "1"
+    },
+    "texte": [
+        [
+            "LES",
+            "PROMESSES",
+            "DV",
+            "PRINCE DE CONDE",
+            "POur calmer l'Eſtat de mon Roy",
+            "S'il me mettoit hors de Vincennes",
+            "J'épuiſerois toutes mes veines",
+            "Ruiſſeler du ſang à outrance,",
+            "Tirant de l’Eſpagne raiſon",
+            "Des torts qu'elle a faits à la France",
+            "Depuis le iour de ma priſon",
+            "Et par vne Paix aſſeurée",
+            "L’honneur, la Fortune, &amp; les Loix",
+            "Dans le Royaume des François",
+            "Quant à la Ville Capitale,",
+            "Aux Frondeurs, &amp; à leur Caballe",
+            "Ie puiſſe auoir le col caſſé",
+            "Si ie n'oublie le paſſé",
+            "Et ſi ie ne faits par tendreſſe",
+            "Grand bien au peuple &amp; grand' careſſe"
+        ]
+    ]
+}

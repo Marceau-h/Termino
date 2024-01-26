@@ -1,0 +1,169 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Confession (la) générale de Jules Mazarin, sur\n                    tous les crimes par lui commis contre le pape et tous les princes\n                    chrétiens.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LA",
+            "CONFESSION",
+            "GENERALE",
+            "DE IVLLE",
+            "MAZARIN",
+            "SVR TOVS LES CRIMES",
+            "parluy commis contre lePAPE,",
+            "&amp;tous les Princes Chreſtiens.",
+            "12",
+            "APAR1S",
+            "M D XL"
+        ],
+        [
+            "sl,",
+            "’ee’&amp;tp",
+            "v A",
+            "er r¬, a r",
+            "CONFESSHON",
+            "’ ENER ALE",
+            "S",
+            "4 a ’r",
+            "1 TrT",
+            "D ILL’MAAINl",
+            "e¬",
+            "J eeuee a eajnt ee if",
+            "ns nopa",
+            "toot aiſſagt.",
+            "VA eolroiceler eEee ee",
+            "Marie.",
+            "Se, changa. l A&amp;euel ue oan.",
+            "AS. Iean apſte. 5 A . le Priacede Conde.",
+            "AuA ben-bepneux Apo- e - bonfiex de la Mellerye,",
+            "rés, S Piére &amp; S, aul.j au Chanceler.",
+            "tous leSaints. Aous les Monopoleu",
+            "En penſées.",
+            "En paroles.",
+            "En œuures..",
+            "Parcs qee ’ay trop pech.",
+            "Touſiours.",
+            "Ordinairement.",
+            "CTant que i’ay pe..",
+            "D’oa ie dis nma coaſpe.",
+            "C’eſt pourquoy ie prie laj C’eſt pourquoy ie prie l",
+            "bien-heureuſe Vierge aarie. Reyne mere.",
+            "S. Michel Arange. M proteur.",
+            "S. Iean Bapſte A Ma Adoeat.",
+            "-golien-peaur oum Aopoſtres es ſuppoſts¬",
+            "S Pierre &amp;S aul¬",
+            "Tous les Snls, edrier Tu lesnonopoleurs, d’iu¬",
+            "our moy.",
+            "terceder pour moy.",
+            "Noſtre Seigneur.",
+            "uoe ua ſdine poer nree",
+            "l ie ne ſçay où en ſeureteé."
+        ],
+        [
+            "!",
+            ". e derni-ire Cbfſioe ePda beree.",
+            "Depais etemps i’ay beaacoap peche.,",
+            "’niſeoneurs eſoant valee oaue iay ouigne beaucop",
+            "d’argenten pipant arjeu.",
+            "eaerPlaiſrsl’uay gouſte tores ſoroes devohpe",
+            "deſhoneſtes.",
+            "’’Ipg oulePpe,lmpereur, le oy d’Eſane, &amp;",
+            "le Due de Sauye",
+            "ay ompéfaaimeté, &amp; rahy les rois aures.",
+            "Pmu que ie ſaus Cardinal liay peeſle eanre le oy de Fra¬¬",
+            "eofueraf edes cooe ſ aieſdte, apte en",
+            "auoir eceu des bien-faits tres-paeeulie,",
+            "a domanual l epmne ere de pernieur eonſeails¬",
+            "e ealan eſlſe e oue ſion ſlopumne u oe qeuad de",
+            "Aean-eauitſes lnſieſe leu pa t u",
+            "Conre ’Efat.",
+            "lureetele pe r ne puaumoainrmp-o¬",
+            "Rane oue le oyau ¬",
+            "Et empeſodbant ecaamde apatx",
+            "Cure leas Proaces¬",
+            "En accaſant les Princes fauſſemen.",
+            "OContre les Magiffrar.",
+            "reſſant des pieges au Tureur du Roy,",
+            "Cotre le Peaple.",
+            "En rauiſant ſon bien.",
+            "Eu mettanr rou, les iours de noaueaux impoſts.",
+            "Conmre- l Republdqe.",
+            "Troublant le repos publie.",
+            "la doae pour aneomys, le Pape, l’Empereur, &amp; deus Roy,",
+            "puſeurs Pmoes, es Pouineesoues emieres, des viles,",
+            "des agiſtrats, &amp; des Peuples."
+        ],
+        [
+            "Les Eccleſiaſiques ſont contre moy, auſſi bien que la No¬",
+            "bleſſe, &amp; le Tiers-eſtat.",
+            "Qui voudra me receuoir, e ſuis hay donchaeun, eane",
+            "Vnvalet, trompêur;&amp;olupeuex.",
+            "Vn homme trompeur, ambitieuyx &amp; traiſtre.",
+            "Vn Cardinal erompeur, voluptueux, craitre &amp; voleu.",
+            "aSicile m’a engendré, mais ele ne m’agueenoan",
+            "L’Efpagne m eognu, ms ellhem’apas retonu.¬",
+            "La France ma regeneré, nourty, cognu, &amp; retenu.",
+            "E Jtalie i’ay paru trompeur, &amp; volupueux.",
+            "En Eſpagné traiſtre..",
+            "’Ee en France i’uy faie le meſtier de rompear, de vobpaeux,",
+            "de traiſtre &amp; devoleur.",
+            "En Italie i’ay eſté cerf.",
+            "En Eſpagne on ma vea libre.",
+            "mMais en France ie ne ſçay ſi ie ſuis dans leſclauage, an dans ls",
+            "liberté.",
+            "Enfin l’Italie ne m’a pas enrichy.",
+            "I’ay gaigné quelque choſeen Eſpagne.",
+            "mais iejme ſuis tellement ſoulé daus la France, qu’il a’yapodins",
+            "de porte aſſez grande pourme lure paſg;.",
+            "C’eſt pouqur le vo en quilme ſer mounr ou degor.",
+            "Et apres cela, la ported’Enfer me feéra ouuerte.",
+            "...",
+            "¬",
+            "LL"
+        ]
+    ]
+}

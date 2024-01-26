@@ -1,0 +1,166 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "discours adressé",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Les admirables sentiments d’une fille villageoise envoyée\n          à monsieur le prince de Condé touchant le parti qu’il doit prendre.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000062449891",
+            "persName": {
+                "forename": "Charlotte",
+                "surname": "Hénault",
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "C. H."
+                }
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000108989536",
+            "@xml:id": "IL_HenaultJean.xml",
+            "persName": {
+                "forename": "Jean",
+                "surname": "Hénault"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LES",
+            "ADMIRABLES",
+            "SENTIMENTS",
+            "D'VNE FILLE",
+            "VILLAGEOISE:",
+            "Enuoyez à Monſieur",
+            "le Prince",
+            "de Condé, touchant le party",
+            "qu'il doit prendre.",
+            "<figure",
+            "type=\"decoration\" />",
+            "A PARIS,",
+            "Chez",
+            "IEAN HENAVLT.",
+            "M.DC XLVIIII."
+        ],
+        [
+            "j 1",
+            "1 „’,",
+            "2 1  d . 8  .",
+            ":  aa",
+            "i:. om  !i",
+            ". . l. .  ir ..¬ <pb",
+            "n=\"3\" />",
+            "3  tptpp? LES ADMIRABLE5 ſentiments d’vne",
+            "filleV’illageoiſe, enuoyez  Monfiear le Prince de Condé, touchant de party",
+            "qu’il doit prendre. oNsEGNEv. Ie m’eſtonne fort de ceſte grande bonté qui ous",
+            "engage ſi facilement à eſpouſer vn mal heureux party eoncté pour",
+            "la ruine de voſtee patrie, qui n’a iamais eu que trop d’amour pour vous, &amp;",
+            "que neantmoins Voſtre-Alteſſ abandonae, pour ſuiure vne perſonne qui a conſpiré",
+            "voſtre perte, &amp; celle du public, vos incereſts aſtantsſi inſeparablement attachez",
+            "aux noſtres, qu’il ne peut rien entreprendre contre Voſtre-Aſteſſe, qu’il",
+            "n’entreprene contre nous, comme eſtant noſtre fupport enuers nos enne <lb rend=\"¬\"",
+            "break=\"no\" />mis. Rocroy en eſt vne des premieres marques que vous auez rendu à la",
+            "Ftance, par voſtre"
+        ],
+        [
+            "4. Eras indomptable, &amp; par vos gemereux",
+            "explqits le ne m’arreſteray pas icy à publier yoſtre ya <lb",
+            "rend=\"¬\" break=\"no\" />leur, elle eſt aſſez cogneüe. Et outre ce, elle çpone iendroit",
+            "des volumeés entiers les preſſes ayanej depuis long-temps roulé pour en laiſſer les. memoires",
+            "àla poſterité: Né les terniſſez pas, Monſeigneur, pour ſeruir d’aſile au crime du. plus",
+            "meſchant des mortels.. Ce ſeroit pro diguer les forces inuincibles",
+            "de voſtre bras, que de l’employer aà ſouſtenir la tyrannie, dont il s’eſt ſeruy",
+            "depuis ſix années qu’il gouuejne, l’Eſtat, &amp; aprés auoir eſte la ſangſue de la",
+            "plus pure ſubſtance de nos veines, il a couronné ſes vols de l’enleuement de",
+            "noſtre Roy qui eſtoile ſeul threſor dont nous pouuions eſtre riches dans nos",
+            "diſettes. Ie m’aſſure qu’il s’eſt ſeruy de char mes ou de quelque",
+            "enchantemẽt pour vousfaire.  contribuer à̀ ſes peniie deſſeins, que. vous fuiuez,",
+            "ce ſemble, auec vne aueugle honté́,. puis. que vſant de cyrannie, Voſtre-Alteſſe:",
+            "conſpire. auec luy, à mal- traiter des pauures perſonnes, qui auoient deſia",
+            "tant ſouffert: depuis que eeſt. irm pie gouuerne quaſi",
+            "ſouuerainanent’lesi reénes. de noſtre monarchie Il a ourdi les tames.. de",
+            "nos-maux, &amp; voſtre rigueur nous en ient prodir las detniers",
+            "offeCtsCeſſezMonſeigneur, d’employet vos triomphantes mains à ſouſteni lacheute",
+            "de ceſt infame, ſi vous nous auez pre paré t"
+        ],
+        [
+            "paré",
+            "des roſes dans la derniere bataille qui fus celle de Lens, ne nous enfaites pas",
+            "refſentir les eſpines maintenant, puis que c’eſt le ſang des François qui a",
+            "donné le plus bel eéclat à ceſte hau te vertu, &amp; qu’ils ont",
+            "exposé́ leurs vies pour maintenir la qualiteé d’inuincible que vous vous eſte",
+            "acquiſe dans quarre batailles, où vous eſtes demeuré victorieux, &amp; pour",
+            "recompenſe de leurs bonsſeruices vous leuez des troupes eſtran geres,",
+            "pour nous faire la guerre &amp; nous faire en durer des cruautez",
+            "que les barbares auroient horreur de voir. Eſt ce ce que nous deuions eſperer",
+            "d’vn Prince ſi magnanime ? faut il, Monſeigneur que vous ſoiez le ſupport d’vne guerre",
+            "ſi iiuſte, &amp; d’vne entrepriſe ſi barbare, Pourquoy vous proſtituer pour conſeuer",
+            "cet auorton d’Enfer, ie veux dire Mazarin cette ſemence de guerre vniuerſelle? A",
+            "que ie crains, Monſeigneur, que vous ne perdie dans cette rencontre, ce que vous",
+            "auez acquis auec tant de ſueurs, &amp; que l’eſclat de tant d’illuſtres ations",
+            "ne ſoit enfin terny par cette derniere: Pleuſt à Dieu que la ſupplication tres-humble que",
+            "ie vous fais de vous conſeruer, peut eſtre au thorisé par voſtre",
+            "Alteſſe, puis que ce n’et point des-honneur à vn Prince, de receuoir les aduis",
+            "d’vne perſonne moindre que luy, outre qu’il y va du ſalut de la France dont vous eſtes",
+            "B"
+        ],
+        [
+            "5 obligé d’eſpargner le ſang. Vous auez des exem <lb rend=\"¬\"",
+            "break=\"no\" />ples aſſez conſiderables : la mort de Monſieur de Chaſtillon, vous eſt",
+            "vne preuue aſſez euiden rte, &amp; ſi vous vouliez conſiderer",
+            "vuide de paſſion, combien cette mort eſt importante à la France, vous",
+            "apprehenderiez vn ſuccez auſſi funeſte eſtant iournellement dans le meſme hazard. N’enſeueliſſez",
+            "pas le ſang des valeureux Bour bons, dans vn tombeau remply de",
+            "carnage, donnez luy vne ſepulture digne de ſes ayeuls, &amp; ſemblable à̀ celles",
+            "que vos premieres années luy ont fait eſperer. Que peur on iuger de vous, ſinon",
+            "que par vne caprice inconceuable, vous voulez effacer de l’hiſtoire la memoire des",
+            "plus belles actions, que les monuments des anciens Hers nous faſſent admirer,",
+            "pour vous rendre complice du plus vil, &amp; duplus infame de tous les hommes:",
+            "Ne ſouffrez pointque le iugement que l’on die fais d ſra odire oit plus long-temps",
+            "en ſuſpens aà voſtre propre detri ment, &amp; aà celuy d’vn",
+            "million d’ames, qui pa uiſſent ſous cette violence tyrannaique.",
+            "Oſtez à ces eſtrangers ennerais de l’Eſtat, cette folle per ſuaſion,",
+            "&amp; ce dernier refuge qui leur reſte: quit tez Monſeigneur cet",
+            "inſolent auec ſes intentions barbares &amp; crininelles, &amp; laiſſez à la poſteriteé toute",
+            "pure ceſte haute reputation que voſtre va leur s’eſt acquiſe",
+            "partant d’illuſtres iourmées. Ce"
+        ],
+        [
+            "ſont lesveux, &amp; les deſirs que forme",
+            "tous les iours pour ſon Alteſſe, vne ſimple fille Villageoiſe, Iaquelle ſemble",
+            "eſtre inſpirée de Dieu, pour vous aduertit de prendre vn chemin qui vous con <lb",
+            "rend=\"¬\" break=\"no\" />duiſe plus glorieuſement au faiſte de la grandeur, que vos",
+            "heroiques qualitez vous peuuent faire eſperer pardeſſus les Ceſars: &amp; ſi voſtre",
+            "Alteſſe, veut deferer à mon iugement, vous reuienderes à Paris raſſeurer les",
+            "eſprits d’vn peuple, qui ſoupire ſoubs l’apprehenſion de voſtre perte, comme il a",
+            "fait de celle de Monſieur de Chaſtillon. Ce ſont les ſinceres ſentiments de celle qui",
+            "n’a poinat deplus forte paſſion que de paroiſtre Voſtre tres-humble Seruante; &amp;",
+            "ſuiette. C. H."
+        ]
+    ]
+}

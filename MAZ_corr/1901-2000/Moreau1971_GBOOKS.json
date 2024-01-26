@@ -1,0 +1,146 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": "Emprisonnement des\n            Princes",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1650-11-15",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Lettre de messieurs les princes prisonniers au Hâvre\n          présentée à messieurs du Parlement de Paris, les chambres étant assemblées, le 7 décembre\n          1650.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": [
+            {
+                "@ref": "isni:0000000121209573",
+                "persName": {
+                    "forename": "Louis II de Bourbon, prince de",
+                    "surname": "Condé"
+                }
+            },
+            {
+                "@ref": "isni:0000000119302891",
+                "persName": {
+                    "forename": "Armand de Bourbon",
+                    "surname": "Conti"
+                }
+            },
+            {
+                "@ref": "isni:0000000121350921",
+                "persName": {
+                    "forename": "Henri, duc de",
+                    "surname": "Longueville"
+                }
+            }
+        ],
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1650-12",
+                "#text": "décembre 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "143",
+            "s",
+            "E",
+            "1 T’T E",
+            "1L I",
+            "DE MESSIEVRS",
+            "LES PRINCES",
+            "PRISONNIERS AVHAVRE.",
+            "PRESENTEEA MESSIES",
+            "da Parlement de Pand, les Chambreseſlant",
+            "aſſemblées le 7. Decembre 165o.",
+            "2,",
+            "¬¬",
+            "31",
+            "!",
+            ".",
+            "A¬"
+        ],
+        [
+            "3 5",
+            "AA:léu",
+            "pede’’pede",
+            "LETTRE",
+            "DE MESSIEVRS LES PRINCES",
+            "PRISONNIERS VRE,",
+            "Preſentee à Meieurs du Parlement de Paris, les",
+            "Chambres eſtant aſſemblées le7. Decembre6̃5o.",
+            "VlRSSIEVRS,",
+            "Si nous euſſions puû trouuer pluſtoſt moyen, de",
+            "vous adreſſer nos juſtes plaintes, &amp; d’implorer vo",
+            "ſtre Iuſtice, nous n’euſſions pas ſi long-temps atten",
+            "du: Mais la meſme violence qui a fait, que contre",
+            "toutes les formes de Iuſtice, on nous a arreſteés pri",
+            "ſonniers, nous en a abſolument oſté́ tous les moyens.",
+            "Nous n’auons pas veu ſi-toſt la moindre apparence",
+            "de le pouuoir faire, que nous auons donné charge",
+            "à nos proches de vous preſenter Requeſte en noſtre",
+            "nom,&amp; de faire toutes les autres pourſuites neceſſai",
+            "res, ne doutans point, qu’on ne nous oſte à l’auenir,",
+            "comme on a fait par le paſſé, tous les moyens de nous",
+            "pouuoir adreſſer à vous, &amp; de vous faire voir la ſin",
+            "cerité de nos actions, qui n’ont iamais eu pour but,"
+        ],
+        [
+            "4",
+            "4",
+            "que le ſeruice du Roy. Nous eſperons que voſtre",
+            "Compagnie n’abandonnera pas les intereſts des pe",
+            "ſonnes, qui ont l’honneur d’eſtre de la Maiſon Roya",
+            "le, &amp; de voſtre Corps; &amp; quifont aſſés paroiſtre leur",
+            "innaocence, puiſque l’on n’ofe les accuſer, &amp; qu’on",
+            "les mene hors de voſtre reſſort, &amp; en lieu, d’oû̀ ils",
+            "n’auront plus moyen d’auoir recours à vous, &amp; d’ouù̀",
+            "ny vous, ny leurs Majeſtés meſme, ne les pourront l",
+            "pas retirer, quand leurs ennemis ſeront Maiſtres de",
+            "Ia Place où on les mene, comme ils le ſont deſia de",
+            "leurs perſonnes; &amp; où̀ meſme il y a apparence que",
+            "leurs vies ne ſeront pas en ſeureté́. Vous ferés vne",
+            "action digne de vous, en tirant des innocens d’op",
+            "preſſion, &amp; en ne ſouffrant pas qu’on contreuienne",
+            "à vne Declaration que vous aués obtenuë, auec tant",
+            "de Iuſtice, &amp; de gloire; &amp; vous nous obligerés à em",
+            "ployer nos vies &amp; noſtre liberté pour voſfreſeruice,",
+            "&amp; pour vous faire connoiſtre que nous ſommes ve",
+            "ritablement,",
+            "MESSIEVRS,",
+            "Cudboiilie ce .",
+            "Nouembre 65.",
+            "o e",
+            "2",
+            "Vos tres-lumble, &amp; tre",
+            "affectionnez ſeruiteurs,",
+            "LOVIS DE BOVRBON.",
+            "ARMAND DE BOVRBON.",
+            "HENRY D’ORLEANS."
+        ]
+    ]
+}

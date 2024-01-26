@@ -1,0 +1,116 @@
+{
+    "imprimatur": "AVEC PERMISSION.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "De Marchin, Jean Gaspard Ferdinand (1601-1673)",
+            "Désertion"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-07",
+            "@who": "AB"
+        },
+        "titre": "Arrest de la cour et chambre de l'édict de Languedoc,\n          du 13. octobre 1651. sur la desertion de Marsin. Portant inhibitions & defenses à\n          toutes sortes de personnes de quelque qualité & condition qu'ils soient de\n          s'attrouper, assembler, & faire provision & achapt d'armes, ny émouvoir le peuple\n          contre le service du Roy, sur les peines portées par les ordonnances.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": [
+            {
+                "@ref": "viaf:185600913",
+                "@source": "Mazarine",
+                "persName": "France. Chambre de l'édit de Castres"
+            },
+            {
+                "@ref": "viaf:197152636131120050897",
+                "@source": "Mazarine",
+                "persName": {
+                    "forename": "Nicolas de",
+                    "surname": "Saintot"
+                }
+            }
+        ],
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1651-10-25",
+                "#text": "25 octobre 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": {
+                "forename": "Daniel",
+                "surname": "Le Febre"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE LA COVR",
+            "ET CHAMBRE DE L’EDICT",
+            "DE LANGVEDOC,",
+            "Du 13. Octobre 1651. ſur la deſertion de Marſin.",
+            "Portant inhibitions &amp; defenſes à toutes ſortes de",
+            "perſonnes de quelque qualité &amp; condition qu’ils",
+            "ſoient de s’attrouper, aſſembler, &amp; faire pro",
+            "uiſion &amp; achapt d’armes,nyémouuoirlepeuple",
+            "contre le ſeruice du Roy, ſur les peines portées",
+            "par les Ordonnances.",
+            "A PARIS,",
+            "Chez DANIEL LE FEBRE Marchand Libraire.",
+            "M. DC. L",
+            "AVEC PERMISSION."
+        ],
+        [
+            "dition qu’ils ſoient, de faire auecunes aſſemblées &amp;",
+            "pratiques contraires au ſeruice du Roy, acherer armes",
+            "contre l’exprés commandement de ſa Maieſté, é",
+            "mouuoir les peuples du reſſort d’icelle; &amp; qu’il ſera",
+            "informé inceſſamment à la diligence des Gens du",
+            "Roy, contre tous ceux qui contreuiendront au pre",
+            "ſent Arreſt, &amp; pareillement contre tous les Gentils",
+            "hommes &amp; autres qui ont preſté ayde, &amp; donné aſſi",
+            "ſtance au paſſage dudit Marſin, &amp; des troupes qui",
+            "ont deſerté l’armé́e de Catalogne, pour les informa",
+            "tions rapporté́es eſtre ordonné ce qu’il appartiendra.",
+            "Ordonne neantmoins ladite Cour, que deux Con",
+            "ſeillers en icelle ſe tranſporteront en la ville de Mon",
+            "tauban, &amp; autres Villes &amp; lieux où beſoin ſera, pour",
+            "affermir leſdites Villes &amp; lieux en l’obeyſſance du",
+            "Roy, contenir les peuples à leur deuoir, &amp; faire &amp;",
+            "parfaire le proceés aux contreuenans; enioignant à",
+            "tous Gentilshommes, Conſuls &amp; autres ſubiets de ſa",
+            "Maieſté, donner ayde &amp; main forte à l’execution du",
+            "preſent Arreſt, duquel les Gens du Roy enuoy eont",
+            "extrait aà leurs Subſtituts ſur les lieux, afin que ceux",
+            "qui ſont dureſſort d’icelle n’en pretendent cauſe d’i",
+            "gnorance, &amp; du deuoir qu’ils y auront apporté certi",
+            "fient la Cour au mois. Prononcé à Caſtres en ladite",
+            "Chambre le ;. Octobre i65.",
+            "Signé, YsARN."
+        ]
+    ]
+}

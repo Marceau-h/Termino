@@ -1,0 +1,181 @@
+{
+    "imprimatur": "AVEC PERMISSION",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-01-30",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-07-18",
+            "@who": "ZC"
+        },
+        "titre": "La royauté de Charles second , roi de la Grand' Bretagne,\n          etc., reconnue au parlement d'Écosse et proclamée par tout le royaume, envoyée à la reine\n          d'Angleterre, traduit fidèlementdes placars et affiches publiques, imprimées à Édimbourg,\n          le 15 février 1649.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": [
+            {
+                "@ref": "isni:0000000417553410",
+                "orgName": "Parlement d'Écosse"
+            },
+            {
+                "persName": {
+                    "forename": "Guillaume",
+                    "surname": "Scot"
+                }
+            }
+        ],
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1649-02-15",
+                "@when": "1649",
+                "#text": "mention du 15 février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121237136",
+            "@xml:id": "IL_CoulonVeuvedAntoine.xml",
+            "persName": {
+                "forename": "(veuve d'Antoine)",
+                "surname": "Coulon"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "LA",
+            "ROYAVTE",
+            "DE",
+            "CHARLES SECOND",
+            "ROY DE LA GRAND’",
+            "BRETAGNE. &amp;c",
+            "Reconnuë au Parlement d’Ecoſſe, &amp;c",
+            "proclamée par tout le Royaume.",
+            "ENVOYEE A LA REINE",
+            "D'ANGLETERRE",
+            "Traduit fidelement des Placars &amp; Affiches publiques, imprimées",
+            "à Edimbourg le 15 Feurier 1649.",
+            "A PARIS,",
+            "Chez la veufue d'ANTOINE COVLON,",
+            "ruë d'Ecoſſe, aux trois Cramailleres.",
+            "M. DC. XLIX.",
+            "AVEC PERMISSION"
+        ],
+        [
+            "3",
+            "LA ROYAVTE DE",
+            "Charles ſecond, Roy de la",
+            "CGrand’Bretagne, &amp;e. Recon",
+            "nue au Parlement d’Ecoſſe",
+            "&amp; proclamée par tout le Roy",
+            "aume.",
+            "A EDIMBOVRG",
+            "1",
+            "le Fevrier 2649.",
+            "DIE. SAVVE LE ROY.",
+            "QeE S Eſtas de Parlement",
+            "é maintenant aſſemblez, en",
+            "cete deunléme Sance du",
+            "g ſecond’Parlement Triennal,",
+            "vartu d’vn Aete du Commiré des"
+        ],
+        [
+            "4",
+            "Eſtats, ayant pouuoir &amp; authorit́ du",
+            "dernier Parlement, de conuoquer le Par",
+            "lement, conſiderans que le Roy n’ague",
+            "res Regnant a eſté emporté par vne",
+            "mort violente, contre le deſſein &amp; la",
+            "proteſtation de cé Royaume; &amp; que",
+            "lr elibeoelnieieſedieie",
+            "legitime, c’eſt à̀ ſç̧auoir CHARLES",
+            "PRINCE DECOSSE ETDEGA",
+            "LES, maintenant Roy de la Grand’Bre",
+            "tagne, &amp;c. Pour ces cauſes, NVS",
+            "les Eſtats de Parlement du Royaume",
+            "dBcofſ, trs-vnnimemẽ, ec vne",
+            "extréme joye en reconoiſſance de foa",
+            "juſte droit, cdre, &amp; fuccefſion à la Cou",
+            "ronne de ces Royaumes, par ces preſen",
+            "tes publions &amp; declarons à tout le mon",
+            "de, queledit Seigneur &amp; Prince CHAR",
+            "IL S’ſt pſda Prouidence deDIEV,",
+            "&amp; par le droît legitime de ſucceſſion",
+            "&amp; deſeente- iadubltable, Roy de a",
+            "Grand’BR ET AGNE, &amp;e. Et que",
+            "tous les Sujets de ce Royaume ſont",
+            "tenus"
+        ],
+        [
+            "tenus de luy obeir humblement &amp; fide",
+            "lement, &amp; de le maintenir &amp; defendre",
+            "de leurs vies &amp; de leurs biens, contre",
+            "tous &amp; enuors tous, comme leur ſeul &amp;",
+            "juſte Souuerain, Seigneur &amp; Roy, ſui",
+            "uant le Conuenant National &amp; la Ligue",
+            "&amp; Alliance ſolennelle, faite entre les",
+            "deux Royaumes. Et d’autant que Sa",
+            "Majeſté eſt obligée par la Loy de DIEV",
+            "&amp; par lesLoix fondamenrales de cefoy",
+            "aume, de regner en juſtice &amp; eqté́, à",
+            "lhonneur de DIEV, au bien de la Reli",
+            "gion, &amp; à l’auantage de ſon Peuple,",
+            "NOVS d-clarons par ces preſentes,",
+            "qu’auant que d’eſtre admis à l’exercice de",
+            "ſon authorité Royale, il donnera ſatis",
+            "faction à ce Royaume en ce qui concer",
+            "ne laſeureté de la Religion, l’vnion enrre",
+            "les deux Royaumes, &amp; le bien &amp; lapaix",
+            "de ce Royaume, ſuiuant le Conuenant",
+            "National &amp; la Ligue &amp; Alliance ſolen",
+            "nelles Auſquelles fins NOVS auons re",
+            "ſolu de NOVS adreſſer à Sa Majeſté le",
+            "plus pramptement qu’il Nous ſera po¬"
+        ],
+        [
+            "6",
+            "Aſible, en toute humiité &amp; ſincerité En",
+            "témoignage de toutes leſquelles choſes,",
+            "NOVS le Parlement du oyaume d’E",
+            "coſſe, publions à la Croix du Marché",
+            "dEDIMBOVRG, auec toutes les ſo",
+            "lennitez accoûtumeées en pareils cas, cet",
+            "te nôtre deuë reconnoiſſance de ſon",
+            "juſte droit, titre, &amp; ſucceſſion à laCou",
+            "ronne deces Royaumes; Et ordonnons",
+            "que ſon Royal nom, effigie, &amp; ſeau ſe",
+            "ront appoſez aux Ecritures publiques &amp;",
+            "juridiques de ce Royaume, &amp; à la Mon",
+            "noye, comme il s’eſt pratiqué d’ordi",
+            "naire enuers ſes Royaux Predeceſſeurs.",
+            "Et enjoignons que cét Acte ſoit pro",
+            "clamé en toutes les Croix des Marchez",
+            "des Villes Royales de ce Royaume, &amp;",
+            "qu’il ſoit imprimé, afin qu’aucun n’en",
+            "pretende cauſe dignorance.",
+            "DIEV SAVVE LE RoY",
+            "CHARLS SCOND.",
+            "GVILLAVME ScoT",
+            "Secretaire da Parlement.i"
+        ]
+    ]
+}

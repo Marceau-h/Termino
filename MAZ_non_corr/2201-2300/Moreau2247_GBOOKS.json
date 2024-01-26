@@ -1,0 +1,208 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1652-04-07",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre latine de la reine de Suède envoyée au Parlement\n          de Paris sur les affaires présentes, translatée de son original en françois.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000112298199",
+            "persName": {
+                "forename": "Christine",
+                "surname": "Suède (De)"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000110403338",
+            "persName": {
+                "forename": "Denys",
+                "surname": "Langlois"
+            }
+        },
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "LE",
+            "LARENE",
+            "DE SV EDE",
+            "l li leie oe l nn",
+            "Tue en o.",
+            "ueeireer"
+        ],
+        [
+            "e",
+            "1",
+            "5 a"
+        ],
+        [
+            "re",
+            "é",
+            "e",
+            "INCLYT0 SENATVI,",
+            "SIVE",
+            "PARLAMENTO PARISIENSI.",
+            "CHRISTINA DEI GRATIA",
+            "Suecorum, Gothorum, Vvandalorumque",
+            "egina, agna Peineeps Finlandies Du",
+            "Eſonie, Ponmeraniae, Caſubiae e Pin",
+            "eep Ruſiz, Neenon Domina ugrie, &amp;",
+            "Viſmariæ, Pacis Conſilia &amp; Gaudere.",
+            "LLVSTRISSME SENA",
+            "epp ltſs u e derus, pan pnſ",
+            "fſl uem Rgni CGauia faun nobus ot",
+            "EdlPdele piene e eren der",
+            "H ebarreſcanmu enm n tanta diſori",
+            "mine verſari ine ligees, Eimoerò preterqam"
+        ],
+        [
+            "4",
+            "quod ibi inteſtinis moribus agitantur onnia, ex",
+            "ternum hoſtem in viſcera accium audimus, qui",
+            "Regni fores omnium vicinaram gentium odio, pre",
+            "daque aperiat. Hac, alique eiauſdem genmeris,",
+            "menti non minoris, affectunm noſtram atque ani¬",
+            "omm occupant ? conturbant. Et quamquam",
+            "haud libenter Nos in res ac regimen alorms Re",
+            "gnorum ingeraimus, neque dubitenmu quin jquos",
+            "hiſce malis implicari contingit, ea omnmia ſ",
+            "te amaplectantur que ad extinguenmdm funeſîti",
+            "illius Belli Ciuilis incendium &amp; fomitem, tran",
+            "quildandamque Galliam facere poſſunt; Otioſe",
+            "tamen in tanro communi periclo coſiftere no",
+            "mas: V’erua intuita ſalutis public S’ muteil",
+            "lius Amicitia, fderiſque quod vtraqae hec Regn",
+            "coiangit, offſej oſtri eſſe dainoos mediationem",
+            "osfram ad tenmtasndas inte partes diſſidentes Con",
+            "cord vias benmeuolo affecfu offerre: Atque vt",
+            "inclytumns Cœtam veſtrum, Authoritate &amp; Gr",
+            "ti in Patria veſtra plunimsm poſſe nmouimus; De",
+            "nique ita vos affectos eſſe, vt ſalus &amp; tranquilli",
+            "tas eiuſdens Cordi ſit ac Conflis veftris; Ita",
+            "ſngulari de vobis anmimi noſtri aſtimatione conf",
+            "dims, nibil per vas, qantaum in vobis eſt, inm",
+            "pedimenti fore, qaomoios Inteſtin Pacis inemitur",
+            "Con¬"
+        ],
+        [
+            "1",
+            "Conſilia, qus Rei Columina pullie conſirment.",
+            "Ergo quicquid pro Gallia felicitate opers noſtre",
+            "afere poerimus, &amp; offerimus &amp; pol cemar; ſi",
+            "modo mediationis offia que ad concilandas diſ",
+            "cordes partes obtulims, grata eſſe atque accepta",
+            "renfetus; qu dum ſuo tempore expefanous,",
+            "Deunm precamur vt vas tueatur incolumes, Chri",
+            "fianiſfmi Regis, patriaque Veſtra bono. Daba",
+            "musin Regia noſtra Stocholmenſi. Idus April.",
+            "15.",
+            "CHRISTINA",
+            "Parlameato Pariſieaf"
+        ],
+        [
+            "esaa",
+            "&amp;e elee",
+            "eft",
+            "o:",
+            "lS",
+            "ea",
+            "AV",
+            "TRES-NOBLE SENA",
+            "E1",
+            "PARLEMENT DE PAR1S.",
+            "CHRSTINE PAR LA GRAC",
+            "’ oit feue de Sude, des Cons ee",
+            "Vundls, Souuerains de Fnlanmde, D.",
+            "e e uernnie, diſiae os Plnnse",
+            "el naſnie, Dauns dr’lgrre dl pijſnn",
+            "Souhlaite ds conſeil de Paie, &amp; la loye qu",
+            "les ſuit.",
+            "e6",
+            "d li",
+            "e",
+            "s",
+            "1 RES-ILLVSTRE ASSEM",
+            "SLEt, Quand nous conſi",
+            "derons auec attention l’Eſtat",
+            "preſent du Royaume de Fra",
+            "ee, Certaine horreur nouſur",
+            "prend à l’aſpet du danger eui",
+            "dent auquel nous la voyons expoſée, non ſeu."
+        ],
+        [
+            "lement à raiſondes mouuements internes dont",
+            "il eſt agité, mais principalement, en ce que l’En",
+            "nemy Eſtranger appellé au dedãs de ſes entrail",
+            "les ſemble en auoir ouuert la porte à la hayne &amp;",
+            "à la proye de toutes les Nations voiſines. Tou",
+            "tes ces choſes &amp; leurs cõſequences nous paſſent",
+            "dans la penſée, &amp; attriſtent nos affections. Et",
+            "combien que nous ne nous ingerions pas volon",
+            "tier dans la conduite ny és aftaires des autres",
+            "Courones, &amp; que nous ne doutions pas que",
+            "ceux qui ſont intereſſez dans ces Calamitez pu",
+            "bliques, n’embraſſent &amp; ne recherchent d’eux",
+            "meſmes toutes les voyes par leſquelles on peut",
+            "éteindre ce funeſte incendie de Guerre Ciuilc",
+            "iuſques dans ſon foüyer &amp; mettre la France",
+            "en Paix: Nous ne vulon6 pas pourtant. de",
+            "meurer oiſiues dans vn peril ſi évident, que",
+            "nous eſtimons commun; C’eſt pourquoy ayant",
+            "égarda ſalppubli, &amp; aà cette amitié &amp; Al",
+            "lance reciproque, qui érraint ces deux Royau",
+            "nes; Nous auons iugé faire deuoir d’Amie &amp;",
+            "d’Alliée, de faire offre de noſtre Entremiſe,",
+            "pour tacher à trouuer les chemins d’vn bon",
+            "accord entre les Partis animez: Et comme",
+            "nous n’ignorons pas le credit &amp; l’Authorité de"
+        ],
+        [
+            "voſtre Illuſtre Corps dans le Royaume, &amp; que",
+            "toutes vos Deliberations ne veillent que pour",
+            "ſon ſalut &amp; ſa tranquilité: Auſſi dans l’eſtime",
+            "parriculiere que nous faiſons de tant de ſages",
+            "Teſtes qui le compoſent, nous eſperons que",
+            "vous n’apporterez aueun empê̂chement à la",
+            "Paix Ciuile, qui doit eſftre l’aſſeurance de tout",
+            "l’Eſtar. Nouis offrons donc &amp; promettons d’ap",
+            "porter tout oe qui dépend de nous paur le Bon",
+            "heur de la France, ſi tant eſt que vous nous",
+            "faſſiez ſçauoir que vous auez agreable l’Entre",
+            "miſe que nous auons preſente, dont vous nous",
+            "ferez ſç̧auoir des nouuelles: Cependant nous",
+            "prions Dieu qu’il vous conſerue pour le bien",
+            "de ſa Maieſté tres- Chreſtienne, &amp; celuy du",
+            "Pays. Donné en noſtre Ville Royale de Stoc",
+            "olm le ro. Avril 6a..",
+            "CHRISTINE.",
+            "our de Pardlemonr de ni. ſ",
+            "R",
+            "a,",
+            "L"
+        ]
+    ]
+}

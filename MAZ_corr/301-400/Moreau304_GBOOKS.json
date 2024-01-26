@@ -1,0 +1,190 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "subject": "Mazarin",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, toutes les chambres\n          assemblées, contre le cardinal Mazarin et ses adhérents.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-12",
+                "#text": "décembre 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "A",
+            "I I E 1",
+            "DE LA COVR",
+            "DE PARLEMENT.",
+            "TOVTES LES CHAMBRES ASSEMBLES,",
+            "CONTRE",
+            "LE CARDINALMAZARIN.",
+            "7",
+            "&amp; ſes adherans.",
+            "Du ao. iour de Decembre r65r.",
+            "A PARIS,",
+            "Par les Imprlmeurs &amp; Libraires ordinaires duRoy.",
+            "M. DC. LI.",
+            "812900",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "ſS",
+            "S",
+            "e",
+            "E XTRAICT DES REGISTRES",
+            "de Parlement.",
+            "Eiour la Cour toutes les:",
+            "Chabres aſſemblees, Mon",
+            "ſieur le Duec d’Oorleansy",
+            "leſtant, ayant delibeŕ ſur",
+            "Cſonde la Declaraio du Roy",
+            "earelidelelneene denreon",
+            "uis donne des trouppes leues ſur la",
+            "frontiere de Champagne &amp; Picardie,",
+            "par ledit Cardinal, &amp; de ſon deſſein",
+            "d’entreren France: leture d’vne let-",
+            "tre eſcrite par le ſieur Duc d’Elbœuf",
+            "Gouuerneur pour le Roy en la Pro",
+            "uince de Picardie, &amp; oy ſurce les Gens",
+            "du Roy en leurs concluſionsA arreſté",
+            "&amp; ordonne, que les eputez de ladite",
+            "A ij"
+        ],
+        [
+            "4",
+            "Cour, en execution de l’Arreſt du r3.",
+            "de ce mois &amp; an, partiront inceſſam",
+            "eieieie",
+            "ment pour l’execution d’iceluy, &amp;",
+            "ſe rendront au pluſtoſt vers le Roy",
+            "-la frontiere, ſuiuant les aduis qui en.",
+            "ont eſté receus; &amp; ſupplieront ledit ſei",
+            "gneur Roy décrire àl’Electer deCo",
+            "logne &amp;aux villes duLiege, pour fai",
+            "re ſortir ledit Cardinal Mazarin de",
+            "leursterres &amp; ſeignenries: Que Mon",
+            "fieur le Duc d’Orleans fera pried’en",
+            "uoyerpareillement versledit ſeigneur",
+            "Roy à meſme fin: Et auſſi d’enuoyer",
+            "verle areſchal d’Hoquincuurtau",
+            "tres nuuerneusdes Places fruntie",
+            "s, pour leur donner aduis des’ doſ",
+            "ſeinsdudit Cardinal Mazanm;&amp;des",
+            "delibetifuites en laditeſCour fut",
+            "ceremlapeſenoe dadit ſieome",
+            "d’Orleans:rdonne en outre que au",
+            "cuns des Conſeillers d’iceleſermten",
+            "uoyez eſdiesonincesde Picardie &amp;",
+            "Champagne"
+        ],
+        [
+            "Champagne, pour infonner- &amp; dreſ",
+            "fer procez verbaux dece qui ſe paſſeà",
+            "l’effet du retour dudit Cardinal, &amp; en.",
+            "donner aduis aà ladite Cour: Fait de",
+            "fenſes aux Maires &amp; Eſcheuins des",
+            "Villes de donner paſſage audit Cardi",
+            "nal, ny entreé́e dans leurs villes ou lieu",
+            "d’aſſemblée, à̀ aucunes trouppes, ſans",
+            "Lettres patentes du Roy &amp; attaches",
+            "des Gouuerneurs; Scç̧auoir dudit Duc",
+            "d’Elbeufdans la Picardie, &amp; du Mareſ",
+            "chal de l’Hoſpital dans laChampag;",
+            "Ce faiſant ſeront les Declarations&amp;",
+            "precedens Arreſts donnez contre le",
+            "dit Cardinal&amp; tous ſes adherans, exe",
+            "cute ſelon leur forme &amp; teneur Et",
+            "ſuiuant iceux, faitauſſi defenſes à tous",
+            "Gouuerneurs de Prouinces &amp; autres",
+            "ſubjets du oy de le retirerſes parens,",
+            "&amp; domeſtiques eſtrangers &amp; adhe",
+            "rans, de contreuenir auſdits Arreſts,",
+            "ſur les peines y contenuës, &amp; d’eſtre",
+            "decheus de tdus priuileges dans le",
+            "B"
+        ],
+        [
+            "6",
+            "Royaume. Seront les Iformations &amp;",
+            "Monitoires continuées. aà la requeſte",
+            "dudit Procureur general: &amp; outre in",
+            "formé du voyage fait par le nommé",
+            "Berthet, &amp; commerce fait auec luy",
+            "depuis huict iours, &amp; contse tous au",
+            "tres qui ont commerce auec iceluy",
+            "Cardinal, i&amp; de l’enuoy à luy faitdes",
+            "deniers, circonſtances &amp; dependan",
+            "ces; &amp; ce par les Conſeillers commis,",
+            "&amp; ceux qui ſe tranſporteront eſdites",
+            "Prouinces: Sera le ſieur de Nauadilles",
+            "adiourné à comparoir en perſonne el",
+            "ladite Cour,pour y ſtre oy &amp; inter",
+            "Togéſur lé commete qulil aou auec",
+            "ledl cadinal, &amp; Feſpondre ax Cmn",
+            "cluſions que -ledit Procureu generl",
+            "Vudrà cote uy premdrei pour le",
+            "tout veu &amp; rapprté, ohimuiqé à",
+            "iceluy Procureurgeneraeſtreurdon",
+            "ne ce ql appatindra ddnt ſera",
+            "donmné aduis x utres Panleompes; t",
+            "ſera le preéſnt Areſt leu ubtio&amp;f¬"
+        ],
+        [
+            "fiche ſur leſdites frontieres, &amp; enuoyé",
+            "entous les Bailliages &amp; eneſchauſſées",
+            "du reſſort, &amp; par tout ailleurs que be",
+            "ſoin ſera; à ce que nul n’en pretende",
+            "cauſe d’ignorance. Fait en Parlement",
+            "le vingtiéme Decembre mil ſix cens",
+            "cinquante-vn.",
+            "Signé, DV TILLET.",
+            "Collationné à l’original par my Conmſeiller",
+            "Secretaire du Roy, Caiſon &amp; Couron",
+            "e de France, &amp; de ſes Finances."
+        ]
+    ]
+}

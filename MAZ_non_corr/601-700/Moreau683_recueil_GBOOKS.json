@@ -1,0 +1,110 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Chant royal du siége de Paris, dédié à monseigneur de\n          Beaufort",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-03",
+            "#text": "3 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000061693956",
+            "persName": {
+                "forename": "H.",
+                "surname": "Barrois (De)"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:000000038598758X",
+            "persName": {
+                "forename": "Louis",
+                "surname": "Sevestre"
+            }
+        },
+        "nbPages": "11"
+    },
+    "texte": [
+        [
+            "-aii",
+            "eeree",
+            "CHANT ROYAL",
+            "DV SIEGE DE PARIS.",
+            "DEDIE",
+            "MONSEIGNEVR",
+            "DE",
+            "E D ¬",
+            "BEAVFORT.",
+            "ARGVAENT",
+            "IPline au troiſieſme Liure qu’il a fait des Ele¬",
+            "tnts, dit qu’n fleuue noinmé Braſilis, porte",
+            "es eaues daus la mer ſans les meſler aueeelile",
+            "CHANT ROYAL",
+            "&amp;e Eſoes inuſt mu pain",
+            "lQ oeie eue lelſe e.",
+            "T Paur en eirer quelque elarté,",
+            "Dans cette curiofté,",
+            "e niſens dlnnere ſonnle",
+            "Vyanti auee difſeuld",
+            "u dun ſuns il ner ſ¬",
+            "¬.",
+            "ma¬"
+        ],
+        [
+            "¬",
+            ",",
+            "S",
+            ".",
+            "n floure dans la aoialebe,.",
+            "Roule ſon cyſtal argente,",
+            "Son eau dans l’eſcume prochaine",
+            "ſoiille point fa metere.¬",
+            "Et dans ete proximité,",
+            "12.",
+            "Qioy qu’ele deuſt eſrre meſtée.",
+            "¬",
+            "le eſt far conrariete",
+            "L’eau doce dans la mer ſalée.",
+            "l. l..4.",
+            "C’et vne choſe bien eertaine",
+            "Qu’on ne voit point d’afſniteé,",
+            "a l’eaerre -courserafne",
+            "i cin’eſt en l’midiré!",
+            ".",
+            "Sar pour changer de qualié,",
+            "Ou pour voir ſon omde rronbſee;",
+            "C’eſt e qui n’a imais eſlé",
+            "’eau douce dans l’ mer ſale.",
+            "Paris dais l’immorité,",
+            "En mes vers ſois tuappellee,",
+            "Segee par imporuni",
+            "L’ean douce dms la er ſalee.",
+            "FIN.",
+            "ll eſt permis au Sieur Barois de faire imprimer les",
+            "- eſſus, ar ee defenſes à autres lans la pem¬",
+            "ſion t ce 6 erier",
+            "2g¬¬¬¬¬¬",
+            "2¬",
+            "L"
+        ]
+    ]
+}

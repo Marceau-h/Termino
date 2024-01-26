@@ -1,0 +1,69 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1649-01-26",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Ballade burlesque des partisans",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-03",
+            "#text": "3 juin 2021"
+        },
+        "author": "Anonyme",
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": "Sans Lieu",
+        "publisher": "Sans Nom",
+        "nbPages": "1"
+    },
+    "texte": [
+        [
+            "SiadeeAeeelulseeeluua,",
+            "&amp;eeeſde ed ede e pe &amp;ue deel eeeeee",
+            "ouo o eos ees oo aoo as ss s e&amp;o e eisoeo oeo",
+            "o ee e4e",
+            "Eeeee te et te de dee eeeeeeeeeaeeſreee",
+            "5 ¬",
+            "T n",
+            "AVLESE",
+            "A",
+            "e",
+            "1",
+            "27.",
+            "2",
+            "DES",
+            "A",
+            "IISA",
+            "y 4",
+            "N",
+            "ND¬",
+            "DRelat paſſé nous mettanten eredir,",
+            "Pour s’enrichir ſouffroienôtre malice.",
+            "Prelat paſſant a forgé maint Edit,",
+            "Et pour voller s’eſt frt noſtre complice.",
+            "Bien loin d’auoir quelqué peur du ſüpplice,",
+            "Chacun de nous eu earoſſe doré:",
+            "Et pour ſon or des plus grands honore,",
+            "Oſa bien faire auxMeſſires la nicque.",
+            "Mais ce beau temps n’aura guere duré,",
+            "Iules deloge, adieu donc la boutique.",
+            "¬",
+            "-,.",
+            "a",
+            "A",
+            "¬-Aa"
+        ]
+    ]
+}

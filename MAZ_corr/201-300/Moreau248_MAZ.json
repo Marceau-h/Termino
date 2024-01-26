@@ -1,0 +1,99 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Cramoisy, Sébastien (1584?-1669)",
+            "Forne, Jean-Baptiste (1...-16..)",
+            "Impôts"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, par lequel il est enjoint,\n          à tous les quartiniers de la ville de Paris, de porter ou envoyer ès mains de Sébastien\n          Cramoisy et Jean-Baptiste Forne, toutes les taxes, par eux reçues, et celles qu’ils\n          recevront ci-après des particuliers, habitants de ladite ville.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-02-18",
+                "#text": "daté du 18 février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "Arreſt de la Cour",
+            "DE PARLEMENT.",
+            "PAR LEQVEL ILEST ENIOINT",
+            "à tous les Quartiniers de cette Ville de Paris,",
+            "de porter ou enuoyer és mains de Sebaſtien",
+            "Cramoiſy &amp; Iean Baptiſte Forne, toutes les",
+            "Taxes par eux receüs, &amp; celles qu’ils rece",
+            "uront cy-apres, des Particuliers habitans de",
+            "cettedite Ville.",
+            "Du 18. Féurier mil six cens quarante-neuf.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "EXTRAICT DES REGISTRES",
+            "de Parlement.",
+            "LA Cour, toutes les Chambres af",
+            "À ISA femblécs, À ORDONNE &amp; or-",
+            "1 RS donne à tous les Quartiniers decct-",
+            "te Ville de Paris, porterouenuoyer",
+            "incontinent &amp; fans delay, ce qui refte entre",
+            "leurs mains des Taxes des Trenteliures &amp; Cent",
+            "cinquante liures, &amp; autres Taxes par eux re-",
+            "ceuës des Particuliers habitans de cettedite Vil-",
+            "le: Comme auffi ce qu'ils receuront cy-apres",
+            "_ defdites Taxes, entre les mains de Sebaftien",
+            "Cramoify &amp; Ican Baptifte Forne; ou l'vn d’eux,",
+            "| qui en bailleront quitance ; Ce faifant lefdirs |",
+            "Quartiniers defchargez. FAIT en Parlement",
+            "le dixhuictiéme Février mil fix cens quarante-",
+            "Signé DV TILLET."
+        ]
+    ]
+}

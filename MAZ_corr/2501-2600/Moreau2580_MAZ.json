@@ -1,0 +1,214 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "ode",
+            "poésie à forme fixe"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Conti, Armand de Bourbon (1629-1666 ; prince de)",
+        "creation": "1649-01-11",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-16",
+            "@who": "AB"
+        },
+        "titre": "Ode présentée à monseigneur le prince de Conty, en la\n          maison de ville, sur son arrivée à Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "viaf:72157882925160442041",
+            "@source": "Mazarine",
+            "persName": {
+                "forename": "Jean",
+                "surname": "Burnel"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01-15",
+                "#text": "mi-janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000109139226",
+            "@xml:id": "IL_BlageartMichel.xml",
+            "persName": {
+                "forename": "Michel",
+                "surname": "Blageart"
+            }
+        },
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "ODE",
+            "PRESENTEE",
+            "A MONSEIGNEVR",
+            "LE PRINCE",
+            "DE CONTY",
+            "EN LA MAISON DE VILLE",
+            "ſur ſon arrivée à Paris.",
+            "A PARIS,",
+            "De l'Imprimerie de M. BLAGEART.",
+            "M. DC. XLIX."
+        ],
+        [
+            "3",
+            "A",
+            "MONSEIGNEVR",
+            "LE PRINCE.",
+            "DE CONTY.",
+            "Sur ſon arriué́e à̀ Paris.",
+            "ODE",
+            "PRINCE eſtimé pour le plus ſage",
+            "Que le Ciel fit naiſtre ianais,",
+            "Qui ſeras l’honneur de nostre aage",
+            "Te portant au bien de la paix;",
+            "Que ma Muſe trouue de charmes",
+            "A te loüer dans les allarmee",
+            "Que Paris eſprouue aujourd’huy!",
+            "Puiſque iuſtement il s’afſeure",
+            "Qu’i ne peut manquet à cefte heare",
+            "D’vn fidele &amp; puiſſont appuy.",
+            "A ij"
+        ],
+        [
+            "4",
+            "Le peuple ablatu de l’outrage",
+            "Dont la faim luy faiſoit effroy,",
+            "Semble auoir repris le courage",
+            "Außi toft quon parlà de toy:",
+            "Ta preſence a fait des miracles",
+            "Qui feront parler les Oracles",
+            "uecques ceſte veriteé;",
+            "Que c’eſt toy qui donne la vie",
+            "Que le deſeſpoir eut rauie",
+            "Si ta ne l’auois arreſté.",
+            "6",
+            "Au mili de ceſte auanture",
+            "Dont chaun ſe trouua ſurpris,",
+            "Ce ſut en toy qu’vn bon augure",
+            "Releua ſoudain les eſprits.",
+            "Et l’on crut auec aſſeurance",
+            "Que les intereſts de la Francs",
+            "Furent la cauſe du retour",
+            "Qee tu fis auecrant ds gloiue.",
+            "Que tout le pauple en ta memoire",
+            "Volontiers chaumera ce ſour."
+        ],
+        [
+            "Ce fut außi ſans flaterie",
+            "Dans vne grande occaſion",
+            "Que le ſalus de ta Patrie",
+            "Excita ton affection;",
+            "On n’ouit iamaais tant de plaintes",
+            "Pour de ſi funeſtes atteintes",
+            "Qui troubloient l’air de nos ſouſpirs,",
+            "Et poaaons nous außi bien dire",
+            "Que iamais vn ſi doux zephire",
+            "Ne ſe leua ſar nos deſirs.",
+            "Ae",
+            "Ton nom porté de place en place",
+            "Auec tant d’admiration,",
+            "Fut receu de ſi bonnegrace,",
+            "Qu’on benit ta protection:",
+            "Et quoy, qu’aligeé́ de miſere.",
+            "Et dedans vn temps ſi contraire,",
+            "Le Bourgeois regardant les Cieux",
+            "En teſmoigna quelque allegreſſe,",
+            "Et ſon cœur noyé de tristeſſe",
+            "En feit moins pareſtre à ſes yeux.",
+            "B"
+        ],
+        [
+            "Ainſi dedans vn grand orage",
+            "L’Atre qui luit aue Matelots",
+            "Fait qu’ils craignent moins le naufrage",
+            "Qui ſemble peint deſſus les flots;",
+            "Ainſi te voyant ſi propice,",
+            "Chacun craint moins ſouz ton auſpice,",
+            "Et tu fais eſperer vn port",
+            "Dans l’eſpouuante que nous donne",
+            "Ce grand appareil de Bellonne",
+            "Qui nous fait hayr noſtre ſort.",
+            "a3",
+            "Pour bien iuger de noſtre peine,",
+            "Et recognoiſtre nos douleurs,",
+            "Il ne faudroit que veoir la ſeine",
+            "Qui ſe rend groſſe de nos pleurs,",
+            "Dont la couleur toute changee",
+            "Montre de noſtre ame aligee",
+            "Les veritables ſentimens",
+            "Ne pouuant aſſez de nous-meſme",
+            "Tour vne cauſe ſi ſupréme",
+            "1.",
+            "Exprimer les moindres tourmens..",
+            "r¬"
+        ],
+        [
+            "Helas! que mon ame eſt craintiue,",
+            "Lors qu’elle y penſe ſeulement,",
+            "En ſe voyant comme captue",
+            "Auecques tant d’eſtonnement,",
+            "Au plus beau lieu de ceſt Empire,",
+            "Ou noſtre liberté́ ſouſpire,",
+            "Ou les Dieux faiſoient leur ſejour,",
+            "Oàu l’inſolence de la guerre",
+            "Fait aujourd’huy trembler la terre,",
+            "Et n’eſt plus capable d’amour.",
+            "33",
+            "Dieux! qui voyez, nos infortunes,",
+            "Et n’ignorez pas nos ſoûbaits",
+            "Rendezvous aux plaintes communes",
+            "Plus fauorables que iamais;",
+            "amenez ce jeune Monarque,",
+            "Que nous cherchons, ou que laParque",
+            "Couppe la trame de nos jours?",
+            "Car ſans luy, nous ne pouuons viure,",
+            "Et c’eſt luy, que nous voulons ſuiure,",
+            "Quelque part qu’l aille touſiours."
+        ],
+        [
+            "Le Ciel auroit trop d’injuftice",
+            "Si nos vœux n’eſtoient exaucez,",
+            "Car on peut veoir ſans artifice",
+            "Que nos cœurs en ſont tous bleſſez:",
+            "Grand Prince, en qui nos eſperances",
+            "Ont de ſi fermes aſſeurances,",
+            "C’eſt de toy que noſtre bon-heur",
+            "Doitr bien-toſt tirer ſa naiſſance",
+            "Pour auoir la recognoiſſance",
+            "e Que ie prepare à ton honneur.",
+            "Comme celuy dont la conduite",
+            "Put ſi chere au peuple de Dieu",
+            "euant les mains en ſa pourſuite",
+            "Le rendoit vainqueur en tout lieu;",
+            "Ainſi toute la Fance eſpere",
+            "Que ton entremiſe ſi chere",
+            "Ne ſera pas de moindre prix,¬",
+            "Et que l’artente ſer vaine.",
+            "De l’Eſtranger qui dans ſa haine",
+            "Ne prerenl qu’à noſtre débrs.",
+            "BVRNEL"
+        ]
+    ]
+}

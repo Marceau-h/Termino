@@ -1,0 +1,187 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "éloge",
+            "remerciement",
+            "discours adressé"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Remercîment fait à monseigneur le coadjuteur par une\n          demoiselle parisienne.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "viaf:77180575",
+            "persName": {
+                "forename": "Elisabeth",
+                "surname": "Salete"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": [
+            {
+                "@ref": "isni:0000000108959687",
+                "@xml:id": "IL_MaucroyEtienne.xml",
+                "persName": {
+                    "forename": "Étienne",
+                    "surname": "Maucroy"
+                }
+            },
+            {
+                "@ref": "isni:0000000001965841",
+                "@xml:id": "IL_PepingueVeuvedeTheodore.xml",
+                "persName": {
+                    "forename": "Veuve de Théodore",
+                    "surname": "Pépingué"
+                }
+            }
+        ],
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "REMERCIEMENT",
+            "A MONSEIGNEVR",
+            "COADIVTEVR",
+            "PAR VNE DAMOISELLE",
+            "P",
+            "PEepNov’, &amp; Esx",
+            "che la veufut Tuon",
+            "ue de la Harpe, vis à vis",
+            "MAvcRoO",
+            "ue de i",
+            "leeoe eſrt¬"
+        ],
+        [
+            "REMERCIEMENT",
+            "FAIT",
+            "A MONSEIGNEVR",
+            "LE",
+            "COADIVTEVR",
+            "a 7r 7D",
+            "1 H HE",
+            "3",
+            "PAR VNE DAMOISELLE",
+            "PARISIENNE.",
+            "RJONSEIGNEVR,",
+            "I’ay ereu que vous ne prendriez pas en mauuaiſe",
+            "part le remerciement d’vne femme, apres auoir vou",
+            "Au par vne bonté ſansexemple joindrevos intereſts",
+            "à̀ ceux des plus petits, &amp; les rendre conmmuns auec",
+            "ceux de tout vn peuple. Comme vous auez donné",
+            "de la terreur aux plus determinez, auſſi auez-vous",
+            "encouragé les plus timides par voſtre exemple. I’ay",
+            "eu à la verité beaucoup de difficulté aà̀ me reſoudre",
+            "de me preſenter deuant Voſtre Grandeur, Mon",
+            "ſeigneur, non tant par la timiditeé qui eſt vn des",
+            "defauts de mon ſexe, comme par l’importane de",
+            "l’action queie me ſuis propoſeé de faire, que ie con¬"
+        ],
+        [
+            "2",
+            "coy en quelque facon dans mon eſprit: mais que",
+            "ie trouue du tout au delà de mon expreſſion. Ce",
+            "qui m’a fait paſſer pardeſſus toutes les conſidera",
+            "tions qui ſembloient me rebuter &amp; deſtourner de",
+            "mon entrepriſe, c’eſt, Monſeigneur, que i’ay iu",
+            "gé que toutes les actions de graces que les hommes",
+            "les plus ſç̧auans &amp; les plus eloquens Orateurs vous",
+            "pourroient faire, ſe trouueroient deffectueuſes, &amp;",
+            "que mon hardieſſe &amp; mon inſuffiſance ſeront auſſi",
+            "bien receuës de vous, que leur ſçauoir &amp; leurs ha",
+            "rangues bien eſtudié́es. Quand on eſt aſſeureé du par",
+            "don on peche auiec plus de liberteé. cy ie ſuis cer",
+            "taine que voſtre bonté excuſera tout: &amp; pour moy",
+            "ie ſuis aſſeurée que l’afection ſupleera au defaut",
+            "des paroles. Agreez donc, Monſeigneur, que ie",
+            "vous rende graces ſans graces pour des bien-faits",
+            "fans nombre, &amp; que ie diſe ce que ie puis, ne pou",
+            "uant faire ce que ie deſire.",
+            "Vous eſtes le pere de la Patrie, non ſeulement",
+            "par voſtre Charge, mais encore plus par vos bien",
+            "faits enuers le public. Auſſi vn chacun vous don",
+            "ne ce nom ſi glorieux &amp; ſi illuſtre, &amp; s’efforce d’a",
+            "uoir des ſentimens d’amour, &amp; des reſpects enuers",
+            "vous, comme vous auez voulu teſmoigner que",
+            "vous auiez de l’affection &amp; des tendreſſes de pere",
+            "pour nous tous.",
+            "De vray, vous exercez cette qualité auec vne in",
+            "dulgence &amp; bonté vrayement paternelle; Vous",
+            "aeZ"
+        ],
+        [
+            "auez eſcu, &amp; viuez auec nous comme vn pere",
+            "auecſes enfans; Vous auez mis le tout pour le tout,",
+            "quand il a eſté́ queſtion de nous deffendre, &amp; n’a",
+            "uez fait aucune difficulté́ de donner voſtre bien, &amp;",
+            "mettre voſtre vie au hazard pour conſeruer la no",
+            "ſtre. Ie ne veux point eſtaler icy, Monſeigneur, ce",
+            "que vous auez fait pour les particuliers; puiſque",
+            "vous auez tellement obligeé le public, que la France",
+            "vous conſidere aujourd’huy comme le plus zelé",
+            "pour ſa liberté, &amp; le plus porté pour ſon bonheur.",
+            "Elle publiera touſiours que comme vos vertus ſont",
+            "au deſſus de toutes nos loü̈anges, auſſi ſes recom",
+            "penſes ſont au deſſous de vos merites. Voſtre libe",
+            "ralité ſeule, ſans parler du nombre ſans nombre de",
+            "vos autres vertus, vous eſleue pardeſſus tous. Cet",
+            "t grande profuſi de dni ore ,qne vs aue2 eſ",
+            "panchez pour procurer des alimens à vne infinité",
+            "de pauure peuple, qui n’a veſcu que de vos au",
+            "moſnes, peut paſſer pour vn miracle, puiſque",
+            "vous n’en eſtes pas appauury. Vous auez leué, apres",
+            "vous eſtre eſpuiſé́ par des charitez inombrables, vn",
+            "Regiment tout entier, le plus leſte, &amp; le mieux en",
+            "tretenude tous, à vos deſpens, ſans pretendre corm",
+            "me les autres ny honneurs, ny dignitez, ny autre",
+            "Tecompenſe que la conſeruation de la France, &amp; la",
+            "gloire que Dieu reſerue à ceux qui l’ayment, &amp; ne",
+            "rrauaillent que pour ſon nom. Combien auez-vous",
+            "conſerué par ce moyen de maris aux femmes, de"
+        ],
+        [
+            "4",
+            "femmes aux maris, d’enfans auxperes, de peres aus",
+            "enfans. Que voſtre Theologie s’eſt monſtrée diff.",
+            "rente de celle qui a conniué aux vices. Vous auez",
+            "condamné́, &amp; meſmes en quelque façon puny ce",
+            "que les autres n’ont ſeulement ozeé reprendre. Ie ns",
+            "fuis qu’vne femme, mais pourtant ie ne feindray",
+            "point de dire que s’il ſe fuſſe trouué des perſon",
+            "nes de voſtre condition qui euſſent eu des ſenti",
+            "mens auſſ genereux comme vous, nous ne ſerions",
+            "pas tombez, ou du moins nous n’aurions pas long",
+            "temps demeuré dans les deſordres qui nous ont",
+            "penſé accabler. Heureuſe donc la France de vous",
+            "auoir eu pour ſon Protecteur: heureuſe la ville de",
+            "Paris devous poſſeder pour Coadjuteur: &amp; moy ie",
+            "m’eſtimeray auſſi participer au meſme bon-heu,",
+            "fi vous arv pr graolal queie mediſe,",
+            "A",
+            "MONSEIGNEVR,",
+            "Voſtre tres humble ſeruante.",
+            "ELIZABETH SALETE."
+        ]
+    ]
+}

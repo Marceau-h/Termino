@@ -1,0 +1,112 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "narration",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-03",
+            "@who": "AB"
+        },
+        "titre": "Prédiction de Nostradamus sur la perte du cardinal\n          Mazarin, en France, extraite de la Centurie 8?, article 9.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2026-04-26",
+            "#text": "26 avril 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000365880267",
+            "@source": "BnF",
+            "persName": {
+                "forename": "Jacques",
+                "surname": "Cousinot"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "PREDICTION",
+            "DE NOSTRADAMVS",
+            "SVR LA PERTE",
+            "DV CARDINAL MAZARIN",
+            "en France.",
+            "Extraite de la Centurie huitié́me, article neuf.",
+            "Voicy les termes de la Prediction.",
+            "ſouſtenir la grand Cape troublee,",
+            "Pour l’eclaircir les Rouges marcberont,",
+            "De mort famile ſera preſque troublee,",
+            "Les Rouges Rouges, le Rouge aſſommeront.",
+            "INTERPRETATION.",
+            "MAIS pour en auoir la claire intelligence,",
+            "il faut prendre chaque vers de la Centu",
+            "rie à part, commen!ant par le premier, auquel",
+            "le Mazarin eſt deſigné par la grand Cape trou",
+            "blée, &amp; lequel porte en la qualité de Cardinal",
+            "vn long mantéau de couleur rouge, qui luy",
+            "A"
+        ],
+        [
+            "12",
+            "leſcend iuſques au deſſous des talons; mais auee",
+            "out cela, il n’eſt pas ſans eſtre agiré en ſon eſ",
+            "rit, conformé̂mene à la prediion, qui dit",
+            "qu’il eſt troubl6..",
+            "Le ſecond vers, nous fait voir que ſon trou",
+            "le vient de ce que Noſſeigneurs du Parlement",
+            "leſignez par ce mot de Roges (a cauſe de la lo",
+            "ue robe rouge, donils ſont affeublez ) s’aſſem",
+            "lent tous les iours, &amp; depuis trois mois ils n’ont",
+            "ait qu’aller &amp; venir ant à ſainct Germain en",
+            "aye, qu’au Palais Royal, pour deſcouurir ſes",
+            "leſſeins &amp; maluerſations de ſon Miniſtere: Car",
+            "eſ.",
+            "2 Vers porte que pour l’eéclairoir ils marcbheront.",
+            "it de faict ils ont tant marcheé, qu’ils tiennent le",
+            "Oup par l’oreille.",
+            "Le troiſieſmeé Vers nous repreſente qu’en ſui",
+            "e de ce vn Conſeiller, qui opinoit dans le Par",
+            "ment, au ſujet &amp; en faueur dudit Mazarin, y",
+            "lt mort ſi ſoudainement, qu’vn chacun en a eſté",
+            "ſtonné, &amp; ſa famille toute troublee, comme",
+            "orte le Vers.",
+            "Le dernier Vers menace d’vne Cataſtrophe",
+            "ſtrange ledit Mazarin, lors qu’il l’aduertit que",
+            "s Rouges Roages duplicatiuement pris, aſſo",
+            "eront le Rouge; c’eſt à̀ dire, qu’infalliblment"
+        ],
+        [
+            "ils le perdront. Et deſia il eſt perdu d’honneur,",
+            "quand meſme il viuroit encore vn ſiecle.",
+            "Or ne s’en faut il pas eſtonner, pource que",
+            "comme Dieu a reuelé́ à ſes Prophetes l’eſtat de",
+            "l’Egliſe Militante, &amp; tout ce qui luy doit arriuer",
+            "infalliblement iuſques à la fin des ſiecles: Auſſi",
+            "comme Gouuerneur de l’Vniuers, il denonce à",
+            "l’auance &amp; quand il luy plaiſt par ſes ſeruiteurs",
+            "les deſordres qui doiuent arriuer dans les Gou",
+            "uernemens des Eſtats, dans les reuolutions &amp;",
+            "Changemens des Royaumes &amp; des Empires,",
+            "aux fns de fermer la bouche aux Impies qui",
+            "oſent dire: Non videbit Dominus, nec intelliget",
+            "Deus Iacob."
+        ]
+    ]
+}

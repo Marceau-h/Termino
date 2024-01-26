@@ -1,0 +1,123 @@
+{
+    "imprimatur": "Auec priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, contre les désordres que\n          commettent les gens de guerre.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-05",
+                "#text": "daté de mai 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LACOVR",
+            "DE PARLEMENT.",
+            "Contre les deſordres que commet",
+            "tent les gens de Guerre.",
+            "u",
+            "Du vnaiéme May r649.",
+            "APIs",
+            "Pue leas lmpime, oaies ordinuires",
+            "du Roy.",
+            "M. DC. X LI X.",
+            "Auec priuilege de ſa Majeſté."
+        ],
+        [
+            "Aa,.",
+            "p’e r-de ’ r",
+            "EXTRAICT DESREGISTRE9",
+            "de Parlement.",
+            "s E IOV ſur e plaiate faite parle",
+            "l pruuuut &amp;nil di y da u",
+            "s",
+            "dages, ineeadies, impietea, ſacrileges,",
+            "violemens, aſſaſſinars &amp;etoſioas que.",
+            "commetceat-joumellemeat les gens de",
+            "Guerre, , meſnas des logemes: qu’ils.",
+            "emeat en duars lu ſa lre anhedai",
+            "Goaueneurs,odie:,, ny route, coere les Ordonna",
+            "ces. Requerane qu’il pleuſt à la Curlny peruettue.",
+            "den faire infomer, ou uemenypouoi. LA.",
+            "CO VR A non! r xa qpe",
+            "Conmiſion d’icelle ſera deliuieéeaa Eatueus Gëue",
+            "ral pos faire infomer deſdis faits, ciscoataces? de",
+            "Fmndces, pardeuant les Conſeillersde ladite Goe,,",
+            "Eaillifs, Sneſchauxou leuns ieucenanapreiarſtce",
+            "requis, coatre leſſits gensde Gaarre; leors Chies; Ca",
+            "ptaines, Lieutenans &amp; Officiers; pooeſtcecootéx",
+            "pocede tans crimiellément qe ciuaillémancaifi quee:",
+            "l caa le- requora ſaiuant. l tdomntee:- Lefqels.",
+            "hefs, Capcainea&amp; Qſfiîrs dadie &amp;oueades à pce¬",
+            "ſen decldrez reſpoablesdeſdius deſbodldes5 ,ppurreſte",
+            "coot’euxdourecoustel s ddraidu. Egoinan",
+            "AA ijj"
+        ],
+        [
+            "4",
+            "ditsBaillifs, Seneſchaux, Preuoſts des Mareſcaxs",
+            "leurs Lieutenans ſe ſaiſir des coulpables &amp; inceſam",
+            "ment faire le procezſuiuant les Ordonnances, à peine",
+            "d’en reſpondre en leur propre &amp; priué nom; Et à̀ ceus",
+            "fin ſe faire aſſiſte de tel nombre de perſonnes qu’ilsve",
+            "ront bon eſtre, afin que la force en demeure au Roy&amp;",
+            "à Iuſtice.: Comme auſſi enjoaint aux ouuemeurs de",
+            "Prouinces; Mairts &amp; Eſcheuins des Villes, &amp; cous Of",
+            "fciers Royaux tenir la main à l’exeeution du preſent",
+            "Arreſt: lequel ſera à la diligeace dudit Ptocureur Ge",
+            "neral publié &amp; affché és Carrefours de cette Ville de",
+            "Paris, &amp; enuoyé en tous lesBailliages de ce reſſort pou",
+            "’yeſtre pareillement publié &amp; executé a la diligeace de",
+            "ſes Subſtituds auſquels ayoint certifier ladite Cour:",
+            "auoir ce fait au uois. F AIT en Paslemant le vnieéme",
+            "May mil ſir cens quacame neuf Signé, GVYE T..",
+            "Codaaane Origiaal paray Cnſeile",
+            "eraare dn Ry, &amp; de ſes Faes.",
+            "An",
+            "?"
+        ]
+    ]
+}

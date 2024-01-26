@@ -1,0 +1,156 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Arrêt de la cour de parlement de Bordeaux,\n                    portant inhibitions et défenses, à tous les gentilshommes de ce ressort, de\n                    porter les armes à la suite du sieur duc d'Épernon, à peine de privation de\n                    noblesse et autres plus grandes peines, portées par ledit arrêt.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:0000000",
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE BORDEAVX.",
+            "e e ee",
+            "iee eulete",
+            "’ oe¬",
+            "¬"
+        ],
+        [
+            "¬¬",
+            "¬",
+            "¬",
+            "i.",
+            "ae",
+            "Eee",
+            "1",
+            "r",
+            "a",
+            "ai¬",
+            "oolomadolſla"
+        ],
+        [
+            "¬?",
+            "édsteéé",
+            "E U",
+            "¬",
+            "4",
+            "Al",
+            "AS. L D T I 1",
+            "’DESREGISTRES",
+            "du Parlement.",
+            "VR c qui a eſté re.",
+            "preſenteàla Cour, que",
+            "Z le ſieur Due d’Eſper.",
+            "non,; a deſſein de venir",
+            "aſsieger la preſente Vil.",
+            "le, &amp; ruyner tous les enuirons d’icel¬",
+            "le, &amp; qu’il apor céteffet ferme tous",
+            "les paſſages des riuiees, qu’il rauage",
+            "iournellemnt les maiſons de la Cã¬",
+            "gne, appartenantes aux Habitans"
+        ],
+        [
+            "de la preſente Ville, fait emporter",
+            "les meubles &amp; grains, qu’il trouue en",
+            "icelles &amp;que pour paruenir à ſon deſ¬",
+            "ſein, il aſlemble grand nombre de",
+            "gens de guerre, contraint &amp; violante",
+            "les Communautez, de luy fournir",
+            "des hommes, &amp; conuoqué-toute",
+            "la Nobleſſe de ſon Gouuernement.",
+            "Et oûy le Proeureur General du",
+            "Roy, la Cour. les Chambres d’icelle",
+            "aſſemblées, a faitinhibitions &amp; def¬",
+            "fenſes aux Gentilbs- hlomimes du reſ¬",
+            "ſort, &amp; à tous autres, de porter les ar¬",
+            "mes à la ſuite du ſieur Duc d’Eſper¬",
+            "ne leile ſene ne le ne",
+            "d’ice!le"
+        ],
+        [
+            "5",
+            "à peine de priuation de Nobleſſe, ra¬",
+            "ement de leurs maiſons &amp; degra¬",
+            "dations des bois; &amp; de reſponùre en",
+            "letſ nom’propre &amp; piiué, de tõuslles",
+            "degats, ruynes, rauages, deſpens,",
+            "dommages&amp; intereſts, que lesſpar¬",
+            "i tieuliers ſouffriront: Exhorte ladite",
+            "Nobleſſe, de venir aſsiſter de leurs",
+            "atmes la preſene Ville, contre les",
+            "oppreſsions dudit ſieur Duc d’Eſ¬",
+            "pernon. Enjoint aux Communau¬",
+            "tez du reſſort de la Cour, de four¬",
+            "nir hommes &amp; argent, ſuiuant leur",
+            "pouuoir, pour la deffenſe de la pre.",
+            "ſente Ville, &amp; ſera le preſent Arreſt"
+        ],
+        [
+            "6",
+            "leu &amp; publié, par tout où befoin",
+            "ſera, &amp; enuoyé par tous les Bailliages",
+            "&amp; Seneſchauſſées &amp; Iuriſdictions du",
+            "preſent reſſort, pour y eſtre fait pa¬",
+            "reille lecture, &amp; publiçation, aux fins",
+            "que perſonne ne’n pretende cauſe",
+            "d’ignorance. FAITA BOVR.",
+            "DE AVX en Parlement, les",
+            "Chamhres aſſemblées, l ſeizieſme",
+            "Aouſt, mil ſix cens quarante-neuf.",
+            "ſigne. DEPONTAC.",
+            "A eſté publie à Bordeaux le i9. Aouft 649."
+        ],
+        [
+            "aa¬"
+        ],
+        [
+            "o",
+            "n je",
+            "u",
+            "¬",
+            "oonaoo Google"
+        ]
+    ]
+}

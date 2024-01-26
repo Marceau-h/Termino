@@ -1,0 +1,103 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "poésie à forme fixe",
+            "ballade"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-06-26",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-15",
+            "@who": "AB"
+        },
+        "titre": "Ballade",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-03",
+            "#text": "3 juin 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "None",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "BALLADE",
+            "M. DC. XLIX."
+        ],
+        [
+            "3",
+            "BALLADE",
+            "JVles, ui de lEſtat tanés, le gouenail",
+            "Ildiniſre le plus otnd quil ſou ſans la Sdoil,",
+            "Le mortel qui voudroit vous chanter en detail,",
+            "Auroit ainſi que vous vn tres mauuais conſeil.",
+            "Ie laiſſe quant à moy ce penible trauail.",
+            "A ces grans Eſcriuains mieux fournis de babil",
+            "Qui des luſtres entiers ont battu lefufil",
+            "Sur le monr où Phœbus chante, vt re mi fa ſol:",
+            "l ni eoeie e ue e ene e e enue el",
+            ". Comme il en eut iadis ilen a dans le cul.",
+            "La Flandre tremble au bruit d’vn ſuperbe attirail,",
+            "ZTeſt Cambray ſe va rendge a ce grand appareil,",
+            "Ils ſont pris. les Flamans comme dans vn tramail,",
+            "Ainſi par le badaut fut emporté Corbeil.",
+            "Ma foy Iules n’eſt pas vn grand épouuantail",
+            "A peine feroit-il treſſaillir vn Conil",
+            "Et ce grand homme né ſous le poiſſon d’Auril.",
+            "¬",
+            "N’a d’autre eſtimateur que le Prelat de Dol,",
+            "Car quant auxgens d’honneur pour moy ie n’en ſçais nul",
+            "Qui ne die en voyant ce Miniſtre ſi mol,",
+            "Comme il en eut iadis il en a dans le cul."
+        ],
+        [
+            "4",
+            "1",
+            "i",
+            "ne",
+            "4¬",
+            "4",
+            "On l’exalte pourtant, on le ietce en mesail.2",
+            "Il ſçait paſſer au ieu les heures du’fomneil,",
+            "l ſnait ues doetenent inps d uueaenul,",
+            "C’eſt vn ioſy Miniſtt̂ il à le teit vermeil.",
+            "Mais au moindre danger ſon large ſoupirail",
+            "Se pourroit aiſement boucher d’vn grain de mil:",
+            "Il fronce toutefois fierement le ſourcil",
+            "E ranehe pairmy nous du Seigneur Epagno",
+            "e",
+            "Pour auoir vſurpé la haiche de Conſul.i",
+            "Il a pris comme Icare vn trop inſolent vol,",
+            "Comme il en eut iadis il en a dans lecul",
+            "ENVOY A PASQVIN, MARFORE,",
+            "¬¬",
+            "&amp; Pietro Mazarin Pere dudit Iules.",
+            "Aſquin, Marfore, &amp; vous ſer Pletro torticol,:",
+            "0",
+            "Scachez que ce garçon que poûr vn eſcu ſol",
+            "Dans Rome l’on ſondoit ſans qu’il euſt le calcul",
+            "le e e e e on eſoene de en la",
+            "Comme il en eut iadis il en a del cſſ",
+            "FIN."
+        ]
+    ]
+}

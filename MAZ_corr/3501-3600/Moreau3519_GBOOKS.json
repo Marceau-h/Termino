@@ -1,0 +1,144 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "narration",
+            "relation"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1651-02-28",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Résultat de l'assemblée de la noblesse, en conséquence\n          des déclarations et promesses à elle faites par Son Altesse Royale et monsieur le Prince,\n          portant ordre de remercier Leurs Majestés pour la convocation et tenue des États généraux\n          du royaume par Elles accordés au 8 jour de septembre prochain, et pouvoir de se rassembler\n          en cas d'inexécution, signé par monseigneur le duc d'Orléans et par monsieur le Prince,\n          par MM. les présidents et MM. les secrètaires, du samedi 25 mars 1651, à l'assemblée de la\n          noblesse tenue aux Cordeliers, où étoient S. A. R. et monsieur le Prince.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-03",
+                "#text": "mars 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
+            "persName": {
+                "forename": "Veuve de Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "7T r¬1 r",
+            "S V L L’A IL",
+            "l",
+            "DE L’ASSE MBLEE",
+            "E",
+            "DE LA",
+            "NOBLESSE,",
+            "DT CC",
+            "1 H S H",
+            "EN CONSEQVENCE DES",
+            "D ECLARATIONS ET PROMESSES",
+            "à elle faites par Son Alteſſe Royale &amp; Monſieur le",
+            "Prince, portant ordre pour remercier leurs Ma",
+            "ieſtez, de la conuocation &amp; tenuë des Eſtats gene",
+            "raux du Royaume, par elles accordee au 8. iour",
+            "du mois de Septembre de cette annee i65i. &amp; pou",
+            "uoir de ſe r’aſsembler en cas d’inexecution, ſigneé",
+            "81o682",
+            "par Monſeigneur le Duc d’Orleans &amp; Monſieur le",
+            "Prince, Par Meſſieurs les Preſidens &amp; Meſſieurs les",
+            "Secretaires.",
+            "Du Samedi 2s. Mars 65t. à l’Aſsemblée de la",
+            "Nobleſse tenue aux Cordeliers, ou eſftoient",
+            "S. A. R. &amp; Monſieur le Prince.",
+            "A PARIS,",
+            "DEe L’Imprimeie de la VeufueI. GviLLE M oT,",
+            "ruë̈ des Marmouzets, proche l’Egliſe de la",
+            "e ldagdelene",
+            "urne1"
+        ],
+        [
+            "A.3e",
+            "L AESTE’ARRESTE",
+            "E¬?",
+            "ſ4 que nous nous ſeparions",
+            "dés aà preſent, par ce que",
+            "nous trouuons toutes ſor",
+            "tes de ſeuretez pour la con",
+            "uocation des Eſtats generaux, dans les",
+            "paroles que nous donnent Monſeigneur",
+            "le Duc d’Orleans &amp; Monſieur le Prince,",
+            "&amp; dans leur eſcrit que nous auons ſigné",
+            "de ce meſme iour, où̀ il eſt ſpecifié que",
+            "nous nous aſſemblerõs en cas d’inexecu",
+            "tion, ſuiuant le pouuoir que le Roy &amp; la",
+            "Reine Regente leur en ont donné, &amp;",
+            "que ſon Alteſſe Royale &amp; Monſieur le",
+            "Prince, promettent d’empeſcher qu’au",
+            "cun de l’Aſſemblee ne puiſſe eſtre in",
+            "quieté ſous quelque pretexte que ce ſoit,",
+            "pour le faict de ladite ſſemblée, qu’il",
+            "ſera donné́ ordre aà Meſsieurs les Preſi",
+            "dens &amp; Secretaires de ladite Aſſemblee,",
+            "de donner part à tous les Gentils-hom",
+            "mes des Prouinces, des raiſons que nous",
+            "auons eües de nous ſeparerque copies",
+            "des papiers de ſon Alteſſe Royale &amp; de",
+            "Monſieur le Prince, leurs ſeront en¬"
+        ],
+        [
+            "4",
+            "uoyees, &amp; que l’on nõmera preſentemét",
+            "des deputez pour aller remercier leurs",
+            "Maieſtez; pour approbation dequoy",
+            "ſon A lteſſe Royale &amp; Monſieur le Prin.",
+            "ce ont ſigné le preſent arreſté, &amp; a eſté",
+            "ordõné que M’ les Seretaires garderont",
+            "tous les papiers de ſon Alteſſe Royale&amp;",
+            "de Monſieur le Prince, &amp; tous les ates",
+            "qui ſe ſont paſſez pendant la tenü̈e de la",
+            "preſente aſsemblee, depuis le premier",
+            "Feurier iuſques à̀ auiourd’huy, ſigné ſur",
+            "le Regiſtre de Meſſieurs les Secreraires",
+            "de l’Aſſemblee, par Monſeigneur le",
+            "Duc d’Orleans, ainſi GASTON. Et",
+            "par Monſeigneur le Prince de Condé",
+            "LOVIS DE BOVRBON. Et par",
+            "Monſieur de Foſeuze, François de",
+            "Montmorency, par Monſieur de Coa",
+            "quin, Malo de Coaquin, ces deux Meſ",
+            "ſieurs eſtoient Preſidens,’Puis par Mon",
+            "ſieur d’Anner y, Charles Daily Annery",
+            "&amp; par Monſieur de Chanloſt, Cha",
+            "o.",
+            "ces deux Meſſieurs ſont Secreralt",
+            "Cvllaiionn ſurl original, de l’ordre expres de l’mt",
+            "nmous ſes ecretares ſoaesſgue,à ari ce5.Mrs 1oj,"
+        ]
+    ]
+}

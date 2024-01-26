@@ -1,0 +1,169 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-17",
+            "@who": "AB"
+        },
+        "titre": "Serment de l'union des princes et seigneurs ligués\n          ensemble pour le bien public, contre le mauvais gouvernement de Jules Mazarin, en janvier\n          1649.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": [
+            {
+                "@ref": "isni:0000000021194458",
+                "persName": {
+                    "forename": "Louis de",
+                    "surname": "La Trémoille"
+                }
+            },
+            {
+                "@ref": "isni:0000000060964048",
+                "persName": {
+                    "forename": "Philippe de",
+                    "surname": "La Mothe-Houdancourt"
+                }
+            },
+            {
+                "@ref": "isni:0000000392563187",
+                "persName": {
+                    "forename": "Louis de",
+                    "surname": "Cossé-Brissac"
+                }
+            },
+            {
+                "@ref": "isni:0000000061255622",
+                "persName": {
+                    "forename": "Frédéric-Maurice de La Tour d'Auvergne",
+                    "surname": "Bouillon"
+                }
+            },
+            {
+                "@ref": "isni:0000000038603641",
+                "persName": {
+                    "forename": "Charles II de",
+                    "surname": "Lorraine"
+                }
+            },
+            {
+                "@ref": "isni:000000012095909X",
+                "persName": {
+                    "forename": "François de Bourbon-Vendôme",
+                    "surname": "Beaufort"
+                }
+            },
+            {
+                "@ref": "isni:0000000121350921",
+                "persName": {
+                    "forename": "Henri",
+                    "surname": "Longueville II"
+                }
+            },
+            {
+                "@ref": "isni:0000000119302891",
+                "persName": {
+                    "forename": "Armand de Bourbon",
+                    "surname": "Conti"
+                }
+            }
+        ],
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-03-18",
+                "#text": "18 mars 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans Lieu"
+        },
+        "publisher": "Anonyme",
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "SERMENT",
+            "DE L'VNION",
+            "DES PRINCES",
+            "ET SEIGNEVRS LIGVEZ",
+            "enſemble pour le bien public, contre",
+            "le mauuais gouuernement",
+            "de Iules Mazarin.",
+            "M. DC. XLIX."
+        ],
+        [
+            "N’Ayans eu autre intention, que celle de con¬",
+            "ſeruer l’Eſtat &amp; l’Authorite Royale dans le",
+            "luſtre &amp; l’éclat que tous les fideles Sujets les doiuent",
+            "maintenir, &amp; connu, que la mauuaiſe adminiſtration",
+            "du Cardinal Mazarin, marqué́e par vne infinité d’a¬",
+            "ctions iniuſtes &amp; violentes, en cauſeroit indubita¬",
+            "blement la ruie, la diſſipation &amp; l’abaiſſement,",
+            "principalement dans l’oppreſſion notoirement en¬",
+            "trepriſe contre les Cours Souueraines &amp; la dignite",
+            "des Loix depuis ſi long-téps établies en ce Royaume,",
+            "Nous auons promis &amp; iure ſur les ſaintes Euangiles,",
+            "d’vn commun conſentement que pour les ſoutenir,",
+            "nous employerions librement &amp; franchement nos",
+            "vies: Et pour ce ſujet, Nous voulons que ceux de",
+            "nous qui contreuiendroient à la parole qu’ils en ont",
+            "iſolemnellement donnée, ſoient tenus pour gens",
+            "fans foy &amp; ſans honneur. Que s’il arriue qu’en gene¬",
+            "ral ou en particulier il s’en recontre aucun capable",
+            "de ſe relachet, &amp; accepter aucunes offres &amp; condi¬",
+            "tions, ſans que leditCardinal Mazarin n’ait eſté chaſ¬",
+            "ſé du Royaume, comme Perturbateur du repos pu¬",
+            "lic, ainſi qu’ila eſté dealaré par l’Arraſt dus Ianuier",
+            "dernir I6asy. chacun de nous rétably dans ſes biens,",
+            "charges &amp; hanneurs, &amp; tous les Sujets du Roy aſſu¬",
+            "rez contre les violeness xercées durant ſon miniſte¬",
+            "re, la grandeur le l’eſtat, &amp; le ſeruice de ſa Maieſté",
+            "conſideré comme il eſt requis, &amp; que le deuoirde",
+            "noſtrenaiſſance nous y oblige: &amp; dans ce deſſein qui",
+            "doit eſtre ſi generalement approuué, eſtant appuyé",
+            "1"
+        ],
+        [
+            "ur de legitimesfondeens, ousnous pione",
+            "eſ ſlel enoueanu nenſi oue rons quelone en e",
+            "o e iel uioni ou pneeoe que foi dninereſle",
+            "oeunene pnun nue l n ouelens oneſe nileoue",
+            "nie ens ienuenue, dl ne mou dſe rniun",
+            "e e eunes, &amp; ne ponis anr ſenunre n",
+            "au eous eaien l en len dle ue de lnoui ee",
+            "n aiue enſe oue lenelonuele os dr enoe",
+            "rn eile ie unen neonueirnenei e dſenre",
+            "e l elenonu ueou e qi einiene e pu nuſ",
+            "nſe eeiuneiu an oun dneoie de rnuner ue",
+            "pureune ou qul inres le ehnſlon nre ne",
+            "e enr e e oe neos onniene enoneie oens",
+            "lo enrl le oue doiuerlie ede e uirnr de ene",
+            "eoue ſeune epe o hanonen e en eniſenee",
+            "run one ln er reue en pe eue e oeneſl",
+            "le nen e eunle nuoaeie nenenolune e",
+            "eo e enr ſe e le u ſinonegnaſeaili poae e",
+            "un enruen deenlouie ni ne onene¬",
+            "eu no unereſls enoeoreuenont l e r pienen",
+            "aune dſei or deour de l ou ennuorone lboiuen",
+            "e’aduis de Meſſieus du Paulenmont",
+            "ene ene ſene luie e e ſee pe",
+            "lelde ne i de fen doe e inſe P",
+            "oi out de aniſae, lsare ſuadde la lie des¬",
+            "isd Nairmonſftier, &amp; pluſieurs autres"
+        ]
+    ]
+}

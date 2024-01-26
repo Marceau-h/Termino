@@ -1,0 +1,180 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "récit",
+            "relation"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Tarente, Henri-Charles de La Trémoille (1620-1672 ; prince de)",
+            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+            "Bordeaux",
+            "Soubise (Charente-Maritime)"
+        ],
+        "creation": "1652-03-16",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-18",
+            "@who": "AB"
+        },
+        "titre": "Relation véritable contenant tout ce qui s'est fait et\n          passé à Bordeaux, ensemble la défaite des troupes mazarines par l'armée de monseigneur le\n          PrinCe, avec la prise de Soubise par M. le prince de Tarente.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1652-02-22",
+                "#text": "22 février 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
+            "persName": {
+                "forename": "Jacob",
+                "surname": "Chevalier"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "RELATION",
+            "VERITABLE",
+            "CONTENANT TOVT CE QVI",
+            "S’EST PAIT ET PASSE’ A BORDEAVX.",
+            "Enſemble la defaite des Trouppes Mazarines par",
+            "l’Armée de Monſeigneur le Prince.",
+            "Auec la Priſe de Soubiſe par Mr le Prince de Tarente.",
+            "A PARIS,",
+            "Chez IACOB CHEVALIER ruë Saint Iean",
+            "de Latran.",
+            "M. DC. LII."
+        ],
+        [
+            "3",
+            "RELATION",
+            "VERITABLE",
+            "Contenant tout ce qui s’eſt",
+            "fait &amp; paſſé a Bordeaux.",
+            "Enſemble la defaite des Trouppes Mazarines¬.",
+            "par l’Armée de Monſeigneur lel’rince.",
+            "Auee la Prſe de Soubiſepar",
+            "le Prince Tarente.",
+            "r ouueles ſont iops que E",
+            "llVp Pne Tronre a fan aue",
+            "ſe cer es Trouppes prés de la",
+            "las",
+            "Rochelle apres auoir prins",
+            "lls Soubile, quil a colerue",
+            "moynnant 5oo. liures que",
+            "les habitans luy ont donneé, &amp; à fait bru",
+            "lr tout le bouig de Moiſe qui auoit reſdts:",
+            "A ij"
+        ],
+        [
+            "à ſes trouppes. Ledit Prince a eu aduis que",
+            "’le’Comte d’Hafourt s’approche de Xain",
+            "tes paur l’aſſieget, il a fait retourner ſes",
+            "Trouppes auſſ: toſt vers Taillebourg. Les",
+            "eux Regimens du Cômte Daugnon fſont",
+            "jointes auec luy. Le Conte d’Harcour",
+            "auoit fait auancer ſon armée contre Peri",
+            "gueux, &amp; n’a pas oſé y me ttre le ſiege",
+            "cpignat y perdre l’honneur &amp; ſon armée,",
+            "a caule q’il y auoit des gens, qui l’atten",
+            "doient́ delors &amp; dedans adplaeee &amp; que",
+            "cette ville eſt mal ailée à aſſieger, à eauſe",
+            "des petites montaignes où il faur paſſer le",
+            "canon, &amp; en des lieux fort eſtroits-¬, il",
+            "s’eſt adyiſé d’allea à Xaintes, on croit qu’il",
+            "a mis e ſiege deuant auec cent cinquante",
+            "cheuaux, &amp; deux mille honmes de pied.",
+            "Il y a dans la place deux mille cinq cens",
+            "ommes d’infanrerie cômandezpar Mo.",
+            "ſieur de Iambon, qui ne leur rendra pas",
+            "la place qu’à l’extremiteé, elle peut auoir",
+            "ſecus par l’armée du Prihce Tarente",
+            "aueccelle de lon Alteſſe qu’on y enuoye",
+            "ra par montagne du coſté de la riuiere de",
+            "Garonne, Monſieur le Prince apres auoi",
+            "fait ftifier ergerac, eſt rou à Libounl",
+            ".",
+            "ne"
+        ],
+        [
+            "nes. Depuis deux ou trois iours Mada",
+            "me la Princeſſe &amp; Madame de Longue",
+            "uille ſa ſœur le ſont allez voir. Il a enuoyé́",
+            "à Arſon vn de ſes Gentilhommes, auquel",
+            "a baillé ordre de tacher à entrer dans Xain",
+            "tes. Il ne s’eſt rien paſſé depuis la priſe de",
+            "Codecoſte. Monſieur le Prince de Conti",
+            "a fait mettre touts ſes gens en quartier",
+            "d’hyuer.",
+            "On a fait iey pour Monſieur le Prince",
+            "quarante Compagnies de bons ſoldats qui",
+            "ſont en garniſon dans les terres du Duc",
+            "d’Eſpernon, &amp; font là̀ leur quartier d’hy",
+            "Il eſt arriué icy cinq Nauires Anglois",
+            "chargéea de bonnes aaauehanm diſ-e. entre",
+            "aurres de beurres, bas, draps, plomb e.",
+            "rain, bleds, &amp; quantité de ardines &amp;",
+            "harans.",
+            "Ona trauaille inceſſammentaux Forts &amp; aux",
+            "Tours de cette ville. Le Fort de la Baſtide",
+            "eſt en eſtat comme il eſtoit auant, &amp; plus",
+            "fort.",
+            "Les Eſpagnols ont donneé aoooooo.",
+            "de pieces de 58. ſols des fines à la mon",
+            "noye, pour conuertir en louys blancs,"
+        ],
+        [
+            "pour faire monſtre à l’Armée de Mon",
+            "ſieur le Prince. On attend auiourd’huy",
+            "l’vnion de Thoulouze auec ceux de Bor",
+            "deaux, ouy ou non, bien qu’il ſe charge",
+            "touſiours des marchandiſes pour ces",
+            "quartiers, &amp; il en vient icy. On tient",
+            "pour aſſeuré que Niſmes &amp; Montpellier",
+            "ſe ſont declarés pour Meſſieurs les Prin",
+            "ces, &amp; ont chaſſe quelques Religieux",
+            "que l’on ſoupçonnoit eſtre du parti de",
+            "Mazarin. Les ſieurs de Marſen &amp; Balta",
+            "zard ſont allez ioindre les Trouppes de",
+            "Monſieur le Prince de Conty, ayant eu",
+            "aduis que lIe ſieur de Pouyane Gouuer",
+            "neur de Dax venoit ioindre le ſieur de",
+            "Sainct Luc, Oa oi qu ’ils ſaront mal",
+            "traictez à la Garonne &amp; à la Soauebœuf,",
+            "s’ils ne tourne les, talons.",
+            "On vient de dire qu’il y a eu combat à",
+            "Eſtafort prés de Cadocoſte: on ne ſçait",
+            "qui en a eu du bon. A l’autre ordinaire",
+            "vous ſçaurez toutes choſes.",
+            "On tient auſsi que dans les approches",
+            "de Xaintes il en eſt bien demeuté ſur la",
+            "place d’vn coſteé́ &amp; d’aurre. Nous n’en",
+            "ſç̧auons pas encores les particularitez."
+        ]
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "avis",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-04",
+            "@who": "AB"
+        },
+        "titre": "ADVIS des bonnes âmes de Paris envoyez aux vrays\n          Frondeurs de Bourdeaux",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Mazarine",
+            "@when": "1651",
+            "#text": "1651"
+        },
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "ADVIS",
+            "DES BONNES AMES",
+            "DE PARIS",
+            "ENVOYEZ AVX VRAIS",
+            "FRONDEVRS",
+            "DE BOVRDEAVX.",
+            "MESSIEVRS,",
+            "Ne croyez pas ce que les Mazarins",
+            "vous veulent perſuader, que Monſieur le Prin",
+            "ce ait feint d’auoir eu peur que l’on entrepriſt",
+            "ſur ſa perſonne, &amp; qu’il ſe ſoit retiré à̀ Sainct",
+            "Maur à deſſein de broüiller l’Fſtat ſous ce pre",
+            "texte; C’eſt vne ruſe dont ils ſe ſeruent, pour",
+            "rejetter ſur Monſieur le Prince la haine publi",
+            "que, qu’ils ont meritée, en empeſchant, com",
+            "me ils ont faict, la Reü̈nion de la Maiſon Ro",
+            "yale, &amp; la Pa le voyant qu’apres"
+        ],
+        [
+            "2",
+            "aoir manqué leur deteſt able entrepriſe con",
+            "tre Monſieur le Prince, ils ne peuuent plus",
+            "eviter d’eſtre chaſſezpar Arreſt du Parlement",
+            "anſſi bien que leur Me. Sçachés, Meſſieurs,",
+            "que Monſieur le Prince n’a eu autre deſſein en",
+            "ſe retirant à ſainct Maur, que de ſe garantir",
+            "des meſmes ennemis qui auoient eu l’année",
+            "paſſée, l’inſolence &amp; le pouuoir de l’empri",
+            "ſonner, le ſejour qu’il fait dans vne maiſon de",
+            "plaiſance qui eſt à vos portes, &amp; l’vnion &amp; deſ",
+            "pendance entiere qu’il conſerue auec Mon",
+            "ſeigneur le Duc d’Orleans, duquel vous aués",
+            "eſprouué́ la bonté &amp; la prudence dans tous",
+            "les deſordres que le Mazarin auoit cauſés, &amp;",
+            "la Declaration qu’il a faite par la bouche de",
+            "Monſieur le Prince de Conty, &amp; par ſa Let",
+            "tre au Parlement des ſujets qu’il a eu de crain",
+            "dre vne violence ſemblable aà̀ celle qu’il a dé",
+            "ja ſoufferte, &amp; qu’il n’aura iamais que des in",
+            "tentions tres-pures, pour le ſeruice du Roy",
+            "&amp; le repos de l’Eſtat, &amp; qu’il n’a aucune",
+            "prerention pour luy n’y pour ſes amis, vous",
+            "doit bien aſſeurer que vous n’aueés rien à crain",
+            "dre de ſa part, &amp; qu’au contraire vous deuez",
+            "eſperer que Meſſieurs du Parlement appnyãt",
+            "oi erie",
+            "ere",
+            "ee",
+            "J",
+            "11"
+        ],
+        [
+            "A",
+            "la demande que ſon A. R. &amp; Monſieur le Prin",
+            "ce font pour l’eſloignemẽt des trois Mazarins,",
+            "qui entretiennent vn continuel commerce a",
+            "uee ce Miniſtre eſtranger, qui gouuernent",
+            "l’Eſtat par ſes ordres, &amp; trauaillent à ſon re",
+            "tour au meſpris des Arreſts du Parlement, &amp;",
+            "du vœu commun de tous les bons François,",
+            "vous aurés la ſatisfaction de voir le calme dans",
+            "le Royaume, &amp; vn bon ordre dans les affaires;",
+            "C’eſt la ſeule ſeureté que recherche Monſienr",
+            "le Prince pour reuenir à la Cour, comme ſa",
+            "ſeule pretention eſt d’eſtre en eſtat de pouuoir",
+            "ſeconder Monſeigneur le Duc d’Orleãs, pour",
+            "procurer la Paix, &amp; le ſoulagement du Pe u",
+            "ple: Vous aués grand ſujet de loïer Dieu, de",
+            "ce qu’il a garanty les Princes du Sang des ma u",
+            "uais deſſains de leur ennemis qui ſont leso",
+            "ſtres, &amp; vous deués joindre vos vœux à la de",
+            "mande de Monſieur le Prince, qui eſt l’vni",
+            "que moyen d’oſter au Mazarin le credit qu’il",
+            "conſerue à la Cour, mais l’eſperance qu’il a",
+            "d’y reuenir exercer les vengeances qu’il a me",
+            "ditées Gontre tous les gens de bien, &amp; par",
+            "ticulierement contre la Ville de Paris.",
+            "FIN."
+        ]
+    ]
+}

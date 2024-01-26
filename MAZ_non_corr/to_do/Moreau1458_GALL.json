@@ -1,0 +1,90 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Funeste (le) hoc de Jules Mazarin, avec le Salve\n                    Regina de Mazarin et des partisans.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2982652",
+            "@source": "Moreau",
+            "#text": "Rouen"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "T T ET",
+            "PE C",
+            "LE SALVE REGINA",
+            "ZH1",
+            "T R",
+            "a p",
+            "TIR",
+            "1 ¬1",
+            "VMACARIN",
+            "1",
+            "A 2",
+            "L1",
+            "ET DES PARTISANS.",
+            "’rv",
+            "A frayeur qui nous eponvamte,",
+            "Pouée d’vn iuſte courrboue,",
+            "Nous fat venir la voietremblante",
+            "Vous dire bumeblement à genoux,",
+            "Saee, Regina¬",
+            "Nous prevoyons vnme mifere,",
+            "Qui nous menace por toijoaurs,",
+            "Si vous, ò̂ Reine debonnaire,",
+            "Ne venez à notre ſeours,",
+            "Mater niſericorhie¬",
+            "C’eſt à vous que nas veaxe ’audneſſe,",
+            "Poar obenaore taeabon¬",
+            "Déja les pourfutesr uouit pree,",
+            "Ne nous laiſſez d lauſo,",
+            "Vita, dnlcedo, &amp;ſpesnoſta, ſalre.",
+            "Ne demeurez poihaê inée,",
+            "Des vols que naus avonronmmis",
+            "La peine n’eſt pa nerée,",
+            "Piſque vous nous Poé̀ permnre",
+            "a&amp;d Te cdamadt e",
+            "a",
+            "1",
+            "4"
+        ]
+    ]
+}

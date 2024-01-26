@@ -1,0 +1,236 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Récit véritable de ce qui s'est passé à\n                    l'emprisonnement des princes.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "(s. l)"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "RECIT VERITABLE",
+            "de ce qui s’eſt paſseé́ à",
+            "l’empriſonnement",
+            "des Princes.",
+            "M. DC. L."
+        ],
+        [
+            "1",
+            "2",
+            "A4",
+            "1",
+            "8"
+        ],
+        [
+            "3",
+            "teee4e4",
+            "e ieean ue",
+            "ieſt pet d lemprijſnmmn.S",
+            "des Priez.",
+            "e Pinee.",
+            "Sleſ nrbpun un domnele r pem",
+            "n naleie d reren dnr nde",
+            "en rneſenre ſn eu lere",
+            "ereirioeeſiſiei eneieie¬",
+            "elae eieſeleu nedle le e oeuen",
+            "ete ei S eneie leune ſe enunne",
+            "Eteelie ene le n nee",
+            "peſeeredenree euele",
+            "eiee de rnreeneee",
+            "naadnnn, poupae,ee",
+            "e Roy.",
+            "let etre d pu ume, cea",
+            "rneleei e eerer e",
+            "aeneu ifie en en e eei",
+            "aeeieeoe e eueneſliee",
+            "adapus",
+            "Le Prine",
+            "ube ûre que l’ay ſuiny par tour,"
+        ],
+        [
+            "l",
+            ",¬",
+            "e ſeay que vous aue quare qualre nſn.",
+            "le le oure perſonre a ſeanoit la lnere",
+            "le o aenuen, le nilumen eedſe e",
+            "e lu u auonr pue doa on lonerne enes",
+            "e ot iee u ie le reement embae¬",
+            "nure le li u preſue fi omou ſ e pne",
+            "aue e lni ei mounaemneou dh ie enape¬",
+            "nenu preeipie que ie les ar eondus lniaſe",
+            "e e ou noie domnueqie s ouenſlten",
+            "re re n uilenen nis de len lhenre",
+            "au le ni en li ednunodioue en le len le",
+            "e aier eout niliernes eſle pai lné",
+            "lle ſ’ lirne ue voſie lmiare pai oreſet",
+            "ous e u lque noiu aundſine, abiiel",
+            "e i ſe le eipſes eumne ſena l olai l",
+            "du monde, pour ne amais reuure, a",
+            "n de ſignales ſeruices, mainenant vous me",
+            "lie Naae dimns, Pourquoy ecela",
+            "L R eye.!",
+            "Quu nlonn aal n qund ponſls e",
+            "aarnt que a ueſe eſt rop peie pous le",
+            "bonnet que tu voulois luy proeurer.",
+            "Le ’rinss.",
+            "Et vous illluſtre Gene, à qui i’ay fais la",
+            "baroe ſans aloir pout vous ccommoes l",
+            "poil plus doueement, fi vous aue eu la fié",
+            "ma eompagnie, ce n’aeſte que de peur, l",
+            "me daile qui vous alguery d’vn ſifaſeheue",
+            "blement ma frappé le eœur ſi focœmen ¬"
+        ],
+        [
+            "uet neſene unr ’ea anenuitede n,",
+            "pr ienenp nſe li uue dlnſe ien nee",
+            "ndoue uu dnnl poun poeo onr",
+            "Le Cardiaa.",
+            "e oiltrnt oel n qandpanſ cen",
+            "ern oe ns u li euſe eune ſie et",
+            "ailns eiuien rou erei ſue pueile",
+            "ulnen, ulenei e i e euſnene",
+            "hos ſuiets.",
+            "e Prſje¬",
+            "uoune lee nunrelaire de l reonee qu",
+            "le e nl nſe reae e l lnmen ee",
+            "erene e pdre f e eine uene ie",
+            "iele en ſoe ins luiee e on ene let",
+            "lenoene ie ern eu elel e e one",
+            "ueoueds e uedile ſneſe ene",
+            "Vue l enue ue oner len uenue",
+            "de oe pae e ſienine nei nſene ne",
+            "n eieiſe eieieie eiue",
+            "le n ie nunuene le le onouiei dele",
+            "n ulei ne deiens eon l ſeere",
+            "Le Parlemenr.",
+            "e ilnu eilnunu pa o eet un",
+            "pe een enali ſlee en el eſi de",
+            "nt i pein de pſii dns de",
+            "Le Praee.",
+            "lell flu onane d lmlaen poe vi",
+            "dnue rleuilepune e ieien rene ne",
+            "tl luinaihunſiu le ue e de eu e",
+            "¬¬A-¬",
+            "E"
+        ],
+        [
+            "’ay pas oubliée dans la diſtribution de mes fa¬",
+            "ueurs, il eſt vray que tu es tropriche pour deue¬",
+            "nir gueuſe, neantmoins i’auois trouué́ moyen",
+            "de e faire porter cette qualité, Euangelique, ¬",
+            "i’euſſe empeſché ta mere de te donner du pain,",
+            "prie Dieu que ie remonte ſur ma beſte, &amp; tu",
+            "verras comme elle petera, mais maintenant que",
+            "i’accomplis mes vœux tu m’abandonae, nunc",
+            "dimitts, pourquoy cela?",
+            "Paris.",
+            "Quia viderunt oeuli mei, Qaod paraſti, &amp; qul",
+            "faut reputer vn enfant baſtard qui fait la guer¬",
+            "re à ſa mere.",
+            "Le Peiace.",
+            "Quoy? tout le monde me qultte, ie ne quite",
+            "teray pas le monde, ah; funeſte ſolitude, où̀",
+            "i’ay eſté forgé, tu ne pouuois m’eſchapper:",
+            "c’eſt icy ou pour faire penitence des meurt res",
+            "&amp; des neceſſitex que i’ay commis, il faut que",
+            "ie ramaſſe les lames, que i’ay verſez en mon",
+            "enfance, afin que leur innocence rendent mes",
+            "ſouſpirs plus agreable à D.",
+            "Ghboſa cacumin rerrae",
+            "Caſtra tegnt, ftrictoque latenmt in carcere Daces,",
+            "PI N."
+        ],
+        [
+            "1",
+            "?",
+            "a",
+            "1"
+        ],
+        [
+            "u",
+            "ſ",
+            "a l"
+        ],
+        [
+            "¬¬",
+            "¬¬"
+        ],
+        [
+            "J¬",
+            ".",
+            "es",
+            "S",
+            "¬",
+            "i¬",
+            "a"
+        ],
+        [
+            "¬¬"
+        ],
+        [
+            "I",
+            "¬",
+            "1",
+            "¬",
+            "ats"
+        ],
+        [
+            "l"
+        ],
+        [
+            "¬¬"
+        ],
+        [
+            "e¬",
+            "2 E",
+            "a1"
+        ],
+        [
+            "¬",
+            "¬",
+            ",",
+            ".",
+            "-, ſi¬"
+        ]
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1650-01",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre du roi de la Grande-Bretagne envoyée à son\n          excellence le marquis de Montrose, gouverneur et lieutenant général, pour Sadite Majesté,\n          d'Écosse et généralissime de ses armées par terre et par mer dans ce royaume, touchant\n          l'ordre que Sa Majesté a donné pour le traité de la paix du royaume d'Écosse, qui se fera\n          le 15 de mars, en la ville de Breda en Hollande, avec ordre pour les armées qui se\n          lèveront audit royaume pour le roi contre le Parlement d'Angleterre, pour se venger de la\n          mort du feu roi, son père.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000118675506",
+            "persName": {
+                "forename": "Charles",
+                "surname": "d'Angleterre",
+                "name": "Charles II"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000367213580",
+            "persName": {
+                "forename": "Guillaume",
+                "surname": "Sassier"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "1 I",
+            "L I 1 I IL",
+            "DVROY DE LA",
+            "GRANDE BRET AGNE",
+            "D rs A",
+            "y",
+            "ENVOYE’E",
+            "VE 1",
+            "ASON EXCELLENCE",
+            "LE MARQVIS DE MONTROSE,",
+            "Gouuerneur, &amp; Lieutenant General pour ſadite",
+            "Maeſte d reſeoſſe, &amp; oenernauiſime deiſesAmee",
+            "par mer &amp; par terre dans ce Royaume.",
+            "TOVCANT L’ORDRE QE 3",
+            "Maſjeſté́ donmné pour le traité de la Pai du Royaume",
+            "d’Eſcoſſe, quiſe fera le s. de Mars en la ville de Sreda en",
+            "HIollanmde, auec ordre pour les Armees quiſe leueront aude",
+            "Royaume pour le Roy contre le Parlement d’Anglterre,",
+            "poure vanger de la mort du feus Roy ſos Pere.",
+            "1.",
+            "p4",
+            "A PAR1S,",
+            "Chez Guillaume Saſſier, Imprimeur &amp; Libraire or",
+            "dinaire du Roy, ruë des Cordiers, proche la Sor",
+            "bonne, aux deux Tourterelles.",
+            "MD",
+            "l27o-B"
+        ],
+        [
+            "64",
+            "auons receu des Lettres de noſtre Royaume",
+            "d’Eſcoſſe, donf vous receurez la copie auec celle",
+            "cy: par leſquelles nos ſujets demandent de Nous,",
+            "qu’il nous plaiſe de recognoiſtre pour legitime",
+            "leur Parlement, &amp; particulierement les deux",
+            "dernieres ſeances de cette aſſemblée; ce qu’ayant",
+            "obtenu de noſtre grace, ils offrent d’enuoyer",
+            "vers Nous des Deputez, auec ample Commiſſion,",
+            "pour traiter auec Nous des moyens de reſtablir la",
+            "Paix, &amp; l’obeiſſance dans le Royaume. Nous leur",
+            "auons fait reſponſe, dont nous vous enuoyons",
+            "auſſi vne copie auec lapreſente, que nous auons",
+            "fait connoiſtre à leur enuoye, le lieu ou nous de",
+            "ſirons que leurs Deputez ayent aà nous venir",
+            "trouuer en toute diligence: &amp; afin que vous n’a",
+            "prehendiez point que par nos lettres, ou pa",
+            "traité, nous auons deſſein d’aporter de l’empeſ",
+            "chement aux affaires que nous vous auons com",
+            "miſes, Nous auons jugé aà propos, de vous faire",
+            "ſçauoir, que comme nous eſtimons que les le",
+            "uées que vous auez faites pour le bien de noſtre",
+            "ſeruice ont eſté́ vn puiſſant motif pour obliger",
+            "nos ſujets aà deputer vers nous;,’Nous jugeons de",
+            "meſme, que le progrez que vous ferez dans vos",
+            "genereux deſſeins, les diſpoſeront à ſe compor",
+            "ter dans le Traitté́ auec beaucoup de modera",
+            "tion, afin que tout le Royaume ſe puiſſe revnir",
+            "heureuſement ſous noſtre obeïſſance. Nous",
+            "vous",
+            "- eſ"
+        ],
+        [
+            "vous aſſeurons donc, que nous n’auonas point.",
+            "la moindre penſeée de deroger par aucun traité,",
+            "ou autrement, aà cetre ample Commiſſionque",
+            "nous auons donné́e, ny de diminuer en façon",
+            "quelcoaque cette authorité, dont nous vous",
+            "auons reueſtu par nos Lettres patentes. Nous",
+            "vous prõmettons auſſi, que s’il nous arriue d’en",
+            "trer en bonne intelligence auec noe ſujets, ous",
+            "aurons tant de ſoin de vos propres intereſts, &amp;",
+            "de ceux de nos fidelles ſujets qui s’embarqueront",
+            "auecvous, que tout le monde verra combien",
+            "nous eſtimons voſtre Parſonne, &amp; quelle con.",
+            "ſiance nous auons en voſtre coduitte &amp; erlvoſtre",
+            "courage, dont non ſeulement le feu Roy, noſtre",
+            "Pere, d’heureuſe memoire, mais nous auſſiaune",
+            "receu de ſi grandes preuues, tantparc que voul",
+            "auez fait, que par ce que vous auez ſouffort pou?",
+            "nous. Cependant vous ſçaurez que nous auons",
+            "qualifié l’aſſemblée de nos ſujets de l’appellation",
+            "de Commité des Eſtats, ce que nous auons fait",
+            "ſeulement à cauſe du traité. Que s’il n’a pas le",
+            "ſuccés que nous deſirons, comme nous ſçauons",
+            "deſia que cette qualification ſous ſeing priué́ ne",
+            "les authoriſe pas en aucune maniere, Nous decla",
+            "rerons tout auſſitoſtpour qui nous les tenõs, non",
+            "obſtant ce titre que nous leurauons accordeé, tant",
+            "pour leur propre ſatisfaction, que pour donnerà",
+            "cognoiſtre à tout le monde, que nous ſouhaitons"
+        ],
+        [
+            "6",
+            "de ramener nos ſujets du Royaume d’Eſcoſſoà",
+            "leur deuoir, plutoſt par les voyes de douceur &amp;",
+            "d’amitié, que par les rigueurs de nos armes, ſi leur",
+            "propre obſtination, &amp; l’injuſtice de leurs deman",
+            "des nous contraignent de recourir à la force.",
+            "Nous voulons donc, &amp; vous donnons plein",
+            "uoir, de proceder vigoureuſement dans vos en",
+            "trepriſes, ne doutant point que tous nos idelles",
+            "&amp; loyaux ſujets d’Eſcoſſe ne ſe ioignẽt auec vous,",
+            "&amp; que parce moyen, tous ceux qui ſont autre",
+            "ment diſpoſez ſe ſoumettront à la raiſon dans le",
+            "traité que nous acceptons, ou ſeront forcez de",
+            "s’y rendre par les armes; à cette fin, nous vous",
+            "permettons de faire publier &amp; de communiquer",
+            "la preſente à qui vous jugerez à propos. Ainſi",
+            "naous prions Dieu de vous conſeruer, tres-cher",
+            "Couſin."
+        ]
+    ]
+}

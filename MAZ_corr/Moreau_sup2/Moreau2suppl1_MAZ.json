@@ -1,0 +1,68 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "sonnet",
+            "poésie à forme fixe"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-04",
+            "@who": "AB"
+        },
+        "titre": "A Mazarin, sonnet.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-03-15",
+                "@notAfter": "1649-03-31",
+                "@when": "1649",
+                "#text": "deuxième quinzaine de\n            mars 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "1"
+    },
+    "texte": [
+        [
+            "A MAZARIN",
+            "SONNET",
+            "NOvs auons donc la Paix, graces aux Courtiſans,",
+            "Et mal-gré la Iuſtice enfin on nous la donne,",
+            "Mazarin a vaincu, ſilence aux mediſans,",
+            "La Regence a beſoin de ſa rate perſonne.",
+            "Quoy! vous en ſouſpirez, mal-heureux Artiſans,",
+            "Allez à l’Hoſpital la Reyne vous l’ordonne,",
+            "Le Parlement l’approuue, approchez Partiſans",
+            "La France encore vn coup vous ſouſmet ſa Couronne.",
+            "On vous en doit l’honneur, illuſtres Deputez,",
+            "Auec tant d’auantage arreſter des Traitez;",
+            "C’eſt vn coup qui ſurprend l’eſprit des plus credules:",
+            "Mais l’œuure eſt imparfait il le faut couronner,",
+            "Pour aſſeurer la Paix que vous croyez donner,",
+            "Faites en plein Senat vn Ceſar de ce Iules."
+        ]
+    ]
+}

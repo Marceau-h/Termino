@@ -1,0 +1,104 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Déguisements (costume) – Règlements (droit administratif)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant défenses, à toutes\n          personnes en cette ville et faubourgs de Paris, de changer leurs noms et de se travestir\n          et déguiser pour sortir de ladite ville, sur peine de la vie.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01-21",
+                "#text": "21 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "Arreſt de la Cour",
+            "DE PARLEMENT.",
+            "PORTANT DEFENSES A TOVTES",
+            "perſonnes eſtans en cette Ville &amp; Faux bourgs",
+            "de Paris, de changer leurs noms , &amp; de ſe tra",
+            "ueſtir &amp; déguiſer, pour ſortir de ladite Ville,",
+            "ſur peine de Vie.",
+            "Du vingtieſme Ianuier mil ſix cens quarante neuf.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "EXTRAICT DES REGISTRES",
+            "de Parlement.",
+            "LA COVR, toutes les Chambres aſſem",
+            "blees, A ait &amp; fait res-enpreſes inhi",
+            "bitions &amp; defenſes à toutes perſonnes",
+            "i eftans en cette Ville &amp; Faux-bourgs de",
+            "Paris, de changer leurs noms, &amp; de ſe",
+            "traueſtir &amp; dé́guiſer en quelque ſorte &amp; maniere que",
+            "ce ſoit, pour ſortir la Ville, à peine de la vie. En",
+            "joint aux Capiraines qui ſont prepoſez aux Portes,",
+            "de veiller &amp; faire en ſorte qu’il n’y ſoit contreuenu!",
+            "Et ſera le preſent Arreſt, à la diligence du Procureur",
+            "General du Roy, leu, publié à̀ ſon de Trompe &amp; cry",
+            "publie, &amp; affiché par tous les carrefours de cette Ville",
+            "&amp; Faux-bourgs, à ce qu’aucun n’en pretende cauſe",
+            "d’ignoranee. FAIT enParlement le vingtiéme Ian",
+            "vier mil ſix cens quarante-neuf",
+            "DV TILLET.",
+            "Signeé́,",
+            "E vingt-vnieme iour de Ianvier mil ſix cens quarante",
+            "neuf, lArreſt ey-deſſus de Noſſeignmeurs de la Cour",
+            "de Parlement, a eſté leas &amp; publié́ à ſon de Trompe &amp; cry",
+            "public, par tous les Carrefours ordinaires &amp; exrraordinaires",
+            "de certe Ville &amp; Faue-bourgs de Paris, parmoy Iean Ioſſier,",
+            "Iureé Crieur ordinaire du Roy en la Ville, Preuoſté &amp; Vi",
+            "comté́ dle Paris, aſſiſte de Didier Ordin, Iean du Bos &amp; Iac",
+            "ques le Frain, Iurez Trompettes du Roy eſdiss lieux.",
+            "Signé, IOSSIER."
+        ]
+    ]
+}

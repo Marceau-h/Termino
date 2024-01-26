@@ -1,0 +1,128 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre du roi envoyée à messieurs du Parlement sur son\n          voyage de Berry.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "persName": {
+                "forename": "Louis",
+                "surname": [
+                    "Bourbon (De)",
+                    "Louis XIV"
+                ]
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1651",
+            "#text": "1651"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000359773502",
+            "persName": {
+                "forename": "Veuve de Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "J r r D",
+            "L L I",
+            "DV ROY,",
+            "ENVOYEE A MESSIEVRS",
+            "DV PARLEMENT,",
+            "SVRSON O",
+            "de Berry.",
+            "2",
+            "odo",
+            "e",
+            "t",
+            "A",
+            "eee?",
+            "Suiei",
+            "PARIS.",
+            "le I’Imprimerie de la Veufue IEAN",
+            "VILLEMOT, ruë des Marmou",
+            "2ets, proche l’Egliſe de la",
+            "Magdeleine.",
+            "M. DC. LI.",
+            "31o11"
+        ],
+        [
+            "¬11",
+            "i n",
+            "a",
+            "*",
+            "s E",
+            "6 1"
+        ],
+        [
+            "&amp; Z, ,s",
+            "s é e ’s",
+            "T E E",
+            "T DA",
+            "DE PARLE ROY.",
+            "e OS amez &amp; feaux. Nous",
+            "el noneenr rene ee",
+            "me deſplaiſir l’abſence de",
+            "noſtre Couſin le Prince de Con",
+            "dé, &amp; appris ſon ſejour en Berry,",
+            "&amp; delà en Guyenne, puis qu’il eſ",
+            "ſaye par tout de ſeduire nos bons",
+            "Subjets, &amp; ſous de faux pretextes",
+            "de les porter à vn ſouſleuement, &amp;",
+            "vne publique deſobeyſſance, &amp;",
+            "nous ſommes obligez de preuenir",
+            "les maux qui peuuent naiſtre, &amp;",
+            "arreſter le cours des deſordres qui",
+            "emportent la ruyne de nos Peu",
+            "ples: Nous auons pris reſolution",
+            "d’aller en noſtre Prouince de Ber¬"
+        ],
+        [
+            "ry, qui nous appelle à ſon ſecours",
+            "Nos nous promettons que du¬’",
+            "rant noſtre abſence, quiſera pour",
+            "peu de iours, vous employerez vos",
+            "ſoins, &amp; le credit de vos Charges,",
+            "pour maintenir nos l’euples en leur",
+            "deuoir, &amp; ſur tout noſtre bonne",
+            "ville de Paris, ce ſera vne ſuitte",
+            "de vos actions qui nous ont fait ſi",
+            "ſouuent connoiſtre la fidelité de",
+            "vos affections enuers l’Eſtat. Don",
+            "né à Fontainebleau le premier iour",
+            "dOobre 1o6s. Signé, LOVIS,",
+            "lt pls ba de Guenegaud,&amp; ſeel",
+            "r",
+            "v e",
+            "e2",
+            "Ss ce. s ameZ a&amp; feaux Conſeillers,",
+            "15ſ c eurde Parlcmeut à Pa",
+            "les C",
+            "r1."
+        ]
+    ]
+}

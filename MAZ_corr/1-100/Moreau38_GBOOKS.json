@@ -1,0 +1,139 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "discours adressé",
+            "prosopopée"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-08-19",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-24",
+            "@who": "AB"
+        },
+        "titre": "L'adieu de la France au cardinal Mazarin",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1652-08-19",
+                "@when": "1652",
+                "#text": "après le 19 août 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "L'ADIEV",
+            "DE",
+            "LA FRANCE",
+            "AV",
+            "CARDINAL",
+            "Mazarin.",
+            "<figure",
+            "type=\"decoration\" />",
+            "A PARIS,",
+            "M. DC. LII."
+        ],
+        [
+            "<pb",
+            "n=\"3\" />",
+            "L’adieu de la France au Cardinal Mazarin. ENFIN, Cher Mazarin,",
+            "tu te retire de mes terres, &amp; ie te puis bien appeller cher: Car ſi on dit",
+            "communément qu’on n’achete ja mais trop cher vne bonne",
+            "marchandiſe: cer tainement Mazarin on achepre touſiours trop vne mauuaiſe",
+            "à quelque prix qu’on la donne: Et quoy que tu fuſſe de cette qualiteé́, &amp; que tu",
+            "ne vaille rien, meſ me moinsque rien, tu n’as pas laiſſé de le",
+            "vendre bien cher: mais la ſottiſe eſt aux acheteurs qui ſont mes ſu <lb rend=\"¬\"",
+            "break=\"no\" />Jets, &amp; qui ſe connoiſſent tres- peu aà la valeur des mar <lb rend=\"¬\"",
+            "break=\"no\" />chãdiſes eſtrangeres. Ores comme i’ay aeccouſtumé de. regaler tous les",
+            "Eſtrangersà̀ leur départ, au lieu de te faire preſent de quelque beau diamant dont tu",
+            "n’as pas beſoin, ie te veux faire vn preſent pour le ſalut de ton. ame, &amp;",
+            "t’aduertir que tu es obligé à faire reſtitution du prix pour lequel tu t’eſt vendu,",
+            "ny plus ny moins qu’vn. marchand qui auroit vendu de la ſerge de Beauuais. pour,",
+            "de bondrapd’Eſpagneé, &amp; qu’à̀ moins de cela ie  puis, herMazari, mon frere",
+            "Chreſtien te donner ſperane de la vie eternelle,  lded  Aij"
+        ],
+        [
+            ".  Pemier e n  V ſcais bien Mazarin que u t’es vendu à mes ſu  jets pour",
+            "vn honneſe homme, &amp; pourtant tu ne TFeſt pas Tu ſçais bien que tu t’eſt",
+            "vendu pourvn homme de naiſſance, &amp; tu es fils d’yn coquin: ainſi que m’a bien fait",
+            "connoiſtre le fameux Cheualier Georges.  Tu t’eſt vendu pour vn bon Miniſtre, &amp; tu",
+            "ſç̧ais bien que quand tu te qualifieras deſormais indigne ſucceſſeur du Cardinal",
+            "de Richelieu, tu ne feras que ton deuoir ſans qu’ily ayt aucune humiliteé en ton fait, car",
+            "tu n’entends rien au Miniſtere. Tu t’eſt vendu pour vn grand Arbaleſtrier d’a <lb",
+            "rend=\"¬\" break=\"no\" />mour, &amp; tu ſçais bien que ſouuent mes filles laſciues t’euſſent",
+            "donueé du pied au ecul, ſi tu n’euſſes eu re; cours au cachou &amp; à la cantaride. Tu",
+            "t’es vendu pour vn bon Politique, &amp; tu ne ſçais  faire ny la paix ny la guerre. Tu",
+            "t’eſt vendu pour vn Eccleſiaſtique, &amp; tu ne ſçais pas dire ton Breuiaire. Tu",
+            "teſt vendu pour vn Cardinal ſuppoſt de l’Egli <lb",
+            "rend=\"¬\" break=\"no\" />ſe Romaine, &amp; tu ſçais bien que tu as pluſœurs fois ofſ <lb",
+            "rend=\"¬\" break=\"no\" />fencé le Pape, &amp; voulu porter la guerre en fes Eſtars.  Tu",
+            "t’eſt vendu pour vn bon amy: &amp; tu as trompé tous ceux qui ont eu creance en toy,",
+            "&amp; qui ont pris plaiſir à t’obliger. Tu t’eſt vendu pour vn homme franc",
+            "&amp; loyal, &amp; t ſçais bien queeu es vn trompeur &amp; vn pipeur en toutes choſes,",
+            "&amp; que deux fois on t’a rouué des caros dans"
+        ],
+        [
+            "tes chauſſes comme tu",
+            "joois au Picquet chez vn hom me de qualiteé. Tu t’és vendu",
+            "pour vn homme de refolution, &amp; r ſçais bien Mazarin quetu ne ſçais ny ainer tes",
+            "amis, ny hair tes ennemis. Tu t’és vendu pour vn ſçauant, &amp; tu ne ſç̧ais ny Grecny",
+            "Latin.  Tu t’é́s vendu pour Econome, &amp; eu’es vn homme de confuſion,",
+            "laquelletu as cauſée en mon Royaume à̀ vntel point que ie doute s’il s’en",
+            "pourrareleuer. Tu t’és vendu pour vn homme amy de la Royauté, &amp; tu as",
+            "abadonné toute l’authorité́ du Roy, douze Maiſtres des Requeſtes t’ontfait peur, &amp;",
+            "tu as appre hendé vn regiment de bonnets carrez autant qu’vin regiment",
+            "de Dragons. Tu t’és vendu pour ’vn Phyſionomiſte, &amp; tu n’as iamais connu",
+            "les hommes pour leur diſtribuer les employs ſelon leur porté́e.  Tau t’és vendu",
+            "pour vnhomme qui ſçauoit cohn nmaander, &amp; tu as ſouffert",
+            "toutes les injures qu’on peut faire aux plus grands faquins. Tu t’és vendu pour",
+            "vn honmlme de conſcience, &amp; tu es vn Symoniaque ſuperlatif. u t’és vendu",
+            "pour vn homme pitoyable, &amp; bon: &amp; tu as reſolu deux fois d’exterminer ma bonne",
+            "Ville de Paris, &amp; de faire mourir de faimtous mes pauures Habirans: apres",
+            "auoir enjoint au Mareſchal de Tu rennes, &amp; à tes autres",
+            "Generaux, d’exercer toutes ſor tes de cruautez contre mes Habitans",
+            "du plat-pais. B"
+        ],
+        [
+            "6 Tu t’eé́s vendu pur vn homme qui ſentolſt",
+            "bon, &amp; tu ſçais bien Mazarin, que tu as l’eſtomach tres-puant, e qu’il en",
+            "lort des exhalaiſons tres importunes.. Tu t’eé́s vendu pour vn bon Eſcuyer: &amp; tu",
+            "ſç̧ais bien qu’il n’y a point eu d’années que tu n’ayes tre",
+            "bucheé. Tu t’és vendu pour vn homme de verité́, &amp; tu n’es qu’vn menteur,",
+            "&amp; tellement addonné à ce vice, qu’en cores preſentement tu",
+            "dis, que tu ſors de man Royaus me pour ny plus retourner, &amp; tu tés déja laiſſé",
+            "enten dre que tu és aſſeureé de ton retour. Ores ie ſuis",
+            "obligée de t’aduertir Mazarin tres cher, que Dieu maaudit dans",
+            "l’Eſcriture ceux qui par: lent d’vne façon, &amp; penſent de l’autre, &amp; que ſi tu veus",
+            "faire ton ſalut, il faut que tu ſortes de mes Eſtats, comme tu y eés entré ſans aueuns",
+            "biens, &amp; que u j laiſſe pour reſtitution, tout ce que tu y poſſede, ſans iamais",
+            "retourner; car il eſt difficile qu’on t’y paiſſe ſouffrir, quand bien tu ne, voudrois",
+            "ſeruir que d’E ſtalon du Marais.  FIN."
+        ]
+    ]
+}

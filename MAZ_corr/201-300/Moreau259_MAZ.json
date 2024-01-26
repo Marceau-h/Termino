@@ -1,0 +1,127 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "faux",
+            "arrêt"
+        ],
+        "handwritten_note": true,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de confirmation de la cour de parlement, du 8\n          janvier 1649, donné contre le cardinal Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Moreau",
+            "@role": "speaker",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01-28",
+                "#text": "28 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:000000037117481X",
+            "@xml:id": "IL_BouillerotJeremie.xml",
+            "persName": {
+                "forename": "Jérémie",
+                "surname": "Bouillerot"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE",
+            "CONFIRMATION",
+            "DE LA COVR",
+            "DE PARLEMENT.",
+            "Du huictieſme Ianuier 1649.",
+            "Donné contre le Cardinal Mazarin.",
+            "A PARIS,",
+            "Chez IEREMIE BOVILLEROT, ruë de la Calandre, au",
+            "Saumon, près le Palais.",
+            "M. DC. XLIX."
+        ],
+        [
+            "3",
+            "ARREST DE CONFIRMATION",
+            "de la Cor de Parlement, dau 8. Ianuier1649.",
+            "doné contre le Cardinal Maarin.",
+            "VR la Requeſte verballe faite par",
+            "&amp; Meſſieurs les Generaux: contenant",
+            "que pour paruenir à leurs ſeuretez s’e.",
+            "e ſtant declareéà la Cour, tant pour le",
+            "ſeruice du Roy, de la Compagnie &amp; l’vniuerſel",
+            "repos public, contre ledit Cardinal Mazarin, qui",
+            "prend impertinemment la qualité de prmier Mi",
+            "niſtre d’Eſtat; requerant l’execution entiere dudit",
+            "Arreſt, du huitieſme Ianuier dernien, iuridique",
+            "ment contre luy rendu, toutes les Chambres al",
+            "ſemblees &amp; auee grande connoiſſance de cauſe:",
+            "auquel neantmoins comme refractaire il n’a ſatis",
+            "fait ny obey depuis ledit temps, quoy qu’il luy",
+            "ſoit notoire; requerant qu’à faute de ce faire ils",
+            "deſirent qu’ils leur ſoient permis de le faire exe",
+            "cuter partoutesvoyes deues, y agir comme",
+            "en pareil cas.",
+            "L’vn de Meſſieurs dela Cour a dit, qu’il nes’eſt",
+            "iamais veu nyrencontré, meſme dans vne occa",
+            "ſion ſi preſſante, ds actions ſi loü̈ables, aduanta",
+            "geuſes à la Compagnie &amp; aux Peuples, que l’offre"
+        ],
+        [
+            "4",
+            "de Meſſieurs les Generaux, qui ſe ſont volontai",
+            "rement &amp; genereuſement portez &amp; preſentez",
+            "auec bien veillance au repos public au Parlemét,",
+            "&amp; que ce ſeroit vne ingratitude irreparable de ne",
+            "pas remarquer leurs heroi’ques actions contre vn",
+            "hommei mpie, barb are, ennemy &amp; perturbateur",
+            "!",
+            "du repos publie, &amp; leur vray ennemy capital &amp;",
+            "de l’Eſtat, comme eſtant l’autheur &amp; le motif de",
+            "l’entiere ruine du Royaume, &amp; merite l’animad",
+            "uerſion de la Cour &amp; des Peuples, leſquels reſpi",
+            "rent &amp; deſirent vnanimement qu’il ſoit tenu de",
+            "ſatisfaire audit Arreſt, &amp; qu’à faute de cefaire",
+            "d’en encourir les peines y portees: Tout cõſideré.",
+            "ouy ſur ce les Gens du Roy. LADITE COVR",
+            "ayant eſgard à ladite Requeſte verballe, faicte par",
+            "Meſſieurs les Generaux, ont ordonné &amp; ordon",
+            "nent que ledit Car dinal Mazarin ſatisfera audit.",
+            "Arreſt du huitieſme lanuier dernier, autrement",
+            "&amp; à faute de ce qu’il luy ſera courru ſus, comme il",
+            "eſt mentionné audit Arreſt &amp; ſans r etardation,",
+            "&amp; cependant que le preſent Arreſt ſera enuoyé",
+            "aux ſieurs Deputez d’icelle, pour y auoir eſgard",
+            "&amp; tenir la main à l’execution d’iceluy. Fait en Par",
+            "lement le 27. iour de Mars"
+        ]
+    ]
+}

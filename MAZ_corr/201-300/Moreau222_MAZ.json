@@ -1,0 +1,128 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Paris -- 1649 (blocus)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, contre les gens de guerre,\n          qui ont quitté les frontières pour empêcher les vivres en cette ville, avec injonction aux\n          communes de courre sus, publié l’onzième jour de janvier 1649",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-01-11",
+                "#text": "mention de publication le 11 janvier\n            1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "Arreſt de la Cour",
+            "DE PARLEMENT.",
+            "CONTRE LES GENS DE VERRE",
+            "qui ont quitté les Frontieres, pour empeſcher",
+            "les uiures en cette Ville, auec inionction aux",
+            "Communes de courre ſus.",
+            "Publié l'unzième iour de Ianvier, mil ſix cens",
+            "quarante-neuf.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinai",
+            "res du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "1",
+            "EXTRAICT DES",
+            "REGISTRES",
+            "PARLEMENT",
+            "CE iour la Cour toutes les Chambres",
+            "aſſemblées, ſur l’aduis qu’en haine de",
+            "l’Arreſt de ladire Cour, rendu le hui",
+            "ctiéme de ce mois &amp; an; Le Cardinal",
+            "Mazarin, pour exercer ſa vengeance contre ladire",
+            "Cour &amp; ceſte ville de Paris, fait auancer toutes les",
+            "troupes qui eſtoient ſur la frontiere, meſme cel",
+            "les qui eſtoient en garniſon dans les places les plus",
+            "importantes, &amp; tire le canon des Citadelles des",
+            "villes frontieres; &amp; expoſe par ce moyen tou",
+            "tes les villes aux ennemis, &amp; le Royaume en proye;",
+            "A oRDonNE ET oRDonNNE, que ledit Arreſt ſe",
+            "ra executé, fait inhibitions &amp; deffenſes à tous Ca",
+            "pitaines &amp; ſoldats, d’approcher à vingt lieuës de",
+            "ceſte ville de Paris: Enioint à̀ ceux qui ſont plus a",
+            "uancez, de ſe retirer dans les garniſons desvilles",
+            "frontieres; à faurte de ce, permet &amp; enioint aux ha",
+            "bitans des villes, bourgs &amp; comunes, de s’arnmer &amp;"
+        ],
+        [
+            ".",
+            "4",
+            "leur courir ſus, à ceſte fin ſonner le tocſin. Fait’auſ",
+            "ſ defenſos à̀ toutes perſonnes de les rerirer &amp; leut",
+            "fournir aucuns viures &amp; munitios, Et à tous Capi",
+            "taines &amp; Gouuerneurs de laiſſer ſortir aucunes gar",
+            "niſons, canons &amp; munitions; à peine cotre tous les",
+            "contreuenans de confiſcation decorpls &amp; biens:",
+            "Et ſera le preſent Arreſt, leu, publié &amp; affiché par",
+            "tous les carrefours de ceſte ville, &amp; fàaux-bourgs",
+            "de Paris, &amp; enuoyé aux autres villes, bourgs &amp; vil",
+            "lages, pour y eſtre pareillement publié &amp; affiché",
+            "à la diligence du Procureur General. Farren Par",
+            "lement le dixiéme lanuier, mil ſix cen quarante",
+            "neuf",
+            "Signé, DV TILLET,",
+            "Conſeiler Secretaé des Roy &amp;",
+            "dll de ſes Fnnte",
+            "CE Lundy dixiene iour -deanaier mil ſie cenr qua¬",
+            "rente-neuf, l’Argeſt cye deſſus de Noſſeignéurs dela",
+            "Cousr de Parlement, a ſté leu &amp; pblié à ſom de Trompe",
+            "&amp; Cry public, tant és Pertes &amp; entrées de cette ille",
+            "Faux bours de Pdris, q’ausi drbfiumis &amp;. Plaerp",
+            "bliques de tete dire, Ville ar Fau bourgspa moy tean",
+            "Ioßier, JIuré Crieur dinairs dai Roy ein l V’ille, l’reuoſté́",
+            "g Vicomté de Paris, aceohpagé deDidier Ordiu, dit",
+            "Champagnme, Iean da bBes, gde lacques le FrinIurz",
+            "Trompetus dae Rey, &amp; affiche oà beſoin à eſté e",
+            "Signe, IOSSIER."
+        ]
+    ]
+}

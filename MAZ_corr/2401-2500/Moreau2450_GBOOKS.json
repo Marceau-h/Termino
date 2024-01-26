@@ -1,0 +1,76 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "subject": "Approvisionnement",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-02-19",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Les menaces des harengères faites aux boulangers de\n          Paris, à faute de pain.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LES MENASSES",
+            "DES HARANGERES",
+            "Faites aux Boulangers de Paris,",
+            "à faute de pain.",
+            "M. DC. XLIX."
+        ],
+        [
+            "t apres tout cda ie peadreias poa lers baas,",
+            "Z oes blſtres agagaRZ vemdar aux Parias,;",
+            "e pai ai dufoaaar laefas plas qa ae ua,",
+            "Ie hercherois bas, le montéronr m hauſft,¬",
+            "I’iroas daas les graiers, i’entreroys dans les cdboamalbres,",
+            "Ie varondansles lcts, ie fuillrnms dans les cdadre,¬",
+            "’eufoadrotons les cafſes, ’oaudHinins er bigfss, l",
+            "Ie bouterons à bas les huis des cabinetx,",
+            "Ie oeuſerons les murs, i’ouſteons tout le plaſtre",
+            "Qui eſt fur ler planchers, le depauerons l’Aſne,.",
+            "Ie faeonsdes partaus oas auec des cougnées",
+            "Ou auec des artiaux dedans les cheminées,",
+            "Enſfſn ie charcherons par ous s’il ’y a point.",
+            "Da bled o du froumet bouté das quelque coin,",
+            "Si ie een’troauiens pas ie bouterons à aoirt.,",
+            "Ces nméchans oulanges qui o fn tane e oart.",
+            "Apres ce biau iſeous voicy haque HNaraagere,",
+            "Qui ſe iae àſoa du l di n Comner.",
+            "e ſoummes farſartes de a Sad ourmſo4",
+            "2",
+            "Va ie t’oubdds ou emps &amp;ſoi,",
+            "Et pour ſgne certan de rouſfe oubaiſſaie,",
+            "er e er e n r erer ereeee",
+            "De oaus oi Sodlapphds qai ajſoat fne",
+            "Vaadaas trop t pme ed r lafoae.",
+            "¬",
+            ".",
+            ":.."
+        ]
+    ]
+}

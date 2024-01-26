@@ -1,0 +1,176 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "narration",
+            "relation"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-06-16",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Relation générale contenant au vrai ce qui s'est passé\n          entre les deux armées (de Turenne et du duc de lorraine), à Villeneuve-Saint-Georges,\n          entre le quinzième et le seizième juin 1652.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-06",
+                "#text": "juin 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@xml:id": "IL_MirvilledePierre.xml",
+            "persName": {
+                "forename": "Pierre de",
+                "surname": "Mirville"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "DA rTT NT ’’ y",
+            "I LLN",
+            "CENERALLE,",
+            "Contenant au vray ce qui s’eſt",
+            "paſſé entre les deux armées à",
+            "Ville-neuue S. Georges, en",
+            "tre le quinze &amp; ſeizieſme",
+            "de Iuin, 1õ52.",
+            "e",
+            "che pERRE p i iviLE, e"
+        ],
+        [
+            "biss",
+            "Q&amp;Qo",
+            "3e",
+            "&amp;pSpe",
+            "e ei lu ſenuel",
+            "vray ce qui s’eſt paſſéentre",
+            "les deux Armées à la Ville",
+            "neufue ſaint Georges, en",
+            "tre le quinze &amp; ſeizieſme",
+            "de Iuin, 652.",
+            "TE ne veux point repeter ce que tant de bonnes",
+            "phames nous repreſentent tous les iours, tou",
+            "chant les deſordres de l’Eftat, &amp; les maux que la pre",
+            "ſenee de Mazarin aporre, ie veux ſeul ement vous",
+            "faire part de la marche de nosTroupes, &amp; vous don",
+            "ner aduis que l’Armée de Mazarin, commendé́ par",
+            "le Mareſchal de Turenne, &amp; celle du Duc de Lor",
+            "raine ſont aux naains &amp; en veulent taſter, le Mareſ",
+            "chal de Turenne par ſes ſurpriſes ordinaires, vine le",
+            "amody j de luiaſu leſoir poutfurprere lA"
+        ],
+        [
+            "4",
+            "ai e one e lenene euen eiei lneſe oni e",
+            "manque point de preuoyance au fait de la Guerre,",
+            "&amp; depuis vn ſi long-temps qui le pratique, ne s’eſt",
+            "point laiſſé ſurprendre, donna orde a ſes prin cipaux",
+            "Officiers de ranger ſes Troupes en batailles, &amp; d’at",
+            "tendre les Troupes du Mareſchal de Torenne, &amp; les",
+            "enuoya recognoiſtre, &amp; ſcachans qu’ils eſtoicnt en",
+            "aſſez bon noõbre: Et voyant leurs approches il les",
+            "fit ſaluër de deux pieces de Canon, ce qui n’empeſ",
+            "cha point que l’on n’en vint aux mains de part &amp;",
+            "da’utrtes, &amp; quoy que le Mareſchal de Turenne bien",
+            "uitre’en oiuere lepeuſtimi eſaner que loe",
+            "nelenferma pour vn peu de temps, ou il y eut aſſez",
+            "bon nombre de ces gens demeurez ſur la plce, &amp;",
+            "pa apres il fe degagit deſdites Troupes, ou le Com",
+            "bat dura plus de trois heures ſans aucun relaſche &amp; J",
+            "ne rei nere le one lus de enneiſ",
+            "mais l’on ne ſçait point encore s’il-y a eu quelqu’",
+            "vn de conſiderable, ny le nombre aſſeuré de ceuxl",
+            "qui y ſont demeure, d’autant que l’on a pas eu le.",
+            "tomps de faire aucune reueuë, au ſuiet que le Com",
+            "bar continuë encore, &amp; ie croy qu’il ne finaira pas",
+            "qu’il n’en demeure beaucoup durant ce grand cou",
+            "rage, de l’vn &amp; de l’autre party, d’autant que celuy",
+            "qui n’émporte la victoire luy couſte autant de pie",
+            "ce d’agent, que de piece d’or à celuy qui l’a perdu",
+            "depus. Nous auons eu nouuelle que Monſieur le",
+            "Princ &amp; Monſieur de Beaufort, ce ſont tranſporté́",
+            "au camp de l’Armée dont l’onuent que ceiourd’huy",
+            "Dimanche ſeizieſme Iuin il y a eu vn plus grand",
+            "combat"
+        ],
+        [
+            "5",
+            "combat à deux porté́es de mouſqet",
+            "de Villeneuue ſainct Georges, &amp; ue le",
+            "Mareſchal de Tur̃ne y a perdu plus de",
+            "monde qu’au precedent, &amp; ce bat toû",
+            "jours inceſſamment. Pour ce qui eſt de",
+            "la ville d’Eſtampes, Monuſieur le Com",
+            "te de Tauannes, &amp; monſieur le Baron",
+            "de Clinchamp ont ſi bien reparé la bre",
+            "che, &amp; les petits deſordres que lesMa",
+            "2arins y ont fait, &amp; ce ſont ſi blen’mu",
+            "nie tant de bled, farine, poudre, plomb",
+            "&amp; autres munitins de guerre, qu’il ne",
+            "craignẽt point non plusqu’il ont fait les",
+            "rodomontades des Mazarins, &amp; bien",
+            "au contraire, l’on tient que l’onva ti",
+            "rer cinq mille hommes de dedans ladi",
+            "te ville, d’autant que deux mille hom",
+            "mes la pouront auſſi bien garder que",
+            "huict mille, veu les fortifications que",
+            "l’on a fait &amp; que l’on fait tous les iours,",
+            "&amp; ie croy qu’ils ne retourneront pas",
+            "d’auantage prendre du ſablon en ces",
+            "quartiers, parce qu’il cuit trog. aux",
+            "eux. L’on fait marcher le canon du"
+        ],
+        [
+            "6",
+            "Duc de Lorraine à vn quart de lieuë de.",
+            "uant les troupes à celle fin de donner",
+            "rouſiours des ſalutations aux curieux,",
+            "à la reſerue de deux pieces qui ſont du",
+            "coſté de la Marne, en derriere du camp",
+            "de la troupe Lorraine. Ces ancieus",
+            "guerriers ſont ſi animez comtre ceux",
+            "qui tiennent le party Mazarin, qu’ils",
+            "montreront leur courage, &amp; qu’ilsſont",
+            "venus entierement pour faire la paix,",
+            "non point pour chercher la guerre.",
+            "Voila, Lecteur, tout ce que ie te puis",
+            "apprendre pour cette fois, ſi ee n’eſt",
+            "qu’il ne vienne quelqu’autre Courier,",
+            "qui apporte ce quis’eſt paſſé du depuis,",
+            "auec la liſte de ceux qui ſont morts &amp;",
+            "bleſſez ſi aucun y en a, pour le preſent ie",
+            "ie ne te le puis pas apprendre.",
+            "Nous auoas appris du Due de Lor: aine qu’il auoit",
+            "pris reſolution de ſe endre du coſteé du party Maza",
+            "rin; Mars comme ce n’eſt qu’vn brui: publie, &amp; que",
+            "le peupl eſt trop pteſt à eroire les choſes qui ſo nt",
+            "ſons aſſouranceauſſi biea que ceux qui ſon entiere",
+            "ment erifiez nous n’on reterons pas d’auantage ſiur"
+        ]
+    ]
+}

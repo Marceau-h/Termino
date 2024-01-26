@@ -1,0 +1,97 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-30",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant que tous les biens\n          meubles ou immeubles et revenus des bénéfices du cardinal Mazarin seront saisis, et\n          commissaires, séquestres et gardiens commis à iceux.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01-15",
+                "#text": "15 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "Arrſet de la Cour",
+            "DE PARLEMENT.",
+            "PORTANT QVE TOVS LES BIENS",
+            "meubles &amp; immeubles, &amp; reuenus des Benefices",
+            "du Cardinal Mazarin, ſeront ſaiſis, &amp; Commiſſai",
+            "res, Sequeſtres &amp; Gardiens eſtablis à̀ iceux.",
+            "Du treziéme iour de Ianuier mil ſix cens",
+            "quarente-neuf.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "EXTRAIT",
+            "DES REGISTRES",
+            "DE",
+            "PARLEMENT.",
+            "LA COVR toutes les Cham",
+            "bres aſſemblées, deliberant ſur",
+            "l’execution de l’Arreſt du s. de",
+            "ce mois &amp; an, donné contre le",
+            "Cardinal Mazarin, A OR",
+            "DONNE’ &amp; ordonne, Que tous les biens",
+            "meubles &amp; immeubles, &amp; reuenus de ſes be",
+            "nefices, ſeront ſaiſis, &amp; Commiſſaires, Seque",
+            "ſtres &amp; Gardiens eſtablis à iceux, à la requeſte",
+            "du Procureur General du Roy, &amp; diligence",
+            "de ſes Subſtituts: Et ſeront les Fermiers, Re",
+            "ceueurs &amp; debiteurs des reuenus echeus, aſſi",
+            "gnez en ladite Cour, pour repreſenter leurs",
+            "Baux, affirmer &amp; vuider leurs mains: Leus",
+            "fait defenſes d’en payer aucuns que par l’ordre"
+        ],
+        [
+            "de ladite Cour, à peine dé payer deux fois.",
+            "FAICT en Parlement le treiziéme Ianuier",
+            "mil ſix cens quarente-neuf.",
+            "Signe, DV TILLET.",
+            "Collationné à l'original par moy Conſeiller &amp; Secre",
+            "taire du Roy &amp; de ſes Finances."
+        ]
+    ]
+}

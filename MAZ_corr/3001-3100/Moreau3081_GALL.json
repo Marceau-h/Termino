@@ -1,0 +1,116 @@
+{
+    "imprimatur": "AVEC PERMISSION",
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "épitaphe",
+            "lamentation",
+            "regrets"
+        ],
+        "subject": "Rohan, Tancrède de, 1630-1649",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-02-03",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-07-01",
+            "@who": "AB"
+        },
+        "titre": "Regrets de la mort glorieuse de monsieur Tancrède de\n          Rohan à madame de Rohan, sa sœur, par le sieur Scudéry.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121441372",
+            "persName": {
+                "forename": "Georges de",
+                "surname": "Scudéry"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-02-01",
+                "@notAfter": "1649-02-07",
+                "@when": "1649",
+                "#text": "première semaine de\n            février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000011194155",
+            "@xml:id": "IL_MusnierVeuvedAndre.xml",
+            "persName": {
+                "forename": "Veuve d'André",
+                "surname": "Musnier"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "REGRETS",
+            "de la mort glorieuſe",
+            "DE MONSIEVR DE",
+            "TANCREDE",
+            "DE",
+            "ROHAN",
+            "A Madame de Rohan ſa ſœur.",
+            "PAR LE SIEVR SCVDERY.",
+            "A PARIS,",
+            "Chez la vefue A. MVSNIER, au mont ſainct",
+            "Hilaire, en la Court d’Albret",
+            "M DC. XLIX.",
+            "AVEC PERMISSION"
+        ],
+        [
+            "3",
+            "A MADAME LA DVCHESSE DE ROHAN,",
+            "Sur la mort glorieuſe de Monſieur de",
+            "Iancrede de Rohan, ſon frere.",
+            "Eedle e e e ſee ee",
+            "IéCe grand Cœur que la France admire",
+            "eeee Semlle depoſer onmtre vour.",
+            "L’inuincibleR AN plus craind que leTonnerre",
+            "it finir ſes jours à la Guerre,",
+            "Et TANCREDE a le meſme ſort",
+            "ette onformit́ qui le rounre de goire",
+            "Force preſque chacun à croire,",
+            "Que la belle OLIMPE auoit tort.",
+            "Et que ce jeune MARS ſi digne de memoire",
+            "Eut le Naiſſance ſlluſtre, außi bien que la mort."
+        ],
+        [
+            "s",
+            "¬",
+            "s itl ſ r¬",
+            "AA1",
+            "l v",
+            "lL L L AAL L I A",
+            "iOHAN qui combatoit pour deſliurer la France",
+            "EFſt mort dans la taptiuite,",
+            "Son om luy fut à tort en viuant disputé,",
+            "ais ſonIlluſtre mort a prouue ſan aiſſante",
+            "Il eſt mort glorieux pour la cauſe d’autruy,",
+            "C’eſt pour leParlement qu’il entra dans la lice",
+            "Il a tout fait pour la luſtice,",
+            "Et la Iuſtice rien pour luy.",
+            "es",
+            "4",
+            "S"
+        ]
+    ]
+}

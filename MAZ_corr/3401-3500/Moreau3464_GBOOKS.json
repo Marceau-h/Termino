@@ -1,0 +1,103 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "requête",
+            "rhétorique délibérative",
+            "discours adressé"
+        ],
+        "subject": "Loyer",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-30",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "La requête à nos seigneurs de la cour de Parlement pour\n          être exemptés de payer aux propriétaires des maisons le terme de Pâques.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "REQVES TE",
+            "NOSSEIGNEVRS",
+            "e ieie",
+            "’erue de Da ſouen",
+            "MXLIX."
+        ],
+        [
+            "i &amp; At thé",
+            "’ t ſ i8",
+            "A Noſſeigneurs de Parlement.",
+            "VPLI ENT humblement les pauures ha",
+            ", bitants, Locataires &amp; Chambrelans, de",
+            "la ville &amp; faux-bourgs de Paris, diſant",
+            "que depuis cinq à ſix mois qu’il y a que le",
+            "Roy eſt fſorty de Paris, &amp; notamment depuis le",
+            "ſixefme de lanuier, le commerce auroit eſté",
+            "tellemẽt aboly &amp; ceſſé, &amp; les vures ſi encheris,",
+            "qu’il a eſté impoſſible aux pauures Supplians",
+            "d’y pouuoir ſubuenir, au contraire, ils ont",
+            "eſté teſlemrent dénuez de tout, que pour nour",
+            "rii&amp; entretenir leurs familles ils ont eſté con",
+            "rraincts de vendre &amp; engager la pluſpuart de ce",
+            "qu’ils auoient, &amp; aefſmes tels y en a; dont la",
+            "recefſité aeſtéſt gtande, qu’ils ont- eſtez con",
+            "tranéts d’alle- demander leut vie, &amp; d’auttes",
+            "qui en ſont dmeurez malade iuſques a l’extre",
+            "mité, &amp; por comble de outes ces miſeres,",
+            "les Prop ietaires des maiſons où demeurent",
+            "leſdits pauures Suppliants, les menaſſent en",
+            "cores de les faires payer le terme qui court aà̀",
+            "A",
+            "2"
+        ],
+        [
+            "3",
+            "preſent. qui ſeroit tout à faict les mettre au)",
+            "leſepo, ſi apes y auoir deſtrut &amp; con",
+            "ſomme tout ſi peu qu’ils auoient pu amaſſer",
+            "tout le temps de leur vie, ils ſe voyoient enco",
+            "res conu ancts a payet ce teme: Ce",
+            "CONSIDERE’NOSSE I GNEVRS,",
+            "il vous plaſe( pour donner quelque ſoulage",
+            "ment auſdits pauures Suppliants) d’ordonner",
+            "que le terme qui court, &amp; qui doit eſcheoir à",
+            "Paſques, ne ſera point payé par les Locataires",
+            "&amp; Chambrelans, pour les raiſons ſuſdites, &amp;",
+            "que defences ſeront faictes à̀ tous Proprietai",
+            "res des maiſons, de contraindre, ny faire con",
+            "trandre par d’autres, en quelque façon que ce",
+            "puſſe eſtre, les pauures habitans de ceſte ville",
+            "de Paris, ny meſme de retenir leurs meubles,ny",
+            "autres choſes à eu appartenant, afin qu’apres",
+            "tant de diſgraces receuü̈es par les pauures Sup",
+            "plians, ils puiſſent du moins auoir la lber té de",
+            "deſmenager, ſi bon lear ſemble, &amp; aller de",
+            "meurer ou ils verront bon eſtre, pout le bien",
+            "de leursaffaires, Et vous ferez ltice."
+        ]
+    ]
+}

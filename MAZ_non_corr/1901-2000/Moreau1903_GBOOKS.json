@@ -1,0 +1,145 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1651-10-08",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre de cachet du roy, du 8 octobre 1651, envoyée à\n          monseigneur le mareschal de Lhospital, chevalier des ordres du roy, gouverneur et\n          lieutenant général pour Sa Majesté en la ville, prévosté et viconté de Paris, et seul son\n          lieutenant général en Champagne et Brie, pour advertir les députés des provinces de se\n          rendre au plutost dans la ville de Tours pour tenir les Etats généraux du royaume.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": "France",
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1651",
+            "#text": "1651"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000367213580",
+            "persName": {
+                "forename": "Guillaume",
+                "surname": "Sassier"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "T parD E VE",
+            "H",
+            "AAA IL LI IL L I L 1",
+            "TT",
+            "7",
+            "13 ,",
+            "1V U Y",
+            "Du . Octobre 165t.",
+            "ENVOYEE A MONSEIGNEVR LE",
+            "Mareſchal de l’Hoſpital, Cheualier des Ordres",
+            "du Roy, Gouuerneur &amp; Lieutenant General",
+            "pour ſa Majeſteé́en la Ville, Preuoſté &amp; Vicom",
+            "té de Paris, &amp; ſeul ſon Lieutenant General en",
+            "Champagne &amp; Brie.",
+            "Pour aduertir les Depute des Prouinces de ſe rendre",
+            "au plïtſt dans l Vlle de Tours, pour tenir les",
+            "Eſtats Generaue du Royaume.",
+            "Ae",
+            "-",
+            "l",
+            "8",
+            "a",
+            "Chés ouillaume Seſier, lmprimeur &amp; lLibtaire ordinoire du oy,",
+            "ermeurt de l Vlle de",
+            "de p e lne eln s l e e enil d e",
+            "ene e roe ls i ene us le",
+            "’e g re eu u eeee",
+            "Auec Priuilege du Roy.",
+            "311s8"
+        ],
+        [
+            "¬2.",
+            "e",
+            "I",
+            "¬l",
+            "g"
+        ],
+        [
+            "u",
+            "1",
+            "en -r;",
+            "Slrlo et i eee",
+            "lsoe",
+            "erdee",
+            "AE",
+            "S",
+            "LETTRE DE CACHET D",
+            "ereD T",
+            "Roy, enuoyee ̀ Monſeigneur le Mareſ",
+            "chal de l’Hoſpital, Chealier des Ordres du",
+            "Roy, Gouuerneur &amp; Lieutenant General",
+            "pour ſa Majeſte en la Ville, Preuoſte &amp;",
+            "Vicomte de Paris: &amp; ſeul ſon Lieutenant",
+            "General en Champagne &amp; Brie.",
+            "r o c ovs , Les aſaires",
+            "qui me ſont ſuruenuës à̀ l’entrée",
+            "IHe",
+            "AVl de ma Maiorite, ne m’ont pa",
+            "pû permertre de me rendre en",
+            "eire",
+            "A ma ville de Tours au huictié",
+            "me du mois dernier, pour y faire l’ouuerture",
+            "des Eſtar Generaux de mon Royaume, ainſi",
+            "que ie vous ay cy-deuant mandé; Mais coni",
+            "nuanmt dans le deſſein que j’ay toûjours eu de",
+            "les emir, pour poeurer à nmes Sujes tour le",
+            "ſoulagement qui me ſera poſſible, ie vous faits",
+            "A ij"
+        ],
+        [
+            "l.",
+            "’",
+            "cette Lettre, pour vous dire, qu’incontinent",
+            "aprés l’auoir receuë, vous ayez à ordonner de",
+            "ma part aux Seneſchaux &amp; Baillifs de l’étenduë",
+            "de voſtre Charge, d’aduertir les Deputez qui",
+            "ont eſté nommez par l’Aſſemblée qui a eſté",
+            "faite dans leur Reſſort, de ſe rendre prompte",
+            "ment en madite Ville de Tours; où̀ l’Aſſemblée",
+            "de tous leſdits Deputez eſtant formée, ils pout",
+            "ront touû̂jours trauailler à examiner les Procura",
+            "tions, en attendant mon arriueée en ladite Ville,",
+            "qui ſera au plûtoſt; Et n’eſtant la Preſente ſur",
+            "autre ſujet, je prieray Dieu qu’il vous ait, Mon",
+            "Covs I, en ſa ſaincte Garde. Eſcrit à Bourges",
+            "le huictieme Octobre, mil ſix cens cinquante",
+            "&amp; vn.",
+            "Et plus bas,",
+            "T r V",
+            "Signé,LOVIS.",
+            "l",
+            "DE LoM1E. ,",
+            "Et ſur la Surſcription de la Lettre eſt écrit,",
+            "A mon Couſin le Sieur de l’Hoſpital, Mareſchal de",
+            "Frace, Cheaalier de mes Ordres, Gouuerneur &amp;",
+            "Lieutenant General en ma bonme Ville, Preoſteé &amp;",
+            "Vicomté de Paris ſeal mon Lieutemanme General",
+            "en mes Prouinces de Champagne &amp; Brie.",
+            "eeeeE¬"
+        ]
+    ]
+}

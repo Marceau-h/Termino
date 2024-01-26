@@ -1,0 +1,179 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1650-01-18",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre de monseigneur le prince de Condé a messieurs de\n          Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121209573",
+            "persName": {
+                "forename": "Louis",
+                "surname": "Bourbon-Condé (De)",
+                "name": "Louis II"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": "Sans Nom",
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "MONSEIGNEVR",
+            "LE PRINCE",
+            "CONDE",
+            "A Meſſieurs de Paris."
+        ],
+        [
+            "i",
+            "es-",
+            "r p",
+            "2",
+            "aua ab aual",
+            "oaGool"
+        ],
+        [
+            "A",
+            "Vet’ededed’e r edepp",
+            "LETTRE",
+            "D E",
+            "T1",
+            "MONSEIGNEVR",
+            "LE PRINCE",
+            "de Condé,",
+            "A Meſsiears de Paris..",
+            "Mese",
+            "Ie vois à̀ la verité qu’il ne ſe roune plus d’amis dans l’af",
+            "fuononnpdantlemalhous E ceſ aue mſoa qu’Coi",
+            "nous a ſiſagement adueny en ſes deux Vers::",
+            "Dem ſalue aadus nueuehis aonis",
+            "Temonaſa ſerda ubuilde, ſaluseris.!",
+            "Mais quoy qu’ilen ſoitMeſſieun, iln’eſ de ſi ma- hauem.",
+            "i ne-ueille, touſiours tendre au but de ſa iuſtificatlon:",
+            "l Ce que ie voudrois entreprendre ſi l’on auit aueant d’a",
+            "noion &amp; de peiene pour m’eſcouer, que lay de paſſo",
+            "&amp;de volgé à̀ vaus lei faire conceuoi.",
+            ". on",
+            "¬1"
+        ],
+        [
+            "Mon deſſein n’eſt pas de blaſmer les lagemés du Roy; ils",
+            "ſont trop iuſtes, pour dlre que ie m’y oppoſarois:ais come",
+            "I’on peut dépeindre à̀ douple face, auſſi bien que lanus à",
+            "deux viſages, l’image de nos pretentibns, deguiſer, dis-je,",
+            "la matiere pour blaſmer la ſincerité que i’ay touſiours eu à",
+            "ſon ſeruice:Il ſe peut faire, de eſme que quelques vns de",
+            "mes eanamis a’aye, peus-eſtce, plus r’apporté mille fois de",
+            "mesenreprifes que le ie n’n à lanrais çagpe en nmoy.",
+            "Ce glorieux Moarque que Dieu a mis ſur Ie Throne",
+            "François, pour gouerner la pus paiſſante Monarchie du",
+            "monde, &amp; pour encor reviure la memoire de ſes Ayeuls",
+            "(&amp; ne ſe nomme t’il par auſſi de Dieu donné) pour vne in",
+            "faillible marque de ſa grandeur, &amp; pour faire voir combien",
+            "il veille à ſa protection &amp; aux aduantages de ſa Couronne?",
+            "Pour dire que ce ne ſeroit donc par conſequent vne teme",
+            "rite par trop impudente de vouloir (non entreprendte) ains",
+            "ſeulement penſer aà la moindre attainte a’y au molndre deſir",
+            "de luy deſplaire.",
+            "Mais quoy qu’il a ſoir, rae vails eimé6 Crirminel, &amp;",
+            "enferné daas vn lioa; enfin où l’aybautup dloiſt",
+            "d’exercer ma patac, tdaunſel aopeiuéde tau",
+            "les honneurs que mon Bras, &amp; mon Eſpée m’auoient ac",
+            "quis, &amp; cettafameaſes Rnonamée qai adabie volé de hop",
+            "iuſques dans les quares Cans dudfoade, càrayd aoias",
+            "de rien ma gloire, flétry mes palmes, effacé la mamoire de",
+            "res lluſtres actioas, de lIeternl ſteir de PPoftatité, &amp;e",
+            "&amp; chaſſé hoateuaſement eona vr ſeednd- Phaëtonsl",
+            "pes de ce Solet, dont la ſeule vau uar faifoit heréeht",
+            "reuiue,",
+            "Que l’on mette tousefos dtai le acé dlesbéns",
+            "que"
+        ],
+        [
+            "que i’ay fait à̀ laliaace, las haſands ou ie me ſuis expoſé",
+            "pou ſa conſeuanioa, los aceaûoas quo iay touaurs ſou",
+            "laaité, paur uus toſmoigaer, &amp; a fidelisé, &amp; ma pion",
+            "vueillance: Et uis l’ iugesa pa- la ſi Coadé qui auoit- a¬.",
+            "boré laes oplh̃es da foaRoygrauu fesly &amp; lané ſa lomg",
+            "ſes eſtandars, ausois au hamſi lafcaa &amp; ſi effemiaé, poar",
+            "loger çhez luy v emor ſ pesmaicieuax-, qu le. hoſce",
+            "dont il eftaccufſé d’auai produieauiour.",
+            "Mais encore, Meſfieurs, dans les cœus les plos eamp",
+            "de l campaſon, il pe fſe roauera pas deaxaares quine",
+            "voille aceampagner de leursregrees mes plaintes ? E qui",
+            "confideraraie l’eſtar de ma vi paſſce, aue a vie preen",
+            "a deaſplorerois mon ſos, &amp; mes calamitez danc ecne",
+            "tc du biou, qu’ouemoa ma &amp; ma dauleur, deme ou",
+            "lates eacaie de bous iniues?",
+            "Mediceas feulemçns ſur cet aocident, pi qu e uet én",
+            "eſt ſi beau conſiderans l’eſtas de vos caaidioae, puis les",
+            "plus reueſches apprendront par l’inconſtance de noſtre for",
+            "tune, combien ſon inſtabilité ſe ioü des grandeurs &amp; des",
+            "vanitez mondaines.",
+            "Puis que Condé, qui ſans ſe yaprer, uoibraué la mort,",
+            "affronté ſes ennemis, &amp; fouleé au pied les plus puiſſantes",
+            "forces des Herauts de ſon temps, eſt aà̀ preſent vaincu de",
+            "peu de monde, mis au fers; luy ſeul qui auoit fait captifles",
+            "aures, ué́ de ſes ennemis:luy qui les auoit morgué &amp;",
+            "qui auoi mlle fois mis en déroute tous les plus mauuais",
+            "deſſeins qu’ils auoient iuſques à preſent tramé ſur ſa per",
+            "ſonne.",
+            "Non, non, ſi i’eſtois digne de larmes i’en verſerois vn",
+            "orent pour deſplorer vn mal-heur ſi funeſte. Mais com",
+            "B me"
+        ],
+        [
+            "9",
+            "me ie n’ay iamais manqué de conſtance n’y de valeur dans",
+            "toutes les occurrences qui le pourroient requerir, le ne.",
+            "manqueray point auſſi de patience dans vn lieu où les.",
+            "plus hardis perdroient toute leur contcenance.",
+            "Mais enfin, ie ſeray tout à fait conſolé en mon affliction",
+            "ſi voſtre clemence à eſgard à moninfirmité, &amp; ſinos voix",
+            "ne proclame plus pour m’accabler d’auantage ſes impreca",
+            "tons, que ie n’oſe nommer, &amp; qui n’appartient qu’a des",
+            "ames viles &amp; abiectes, pour ſe venger de ſes chimeres qui",
+            "troublent malgré eux leur Repos &amp; qu’il leur donne plus",
+            "d’inquietudes que les Dieux n’en ont iamais, ſelon la fable,",
+            "dans l’election de leurs officiers. Ne condamnez pas Condé,",
+            "qu’il n’ait eſté declaré tout à fait criminel, &amp; s’il reçoit de",
+            "vos faueurs, cette courtoiſie qui eſt inſeparable de vos bon",
+            "nes mœurs &amp; du bon naturel que l’on vous eſtime, ie vous",
+            "aſſeure, qu’en reuanche de cette grace que ie vous deman",
+            "de que Condé ce dira encore vne fois.",
+            "MESSIEVRS,",
+            "A",
+            "2",
+            "Voſtre tres-humble",
+            "Seruiteur C."
+        ],
+        [
+            "1",
+            "mſſ ¬"
+        ]
+    ]
+}

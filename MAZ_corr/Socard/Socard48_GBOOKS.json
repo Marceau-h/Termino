@@ -1,0 +1,114 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-08-09",
+            "@who": "MF"
+        },
+        "titre": "Lettre à la Reine pour la cause publique, comme elle doit\n          chasser Mazarin",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Socard",
+            "@when": "Sans date",
+            "#text": "Sans date"
+        },
+        "pubPlace": {
+            "@source": "Socard",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "Lettre à la Reyne pour la cauſe",
+            "publique, comme elle doit",
+            "chaſſer Mazarin.",
+            "MADAME,",
+            "Ile voudrois icy eſpargner vos oreilles, mais",
+            "la fdeliteé que i’ay voué́e à V.M. pour voſtre ſeu",
+            "reté, &amp; pour l’honneur de voſtre conduite dans",
+            "l’Eſtat, me fait dire que vousſçauez auſſi bien",
+            "que moy, que la voix publique dit, qu’vn ſeul",
+            "homme eſt la cauſe de tous les malheurs qui",
+            "ſont arriuez, &amp; bien d’autre qui nous menacent",
+            "d’vne entiere diſſipation, &amp; qu’il faut acheuer",
+            "le reſte.",
+            "Madame, ie veux icy eſpargner ma plume,",
+            "pour ne vous point dé́peindre les rigueurs de la",
+            "guerre, pauure fFrance qui a couſté́ tant de pei",
+            "nes, &amp; de millions d’hommes à ce grand Hen:",
+            "ry IV. pour ta reparation, &amp; maintenant il t’en",
+            "couſte bien d’autrer auec l’argent, pour le plai",
+            "ſir d’vn Miniſtre eſtranger, ce bon reigne n’eſt",
+            "plus, nous ſommes tous en ſeruitude &amp; eſclaua",
+            "ge, ie veux, Madame, ſi le croyez queſoit vn"
+        ],
+        [
+            "parfait Miniſtre d’Eſtat, vous deuez pourtant",
+            "apres les plaintes de tant de perſonnes de toutes",
+            "façons, voir les fourbes &amp; le chaſſer comme vn",
+            "traiſtre. qui euſt imais mis le pied en France",
+            "ſi ce n’euſt eſté par ſes trahiſons: finiſſez auſi",
+            "genereuſement v. Regence comme vous l’auez",
+            "cõ̃menceé́, pluſtoſt que de ternir voſtre gloire,",
+            "&amp; celle duRoy voſtre fils, ceDieu donné́, à qui",
+            "vous deuez laiſſer pluſtoſt l’amour dos euples,",
+            "que la vengeance d’vn Miniſtre eſtrãgee Faitrs",
+            "remonter voſtrevertu ſut le Throſne, &amp; pre",
+            "nez vn œur de mere, car ce Minſſtre pourra vu",
+            "iour faire( ſi vous ne prenez gardes aà̀ vous)",
+            "eommefit le Tyran Philomele, qui fit preſent",
+            "à ſ’a baladine d’vne bellecourbnne d’or: mais ce",
+            "n’eſtoit pas pour le bien qui luy vouloit, mai",
+            "pour la haine qu’il luy portoit, afin qu’elle fuſ!",
+            "enuiée de tout le monde, elle arriue de Meto",
+            "pont en Italie, &amp; ſe moe à̀ danſer dans le temple",
+            "d’Appollon. Les ieunes gens l’euuironnent, ſe",
+            "iettent deſſus ſa Couronne, s’animent les vn",
+            "les autres, iuſques aà̀ ce qu’ils dechirent en pieces",
+            "la pauure baladine, e crains qu’vn iour la meſ",
+            "me choſa ne vous arriue: &amp; que ce Miniſtre",
+            "que vout aymé tant, ne ſoit la cauſe de voſtre",
+            "mal’heur, &amp; que la meſme Couronne qui eſt",
+            "ſur voſtre ceſte, ne ſoit miſe aà̀ vos pieds.",
+            "MADAME, c’eſt vne rerrible choſe qu’vn"
+        ],
+        [
+            "p-ao¬..",
+            "11",
+            "peuple mutiné́ le ſubiect en eſt aſſez grand, ils",
+            "ont pris les ar mes, il eſt vray: mais pluſtoſt pour",
+            "yoſtre deffence, &amp; pour empeſcher vn nombre",
+            "factieux de Mercenaires, que de les porter con",
+            "tre vous. Ces peupls qui vous ont tãt chery, &amp;",
+            "qui vous tendent encore les bras, &amp; implorent",
+            "voſtre aſſiſtance, faites donc pour ce peuple, ce",
+            "que Dieu a fait pour vous &amp; pour nous, de par",
+            "donner àſes plus grands ennemis, &amp; ne voulez",
+            "pas pardonner à tant d’innocens? en quoy vous",
+            "oat ils offenſées, faites donc maintenant ce que",
+            "vous voudriez auoir fait deuant le Tribunal de",
+            "Iuſtice, eſtant deſpouilleé́e de voſtre Couronne,",
+            "n’ayant plus deuant les yeux, que le bien &amp; le",
+            "mal que vous aurez faict? Pardonnez done",
+            "grande Reyne, comme vous deſirez eſtre par",
+            "aúede Dieu."
+        ]
+    ]
+}

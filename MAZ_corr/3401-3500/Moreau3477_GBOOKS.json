@@ -1,0 +1,161 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "requête",
+            "justification",
+            "rhétorique délibérative",
+            "discours adressé"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1650-03-05",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Requête de madame la princesse douairière de Condé pour\n          sa sûreté dans la ville de Paris et pour la justification de messieurs les princes, ses\n          enfants, présentée à nos seigneurs du Parlement (le 27 avril).",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000106554782",
+            "persName": {
+                "forename": "Charlotte-Marguerite de Montmorency, princesse de",
+                "surname": "Condé"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1650-04",
+                "#text": "avril 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "REQVESTE",
+            "DE MADAME",
+            "E l CESSE.",
+            "eee",
+            "eoe",
+            "&amp;s",
+            "M. DC L"
+        ],
+        [
+            "ne",
+            "ceSla",
+            "a4!",
+            "ſCTe",
+            "2l y ade49",
+            "r",
+            "uudee ſes",
+            "EEà",
+            "-",
+            "’er",
+            "ei",
+            "eéi",
+            "eër",
+            "i",
+            "REOVES T FE",
+            "T F",
+            "I T LV EO 1 I",
+            "A S A",
+            "MADAME L’A PRICES",
+            "D",
+            "H",
+            "SE DOVAVRIERE DE CONDE,",
+            "pourſa ſeuree dans la Vlle de Pis. &amp;",
+            "pour la iuſtification dc Mcſſieurs les",
+            "Princes ſes t nfans.",
+            "Preſentécs à Noſſeigneu:s de",
+            "Parlement.",
+            "Vpplie hurmblenent Charlotte Marguerit",
+            "de ontmorency, Prine ſſe louairiere de",
+            "Condé. Diſant, qu’encores qu’elle ait veu",
+            "auec tous les ſentimens de douleur dont vne",
+            "merc eſt capable, l’e mriſonnement de ſes",
+            "enſans fait ſans auc une forme de iſtice, ſans ſuier, &amp;",
+            "meſme ſans aucun pretexte legitime;q’encore qu’elle",
+            "ait ſcçeu le traittement indigne qu’il leur a eſté fairt, qu’",
+            "eœlle ait apris l, extreme maladie &amp; les frequentes recheu",
+            "te du Prince de Conty, elle ſeroit toutefois deme urée",
+            "dans le ſilence &amp; auroir donné des marques du plus pro",
+            "fondreſpect, que iamaie ſuiet aye rendu a ſon Souuerain.",
+            "Elle s’eſt tenue dans la ſelitude que la Reyne luy auoit",
+            "ordonnée pounr y verſer des pleurs, ſans autre conſolatiõ",
+            "que celle de l’eſperance qui ne la iamais abandonnée,"
+        ],
+        [
+            "que leurs Maieſtés, à la tres-humble ſbpp lication que",
+            "pluſieurs perſonnes de pualité &amp; merite e faſoient de",
+            "ſa part,ouuriroient les yeux ſur l’innocence de ſes en.",
+            "tans, &amp; les perlecutions violetes que le Cardinal a.",
+            "z arin fair fouffrir à teute ſa Famille, qui fſait vne Branche",
+            "de la maiſon oyalle: mais bie que cette psofſoadeſou.",
+            "nſſion ait paru au deſſus de ce que l’on pouuoitraiſou",
+            "nablement atteûre d’vne Princeſſe de ſa condition, qui",
+            "voit tous ſes enfans prſoniers ou bannis, elle n’a peu",
+            "toutefois arreſter la petſecution, n’y garatlr de ſes ou",
+            "trages, la perſonne de la Suppliante: Elleaveu parl’ap",
+            "proe he des gens qe guerre, poſtez à Chantilly ; trouble",
+            "le peu de pax qui luy reſtoit, les ex ceds &amp; les rauage",
+            "Commis à ſa veu par ces trouppes autoiſ́es daus leuriu",
+            "ſolence, &amp; la deſolauon de ce pays luy ont eſté vnnou.",
+            "ueau ſurcroy de douleur, &amp; iuy ont fait apprehenderiu",
+            "ſtement de ſe voir enfin abandonncé, aucc la Priaceſſe",
+            "ſa ſille &amp; ſes petits enfans, à̀ la violence des gens degue",
+            "re, dont le Carlinal Maz arin a fait enuironnerſs maiſon",
+            "qui luy auoit eſteé donnte pour vn lieu d’aſſeuranceEt",
+            "de fait, la Suppliante ſe vid menaceé́ par le ſieur devoul",
+            "dy enuoyé vers elle, d eſtre forcé à̀ ſortir hanteuſement",
+            "de Chanlly pour aller chercher vne autre retraiue, en!",
+            "peril d’eſtre pouſſée hors le Royaume, comme icee",
+            "ſtoit pas aſſes au Cardinal Mazarin en la priuant delhõ¬ l",
+            "neur de la preſence de leurs Maicſtés, de l’auoir miſeen",
+            "eſtat de ne pouuoir demander iuſtice, s’il ne l’eſloigmi!",
+            "encore du dernier retuge qu l luy reſte, quieſtlapou",
+            "ction de la Cour; la Suppliante ’a pas creu deuoidle",
+            "rer d auanrage dé la venir implorer, tant por moameſ",
+            "perſonne en ſeureté, que pour demander luſtieepduſe",
+            "enfans faics priſonniers coutre toutes les formes, &amp;",
+            "tenus encores plus iniauſtment de puis trois moisaunl"
+        ],
+        [
+            "pris de toutes les Loix de l’Eſtot, &amp; notomment de la",
+            "declareton du vu gt deuxieme Octobrc Is4 8.",
+            "Ce Conſideré, NOSSi INEVRS, attendu que la",
+            "vie du Prince de ory ſn Fls ſt n peril imment, par",
+            "le rapport dct us les Mececns,e le vus ſiupplie dy pour",
+            "ueor, &amp; mettre lau phia te n la ſauue arde &amp; por",
+            "tection du Roy &amp; de la Cour, contre l’opp eſſion viſible",
+            "du Cardinal Maz arn, luy donner tel heu qu il vous plai",
+            "ra dans raris pour ſa ſeurcte; fin qu elle aye la liberté de",
+            "demander Iluſtice pour les lPrnees de C nde &amp; de Cõty",
+            "ſes nfans, &amp; du Duc ec Lnguculle fon ſon Gecndre;",
+            "offtant ſe mertte en la Concergee, au cas quc Mon.",
+            "ſieurs le Prureur General, ou autre, ait quelque plain",
+            "te à faire contr’elle, Et vous ferez bien."
+        ]
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-08-26",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-05",
+            "@who": "AB"
+        },
+        "titre": "Lettre du duc de Wirtemberg au roi sur la jonction de son\n          armée aux troupes de Son Altesse Royale et de messieurs les princes, demandant l'entier\n          repos de la France sur les mouvements présents, et la paix générale entre les deux\n          couronnes, écrite de Nussy, le 4ᵉ jour de septembre 1652.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000054895613",
+            "@role": "speaker",
+            "persName": "Eberhard III, duc de Wurtemberg"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-09",
+                "#text": "datée de septembre 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:000000007740264X",
+            "@xml:id": "IL_LeRatJean.xml",
+            "persName": {
+                "forename": "Jean",
+                "surname": "Le Rat"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DV DVC",
+            "DE VVICTEMBERG",
+            "AV ROY",
+            "Sur la jonction de ſon Armée aux Trouppes",
+            "de ſon Alteſſe Royale, &amp; de Meſſieurs",
+            "les Princes;",
+            "Demandant l’entier repos de la France ſur les mou",
+            "uemens preſens: Et la Paix Generalle entre les",
+            "deux Couronnes.",
+            "Eſcrite de Nuſſy le 4. iour de Septambre 1652.",
+            "A PARIS,",
+            "Ruë d’Eſcoſſe aux trois Cremaileres, au Mont S. Hilaire.",
+            "M. DC. LII."
+        ],
+        [
+            "3",
+            "uauareaun",
+            "Veemabergan a¬2",
+            "Sur la jonction de ſon rmée aurx Fappa",
+            "n aa pet de uaaua 1",
+            "les Prince,",
+            "Desmandant l’entie repês de la Eanee a",
+            "s mounemens peſons t la ie",
+            "Generalle entré les deaue",
+            "Couroane. i",
+            "n.",
+            "¬.",
+            "ree3",
+            "i 2 e4",
+            "li",
+            "l ne aus pas que vous enoye touis leſſcb",
+            "que ve coufuſauits &amp;ailiers font coſtdee",
+            "e T"
+        ],
+        [
+            "1",
+            "elosnes c’et aſtourdir vos oreilies de parolles",
+            "riolles &amp; an veritables. Les armes ne me plai",
+            "ſencapoinecant,que de les vouloir porter contte",
+            "uiſeoy. lles ae ſont tobez en mes mains que",
+            "pour deman derne Paix qui puiſſe eſtre perdura",
+            "ble entre les deux Couronnes de France &amp; d’Eſ",
+            "pagoe- llont tot, de dite, que ié̃ ſuis entré aute",
+            "arraas en Ftae; puais qaeie de taſche qu’à trou",
+            "uer les moyens de les mettre bas; &amp; l’inuentioa de",
+            "nttephuſtot qu’il ſe peut ſes malheurs. Ce n’ſt",
+            "pas erueeatnm de mettre les holadans vne plus",
+            "qua ſanglante queelei qui ne peut finir que par",
+            "l’eaties d ſtrucuon de deux tres anciens Royau",
+            "aes; il faoqu’vt Monaque pour regner paiſi",
+            "blaraane ulaſehe vanat ſoit peu de ſa ſeuerité, il",
+            "doit chaſtieres ppes, eſtans ſes enfuns, comme",
+            "aais &amp; aon pas ainſi que des ennemis. C’eſt pour",
+            "quoy i’ay pis la hardieſſe d’éſcrire à voſftre Maia¬.",
+            "ſteé, pour luy faire cognoiſtre &amp; ſcauoir que mes",
+            "anuesq ſont leueées que pour affeimir ſon Empi",
+            "e, &amp; celuy du Roy d’elpagne, mon tres honré",
+            "e redouté Maiſtre; pour le repos des Princes Fran",
+            "pais &amp;e Eûpagnols; pour deſtuiyj les ehnemis de",
+            "ſes-deux Couronnes; pout nainteni, laurs peu",
+            ",pla ane boane &amp; anquille paix. Pourreſta",
+            "blir a Roy ſpolié de ſes Eſtats; pour naitenir",
+            "laFoy Caholique Apoſtolique &amp; Romaine; cn¬"
+        ],
+        [
+            "lahiaas dauées; araaâas",
+            "es Pne de lhqeûieno uoâiaaoa",
+            "be perdurabl;Di",
+            "oidl eSabſiy",
+            "entray &amp; his le pied dans la.",
+            "bſss.",
+            "tqueleaifpreeureeenmrſaal",
+            "vous faitentendre, queleieaûa",
+            "napd",
+            "tohulé;, Cûx qul Vou propd",
+            "pqoſa",
+            "lsparoles, ſon les vris emnnialoaûes",
+            "e dvos peuples; e ſçay, S. ; qaao,",
+            "r éſtdeé oniner vae Amaftieeeaaa4lee",
+            "Hnces!&amp; ous ceuqui upncélneql",
+            "tre Voſtre- Maleſté, le vous pe qae cela neli",
+            "poiat, à noins qdde ſenire pan prenaln;",
+            "puuuuondqaodtaiuM demnprtſsda",
+            "ibſqMea otdſdmfhtion leſaialal",
+            "p Si e, ne fort poiraat adpa dal",
+            "France que ie no leaſſaa padégaeûiss,",
+            "mais conſiderez qu’elles n’y ſont entré́es que pour!",
+            "vous demander la paix, non pas ſimple ny fardée:",
+            "mais Generale &amp; fidelleuri t ndespoar",
+            "mes ſoient porté́es ailleuqaaxlams",
+            "meſ",
+            "mes: il n’eſt pas que l’on ne vous en publie pluas de",
+            "ſi belles oceaſions: ſç̧auoir, l’Angleterre ne de",
+            "Gells el elntcute voſtrebrasaui.",
+            "bien que du noſtre: Le Turc deuroit-il aucaqueri",
+            "oppiniaſtrement la Chreſtienté, comme il fat, ſi",
+            "les deux Couronnes eſtoient iointes enſermble,",
+            "B"
+        ],
+        [
+            "é",
+            "oiet àis ûi’eſtre prolie4 teae",
+            "lletoaifiafe paeqareiſt pôürceupel ;p",
+            "ass de mute ihteſtieté ’aſftce que ieuais",
+            ", aunt que ie m’aemi",
+            "nagemodomine le s fu laroa",
+            "ſànp pitredne ie çeainsdé le faj feſ",
+            "hdlaophbplat quaadleſuis ſitn,",
+            "e par vogobruatedſtine. Appaiſſez, SIR, 3p4",
+            "palſeVoſt e dune ce que demaadent vog",
+            "Rnéelpanue deto ce tencentre iſte me",
+            "tda paix pedadi",
+            "naer dansyſtre Royaue,p",
+            "dsda donnap: permostez pas que naus en",
+            "aoas d’auaatageuiapiſes n’eſpanchnsplus",
+            "lofaag’dlejuoaad. qiues ſur la-erre: puis qu",
+            "fodatviddnt laanànplas que mille mrps, ’eſ",
+            "serbols uu vna oey p,",
+            "oivoaeaany, &amp;e qui ne le fuciaiaais.",
+            "e ty oe io.",
+            "pauass",
+            "ba vvicrsnd"
+        ]
+    ]
+}

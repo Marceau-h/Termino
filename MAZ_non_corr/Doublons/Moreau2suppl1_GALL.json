@@ -1,0 +1,91 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "À Mazarin, sonnet.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:0000000",
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "1"
+    },
+    "texte": [
+        [
+            "A",
+            "¬",
+            "l e",
+            "r",
+            "R",
+            "VL . 1 .",
+            "SONNE",
+            "ſ",
+            "e ooes",
+            "L.",
+            "T",
+            ".",
+            "l.",
+            "a",
+            "e",
+            "T.",
+            "e",
+            "JOvs auons donc la Paix, graces aux Courtiſans,",
+            "Et mal-gré la Iuſtice enfin on nous la donne,",
+            "Mararin a vaincu, ſilence aux mediſans,",
+            "La Regence a beſoin de ſa rare perſonne.",
+            "êe",
+            "Quoy! vous en ſouſpirez, mal-heureux Artiſans,",
+            "Allez à l’Hoſpital la Reyne vous l’ordonne,",
+            "Le Parlement l’approuue, approchez Partiſans",
+            "La France encore vn coup vous ſouſmet ſa Couronne.",
+            "ESe",
+            "On vous en doit l’honneur, illuſtres Deputez,",
+            "Auec tant d’auantage arreſter des Traitez;:",
+            "C’eſt vn coup qui ſurprend l’eſprit des plus credules:",
+            "e",
+            "Mais l’œuure eſt imparfait il le faut couronner,",
+            "Pour aſſeurer la Paix que vous croyez donner,",
+            "Faites en plein Senat vn Ceſar de ce Iules.",
+            "y",
+            "4",
+            "¬",
+            "ll"
+        ]
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "imprimatur": "Auec Privilege de ſa Maieſte.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": [
+            "Parlements",
+            "Parlement de Paris"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1651-03-11",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Lettre de nosseigneurs de la cour de Parlement de Paris,\n          envoyée à tous les parlements de France, sur le sujet de l'arrêt donné contre le cardinal\n          Mazarin, du samedi 11 mars 1651.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-03",
+                "#text": "mars 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "r 7y ¬1",
+            "H",
+            "I I I",
+            "DE NOSSEIGNEVRS",
+            "DE PARLEMENT.",
+            "s Parlemens de France, ſu",
+            "ler eieun de e ne e e n e diſenueſe",
+            "Du Samedy Ii1. Mars 165r.",
+            "e",
+            "a",
+            "s",
+            "us",
+            "rdinaires duRoy.",
+            "Auec Privilege de ſa Maieſte."
+        ],
+        [
+            "3",
+            "LETs DE NóEGNrRs",
+            "de Parlement, euoyée à tous les qutes Padlomens",
+            "de Fre, ſir le ſiies de ldret dné onrs e",
+            "Cardinal Mairin.’",
+            "DaS&amp; ee",
+            "’ &amp; evſ -!.",
+            "i ESS IVRS,",
+            "E",
+            "Nous auons aſſez reconnu par toutes",
+            "vos actions auec quelle affection vous",
+            "vous employez au reſtabliſſement de",
+            "l’authorité du Roy, &amp; au ſoulagement de",
+            "ſes SujersVop auez vpulu nous en don",
+            "ner nouuelles aſſeurances, par celle que",
+            "nous auons etebde voſtre part, pour ré",
+            "ponſe àcelle que nous vous auonseſcrite",
+            "ſur le ſujet de l’éloignement du Car dinal"
+        ],
+        [
+            "4",
+            "Manr; &amp;ede f ſortie hors la France.",
+            "Et conme il n’a pas obey auſdits Arreſts",
+            "qui aſoieeeſté donnez contre luy, il a",
+            "eſte eceſſaire dy poutuoir, pmme",
+            "Vvous ſeôhôiſtteé par céuycy eoel̃s,",
+            "dontou pourfuitra l’exeution qui ſer",
+            "ira de fehedes aux maux quéſon peut",
+            "craindre à l’aduenir. On ſe promet qu’en.",
+            "ce rencontreouis ſatisferez à ce que le",
+            "bien de l’Eſtat peut deſirerde vous, pre",
+            "nant aſſeurce que hôts uas o",
+            "jours,",
+            "MESSIEVRS,",
+            ".3",
+            "E2",
+            "Vos ois rteled &amp;i Amil,",
+            "esGens, enans laour dePalemen",
+            "-Dmr een n",
+            "1651."
+        ]
+    ]
+}

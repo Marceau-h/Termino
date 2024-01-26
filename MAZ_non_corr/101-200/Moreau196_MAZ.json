@@ -1,0 +1,91 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſte",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "France. États généraux",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Bretagne, donné les\n          semestres assembles, touchant la convocation des états généraux du royaume et particuliers\n          de la province.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000123225884",
+            "persName": "France. Parlement de Bretagne"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-03-21",
+                "@notAfter": "1649-03-28",
+                "#text": "quatrième semaine de\n            mars 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": "Imprimeurs et libraires ordinaires du roi",
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DV PARLEMENT",
+            "DE BRETAGNE,",
+            "DONNE LES SEMESTRES ASSEMBLEZ.",
+            "TOVCHANT LA CONVOCATION",
+            "des Eſtats generaux du Royaume, &amp; parti¬",
+            "culiers de la Prouince.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinai¬",
+            "res du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſte."
+        ],
+        [
+            "3",
+            "Chapitre &amp; Commnnauté dudit Rennes’d’y enuoyer leu",
+            "Deputez, afin de donncr leurs voix aà ceux qu’ils eſtimeront les",
+            "plus capables pour ſeruir ſa Majeſté, &amp; la Prouince en cette",
+            "occaſion. Et ſur ce delibereé, L a Co vR apres auoir veu les",
+            "Lettres Parentes du Roy donné́es à Fontainebleau, le quin¬",
+            "ziéme d’Auril 1;6r. adreſſées la Cour, pour la conuocation",
+            "des Eſtats du Royaume, &amp; Regiſtrées ſuiuant l’Arreſt de la¬",
+            "dite Cour du vingt-neufuiéme deſdits mois &amp; an, les Regi¬",
+            "ſtres d’icelles. A arreſté que le Roy ſera tres-humblement ſu¬",
+            "plié auoir agreable, que l’ordre de tout temps obſerué pout",
+            "la conuocation des Eſtats Generaux ſoit inuiolablement gar¬",
+            "dé, &amp; qu’ils ne ſoient aſſemblés que par Lettres Patentes ve¬",
+            "rifié́es en Parlement, &amp; de ſurſeoir la tenuë des Eſtats de cette",
+            "Prouince, &amp; cependant fait inhibitions &amp; deffences à toutes",
+            "perſonnes de quelque qualité́ &amp; condition qu’elles ſoient de",
+            "s’y trouuer, Et de s’aſſembler ſous pretexte deſdits Eſtats. Or¬",
+            "donne que le preſent Arreſt ſera leu &amp; publié aux ſieges Pre¬",
+            "ſidiaux &amp; Royaux de ce reſſort, &amp; coppies d’iceluy enuoyées",
+            "aux Chapitres &amp; Communautez. Fa 1r en Parlement à",
+            "Rennes l’vnziéme Mars mil ſix cens quarante-neuf",
+            "Signe,",
+            "MONNERAYE.",
+            ".3",
+            "Iouxte la coppie imprimee à̀ Rennes, par FAnco 1s",
+            "H aRaN Imprimeur ordinaire du Roy."
+        ]
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "imprimatur": "Auec Permißion de Son Alteſſe Royale.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-04-01",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-07",
+            "@who": "AB"
+        },
+        "titre": "Lettre de Mademoiselle écrite à Son Altesse\n          Royale.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000109170813",
+            "persName": {
+                "forename": "Anne-Marie-Louise d’Orléans, duchesse de",
+                "surname": "Montpensier",
+                "addName": {
+                    "@type": "pseudonyme",
+                    "#text": "La Grande Mademoiselle"
+                }
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-04",
+                "#text": "datée d'avril 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000367182999",
+            "@xml:id": "IL_LeRoyClaude.xml",
+            "persName": {
+                "forename": "Claude",
+                "surname": "Le Roy"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "aii,",
+            "LETTRE",
+            "lDreostllt",
+            "ROYALLE",
+            "eli",
+            "rar",
+            "le e ee",
+            "Auec Permißion de Son Alteſſe Royale."
+        ],
+        [
+            ".",
+            "1",
+            ".",
+            ".",
+            ".",
+            "im",
+            "E2",
+            "e",
+            "8.",
+            "¬.",
+            "-eqa",
+            "a",
+            "ai",
+            "oanGo"
+        ],
+        [
+            "3",
+            "Ata",
+            "Apde ttfûe’&amp;l",
+            "r erre",
+            "LETTRE DE ADEMo",
+            "ſelle eſrite à ſon Alteſſe R oyalle.",
+            "a",
+            "JONSIEVR.",
+            "le dépeſché ce Courrier à voſtre Alteſ",
+            "ſe Royalle pour s’informer des veritables",
+            "particularitez de mon entreée dans cette vil",
+            "le d’Orleans, qui ſont qu’ayant touué́ les",
+            "portes de la ville fermées, &amp; la nouuelle de",
+            "ma venuë eſtant allé́eau dedans, l’on me fit",
+            "preſent d’vn plat de Confitures pour la col",
+            "lation, parmy leſquelles ie trouué vn billet",
+            "qui marquoit la porte ou ie deuois me pre",
+            "ſenter, ce qu’ayant faict, l’ouuerture en fur",
+            "incontinant fait, d’ou s’enſuiui vne telle ac",
+            "clamation du peuple qui crioit viue le Roy,",
+            "&amp; voſtre Alteſſe Royalle, &amp; que iamais il",
+            "n’en fut Veu pareille, &amp; fut enſuitte fort",
+            "bien receue desaire &amp; Eſcheuins, aſſiſt ez",
+            "de pluſieurs compagnies en armes des habi",
+            "A il"
+        ],
+        [
+            "4",
+            "tans qui me conduiſirent à l’Hoſtel de Ville.",
+            "du depuis i’ay tellement diſpoſé ſes affaires",
+            "&amp; reuny les eſprits qui s’eſtoient vn peu al",
+            "rorez, &amp; conme diuiſes pat l’approched",
+            "quelques trouppes ’laraine, &amp; cauſs de",
+            "la conference que le Mareſchal de Turenne",
+            "&amp; le Garde des Sceaux uoin ́uaauc",
+            "quelques vns de ces habitans, laqueléft",
+            "diſſippée à l’inſtant par oa preſeace, en ſorte",
+            "que cette ville eft maintenane en eſtat d",
+            "n’apprehẽder pas les coups du azarin quia",
+            "trop peu de forces pour en tenter le ſiege,",
+            "quand meſme l’armeée de voſtreA. R. ne ſe",
+            "roit comme elle eſt cappable d’affronter cet",
+            "ennemy, ſi bien qu’apreſent toute mon oc",
+            "cupation s’exerce aà entretenir cette bonne",
+            "intelligence entre ces habitans ( qui ſont",
+            "entierement fortifiez de l’affection qui leur",
+            "a eſté teſmoignée pat voſtreA R. Laquelle",
+            "ne pouuoit pas l’exprimer plus parfaicte",
+            "ment qu’en leur donnant ma perſonne pout",
+            "gage) &amp; a parer aux ſubtilitez qui ſon",
+            "dinaires au Mazarin, deſquelles i’eſmouſſe",
+            "ray toutes les pointes par la preuoyance que"
+        ],
+        [
+            "S",
+            "j.",
+            "13",
+            "l 4",
+            "i’yapporteray. Mais ce qui a’vn peu tro",
+            "blé le contentement que i’ay d’eſtre heu",
+            "reuſement paruenuë ihut que voſtre A.R.",
+            "s’eſtoit propoſé en’ enpeſchant l’antrée u",
+            "Maarin dans cette ville, c’eſt le diuorce",
+            "ſuuenuentre mes Couſins de Beaufoit &amp;",
+            "de Nemours, qui a eſté iüſques au poinct",
+            "que ſans moy ils eh létoient vemues ux",
+            "mains &amp; le fubiect de cette meſintelligence",
+            "eſtoit que celuy-cy vouloit liurer bataille",
+            "&amp; l’autre el’agreoit pas, pout raiſon de",
+            "quoys’eſtanmt eſchappé quelque parole, cet",
+            "tepetite etincelle à̀ penlé cauſer vn embra",
+            "ſement qui a eſté grace à Dieu eſtouffé par",
+            "Iesſoingsqui y ot eſté par moy apportez.",
+            "deſorte que ces deaxemeraux ont eſté́ re",
+            "mis bien enſemble, en quoy la preſence de",
+            "mon Couſin le Prince de Condé́ à̀ beau",
+            "coup contribué Ie nepuis celler aà voſtreA.",
+            "R. Lajoye quetout le peuplede cete ville",
+            "aà fait paroiſtre à l’arriué́e de ce Prince au",
+            "quela eſté donneé de nouuelles aſſeurances",
+            "de l’affectidn! que tous ces habitans ont",
+            "B",
+            "l"
+        ],
+        [
+            "pour le ſeruice de voſtre A.R. de laquele",
+            "l eſt le bras droict contre les Mazarins, es",
+            "ſorte qu’il ne doute point non plus quemy",
+            "de leur fidelité́, l’aduoueray pareillement à",
+            "voſtre A! R. que ieſuis extremement tou",
+            "chée de tendreſſe quand ie conſidere autc",
+            "combien de perils &amp; de fatigues ce Prince à",
+            "’paſſé depuis Bordeaux iuſques icy, ie nt",
+            "ſçaurois deſcrire les deuoirs &amp; ciuilitez qui",
+            "m’ont eſtérenduës deſa part, enſemble les",
+            "teſmoignages de ſa bonne volonteé́ qu’l a",
+            "pour leſeruice de voſtre A, R. qu’il n’auſoit",
+            "’manqué d’allertrouuer à Paris auparauant",
+            "toutes choſes n’énſt eſté l’extreme deſir qu’a",
+            "eu toute d’armeée de V. A. R. de le voiut :it",
+            "piis dire qu’lme faut poin d’autre prue.",
+            "e Toſl affetiommpousl4 bien de l’Eſtat que",
+            "l’exces de ſon amour qui la poté à̀ quire",
+            "cesaffaltes de Guxenne &amp; oqute, ſa famile",
+            "pout peit ſeeont qar de les erſeus",
+            "l7",
+            "’deſſensldelVue de laquelle il peſte",
+            "de ſuiure coufiouirsle Odres, ce qui fait que",
+            "i’eſpete ( ſoienaidaht) de goir bien toſt l",
+            "fin de cettegae pap letjere deſfate de",
+            "1 2"
+        ],
+        [
+            "7",
+            "oulea laains, laofiee deſuedls",
+            "ens honanblenentvV. A vouloir p",
+            "unir &amp; ſurtout de prendre vne ſeurete",
+            "ere quipuiſſe metire la peſonne de voe",
+            "le a ouuert de touie maiſe me",
+            "Pe epndan ie eoinuay mea paies",
+            "es pour ſa proſperité &amp; demeureray.",
+            "ONSIEvR,;",
+            "De voſtre AlteſſeRoyalle.",
+            "Qleans e Avrilie52.",
+            "La tres-lhaurable fille &amp;g lſeruoasne",
+            "M iE o Bo v a o,",
+            "11"
+        ]
+    ]
+}

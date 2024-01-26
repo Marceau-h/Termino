@@ -1,0 +1,151 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "discours adressé",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Ambassadeur extraordinaire apportant à la reine des\n          nouvelles certaines de son royaume et de ce qui s’y passe.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000110472958",
+            "@xml:id": "IL_CharlesNoel.xml",
+            "persName": {
+                "forename": "Noël",
+                "surname": "Charles"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "AMBASSADEVR",
+            "EXTRAORDINAIRE",
+            "APPORTANT",
+            "A LA ROYNE",
+            "des nouuelles certaines de l'état",
+            "de ſon Royaume, &amp;",
+            "de ce",
+            "qui s'y paſſe.",
+            "<figure",
+            "type=\"decoration\" />",
+            "A PARIS,",
+            "Chez N. CHARLES, rüe ſainct",
+            "Iacques,",
+            "aux trois Couronnes.",
+            "M. DC. XLIX."
+        ],
+        [
+            "<pb",
+            "n=\"3\" />",
+            "3 AMBASSADEVR EXTRAORDINAIRE APPORTANT A LA ROYNE",
+            "DBS NOVVELLES CERTAIN ES de l’état de ſon Royaume, &amp; de ce qui s’y paſſe. é",
+            "A E. ’,’aions toujours ereu que voere Majeſté ſe laſſeroit enfin de nous faire",
+            "du mal, &amp; qu’a prtes toutes les perſecuons que nous auons ſouf <lb",
+            "rend=\"¬\" break=\"no\" />fert de ſa part, elle nous rendroit heureuſement &amp; la",
+            "paix, &amp; le repos. Ne doit-elle pas etre ſa risfaite, de nos",
+            "hommages &amp; de nos ſoûmiſſions: ne doit- elle pasetre contente de nos peines &amp;",
+            "de nos larmes &amp; ſi les diuinitez du Ciel appaiſent  leus-coleres &amp;",
+            "addouciſſent les rigueurs de leurs vongeances, enm onſe quenee des ſacrihces que A",
+            "ij"
+        ],
+        [
+            "4 nous leur offrons: en conſideration des preſens que nous",
+            "leur donnons? &amp; en vertu des proteſta tions que nous faiſons",
+            "aux pieds de leurs autels, de viure &amp; mourir leurs tres-fidels ſeruiteurs. Pouuions",
+            "nous pas, par la même raiſon nous per ſuader, que vous qui étes",
+            "nôtre diuinité ſur ter. re, n’auriez plus jamais de rancune",
+            "contre nous, apres vous auoir offert auec autant de ſinceriteé́ que de zele, nos",
+            "biens, nos cœurs, nos vies, nos perſonnes, &amp; nos ſeruices. Vous me direz peut <lb",
+            "rend=\"¬\" break=\"no\" />étreMaADamEe que Dieu ſe fait abſolument obeir, ou par",
+            "amourou par crainte, ou par force; &amp; qu’il ne permet jamais que les ames",
+            "inſolentes ſous quelque pretexte que ſe puiſſe étre reſiſtent aucu <lb rend=\"¬\"",
+            "break=\"no\" />nemenr aux decrets de ſes diuines volontez. Ace la",
+            "ie vous répondray, s’il vous patt aDaA , qu’il n’en eſt pas de même des Monarques de",
+            "la terre, comme du ſouuerain de l’Empireée, parce qu’érant Maiſtre de nos",
+            "volontez, il en peut diſ poſer ainſi que bon luy ſemble, bien que",
+            "le plus ſouuentil ne le faſſe pas, parce qu’étant tout-puiſ ſant",
+            "il nous peut chaſtier en tous lieux: &amp; qu’eé tant auſſiſage",
+            "que iuſte, il ne peut nous rien com mander qui ne ſoit equitable,",
+            "&amp; que n̂tre rai ſon n’approuue bien que nosſens le",
+            "contrarient. De ſorte MaDam, ſi les peuples ne ſont pas toûjours aſſez ſoûmis à",
+            "l’obeiſſance, c’eſt qu’ils ſeperſuadent, ou que la Majeſté Royalle eſt trop",
+            "impe¬"
+        ],
+        [
+            "imperieuſe, on qu’elle n’eſt pas aſſez abſoluë, ou qu’elle eſt",
+            "vn peu ſujette à ſes paſſions. Mais Ma DAME, conme nous auons",
+            "toû̂jours auoü̈é, &amp; que maintenant nous le proteſtons encor, que vôtre",
+            "Majeſté eſt ures-equitable, que ſa puiſſance eſt tres-moderé́e, &amp; ſon empire vn",
+            "empire de douceur. Auſſi ſommes nous reſolus de viure ſous les loix, &amp;",
+            "d’executer tout ce qu’elle ordonnera, pourueu qu’elle nous donne la paix, &amp; nous",
+            "met te en repos. ue ſi ces raiſons Maas, ne ſon pas capables",
+            "de vous conuaincre l’eſprit, permet tez-moy qu’en ſortant vn peu",
+            "des bornaes du reſ pect &amp; du deuoir, ie vous diſe mes",
+            "ſentimens auee aſſez liberté. Que pouuez vous pretendre en vous <lb rend=\"¬\"",
+            "break=\"no\" />opiniaſtrant à garder vn homme qui eſt odieux au Ciel &amp; à laterre,",
+            "qui eſt le perturbateur de yô̂  tre eſtat, la ruine de vôtre",
+            "honneur, le ſcandale des gens de bien, &amp; la cauſe de tous les deſor <lb rend=\"¬\"",
+            "break=\"no\" />dres: que ce mal-heureux s’en aille ou qu’il periſ ſe,",
+            "le Parlement ne fera plus d’aſſemblées que pour confirmer vos iuſtes volontez; les",
+            "peuples ne prendront plus les armes que pour la deffen ce de",
+            "vô̂tre perſonne, les Princes n’amaſſeront plus de ſoldats que pour vous gagner des",
+            "conque ſtes; &amp; les Generaux d’armée ne conduiront plus de",
+            "troupes que pour etendre les limites de vô̂tre  empire, &amp; accroiſtre le domaine du",
+            "Roy. Que ſi MaAD AME vô̂tre Majeſté mal conſeillée falt au",
+            "B¬"
+        ],
+        [
+            "6 rement, que peut-elle eſperer ſinon des reuoltes generales",
+            "par toutes les Prouinces de la France, &amp; des guerres qui peut-eétre MAD AE, vous",
+            "feront mourir de regret apres que vous en aurez veu l’im portance,",
+            "&amp; que l’on vous accuſera hautement d’en étre la cauſe. Conſideré MD aA ME, que Ie Parlement",
+            "de Paris ne reuoquera jamais l’Arreſt donné contre Mazarin le dix-ſeptieſme Ianuier, il",
+            "y va de ſon honneur &amp; de ſon authorité, &amp; vous même l’accuſeriez v jour de",
+            "laſcheté, s’il ſe ſouû̂ metoit aà̀ vn Eſtranger. Conſideré",
+            "d’ailleurs M  DA ME, que les Prouinces de la France vnies au Parlement,",
+            "tiendront toû̂jours ſon parti contre luy, &amp; qu’étant dés long-temps accableées",
+            "de tail les &amp; de ſubſides à la ſolſiciration de ce mal-heu <lb",
+            "rend=\"¬\" break=\"no\" />reux, elles ſerot rauies de ſe deliurer de ces impoſts, &amp;",
+            "peut eſtre voſtre Majeſté aura-elle aſles de pe ne à les",
+            "rétablir, cy-apres. Pour concluſion MA DAM, s’il arriuoit comme",
+            "il y a grande ap parence qu’il arriuera, au cas que Mazarin ne vui <lb",
+            "rend=\"¬\" break=\"no\" />de la France, que les peuples deſia aſſez diſpoſez à la",
+            "rebellion viennent à ſe ſouſſeuer, le Roy per dra plus en ſix",
+            "mois, qu’il ne gagneraen ſix ans., vous aurez autant de Royaume à vaincre, qu’il y de",
+            "bonnes Villes en France, &amp; parmy ces guerres domeſtiques, vôtre Royaume diminuera",
+            "beau coup de forces, &amp; de ſes richeſſes. Croyés M <lb",
+            "rend=\"¬\" break=\"no\" />DAM , que l’etat eſt renuerſé comme les ſai¬"
+        ],
+        [
+            "ſons,",
+            "que les Eſprits ſont deuenues mutins, &amp; que vous deuez craindre vne entiere",
+            "deſolation ſi vô̂tre bonté ne nous donne la Paix. L’Ambleée derniere de",
+            "Meſſieurs du Parlement auec les Prin ces concluë, MAD A ME ou la",
+            "guerre ou la ſortie de Mazarin renuoyez ce miſerable, &amp; vous ren <lb rend=\"¬\"",
+            "break=\"no\" />drez cout le monde contant. FIN."
+        ]
+    ]
+}

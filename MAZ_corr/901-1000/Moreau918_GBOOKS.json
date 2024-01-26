@@ -1,0 +1,148 @@
+{
+    "imprimatur": "Avec Privilé́ge du Roy.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "déclaration"
+        ],
+        "subject": "Parlement de Paris",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-02-03",
+        "change": {
+            "@status": "corrected",
+            "@when": "2021-11-16",
+            "@who": "AB"
+        },
+        "titre": "Déclaration du roi, par laquelle les présidiaux du\n          ressort du parlement de Paris ont pouvoir de juger souverainement, tant en matière civile\n          que criminelle.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121209573",
+            "persName": {
+                "forename": "Louis II de Bourbon, prince de",
+                "surname": "Condé"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2979783",
+            "@source": "Moreau",
+            "#text": "Saint-Germain-en-Laye"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "DECLARATION",
+            "DV ROY.",
+            "Par laquelle les Préſidiaux du reſſort du Parlement de Paris",
+            "ont pouvoir de juger ſouverainement tant en matiere",
+            "civille que criminelle.",
+            "LOVIS par la grace de Dieu Roy",
+            "de France &amp; de Navarre: A tous",
+            "ceux qui ces preſentes Lettres ver",
+            "rot. Salut, Les avis que nous avõs",
+            "eus des mauvais deſſeinsqui eſtoiẽ̃t",
+            "tramez par les gens ſe diſans tenir",
+            "noſtre Cour de Parlement de lPa",
+            "r1s, nous ayans obligé à̀ nous retirer de ladite ville",
+            "pour mettre noſtre perſonne en ſeurté́, &amp; empeſher",
+            "l’exé́cution de leurs mauvaiſes volontez, Nous avons",
+            "jugé aà propos pour rompre les intelligenees qu’ils en",
+            "treprennent contre noſtre ſervice, de leur faire com",
+            "mandement de ſortir dans vingr-quare heures de la",
+            "dite ville, &amp; de ſe rendre enſuite dans quinzaine en la",
+            "A"
+        ],
+        [
+            "2",
+            "ville de Montargis, en laquelle par nos Lettres P",
+            "tentes en forme de Deéclaration du ſirieéme du préſent",
+            "mois, nous avons transferé le ſiége de ladite Cour de",
+            "Parlement de Paris: depuis lequel remps eſtans bien",
+            "informez qu’ils n’ont pas ſeulement fait ouverture de",
+            "ladite Déclaration pour y deliberer &amp; rendre l’obëſ",
+            "fance qu’ils nous doivent, en ſorte que n’ayant ſarisfait",
+            "à nes commandemens, ils demeurent attaints &amp; con",
+            "vaineus du crime de rebellion, pour lequel par la meſ",
+            "me Declaration, nous les avons declarez criminels de",
+            "léze Majeſté, avec défences à tous nos Officiers &amp; ſu",
+            "jets de les reconnoiſtre ni s’adreſſer à̀ eux pour l’exer.",
+            "cice de la juſtice. Et d’autant que leſdites gens ſe diſans",
+            "tenir ladite Cour de Parlement depuis ladire Déclara",
+            "tion ont entrepris &amp; attenté ſur noſtre authorité ſou",
+            "veraine. A CES CAVSES, de l’avis de la Reine",
+            "Regente naoſtre tres-honorée Dame &amp; Mé́re, de noſ",
+            "retres-cher &amp; tres- amé́ Oncle le Duc d’Orleans, de",
+            "noſtre tres-cher &amp; tres-amé Couſin le Prince de Con",
+            "dé, &amp; des autres Printes, ucs, Pairs &amp; Officiers de la",
+            "Couronne eſtans pres de nous, executant noſtredite",
+            "Declaration du 6 dece mois, Nous avons par ces pre",
+            "ſeates ſignées de noſtre main, declaré́ &amp; declarons tos",
+            "les Officiers de noſtredite Cour de Parlement crimi",
+            "nels de leze Majeſté́, &amp; comme tels, faiſons tres-ex",
+            "preſſes inhibitions &amp; defſfetrces à tous nos Officiers &amp;",
+            "ſujets de les reconnoiſtre ni de leur obeyr, &amp; ſe pour",
+            "voir pardevers eux pour l’expedition de leurs affaires,",
+            "vons declaré &amp; declarons nuls tous les Arreſts pat"
+        ],
+        [
+            "3",
+            "eux donnez, comme renduspar gens nebelles particu¬.",
+            "liers, &amp; ſans aucun pouvoir;, Et de noſtre meſme puiſ",
+            "ſance &amp; authorité Royale, avons ordonné &amp; ordon",
+            "nons juſques à̀ ce qu’autrement par nous en ſoit otr.",
+            "donné, que doreſnavant du jour &amp; darte des preſerl",
+            "res, tous les Iuges Preſidiaux, au moins au nombre de",
+            "ſept, porté par les Ordonnances, jugent ſouveraine.",
+            "ment &amp; en dernier reſſort, tant en matiere civille que",
+            "criminelle, toutes les apellarions qui ſeront interjet",
+            "t́es des jugemens rendus par les Baillifs, Seneſchaux",
+            "&amp; autres Iuges qui ſont dans leur reſſort, meſme hors",
+            "le cas du Preſidial, &amp; à ceteffet leur en avons donneé",
+            "tout pouvoir, &amp; attribü̈é toute Cour, Iuriſdiction &amp;",
+            "conoiſſance. Si mManons-à tous nos Officiers deſdits",
+            "Sieges Preſidiaux eſtans dans le reſſort dudit Parle",
+            "ment de Paris, que ces preſentes ils faſſent publier &amp;",
+            "regiſtrer en leurs Sieges, pour eſtre execuré́es ſelon",
+            "leur forme &amp; teneur, &amp; d’en envoyer copie en tous les",
+            "Siéges ſubalternes de leurIuriſdiction, poury eſtre pa",
+            "reillemét publieé́es &amp; regiſtrées. MaAons auſſi à tous",
+            "nos Officiers &amp; ſujers d’obeyr à ces preſentes, aà peine",
+            "de deſobeyſſance, &amp; d’eſtre procede contr’eux comme",
+            "rebelles, fauteurs &amp; adherans audit Parlement. Enjoi",
+            "gnons à nos Procureurs de tenir la main ehacun en l’eſ",
+            "tenduë de ſon reſſort de faire toutes diligées, à ce que",
+            "noſtre preſente Declaration ſoit executeé́e ſelonſa for",
+            "me &amp; teneur, &amp; de nous donner avis des ordres qu’ils",
+            "auront pour ce donnez: Gar tel eſt noſtre plaiſir.",
+            "En teſmoin dequoi nous avons fait mettre noſtre ſeel"
+        ],
+        [
+            "aà cespreſentes. DONN’àS. Germain en Laye, le",
+            "vingt-deuxiéme jour de Ianvier, l’an de grace 1649, &amp;",
+            "de noſtre regne le ſixiéme. Signé́ LOVIS: Et ſur le re",
+            "pli, par les Roy la Reine Regente ſa Mere preſente.",
+            "DGVENEGAVD. Et ſeelléſur double queuë de",
+            "cire jaune.",
+            "Collationné́ à l’original par moy Conſeille",
+            "Secretaire du Roy&amp;deſes Finances.",
+            "Imprimé à Saint Gemain en Laye, 1649.",
+            "Avec Privilé́ge du Roy."
+        ]
+    ]
+}

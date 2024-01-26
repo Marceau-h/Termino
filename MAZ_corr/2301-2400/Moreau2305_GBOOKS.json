@@ -1,0 +1,91 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "liste",
+        "subject": "Chambre Saint-Louis",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1648-04",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Liste d'édits, déclarations et jussions registrés en la\n          chambre des Comptes par commandement du roi, portés par monseigneur le duc d'Orléans, le\n          vingt huitième avril 1648.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1648",
+                "#text": "1648"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1648-04",
+                "#text": "avril 1648"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "@ref": "isni:0000000074989000",
+            "@xml:id": "IL_CayDenisde.xml",
+            "persName": {
+                "forename": "Denis de",
+                "surname": "Cay"
+            }
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "LISTE DEDITS.",
+            "DECLARATIONS, ET",
+            "Iuſſions, Regiſtrez en la Chambre",
+            "des Comptes par le commande",
+            "ment du Roy, portés par Monſei",
+            "gneur le Duc d’Orleans le vingt",
+            "huictieme Avril 1648.",
+            "a",
+            "A PARIS.",
+            "Chez DENVs DE c Y, Muchand Libaiue",
+            "demeurant en ’Iſle du Palais, Place Dauphine,",
+            "au Soleil d’or."
+        ],
+        [
+            "22.",
+            "4.",
+            "26:",
+            "27!",
+            "Declaration concernant les comptes des Payeurs",
+            "des Rentes.",
+            "Declaration portant ſupprefſion de pluſieurs Offices",
+            "&amp;e augmenaoian de oidesrmqgroſſes etma¬l",
+            "Declaration pour le payement des charges localles du",
+            "Domaine de Sens, &amp; continuüiatios de l’octroy de",
+            "deux ſols pour muid dei Vinpaſſandt ſoub les Ponts",
+            "de ladite Ville.",
+            "Declaration pour l’eſtabliſſement des Commis des",
+            "Pſtes.",
+            "luſſion ſut l’dit d’auribontio de fix vinges douaze",
+            "miililuresdes Rentes fur les Gabelles.",
+            "Conrniſſion à Maiſtce Pierre Moyſel pour larecepte",
+            "du quartier des gages retranché́.",
+            "à Declaration poat aagmenaion de gages au",
+            "l -iciers du aetuoyementde Paris.",
+            "2",
+            "3",
+            "2"
+        ]
+    ]
+}

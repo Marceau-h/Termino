@@ -1,0 +1,168 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "subject": "Loyers",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, du 9 avril 1652, portant\n          la décharge entière du terme de Pâques, tant en la ville qu'aux fauxbourgs, ensemble la\n          sentence de monsieur le lieutenant civil rendue sur icelui, le 12 dudit mois.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-04",
+                "#text": "avril 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "viaf:107054351",
+            "@xml:id": "IL_RuffinHenri.xml",
+            "persName": {
+                "forename": "Henri",
+                "surname": "Ruffin"
+            }
+        },
+        "nbPages": "5"
+    },
+    "texte": [
+        [
+            "4",
+            "o",
+            "ES1",
+            "DE LA COVR",
+            "7",
+            "DE PARLEMENT,",
+            "du9. Avril 1.",
+            "PORTANT LA DESCHARGE",
+            "¬ ¬",
+            "entiere des Loyers du Terme de Paſques.",
+            "nſonble la Sentence de Monſieur le Lieernn Cal",
+            "rnducſricl:y l i. du meſme mos d’Al.",
+            "8",
+            "e",
+            "8",
+            "dela",
+            "dede1",
+            "e6",
+            "er",
+            "A PARIS,",
+            "Chez HenY RvrrIN, ruë de la Calandre,",
+            "proche le Palais. 1652.",
+            "80SIS5"
+        ],
+        [
+            "e2 S8",
+            "ete:ae a :eaaeeds:ese:aeaas40",
+            "e&amp; as t e ſſa ie t Se e aeeiu",
+            "Ee TESeeee",
+            "&amp;e 4e e 4e e4s",
+            "EXYTRAT DES REGISTRE S",
+            "de la Cour de Parlement.",
+            "pn ev Ea COv do",
+            "e Requeſtes preſentées, l’vne par",
+            "es",
+            "Z Flauin Gaubert, Pierre Billebaut,",
+            "E",
+            "Iſaac de Leſlang, &amp; pluſieurs aus",
+            "d",
+            "tres, rous principanx Locataires",
+            "des Maiſons de cette Ville de Paris, tant du",
+            "Quartier du Palais que des Halles, &amp; autres",
+            "Qutiers; Et l’autre, partous les pauures Arti",
+            "ans, Manouuriers, Uagne deniers, &amp; pauures",
+            "gens de cettedite Ville &amp; Faux bourgs,; à ceque",
+            "pour les cauſes y contenuës, &amp; meſmes la miſere",
+            "du tomps, &amp; labſence du Roy, ils fuſſent deſ",
+            "-chargez de payer les loyers du terme de Paſquas",
+            "dernier, &amp; celuy du rerme S. Iean prochain, à",
+            "cauſe des Mailons &amp; Chambres par eux loüiées;",
+            "-ce faiſant que maialeuée leufut faite des meu¬"
+        ],
+        [
+            "bles ſur eux executez &amp; qui le pourroient eſtre",
+            "pour raiſon de ce. Tout conſideré, LADITE",
+            "COVR a renuoyé &amp; renuoye leſd. Requeſtes",
+            "au Preuoſt de Paris, ou ſon Lieutenant Ciuil,",
+            "pour y eſtre pourueu &amp; fait droct ainſi qu’il",
+            "appartiendra. Fait en Parlement le neufiéme",
+            "Avril652. Collationné.",
+            "TOVS ceux qui ces preſentes Lettres ver",
+            "fr ront: Louis Seguier, Cheualier, Baron de",
+            "S. Briſſon, Seigneur des Ruaux &amp; de S.Frmain,",
+            "Conſeiller du Roy, Gentil-homme ordinaire de",
+            "ſa Chambre, &amp; Garde de la Preuoſté́ de Paris,",
+            "Salut. SCAVOIR faiſons. que veu par Nous",
+            "en la Chambre du Conſeil l’Arreſt de la Cour",
+            "du. Avril1652 rendu ur deux Requeſtes pre",
+            "ſent́es en icelle; l’vne. par Flauin Gaubert,",
+            "Pierre Billebaut, Iſaac de Leſtang, &amp; pluſieurs",
+            "autres, tous principaux Locataires des Maiſons",
+            "de cette Ville de Paris, tant du Quartier du Pa",
+            "lais, que des Halles, &amp; autres Quattiers; &amp; l’au",
+            "tre, par tous les pauutes Artifans, Manou",
+            "uries, Gagne deniers, &amp; pauures gens de",
+            "ladire Ville &amp; Faux-bourgs, teùdantes afin",
+            "que pour les cauſes y conteäs, meſme la mi",
+            "ſere"
+        ],
+        [
+            "ſere du remps &amp; l’abſence du Roy,",
+            "qu’ils fuſſent deſchargez de payer les",
+            "loyers du terme de Paſques dernier,",
+            "&amp; celuy de ſainct lean prochain, &amp;",
+            "ce faiſant main-leueée fut faite des",
+            "meubles ſur eux executez, par lequel",
+            "arreſt leſdites requeſtes nous ont eſteé́",
+            "renuoyées pour eſtre pourueu ſur ice",
+            "les ainſi qu’il appartiendra par raiſon.",
+            "Nous ns que leſdis ſupplians ſont",
+            "&amp; demeureront deſchargez du paye",
+            "ment des loyers eſcheus au terme de",
+            "Paſques dernier. Faiſant deſfences à",
+            "tous Proprietaires, &amp; principaux Lo",
+            "cataires deſdites maiſons de les con",
+            "raindre au payement d’iceluy &amp; en",
+            "conſequence de ce, main-leuée leur",
+            "eſt faites dés ſaiſies faites ou à faire.",
+            "EN TFIN de ce, Nous auons",
+            "fait mettre à ces preſentes le Seel de",
+            "ladite Preuoſté de Paris. Ce fut fais",
+            "&amp; donneé par Meſſire Dreux Dau",
+            "bray Conſeiller du Roy en les Con",
+            "ſeils d’Eſtat &amp; Priué &amp; Lieutenant",
+            "Ciuil, tenant le Siege, le douzieſme",
+            "iour d’Avril mil cens cinquante-deux",
+            "Collationne DE LA COVR Greffier",
+            "e3"
+        ]
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Emprisonnement des\n            princes",
+            "Condé, Louis de Bourbon (1621-1686 ; prince de)"
+        ],
+        "creation": "1650-01-18",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-14",
+            "@who": "AB"
+        },
+        "titre": "Lettre de consolation à madame la princese sur\n          l'emprisonnement de monsieur le Prince.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121209573",
+            "@source": "Mazarine",
+            "@role": "dubious_author",
+            "persName": {
+                "forename": "Louis II de Bourbon, prince de",
+                "surname": "Condé"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1650-01-20",
+                "@notAfter": "1650-02-10",
+                "@when": "1650",
+                "#text": "fin janvier-début\n            février 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2989317",
+            "#text": "Orléans"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DE CONSOLATION",
+            "A MADAME LA",
+            "PRINCESSE",
+            "Sur l'empriſonnement de",
+            "Monſieur le Prince.",
+            "M. DC. L."
+        ],
+        [
+            "MADAME,",
+            "Ie ſçay quelle eſt voſte verru, &amp; ie",
+            "connois auſſi l’affection que vous auez pour",
+            "moy: de ſorte Madame, que ie penſe qu’elles",
+            "ſont toutes deux egales, &amp; partant ie ne ſçay ſi",
+            "ie dois loü̈er la premiere ou ſi ie dois donner",
+            "des conſolations à la ſeconde dans l’eſtat où ie",
+            "me voy à preſent. Il eſt vay, Madame, qu’il eſt",
+            "bien different de celuy ou ie me ſuis veu autre",
+            "fois, lors que toutes les bouches eſtoient oc",
+            "cupées, auſſi bien que les plumes, à̀ parler &amp; à",
+            "tracer mes loü̈anges. Ceux qui ont vanté au",
+            "trefois mes conqueſtes, blaſment à̀ preſent",
+            "mes actions, &amp; l’on a étouffé toures mes vi",
+            "ctoires dans le ſilence, pour s’entretenir à cette",
+            "heure du mal heur de ma priſos. Pour vous",
+            "dire le vray ie penſe, Madame, que cette diſ",
+            "grace vous atouchée au plus profond du cœur,",
+            "&amp; que les diſcours qu’on ſeme à preſent de",
+            "moy, ſont bien contraires aux Cantiques &amp;",
+            "aux Panegyriques qui celebroient mes ex",
+            "ploits de guerte. Pour lors i’eſtois le ieune Ale",
+            "andre, le Pompée, le Scipion, &amp; le Ceſar, à",
+            "cette heure que la chance eſt retournée, ie ne",
+            "ſuis plus que le perfide &amp; le meſchant, &amp; tou¬"
+        ],
+        [
+            "tefois ie penſe que ce ſont laà les termes les plus",
+            "communs de ceux qui vonat auiourd’huy à̀ vos",
+            "oreilles. Il faut que ie vous confeſſe franche.",
+            "ment, Madame, que c’eſt le comble de mes",
+            "mal-heuts, &amp; ſouuaent ie m’imagine vous voir",
+            "toute en larmes, dautant que mon infortune",
+            "vous eſt tres ſenſible, puis qu’il en eſt de nos",
+            "cœurs comme de deux Luths montez ſur vn",
+            "meſme ton. Ie deuois me contenter de la gloi",
+            "re que i’auois acquiſe en mille occaſions im",
+            "portantes, &amp; ie pourrois me vanter d’auoit",
+            "égalé les actions illuſtres de tout ce que la Fran",
+            "ce a eu de Heros autrefois. Il eſt vray que i’a",
+            "uois ioint à la grandeur de ma roputation vn",
+            "grand nombre de richeſſes dont le Roy mon",
+            "Maiſtre, &amp; la Reyne Regente m’auoient com",
+            "blé. Mais il ſemble qu’il en eſt de mon cœur",
+            "comme de ces abyſmes qu’on ne peut rem",
+            "plir, lors que ie conſidere ſon auidiré, qu’à",
+            "preſent ie condamne: ouy, Madame, il faut",
+            "que ie le diſe, &amp; que ie le declare hautement,",
+            "à la gloire du Roy, que i’ay receu de ſa Maieſté́",
+            "des bien- faits qui vont bien au delà de rout ce",
+            "que ie pourrois pretendre par mes ſeruices.",
+            "Vous le ſçauez, &amp; c’eſt en cela que ie ſuis dau",
+            "tant plus coupable, de ſorte que ie ne puis",
+            "donner de couleur pour dé́guiſer mon cime.",
+            "Ce chatiment eſt bien rude pour vne humeur",
+            "comme la mienne, &amp; voilà̀ vne conioncture"
+        ],
+        [
+            "l",
+            "4",
+            "bien eſttange pour vn ambitieux. Il en eſt ſou",
+            "uent de l’ambiion comme de la cangrene",
+            "qu’il eſt impoſſible d’arracher ſans coupper la",
+            "piece. Ie deuois bien me ſouuenir de ce que",
+            "dit vn bel eſprit à̀ ce ſuiet que pluſieurs ont",
+            "raiſon de viure contens, s’ils en auoient la",
+            "connoiſſance.",
+            "Voila ma faute, &amp; ie m’en repens, &amp; l’on",
+            "ſçait que la ſeconde n’eſt pas moins honteuſe",
+            "pour moy. Mais apres tout, Madame, ie vous",
+            "coniure au nom de Dieu de vous conſoler de",
+            "mes diſgraces, vous deuez oppoſer à ce mal",
+            "heur la force de voſtre eſprit. Il eſt bien vray",
+            "que vous auez beſoin de ramaſſer toute voſtre",
+            "vertu en cette rencontre qui m’eſt ſi funeſte,",
+            "&amp; qui vous a couté́ bien des larmes. Quant à",
+            "moy ie veux mettre en vſage toute la fotce de",
+            "mon cœur, &amp; ie vous prie d’en faire autant que",
+            "moy, nous en auons beſoin tous deux, &amp; peut",
+            "eſtre que le Ciel permettra, que le Roy touché",
+            "de ma repentance changera mes deſtins,",
+            "prions-le pour ce ſuiet. I’atrens vn mot de ieſ",
+            "ponce de voſtre part comme vn des plus gIads",
+            "biens qui me puiſſe arriuer au Bois de Vin",
+            "cenne.",
+            "L. B. P. C."
+        ]
+    ]
+}

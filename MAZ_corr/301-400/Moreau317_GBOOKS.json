@@ -1,0 +1,176 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement donné à la requête de\n          monsieur le procureur général du roi, demandeur et complaignant, contre Jean Michel et\n          Claude Guelphe, atteints et convaincus de la sédition arrivée en l’Hôtel de Ville, le 4 du\n          présent mois de juillet, par l’ordre et à la suscitation du cardinal Mazarin",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
+            "persName": {
+                "forename": "Veuve de Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "A I L S",
+            "pee Cvt",
+            "Donn à la Requeſte de Monſieur",
+            "le Procureur general du Roy,",
+            "dem andeur &amp; complaignant.",
+            "CONTRE ICAN MICEL T",
+            "Claude Guelphe accuſeZ, atteints &amp; conuaincus",
+            "de la ſedition arriuee en l’oftel de cetreVille de",
+            "Panis le. du preſent mois de Iuillet, par l’ordre",
+            "&amp; à la ſuſcitation du Cardinal MaZarin.",
+            "ea",
+            "A PARIS,",
+            "De l’lmprim ere de la Vefue I. Gv e or, Imprimeuſe",
+            "ale fu dens uamoue.",
+            "ndinaire de ſon leſe",
+            "guſe de la iagd laine.",
+            "procho I’",
+            "M. DC. LII."
+        ],
+        [
+            "oeal",
+            "1l"
+        ],
+        [
+            "Iean Michel &amp; Claude Guelphe.",
+            "deféndeurs, Priſonniers en laCon",
+            "ciergerie du Palais: information !",
+            "faite par leſdits Conſeillers Com",
+            "mis, le neufiéme du preſent mois:,",
+            "Interrogatoire faits auſdits accu",
+            "ſez contenant leurs confeſſions",
+            "&amp; denegations, confrontations",
+            "des témoins à eux faites &amp; d’i¬ 7",
+            "ceu aeeuſea lvn alurepalet",
+            "dits Conſeillers commis; Conclu",
+            "ſions du Procureur General du.",
+            "Roy. Oüys &amp; interrogez leſdits!",
+            "Michel &amp; Guelphe ſur les cas à̀",
+            "eux impoſez.: Tout conſideré.",
+            "DIT A RSTE, que la Cour",
+            "a declaré &amp; declare leſdits Guel¬,",
+            "phe &amp; Michel atteints &amp; con",
+            "uaincus de la ſedition arriué́e en",
+            "l’Hoſtel de Ville, &amp; autres cas",
+            "mentionnez au procez: t pour",
+            "reparation, a condamné &amp; con",
+            "dam¬"
+        ],
+        [
+            "8",
+            "damne iceux Guelphe &amp; Michel,",
+            "eſtre pendus &amp; eſtranglez à vne",
+            "Potence-croizée, qui pour cét",
+            "effet ſera dreſſée en la Cour du",
+            "Palais de cette Ville de Paris,",
+            "ayant chacun vn Eſcriteau de",
+            "uant &amp; derriere, portant ces",
+            "mots:SEDITIEVX ET",
+            "PERTVRBATEVRS DV",
+            "REPOS PVBLIC: leurs",
+            "Corps morts y demeurer vingt",
+            "quatre heures, puis portez à",
+            "Mont-Faucon, &amp; leurs biens ac.",
+            "quis &amp; confiſquez aà qui il appar",
+            "tiendra; Sur iceux &amp; autres non",
+            "ſujets à̀ confiſcation, prealable",
+            "ment pris quatre-vingts liures",
+            "Pariſis d’amende, applicables au",
+            "pain des Priſonniers de la Con",
+            "ciergerie du Palais. ORDON",
+            "N E que le nommé Rebours,",
+            "dir ſaincte Agathe, ſera pris au",
+            "2,"
+        ],
+        [
+            "corps &amp; amené priſonnier en l.",
+            "Conciergerie du Palais, pour luy",
+            "eſtre ſon procez fait &amp; parfait,",
+            "ſi apprehendé peut eſtre: ſinon",
+            "adjourneé a trois briefs jours, à̀",
+            "ſon de trompe &amp; cry public, à̀",
+            "comparoir en perſonne en icelle",
+            "à certain iour: ſes biens ſaiſis, &amp;",
+            "Commiſſaires y eſtablis, juſques",
+            "à ce qu’il ayt obey, pour le tout",
+            "communiqué au Procureur (Ge",
+            "neral &amp; veu, droict eſtre faitainſi",
+            "qu’il appartiendra. Prononcé au",
+            "dit Guelphe &amp; Michel, &amp; executé",
+            "le vingt-troiſiéme jour de luil",
+            "let mil ſix cens cinquante- deux.",
+            "Signe, LB TENNEVR."
+        ],
+        [
+            "l DE PAR SON ALTE’SE",
+            "e",
+            "7",
+            "Royalle.",
+            "A VovR ’n vv deuxiéme du mois de Decem",
+            "bre 16c. Monſeigneur Fils de France, Oncle du",
+            "Roy, Duc d’Orleans, eſtant à Paris, voulant fauora",
+            "blement traiter la Vefue I. GVILLE oT, apres auoir",
+            "eſté́ particulierement inſormé de ſa capacité, &amp; des",
+            "ſoins qu’elle prend de faire fidellement &amp; correctement",
+            "imprimer les Pieces, Ouurages &amp; Relations qui luy",
+            "ſont enuoyées pour ſon ſeruice. Son Alteſſe Royalle",
+            "luy a peris de porter la qualité de ſon Imprimeuſe or",
+            "dinaire. Veut &amp; ordonne qu’elle ſoit employée dans les",
+            "Eſtats des Officiers de ſa Maiſon, &amp; qu’elle joüiſſe des",
+            "Honneurs, Priuileges, Franchiſes, Libertez &amp; Droits",
+            "que ſes autres Domeſtiques. Faiſant Son Alteſſe Royal",
+            "le defenſes à tous Imprimeurs &amp; autres, d’imprimer ou",
+            "contrefaire, &amp; mettre au jour ſous quelque pretexte que",
+            "ce puiſſe eſtre, les Relarions, Pieces &amp; autres Ouura",
+            "ges d’lmprimerie, qu’elle fait ou pourra faire à l’adue",
+            "nir pour le ſeruice &amp; par l’ordre de Son Alteſſe Royalle,",
+            "qui a pour témoignage de cette ſienne volonté́ ſigné",
+            "le preſent Breuet, &amp; commandeé eſtre contreſigné par",
+            "moy ſon Conſeiller &amp; Secretaire de ſes Commande",
+            "aens, Maiſon &amp; Finances.",
+            "Signé,",
+            "Et plus bas,",
+            "GASTON.",
+            "DE FROMONT."
+        ]
+    ]
+}

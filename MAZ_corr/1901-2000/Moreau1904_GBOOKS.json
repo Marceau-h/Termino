@@ -1,0 +1,123 @@
+{
+    "imprimatur": "Auec Priuilege du Roy.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "lettre",
+            "texte officiel"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1651-10-08",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-07",
+            "@who": "AB"
+        },
+        "titre": "Lettre de cachet du roi, du 8 octobre 1651, envoyée à\n          monseigneur le maréchal de Lhopital, chevalier des ordres du roi, gouverneur et lieutenant\n          général pour Sa Majesté en la ville, prévôté et vicomté de Paris, et seul son lieutenant\n          général en Champagne et Brie, sur ce qui s'est fait à la réception du roi dans sa ville de\n          Bourges.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "persName": "Louis XIV"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-10",
+                "#text": "datée d'octobre 1651"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000367213580",
+            "@xml:id": "IL_SassierGuillaume.xml",
+            "persName": {
+                "forename": "Guillaume",
+                "surname": "Sassier"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LETTRE DE CACHET",
+            "T 7",
+            "H",
+            "7",
+            "3 ,",
+            "Du 8. Octobre 1;i.",
+            "ENVOYEE A MONSE IGNEVR LE",
+            "areſehal de lroſpital, cCheualuer dles",
+            "des du foy, Goouermer &amp; l inu mant ce",
+            "enul pout ſa lMaeſe en la Vvile, preuoae",
+            "eonure d l i &amp; eui ſon uieuenuneee",
+            "neral en Champagne &amp; rie",
+            "Sur ce qui ’eſt fait à la Reception du Roy, dns ſa",
+            "Ville de Bourges.",
+            "aen",
+            "dddaee",
+            "nna",
+            "Ieoon",
+            "lel",
+            "S",
+            "eſere",
+            "A PARIS,",
+            "e dielnuer o ne lereu u ene oeine dr",
+            "aede t le u ſeu i de lie ee ln eln",
+            "ur de le vue",
+            "de ’aris, p",
+            "ehe la Sorboomnne, aus deu rourre.",
+            "¬-L",
+            "M. DCL1",
+            "Auec Priuilege du Roy."
+        ],
+        [
+            "ar¬-¬¬¬¬¬",
+            "eaaae",
+            "4",
+            "de mes bons Sujets, faiſant eſt t de n y ſejour",
+            "ner qu’aurant de temps qu’il faudra pour delinrer",
+            "les Peuples de ce Pais, &amp; ceux qui en ſont voiſins,",
+            "de la crainte &amp; des maux d’vne guerre Ciuille,",
+            "laquelle l’on tâchoit par tous moyens d’y excirer.",
+            "Ce que j’ay bien voulu vous faire ſç auoir par cette",
+            "Lettre, &amp; vous dire que vous ayez à̀ donner part",
+            "de mon voyage à mes Seruiteurs &amp; Sujets de l’é.",
+            "tenduë de voſtre Gouuernement, &amp; à empeſcher",
+            "par toutes voyes, ainſ que ie vous ay déja re",
+            "commandé, qu’il ne s’y faſſe aucune entrepriſe",
+            "contre mon Seruice, &amp; que-vous me teniez ad",
+            "ucrty de tout ce qui ſera de quelque importaace.",
+            "Sur ce ie prie Dieu qu’il vous ait, Mon Cov s,",
+            "en ſa ſaincte Garde. Eſcrit aà Bourges le huictié",
+            "me Octobre, mil ſix cens clnquante &amp; vn.",
+            "Et plus bas,",
+            "7",
+            "Signé, LOVIS.",
+            "2",
+            "DE LoMENE.",
+            "Et ſur la Surſcription de Ia Lettre eſt ed",
+            "A Mon Couſin le Sieur de l’oſpital, Mareſchal de",
+            "Franee, Cheaalier de mes Ordres; Gouusrnrr",
+            "Lietonant Genmeral en aa bone Vlle, Preoofteé ô.",
+            "Vieomté́ de aris, &amp; ſeul mon Lieatrenanme General",
+            "on mes Prouinces de Champagne &amp; rie."
+        ]
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Paris (France)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement , portant qu'aucunes\n          personnes ne pourront sortir de cette ville en vertu de passeports, après huitaine du jour\n          et de la date d'iceux.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-02-11",
+                "#text": "daté du 11 février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "Arreſt de la Cour",
+            "de Parlement.",
+            "PORTANT QV'AVCVNES PERSONNES",
+            "ne pourront ſortir de cette Ville en vertu de",
+            "Paſſeports, apres huictaine du jour &amp; datte",
+            "d'iceux.",
+            "Du vunzieme Féurier mil ſix cens quarante-neuf.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "Extraict des Regiſtres de Parlement.",
+            "CE jour, Meſſieurs les Deputez pour",
+            "les Paſſeports aſſemblez, Sur ce que",
+            "l'vn d'iceux a remonſtré"
+        ]
+    ]
+}

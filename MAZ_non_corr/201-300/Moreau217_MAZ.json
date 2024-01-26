@@ -1,0 +1,119 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſte",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Aliments – Approvisionnement",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement , donné, toutes les\n          chambres assemblées, le huitième jour de janvier 1649, par lequel il est ordonné, que le\n          cardinal Mazarin videra le royaume, et qu’il sera fait levée de gens de guerre, pour la\n          sûreté de la ville et pour faire amener et apporter sûrement et librement les vivres à\n          Paris",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "persName": "France. Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-01-08",
+                "#text": "8 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": "Imprimeurs et libraires ordinaires du roi",
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARRFST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DONNE TOVTES LES",
+            "Chambres aſsemblées le 8. iour",
+            "de Ianuier 1649.",
+            "PAR LEQYEL IL EST ORDONNE",
+            "Que le Cardinal Maarin vuidera le Royaume,",
+            "&amp; qu’il ſera fait leuée de gens de Guerre pour al",
+            "ſeureté de la Vile, &amp; pour faire amener &amp; ap¬",
+            "porter ſeurement &amp; librement les Viures à Paris.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinai¬",
+            "res du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſte."
+        ],
+        [
+            "EXTRAIT DES REGISTRES",
+            "de Parlement.",
+            "CE iour la Cour toutes les Chambres a¬",
+            "ſemblées, deliberat ſur le recit fait par",
+            "les Gens du Roy, de ce qu’ils ſe ſont",
+            "tranſportez à Saint Germain en Laye,",
+            "par deuers ledit Seigneur Roy &amp; la",
+            "Reyne Regente en France, enl’execution de l’Ar¬",
+            "reſt du iour d’hier, &amp; du refus de les entendre, &amp;",
+            "qu’ils ont dit que la Ville eſtoit bloquée, A A¬",
+            "REsTE ET ORDoNnNE, que tres-humbles remon.",
+            "ſtrances par eſcrit ſeront faites audit Seigneur",
+            "Roy, &amp; à ladite Dame Reyne Regente; Et attend",
+            "que leCardinal Mazarin eſt notoirement l’Autheur",
+            "de tous les deſordres de l’Eſtat &amp; du mal preſent;",
+            "L’A DECLARE ET DECLARE perturbateur du repos",
+            "public, Ennemy du Roy &amp; de ſon Eſtat, luy en¬",
+            "joint ſe rerirer de la Cour dans ce iour, &amp; dans la",
+            "huictaine hors du Royaume, &amp; ledit temps paſ¬",
+            "ſé EN 1oNT à tous les ſujets du Roy de luy cour¬",
+            "re ſus. FAT defenſes à toutes perſonnes de le re¬",
+            "ceuoir. ORoNE en outre qu’il ſera fait leuée de",
+            "gens de guerre en cette Ville en nombre ſuffiſant:",
+            "A ceſte fin commiſſion deliureée pour la ſeureté de",
+            "aae¬: ¬",
+            "1"
+        ],
+        [
+            "4",
+            "la Ville, tant en dedans que dehors, &amp; eſcorter",
+            "ceux qui ameneront les viures, &amp; faire en ſorte",
+            "qu’elles ſoient amenes &amp; apportées en toute ſeu¬",
+            "reté &amp; liberé. Et ſera le preſent Arreſt leu publié́",
+            "&amp; affiché, par tout où il appartiendra, à ce qu’au¬",
+            "cun n’en pretende caufe d’ignorance. Eont au",
+            "Preuoſt des Marchands &amp; Eſcheums tenir la main",
+            "à l’execution. FT en Parlement le huictieſme",
+            "Ianuier mil fſix cens quarente-neuf¬",
+            "Signe, DV TILLET.",
+            "E Vendredy huictieſme iour de Ianuier mil ſixe cens",
+            "LLuarente-neuf, l’Arreſt cy- deſſus de Noſſeigpneurs de",
+            "la Cour de Parlement, a eſté leu &amp; publie à ſon d Tronpe",
+            "&amp; Crypublic, ant es Pores &amp; entrées de cette Vile &amp;¬",
+            "Paux bourgs de Pars, qu’aux Carrefours &amp; Places pu¬",
+            "bliques de cete dite Ville &amp; Faux burgs, par moy lean",
+            "Ioſßier, luré Crieur ordinaire de Roy en la Ville, Preuoſté",
+            "&amp; Vicomte de Paris, en la preſence de Maiſtres lean Finoe",
+            "Pierre Laurens, Huiiers en ladite Cour, aceompa¬",
+            "ghé de trois Trompetes, lean du Bos, lacques le Fnne;",
+            "Iurez Trompettes du Roy, &amp; d’va aure Trompetre com¬",
+            "mis de Ddier Ordin, dir Champagne, uſßi ſure Trompet,",
+            "&amp; affiche ò beſoin a eſlé. Signe lOSSIER."
+        ]
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Épernon, Bernard de Nogaret de La Valette (1592-1661 ; duc d')",
+            "Bordeaux (Gironde)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêts de la cour de parlement de Bordeaux sur le refus\n          de l’entrée des gens de guerre et du cardinal Mazarin dans la ville de Bordeaux, et sur le\n          sujet de la députation vers le roi, garde et sûreté de ladite ville.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1650-08-04",
+                "#text": "4 août 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
+            "persName": {
+                "forename": "Veuve de Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE BORDEAVX,",
+            "Sur le refus de l’entrée des gens",
+            "de guerre &amp; du Cardinal Ma",
+            "zarin dans la Ville de Bor",
+            "deaux, &amp; ſur le ſujet de la De",
+            "putation vers le Roy, garde &amp;",
+            "ſeureté de ladite Ville.",
+            "Iouxte la Coppie imprimée à Bordeaux.",
+            "M. DC. L."
+        ],
+        [
+            "Extraict des Regiſtres de Par",
+            "lement.",
+            "SVR ce qui a eſté repre",
+            "e ſente a la Cour, toute.",
+            "les Chambres aſſemblées,",
+            "que la Ville ne ſeroit point",
+            "en aſſeurance ſi le ſieur",
+            "Cardinal Ma zarin y venoit à cauſe de",
+            "la protection qu’il a touſiours donńe",
+            "au ſieur Duc d’Eſpernon, A ESTE’",
+            "ARRESTE’ qu’il n’y ſera point re",
+            "ceu,ny aucunes Troupes qui puiſſent",
+            "donner ombrage à la preſente Ville,",
+            "A"
+        ],
+        [
+            "!",
+            "1",
+            "1",
+            "4",
+            "&amp; que le Roy ſera tres-humblement",
+            "ſupplié d’auoir agreabte la ’preſente",
+            "deliberation, pour le bien de ſon ſer",
+            "uice, le repos &amp; la tranquillité de ſes",
+            "Sujets. Fait à Bordeaux en Parle",
+            "ment les Cbambres aſſembĺes le28..",
+            "luillet mil ſix cens cinquante.",
+            "Signe, DE PONTAC.",
+            "Eſté auſſi déliberé que l’on de",
+            "4-A",
+            "A puteroit vers le Roy vn Preſi.",
+            "dent &amp; quatreConſeillers pour ſalüer",
+            "leurs Majeſtez, auec defenſes de voir",
+            "directcement ou indirectement le Car",
+            "dinal Mazarin, le Duc d’Efpernon, le",
+            "premier Preſident, de la Vie Aduo",
+            "Cat general &amp; Conſtant, ny faire ny",
+            "eceuoir aucune Propoſition ny’Trai",
+            "t eé: Et tacito Senaraus Comſulso, a eſté ar",
+            "reſte qu’au premier acte d’hoſtilité",
+            "o publiera l’Arreſt de l’an i67. &amp;",
+            "que l’on e nuoyera des Lettres ciC",
+            "laires à tous les Parlemens du Royau¬"
+        ],
+        [
+            "me contre ledit Cardinal Mazarin.",
+            "Signé, DE PONTAC.",
+            "EXTRAAICT DES REOSTRE3",
+            "de Parlement.",
+            "a VR ce qui aeſté repreſente",
+            "Id eiie eu ue e le e",
+            "é ſiaſtiques, &amp; autres Corps de",
+            "j, Ville, ſe pretendent exem",
+            "pts de la garde d’icelle, quoy qu’inte",
+            "reſſé́s dans la cauſe commune, ſup",
+            "pliẽt la Cour d’y pouruoir ſelon ſapru",
+            "dence, &amp; d’authoriſer l’Ordonnance",
+            "deſdits Iurats pour ce faire auec le",
+            "Conſeil de notables Bourgeois. L A",
+            "COVR toutes les Chambres d’i",
+            "celles aſſemblées ordonne que les Ha",
+            "bitans de cette Ville, meſme les Ec",
+            "cleſiaſtiques, &amp; Officiersiront ou en",
+            "uoyeront vn ſoldat pour faire la garde",
+            "au iour que le Capitaine de leur quar:"
+        ],
+        [
+            "1",
+            "tier ſera au rang de monter ladite gar",
+            "de, enſemble ſe rendront aux places",
+            "d’armes de leurs quartiers en cas d’a",
+            "larme de iour &amp; de nuict, à peine de",
+            "trente liures contre les contreuenans",
+            "&amp; de priuation du droict de Bour",
+            "geoiſie. Fait à Bordeaux en Parle",
+            "ment, leſdites Chambres aſſemblées",
+            "le vingt-huictieſme Iuillet mil ſix cens",
+            "cinquante. Signe,DEPONTAC.",
+            "A PARIS,",
+            "Chez la veufue Iean Guillemot, ruë̈",
+            "des Marmouzets."
+        ]
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "subject": [
+            "Parlement de Paris",
+            "Parlements"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de nos seigneurs du parlement, toutes les chambres\n          assemblées, portant cassation de la prétendue translation dudit parlement, à Pontoise, par\n          treize ou quatorze présidents et conseillers de ladite cour.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-08",
+                "#text": "août 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
+            "persName": {
+                "forename": "Jacob",
+                "surname": "Chevalier"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "D",
+            "r",
+            "A",
+            "I I L IL",
+            "DE NOSSEIGNEVRS",
+            "DV PARLEMENT,",
+            "Toutes les Chambres Aſſemblées:",
+            "PORTNT CSSATION DE LA PRE.",
+            "1endue Tranſlation dudit Parlement à ſPontoiſe par",
+            "treze ou quatore der Preſidens &amp; Coa",
+            "ſeillers de ladite Cour.",
+            "6E",
+            "Du 9. Aouſt 6;.",
+            "Eie?",
+            "a",
+            "E von l",
+            "r",
+            "A PARIS,",
+            "ez I A c0B CH evAL1E R, preés Saint Iean",
+            "M. DC. LII.",
+            ".A",
+            "j",
+            "8os."
+        ],
+        [
+            "nt retirez en cette. ville, &amp; allez",
+            "en celle de Pontoiſe, où ſous vn",
+            "faux pretexte, &amp; contre le deuoir",
+            "de leurs Charges ils ont fait vne",
+            "Aſſemblée, &amp; pretenduë eſta",
+            "bliſſement de Parlement dans l’Au",
+            "diroire dudit lieu, dans lequel",
+            "ils s’ingerent de donner des Iuge",
+            "mens par vne forme extraordinai",
+            "re, &amp; entrepriſe ſans exemples ſur",
+            "la Iuſtice Souueraine de ſa Maie",
+            "ſté, au pŕiudice de ſon authorité,",
+            "&amp; de l’honneur du Parlement; A",
+            "quoy eſtoit necçeſſaire de pouruoir:",
+            "Et oüy. ſur ce Beſcefer : Subſtitud",
+            "pour le Procureur General du",
+            "Roy; Ladite Cour a Caſſé ledit",
+            "pretepdu eſtabliſſement, l’a decl",
+            "ré &amp; declare nul &amp; illegitime, com",
+            "me fait par gens ſans pouuoir, &amp;",
+            "2",
+            "co¬"
+        ],
+        [
+            "&amp;",
+            "ſousn",
+            "e dei",
+            "fit e)",
+            "é tſ",
+            "n ſasl",
+            "lue",
+            "le",
+            "i",
+            "Ongairo aux eix, Fondamentales",
+            "delEftats ayxprdonnances du Ro¬.",
+            "me poyr &amp; rpquillité publi",
+            "aue lur fait tres- eypreſſes inhibi",
+            "tion &amp; defepſes leoaſſembler ny",
+            "donner aucuns Iugemens, à penm",
+            "de faux -&amp;r à tois les Oniciers &amp;",
+            "Subiets du Roy de les reconnoi",
+            "tre, &amp; de ſe pouruoir pardeuant",
+            "aœux en quelque ſorte &amp; maniere",
+            "ue ce ſoit; Enioint à tous les Iu",
+            "s du reſſort d’enuoyer les procez",
+            "era ladite Cour, ainſi qu’il eſ ae",
+            "cO uſtumé, à peine de répondre de.",
+            "dommages &amp; intereſts des partie¬.",
+            "t era le preent Arreſt leu, pubie,",
+            "&amp; aſiehe par tous les Carrefour",
+            "le cette ville &amp; Faux-bourgs, &amp;",
+            "enué à tous les Bailliages &amp; ſe",
+            "ges Preſidiaux, &amp; autres du reſſort,",
+            "B"
+        ],
+        [
+            "8",
+            "pour eſtre parellement leu, publie,",
+            "gardé &amp; executé; &amp; donné́ aduis",
+            "d’iceluy, &amp; de l’entrepriſe aux au",
+            "trés Parlements. Fait en Parlement",
+            "le neufié́ne Aouſt i6j2z.",
+            "Sine, DV TILL.",
+            "i",
+            ",",
+            "uns?"
+        ]
+    ]
+}

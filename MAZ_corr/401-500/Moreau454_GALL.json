@@ -1,0 +1,95 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1650-10-01",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-04",
+            "@who": "AB"
+        },
+        "titre": "Avertissement charitable à M. Cohon, évêque de Dol en\n          Bretagne et de Fraude en Guyenne.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "Sans date",
+                "#text": "Sans date"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1650-10-09",
+                "#text": "daté du 9 octobre 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ADVERTISSEMENT",
+            "CHARITABLE",
+            "A Mr COHON",
+            "EVESQVE DE DOL",
+            "EN BRETAGNE,",
+            "ET DE FRAVDE",
+            "EN GVYENNE."
+        ],
+        [
+            "ADVERTSEMET CHARITA",
+            "ble à Monſieur Cohon Eueſque de Dol en",
+            "Bretagne, &amp; de Fraude en Guyenne.",
+            "SONNET.",
+            "A double Rithme.",
+            "Veſque encheueſtré de Dol, de tromperie,",
+            "Des feintes de la Cour, d’vna vaine faueur,",
+            "penen oeiene rinelue nun ene lpue",
+            "neſie.",
+            "Pour mieux perſuader ta folle phantaiſie",
+            "Tu fais parler Bordeaux, comme ſon Pro¬",
+            "cureur,",
+            "Sans procuration, ſans charge &amp; ſans autheur,",
+            "Blaſmant ſa procedure apres vne Amniſtie.",
+            "Bourdeaux qui t’a ſuiuy iadis auec ardeur",
+            "ne eie enme eonſoieuoe e eueni",
+            "Que ta bouche a fait voir oppoſée àtoncœur;",
+            "nuie i reie len e enen",
+            "A Saint André de Bourdeaux",
+            "le 9. Octobre 1sso."
+        ],
+        [
+            "4",
+            "EPISCOPVS NON EPISCOPVS.",
+            "Quiſquis Epiſcopuseſt, nonomnis Epiſcopus ille eſt,",
+            "Teſtis Dolenſis iſte qui Fraudes, Dolos,",
+            "Et veris maiora fidem facientia nullam,",
+            "Regi ſuoque annuntiat Comitatui.",
+            "EPISCOPVS AVLICVS.",
+            "Vnus Epiſcopus eſt ſua qui figmenta, doloſque",
+            "Pradicat, aulicus eſt ille nec ille pius.",
+            "Y",
+            "EPISCOPVS SINE CLERO ET SINE",
+            "Populo.",
+            "Qui ſine Fpiſeopio Clero populoque ſideli",
+            "Hiccine Epiſe opii dig e ns onore ſari? eſt",
+            "Non ſunt omnes Epiſcopi",
+            "qui dicuntur Epiſcopi,",
+            "Cathuuphus Epiſt. ad Carolum Magnum;"
+        ]
+    ]
+}

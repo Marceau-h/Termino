@@ -1,0 +1,139 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "non renseigné",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Arrêt de la cour de parlement, concernant les\n                    retranchements pour la sûreté de la ville et faubourgs de Paris",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "A R",
+            "I.",
+            "r¬",
+            "IE 1",
+            "DE LA COVR",
+            "DE PARLEMENT.",
+            "Portant qu’ouuerture ſera faite de toutes les",
+            "Chambres de la maiſon du Cardinal Mazarin,",
+            "&amp; deſcription ſommaire de tout ce qui ſe",
+            "trouuera dans ladite maiſon.",
+            "Du vingt-cinquieſme Ianvier mil ſix cens quaranteneuf",
+            "32",
+            "e?",
+            "A PARHS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires du Roy.",
+            "De XI",
+            "Auec Priuilege de ſa Majeſté́."
+        ],
+        [
+            "1",
+            ". ¬",
+            "1",
+            "a",
+            "l",
+            ",",
+            "¬",
+            "2 l",
+            "4¬",
+            "1!",
+            ",",
+            "ad"
+        ],
+        [
+            "3.",
+            "aaes",
+            "Sesſeeaieeree",
+            "dd",
+            "Ee¬",
+            "Z&amp;eé",
+            "e",
+            "eegt",
+            "e",
+            "-7",
+            "E8",
+            "RSe",
+            "v3",
+            "ee",
+            "Sea",
+            "eaAmà",
+            "A D LD",
+            "E eD",
+            "A UAZZ U LU LA T D ALD",
+            "de Parlement.",
+            "V R la Requeſte preſentée à la",
+            "Cour, toutes les Chambres aſſem¬",
+            "blées, par le Procureur General du",
+            "Roy; A ce qu’attendu qu’en exe¬",
+            "cution de l’Arreſt de ladite Cour",
+            "du troieſme de ce mois &amp; an, il",
+            "a fait ſaſſir les biens du Cardinal",
+            "Mazarin, &amp; eſtablir Commiſſaire M Iean de Loynes,",
+            "&amp; que par le procé́s Verbal de ſaiſie, il paroiſt que",
+            "dans ladite maiſon y a pluſieurs Chambres fermées,",
+            "&amp; importe de les faire ouurir pour faire ſaiſir ce qui",
+            "s’y trouuera; Requerant que leſdites Chambres fuſ¬",
+            "ſent ouuertes en preſence de l’vn de ſes Subſtituts, &amp;",
+            "deſcription faite de ce qui s’y trouuera. Et veu leſ¬",
+            "dits Arreſt &amp; procésVerbal; Tout conſideré: LADrrE",
+            "COVR A ORDONN T ORDONN E quen",
+            "preſence du Conſeiller rapporteur du preſent Ar¬",
+            "reſt, &amp; de l’vn des Subſtituts dudit Procureur Gene¬",
+            "ral, ouuerture ſera faite deſdites Chambres, &amp; de¬",
+            "A ij"
+        ],
+        [
+            "4",
+            "ſcription ſommaire faite de ce qui ſe trouuera en",
+            "icelles. Ft en Parlement le vingt-cinquieſme Ian¬",
+            "vier mil ſix cens quarante-neuf.",
+            "Signé, DV TILLET.",
+            "7 7 E ¬",
+            "Collationné à l’original par moy Conſeiller",
+            "Secretaire du Roy &amp; de ſes Finances.",
+            "3",
+            "2",
+            "-vo¬"
+        ]
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": true,
+        "subject": [
+            "Commerce -- France -- Paris (France)-- 17e siècle",
+            "France -- 1648-1653 (Fronde)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-03",
+            "@who": "AB"
+        },
+        "titre": "Ordonnance du roi, envoyée à messieurs les prévôt des\n          marchands et échevins de la ville de Paris pour le rétablissement du commerce.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "persName": "Louis XIV"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-03-21",
+                "#text": "21 mars 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000008903969",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Rocolet"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ORDONNANCE",
+            "DV ROY,",
+            "Enuoyée à Meſsieurs les Preuoſt",
+            "des Marchands &amp; Eſcheuins de",
+            "la Ville de Paris, Pour le reſta¬",
+            "bliſſement du Commerce.",
+            "Du vingtieſme Mars 1649.",
+            "A PARIS.",
+            "Chez P. ROCOLET lmpr. &amp; Libr. ordin. du Roy,",
+            "&amp; de la Maiſon de Ville, au Palais, aux Armes",
+            "du Roy, &amp; de la Ville.",
+            "M DC XLIX.",
+            "Auec Priuilege de ſa Maieſté."
+        ],
+        [
+            "ORDONNANCE DV ROT,",
+            "Cnuoyée aux Preuoſt des Marchanmds &amp; Eſche¬",
+            "ains de la Ville de Paris, pour le reſtabliſſemens",
+            "dau Commerce.",
+            "g VR ce qui a eſté repreſenté à ſa Majeſté",
+            "fa de la part des Preuoſt des Marchands",
+            "&amp; Eſcheuins de ſa bonne ville de Paris,",
+            "o Qu’au preiudice de ce qui leur a eſte",
+            "accordé par ſa Majeſté, aucunes des",
+            "Villes eſtans ſur les Riuieres de Marne",
+            "&amp; de Seyne &amp; autres lieun, d’obil peuevemie des blei",
+            "à Paris, ont fait diculté d’en laiſſer ſortir deſdites",
+            "vVilles &amp; lieux pour n’auoir pas receu d’ordre de ſa Ma¬",
+            "jeſte ſur ce ſujet; Et voulanty pourueoir. SA MAjesr",
+            "par l’aduis de la Reyne Regente fa Mere:A oRonE",
+            "T ORDoE que les bleds &amp; toutes ſortes de grains,",
+            "vins, &amp; autres viures &amp; denrées quelconques ſeront",
+            "tirées &amp; tranſportées de toutes parts, &amp; paſſeront en",
+            "oute liberé &amp; ſeureté en ladire ville de Paris, rant par",
+            "eauë que par terre, Et que le Commerce de toutes",
+            "Marehandiſes y ſera entierement libre &amp; reſtably, tout",
+            "ainſi qu’il eſtoit auant le preſent mouuement. ¬",
+            "D anr ſa Majeſté aux Gouuerneurs &amp; ſes Lieuterans",
+            "Generaux en ſes Prouinces &amp; armées, Mareſchaux de"
+        ],
+        [
+            "Camp, ayans commandement ſur les Troupes, Gou",
+            "ueeneurs partticuliers de les Villes; Maires, &amp; Eſhe",
+            "uins d’icelle &amp; ous quues ſes Officia, qu’pgao",
+            "tien dra, de tenlr la main à̀ l’execution de la preſente:; &amp;",
+            "de la faire pubhier entoutes les Villes&amp; lieux que be¬",
+            "ſin l, à ce qu’ancu n’en preend cauſedga¬",
+            "rance. F1 cr à Sainét Germain en Lays le vigtiaſ¬",
+            "me iour de Mars ml ſix cens quarante neuf. Signeé",
+            "LOVIS, Et plusbas, LE TELLIER.",
+            "Collaeihné à l’Origiaal aſaarauGre de l’Hoſte",
+            "de Valle de Paris yar auy O ffet de llale Vil",
+            "ſoub fgné, paaeſt eefes ſelos ſa for gr e",
+            "eur oy y eſtans adjſoſiée comome audis Origia",
+            "r eo ene ſdene ne nns eoes"
+        ]
+    ]
+}

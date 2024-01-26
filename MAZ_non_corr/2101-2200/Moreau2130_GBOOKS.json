@@ -1,0 +1,141 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1649-01-18",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre du prince généreux à Mademoiselle.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "persName": {
+                "name": "Le prince généreux"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000108647130",
+            "persName": {
+                "forename": "Claude",
+                "surname": "Boudeville"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ſs r",
+            "L",
+            "rD",
+            "E I I",
+            "DV",
+            "PRINCE GENEREVX",
+            "A",
+            "MADEMOISELLE",
+            "PAI",
+            "oa ees",
+            "as ei i adi ieirieiſen",
+            "M BC, XLI."
+        ],
+        [
+            "1!",
+            "2",
+            ".",
+            "¬.e",
+            "2",
+            "E",
+            "2",
+            "A",
+            "1",
+            "2",
+            "i¬"
+        ],
+        [
+            "âahâaâdâaàaAâa aaâ",
+            "LETTRE DV PRINCE GENE REVX",
+            "A E2 .",
+            "IéA DEosELE.",
+            "cC’eſt vn miracle de voir produire des",
+            "actions d’vne generoſité ſupreſme, quand vn chacun,",
+            "l’eſprit &amp;le cœur abbau, reſte ſoumis au laſche ſen",
+            "timent d’vn aueugle reſpect: Il n’y a que voſtre Al",
+            "teſſe ſeule, Mademoiſelle, qui fait maintenant é́cla",
+            "rer à̀ la Cour vne vertu ſi heroique. Car lors que tout",
+            "le monde, les yeux ouuerts y demeure dans le ſilence,.",
+            "&amp; obeit; Elle parle diuinament, &amp; auec vne hardieſſe.",
+            "qui teé́moigne au Roy &amp; à la France, l’affection veri",
+            "table qu’elle leur porte, en prenant l’intereſt de leu",
+            "deffence: Ainſi, voſtre Aleſſe donne des marques,.",
+            "que la grandeur de ſon eſprir &amp; de ſon courage ſur",
+            "pafſe encores plus ſon illuſtre naiſſance, quoy qu’elle",
+            "ſoit la plus haute de la terre. Et l’on peut dire enfin",
+            "que c’eſt vn prodige de voir en vne perſonne de ſon",
+            "ſexe cette verta de generoſité ſi parfaite que l’on a",
+            "toufiours reconnuë en elle; Mais auſſi, il eſt facile de",
+            "iuger que la Nature a fait vn effort, en luy donnant",
+            "plus qu’elle n’a iamais fait à tous les Princes &amp; les",
+            "Princeſſes du monde. Oüy, Mademoiſelle, il n’y a",
+            "perſonne qui ne demeure d’accord que vous eſtes la",
+            "plus accomplie qui ait iamais veu leiour, &amp; la vaixde",
+            "¬ -las",
+            ",s"
+        ],
+        [
+            "la Renommée le publie ſihaurement, que rout cha",
+            "ecun ſouhairte auec paſſion de vous voir Quant à moy,",
+            "j’aurois vn contentement ſans pareil ſi ie receuois cet",
+            "onneur; Et ſi ie pouuois poſſeder vn eſprit comme",
+            "le voſtre, Ie m’eſtimerois le plus heureux de tous les",
+            "hommes: Car c’eſt vne vertu que i’eſtime plus-que",
+            "toutes les autres, eſtant la plus noble, à preſent la pus",
+            "neceſſaire de toutes. &amp; que vous la poſſedaz par Emi",
+            "nence; Continuez, Mademoiſelle, &amp; come le bien",
+            "qui en pourra ſucceder ſera grad, V oſtre Alteſſe en",
+            "receura auſfi des benedictions infinies &amp; des actions",
+            "de grace immortelles. Les François fondent vne par",
+            "ie de leurs eſperances aux oracles de ſa belle bouche",
+            "Reépondez à leur attente, Ne ſouffrez pas qu’ils ſe dé",
+            "truiſent eux-meſmes, &amp; que deux partis contraires,",
+            "bien qu’ils deuroient eſtrevnis, faſſent perir la Fran",
+            "ce, pour donner la joye à vn Eſtranger de voir reuüſſir",
+            "ſes entrepriſes deteftables, heureuſes pour luy, mais",
+            "malheureuſes pour ous. Voſtre bonté naturelle. l’in",
+            "tereſt de voſtre gloire, l’affection que vous auez pour",
+            "voſtre parrie, &amp; voſtre generoſité ſans pareille, vous",
+            "porteront ſans dourte, Mademoiſelle, de n’abandonner",
+            "pas vn œuure imparfait que vous auez ſi bien com",
+            "mencê, levous en coniure e mon partieulier, &amp; ie ſe",
+            "ray dautant plus oligé de garder le vœu que i ay fait",
+            "d’eſtre eternellement",
+            "7y E",
+            "MADEMOISELLE,",
+            "De Voſtre Alteſſe",
+            "Ce o. a",
+            "irié4.",
+            "Le tres-humble, tres-obeiſſant,",
+            "&amp; tres-affectionné ſeruiteur,",
+            "L Prine ns."
+        ]
+    ]
+}

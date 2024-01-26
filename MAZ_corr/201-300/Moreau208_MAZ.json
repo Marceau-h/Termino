@@ -1,0 +1,126 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Aides (impôt)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant défenses, aux\n          fermiers des aides, leurs commis et autres , de lever à l’avenir, sur le bétail à pied\n          fourché, autres impositions que l’ancien droit, à peine de concussion",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1648",
+                "#text": "1648"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1648-10-05",
+                "#text": "5 octobre 1648"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
+            "@ref": "isni:0000000356483032",
+            "persName": {
+                "forename": "Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "2"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT.",
+            "PORTANT DEFFENCES AVX",
+            "Fermiers des Aydes, leurs Commis,",
+            "&amp; autres, de leuer à̀ l’aduenir ſur le",
+            "Beſtail à pied fourché, autres Impoſi",
+            "tion que l’ancien Droict, à̀ peine de",
+            "concuſſion.",
+            "Du 2. jour d’Ocobre 1648.",
+            "A PARIS,",
+            "De l’Imprimerie de I. GVILLEMOT, ruë",
+            "des Marmouzets, deuant la petite Porte de",
+            "l’Egliſe Sainte Magdeleine,",
+            "M. DC. XLVIII."
+        ],
+        [
+            "Extraict des Regiſtres de Parlement.",
+            "CE jour la Cour, toutes les Cham",
+            "bres aſſemblées, apres auoir ouy",
+            "le rapport de deux Conſeillers d’i",
+            "celle, commis pour l’execution de",
+            "l’Arreſt, du 2o. Iuillet dernier,",
+            "concernant la Pancharte &amp; Tarif",
+            "ordonné eſtre fait par iceluy: Et veu les Edicts,",
+            "Deelarations, &amp; Arreſts donnez ſur le ſujet des",
+            "leúes, tant ſur le Beſtail à pied fourché, qu’au",
+            "tres Danrées; enſemble laRequeſte preſentée par",
+            "la Communauté des Marchands Bouchers d",
+            "cette Ville &amp; Fauxbourgs: Concluſions du",
+            "Procureur general du Roy ſur ladite Requeſte;",
+            "la mariere miſe en deliberation. LADIT",
+            "COV R, executant ledit Arreſt du vingtieſ",
+            "me Iuillet, a fait &amp; fait tres-exprefſes inhibi",
+            "tions &amp; deffences aux Fermiers des Aydes, eurs",
+            "Commis, &amp; autres, de leuer à l’aduenir aux en",
+            "é́es de cette Ville &amp; Fauxbougrs de Paris,",
+            "les Impoſitions de quarante ſols ſur hacun",
+            "Bœuf, de ein ſols ſur chacun Veau &amp; Mou¬"
+        ],
+        [
+            "1",
+            "con, de vingt ſols pour Vache, &amp; douze ſols",
+            "pour Pore, mentionnez au Tarif, du vingt-ſix",
+            "ieſme Ianvier mil ſix cens quarante-vn, à peine",
+            "de concuſſion: Enjoint aux Ofſiciers du Roy,",
+            "renir la main à l’exeeution du preſent Arreſt:",
+            "oi le n ueies ineie erene e ſ",
+            "ral il ſera leu, publié &amp; affiché par tous les Cat",
+            "refours de cettedite Ville &amp; Fauxbourgs, &amp;",
+            "par tout aileurs quo beſoin ſera, à ce que nul",
+            "h’en pretende cauſe d’ignorance Fait en Parle",
+            "ment le. Octobre 1o8 Signé,GVYET.",
+            "TE Samedy . jour d’odre os mft",
+            "LLey-deſus ̀ eſté leu &amp; publié à ſn de Trmmpe",
+            "Sary pudlie, idut pair ouris les Pones que Cire",
+            "ours de certe Vile de Paris, par my aa lofirs",
+            "’iiecriaur ordinaire du Roy, n la i, Praoe",
+            "&amp; Piomuede Panis, aſiſié de Maiſts un",
+            "bapijſte Caſault, uijſier en ladite Cour, fai",
+            "uc ois Trompettes, Iean du Bos, &amp; Iacques le",
+            "Frain, Iurez, Trompettes, &amp; d’vn autre Trom",
+            "pette, Commis de Didier Ordin, dit Cbampa",
+            "ne, auſas ure Tnmpue dus o,ſlit lies;",
+            "&amp; aſeh où beſoin a eſte. Signe, IOSSIER."
+        ]
+    ]
+}

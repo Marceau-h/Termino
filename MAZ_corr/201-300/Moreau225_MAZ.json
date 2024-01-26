@@ -1,0 +1,125 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Commerce -- France -- Paris (France) -- 17e siècle",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant injonction, à tous\n          marchands et artisans de cette ville et faubourgs de Paris, de tenir leurs boutiques\n          ouvertes et continuer leurs trafics , ainsi qu’il est accoutumé.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01-14",
+                "#text": "14 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "Arreſt de la Cour",
+            "DE PARLEMENT.",
+            "PORTANT INIONCTION A TOVS",
+            "Marchands &amp; Artiſans de cette Ville &amp; Faux",
+            "bourgs de Paris, de tenir leurs boutiques ouuer",
+            "tes, &amp; continuer leur trafic ainſi qu’ils ont ac",
+            "couſtumeé.",
+            "Du quatorizéme iour de Ianuier 1s49.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinai",
+            "res du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "¬",
+            "l AA ltbſhtbbttte",
+            "e e ae es de de ae e e de fui",
+            "Souppeſeeſqpſeipeeopep",
+            "A",
+            "aex RAeT",
+            "DESREGISTRES",
+            "DE PARLEMENT.",
+            "E iour, la Cour toutes les Cham",
+            "ats",
+            "Idt oes ſenibies s Sus aduli qi!",
+            "Z eſlé donne qu’aucuns archands de",
+            "-ette Ville tiennent leurs boutiques",
+            "fermées; ce qui eſt contre l’ordre, &amp; peue",
+            "pooutr rouble d la reanquilire pablquaele",
+            "nere miſe en deliberaton, LADITE",
+            "a enjoine A tous Marchands &amp; Ari",
+            "fans de ecette Ville &amp; Faux-bourgs, tenir leurs",
+            "bouriques ouuertes, coneinuer leurs raſie",
+            "n qu’ils ont aeeouſtuḿ, à peine damende",
+            "aroitraire. Et ſera le preſent Arreſt, a la re",
+            "queſte du nroeneur denetal du oy lespu;",
+            "ie aiché par tout ou il apparienda,à",
+            "ce que nul n’en pretende cauſe d’gmorancei",
+            "Enjoint aux oieiers du Roy du Chaſtelet,",
+            ".",
+            "1!",
+            "1!",
+            "1l",
+            "Ema"
+        ],
+        [
+            "11",
+            "1l",
+            "1l",
+            "4",
+            "cuit la nain à l’ereeution EAIT en P",
+            "ounen le quatodieme laaulert mit ſir cene,",
+            "quarante-neuf.",
+            "Signé, DV TILLE.",
+            "Collaonné nl’Orgimal, par moy Comnſeiller",
+            "Secretaire du Ry &amp; de ſes Finnnr,",
+            "J aureime our de lamier mil ſit den qumam",
+            "lp rapſde dus de ſlopus Ceet",
+            "Eiee dſie rils, iſerroe pe u",
+            "les pun nus dlieoiarmfeir omrditdnes ce eaunrn",
+            "ee eeile e lue lferrs ds pue re es lu ſ",
+            "locniapmdnoe da or n la l, nuaſu ’",
+            "n le ueen ofdſeindſ ieuen qun leumn d",
+            "laru t Fains lie Tmmuu du Peoyſdin iu",
+            "Signe, IOSSiER"
+        ]
+    ]
+}

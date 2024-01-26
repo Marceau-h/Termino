@@ -1,0 +1,155 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de nos seigneurs du parlement sur les déclarations\n          de monseigneur le duc d'Orléans et de monsieur le Prince, et supplication faite au roi de\n          vouloir donner la paix dans son royaume et de revenir en sa bonne ville de Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-09",
+                "#text": "septembre 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
+            "persName": {
+                "forename": "Jacob",
+                "surname": "Chevalier"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "D C",
+            "re",
+            "H.",
+            "Al",
+            "A . D L",
+            "DE NOSSEIGNEVRS",
+            "de Parlement, ſur les Declarations",
+            "de Monſeigneur le Duc d’Orleans,",
+            "&amp; de Monſieur le Prince, &amp; ſupli",
+            "cation faite au Roy de vouloir",
+            "donner la paix dans ſon Royaume,",
+            "&amp; de reuenir en ſa bonne ville de",
+            "Paris.",
+            "es",
+            "e",
+            "A PARIS,",
+            "Chez I ace C He v a Le R, prés Saint Iean",
+            "de Latran.",
+            "M. DC. LII.",
+            "81S93"
+        ],
+        [
+            "3",
+            "sSedfdj5",
+            "aSeaaQ a",
+            "ARRESTDE NOS",
+            "SEIGNEVRS DE PARLEMENT,",
+            "ſur les Declarations de Monſeigneur le Duc",
+            "d’Orleans, &amp; de Monſieur le Prince, &amp;ſup",
+            "plication faite au Roy de vouloir donner la",
+            "pmais dans ſon oyaume, &amp; de reueni",
+            "dans ſa bonne ville de -Paris.",
+            "E jour la Cour toutes",
+            "s",
+            "les Chambres aſſem",
+            "&amp;é blées, ayant delbere",
+            "pendant deux matineé́es",
+            "ſur les propoſitions faites par",
+            "Monſieur le Duc d’Orleans On",
+            "cle du Roy, &amp; ſa Declaration,",
+            "&amp; de Monſieur le Prince de Con",
+            "dé, contenues au Regiſtre du",
+            "jour dhier, Apres auoir ouy ſur"
+        ],
+        [
+            "4",
+            "ce Beſchefer Subſtitud duProc.",
+            "reur Geheral. A arreſté &amp; ordõń",
+            "que l’Areſt du- vingt deux Aouſt",
+            "deriier fera executté, &amp; ce fai",
+            "fant ſa Majeſté treshumblement",
+            "remerciée par Deputtéz d’icelle",
+            "ilede pure eue e ’eue ſenie",
+            "arin; &amp; ſupplier de vouloir don",
+            "ner la Paix à fon Royame, &amp; de",
+            "reugnir a Paris&amp; que oufieu",
+            "le Duc d’Orleans ſera prié d’aſcri",
+            "E uai de enonrn eo eoue ine",
+            "ledit ſieur Prince de Condeé de",
+            "cdarentquils poſent leearmespre",
+            "ſentement, en enuoyant par a",
+            "Ma jeſté les Ordres neceſſaires",
+            "pour les Troupes Franç̧oiſes qui",
+            "lont ſous leurs Commandemens,",
+            "&amp;"
+        ],
+        [
+            "3J",
+            "&amp; paſſeport pour les troppes",
+            "eſtrangeres, &amp; accordant vne",
+            "Declaration d’Amniſtie gene",
+            "raleien honne forme, la ſup",
+            "plier de receuoir à̀ cét effet",
+            "les Deputez dudit ſieur Duc.",
+            "d’Orleans &amp; dudlt Prince de",
+            "Conde:&amp; outre que les Compa",
+            "gnies Souueraines de cette vil",
+            "le de Paris ſeront conuées, en",
+            "ſemble le Corps de Ville dans",
+            "l’ſſembĺe qui ſera faite à cet",
+            "te- fin des Principaux Bour.",
+            "geois d’icelle, Corps &amp; Mar",
+            "chands &amp; Communautez, de",
+            "faire pareille Deputation vers",
+            "ſa Majeſteé́, auſquelles Aſ.",
+            "ſembĺe Mondit Seigneur le",
+            "Duc d’Orleans, &amp; ledit l’rin¬¬"
+        ],
+        [
+            "6",
+            "ce de Condé ſeront priez d’y",
+            "aſſiſter, &amp; y faire leur decla",
+            "ratio. Fit en Parlement le",
+            "troiſieſme Seprembte mil ſix",
+            "cens cinquance deux.",
+            "gne DVTILLE."
+        ]
+    ]
+}

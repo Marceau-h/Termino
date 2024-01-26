@@ -1,0 +1,130 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-08-23",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-28",
+            "@who": "AB"
+        },
+        "titre": "Déclaration de Son Altesse Royale et de monsieur le\n          Prince, faite en la chambre des Comptes, sur l’éloignement du cardinal Mazarin",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": [
+            {
+                "@ref": "isni:0000000121209573",
+                "persName": {
+                    "forename": "Louis II de Bourbon, prince de",
+                    "surname": "Condé"
+                }
+            },
+            {
+                "@ref": "isni:0000000121336441",
+                "persName": "Gaston d'Orléans"
+            }
+        ],
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1652-08-22",
+                "@when": "1652",
+                "#text": "document daté du 22 août 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000074989000",
+            "@xml:id": "IL_CayDenisde.xml",
+            "persName": {
+                "forename": "Denis",
+                "surname": "De Cay"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "DECLARATION",
+            "DE SON",
+            "ALTESSE ROYALE",
+            "ET DE MONSIEVR",
+            "LE PRINCE DE CONDE",
+            "faite en la Chambre des comptes,",
+            "ſur l’eſloignement du Cardinal",
+            "Mazarin.",
+            "A PARIS,",
+            "Chez DENIS DE CAY Imprimeur &amp; Libraire",
+            "ordinaine de Chambre des Comptes, en l'Iſle",
+            "du Palais, au Soleil d'or.",
+            "M. DC. LII."
+        ],
+        [
+            "3",
+            "DECLARATION",
+            "DE SON ALTESSE ROYALE,",
+            "&amp;de Monſeur le Prince de Candé, faite en",
+            "la Chambre des Compos, ſur l’eſloignemens",
+            "du ardinal MaZavin.",
+            "A reſolurion qu’a pris le Roy de faire",
+            "orirt le Cardinali Mazarin hors du",
+            "s Royaume dans la conjoncture preſen",
+            "te, juſtifie d’vne telle ſorte ce qué nous",
+            "auons fait pour l’empécher d’y r’entrer,",
+            "&amp;depuis qu’ily eſt de retour que perſonne ne peu",
+            "plus blaſmer noſtre conduite auec raiſon; Aui",
+            "ceu qui ont voulu authoriſer fa demeure en France,",
+            "n’ont-ils eu la hardieſſe d’alleguer autre choſe, ſino",
+            "qu’il n’eſtoit que le pretexte de la Guerre, &amp; qu’elle",
+            "auoit des cauſes que ſon eſloignement ne ſeroit pas",
+            "capable d’oſter. Mais condme noas proteſtons qu’il",
+            "a eſté le ſeul &amp; le veritable motif qui nous a mis les",
+            "armes à la main, Nous venons dans la Compagnie",
+            "Pour l’aſſeurer que nous ſommes preſts de les poſer,",
+            "&amp; d’executer ſincerement les Declarations que nous"
+        ],
+        [
+            "4",
+            "y auons faites, preſuppoſant que ſa ſortie hors du",
+            "Royaume ſoit efſectiue, &amp; pourueu qu’il plaiſe à ſa",
+            "Majeſté faire ce qu’il conuient pour le repos de ſoa",
+            "Eſtat: Ce qui s’eſt tousjours pratiqué́ en de ſembla",
+            "bles occaſions, qui conſiſtent ſeulement à donner",
+            "vne A mniſtieen bonne forme, d’eſloigner les trou",
+            "pes des enuirons de Paris, &amp; retirer celles qui ſon",
+            "dans la Guyenne &amp; dans les Prouinces pour les",
+            "employet ailleurs ſur les fiontieres, &amp; à reſtablis",
+            "les choſes au meſme eſtat qu’elles eſtoient auant les",
+            "preſens mouuemens; &amp; particulierement ce qui",
+            "concerne la reünion du Parlement, &amp; donner vne",
+            "route &amp; ſeureté pour la retrairte des Trouppes",
+            "eſtrangeres qui ſont ſoubs noſtre commandement.",
+            "Nous ſommes tous diſpoſez à enuoyer exprés à ſa",
+            "Majeſté, &amp; luy faire entendre les meſmes choſes",
+            "uec tout le reſpect que nous luy deuons, ne doutant",
+            "point que la Compagnie ne le iuge ainſià propos,",
+            "de oous confirmer au ſentiment qu’elle prendra",
+            "dans vne occaſon auſſi importante que celle-cy,",
+            "&amp; d’où dépend la tranquilité́ publique: E te",
+            "moin dequoy. nous auons ſigné la preſente Decla",
+            "ration. Faict à Paris le 22. iour d’Aouſt 1652.",
+            "Signe, GASTON, &amp; LOVIS DE BOVRBON."
+        ]
+    ]
+}

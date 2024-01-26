@@ -1,0 +1,92 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-01-09",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-16",
+            "@who": "AB"
+        },
+        "titre": "L'ordre du roi envoyé aux villes pour le passage du\n          cardinal Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "@source": "Mazarine",
+            "persName": "Louis XIV"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-01-11",
+                "#text": "daté du 11 janvier 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "2"
+    },
+    "texte": [
+        [
+            "L'ORDRE DV ROY",
+            "enuoyé aux Villes pour le paſſage",
+            "du Cardinal Mazarin.",
+            "DE PAR LE ROY.",
+            "SA Maieté ayant aduis que Monſieur le Cardi",
+            "nal Maaarinjs’aduance par dey̧a, ſuiuant la per",
+            "miſlion &amp; les ordres qu’l en à eus de ſaMajeſté,auec",
+            "vcorps d’armée conſiderable, qu’ilà leu &amp; mis en",
+            "ſemble par ſes ſoins, ſon credit &amp; affeion pour le",
+            "ſeruice de ſaMajeſte, &amp; auec beaucoup de deſpenſo",
+            "&amp; qu’il marche inceſſamment vers la riuiere de",
+            "Loire, pour s’aduancer par decça, &amp; amener ladite ar.",
+            "mée à ſa Majeſté, pour la ſeruir dans les occaſions",
+            "preſentes. Sa Majeſteé́, ordonne &amp; enjoint res ex.",
+            "preſſement à tousGouuermeurs &amp; Lieutenans gene",
+            "raur en ſes Prouinces, &amp; Gouuerneurs particuliers",
+            "de ſes vlles &amp; places, eſtans ſur la riuiere de Loire,",
+            "&amp; autres où il voudra paſſer, Maires &amp; Eſcheuins",
+            "d’ieelles, &amp; à tous ſes oneiers &amp; ſujers de donner",
+            "leut &amp;libre paſſage &amp; logement, rant a li perſonne",
+            "dudiu ſieur cardinal, qu’à toutes les rrouppes, rant",
+            "de cheuul que de pied, rrancoiſes &amp;e tſrangens,",
+            "enſemble à l’Ariſlerie, au bagage &amp; eſquipage"
+        ],
+        [
+            "eas la ſice de adite Armée, ſans apporra",
+            "rir quiy ſoiuapponeauenndelayny dſneulue",
+            "pour quelque ouſe deoeeaſonu louqueleirp",
+            "lelu qu e punſe eſdre ler ens one de l’aire",
+            "aireanſter de routce qu’ils ſea en leu pouuoi",
+            "pour il ſneaine, ſeuree u adaanenmenrtdela nn",
+            "Pe de liſnire irme a peine de deaſoeilanee",
+            "ans quil ſoit peſon d’anrme ordte plun eeen",
+            "eotmnmandement plus paricuerà chacun d’eu",
+            "que elnn pne pmut a preſenre Voniln nenr",
+            "orſe diele e olauioninens pt l r ds foeſet",
+            "lse ereires deſidiuie ſe oiſoubuſednonal1",
+            "natudeouſtie comme a l’oignal faiud Poieoel",
+            "Vueme iout de lanuier ni ſix cens cinquante",
+            "deix. Signe, LOVIS. Et plus bas LE TELLIER,",
+            "ſcellé du petit Sceau en cire rouge."
+        ]
+    ]
+}

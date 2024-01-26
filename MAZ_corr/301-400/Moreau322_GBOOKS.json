@@ -1,0 +1,125 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-31",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant qu'’il sera fait\n          fonds de cent cinquante mille livres pour exécuter l’arrêt du mois de décembre contre le\n          cardinal Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-07-24",
+                "#text": "daté du 24 juillet 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
+            "persName": {
+                "forename": "Veuve de Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT,",
+            "PORTANT QV'IL SERA FAIT FONDS",
+            "de Cent cinquante mil liures pour exectuer",
+            "l'Arreſt du mois de Decembre contre le Car",
+            "dinal Mazarin.",
+            "Du Mercredy vingt-quatrieſme Iuillet 1652.",
+            "A PARIS,",
+            "De l'Imprimerie de la Vefue I. GVILLEMOT, Imprimeuſe",
+            "ordinaire de ſon Alteſſe Royale, ruë des Marmouzets,",
+            "proche l'Eglise de la Magdelaine.",
+            "M. DC. LII."
+        ],
+        [
+            "3",
+            "EXTRAICT DES REGISTRES",
+            "de Parlement.",
+            "CE iour la Cour, toutes les Chambres",
+            "aſſemblées, Monſieur le Duc d’Or",
+            "leans oneledunor dele ſentpne",
+            "de Condé y eſtans, lecture faite de",
+            "l’Arreſt duo. Decembre dernier, donneé́ contre",
+            "le Cardinal Mazarin; Et ouy ſur ce Beſchefert,",
+            "Subſtitut pour le Procureur general du Roy, luy",
+            "retiré, la matiere miſe en deliberation: LADITE",
+            "COVR executant ledit Arreſt, &amp; autres donnez",
+            "en conſequence, a ordonné &amp; ordonne, qu’il ſera",
+            "inceſſamment procedé́ aà la vente de ce qui reſte",
+            "des meubles, &amp; autres choſes appartenane audit",
+            "Cardinal; &amp; à̀ la reddition des comptés des Fer",
+            "miers &amp; Receueurs des reuenus de ſes Benefices,",
+            "en preſence de Maiſtres Clement le Meuſnier,",
+            "Iacques Renard, Paul Portail, Charles Briſart,",
+            "Alexandre Petau &amp; Pierre Pithou, Conſeillers en",
+            "ladite Cour, ou de deux d’entr’eux, en l’abſence",
+            "ou mnaladie des autres; &amp; ce qui ſera par eux fait",
+            "&amp; ordonneé, executé, nonobſtant oppoſitions &amp;",
+            "appellations faites &amp; à faire, &amp; ſans preiudice d’i",
+            "celles: Ordonne en outre qu’il ſera par deux",
+            "Bourgeois de chacun quartier, qui ſeront nom",
+            "mez en l’Aſſemblée de l’Hoſtel de Ville, fait"
+        ],
+        [
+            "inceſſamment vne leuée de deniers ſur le pied",
+            "d’vne aninée de ce qui ſe paye pour la taxe des",
+            "Boués ſur chacun des Locataires, &amp; habitans les",
+            "Maiſons de eette Ville &amp; Fauxbourgs de Paris, au",
+            "payement dé laquelle chacun particulier, quia.",
+            "accouſtumé de payer ladite taxe des Bouës, ſera",
+            "contraint au premier refus, nonobſtant oppoſi",
+            "tions &amp; appelſations faites &amp; à faire; leſquels de",
+            "niers, &amp; ceux qui prouiendront de la vente des",
+            "meubles &amp; reuenus des Benefices dudit Cardi",
+            "nal, enſemble ceux eſtans entre les mains de",
+            "Martinet, procedans de la:",
+            "Maiſtre",
+            "vente de la Bibliotheque d’iceluy Cardinal, iuſ",
+            "qu’à̀ la ſomme de cent cinquante mille liures,",
+            "ſeront mis entre les mains des Banquiers, pour",
+            "les faire deliurer en tous lieux à celuy ou ceux",
+            "qui executeront ledit Arreſt du vingt-neufieſme",
+            "Decembre dernier; Et ſera le preſent Arreſt leu,",
+            "publié́ &amp; affiché́ en tous les Carrefours de cette",
+            "Ville &amp; Fauxbourgs. FAIT en Parlement le 24",
+            "Iuillet, mil ſix cens cinquante deux.",
+            "Signé, DV TILLET.",
+            "Colatiané à l’Origial par Moy Conſeiller, Secretaire",
+            "du Roy Maiſon, Couronne de France, &amp; de ſes",
+            "Finances."
+        ]
+    ]
+}

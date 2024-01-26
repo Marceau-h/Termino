@@ -1,0 +1,181 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "narration",
+            "récit"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-09-05",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "AB"
+        },
+        "titre": "Relation véritable de ce qui s'est fait et passé à la\n          prise et réduction du château Trompette, avec les articles qui ont été accordés au sieur\n          de Haumont, le 18 octobre 1649.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2026-04-20",
+            "#text": "26 avril 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1649-10",
+                "@when": "1649",
+                "#text": "pas avant octobre 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000110423830",
+            "@xml:id": "IL_LaVigneNicolasde.xml",
+            "persName": {
+                "forename": "Nicolas de",
+                "surname": "La Vigne"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "RELATION",
+            "VERITABLE DE",
+            "ce qui s’eſt fait &amp; paſſé à la pri",
+            "ſe &amp; reduction du Chaſteau",
+            "Trompette, auec les Articles",
+            "qui onteſté accordez au ſieur",
+            "de Hautmont le 18. Octobre",
+            "mil ſix cens quarenteneuf.",
+            "A PARIS,",
+            "Chez NICOLAS DE LA VIGNE,",
+            "proche S. Hilaire, dans la Cour d’Albret.",
+            "M. DC. XLIX."
+        ],
+        [
+            "3",
+            "RELATION",
+            "VERITABLE DE CE QVI",
+            "s’eſt paſſé́ à la priſe &amp; re duction",
+            "du Chaſteau-Trompatte, auee",
+            "les Articles qui ont eſté accor",
+            "dez, au ſieur de Hautmont le dix.",
+            "huitieſme Octobre16̃49.",
+            "J E dix-ſeptieſme à n. heures du Matin",
+            "Ltoute l’armée &amp; toute la Boui geoiſie",
+            "fut commandé́e deſe mettre ſous les armes",
+            "pour l’atteaque duChaſteau qui ſe deuoit fai",
+            "re aul̃demain, ils y paſſerent la nuict en cet",
+            "eſtat, &amp; le dix-huiieſnme Iuin on côme nçaa",
+            "diſpoſer toute choſes pour l’aſſaut, &amp; d’a¬"
+        ],
+        [
+            "4",
+            "porter les eſchel’es au nombre de cent pour",
+            "monter ap es que deux mines qui eſtoient",
+            "en eſtatauroient fait leur effet.Les aſſiegésſe",
+            "voant reduits à cette extremite pour n at",
+            "ten le pas le coup de leur perte, deman d",
+            "enta voir les mines &amp; qu’apres ls coapieu",
+            "leroient, ce qui leur ayant eſté aceordeé́",
+            "deux Officieres ſortiree du Chaſteu pour",
+            "le oiſter &amp;e rentrerent apre pout en faire",
+            "leur raport au fienr du Hautmbnt Gouuer",
+            "neur qui demanda auſſi toſtala capitûler.",
+            "Ce qui fut executé ſûr les trois heures en",
+            "la mauiere qui en ſuit.",
+            "Articles de la capitulation faite auẽc leſ",
+            "dits ſieur Filoiſe maior &amp; le ſieur Tiſlanges",
+            "Lieutenanat, leſdits fieurs cnoye-par ledit",
+            "du Hautmont Gouuerneur du Chaſteau",
+            "Trompette.",
+            "Premierement tant ledit ſieur du Haut",
+            "mont quetous les aatres qui ſont dans le",
+            "eeie ele e ie",
+            "Chaſteau ſortiront la vie ſauue auec leurs",
+            "Pourroat",
+            "doulieres pleines."
+        ],
+        [
+            "2e u",
+            "Pourront aaſſi tant ledie ſieur du",
+            ".",
+            "Haumont que tous les autres qui ſot",
+            "deuant ſedit Chaſteau emporter leur ba",
+            "gage, qui conſiftera en leur habit &amp; lin",
+            "ge ordinaire d’eux &amp; de leursfemmes, le",
+            "quel bagage ſera vifité pour plus grande",
+            "aſſurance: enſemble emmeneront deux",
+            "cheuaux apparteans audit ſieur du",
+            "Haumont.",
+            "A eſté accordé que leſdit capitulans",
+            "ſortiront deés auiourd’huy dudit Cha",
+            "teau, &amp; le reettront entre les mains de1",
+            "Monſieur le Marquis de Sauuebeuf, &amp;",
+            "&amp;C pour ſauf conduit, il ſera fourny deux",
+            "batteaux ſffiſans pour leur conduite",
+            "iuſque à Rions, eſcorte eceſſaire pour",
+            "leur ſe reté, en fourniſſant de part &amp;",
+            "d’a tre des oftages po r l’aſſeurance du",
+            "ret. ur de batteaux, eſcorte &amp; conduite.",
+            "Fait à Bordeaux au camp deuant le Cha",
+            "ean-Trompaette le dix-huitieſmeOéto",
+            "b e49.",
+            "Moufiear d’Eſpernon auee toute ſon",
+            "B"
+        ],
+        [
+            "6",
+            "armeen’ayant ſé́ approcher, de la ville",
+            "du coſté de Graues; ny tenter le ſecours",
+            "dont il a ſi ſouuẽt menacé les Bourdelois",
+            "ny par eau ny par terre,,s’eſt affin e",
+            "duit à rcleſer ſa reputation, &amp; eſteaqre.",
+            "ſes faits d’a mes par toute la violence,;",
+            "rauage, pil’age, yiolemens &amp; deſolatĩs",
+            "des maisos d’etre esdemes-ayãtui;,",
+            "né tous les vigneb’es &amp; vãdâges ouuer",
+            "tes, &amp; laſçhé toutes les cuues deſia plei",
+            "nes, ruineé &amp; vuidé toutes les barriques",
+            "&amp; vaiſſeaux viuans pau les meçtre hors",
+            "de ſeruice, en fin fait exercé tout ce que",
+            "leplus grand annemy du Roy &amp; de l’E",
+            "ſtat pourroit faire en cét eſtat, &amp; deſolat",
+            "out la campagne, ipaſle depuis Ca4",
+            "dillae iuſques à Lmont &amp; Embrets",
+            "ſç̧achant bien que la riuiere qui le ſepa",
+            "roit d’auec, ſes ennemis le garentiſſoit d",
+            "leur viſite. llauoit deu pieces de came",
+            "pagns, &amp; faire course le bruit qu’il ve",
+            "noit camper au port de la Baſtide, mais",
+            "ſçachanatqueles Bordelpisy aoient de"
+        ],
+        [
+            "3",
+            "la garde, &amp; meſme au lieu de conon, il",
+            "s’eſt bien empeſché d’an approcher ne",
+            "cherchant l’employ de ſes armes que",
+            "contre de pauures payſans de villages a",
+            "bandonnez, &amp; ayant eu aduis par ſes eſ",
+            "pions que l’on alloit forcer le Chaſteau.",
+            "il a leué le ſiege &amp; s’eſt retié crainte des",
+            "mauuaiſes rencontres",
+            "FIN."
+        ]
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-01-18",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-07",
+            "@who": "AB"
+        },
+        "titre": "Harangue faite par monseigneur le duc de Beaufort aux\n          soldats parisiens.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:000000012095909X",
+            "persName": {
+                "forename": "François de Bourbon-Vendôme, duc de",
+                "surname": "Beaufort"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:000000038598758X",
+            "@xml:id": "IL_SevestreLouis.xml",
+            "persName": {
+                "forename": "Louis",
+                "surname": "Sevestre"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "HARANGVE",
+            "FAITE",
+            "PAR MONSEIGNEVR",
+            "LE DVC",
+            "DE BEAVFORT,",
+            "Aux Soldats Pariſiens.",
+            "A PARIS,",
+            "Chez LOVIS SEVESTRE, ruë",
+            "du Meurier, prés ſainct Nicolas",
+            "du Chardonnet.",
+            "M. DC. XLIX."
+        ],
+        [
+            "3",
+            "HARANGVE FAITE",
+            "par Monſeigneur le Duc",
+            "de Beaufort,",
+            "AVX SOLDATS.",
+            "Pariſiens,",
+            "MES tres-chers compa",
+            "gnons iuſqes à preſent",
+            "pour de tres- grandes",
+            "conſiderations nous n’a",
+            "uions point reſolu de fai",
+            "lre ſortir ſesi genereuſes",
+            "troupenpourfaire aucun",
+            "ſiege ny atraque de yille,",
+            "poure, que tnutes ſortes",
+            "de choſeanoun le defendoient, lhyuer, legla",
+            "e &amp;: les; eaux ayant ſte ſi grandes qu’lles",
+            "eſtoient phsà redouter que nos annemisi Nous",
+            "n’auons pas laiſſé d’eſprduuerrooſtre oxraondi",
+            "ai lbſluris dantusls çosixqui nant",
+            "A ij"
+        ],
+        [
+            "4",
+            "eſté́ faits en ette ville, de remarquarl’ardeur &amp;",
+            "le courage de ſes braues troupes volontaires qui",
+            "ont voulu donner iuſques dans la glace &amp; dans",
+            "le feu au meſpris de tous leperſs euidens qui",
+            "epouuoient rencontrer; ce quſ futſiremarqué",
+            "meſme dans l’attaque deCharenton, qu’encores",
+            "que les ennemis fuſſent logez en le poſte le plus",
+            "aduatageux qu’Il fut poſfible de choiſir, Vous",
+            "mur muriez tous de ce que la ppudence de Meſ",
+            "ſieurs les Generaux vous empeſchoit de don",
+            "ner, &amp; ne pouuaivousſefaire ny d’eux ny de",
+            "vous-meſme, d’auoir aiſſé peir des troupes",
+            "qu’on ne pouuoit ſetoti!’ Quand au conuoy",
+            "qui vient du coſté d’Eſtampes, ie vous aduouë",
+            "qu ie ne puis me ſouuemir en mon particulier",
+            "decipurqueie ne m’eſtime tres-heureux de",
+            "oqae çes cauesbrou; ayat ſceu que i’eſtois:",
+            "arquelque peril, domme ſi tout ce que ce grand",
+            "peuplaa de’prooux eut eſté́ expoſé au pillage",
+            "adsanueis, ouir monde ſe mit ſous les ar",
+            "mspouuheſecporjoEoie ne mets pas en doute",
+            "queousdes BPrinces Cheſtiens qui auront ſceu",
+            "oot ccaſione potnt enuie à ma bonne",
+            "dunpne dryani pesqu’ilnuteuacvnipa",
+            "dpo qui aye’alualeago defaarerea",
+            "nillé hbmms dans vpe heute, cômelaurois, i",
+            "-h n’eſtinolon- quque hazatd. Tptes ſoe",
+            "conſieratinsy Ms corpagrdsloblgen"
+        ],
+        [
+            "5",
+            "’bſs lterſir chers omfhemes qopneayeuuaâ",
+            "fdeſnagér yoſtfe vie ecomhe laimlieh &amp; qel",
+            "joindre auec vous de pareille fortonme. ons ne,",
+            "mettez pas en douteſtes obligations quei’ay à cel",
+            "fae’Senat &amp;r eette grande villeda Paris, j’ay",
+            "él cétaduahitage d’y eſtre plainſops de ma de",
+            "tention, &amp; ie tiens qû leurs vbeuu&amp;lours prie",
+            "res rtfait le grand coup de ma ſortid Et la te",
+            "àdnttoute de Dieu, &amp;d’vn miraple, ie ne mets",
+            "poiht en doute que ſa prouidencene m’aye or",
+            "donné pouivous ſeruir, &amp;vous proteger contre",
+            "lesenéemirs du’Roy &amp; d l’Eſtar. Enfin aſſurez",
+            "vous que comme ſa toutepuilſance domandé",
+            "que nous cooperions auec luy, que i’agiray",
+            "maintenant de toutes nAes forces pour vous ſer",
+            "uir, que ie ne tromperay ny vos eſperances ny",
+            "vos deſirs, &amp; que ie ſacrifiray pour le maintien",
+            "&amp; le reſtabliſſement de cet Eſtat tout ce que i’ay",
+            "de fortune &amp; de vie. C’eſt pourquoy mes chers",
+            "compagnons, puiſque la ſaiſon eſt commode",
+            "ttauaillons iour &amp; nuict à reduire en veritables",
+            "effets ce qu’ona eſperé de nous, nous auons la",
+            "cauſe de Dieu &amp; du Roy entre les mains, du",
+            "plus Auguſte Senat, &amp; du plus grand peuple du",
+            "monde, faiſons en ſorte qu’il ne nous ſoit pas",
+            "reproché, que par noſtre nonchalence nous",
+            "l’ayons laiſſée perdre. Nous auons affaire à des",
+            "ennemis foibles, mais temeraires, meſnageons"
+        ],
+        [
+            "6",
+            "adreoitemeno npsfortunes: Iecay meſme qve",
+            "la pluſpamdol-an cueſfe&amp;e de leunſoldaun ont",
+            "Cnraints parvne folle obeïſſance de tourner",
+            "les araos conce nous, &amp;e qu’ils recognoiſent",
+            "euideamemt que et̀ oux’aeſmeus quils ſont",
+            "la gure, qulà noue premiere aatehe la ſ",
+            "dbanderone oſa rouneront de noſtre coſté.",
+            "Enfin quelque choſe qui en atriue, nou ne pou",
+            "uons eſpererlqu’vme heureuſe victoire, &amp;e",
+            "eeere occeaſion nmda ſupreſme felieité ſera de",
+            "mourir auee vous, &amp; d’auoir vne fortune pa",
+            "relle. Aſſurez-vous, en ce que ie vous dis,&amp; que",
+            "ie ne vous abandonneray iamais.",
+            "FIN."
+        ]
+    ]
+}

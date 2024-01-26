@@ -1,0 +1,203 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Épernon, Bernard de Nogaret de La Valette (1592-1661 ; duc d')",
+            "Guyenne"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-09",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Bordeaux, portant qu’il\n          sera informé contre ceux qui font des brigues, pratiques et menées, pour le rétablissement\n          du duc d’Épernon dans le gouvernement de Guyenne.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-04-20",
+                "#text": "mention de publication le 20 avril 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:6455058",
+            "#text": "Bordeaux"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121390552",
+            "@xml:id": "IL_MongironMillangesJacques.xml",
+            "persName": {
+                "forename": "Jacques",
+                "surname": "Mongiron Millanges"
+            }
+        },
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE BOVRDEAVX.",
+            "Portant qu'il ſera informé contre ceux qui font des brigues,",
+            "pratiques &amp; menées pour le reſtabliſſement du Duc d'Eſper",
+            "non, dans le Gouuernement de Guyenne.",
+            "Du 20. Auril 1651.",
+            "A BOVRDEAVX,",
+            "Par I. MONGIRON MILLANGES, Imprimeur",
+            "ordinaire du Roy. M. DC. LI."
+        ],
+        [
+            "EXTRAICT",
+            "DES REGISTRES",
+            "de Parlement.",
+            "SVR cequi aété repreſen",
+            "té à la Cour, par les lurats",
+            "llont prins tous les ſoings",
+            "lqu’il leur à eſte poble",
+            "lprincipalement le iour de",
+            "bE",
+            "hier, pour calmer l’émo",
+            "tion faite en pluſieurs quartiers de la Ville,",
+            "par diverſes aſſemblees, qui ont eu pour",
+            "fondement, les bruits répandus parmy le",
+            "peuple, de cetaines pratiques qui ſe fai",
+            "ſoient en cette Ville, pour diſpoſer les",
+            "Bourgeois à donner leurs conſentemens",
+            "A 2"
+        ],
+        [
+            "pour le rérabliſſement du Duc d’Eſpernon;",
+            "dans la charge de Gouverneur de cette",
+            "Province, dont ila été privé par la Decla¬ J",
+            "ration du Roy, deüement enregiſtree ez",
+            "Re giſtres de la Cour: Ce qui alla ſiavant",
+            "que ſur les neuf ou dix heures du matin, ils",
+            "feurent obligez d’aller à la grand ruë des",
+            "foſſez de l’Horel de ville, ou ils trouverent",
+            "quatre ou cinq cens perſonnes armez d’é",
+            "pees, auſquels enfin ils firent entendre l’é̃¬ J",
+            "rrepriſe qu’ils avoient faite de s’aſſembler",
+            "en cette ſorte ſans l’ordre de leslagi",
+            "ſtrats: Et les obligerent de ſe",
+            "r, aà la",
+            "e",
+            "charge de ſe rendre en cer",
+            "dans l’Hotel deVille, pour fairee udre J",
+            "auſdits Iurats le ſujet de leurs plainces: Ce",
+            "qu’ayant fait, ils ont trouvé qu’il n’y auoit",
+            "point d’autre raiſon de tous ces attroupe",
+            "mens que la grande apprehenſion que le",
+            "peuple a conceu du rerour du Duc d’Eſ",
+            "pernon, laquelle augmente de iour en",
+            "iour, parce que la nomination d’vn nou",
+            "veau Gouverneur eſt rerardé́e. Surquoy",
+            "leſdits"
+        ],
+        [
+            "eſdits Iurats ont ſupplié la Cour d’appor",
+            "er le remede qu’elle iugera à propos, aun",
+            "mal ſipreſent. OyS, &amp; ce requerans leſ",
+            "dits Gens du oy, qui ont auſſi donné",
+            "connoiſſance du trouble qui eſt dans la",
+            "vile de Bazats, ſur pareilles occaſions,",
+            "dont il y a un Procez verbal, qui a eſté́ rap",
+            "porté parun des Iurats de ladite ville, à rai",
+            "ſon des inſolences commiſes par un Offi",
+            "cier de la Compagnie du Duc d’Eſpernon,",
+            "par ces mots de faction, Qui vive? Vive le",
+            "Duc d’Eſpernon: avec des menaces de ſon",
+            "retour. LA COVR, les Chambres aſſem",
+            "blees a ordonné &amp; ordonne, qu’à̀ la Re",
+            "queſte du Procureur General du Roy, il",
+            "ſera intormé des ſuſdits faits, concernant",
+            "le reſtabliſſement du Dac d’Eſpernon, par",
+            "devant les Gommiſſaires de la Cour, qui",
+            "ſeront à ces fins commis &amp; deputez. A fait,",
+            "&amp; faittres expreſſes inhibitions &amp; defen",
+            "ces, à̀ toutes perſonnes, de quelque quali",
+            "té &amp; condition qu’ils ſoient, de fere aucu",
+            "nes meénees &amp; prariques ſur le ſuiet du ré¬"
+        ],
+        [
+            "tabliſſement du Duc d’Eſpernon, ſouz",
+            "quelque pretexte que ce ſoit, ny d’exiger",
+            "aucuns conſentemens pour raiſon de ce,",
+            "des Bourgeois &amp; habitans de la preſente",
+            "Ville, ny autres par promeſſes, menaces,",
+            "ou intimidations: ny d’uſer d’aucuns mots",
+            "de faction, ny ſemer des bruits te ndans à",
+            "ſedition, à peine d’étre procedé cõ̃tr’eux&amp;",
+            "contre les autheurs deſdits bruits, comme",
+            "perturbateurs du repos public. Enjoint aux",
+            "Officiers du Roy, &amp; aux Iurats de cette",
+            "Ville, &amp; autres villes du Reſſort, de ſe ſai",
+            "ſir de ceux qui tiendront pareils diſcours,",
+            "pour ledit rétabliſſement: &amp; les mener J",
+            "dans la Conciergerie de la Cour, pour leur",
+            "etre le procez fait &amp; parfait inceſſamment.",
+            "EN OVTRE, ladite Cour ordonne,",
+            "que le Roy ſera tres-humblement ſupplieé",
+            "de nommer au pluroſt un nouveau Gou",
+            "verneur dans ſa Province de Guyenne, en",
+            "conſequence de la D eclaration de Sa Ma",
+            "jeſté du premier d’Octobre dernier. Et ce",
+            "pendant ladite Cour fait inhibitions &amp; de",
+            "fences à tous habitans de la preſente Ville l"
+        ],
+        [
+            "l e ene e e rere ue e e",
+            "armes ny autrement, en queloque maniere",
+            "que ce ſoit, ſans l’ordre &amp; commandement",
+            "exprés de leurs Magiſtrats: Et où ils auroiẽt",
+            "quelqu’avis des contreventions au preſent",
+            "Arreſt, ladite Cour leur enjoint de le de",
+            "noncer aux Magiſtrats &amp; aux Officiers du",
+            "Roy. ETà fin que perſonne n’en preten",
+            "de cauſe d’ignorance, ſera le preſent Ar",
+            "reſt affiché, leu &amp; publié, par les Cantons",
+            "&amp; Carrefours accoûtumez de la preſente",
+            "ville, &amp; envoyé par tout où beſoin ſera.",
+            "Fait à̀ Bourdeaux en Parlement, les Cham",
+            "bres aſſemblees, le dix-huitiéme Avril,",
+            "mil ſix cens cinquante-un.",
+            "Signé, SVA V.",
+            "J E vingtiéme Avril, audit an, le preſent Ar",
+            "’reſt a eſté par nous Iean Cauſſan, Huiſſier enla",
+            "Cour, aſsiſté de Maiſtre Iean Bardon, auſsi"
+        ],
+        [
+            "8",
+            "Huiſsier en ladite Cour, enfmble du Chevalio",
+            "du Guet, &amp; Archers, a de Bayonns, Trom",
+            "pette de la preſente Ville, leu &amp; publié a4ux Can",
+            "tons accouſtumez de ladite Ville, afin qu perſonne",
+            "n’en pretende cauſe dignorance ſ",
+            "Signé, CAVsSAAN"
+        ]
+    ]
+}

@@ -1,0 +1,203 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Généreux (les) sentiments de nos seigneurs les\n                    princes, envoyés à Son Altesse Royale sur son retour pour s'opposer au passage\n                    du cardinal Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:6455058",
+            "@source": "Moreau",
+            "#text": "Bordeaux"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "Ac",
+            "LES GENEREVX",
+            "SEN TIMENS",
+            "DE NOSSEIGNEVRS",
+            "LES",
+            "DT",
+            "I IN E9",
+            "Enuoyés à ſon Alteſſe Royalle",
+            "ſur ſon retour, pour s’oppoſer",
+            "au paſſage du Cardinal Ma",
+            "3l",
+            "Sur l’Iaprimé à bPouréeaur , Par lImprimeur",
+            "¬¬¬¬¬-¬",
+            "T L¬"
+        ],
+        [
+            ".",
+            "as.",
+            "¬",
+            "a ¬",
+            ",",
+            ". .",
+            "¬",
+            ",",
+            "¬",
+            "s.l",
+            "-ſa"
+        ],
+        [
+            "ye",
+            "ee",
+            "a",
+            "LES GENEREV SENIENs",
+            "de Noſeigneurs les Princes enuoyé́s ̀",
+            "ſon Alteſſe Royalle ſur ſon retour, pour’op¬",
+            "poſer au paßage du Cardinal MaZarin.",
+            "TONsIEVR",
+            "Le inſte ſentiment que Monfieur le",
+            "Prince noſtre couſin, a eu pour s’op¬",
+            "poſer au retour de Monſieur le Cardi¬",
+            "nal Mazarin, doit eſtre auſſi ſenſible à",
+            "voſtre A. R. u’à nous, parce qu’ayant par",
+            "ces fauſſes illuſions gagné l’eſprit de la Rey¬",
+            "ne, il voudroit auſſi gagner celuy du Roy,",
+            "ſi voſtre Alteſſe ne s’y oppoſe anſſi bien",
+            "que Monſieur le Prince ainſi que nous eſ¬",
+            "perons; Tout de meſme que ſi Madanae",
+            "la Ducheſſe &amp; Mademoiſelle neſe fuſſent",
+            "intereſſez dans l’honneur &amp; le reſpect",
+            "qu’elles vous doiuent, ledit Cardinal par",
+            "l’entremiſe d’vn autre fourbe, l’Abbé de"
+        ],
+        [
+            "..4..",
+            "la Riuiere auroit comme il auoit deſia com¬",
+            "mencé d’en auoir voſtre eſprit à force d’ar¬",
+            "gent qu’il donnoit audit de la Riuiere, ou¬",
+            "tre les autres belles promeſſes qu’il luy fai¬",
+            "ſoit eſperer de le faire entrer dans le Con¬",
+            "ſeil, &amp; luy fare donnr vn chapeau de",
+            "Cardinal. Qu’eſt-ce qu’il n’a pas fait à̀ Mo n¬",
+            "ſieur le Preſident pour arreſter le cours de",
+            "la iuſtice? la paix que Monſieur de Lon¬",
+            "gueville noſtre couſin auoit auancée entre",
+            "les deux Couronnes, à̀ l’auantage de la",
+            "Prance, ſiMonſieur Seruien ne l’auoit",
+            "pas interrompuë parſon entrenaiſe, a meſ¬",
+            "me temps qu’on alloit conclurre &amp; fermer",
+            "les articles de Paix, le dit Seruient qui n’a¬",
+            "giſſoit que par luy, ſortoit de ſa pochette",
+            "des letresde’ eächet quil auoit à demy",
+            "douzaines pour arreſter l’eſtabliſſemnent",
+            "d’vne paix ſi glorieuiſes que Mnſieur ’de",
+            "Longuevile auoit procurée parſes grands",
+            "ſoins, à l’aduantage de la France, ledlt",
+            "Cardinal pour s’aiſſeurer d’autant plus dans",
+            "les bon nes graces de la Reyne &amp; empieter",
+            "celles du Roy s’eſt ſeruy de ces moyens:",
+            "moyens diſ-ie de Machiauel qui ne tendent",
+            "qu’à"
+        ],
+        [
+            "ala rn du peuple ſuiuaat les meyens",
+            "qué le deffunct Cardinal de Richelieu luy",
+            "auoit traceés, lequel introduit les Eleus en",
+            "France pour ſuccer le bien des peuples à ſa",
+            "deuotion, il en couſta auſſi la vie à Monſieur",
+            "de Montmorency quis’eſtoit oppoſé à cet¬",
+            "re tyrannie que ledit deffunct Cardinal",
+            "auoit voulu introduire dans le Languedoc.",
+            "Monſieur Detreuille ayant refuſé la demi¬",
+            "ſſion de la compaghie des mouſquetons du",
+            "Roy en faueur d vn ſien fauory tourefois",
+            "Ialien de narion, la fit chaſſer, &amp; ſoixante",
+            "dix autres compagnies de Caualerie qui",
+            "eſtoient dans le pais bas, mais non pas la ſol¬",
+            "dequ’il mit dans ſa bource Son auidité a eſté",
+            "ſigrande qu’il s’en eſt pris iuſques aux bene¬",
+            "fices de l’Egliſe qu’il a venduas à deniers con¬",
+            "tans. S’il falloit exagerer toutes ſes impoſtu¬",
+            "res &amp; mauuaiſe conduire de l’eſtat, dont ila",
+            "mal verſé il n’y a ſupplice pour ſi ceuel qu’il",
+            "fut, qui ne fut encores doux pour chaſſier",
+            "ſon demerite. C’eſt pourquoy voſtre Alteſſe",
+            "Royalle quieſt comme le Pere de la France",
+            "qui nous a eſté recommandée par le def¬",
+            "funt-Roy d’heureuſe memoire Louys"
+        ],
+        [
+            "6",
+            "treizieſme, pour ſubuenlir au defaut de l¬",
+            "emdreſſe de noſtre oy eſt tres-hble",
+            "nent ſuppliee de veiller &amp;ſubuenir auxa¬",
+            "ites del’eſtat qui vont à la ruyne du Roy",
+            "voſtre tres chet &amp; bien aymé nepute..",
+            "Depuis la preſente, eſcripte nous auon",
+            "eu nouuelles, du huictieſme Decembre",
+            "dernier oy. par letres qu’on nous a mis",
+            "en main comme ledit Cardinala fait aduan¬",
+            "cer pluſieurs gens de guoerre qui uinent",
+            "tout le pays, ainſi que voſtre Alteſſe vem",
+            "par la coppie d’icelle que nous vous en¬",
+            "uoyons dont la teneur eſttelle.",
+            "ON COvSIN",
+            "Pour reſpondre à celle que ie viens de rece",
+            "noir, ie vous diray que ceux qui vous ont",
+            "dit que nous auions eſté honorez de la p",
+            "ſence de Monſieur le cardinal Mazari",
+            "n’en ſçauent rien, vous aſſeurant qu’il n’a"
+        ],
+        [
+            "57",
+            "pas eſteêà Rheims, &amp; ne croit-on pas qu’il",
+            "y paſſe :ie reuins hier de Fiſmes, où le quar¬",
+            "tier du Roy y deuoit arriuer de l’armée",
+            "commandéepar Monſieur le Mareſchal",
+            "d’Oquincourt qui eſt compozeée de dix à",
+            "douze mille hommes, qui s’en vont droit à",
+            "Eſpernay pour là ioindre Monſieur Mazarin",
+            "auec ſes troupes, qui ſont de ſept à̀ huict mil",
+            "hommes gens biens faits qui doiuent paſſer",
+            "à̀ Chalons, &amp; de la dans la Bourgogne où",
+            "l’oncroit que le Roy ſe doit rendre."
+        ],
+        [
+            "et d.",
+            "nin?",
+            "uu",
+            "onmGoogle",
+            "¬"
+        ]
+    ]
+}

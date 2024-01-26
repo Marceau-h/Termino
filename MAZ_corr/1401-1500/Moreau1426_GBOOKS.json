@@ -1,0 +1,122 @@
+{
+    "imprimatur": "AVEC PERMISSION.",
+    "corrector": false,
+    "entête": {
+        "form": [
+            "prose",
+            "vers"
+        ],
+        "genre": [
+            "prosopopée",
+            "prière",
+            "cantique"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-01-11",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-11-08",
+            "@who": "AB"
+        },
+        "titre": "La france en prière pour la paix.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-11-08",
+            "#text": "8 novembre 2022"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000011194155",
+            "@xml:id": "IL_MusnierVeuvedAndre.xml",
+            "persName": {
+                "forename": "Veuve d'André",
+                "surname": "Musnier"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "rRANCE",
+            "PAix",
+            "e e ie",
+            "AVEC PERMISSION."
+        ],
+        [
+            "-- e,",
+            "r Aaeeſo",
+            "Eereee rrr",
+            "1",
+            "ei lee lee-el8",
+            "Te E",
+            "E",
+            "1 1 H",
+            "ILE LAIN IIVE",
+            "DE LA PAIX",
+            "D PAAE DOMINE IN DEBV5",
+            "nooſtris qua non eſt alius qui pugnet pro nmobis i",
+            "ea Deus oſter.",
+            "Qg RA ND Roy de cous les Roysi",
+            "uincible Monarque,",
+            "lee oui oonmandoaude, A la teae",
+            "aux Enfers:",
+            "Eqs poŕ en vosmains d’vn Dieu",
+            "vainqueur la marque, (fers.",
+            "Parmy tant de broüillards, d’armes d’harnois, de",
+            "pacems.",
+            "Noſtre cœur panitelant d’vnefrayeur panique,",
+            "N’a point autre recous qu’à voſtre deité:",
+            "La paix c’eſtnoſtre bien. la guerre commeinique,"
+        ],
+        [
+            "Fit crier humblementaà",
+            "voſtre grand bonté.",
+            "Doie.",
+            "Voyés donc nos douleurs, voyé́s noſtre coõplainte.",
+            "Auquel lieu pourroit-on trouuer quelque ſejour:",
+            "Siparvoſtre moyen la guerre n’eſt eſteinte,",
+            "Lonne trouueraplus de foy parmy l’amour.",
+            "Is diebas noſtris.",
+            "La px c’eſt noſtre amour noſtre viuante image,",
+            "Laquelle nous auons receu pour dernier trais:",
+            "Comme Pigmeleon nous aymons ſon ouurage,",
+            "Come vn aurrearciſſeao’aymoõsſon pourtrairs.",
+            "Quia non eſt alius.",
+            "Si laguerre augmentoit parmy tant de diſgrace,",
+            "Siles deſſeins caché́s ſuiuoient tous leurs effets:",
+            "OQù pouroit-on loger le ſalut de la grace,",
+            "Pamy tant de malheurs, parmy tant de forfaits.",
+            "Qui pugnet pre nobis.",
+            "Deurement monarchie eſleuez l’eſperance,",
+            "Qui tené́s ſous vos mains tous les lceptres diuers:",
+            "Sid’vnclin de voſtre œil, vous conſerués la Ftace,"
+        ],
+        [
+            "4.",
+            "Qui pourra de la France en fairel’Vniuers.",
+            "Niſi tu.",
+            "C’eſt ſans commencement &amp; ſans fin limitée,",
+            "Que portés la puiſſance &amp; la gloire de Dieu:",
+            "tre force &amp; vertu n’eſt de nul empruntée,",
+            "Voſtre Empire eſt par tout, &amp; eſtes en tout lieu.",
+            "Deas noſter.",
+            "Vniſlés donc nos cœurs de la paix ſans la guerre,",
+            "Nous chanterons cy bas vn Hymne glorieux?",
+            "Car ayant chaſlé loing les eéclairs de tonnere.",
+            "Noulmouno pourreuiurevniourdedaisleceu",
+            "FIN."
+        ]
+    ]
+}

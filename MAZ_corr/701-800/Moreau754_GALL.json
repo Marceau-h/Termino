@@ -1,0 +1,99 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-01",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-23",
+            "@who": "AB"
+        },
+        "titre": "Le congé du cardinal Mazarin, avèc une anagramme sur son\n          nom et surnom.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "P. M."
+                }
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LE CONGE",
+            "DV",
+            "CARDINAL MAZARIN,",
+            "AVEC VNE ANAGRAME",
+            "SVR SON NOM ET SVR NOM.",
+            "M. DC. XLIX."
+        ],
+        [
+            "3",
+            "ANAGRAMME",
+            "SVR LE NOM ET SVRNOM",
+            "DV CARDINAL MAZARIN.",
+            "IVLLE MAARIN.",
+            "LA LVINE AMERE.",
+            "Le Seigneur des Armées le Dieu d’Iſraïil, a dit ie",
+            "donneray à ce peuple cy pour le punir, de l’eau de fiel",
+            "à boire, &amp; de la luine pour manger. Ierem.9.",
+            "verſ13. 14. &amp;15.",
+            "QVE de maux peut cauſer vne ſeule perſonne,",
+            "Lors qu’elle a ſon appuy deſſus vne Couronne,",
+            "Aeoleſ uepueuer n enuene e unuine on",
+            "Elle employe la grandeur de quelque dignité.",
+            "Iulle ne s’eſt ſeruy du tiſtre d’Eminence,",
+            "Que pour pouuoir pilier les richeſſes de France,",
+            "La Clemence d’Vrbain &amp; la bonté d’vn Roy,",
+            "Luy furent des moyens pour mettre en deſarroy,",
+            "Seſ euan neſnnue ie n pe ou eae ou",
+            "A"
+        ],
+        [
+            "4",
+            "Falloit- il, que ce nom, te ſeruit de pretexte,",
+            "Pour rendre par tes vols nos ſinance deſerte,",
+            "Croyois tu auoir toûjours la fortune propice,",
+            "Pour oſer entre-prendre la ſupréme juſtice.",
+            "A preſent ilre faut abandonner la France,",
+            "Ira tu en Italie? où regne l’lnnocence,",
+            "On te refuſera; va t’en plûtoſt paraiſtre",
+            "le",
+            "Aux Iſle imaginaires, pour te faire renaiſtre,",
+            "Afin qu’eſtant changé, du tout en vn autre homme,",
+            "Tu ſois le bien receu dans la ville de Rome.",
+            "Rendons des vœux au Ciel, pour la Cour Souueraine,",
+            "Qui peut nous garentir des rigueurs de ſa haine,",
+            "Nous ſommes en vn point quoy que le deſtin face,",
+            "De n’apprehender plus de nouuelle diſgrace,",
+            "Mais plûtoſt d’eſperer vne Paix generale,",
+            "Puiqu il eſoit la eauſe de ces guees fanale",
+            "C’eſt Auguſte Senat, nous ſeruira de Pere, ſ",
+            "Si lulle Mazarin, eſtoit la luine amere.",
+            "Par P M. Aduocat en Cour.",
+            "FIN."
+        ]
+    ]
+}

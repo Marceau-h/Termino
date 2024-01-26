@@ -1,0 +1,138 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-07-30",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Quatrième arrêt du conseil d'État du roi portant\n          cassation de l'assemblée tenue en l'Hôtel-de-Ville de Paris, le 29 du mois passé, et\n          defense aux habitants de payer aucunes taxes en conséquence de ce qui s'en est\n          ensuivi.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121754977",
+            "orgName": "Conseil d'État"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-08",
+                "#text": "août 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2986140",
+            "#text": "Pontoise"
+        },
+        "publisher": {
+            "@ref": "isni:0000000005438555",
+            "@xml:id": "IL_CourantJulien.xml",
+            "persName": {
+                "forename": "Julien",
+                "surname": "Courant"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "QVATRIESME Iioo2",
+            "A RRES T",
+            "DV CONSEIL D’ESTAT",
+            "DV RO Y",
+            "Portant caſſation de l’aſſemblé́e tenue",
+            "en l’Hoſtel de Ville de Paris, le",
+            "vingt-neufieſme du mois paſſé, &amp;",
+            "deffenees aux Habitans de payer",
+            "aucunes taxes, en conſe quence de",
+            "ce qui s’en eſt enſuuy.",
+            "n",
+            "8",
+            "A PONTHOISE.",
+            "Chez IVLIEN coVR A VT, Iaprineut",
+            "ordinaire du Roy."
+        ],
+        [
+            "A&amp;,AA,,",
+            "Extraicl des Regiſtres du Conmſeil d’Eſtar.",
+            "y E ROY eſtant en ſon Conſeil ayant",
+            "eſté informé qu’au prejudice de l’Arreſt",
+            "de ſondit Conſeil du s. Iuillet dernier,",
+            "Q par lequel ſa Majeſté conformement à",
+            "v jArreſt de ſa Cour de Parlement de Pa",
+            "tis du ptemier dudit mois, auroit declaré nulles tou",
+            "es les deliberactions &amp; reſolutions qui ſeroieut prſes,",
+            "ant enladite Cour que dans l’Hoſtel de Ville ſur les",
+            "affaires publiques, iuſques à ce que le Gouuerneur",
+            "dicelle, le Preuoſt des Marchands legitime &amp; les au",
+            "ttes Magiſtrats qui ont eſté contraints d’en ſortir,",
+            "aJant eûté remis en la fonction de leurs chargas, &amp;",
+            "qu’il leur ſoit permis de les exercer en pleine liberté́",
+            "ſous l’athorité de ſa Maieſteé́, il auroit eſteé́rena vne",
+            "ptetendoë aſſemblée en l’Hoſftel de la Ville de Paris",
+            "29. Iuillet dernier, dont le reſulca porte quil ſera",
+            "leué vae impoſition ſar les Habitas de ladite Ville,",
+            "ài raiſon de 7;. liures pour chaque Porte Cochere;",
+            "3o liures poar chaque moyenne, &amp; 5. liures pour",
+            "haque petite porte, lous pretexte de ponrueoir i la",
+            "ſeureté de la meſme Ville. SA MAIESTE’ voyant",
+            "auec douleur quae c’eſt vne ſuitte de violence des Au",
+            "heurs du maſſacre, &amp; de l’incendie arriué audit",
+            "Hoſtel de Ville le quatrieſme du meſae mois, &amp; vn",
+            "pruicieux &amp; ſubil moyen pour engager leſdits",
+            "Habitans à payer tous les iours de nouuelles taxes,"
+        ],
+        [
+            "conſiderant d’ailleurs que c’eſt pour le payament des",
+            "trouppes Eſpagnolles que le Prince de Condé &amp; ſes",
+            "partizans font reuenir aux enuirons de Paris, &amp;",
+            "qu’enfin toutes ces contributions ne tendent qu’à",
+            "faire la guerre aà ſa Majeſteé, &amp; donner lieu aux re",
+            "belles d’occoper ſes armes au cœur du Royanme,",
+            "tandis que les ennemys feront tous les efforts por",
+            "enuahir les Places frontieres &amp; les Prouinces. Ce qui",
+            "ne peut que cauſer la ruine &amp; la deſolation des Sujets",
+            "du Roy, &amp; particulierement de ceux de ſa bonne",
+            "Ville de Paris, de l’affection deſquels, ſa Majeſté eſt",
+            "tres aſſeurée: SADITE MAIESTE’eſtant en ſon",
+            "Conſeil, a caſſeé &amp; annullé, caſſe &amp;z annulle ladite a",
+            "ſermblée, &amp; tout ce qui s’en eſt enſuiuy comme at",
+            "tentat, &amp; comme fait par gens ſans pouuoir. FAI’T",
+            "deffences aux Habitans de ladite Ville de payer au",
+            "eunes tares en conſequence d’icelle, &amp; à toutes per",
+            "ſonnes de les exiger à̀ peine de la vie, enjoint de leur",
+            "coutrir ſus comme pertarbateur du repos public:",
+            "Ordonne en outre que les ſommes qui auront eſté",
+            "oxigées en ſuiite deſdites taxes ſeront repetées ſur les",
+            "Ordoanateurs &amp; Receueurs qui en demeureront reſ",
+            "ponſables en leurs perſonnes biens &amp; poſteriteé: Veut",
+            "anſſique le preſent Arreſt ſoit leu, publié, &amp; affiché",
+            "par tout ou beſoin ſeia, &amp; que foy ſoit adiouſtée",
+            "aux coppies collationnées comme à l’Original. Fait",
+            "au Conſeil d’Eſtat du Roy, la Majeſtéy eſtant, ten",
+            "aà Ponthoiſe le premier iour d’Aouſt i65.",
+            "Signeé DE GVENEGAVD.",
+            "l",
+            "e"
+        ]
+    ]
+}

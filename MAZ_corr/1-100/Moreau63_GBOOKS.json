@@ -1,0 +1,173 @@
+{
+    "imprimatur": "Auec Permißion.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "subject": "Chevreuse, Marie de Rohan-Montbazon, 1600-1679, duchesse de",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-01-13",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-24",
+            "@who": "AB"
+        },
+        "titre": "L'amazone françoise au secours des Parisiens, ou\n          l’Approche des troupes de madame la duchesse de Chevreuse.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-03-10",
+                "@notAfter": "1649-03-17",
+                "@when": "1649",
+                "#text": "entre le\n            10 et le 17\n            mars 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000108989536",
+            "@xml:id": "IL_HenaultJean.xml",
+            "persName": {
+                "forename": "Jean",
+                "surname": "Hénault"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "L'AMAZONE",
+            "FRANCOISE,",
+            "Au",
+            "ſecours des Pariſiens.",
+            "OV",
+            "L’APROCHE DES TROVPES DE",
+            "Madame",
+            "la Ducheſſe de Cheureuſe.",
+            "A PARIS.",
+            "Chez",
+            "IEAN HENAVLT, au Palais,",
+            "dans la Salle Dauphine à l’Ange Gardien.",
+            "M.",
+            "DC. XLIX.",
+            "Auec Permißion."
+        ],
+        [
+            "$"
+        ],
+        [
+            "3 L'AMAZONE FRANCOISE. OV L’approche des troupes de Madame la",
+            "Ducheſſe de Chevreuſe. ENCORE que toutes les vertus ſe rendent",
+            "communicables à tous les hommes, celles toutes-fois que nous appellons",
+            "heroiques ſe trouuent moins famillieres entre le, emme La temperance reſiſte à̀",
+            "l’excez de meſ me que l’humiliteé ſe defend des aſſauts de l’or <lb",
+            "rend=\"¬\" break=\"no\" />gueil, mais la generoſité &amp; grandeur de courage qui ne",
+            "combat pasſeulement la moleſſe ny’la laſ chete, mais encor qui les",
+            "ſçayt vaincre aduata  geuſement, ne troue point de plus frequente",
+            "aſ ſiette que dedans le cœur des Hercules, &amp; lors que ces",
+            "vertus heroiques eſclatent dans le ſexe moins robuſte, c’eſt pout augmenterle nombre",
+            "des pro diges &amp; faire reuiure leſiecle desmracles. Les",
+            "Grecs qui ne cognoiſſoient aucune Na¬"
+        ],
+        [
+            "tion qui oſaſt faire teſte à leur",
+            "valeur, vitent arre ſter le ourde leurs tontinuelles ictoicerpar",
+            "Ies incomprables Amazones, les femmes herorques  firens ſecher lesLauriersſunle",
+            "frondes chillaes, &amp; des Aiaxs -&amp; retarderent- leurs conqueſtes, tandis qu’elles",
+            "eurent aſſez de-vie pour plonger la  fortune des-royen2A2¬.  Auiourd’huy la",
+            "conſternation publique &amp; la maladie generale de c’eſbEſtat afligé dans roa <lb",
+            "rend=\"¬\" break=\"no\" />tes ſes plus nobles parties nous rendroit heredi <lb rend=\"¬\"",
+            "break=\"no\" />aites du nal laaurdceſte nation, commaeousle  ſommes de ſon antienne",
+            "gloire, ſi pour nous parar de ces mal-heurs, le Ciel ne nous auoit pas fuſcilé desforces",
+            "auxiliaires auſfi biéue domeſtiques; S i pavn prbdige inoay, nosaduerſairesmefſmes",
+            "esEſpagnols &amp; les Flamensne s’eſftoient deelarbz  nos amis, &amp; ſi pour",
+            "l’acroiſſement &amp; le eombple de nos eſpesances; vne autr Printéſfe Amaone0 d’yne",
+            "naiſſance plus éclatante., &amp; d’va courag  auſſi martial que fut Pantazilée, ne",
+            "ſe endoit à noſtre ſecours contre ſ’oppreſſron des monſtres’ Il eſt plus",
+            "difficile d’imiter les grandes-atim de os predecoſſeurs, qu’il ne leu fut mal-aysde les",
+            "exeeutes: ou appee vne bonne action mau uaiſe, ſi elle ne rend",
+            "tout ce qu’elle a promis ds enfansdesgrands peſonnages, naiſſent- auoc ua -grand",
+            "ennemy qui eſt lieſperancœ:car elle efface hs communes’actions, &amp; rendmeſmes les",
+            "grandes a2ions coaunes, de ſorte qu’il faurfairedesoffs  ſumaturlas"
+        ],
+        [
+            "ſurnaturels,",
+            "pour ne la pas trahir auec honte.  Cependant cettœilluſtre Amazbnene trouue rien qui",
+            "s’oppoſeà la grandeur deſon courage; ceſte branche de l’auguſte tige de la maiſon de",
+            "Rohan  qui pouſlant ſes rarmeaux glorieux, les a tous char gez",
+            "de couronnes, &amp; qui eé leuant ſon froant parmy les aſtres, n’a iamais éloigné",
+            "ſon ſecours de la erre; ce grand arbre qui a donné de l’ombrage à route",
+            "l’Europe &amp; qui dans l’embraſement des guerresles plus alumé́es, a ſeruy de",
+            "rafraichiſſemene contre l’oppreſſion de la violence; cete fleur diſ-ie l’eſperance",
+            "de noſtre repos, Madame la Ducheſſe de Chevroufe, cetrte veritable Heroine n’a point vau",
+            "obſcurcirſon eclat, ſoubs la puiſſance de tant: de palmes; ce Soleil ſemble s’eſtre",
+            "eſleué pour iſſiper les broüillards que nos mal-heurs efleuent eſſus nosteſtes,",
+            "c’eſt la benignité de ſon aſpect qui nous promet le calme au milieu de tant d’orages.",
+            "La bauteé du corps eft ſouuent vn indice de la beauté de l’ame;pour ce que de la",
+            "qualiteé du tem permment ſe forme la qualité des couſtumes, &amp; que",
+            "l’excellence la forme procede en quelque façon de la belle diſpoſition de la matiere.",
+            "Ainſi cette charmante urore paroiſt à la pointe du iour de aos plus grandes",
+            "eſperaaces: &amp; toute. ouge du feu d’vne iaſte eolere, elle entraiſne aprés le",
+            "la tempeſte qui doibt bien-toſt briſer tous nos onteux empechemens: &amp; dans cette",
+            "glorieuſe aion, laiuſftice ne luy ſemble point tropſeuere,"
+        ],
+        [
+            "6 <lb",
+            "rend=\"¬\" break=\"no\" />ſç̧ aehaue biequoeluy qui lanceles foudrescop- duicte",
+            "icynpsbras nos eſpées Gette Ptnceſſe de crage iufletibleaà aus les ’honteux",
+            "abaiſſemens de la forpune, &amp; qui nia iamais voulu plier ſoubs. la tytanuaie",
+            "des mauuais fauoris, ne veut pas encar., ſouftair qua nous languiſſions dans la",
+            "ſruitude, que nouspreſense noſtre ennemy. Elle s’aduance à",
+            "noſtre ayde, &amp; raſſemblant des roupes de tourtes partselle nous promet dans peu vn",
+            "ſecours quinpe ſera pointinfructueux. Ces Ange de baraille dans l’armeée des",
+            "bons François s’apreſteà ſe couronnerj des lauriers que nous moiſſonnerons enſemble. Plaſieurs",
+            "ont aſſembleé des richeſſes pour releuer. leur foreune, mais ceſte Princeſſe qui ne",
+            "tire l, ſienneque deſa naiſfance alliée aux Royalles mai ſons de France, de",
+            "Nauarre, de Milan, &amp; de Bre tagne, ne faitqu’nmarche-pied de",
+            "tous ſes biens, pour monter à la gloire, &amp; par vn Eſprit auſſi pru <lb rend=\"¬\"",
+            "break=\"no\" /> dent que genereux, ceſt auguſteMinerue co gnoiſt bien que la maſſe des",
+            "threſors miſe ſur la teſte nous affaiſſe, &amp; qu’au contraire, elle ſest à nous",
+            "releuer; quand nous la metronsſoubs les pieds.:  Vn Empereur eſtimoit que Mars",
+            "&amp; Mercure fuſſent irreconciliables enremis, quoy qu’il ade  uoüaſt que le",
+            "iugement &amp; la conduite ſe rendiſ ſent neceſſaires à la valeur,",
+            "&amp; qu’vne ville pleine de genereux habitans fuſt bien foible, s’ils n’e <lb",
+            "rend=\"¬\" break=\"no\" />ſtoient auſſi ſages que hardis.  Cependant on voit eſclater",
+            "dans ceſte grande 3"
+        ],
+        [
+            "Prineeſſe ’eſprit prudêne joln aubras inuinoi¬! btes",
+            "’&amp;-éerté àutre Minerue Vviſſant laſageſſe aa pouaoir,",
+            "Slimpime ſur lefront, leviſibiles hara Ceres dé la diuinité́.",
+            "Chacun ſuit ſes conſeils com ’ me des oracles, &amp; rous ſe rendent ſoubs ſes eſte dairts:",
+            "Ceſte incomparable Princeſſe ayant apris! l’eſtat de nos affaires preſntes, apresauoir",
+            "ralliép diuerſes troappes de Caual lerie du Barrois, &amp; dela; Champagne, a",
+            "ſelon les aduis que nous en auons receus, paſſé deſ-ja la Riuiere de Some, aueclda di <lb",
+            "rend=\"¬\" break=\"no\" />ligence neceſſaire en cette preſſanteoccaſion, ô&amp; i s’alliant",
+            "à l’armé́e de Monſieur le Mareſchal de Tu rënne, nous eſperons",
+            "iuſtement que par vn com hun accord de tous les bons Franiçois,",
+            "nous ache uerons haeureuſement ce que nousauons comme <lb rend=\"¬\"",
+            "break=\"no\" />céauec tant de luſtice, pour l’intereſt &amp; lerepos pu <lb rend=\"¬\"",
+            "break=\"no\" />blie, en coniurant le Dieu des armeées que eeſte Princeſſe viue en",
+            "reculant nos ſepultures, que le Ciel luy rende autant de biens",
+            "qu’elle en fait à la rerre, que la France partageſa gloire auecelle, &amp;, que",
+            "les ſiecles à venir conſeruent à iamais la me moire &amp; le nom",
+            "glorieux de cette Amazone Franç̧oiſe, ſoubs le nom de Madame la Ducdeſſe de",
+            "Chevreuſe. FIN."
+        ]
+    ]
+}

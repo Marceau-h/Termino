@@ -1,0 +1,181 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "rhétorique judiciaire",
+            "sentence"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Sentence de M. le prévôt de Paris portant condamnation\n          d'un libelle intitulé: Lettre de monseigneur l'Éminentissime cardinal de Retz, archevêque\n          de Paris, à messieurs les archevêques et évêques des églises de France.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1655",
+                "#text": "1655"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1655-01",
+                "#text": "janvier 1655"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "f¬",
+            "SEN",
+            "l nE",
+            "J le e",
+            "t condamn",
+            "l ui",
+            "J uld",
+            "l hudd",
+            "J tt",
+            "l u",
+            "e"
+        ],
+        [
+            "NTO",
+            "L 1N L L N L.",
+            "DE MONSIEVR",
+            "LE PREVOST DE PARIS,",
+            "Portant condamnation d’vn Libelle intitulé:",
+            "Lettre de Monſeigneur l’Eminentißime Car",
+            "dinal de Retz, Archeueſque de Paris, à Me",
+            "eurs lesArcheueſques &amp; cueſques des Egliſes",
+            "de France.",
+            "a",
+            "a",
+            "A PARIS,",
+            "Par les Imprimeurs ordinaires du Roy.",
+            "M. DC. LV.",
+            "Auec Priuilege de ſa Maieſté."
+        ],
+        [
+            "¬2",
+            "DEPAR LE Ro,",
+            "n 7",
+            "&amp; Monſieur le Preuoſt de Paris,",
+            "ou ſon Lieutenant Ciuil.",
+            "Tovs ceux qui ces preſentes Let",
+            "a",
+            "tres verront, Pierre Seguier, Che",
+            "a ualier, Baron de S. Briſſon &amp; des",
+            "Ruaux, du grand &amp; petit Rancy,",
+            "Conſeiller du Roy, Gentilhomme ordinaire de",
+            "ſa Chambre, &amp; Garde de la Preuoſté &amp; Vi",
+            "comté de Paris, ſalut. Sçauoir faiſons: Que",
+            "ſur ce qui nous a eſté remonſtreé par le Procu",
+            "reur du Roy, qu’il a eu aduis de certain libel",
+            "le imprimé ſous le noui du Cardinal de Rer en",
+            "forme de Lettre Circulaire aux Archeueſques",
+            "&amp; Eueſques de France, qui eſt vne piece com",
+            "poſée &amp; diſtribué́e par les Emiſſaires dudit",
+            "Cardinal, pour émouuoir les eſprits des ſuiets",
+            "du Roy, les détourner du reſpect deu à ſa Ma",
+            "ieſté, &amp; tendante à ſedition. Et dautant qu’il",
+            "eſt de grandé importance de ne pas ſouffrir pa",
+            "reilles entrepriſes, au preiudice des Ordon",
+            "nances, Edits, &amp; Declarations du Roy, dont",
+            "la ſuite pourroit eſtre d’autant plus dangereuſe,",
+            "A ij"
+        ],
+        [
+            "qu’il eſt notoire que ledit Cardinal de Retzet",
+            "preuenu de crime de leze-Maieſté, que ſon ſe",
+            "iour &amp; paſſage chez les ennemis de l’Eſtat, les",
+            "aſſiſtances qu’il en a tirées, &amp; la continuation",
+            "de ſon commerce, &amp; frequentations publiques",
+            "auec les Miniſtres d’Eſpagne dans Rome ſont",
+            "ſceuë̈s &amp; connuës d’vn chacun: Requerant",
+            "eſtre informé à ſa requeſte de l’impreſſion &amp;",
+            "diſtribution dudit Libeſle, &amp; ledit Libelle",
+            "eſtre declaré iniurieux au Roy &amp; à l’admini",
+            "ſtration de ſon Eſtat, tendant à ſedition, &amp;",
+            "comme tel qu’il ſoit bruſlé́ en la Place de Gre",
+            "ue par l’Executeur de la haute Iuſtice; defen",
+            "ſes eſtre faites à toutes perſonnes de garder par",
+            "deuers eux ledit Libelle, &amp; que tous les exem",
+            "plaires ſeront rapportez au Greffe du Chaſte",
+            "let dans vingt-quatre heures par ceux qui en",
+            "pourroiene auoir, à pelne de la vie: &amp; afin que",
+            "pEeſene en pe en e oeoneuren",
+            "Syndic &amp; Adioints de l’Imprimerie, publiée",
+            "&amp; affichée aux lieux &amp; places ordinaires de",
+            "cette Ville.",
+            "NOvs diſons par deliberation de Conſeil,",
+            "oüy le Procureur du Roy, que ledit Libelle",
+            "intitulé, Lettre de onſeigneur l’Eminentißi",
+            "me ardinal de RetZ Archeueſqus de Paris,",
+            "Meßieurs les Archeueſques &amp; Eueſques des E",
+            "liſes"
+        ],
+        [
+            "1",
+            "gliſes de Feamce, eſt declaré iniurieux au Roy,",
+            "contraire à ſon autorité́, gouuernement &amp;",
+            "adminiſtration de ſon Eſtat; fcandaleux, ſedi",
+            "tieux, &amp; tendant à laperourhation durepos pu",
+            "blic; &amp; comme tel ſera bruſlé en la Place de",
+            "Greue par l’Exeeutreur de la haute Iuſtice. Fai",
+            "ſons defenſes à toutes perſonnes de l’auoir,",
+            "conſeruer &amp; tenir. Ordonnons qu’il ſera in",
+            "formé à la requeſte dudit Procureur du Roy,",
+            "contre les Auteurs, Imprimeurs dudit Libel",
+            "le, meſmes contre ceux qui l’ont debité́; &amp;",
+            "que tous les exemplaires ſeront rapportez au",
+            "Greffe du Chaſtelet dans vingt-quatre heures,",
+            "par ceux qui en pourroient auoir, à̀ peine de",
+            "la vie. Et à cet effet ſeront les preſentes ſigni",
+            "fiées aux Syndic &amp; Adioints de l’Imprimerie,",
+            "publiées &amp; affichées aux lieux &amp; places ordi",
+            "naires de cette ville. Ce fut fait &amp; delibereé́ en",
+            "la Chambre du Conſeil du Chaſtelet de Paris,",
+            "le vingt-neufiéme Ianuier 6̃55. Signé, DE",
+            "LON GVEVIL.",
+            "Ledit iour vingt-neufiéme Ianuier conformément à ladite",
+            "Sentence, aprés que lecture en a eſlé faite en la Place de",
+            "Greue, ledit Libelle y a eſte bruſlé par l’Executeur de la",
+            "haute Iuſtice. Signe, E CovR.",
+            "Leuë, publiée à ſon de trompe &amp; cry public en",
+            "tous les Carrefours ordinaires &amp; eztraordinaires",
+            "B"
+        ],
+        [
+            "de cette vilte &amp; faux-bourgs de Paris, par moy",
+            "Charles Canto Iaré Crieur de la Preuoſté &amp; i",
+            "comté de Paris, accompagne de Iean du Bos, Iac",
+            "ques le Frain Iurez Trompettes, &amp;l d’vn autre",
+            "Trompette, le vingt-neufiéme deſdits mois &amp;an.",
+            "&amp; affchee. Signé, CANTO."
+        ]
+    ]
+}

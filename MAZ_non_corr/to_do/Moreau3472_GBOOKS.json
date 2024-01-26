@@ -1,0 +1,301 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "non renseigné",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Requête de la noblesse pour l'assemblée des Etats\n                    généraux.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1651",
+            "#text": "1651"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "15"
+    },
+    "texte": [
+        [
+            "RESPONCE",
+            "CARDINAL MAZARIN,",
+            "a la Lette du Cardnal",
+            "ANTONIOBARBERIN",
+            "DeS Germain en Laye",
+            "6",
+            "Mars649",
+            "aa",
+            "us",
+            "i",
+            "ene ſie e l eiuei i ue e nue",
+            "M. DC.XLIX."
+        ],
+        [
+            "A. AAA.A",
+            "Cl’b dhiſodiſdiſuda",
+            "ADVIS AV LECTE VR",
+            "S IE VRS le Courler quieſtdtchagédee",
+            "V la ſaiuante, eſtant tombé entre les mains de",
+            "e que qu’avns dem Sal das, &amp; ſe uoamnpſE, l",
+            "donma à celuy qul commandoit, duquelnos Generaux ls",
+            "rȩearent, &amp; l’ayant leue (&amp; eopiee, la refermerent?",
+            "rendirent au meſme courir, lequel par vn ſecond mal.",
+            "heur pour luy, fu prus aaee la reſpme quelques iours l",
+            "eourou do r’aunre e en ie l ue ſlu iur",
+            "particulier &amp; ſans addreſſe aa deſſus, a eſte tradaiteen",
+            "ancois par vn Adduorat en Plemene pour ſaifai¬",
+            "re au deſir des Curieux."
+        ],
+        [
+            "as¬¬¬¬-¬¬¬¬¬.¬....„",
+            "Eeore i",
+            "e ei et eee i",
+            "leſoei lile oeierdeile",
+            ".",
+            "e",
+            "Reſponce du Cardnal Mazarin",
+            "2 a la Lettre du Cardinal An¬",
+            "tonio Barberin, de S. Germain",
+            "en Laye le. Mars 1649",
+            "osevn,",
+            "4 Le loin que vous auez de",
+            "El!",
+            "l moy, &amp; l’aſrection que",
+            "net an e ne e eon, le",
+            "moignée a fait en moy de telles impreſ",
+            "ſions qu’il me ſemble que la proidence",
+            "diuine me conſerue plus au mon de, que",
+            "pour me donner le moyen &amp; le temps",
+            "de ſatisfaire à tout le moins, à vne par¬",
+            "ve des obligations que ie vous ay, &amp;",
+            "certes ie m’y eſtudiois autant que iamais,"
+        ],
+        [
+            "4",
+            "lors que i’en fus deſtourné par la malice de",
+            "mes enuieux, qui remplirent ce pauure",
+            "Royaurne de combuſtions ſi eſtranges, que ¬¬",
+            "peu s’en fallu que ie ne demeuraſſe accablé,",
+            "ſous ſes ruynes, mais il a pleu à la diuine",
+            "bonte de calmercetre rempeſte ſuſcitée il ¬",
+            "y a enuiõ̃ ſix mois, pour me reſeruer peut¬",
+            "eſtre à quelque autre tragedie moins pre¬’r",
+            "ſente à la verité, mais eapparence plus il",
+            "ſanglante dont les commencemens ne",
+            "ſont deſia que trop euidens pour en dou¬ l¬",
+            "ter, ie vous enuoyerois l’idée ſi ie n’euſſa",
+            "appris par la voſtre que vous eſtiez ample",
+            "ment intormé tant de la ſortie de leurs",
+            "Majeſtés hors de la ville de Paris, que du u",
+            "liege mis deuant la meſme ville, par les",
+            "trouppes du Roy, qui n’a peu dauantage t",
+            "ſouffrir les inſolences de ce peuple mutn",
+            "&amp; ſujet aux rebellions. C’eſt vn deſſein :",
+            "que l’on n’a pas pris ſans que i’y aye contri¬",
+            "bueé beaucoup de mon Conſeil, auſſi les ’",
+            "dé́plaiſirs &amp; mécontentemens que i’ay re¬",
+            "ceu des Pariſiens m’en ont donné vniuſte n",
+            "ſuet. le n’ay rien de plus precieux que l ui"
+        ],
+        [
+            "yie &amp;ils me l’ont voulu rauir, ce que n’a¬",
+            "yant puexecuter à force ouuerre pendant",
+            "que ie reidois encor à l’aris, aupres de leurs",
+            "Majeſtes, il ſe ſont aduiſez de baſtir de mal.",
+            "heureuſes &amp; damnables trahiſons, ne e",
+            "ſouciant pas de donner le Royaume en",
+            "proye à l’Eſpagnol pourueu qu’ils peuſſent",
+            "ſe vanger de moy. La malice de ſes trai¬",
+            "ſtres heureuſement deſcouuerte, &amp; mon",
+            "ianocence iniuſtemẽt affligée. a fait reſou¬",
+            "dre leurs Ma jeſtés a embraſſer ma deffenſe",
+            "contre les perſecutions &amp; calomnieuſes",
+            "impoſtures dont ils me chargent. Mais he¬",
+            "lasie vois à̀ mon grand regret que les affai¬",
+            "Iesprennent vn tout autre ply que l’on ne",
+            "s’eftoit propoſé, ſuiuant la promeſſe que",
+            "nous fit le Prince de Condé vn peu deuant",
+            "noſtre depart, car au lieu de reduire les re",
+            "belles aux derniers abois, par vne famine",
+            "ui nous ſembloit ineuirable, ie reç̧ois",
+            "d’heure en heure les nouuelles des victoi¬",
+            "es qu’ils r’emportent genereuſement ſur",
+            "les amées de ſa Majeſt́, &amp; quoy que iuſ¬",
+            "ques aà preſent on ſe ſoit efforcé de boucher"
+        ],
+        [
+            "cous les paſſages: qui poutroient fauoriſer",
+            "l’entré́e des viures dans cette place, ſieſt.¬ T",
+            "ce pourtant que ie ſçay aſſeurement qu’ils i",
+            "ſubſiſtent, quaſi auec la meſme facilite !",
+            "que nous faiſons iecy, &amp; pour ſurcroiſt de e",
+            "malheur, toutes les Prouinces ont conceu",
+            "vne telle auerſion contre moy, qu’elles ſe! p",
+            "ſont ſouſleuées pour ſecourir la ville de",
+            "l’aris, ſoubs pretextes, dir-on, de recou¬",
+            "urer la iiberté́ qu’elles ne perdirent iamais;",
+            "ce qu rme fair croire que c’eſt vn orage qu0",
+            "ie ne pourray point éuiter, ie ne ſerois’",
+            "as encor à ſuiure le Conſeil que me",
+            "donne voſtre Eminence dans ſa Let¬",
+            "tre, ſi le chmin de Rome m’eſtoite",
+            "libre, ie l’ay tenté pluſieurs fois &amp; par rout",
+            "ie n’ay rencontre que des villes ennemies;",
+            "De ſorre que ie n’oſe plus quaſi regarder le",
+            "iour, principalement depuis que le Parle¬",
+            "men de P’asis, &amp; apres luy celuy de Breta¬",
+            "gne, m’ont declaré criminel de Leze Ma¬",
+            "jeſte nonobſtant ma probireé́ par cout co¬",
+            "gneuë, excepté en France, ſçait l’eſtat ou",
+            "m’ont reduit mes pechez qui m’oblige à̀"
+        ],
+        [
+            "-. .¬¬",
+            "e",
+            "e",
+            "e",
+            "¬",
+            "¬",
+            "eeourirà vosprieres, puis que tout autre",
+            "ſecoursm’eſt inutil, vous ne refuſerez pas",
+            "cela à vn miſerable qui n’a iamais eu plus",
+            "grande ſatisfaction que de ſe dire comme",
+            "il fait encore",
+            "De voſtre Eminence,",
+            "Tres humble &amp; tres-obeiſant",
+            "ſeruiteur, Iules Mazarin.",
+            "¬ De ſain&amp; Germain en Laye",
+            "ce , Mars 6jo.",
+            "e",
+            "1"
+        ],
+        [
+            "¬",
+            "l...¬¬",
+            "."
+        ],
+        [
+            "la"
+        ],
+        [
+            "¬",
+            "¬",
+            "¬",
+            "1"
+        ],
+        [
+            "la"
+        ],
+        [
+            "2",
+            "¬ aal"
+        ],
+        [
+            "l1",
+            "s"
+        ],
+        [
+            "-",
+            "¬"
+        ],
+        [
+            "la"
+        ],
+        [
+            ":",
+            "ael"
+        ],
+        [
+            "l1",
+            "s"
+        ],
+        [
+            "1",
+            ".",
+            "¬¬",
+            ". a!"
+        ],
+        [
+            "la"
+        ],
+        [
+            "7",
+            "¬¬",
+            "4",
+            "¬",
+            "..",
+            "¬",
+            "al"
+        ],
+        [
+            "la"
+        ],
+        [
+            "!",
+            ".21",
+            "mall"
+        ],
+        [
+            "la"
+        ],
+        [
+            "’¬",
+            "¬",
+            ".421",
+            "5",
+            "!",
+            "¬",
+            "¬ al"
+        ],
+        [
+            "la"
+        ],
+        [
+            "vbss¬¬",
+            "s ¬",
+            ". ¬",
+            "al"
+        ],
+        [
+            "la"
+        ],
+        [
+            "1",
+            "p",
+            "s",
+            "¬",
+            "l"
+        ]
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "réponse",
+        "handwritten_note": true,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-01-24",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-17",
+            "@who": "AB"
+        },
+        "titre": "La véritable réponse que M. le garde des sceaux a faite à\n          messieurs les députés du Parlement, de la part de Sa Majesté.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121204991",
+            "persName": {
+                "forename": "Mathieu",
+                "surname": "Molé"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1652-01-25",
+                "#text": "25 janvier 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "LA VERITABLE",
+            "RESPONSE",
+            "QVE MONSIEVR",
+            "LE GARDE DES SCEAVX",
+            "a fait à Meſſieurs les Deputez du",
+            "Parlement, de la part de Sa Ma",
+            "jeſté.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires du Roy.",
+            "Auec Priuilege de ſa Majeſté.",
+            "le 25. janvier"
+        ],
+        [
+            "ſiecles paſſez, le Parlement a touſioursren",
+            "du des preuues de ſon affection enuers l’E",
+            "ſtat, comme les actions ſe ſuiuent; &amp; que le",
+            "meſme eſprit les anime: Auſſi ſa Majeſté",
+            "S’aſſeure-t’elle qu’il témoignera touſiours",
+            "ſon inuiolable fidelité.",
+            "Il eſt bien iuſte que cette premiere Com",
+            "pagnie du Royaume donne toû̂jours exem",
+            "ple de ſouſmiſſion &amp; d’obeiſſance à tous les",
+            "Peuples. Elle n’a pas ſçeu que M le Cardinal",
+            "Mazarin a receu les ordres de ſa Majeſté́,",
+            "pour faire des leuées de Gensdt guerre; &amp;",
+            "auſſi, ſi elle a exercé à̀ l’encontre de- luy l",
+            "ſeureté des Loix, comme contre ceux qu",
+            "violent les ordres publics: Elle n’a pas",
+            "ſçeu auſſi qu’il luy euſt eſté commandé",
+            "d’entrer en France, &amp; d’amaner ſes trou",
+            "pes afin’ des’en’ ſeruir, fortifier les Aiḿes",
+            "du Roy, &amp; aller plus promptement çom",
+            "battre les rebelles.",
+            "Ecoies que d’expoſer ſà vie n proyé, &amp;",
+            "de petmettfe de e prendre vif ou lmort,",
+            "ſoit vn procedé du tout extraordinaite ſans",
+            "exemple, &amp; dont vous iugez aſſez les con",
+            "ſequences"
+        ],
+        [
+            "ſequences;Mais maintenant qu’elle appren¬ 3s7.",
+            "drapar vous, Meſſieurs, les ordres qu’il a",
+            "receus, &amp; tout ce qui s’eſt paſſé; on ſe",
+            "peut promettre qu’elle diminuera beau",
+            "coup de cette premiere rigueur, &amp; qu’el",
+            "le joindra ſes forces auec celles de ſa Ma",
+            "jeſté, pour diſpoſer toutes choſes au cal",
+            "me ſi deſiré d’vn chacun, &amp; ſi neceſſaire",
+            "à tous.",
+            "Il demande inſtamment de ſe iuſtifier;",
+            "ſurquoy le Roy prendra ſes reſolutions,",
+            "qu’il fera bien-toſt ſçauoir à la Compagnie;",
+            "autrement reſteroit à̀ ſa Majeſté́ &amp; à",
+            "vous auſſi ſans doute, vn extréme regret,",
+            "que le meſme eſprit ne ſe trouuaſt pas en",
+            "celuy qui commande, &amp; en ceux qui doi",
+            "uent obeir.",
+            "Elle ſçait bien que ce n’eſt pas aſſez que",
+            "les Loix ſoient iuſtes, ſi la iuſtice d’icelles",
+            "n’eſt reconnue par ceux qui y doiuent eſtre",
+            "ſouſmis, &amp; qui les doiuent executer.",
+            "Mais il importe de ne ſe meſconter pas, &amp;",
+            "que ceux qui doiuent en fin ceder n’entre",
+            "prennent pas de l’emporter par vne fermeté",
+            "B"
+        ],
+        [
+            "apparente &amp; extraordinaire, puis qu’en ce",
+            "rencontre ſa Maieſté ſeroit violé́e, &amp; tous",
+            "les liens de ſouſmiſſion rompus.",
+            "Vous continuerez donc d’honorer voſtre",
+            "Souuerain, non ſeulement en paroles,",
+            "mais en effec, cemme vous auez accou",
+            "ſtumé. Toutes les parties demeureront",
+            "jointes à leur tout, puis que c’eſt le moyen",
+            "le plus aſſeuré pour maintenir l’authorité",
+            "Royalle en ſon entier; ſes bons Offieiers",
+            "comme vous auront part à ſa gloire, &amp;",
+            "il leur teſmoignera en toute occaſion les",
+            "marques de ſa bienueillance?"
+        ]
+    ]
+}

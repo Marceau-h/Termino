@@ -1,0 +1,124 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "factum",
+            "parodie",
+            "pamphlet",
+            "rhétorique judiciaire"
+        ],
+        "subject": [
+            "Mazarin",
+            "Philippe, roi d'Espagne, IV, 1605-1665",
+            "Ferdinand, empereur du Saint-Empire romain germanique, III,\n            1608-1657"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-02-19",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-31",
+            "@who": "KA"
+        },
+        "titre": "Le procès criminel du cardinal Mazarin envoyé d'Espagne,\n          avec la dénonciation de l'empereur.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-09-14",
+            "#text": "14 septembre 2022"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000114066324",
+            "@xml:id": "IL_VariquetPierre.xml",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Variquet"
+            }
+        },
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "eaett",
+            "tee’&amp;o?",
+            "I r",
+            "1 1",
+            "4",
+            "L 1L 1L I IL",
+            "A MONSIEVR",
+            "r T1",
+            "rcrr",
+            "l",
+            "R",
+            "L V DDLL?",
+            "CONSEILLER DV ROY",
+            "EN SA COVR DE PARLEMENT.",
+            "Mosev.",
+            "Apres auoir entrepris de laiſſer aà la poſterité́",
+            "quelques marques des bel les actons des grands",
+            "hommesde noſtte Siecle, i’ay creu que ie ne",
+            "pourroisluy en repreſenter de plus illuſtres que",
+            "les voſtres. Vous auez fait éclatter la luſtice &amp;",
+            "la ariſtrature ſouueraine auec tant d’hon¬",
+            "neur, que toute la France regarde aujourd’huy",
+            "vs P ortraicts comme l’vn de ſes plus riches or¬",
+            "amensa Les cœurs des pesples ſont ſi perſu",
+            "A¬¬"
+        ],
+        [
+            "2,",
+            "ez de voſtre Eele’&amp; de voſtreſiicefttauſe.",
+            "uice du Roy &amp; de l’Eſtar, qu’il ſuſit de pr0",
+            "noncer voſtc nqm pour faire admirer voſt!",
+            "ertu. Les vyes par leſquelles la bonté Diu",
+            "ne vous-eleue à vn ſi haat-degré; ſonid",
+            "ſecrets particuliers de ſa prouidence, qu’ell",
+            "rendus ſi manifeſtes par le ſuccez, que no",
+            "n’en ſçaurions plus doucer: La vigueur c",
+            "vou; auez fairt paroiſtre à chercher des tene",
+            "à des aux qu ſembloient incurables, let",
+            "enfin apporte la gueriſon. Nous pouuons",
+            "que Dieu a remueé e v tour de main laj",
+            "grande machine du monde pour vous delit",
+            "&amp; qu’l s’eſt ſeruy de vous comme des Pr",
+            "tes de l’ancienne Loy pour illuminer le",
+            "des Princes des rayons de ſa Iuſtice. Ie l",
+            "toute-puiſſance de la gloire que ceét Auguſ",
+            "nat, dont vous auez anirae tout le corp",
+            "r’emporté, &amp; particulierement pour vou",
+            "que le Roy a recognu que ceux qui le fâat",
+            "’eſtoient pasſes plus fideles Seruiteurs.",
+            "ao ſçauſions deſotmais irer. qu’vn ¬",
+            "preſage deſon regne, puis qu’s à remat",
+            "bonne heure que ſa plus grande for",
+            "fiſte enl’amour de ſes ſubjets, &amp; que le",
+            "fite’de luyqa’il les teaite en, Pee: put",
+            "obay en Roys Les grahds cota ps d’ſ",
+            "peuuentfairens qguelque violerci"
+        ],
+        [
+            "aſez que vous ayez eſtably dans ſon eſpritcét",
+            "abregé des plus ſainctes &amp; des plus inuiolables",
+            "maxime sde la Monarchie, pour l’obliger à",
+            "eſtimer toute ſa vie le nom de ſon ſubjet com",
+            "me la voix doſon oracle. leſuis,",
+            "MONSIEVR",
+            "V’oflre tres-humble &amp; erer¬",
+            "aheyſſant Sraitear,",
+            "R. A."
+        ]
+    ]
+}

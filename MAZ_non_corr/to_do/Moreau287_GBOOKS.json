@@ -1,0 +1,127 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Arrêt dela cour de parlement, toutes les chambres\n                    assemblées, portant que le roi et la reine régente seront très-humblement\n                    suppliés, de la part de ladite cour, d’envoyer, au plutôt, lettre de cachet pour\n                    mettre en liberté messieurs les princes et duc de Longueville, et éloigner de la\n                    personne de Sa Majesté le cardinal Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1651",
+            "#text": "1651"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "D2",
+            "ARR",
+            "C r¬",
+            "L D",
+            "DE LA COVR",
+            "DA",
+            "I RTE",
+            "IAIILLIVEIN I",
+            "TOVTES LES CHAMBR ES",
+            "aſſembleé́es, portant que le Roy &amp;",
+            "la Reyne Regente ſeront tes-hum¬",
+            "blement ſuppliez de la part de ladite",
+            "Cour, d’enuoyer au plutoſt Lettre",
+            "de Cachet, pour mettre en libert́",
+            "Meſſieurs les Princes &amp; Duc de",
+            "Longueville, &amp; eſloigner d’aupres",
+            "la perfonne de ſa Majeſté le Cardi¬",
+            "nal Mazarin.",
+            "Du . Feurier. 165r.",
+            "A PAR1S,",
+            "Chez IC o C av , deuant le College",
+            "Royal.",
+            "DI."
+        ],
+        [
+            "1",
+            "¬",
+            "2¬",
+            "¬",
+            "¬",
+            "1",
+            "1",
+            "ſ"
+        ],
+        [
+            "taaumnleb",
+            "ee: e e ae e AeSe3 ¬",
+            "e aee: ae e e: aee- e s",
+            ": eee4",
+            "EXTRAICT",
+            "r¬",
+            "DES REGISTRES",
+            "DE PARLEMENT.",
+            "E iour la Countoutes",
+            "eles Canmlbes ſen",
+            "blées, ayant deliberé",
+            "ſur le recit fait par Monſieur",
+            "le premier Preſident, contenu",
+            "au egiſtre du iour d’hier &amp;",
+            "de Ce iour, concernant la li¬",
+            "berté de Meſsieurs les Prin¬",
+            "ces &amp; Duc de Longuevlle,",
+            "eſtas au Havre, &amp; autres cho¬"
+        ],
+        [
+            "4",
+            "ſes contenüs audit Regiſtre.",
+            "&amp; ſurceouys les Gens du Roy,",
+            "a arreſté, Que le noy &amp; la",
+            "Reyne Regente ſeronc tres¬",
+            "humblement ſuppliés de la",
+            "part de lad, Cour. d’enuoye",
+            "au pluſtoſt lettre de Cachet",
+            "pour mettre en lberté Meſ¬",
+            "ſieutr les Prnćes, &amp; Due de",
+            "Longuevlle, &amp; apres enuoyer",
+            "vne Declaration de leur inno¬",
+            "cence, &amp; d’éloigner d’aupres",
+            "la perſonne du Roy &amp; de ſes",
+            "Conſeils le Cardinal Maza¬",
+            "rin, &amp; de s’aſſembler Lundy",
+            "ſur la reſponſe. Faiten Parle",
+            "ment le 4, Fevrier6̃s.",
+            "Sg oVT E T"
+        ]
+    ]
+}

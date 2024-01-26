@@ -1,0 +1,88 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Prédiction de l'enlèvement du roi et sur le dé\n                    bordement de la rivière.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "1"
+        ],
+        [
+            "PREDICTION",
+            "DE L’ENLEVEMENT",
+            "TN 7T",
+            "1",
+            "lL V",
+            "¬",
+            "I I",
+            "ET SVR LE",
+            "DESBORDEMENT",
+            "de la Riuiere.",
+            "A PAR1S."
+        ],
+        [
+            "PREDICTION",
+            "DE L’ENLEVEMENT",
+            "L,",
+            "ET SVRLE DESBORDEMENT",
+            "de la Riuiere.",
+            "ris, ne tremble point, quanttu vois ce deluge,",
+            "Ton Dieu qui ’a touſiours fortement protegé,",
+            "E ene ſenene e ſeree",
+            "Si le Ciel menaçoit vne entiere rupture,",
+            "Tu verrois tout ſon feu pour ta perte embraſé;",
+            "Mais la peine des eaux par vn meilleur augure,",
+            "eMdarque la pentence &amp; l’orage appaiſe.",
+            "Deſia l’eau ſe retire en ſon lict ordinaire,",
+            "tpour prendre à bon-heurtout le mal qu’elle a fait,",
+            "ſpere que ton Oieu s’en tiendra ſatisfait;",
+            "Tu verras la concorde &amp; ſons arc ſalataure,",
+            "Les Corbeaux ſortiront pour ne renter iamais,",
+            "et ton Roy retournant t’apportera la paix.",
+            "ſ"
+        ]
+    ]
+}

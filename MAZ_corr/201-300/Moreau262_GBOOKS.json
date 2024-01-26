@@ -1,0 +1,147 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "texte officiel",
+        "subject": [
+            "Loyers, Droit, Paris",
+            "Propriétaires et locataires"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, pour la diminution des\n          loyers des maisons dans la ville et fauxbourgs de Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-04",
+                "#text": "daté d'avril 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "T T",
+            "DE PARLEMENT.",
+            "Pour la diminution des loyers des Maiſons dans",
+            "la Ville &amp; Faux-bourgs de Paris.",
+            "qoos",
+            "Da ro. Auril i649",
+            "i",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "-er",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "9e",
+            "atpao p a r- e oaooe e- e uoe t e",
+            "&amp;SSsSo effoeeCseC8",
+            "er D",
+            "r en",
+            "e d",
+            "EXYTRAICT DES RECISTRES",
+            "de Parlement.",
+            "E 1ova, la Cour apres auoir veu les neuf Requeſtes",
+            "lieds peſenees rons pr les ioeuunnes deu uiſdons d",
+            "d Faux bourg S. Antoine de cette Ville de Paris: autre",
+            "par Pieire Pinç̧on, Louis le Febue &amp; autres Habitans de la",
+            "Ville &amp; Faux-bourgs S. Matcel, afin d’eſtre deſchargez du loyer",
+            "des Maiſons qu’ils tiennent; pour ſe quartier eſcheu au terme",
+            "de Paſques dernier: autre par les pauures Bourgeois, Chambre",
+            "lans de cette Ville &amp; Faux-bourgs, afin de deſcharge de deux",
+            "terraes;: autre par les Marchands tenans leur Boutique au Palais",
+            "dedans la Salle Dauphine, afin de pareille deſcharge de deux",
+            "termes: autre par René Antier &amp; pluſieurs autres leurs con",
+            "ſores, tenans à loyer des Boutiques dans le Palais &amp; és enui",
+            "rons, &amp; autres lieux de cette Ville, &amp; pluſieurs Maiſons",
+            "toutes",
+            "entieres, afin de deſcharge des loyers deſdites Boutiques &amp;",
+            "Maiſons, pour les termes eſcheus depuis le mois d’Aouſt der",
+            "nier, &amp; pour l’aduenir: autre par Antoine Antheome &amp; au",
+            "rres, Hoſteliers du quartier S. Martin &amp; ruës adjacentes, afin",
+            "de deſcharge des termes eſcheus depuis le mois de May der.",
+            "nier: aatre par lean Ameſtry, Pierre Naba &amp; autres, Locatai",
+            "res des Maiſons ſiazes és enuirons du Palais Royal, ruës des",
+            "Petits-Champs, Coquillere &amp; Vieux Auguſtins, afin de deſ",
+            "charge des deux tiers des loyers, depuis ledit mois de May",
+            "dernier: autre par les principaux Locataires des Maiſons qui",
+            "legent en Chaimbres garnies, des quartiers du Louure &amp; Palais",
+            "oyal, afin de deſcharge des trois termes; &amp; vne aure par",
+            "Iacques Maillard, HIenry Chenelon &amp; plufieurs autres, Habi",
+            "rans du Faux bourg S. Germain, afin de deſcharge des temes",
+            "Sainét lean, Sainct Remy &amp; Noel, pour moitié, &amp; pour le tot",
+            "du terme de Paſques, &amp; de celuy qui eſcherra à la Sainct lean,",
+            "uquel iour les Baux demeureroient reſolus, ſi mieux n’ay¬"
+        ],
+        [
+            "¬",
+            "moient les Peoprietaires r’antrer dé́s à preſent en leurs maiſos;",
+            "&amp; en cas de coõnteſtations, defenſes fuſſent faites d’attenter à",
+            "leurs perſonnes &amp; biens pour le payement deſdits loyers eſ.",
+            "cheus &amp; à eſchoir:-Et oüy ſur ce le Procureut General du Roy,",
+            "auquel leſdites Requeſtes ont efté communiquêes de l’Ordon.",
+            "nance de ladite Cour, &amp; ſur la Remonſtrance par luy faite. La",
+            "matiere miſe en deliberation;LADITE COVR a ordon",
+            "né́ &amp; ordonne, Que tous les Habitans de cetce Ville &amp; Faux.",
+            "bourgs de Paris, qui ont pris à loüage des Maiſons pourteloûüer,",
+            "Chambres garnies, ou autrement, &amp; tenit Hoſtelleries, les",
+            "Chambrelans &amp; Sous-locataires, demeureront deſchargez du",
+            "loyer deſdites Maiſons &amp; Chambres, Sçauoir, ceux des Fau",
+            "bourgs, meſmes de la Ville Saint Marcel, pour le quartier",
+            "entier eſcheu au terme de Paſques deraier; &amp; ceux de la Ville",
+            "de Paris, de la moitié dudit quartier; Ce faiſant, ſeront tenus",
+            "payet ce qui reſtera deu &amp; eſcheu auparauant, dans vn mois,",
+            "pendant lequel ſurſeoiront les contraintes, ſaiſies &amp; ventes des",
+            "biens pour raiſon de ce. Et pour faire droit ſur les Requeſtes",
+            "concernant les Marchands de la Gallerie Dauphine, &amp; ſur le",
+            "ſurplus des autres Requeſtes afin de reſolution des Baux &amp; plus",
+            "grandes deſcharges, ſous pretexte de logemens de Ges de",
+            "guerre ou autres cauſes, Les Proprietaires de ladite Gallerie",
+            "e Marchands du Palais, ſeront appellez en ladite Gour, &amp; les",
+            "autres pardeuant les luges ordinaires, Pour leſdits Proprie",
+            "aires ouis, eſtre ordonné ce qu’il appartiendra. F a c en",
+            "Parlement le dixíme Auril mil ſix cens quarente- neuf.",
+            "Signe, GVYET.",
+            "Collarionnéàd l’original par may Conſeiller Secretaire",
+            "ds Roy &amp; de ſes Finances."
+        ]
+    ]
+}

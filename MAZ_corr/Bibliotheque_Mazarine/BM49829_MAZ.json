@@ -1,0 +1,158 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Taille (impôt)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-07",
+            "@who": "AB"
+        },
+        "titre": "Arrest de la cour de parlement de Dauphiné, sur\n          l'execution des declarations de sa Majesté, concernant le payement des tailles des années\n          1648. & 1649.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000106573561",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Dauphiné"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-02-24",
+                "#text": "daté du 24 février 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST DE LA COVR DE PARLE",
+            "ment de Dauphiné, Sur l'execution des Declarations",
+            "de ſa Maieſté, concernant le payement des",
+            "tailles des années 1648 &amp; 1649."
+        ],
+        [
+            "A-..",
+            "¬b ¬,.",
+            "2",
+            "daſuſd. ſomme de ſept cens cinquante mil liu. celle de cent cin",
+            "quante mil liures, pour tenir lieu des vtenciles dud quar tier d’Hv",
+            "uer &amp; autres frais extraordinaires, &amp;que les ſix cens mil",
+            "liu es re",
+            "antes ſerot employes à la deſpeſe deſdrroupes à̀ la forme duRe",
+            "tement de ſoMaieſte du mois d’Octobce deruiet-&amp; qu’à cetffet",
+            "il ſera procedeé à̀ la leuée des deniers des impoſitions deid.années",
+            "mil ſl cens quarante-buict, &amp; mil ſix cons quarante-neof, par",
+            "preferance à tous autres deniers,à la reſerue du dernier quartier",
+            "de chacuue deſû.année,, qui demeurera entre les mains des con",
+            "tribuables-pour apses leregalemone fait eſre procelé aux imp",
+            "tations des foules, etapes &amp; deſpenſe des gons de Guerre deſd.",
+            "années, &amp; qu’inhbiſbitions ſoient faites à̀ tous Receueurs de con",
+            "traindre les contribuables au payemeut dudit derniet quarticrs",
+            "peine de concuſion, &amp; de ſe ſeruir deſd gens e Guerte pone e",
+            "Pacion des tailles; comme auſſi il ſoit enioin auſd Receueurs de",
+            "prendre pour argent comptant les quittances quileur feront bail",
+            "lees par lesCommunautez de la deſpenſe par elles ſouſfferce ponr",
+            "l’entretien deſdites Gens de Guerre..",
+            "TA COVR, les Chambres aſemble- nrerinmnrt ade",
+            "lLL queſte, Aordonné &amp; ordonne, ſous le bon plaiſirt du Roy,",
+            "q’i ſera inceſanment proeedé ̀ la leuée des ſommes etante",
+            "euiget des trois premiers quartiers des tailles&amp; ſubſiſtaneeion",
+            "poſees pour leſdannees mil ſix cens quarante-huit, &amp; mil ſi ca",
+            "quarante-neuf: Sur leſquelles ſera fait fonds de la ſomme de lept",
+            "Cens cinquante mil liures par preferance a toures avtres chatges.",
+            "pour eſre employée au rembourcement des preſts, montrs&amp;V",
+            "aures deſpenſes des teoupes ctant a prelent en qunrle dHly",
+            "ee dans la d Prouince, &amp; au payement des vrencilles qui ſerons",
+            "Eourmies par les habitrans des leut enŕe emieele , uſques ̀ lur",
+            "fooe Eeta ees ſins, que les Conſul Coleeteurs &amp; Receueus des",
+            "Tailes, prendront pout deniers comprans des Comunaute",
+            "preeuſer haloitans diele qui o fouſre u ſounon le E",
+            "emeun les quiraneen des fbirſniores pr eu ire nui eiee",
+            "leu e payenent de ee que leſ Conimonante &amp;e pareieulies",
+            "deuont de reſte des ſuſdites impoſitions deſd. anmees &amp; ce que"
+        ],
+        [
+            "leſd. Communautez &amp; particuhers aure ſouffert au delà de leurs",
+            "ocs,a cauſe dudlt quattier d’Hyrer, ſera rerbourcé,’cumrfe",
+            "aaſi l’vtemille par les Receeurs des Eſleios, ù eles reſſt",
+            "ſent du fonds des ares Commnontez qui n’ovnt ſoufet led.",
+            "dgonene,&amp;e -en cas d’iſfffſane hmditfbnls, ſur ce q’elſls de",
+            "uront des Tailles de ’l’année iſlfixeens ctoquanrte&amp;",
+            "leretenant",
+            "bon deſdites ſept cens cinquante mil liures, porte inceſſamment à̀",
+            "l’Eſpargne, lad deſpenſe &amp; vtencilles prealablement payées. Fait",
+            "tres expreſſes iuhibitons &amp; deffenſes audConſuls, Collecteurs &amp;",
+            "Receueurs de le deſaiſrt-des deniers prouënans deſd.3. quartiers.",
+            "ny d’en faire aucumpsyetent, que por ledit quartier d’Hyuer",
+            "par prteferance à toutes charges, à̀ peine d’en reſpondre en leur",
+            "propre &amp; priué nom, &amp; de payer deux fois, &amp; le ſurplus deſdits",
+            "trois quartiers ſera employé au payement des charges de ladite",
+            "Prouince, la chacune deſdites années. Et quant au dernlier quar",
+            "tier des Tailles deſdites annees mil ſix cens quarante-huict &amp;",
+            "mil ſix cens quarante-neuf, Ordonne ladite Cour qu’il demeure",
+            "raentre les mains des contribuables, pour eſtre payé &amp; compen",
+            "ſé auec les foules, eſtapes &amp; quartier d’Hyuer deſdites années",
+            "à",
+            "proportion, apres que le regalement aura eſté fait: Et en outre",
+            "fait pareilles inhibitions auſditsConfuls, Collecteurs &amp;Receueurs",
+            "de remettre les rooles deſdites Tailles entre les mains des gens",
+            "de guerre pout en faire la receptre, &amp; auſdits gens de guerre d’en",
+            "faire la leuce, à peine d’en reſpondre par les Chefs &amp; Comman",
+            "dans en leur propre &amp; priué nom, &amp; d’eſtre procedé",
+            "extraordi",
+            "nairement contre eux &amp; contre leſd.Conſuls, Colle cteurs &amp;",
+            "Re",
+            "ceueurs des Communautez, auſquels eſt enioint d’en faire la le",
+            "ué́e par les voyes de Iuſtice ordinaires; &amp; en cas qu’en",
+            "execution",
+            "du preſen Arreſt &amp; de l’arreſté du vingt-quatriéme Decembre",
+            "dernier, il ſuruint quelque different, ladite Cour s’en reſerue",
+            "la connoiſſance. Fait inhibitions à toutes perſonnes de ſe pouruoir",
+            "ailleurs à peine de nullité de procedures, &amp; aà̀ tous Huiſſiers &amp;",
+            "Sergens de faire aucuns exploits au contraire à peine de priuation",
+            "de leurs Charges: Et afin que perſonne n’en pretende cauſe d’i",
+            "gnorance la publicarion du preſent Arreſt ſera faite en Audiance",
+            "publique &amp; on de trompe par les carrefours de la preſe nteVille",
+            "pluſieurs idimas d’iceluy enuoyez aux Baillages, Seneſchauſſées"
+        ],
+        [
+            "3",
+            "1i!",
+            "1",
+            "2",
+            "4",
+            "&amp; autres Sieges Royaux de la Prouince, pour y eſtre faite pareille",
+            "publication, à la diligence des Subſtitus du Procureur general,",
+            "auſquels eſt enioint d’y tenir la main, à̀ peine d’enreſpondre e",
+            "leur propre &amp; priué nom. Fait à Grenoble en Parlement le vingt",
+            "quatrieéme Feurier mil ſix cens cinquante-vn.",
+            "Ceeraidt der Regiſtres de la Cour de",
+            "Parlemeus de Dauphineé."
+        ]
+    ]
+}

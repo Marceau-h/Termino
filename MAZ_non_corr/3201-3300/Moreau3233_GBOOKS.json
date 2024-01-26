@@ -1,0 +1,178 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "narration",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1652-01-09",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Relation véritable de l'assassinat fait à messieurs de\n          Coudray et Bitault, conseillers de la cour de Parlement de Paris, par les troupes de\n          Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2026-04-20",
+            "#text": "26 avril 2021"
+        },
+        "author": "Anonyme",
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000385986464",
+            "persName": {
+                "forename": "Jacob",
+                "surname": "Chevalier"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "ELATION",
+            "T",
+            "VERITABLE",
+            "DE L’ASSASSINATFAIT",
+            "à Meſſieurs de Coudray &amp; Bitault",
+            "Conſeillers de la Cour de Parlement",
+            "de Paris.",
+            "ſa",
+            "A PARIS,",
+            "Chez IACOB CHEVALER, proche Saint Iean",
+            "M. DC. LII."
+        ],
+        [
+            ".",
+            "i",
+            "oe",
+            "1",
+            "nf",
+            ".,."
+        ],
+        [
+            "iMdilſadeſbea",
+            "eeeieun?",
+            "leee dut e&amp;8",
+            "fe",
+            "RELATION VERITABLE",
+            "de l’Aſſaſſinat fait à̀ Meſſieurs de",
+            "Coudray &amp; Bitault Conſeillers au",
+            "Parlement de Paris: Par les trou",
+            "pes de Mazarin.",
+            "E Mardy neufiéme de ce",
+            "mois le Courrier ordinai",
+            "re de Bourgongne eſtant",
+            "arriué à Sens à deſſein de",
+            "paſſer outre, rencontra l’armée du",
+            "Cardinal Mazarin qui s’alloit loger",
+            "le meſme iour en la Ville de Pont",
+            "ſur Yonne. Le pont ſur la riuiere",
+            "auoit eſté deſia rompu, mais vn",
+            "train de batteaux qui montoit àSens",
+            "ayat eſteé rencontré par les troupes",
+            "du Cardinal, ils s’en ſailirent pour en",
+            "baſtir à lahaſte vn pont qui ſeruità",
+            "A i1"
+        ],
+        [
+            "faire paſſer la Cauallerie. Mon.",
+            "ſieur du CoudrayConſeiller au Par.",
+            "lement, eſtoit au deç̧a de la riuiere",
+            "ſouſtenu de peu de gés, il fut d’abord",
+            "attaqué par vn (quiviuej reïteré. au.",
+            "quel ledit ſieur ayant répondu viue",
+            "le Roy, par deux fois, il vit d’abord",
+            "ſon cheual abbatu ſous luy d vn",
+            "coup de piſtolet, &amp; ſon valet de",
+            "chambre bleſſé à trauers le corps",
+            "d’vn coup de carrabine, il perdoit",
+            "tout ſon ſang, mais non pas ſon cou.",
+            "rage. Le Crauate qni auoit tireé le",
+            "vit fondre ſurluy, &amp; ne peût euitet",
+            "la mort qu’ne iuſte vengeance y",
+            "fit ſouffrir ſur le champ. Luy rejoi",
+            "gnit ſon Maiſtre auec les autres de",
+            "ſa troupes, &amp; tous ſe ſauuerent du",
+            "coſté de Sens, ou l’on tientqu’il eſt",
+            "allé mourir de ſa bleſſnre. Sur le",
+            "ſoir du meſme iour Mſieur Bitaud",
+            "Conſeiller au Parlement, fuſt arre."
+        ],
+        [
+            "ſté, &amp; preſenté à Mr le Mareſchal",
+            "d’Hoquincourt qui menolt l’auan",
+            "garde.",
+            "Le mercredi o. le Courrier eſtant",
+            "parti de Sẽés à vnze heures du matin,",
+            "rencontraprés de Valery l’auangar",
+            "de des troupes du Cardinal, quel",
+            "ques Crauates l’arreſterent, &amp; luy",
+            "ayant demandé qui Viue, luy ayant",
+            "entendu la reponſe ordinaire de",
+            "Viue le Roy, deux d’entr’eux ſtilez",
+            "de longne main auxvoleries, ſe mi",
+            "rent en état de fouiller dansfa male",
+            "&amp; de l’emmene, mais chme il ſe de",
+            "battoit, &amp; leur proteſtoit qu’il n’y",
+            "auoit dedans autre chofe que",
+            "des dépeſches du Roy &amp; du public,",
+            "il ſuruint vn Officier qui arreſta ees",
+            "caualiers, &amp; leur remontra qu’il n’en",
+            "faloit pas vſer de la ſorte, qu’on n’a",
+            "uoit point accoûtumeé de toucher",
+            "aux Courtiers; il commanda ſurle",
+            "B"
+        ],
+        [
+            "champ vn caualier pour l’eſcorter,",
+            "&amp; pour l’emmener àſon Colonel",
+            "quiluy fit pluſieurs demades, ayant",
+            "de ſa bouche apris qu’il venoit de",
+            "Dijon, qu’il eſtoit Courrier ordinai",
+            "re du Roy &amp; du publie, &amp; qu’il n’y",
+            "auoit en Bourgogne que deux reg",
+            "mens de Nauarre &amp; de Bourgogne",
+            "ille fitpaſſer &amp; luy bailla vnCaualie",
+            "pour eſcorte.",
+            "Le leudy i. le Courrier eſtant ar",
+            "riué́ à Paris, alla rendre conte à ſon",
+            "Alteſſe Royale deſonvoyage, &amp;de",
+            "toutes les reneõ̃trca qu’l auoit euës",
+            "Adjoûtant qu’il auoit veu filer les",
+            "troupes du coſté de Valery, po",
+            "aller gagner Briare ou Giẽ, à deſſei",
+            "d’y paſſer lariuiere de Loire. D",
+            "tel commencement, on peutiuge",
+            "quelle ſera la fin des violences de c",
+            "Miniſtre proſcrir, ſi les peuples sv:",
+            "niſſant aux genereux deſſein deſo"
+        ],
+        [
+            "7",
+            "Alteſſe Royale n’empeſchentvnani",
+            "memẽtle cours de ce temeraire, que",
+            "la Iuſtica de Dieu rameine à̀ la Fran",
+            "ce comme vne victime eſchapée à",
+            "l’Autel. Ce n’eſt pasſans quelqueſe",
+            "cret du ciel que la Deeſſe qui porte",
+            "le glaiue a eſté la premiere violée,",
+            "en la perſone de deux onſeillers.",
+            "Il doit croire que cette eſpéeles van",
+            "gera, &amp; que la diligence de ſes mar",
+            "ches ne luyſeruira de rienpour eui",
+            "ter le chaſtiment."
+        ]
+    ]
+}

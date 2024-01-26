@@ -1,0 +1,112 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": [
+            "vers",
+            "prose"
+        ],
+        "genre": [
+            "stances",
+            "chanson"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-01-01",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-06-02",
+            "@who": "ZC"
+        },
+        "titre": "Stances sur le départ de monseigneur le premier\n          président, garde des sceaux de France.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121209450",
+            "@xml:id": "IL_EstienneAntoine.xml",
+            "persName": {
+                "forename": "Antoine",
+                "surname": "Estienne"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "STANCES",
+            "SVR",
+            "LE DEPART",
+            "DE",
+            "MONSEIGNEVR",
+            "LE PREMIER PRESIDENT,",
+            "Garde des Seaux de France",
+            "A PARIS,",
+            "Par ANTOINE ESTIENE, Premier Imprimeur",
+            "&amp; Libraire ordinaire du Roy,",
+            "Ruë S. Iacques, au College Royal, deuant S. Benoiſt.",
+            "M. DC. LII."
+        ],
+        [
+            "STANCES",
+            "SVR LE DEPART DE MONSEIGNEVR",
+            "LE PREMIER PRESIDENT, GARDE",
+            "des Seaux de France.",
+            "VE l’abſence de ce Flambeau,",
+            "Qui dans le Grand Senat illuminoit tant d’ames,",
+            "Nouse derole de flammes,",
+            "Et qu’elle met d’esprits dans le tombeau!",
+            "O qu’elle va cauſer d’inquietude:",
+            "Que tous les bons François la plaindront à genoux;",
+            "Et que cét Hyuer ſera rude,",
+            "Puus qu’vn autre Soleil ſe retire de nous!",
+            "Ce Miniſtre ſans paſſion,",
+            "Enchaiſnoit tous les cœurs, comme faiſoit Alcide,",
+            "Et retenoit en bride,",
+            "Ceux qui tendoient à la ſedition.",
+            "Tous par ſes ſoins viuoient en aſſurance;",
+            "Tl demandoit au Roy dans ſes plus hauts projets,",
+            "De l’amour pour la France,",
+            "Et conſeruoit au Roy l’amourde ſes Subjets."
+        ],
+        [
+            "Non! François vous ſerez contents,",
+            "Et gouſtereZ dans peu, les fruicts de cette abſence",
+            "Vn Dieu par ſa puiſſance,",
+            "Apres l’Hyuer vous rendra le Printemps.",
+            "Que vos eſprits taſchent à ſe reſoudre,",
+            "Bien toſt des mains de Mars, ſesonſeils plus qu’humains",
+            "Feront tomber la foudre,",
+            "Et puis il reuiendra l’Oliue dans les mains.",
+            "E Vertus Heroïques de Monſeigneur le Premier",
+            "L. Preſident Garde des Seaux de France, brillent auec",
+            "tant de ſplendeur &amp; de gloire, qu’elles ne ſont pas moins",
+            "l’ornement de la veritable Hiſtoire, que l’appuy neceſ",
+            "ſaire du bon-heur &amp; du repos de ceſte Monarchie. C’eſt",
+            "pourquoy n’y ayant perſonne qui ne doiue prendre au",
+            "tant de part à ſes intereſts particuliers, qu’à ſes grandes",
+            "veilles &amp; trauaux pour le bien de lEſtat, j’ay creu faire",
+            "choſe aggroable au public, de luy donner ces trôis Stan",
+            "ces, compoſées par vn des plus celebres Autheurs de ce",
+            "temps, qui par les Poëmes Heroïques qu’il a faits ſur les",
+            "Triomphes de LOVIS LE IVS TE que j’ay cy de",
+            "uant imprimez, s’eſt deſ-ja immortaliſe luy meſme en",
+            "immortaliſant ce Grand Roy."
+        ]
+    ]
+}

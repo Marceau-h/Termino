@@ -1,0 +1,220 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Épernon, Bernard de Nogaret de La Valette (1592-1661 ; duc d')",
+            "La Valette, Jean-Louis (16..-1650 ; chevalier)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-09",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Bordeaux, portant que le\n          sieur duc d’Épernon, le chevalier de La Valette, son frère, et leurs adhérans sont\n          déclarés infracteurs de la paix, perturbateurs du repos publie, ennemis du roi et de son\n          État.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1650-06-28",
+                "#text": "mention de publication le 28 juin 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:6455058",
+            "#text": "Bordeaux"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121390552",
+            "@xml:id": "IL_MongironMillangesJacques.xml",
+            "persName": {
+                "forename": "Jacques",
+                "surname": "Mongiron Millanges"
+            }
+        },
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE BOVRDEAVX",
+            "Portant que le ſieur Duc d'Eſpernon, le Chevalier de la Valette",
+            "ſon frere &amp; leurs adherans, ſont declarez infracteurs de la paix,",
+            "perturbateurs du repos public, ennemis du Roy &amp; de ſon",
+            "Eſtat.",
+            "A BOVRDEAVX,",
+            "Par I. MONGIRON MILLANGES, Imprimeur",
+            "ordinaire du Roy. 1650."
+        ],
+        [
+            "EXTRAICT",
+            "des Regiſtres de",
+            "Parlement.",
+            "SVR ce qui a eſté repre",
+            "ſente, que depuis le",
+            "mois de Mars de l’an",
+            "née mil ſix cens qua",
+            "rante-neufle ſieur Due",
+            "l d’Eſpetnon abuſant de",
+            "l’authorité qu’il auoit",
+            "dans la Prouince, auroit détourné les",
+            "troupes du Roy de leur employ legiti",
+            "me contre les ennemis declairés de l’E",
+            "ſtat, pour ſonſeruice à̀ la ruine de la Pro",
+            "l uince &amp; de la Ville Gapitale d’icelle, &amp;",
+            "pour opprimer les bons &amp; fideles ſub",
+            "A 2"
+        ],
+        [
+            "!",
+            "1",
+            "jets du Roy, qui ont touſiours eſperé de",
+            "l’authoriré́ Royale le veritable remede",
+            "à leurs maux, &amp; que la Declaration &amp;",
+            "Arcles qu’il a pleu à̀ ſa Majeſté́ d’ac",
+            "corder au mois de Decembre dernier,",
+            "ſur les tres-humbles ſupplications de la",
+            "Cour, auec tant de bonteé que de vou",
+            "loir aſſeurer les paroles que le Seigneur",
+            "Duc d’Orleans a donneées pour l’execu",
+            "tion, arreſteroit les violances dudit",
+            "ſieur Duc d’Eſpernon: mais tout au",
+            "contraire apres auoir receu les com",
+            "mandements pour le licenciement de",
+            "ſes milices, &amp; l’eſloignement des trou",
+            "pes &amp; autres Ordres portés par ladire",
+            "Declaration, il auroit bruſlé diuerſes",
+            "maiſons, &amp; laiſſé en ſe retirant des en",
+            "uirons de Bourdeaux les marques de ſa",
+            "cruauté, &amp; depuis eſt touſiours de meu",
+            "ré armé pour auoir des executeurs de",
+            "ſes’paſſions, des aſſaſins des Huiſſiers",
+            "de la Gour&amp; aurres miniſtres de uſti",
+            "ce, &amp; pour empeſcher que l’authorité",
+            "des"
+        ],
+        [
+            "le",
+            "5",
+            "des Arreſts de la Cour &amp; la Iuſtice Sou",
+            "ueraine du Roy ne fut recognuë &amp; de",
+            "ſoler pour vne troiſieſme fois la Pro",
+            "uince dans le temps de la Recolte, &amp;",
+            "que les peuples eſtans dans l’eſperãce",
+            "de iouyr de la paix, ſe treuueroient ſans",
+            "deffance: ce qu’il a fait depuis peu, Se",
+            "ſtant ſaiſi del’IſleS. George du C ha",
+            "ſteau dOliuier, de la maiſon de Cayac,",
+            "&amp; autres poſtes des enuirons de Bour",
+            "deaux, ayant deſolé toutes les Parroiſſes",
+            "voiſines, &amp; permis tous les ſacrileges &amp;",
+            "autres cas execrables qu’il auoit fait au",
+            "tres fois pratiquer, fortiffié ladite lſle",
+            "S George, &amp; laiſſé Garniſon dans icel",
+            "le, ce qui à obligé la Cour d’en donner",
+            "aduis au Roy &amp; de veiller aà̀ la ſeureté de",
+            "la Ville &amp; des dehors d’icelle, Ordon",
+            "nant ſoubs le bon plaiſir de ſa Majeſté",
+            "les gardes à ce neceſſairtes pour éuiter",
+            "les deſordres que ces violances exci",
+            "tent de nouueau dans la Prouince. Et",
+            "comme tous les ſoins de la Cour n’ont"
+        ],
+        [
+            "1",
+            "6",
+            "peu arreſter ces é̃trepriſes, quelles con",
+            "tinuent, &amp; ſont ſi notoires &amp; preiudi",
+            "ciables au ſeruice du Roy &amp; au repos",
+            "publiec, qu’il importe d’y pouruoir par",
+            "les voyes que la Cour iugera les plus",
+            "conuenables. Ouy ſur ce le Procu",
+            "reur General du Roy, L A COVR,",
+            "a Ordonneé &amp; Ordonne, que le Roy",
+            "ſera informé des nouvelles entre",
+            "priſes du dit Duc d’Eſpernon, au",
+            "prejudice de la Declaration &amp; arti",
+            "cles aecordez par Sa Majeſté, &amp; des",
+            "ſacrileges &amp; incendies, violemens &amp;",
+            "autres cas execrables qui ſe commet",
+            "tent par les trouppes dudit Duc d’Eſ",
+            "pernon, enſa preſence &amp; parſon com",
+            "mandement. Et atrendu la nororieté",
+            "des ſuſdits actes, a declaré &amp; declare",
+            "ledit Duc d’Eſpernon, le Cheualier de",
+            "la Vallete ſon frere, &amp; leurs adherans,",
+            "-infracteurs de la paix, ennemis du Roy",
+            "&amp; de ſon Eſtat, &amp; perturbateursdure",
+            "os public. En conſequence fit inhi¬"
+        ],
+        [
+            "7",
+            "bitlons&amp; deffencesà toutes ſortes de",
+            "perſonnes de quelle qualiteé &amp; condi",
+            "tion qu’ils ſoient, de receuoirny don",
+            "ner ayde &amp; aſſiſtance auſdites troupes,",
+            "à peine d’eſtre les contreuenans trait",
+            "tez comme fauteurs de cet attentat",
+            "fait à l’authorité Royale; permet aux",
+            "Communes de s’aſſembler, pour cour",
+            "re ſus auſdits geẽs de guerre. Et ſont tous",
+            "Gouverneurs, Seigneurs &amp; Gentils",
+            "hommes du reſſort de la Cour, inuitez",
+            "&amp; exhortez de preſter main forte, pour",
+            "arreſter la deſolation entiere de la Pro",
+            "uince &amp; de la Ville capitale d’icelle. En",
+            "joint ladite Cour à tous lurats &amp; Con",
+            "ſuls des Villes &amp; Communautez, de",
+            "fournir hommes &amp; viures pour la def",
+            "fence de cette ville, &amp; pour faire ceſſer",
+            "les ſuſdites oppreſſions, &amp; d’obeyr aux",
+            "ordres qui leur ſeront pour ce donnez.",
+            "Et aux fins que perſonne n’en prertende",
+            "cauſe d’ignorance, ſera le preſent Ar",
+            "reſt leu, publié &amp; enregiſtré́ dans tou¬"
+        ],
+        [
+            "8",
+            "tes les Seneſchauſſées &amp; Bailliages du",
+            "Reſſort, &amp;affiché par tout où beſoin ſe",
+            "ra. Fait à Bourdeaux en Parlement, les",
+            "Chambres aſſemblées, le vingt-cin",
+            "quieſme Iuin mil ſix cens cinquante.",
+            "Signé, DE PONTAC.",
+            "I E 8. dudit mois de Iuin audit an, le",
+            "eſſdit Arreſt a eſté leu &amp; publié aux can",
+            "tons accouſtumez de la preſente Ville, par",
+            "nous Iean Cauſſan IHuiſsier en ladite Cour",
+            "ſouſsigné, aſifté de Maiftre Bardon auſs",
+            "Huiſier en icelle, du Cheualier du Guet &amp; l",
+            "Arcbhers, les Trompettes ſonnont, affin que",
+            "perſonne n’enpretende cauſe d’ignorance.",
+            "Signé, CAVSSAN."
+        ]
+    ]
+}

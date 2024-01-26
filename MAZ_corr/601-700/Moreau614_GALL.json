@@ -1,0 +1,146 @@
+{
+    "imprimatur": null,
+    "corrector": true,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "poésie",
+            "burlesque",
+            "satirique"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1651-03-11",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-16"
+        },
+        "titre": "Burlesque sur la fuite de Mazarin et la rencontre de\n          madame la duchesse de Longueville, retournant de Stenay à Paris",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-10",
+                "#text": "10 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-19",
+                "#text": "19 avril 2021"
+            }
+        ],
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1651",
+            "#text": "1651"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "7",
+            "BVRLESQUE",
+            "SVR",
+            "LA FVITTE DE MAZARIN,",
+            "ET LA RENCONTRE",
+            "DE MADAME",
+            "LA DVCHESSE",
+            "DE",
+            "LONGVEVILLE",
+            "Retournant de Stenay à Paris.",
+            "M. DC. LI."
+        ],
+        [
+            "BVRLESQUE",
+            "SVR",
+            "LA FVITTE DE MAZARIN,",
+            "ET LA RENCONTRE",
+            "DE MADAME",
+            "LA DVCHESSE",
+            "DE",
+            "LONGVEVILLE",
+            "Retournant de Stenay à Paris.",
+            "MAzarin vous auez grand tort",
+            "De vous plaindre de voſtre ſort,",
+            "Vous deuiez ſçauoir qu'vn mortel",
+            "Paſſe tousjours pour criminel"
+        ],
+        [
+            "De choquer la Principauté,",
+            "Eſpece de Diuinité:",
+            "Niobé fille de Tantale,",
+            "Trouua lupiter liberale",
+            "Par la beauté &amp; la richeſſe",
+            "Qu'elle receut de ſa largeſſe,",
+            "Et par vne lignée feconde",
+            "Plus belle que la terre &amp; l'onde",
+            "Ait iamais eſtalé aux yeux",
+            "Des mortels, &amp; meſme des dieux:",
+            "Mais s'en eſtant renduë ingratte,",
+            "Latonne incontinent la matte,",
+            "En puniſſant ſon inſolence,",
+            "Et faiſant bien voir l'impuiſſance",
+            "De Niobé contre les dieux,",
+            "Arma contre elle tous les cieux.",
+            "Donnant à cognoiſtre aux mortels",
+            "Qu'ils ſeroient tousjours criminels",
+            "D'entreprendre contre les dieux,",
+            "Maiſtres de la terre &amp; des cieux.",
+            "Elle fiſt paſſer Lacheron",
+            "A coups des fleſches d'Apolon",
+            "A ſes ſept fils &amp; ſes ſept filles,",
+            "L'ornement de toutes les villes,",
+            "Pour"
+        ],
+        [
+            "5",
+            "Pour auoir fait comparaiſon",
+            "De ſa trop belle nourriſſon",
+            "Auec Appollon &amp; Diane,",
+            "Mais c'eſtoit en vſer en Aſne:",
+            "Comme vous pauure Mazarin,",
+            "De Miniſtre venu vn beau Rien,",
+            "Qui bouffy d'aueugle fortune,",
+            "A toute la France importune,",
+            "Vous auez euë l'effronterie,",
+            "Meſlée de voſtre fourberie,",
+            "D'attaquer la Maiſon Royalle,",
+            "Par vne action deſloyalle,",
+            "Mettant ſous la barre &amp; les fers",
+            "Trois Princes de tout l'Vniuers",
+            "Les plus Grands, tant par la naiſſance,",
+            "Que par redoutable puiſſance.",
+            "Mais la voicy, non pas Latonne,",
+            "C'eſt noſtre Deeſſe Bourbonne,",
+            "Qu piquee d'vn iuſte courroux",
+            "De l'affont fait à ſon Eſpoux,",
+            "Et à ſes deux freres germains,",
+            "A formé de ſi hauts deſſeins",
+            "Qu'elle a detroſné Mazarin,",
+            "De Miniſtre change en Rien.",
+            "B"
+        ],
+        [
+            "6",
+            "Le voyez-vous qui prend la fuitte",
+            "Auec ſa deteſtable ſuitte,",
+            "Adieu Demon Incarnadin,",
+            "Phoſphorin,",
+            "mot Grec qui",
+            "ſignifie Lu",
+            "cifer.",
+            "Bruſle à iamais dedans l'enfer",
+            "Auec ton frere Lucifer.",
+            "FIN."
+        ]
+    ]
+}

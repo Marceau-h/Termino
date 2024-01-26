@@ -1,0 +1,206 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Remontrance de la reine de Pologne à la reine de\n                    France touchant le déplaisir qu'elle a devoir combattre les Polonois contre les\n                    François.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "REMoNTRAN0E",
+            "DE LA",
+            "D V",
+            "EINE",
+            "DE POLOGNE,",
+            "REYNE DE FRANCE.",
+            "Touchant le déplaiſir qu’elle a, de voir",
+            "combattre les Polonois contre",
+            "les François.",
+            "A PARIS,",
+            "Chez Robert Feugé, au mont S. Hilaire, pré́s le",
+            "Auec Pernaiſsion."
+        ],
+        [
+            ",",
+            "1",
+            "¬",
+            "a1",
+            "a¬s",
+            "1 ¬",
+            "¬ 2",
+            "?"
+        ],
+        [
+            "3",
+            "pppppppepppppp¬",
+            "esebeepeeep:",
+            "REMONSTRAN CE",
+            "de la Reyne de Pologne à",
+            "la Reyne de France,",
+            "Touchant le déplaiſir qu’elle a, de voir",
+            "combattre les Polonois contre",
+            "les François.",
+            "ADAME,",
+            "Ie viens d’apprendre tout aà l’heure",
+            "a gne nmauuaife nouuelle,ce me ſemble,",
+            "car il vient d’arriuer vn Ftançois ence lieu, qui m’a",
+            "aſſeuré que toute la France eſt en combuſtion, ie",
+            "vous puis proteſter que cette nouuelle m’afflige ex¬",
+            "tremement, &amp; quoy qu’eſloignée de mon pays na¬",
+            "tal, ie ne laiſſe point de conſeruer de tendres ſenti¬",
+            "mens pour mas patrie, encore que ie perde l’eſperance",
+            "d’y retoutner; &amp; certainement à moins que d’eſtre",
+            "Eeieieier edei",
+            "A ij"
+        ],
+        [
+            "4",
+            "i’ayme d’vn amour tendre les Franç̧ois, les ayant",
+            "touſiours reconneu pleins de ſincerité &amp; d’affection,",
+            "&amp; ie voudrois pouuoir leur en donner des teſmoi¬",
+            "gnages.",
+            "l’ay interrogé ce porteur de nouuelles, d’où̀ ve¬.",
+            "oit le ſuiet de ces combuſtions:il m’a dit que le Car¬",
+            "dinal Mazarin eſtoit l’aurtheur de tous ces ſouleue¬",
+            "mens, &amp; que Meſſieurs de voſtre Parlement &amp; tout",
+            "voſtre peuple s’eſtant veu fort inſolentés de ſes vio¬",
+            "lences, le peuple criant hautement qu’il n’y auoit plus",
+            "d’argent dans vos coffres, ny dans ceux du Roy, &amp;",
+            "que toutes les Prouinces eſtoient preſque reduites à",
+            "la beſace, qu’on a taſché d’arreſter le cours de ſes vo¬",
+            "leries, ſoit par arreſts qu’on a donné́ contre luy, ſoit.",
+            "par armes defenſiues qu’on a priſes Ce qui l’a obligé",
+            "de faire en ſorte aupres de vous, de retirer leRoy hors",
+            "de Paris,de vous faire. voir offencée de leur procedé,",
+            "comme par affront, &amp; de leuer des gens de guerre,",
+            "pour reparer ce tort imaginaire qu’il vous fait croire",
+            "auoir receu.",
+            "Il m’a dit que pourſatisfaire à la paſſion de ce Car¬.",
+            "dinal, que vous auez obligeé la pluſpart de Meſſieurs",
+            "vos Princes à prendre les armes, &amp; à ſe declarer hau¬",
+            "tement concre Paris, comme idls ont fait, l’ayant in¬:",
+            "ueſti auec des gens deguerre de tous coſtez; mais ie",
+            "m’eſtonne fort comme vous &amp; eux vous eſtes em¬",
+            "barqueés dans vn ſi grand danger, où l’on voit toutes",
+            "les marques d’vn aſſeuré naufrage. I’ay demeureé long.¬",
+            "temp,"
+        ],
+        [
+            "5.",
+            "temps dans Paris; mais ie n’ay iamais reconnu les Pa¬",
+            "riſiens pour ſeditieux, au contraire touſiours tres¬",
+            "affectiõnés au ſeruice de leur Roy Ie veux croire tres",
+            "certainement qu’l faut qu’ls ayent eu vne bien iuſte",
+            "cauſe pour ſe ſouſleuer, apres les auoir veu ſi ſouples",
+            "&amp; ſi obeiſſans; D’ailleurs ie m’eſtonne tres fort que",
+            "voulez attaquer vne Ville qui eſt vn petit monde où",
+            "l’on voit tant de ſortes de gens: ie veux que vos ar¬",
+            "mées ſoit bien fortes, mais que pourront-elles faire",
+            "contre tant de peuple, &amp; contre des perſonnes qui",
+            "defendent leur libert́ &amp; leut patrie? Ie veux croire",
+            "que vous auez eu depuſſantes raiſons, mais en veri¬",
+            "té ie vois tant d’obſtacles à vos deſſeins, que cela",
+            "me faict croire qua vous n’y perdrez que voſtre",
+            "peine.",
+            "Et ce qui confirme ma penſée, c’eſt qu’il m’a dit",
+            "que non ſeulement Paris eſt en armes, mais encore",
+            "outes les villes de voſtreRoyaume. Il faut que Mon¬",
+            "ſieur le Cardinalait bien mal traicté toute la France,",
+            "pour la voir reduite à cette extremité; car quand",
+            "i’eſtois en France, il ne commençoit que d’eſtablir",
+            "peu à peuſopouuoir,encore y auoit il beaucoupde",
+            "peine, mais ie vois bien maintenant qu’il l’a ſi bien",
+            "eſtably, qu’il s’eſt fait craindre &amp; hair, c que ne font",
+            "pas les bons Politiques; car ſe voyans en cet eſtat, ils",
+            "raſchent de ſe procurer l’amour &amp; le bien-veillance",
+            "de tout le monde."
+        ],
+        [
+            "Cependant, Madame, dans ce deſordre, i’ay",
+            "vne plainte à̀ vous faire, que vous voulez que ie",
+            "ſois comme vous miniſtre de ſa paſſion, il ne",
+            "m’a iamais obligé à ce point, &amp; d’ailleurs i’ay",
+            "trouſiours trop ay mé &amp; eſtimé les Pariſiens, pour",
+            "vouloir leur faire la guerre: Comment en vien¬",
+            "drois-e aà cette extremité, moy qui reſpondrois",
+            "de leur innocence &amp; de l’integrité de leur affe¬",
+            "tion? ce n’eſt pas mon deſſein pourtant, vous",
+            "vous ſeruez des gens de guerre que ie vous ay",
+            "enuoyez pour faire la guerre à vos propres enne¬",
+            "mis, vous vous en ſeruez pour faire la guerre à",
+            "vos propres Suiects, que ie ſcçay eſtre mes com¬",
+            "patriotes, &amp; quoy sil y a du mal, vous voulez",
+            "que i’en ſois complice: ie veux roire qu’on vous",
+            "a offencée, mais au moins, Madame, deuiez",
+            "vous prendre la peine de nous en aduertir auant",
+            "que vous ſeruir de nos troupes pour voſtre deſſein,",
+            "mais vous auez bien vſé́ de preuoyance, ſcachant",
+            "bien que ie ny conſentirois iamais, &amp; vous auez",
+            "employé les Polonois comme gens qui depen¬",
+            "doient entierement de vous, pourtant iay non",
+            "ſeulement deplaiſir de leur perte, mais de voii",
+            "quils combattent contre moy-meſme, puis qu’ils",
+            "combattent contre mon pays, i’ay droict de ſouhait¬",
+            "leur mort, pour ſouhaitter la conſeruaton de ma",
+            "patrie. De grace, Madame, prenez y garde, ne",
+            "2"
+        ],
+        [
+            "me donné, pas le deplaiſir de voir que mes gens",
+            "ſeruent aà deſtruire, s’ils le peuuent, le leu de",
+            "ma naiſſance, ie ſç̧ay bien le reſpect &amp; l’amour",
+            "que ie dois auoir pour le Roy voſtre fils, &amp; pour",
+            "vous, ie le conſerueray toute ma vie; mais de",
+            "voſtre coſté, ie vous ſupplie de correſpondre à",
+            "mes pieuſes intentions, qui ne tendent qu’à̀ voſtre",
+            "repos &amp; à celuy de ma parie."
+        ],
+        [
+            "d¬",
+            "S",
+            "N",
+            "ooaaoo GOogle"
+        ]
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-30",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, sur l'avis que monseigneur\n          le prince de Conty a donné, de l'entrée de l'archiduc Léopold en France.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-03-22",
+                "#text": "daté du 22 mars 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT.",
+            "SVR L'ADVIS QVE MONSEIGNEVR",
+            "le Prince de CONTY a donné à l'entrée de",
+            "l'Archiduc Léopold en France.",
+            "Du 22. Mars 1649",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "EXTRAICT",
+            "DES REGISTRES",
+            "DE PARLEMENT.",
+            "CE IOVR, la Cour toutes les Chambre",
+            "aſemblees, le Sieur Coadjureur à l’Arch",
+            "ueſché de Paris, a dit, Que Monſieur le",
+            "Prince de Conty, qui eſt indiſpoſé, l’auoit",
+            "chargé de dire à la Cour, Que hier il receut nouuelle",
+            "de l’Archiduc, qui luy mande, qu’eſtant entré en France",
+            "il deſire de leuer le ſoubçon que l’on pourroit prendre",
+            "de ſa marche, &amp; faire coiſtre à tout le Royaume, qu’il",
+            "y vient cherches la Paix, &amp; non pas faire la guerre, Pour",
+            "cét effet, offre d’arreſter ſes armes, pourueu que la Ry",
+            "ne donne des Deputez pour terminer tous les dife",
+            "rends des Couronnes, Que ledit Sieur Prince de Conty",
+            "n’auoit pas iugeé à̀ propos de laiſſer paſſer cete occa",
+            "fion ſi glorieuſe à la France, fi importante &amp; ſi fauo",
+            "rable à la Chreſtienté; Auoit pour ce ſujet enuoyéaux",
+            "Deputez de ſa pare, ordre d’inſiſter ſur cette Propo",
+            "fition, Supplioit la Compagnie d’en conſiderer lm",
+            "porrance, &amp; de donner le meſme ordre à ſes Depute",
+            "Proteſtant de ne rien tant deſirer au monde, &amp; d’y ſa",
+            "crifier tous les intereſts pariculiers; Et ſi l’Archiduc",
+            "ſevouloit preualoin de l’etat auquelſe rouue preſen",
+            "ement la FErance, declare ledis Sieur Prince de Cont,,"
+        ],
+        [
+            "4",
+            "qu’il eſt pret de rendre au Roy &amp; au Publie, os la",
+            "eſmoignages d’afection, de ſeruice &amp; d’obeiſanoe.",
+            "que doit vne perſonne de ſa naiſſance. Et ſur ce oüy",
+            "le Procureur General, La matiere miſe en deliberation; l",
+            "La1Te CovR a arreſteé, qu’il en ſera fait registre,",
+            "autant duquel ſera enuoyé aux Deputez de ladite Cour",
+            "eſtans à Sainct Germain, pour le faire ſçauoir au Roy",
+            "&amp; à la Reyne, pour en diſpoſer ſeloina ſa volonté",
+            "Fait en Parlement le vingt-deuxié́me Mars mil ſix",
+            "cens quarente-neuf. Signé, DV TILLET.",
+            "Collationné aà l’originmal par moy Coſeiller Sao?",
+            "aire dus Ray &amp; de ſes Fiaanaes."
+        ]
+    ]
+}

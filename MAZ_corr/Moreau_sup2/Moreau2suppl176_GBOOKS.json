@@ -1,0 +1,146 @@
+{
+    "imprimatur": "Auec Priuilege du Roy.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "narration",
+        "subject": "Impôts",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-11",
+            "@who": "AB"
+        },
+        "titre": "Relation véritable de tout ce qui s’est fait et passé à\n          la delibération prise par les gens des trois estats du païs de Languedoc, assemblés par\n          mandement du roy en la ville de Pezenaz es mois d'octobre et novembre 1650, du troisième\n          dudit mois de novembre, président monseigneur l'archevêque de Narbonne.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2026-04-20",
+            "#text": "26 avril 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1650-11",
+                "#text": "en novembre ou décembre 1650"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000367213580",
+            "@xml:id": "IL_SassierGuillaume.xml",
+            "persName": {
+                "forename": "Guillaume",
+                "surname": "Sassier"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "RELATION",
+            "Veritable, de tout ce qui",
+            "S’eſt fait &amp; paſſé à la Delibe.",
+            "ration priſe par les Cens des",
+            "trois Eſtats du pais de Lan",
+            "A4g 4",
+            "guedocãſſenblés par Man",
+            "dement du Roy en la ville",
+            "de Pezenaz és mois d’Octo",
+            "bre &amp; Nouembre 1õo.",
+            "Du roiſi’me dudit mois de Noue re, P",
+            "dent Monleigneur rcneueſqu d.",
+            "Narbonne.",
+            "E ſieurde la Mmye Seindie Gene",
+            "&amp;e ual dir, Que las Conſeilers que le",
+            "Palement de Tholoſe a Depure",
+            "pour l’execution de la Declaration",
+            "oy ue nois ao a le onu e ee",
+            "A",
+            "l"
+        ],
+        [
+            ".1",
+            "à la liquidation des fraiz &amp; deſpences de plu",
+            "ae",
+            "J ſieurs Ccommunaute des Dioceſes de Th",
+            "louſe, Alby, Lavaur, S. Papoul, Bas Montau",
+            "ban &amp; Comminge, pretendans auoir eſteé fai",
+            "s ’par les logemens fixes des gens de guerre l",
+            "éd annéesis 8. 649. &amp; 165o. &amp; ordonné que",
+            "les Receueurs des Tailles deſdits Dioceſes",
+            "tiendront en conte aux Conſuls deſdits lieux",
+            "les ſommes contenuës eſdites liquidations ſur",
+            "leurs portions des Tailles &amp; autres Impoſitions",
+            "de laditre Prouince; &amp; leur auroit enjoint de",
+            "leur fournir quittance valable, auee deffences",
+            "de pour raiſon de ce les inquieter &amp; moleſter en",
+            "faç̧on quelconque, Mais d’autant que celare",
+            "tarde la leuée des lmpoſitions accordées par",
+            "les Eſtats qui ne peuuenc eſtre arreſtées par les",
+            "Arreſts d’aucunes Compagnies Souueraines,",
+            "auſquelles impoſitions les Diocſes Villes &amp;",
+            "Communautez ouent deterer aueuglément,",
+            "&amp; que meſme la plus grande partie de ce qui",
+            "reſte à payer eſt pour les debtes &amp; affaires de",
+            "ladite Prouince, il eſt tres-important d’y pour",
+            "uoir; Lecture faite deſdites Ordonnances, en¬l",
+            "ſemble de l’Arreſt du Conſeil, portant caſſa",
+            "tion d’icelles, &amp; des Arreſts du Parlement,",
+            "en vertu deſquela leſdits Commiſſaires oat!"
+        ],
+        [
+            "procedé: A eſté deliberé́ que les Treſcriers",
+            ".,",
+            "de la Bource enuoiront dés demain leur Com",
+            "4",
+            "mis, pourfaire ſegnifier l’Arret du Conſeilax",
+            "Receueurs des Tailles deſdits Dioceſes; afin",
+            "qu’à leur diligence ils le faſſent ſignifier aux",
+            "Communatez qui ſont en reſte des impoſi",
+            "tions faites l’année mil ſix cens quarante-neuf,",
+            "&amp; mil fix cens cinquante, leſquels Commis",
+            "feront faire les executions neceſſaires, aſſiſtez",
+            "d’vn Scindic ou Deputé des Eſtats de châque",
+            "Dioceſe, qui eſt en demeure pour leſdires",
+            "impoſitions, que l’Aſſemblé́e a chargé de te",
+            "nir la main à̀ la prompte leuée deſdits deniers.",
+            "&amp; faire entendre, où beſoin ſera, les reſolu",
+            "tions qu’elle a priſe de pourſuiure en cas de",
+            "refus l’execution dudit Arreſt du Conſeil, &amp;",
+            "preſente Deliberation par toutes voyes; N’em",
+            "peſchant que leſdits Commis ne prennent pour",
+            "ceét efect des Gardes ae MeIieurs les Leure",
+            "aans du Roy dans la Prouince.",
+            "Signé, CLA VD DE REBE’, Archeueſque",
+            ". de Narbonne Preſident.",
+            "Es plus bas,"
+        ],
+        [
+            "Du Mandement de Meſdits Seigneurs des",
+            ". Eſtats,",
+            "Signé, GvILLMINRT.",
+            "Coltionne par osoy Coaſeiller s Secreraire das",
+            "Roy &amp; de ſes Finanees.",
+            "CO QVLL.",
+            "A PARIS;",
+            "Chés Guillaume Saſier, Imprimeur &amp; Libraireé",
+            "ordinaire du R oy, de Mr l Mar-ſ-al de",
+            "l’Hoſpital, Gouuerneur de Paris, ruë des",
+            "Cordiers, proche la Sorbonne, aux",
+            "deux Tourterelles. 165j0.",
+            "Auec Priuilege du Roy."
+        ]
+    ]
+}

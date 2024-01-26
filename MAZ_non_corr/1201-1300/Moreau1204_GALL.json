@@ -1,0 +1,183 @@
+{
+    "imprimatur": "AVEC PERMISSI0N.",
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2021-11-12",
+            "@who": "AB"
+        },
+        "titre": "Éloge (l’) de monseigneur le prince de\n                    Conty.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": "(Veuve d'Antoine)",
+                "surname": "Coulon"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "L'ELOGE",
+            "DE MONSEIGNEVR",
+            "LE PRINCE",
+            "DE CONTY",
+            "A PAR1S,",
+            "Chez la vefue d’ANTHOINE COVLON, ruë d’Eſcoſe,",
+            "aux trois Cramailleres.",
+            "M. DC. XLIX.",
+            "AVEC PERMISSI0N."
+        ],
+        [
+            "L'ELOGE",
+            "DE MONSEIGNEVR",
+            "le Prince de Conty",
+            "PARIS ſois maintenant en joye.",
+            "Apres tant de pleurs &amp; ſouſpirs:",
+            "Reçois ce que le ciel t’enuoye",
+            "pour fauoriſer tes deſirs.",
+            "ARMAND dvn ſeul coup de tonnere.¬",
+            "A Foudroyé deſſous la terre,",
+            "L’eſperance de tes mutins:",
+            "Et bien qu’vn Eſtranger medite,",
+            "le eie ene ne eoenen den",
+            "Vn plaiſir ſecret me tranſporte,",
+            "Que jamais homme n’a cogneu;",
+            "La guerre domeſtique eſt morte,",
+            "Le Siecle d’or eſt reuenu.,",
+            "Nos maux, nos douleurs ſont paſſées,",
+            "Nous bannirons denos penſées"
+        ],
+        [
+            "¬",
+            "5",
+            "L’horreur desfers &amp; des priſons",
+            "Les ennemis noircis de crimes,",
+            "Seront chaſſez de nos maiſons",
+            "Comme maiſtres illegitimes.",
+            "Il ne ſe fera plus d’alarmes;",
+            "Nos biens nous ſeront aſſeurez:",
+            "Et pour finir toutes nos larmes",
+            "Les impoſts ſeront moderez.",
+            "Le Chef qui nous eſt lfauorable,",
+            "Promet vne paix ſi durable,",
+            "Qu’elle n’aura iamais de bou,",
+            "Et deuant la fin de l’année",
+            "Protecteur tuſeras par tout",
+            "D’vne Ville tres-fortunée.",
+            "Ie vois cette Paix pour nous plaire,",
+            "Deſcendre des lieux Immortels,",
+            "Et mettre bas cette colere",
+            "Qui la chaſſa de nos Autels.",
+            "La Clemence qu’elle reſpire.,",
+            "Me ſemble venir pour nous dire",
+            "Que nos maux ſont enſeuelis;",
+            "Et nous apportant l’innocence,",
+            "Pronet au Royaumedes Lys",
+            "De n’en oint bannir la preſence.",
+            "¬¬",
+            "Admirons"
+        ],
+        [
+            "5",
+            "Admironsſes beautez naifues,",
+            "Et ſon viſage gracieux,",
+            "Que cette couronne d’Oliue",
+            "Doit eſtre aggreable à nos yeux.",
+            "Que ie la regarde à mon aiſe,",
+            "Que ie l’adore &amp; que ie baiſe",
+            "Les doux veſtiges de ſes pas:",
+            "Car elle ne s’eſt point montrée",
+            "Auec plus d’éclat &amp; d’appas,",
+            "Aux habitans de la contrée.",
+            "Eſtranger qui veut nous ſurprendre,",
+            "Que tu ſeras bien allarmé,",
+            "Ne rencontrant plus que la cendre",
+            "Du feu que tu as allumé:",
+            "Si tu ne finis tes menées,",
+            "Tu ſçauras que tes deſtinées,",
+            "T’apreſtent vn foible rempart;",
+            "Puis qu’en ſortant de nos Prouinces,",
+            "Ie crois que tueours le hazard",
+            "D’eſtre valet d’vn de nos Princes.",
+            "Vn ſi grandmalheur t’enuelope,",
+            "Que meſme les flambeaux du ciel,",
+            "Eſmeus par les cris de l’Europe,",
+            "Se plaiſt à te verſer du fiel.",
+            "Lafortune deſabuſée,"
+        ],
+        [
+            "6",
+            "Se faſche de s’eſtre amuſée",
+            "Vn ſi long temps aupres de toy,",
+            "Cette aggreable vagabonde",
+            "Te meſpriſe en ſuiuant la loy",
+            "Du plus puiſſant Prince du monde.",
+            "Grand ARMAND que toute la France,",
+            "Eſtime ſans comparaiſon,",
+            "Tu nous vas mettrehors de ſouffrance",
+            "Par la force de ta raiſon.",
+            "Tes conſeils ietteront par terre",
+            "Celuy qui nous faiſant la guerre,",
+            "Sembloit deuoir nous engloutir:",
+            "Et le ſang qui eſt dans nos veines,",
+            "En veut dés à preſent ſortir",
+            "Pour arrouſer toutes nos plaines.",
+            "Cette ville eſt bien aſſiſtée",
+            "De ton excellent iugement:",
+            "Sans ta ſageſſe on l’eut portée",
+            "Dans vn eſtrange changement.",
+            "Car leursſhaines enracinée",
+            "Troubloient tellement nes journées,",
+            "Qu’elles n’auoient rien de ſerain,",
+            "Ie doute que fut deuenuë̈",
+            "L’autorité du Souuerain,",
+            "Si ton bras ne l’euſt ſouſtenuë."
+        ],
+        [
+            "7",
+            "Dans ce moment que ta prudence",
+            "Vint pour nous donner ſon ſecours,",
+            "Paris alloit en decadence,",
+            "Et tous les Grands nous eſtoient ſours:",
+            "Mais malgré toute leurs malice",
+            "Et leur diabolique artifice",
+            "Tu ſeras de tous adoré,",
+            "Apprenant aux pouuoirs ſuprémes,",
+            "Cet art qui eſtoit ignoré",
+            "De maintenir les Diademes.",
+            "A",
+            "le",
+            "n",
+            "n",
+            "FIN."
+        ]
+    ]
+}

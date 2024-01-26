@@ -1,0 +1,79 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Promesses (les) du prince de Condé.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "Sans Date",
+            "#text": "Sans Date"
+        },
+        "pubPlace": {
+            "@ref": "geonames:0000000",
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "s.i"
+    },
+    "texte": [
+        [
+            "eadees",
+            "eeeiia",
+            "8",
+            "1",
+            "D",
+            "PROMESSES",
+            "D V",
+            "PRINCE DE CONDE",
+            "e qu ene neſe de en oe eu¬",
+            "depueuis ouns us eues",
+            "at u ie ferois comme à̀ Rocroy",
+            "Ruiſſeler du ſang à outrance,",
+            "Tirant de l’Eſpagne raiſon",
+            "PEeone loue te e e e one",
+            "Et par vne Paix aſſeurée",
+            "L’honneur, la Fortune, &amp; les Loix",
+            "Dans le Royaume des François",
+            "Quant à la Ville Capitale,",
+            "eu",
+            "LES",
+            "Rendrois d’eternelle durée.",
+            "Aux Frondeurs, &amp; à leur Caballe",
+            "Ie puiſſe auoir le col caſſé",
+            "ieie e eie ene",
+            "l D",
+            "1"
+        ]
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Arrêt de la cour de parlement, portant qu'il sera\n                    fait assemblée, en l'hôtel de cette ville, pour aviser les (sic) moyens\n                    d'entretenir et augmenter les troupes levées contre le cardinal Mazarin, liberté\n                    du commerce et des passages, et pour le payement des rentes, dues par Sa\n                    Majesté.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "1 Ju",
+            "ll",
+            "DE pP1",
+            "oTArl",
+            "mbleeenl",
+            "uſalemoyen",
+            "l Tpa leue¬",
+            "J lberéducom",
+            "J pJentdes",
+            "onu,",
+            "Je",
+            "!",
+            "ei"
+        ],
+        [
+            "D ¬",
+            ".",
+            "1",
+            "A I I L",
+            "T7",
+            "DE LA COVR",
+            "1",
+            "DE PARLEMENT.",
+            "PORTANT QV’ILSERA FAIT",
+            "Aſſembleé́e en l’Hoſtel de cette Ville, pour ad.",
+            "uiſer les moyens d’entretenir &amp; augmenter les",
+            "Troupes leueées contre le Cardinal Mazarin,",
+            "liberté́ du commerce &amp; des paſſages, &amp; pour le",
+            "payement des Rentes deuës par ſa Majeſté́.",
+            "Da ereredy vingt-quatrieſime lilles ié52.",
+            "3",
+            "a",
+            "De l’lamnpnimerie de la Veufue I. G V1 1 oT. Imprimeaſe odl¬",
+            "uaire e ſon Aleſſe oyale, rue des Marounes,",
+            "proche l’Egliſe de la ’ agdeleine."
+        ],
+        [
+            "s¬",
+            "E",
+            "e¬",
+            "!",
+            "4",
+            "a",
+            "u",
+            "¬",
+            "o,o"
+        ],
+        [
+            "3",
+            "Apeé ’f’tp t’eât’ééûe",
+            "ETRAcT DES REGSTRES",
+            "de Parlememe.",
+            "Ae E iour la Cour, toutes les Chambres aſ¬",
+            "t ſemblees, Monfieur le Duc d’Orleans",
+            "oncle du Roy, &amp;e le ſieur Prince de Con¬",
+            "dé y eſtans; Apres auoir oû̈y Beſchefert",
+            "Sqrut pouit le proeureut Gemenl d Roy, &amp;",
+            "ayant deliberé ſur l’eſtat des affaires preſentes, &amp; exe¬",
+            "cution de l’Arreſt de ladite Cour du o. de ce mois &amp;",
+            "an; A OrRbo n ’&amp; ordonne, qu’il ſera fait in¬",
+            "ceſſamment vne Aſſemblée generale en l’Hoſtel de",
+            "cette Ville, en la maniere accouſtumée, pour aduiſer",
+            "aux moyens les plus prompts &amp; conuenables, afin",
+            "d’auoir des deniers pous employer aux neceſſitez pre¬",
+            "ſentes, libertez des paſfages, &amp; du commerce, ſeureté",
+            "&amp; defenſe de ladite Ville de Paris, &amp; éloignement du",
+            "Cardinal Mazarin, ſuiuant la Declaration du Roy, &amp;",
+            "Arreſt de ladite Cour; &amp; que les deniers prouenans",
+            "des Fermes des Gabelles, Aydes, cinqgroſſes Fermes,",
+            "Tailles, &amp; autres eſtans entre les mains des Compta¬",
+            "bles, Fermiers &amp; Redeuables, &amp; qui ſeront à l’adue¬",
+            "nir, ſeront apportez inceſſamment en ladite Ville de",
+            "Paris, pour eſtre employez au payement des Rentes",
+            "conſtituées ſur icelle, à la décharge de ſa Majeſté, &amp;¬",
+            "autres neceſſitez; nonobſtant tqus ordres &amp; empeſ¬",
+            "A ij"
+        ],
+        [
+            "chemefs fatrs ou àfaire: Fait deffenſes aaſditsCorms",
+            "ptables, Fermiers, Redevable, &amp; aà̀ toutes autres pee¬",
+            "lonnes de diuertir leſdis deniers à̀ peine du quadru¬",
+            "ple, aute puniioa Ejoimt au Ooiciers du Roy",
+            "lelaeie",
+            "des lieux, Maires, &amp; Eſeheuns des Villes d’y cenir la.",
+            "main. Et ſeront le preſent A rreſt, &amp; celuy du ao. de",
+            "ce mois enuoyez au utrps arlemens, qui ſeron",
+            "oint s Subſticuts dudit Proeureur enerl en cer¬",
+            "tr a pur u mqi. Fit en Parlemont la a2 lu¬",
+            "let654.",
+            "Signé DV TILLET.",
+            "Clolqaé́ ̀ Orgil, pae aoy Caaſeilla,",
+            "Srotauue u Qs, Majſn, (ouraae &amp;",
+            "ar de ſesFiaua.",
+            "3",
+            "2"
+        ],
+        [
+            "at deeaa aſ",
+            "bles, &amp; à̀ toutesavmp",
+            "deniersà̀ peine qu¬",
+            "jnineau Ofindl!",
+            "euns da Vilosdynil",
+            "t Arreſ, cdqu",
+            "Jees Pleens, qilf",
+            "Areſt: Etdn l!",
+            "Sailiagsali",
+            "SAr out hdar",
+            "procureus emda¬",
+            "parn Palalu",
+            "oy ruuni",
+            "oiadloa?",
+            "qo ddpala",
+            "ir",
+            "1"
+        ]
+    ]
+}

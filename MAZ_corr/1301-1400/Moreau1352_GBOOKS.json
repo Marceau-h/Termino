@@ -1,0 +1,112 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "registres"
+        ],
+        "subject": "Parlements",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-30",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Extrait des registres du Parlement contenant l’ouverture\n          des rôles.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-04",
+                "#text": "avril 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "2"
+    },
+    "texte": [
+        [
+            "E XTRAICT",
+            "DES REGISTRES",
+            "Contenant l’Ouuerture des Rooles.",
+            "Be¬"
+        ],
+        [
+            "h: AA",
+            "EXTRAICT DES RFGISTRES",
+            "vrep",
+            "de Parlement.",
+            "E iour la Cour pour remettre",
+            "’ordre des plaidoyries en icelle",
+            "qui auoit eſté interompu depuis",
+            "r quelque temps. A ordonné",
+            "&amp; ordonne ue l’ouuerture du Roo!",
+            "le d’Amiens publié auant les Roys ſe",
+            "fera Lundy prochain en huict iours dix",
+            "neufieſme de ce mois: Enſemble la publi",
+            "cation de celuy de Senlis. Ce iour.",
+            "d’huy pour eſtre plaidé deſdits deux Rool",
+            "les ledit iour de Lundy &amp; leMardy ſuiuant.",
+            "Que la pub’ication du Roole de Paris ſe",
+            "féra le dix-ſeptieſme de ce mois, pour eſtre",
+            "ouuert le Lüdy vingte-ſixieſme dudit mois,",
+            "&amp; en eſtre plaidé iuſqu’au Mardy dix-",
+            "huictieſme May incluſiuement, quiſeront",
+            "huict udiances: Que la publication du",
+            "Roolle de Champagne ſe fera le quinzie",
+            "me dudit mois, pour eſtre ouuert le Lũdy"
+        ],
+        [
+            "t ente-vieſme dudit mois, &amp; en eſtre plai",
+            "dé le Mardy enſuiuant. La publicacion du",
+            "Roole de Poictou le Samedy vingt",
+            "deuxieſme May veille de la Pentecoſte, Et",
+            "louuerture le Lundy ſeptieſme Iuin, &amp; en",
+            "eſtre plaidé iuſques auMardy fixiée Iuil",
+            "let enſuiuant: Qi ſontauſſi huict Audian",
+            "ces. La publication du Roolle de Lyon le",
+            "Samedy vingt-ſixieſme Iuin. Et l’ouuertu",
+            "re le douzieſme luillet pouren eſtre plai",
+            "dé ledit iour, &amp; le Mardy enſuiuant: La",
+            "publication du Roole de Chartres le Sa",
+            "medy3.Iuillet, &amp; l’ouuerture le Lundy dix",
+            "neufieſme dudit mois pou en eſtre plaidé",
+            "iuſqu’au Mardy troiſieſme Aouſt incluſi",
+            "uement, Qui ſont ſix Audiances: Et le",
+            "Semedy vingt-quatrieſmeluillet. La publi",
+            "cation du Roolle d’Angouleſme, &amp; l’ou",
+            "uerture &amp; la plaidoyrie le neu fieſme d’A",
+            "ouſt, qui ſera la derniere Audiancepubli,",
+            "que des Rooles ordinaires. Fait en Paf",
+            "lement le dixieſme Auril milſix cen qa",
+            "y",
+            "rante neuf. Signé GVYET.",
+            "2",
+            "iro"
+        ]
+    ]
+}

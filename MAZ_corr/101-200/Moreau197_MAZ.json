@@ -1,0 +1,185 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+            "Conti, Armand de Bourbon (1629-1666 ; prince de)",
+            "Longueville II, Henri (1595-1663 ; duc de)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Bretagne contre le\n          cardinal Mazavin et ses adhérents.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000123225884",
+            "orgName": "Parlement de Bretagne"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-03-22",
+                "#text": "22 mars 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121259642",
+            "@xml:id": "IL_PreuverayFrancois.xml",
+            "persName": {
+                "forename": "François",
+                "surname": "Preuveray"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DV PARLEMENT",
+            "Contre le CardinalMazarin, &amp; ſes",
+            "adherans.",
+            "Du vingt deuxieſme Mars 1651.",
+            "A PARIS,",
+            "Chez FRANCOIS PREVVERAY, Imprimeur ordin.",
+            "de Monſeigneur le Prince de Condé, ruë S. Iacques",
+            "proche de la porte, au Croiſſant d'argent.",
+            "M. DC. LI."
+        ],
+        [
+            "1",
+            "timens qu’elle auoit touſiours euë pour les perſonnes",
+            "de ſeſdirs Couſins les Princes de Condé &amp; de Conty,",
+            "qui ſont de ſon Sang, &amp; qui luy ont touſiours eſté",
+            "tres-chers, &amp; de celle de ſon Couſin le Duc de Lon",
+            "gueville qui luy eſt auſſi tres-conſiderable; Sa Maje",
+            "ſteé a voulu rendre l’affection qu’elle auoit pour eux",
+            "compatible auce les ſoins qu’elle eſtoit obligé́e d’ap",
+            "porter pour la ſeureté de ſon Royaume: Ce qui au",
+            "roit fait audit Seigneur Roy ſoigneuſement recher",
+            "ther les cauſes &amp; les autheurs de ces aduis, &amp; enfin re",
+            "connu qu’ils n’auoient aucun fondement veritable",
+            "que la mal-veillance de leursennemis, qui auoit don",
+            "mé lieu aux ſoupcons qu’on luy auoit voulu faire",
+            "prendre de leur conduite. Dequoy eſtant bien infor",
+            "né il auroit eſtimé qu’vne plus longue detention de",
+            "ſeſdits Couſms, eſtoit non ſeulement injuſte, mais",
+            "uſſi le priueroit de leurs ſeuices, &amp; ſpecialement des",
+            "aſſiſtances qu’il pourroit tirer de ſondit Couſin le",
+            "Prince de Conde; ſoit par ces Conſeils en l’admini",
+            "ſtrarion de ſes affaires, ſoit de ſon courage &amp; de ſon",
+            "experiance en la conduite de ſes Armées, ainſi qu’il",
+            "ey-deuant fait en pluſieurs occaſions ſignalées de",
+            "puis l’Aduonement de ſa Majeſté à laCouronne, O",
+            "larapporre ſes Vietoires glorieuſes pour ſa Majeſt́,",
+            "Raduartageuſes à la France: Et qu’au contraire lali",
+            "bert́ qu’elle leur acorderoit poreroit les ennemis",
+            "le fon’Eſtat i conſentirà la Paix oenerale qu’elea",
+            "rouſiours tant de fois deſirée, en leur faiſant perdre",
+            "les eſperances qu’ls auoient conceués, que leur plus",
+            "longue"
+        ],
+        [
+            "longue detentionl’engageroit dansvne guere Ciui¬72",
+            "le, de laquelle ils tireroient des aduantages tres- con",
+            "ſiderables pour continuer la guerre: Ioint auſſi que",
+            "dans vne affaire de cette importance, ſadite Majeſté",
+            "auroit eu eſgard aux tres-humbles ſupplications qui",
+            "luy auroient eſté faites par ſon Parlement de Paris.",
+            "Par ces Raiſons &amp; par l’Aduis de ladite Dame Reyne",
+            "Regente ſa Mere, de ſon Oncle le Duc d’Orleans, &amp;",
+            "autres grands &amp; notables perſonnages de ſon Con",
+            "ſeil, a pris reſolution d’appeller ſeſdirs Couſins pres",
+            "de ſa Perſonne: Mais comme il importe que leur de",
+            "tention &amp; les Letrres de Cachet que ſa Majeſté auroit",
+            "enuoyées dans les Parlemens &amp; dans les Prouinces",
+            "pour en declarer les motifs, ne laiſſent aucune im",
+            "preſſion dans les eſprits au prejudice de leur innocen",
+            "ce, &amp; de la fidelité qu’ils ont touſiours conſeruées",
+            "pour ſon ſeruice &amp; les intereſts de ſa Couronne, il",
+            "leur en veut rendre vn teſmoignage public par ſeſdi",
+            "res Lettres. ACESCAVSES, ledit Seigneur Roy dit",
+            "&amp; declare par leſdites Lettres, Que non ſeulement",
+            "ſeſdits Couſins ſont innocens des ſoupçons deſquels",
+            "on a voulu charger leur honneur &amp; leur reputation,",
+            "mais auſſi que tous leurs deportemens &amp; les actions",
+            "dudit Prince de Condé n’ont eſteé que pour affer",
+            "mir &amp; accroiſtre l’autorité de Sa Majeſté, &amp; pour",
+            "le bien &amp; la grandeur de ſon Eſtat, dont il demeure",
+            "vne entiere ſatisfaction audit Seigneur Roy, qui le",
+            "conuie à luy donner toute part à ſa confiance, ce fai",
+            "ſant il caſſe &amp; annulle leſdites Lettres de Cachet du"
+        ],
+        [
+            "1",
+            "6",
+            "Ianuier 165o. &amp; tout ce qui s’eſt fait &amp; en",
+            "ſuiuy contre ſeſdits Couſins, depuis le jour de leur",
+            "detention, juſques à preſent; Et deſirant les traitter",
+            "fauorablement ſelon le rang de leur Naiſſance, &amp; la",
+            "conſideration des grands ſeruices qu’ilsont rendus à",
+            "ſon Eſtat, les a reſtablis en leurs Honneurs, Dignitez,",
+            "Charges, Offices, Gouuernemés des Prouinces, &amp; Ca",
+            "pitaineries desPlaces, Veut &amp; luy plaiſt qu’ils enjoiiiſ",
+            "ſent auec tous les pouuoirs &amp; droits à iceux aparte",
+            "nans, tout ainſi qu’ils faiſoient auparauant leur de",
+            "tention &amp; Arreſt, ainſi que plus au long eſt contenu",
+            "auſdites Lettres. Concluſions du Procureur General",
+            "du Roy, &amp; tout conſideré: LA CovR a ordonné",
+            "&amp; ordonne que leſdites Lettres ſeront Regiſtrées au",
+            "Greffe d’icelle: Le Roy &amp; la Dame Reyne Regente",
+            "ſa Mere, tres-humblement remercieés de la liberté",
+            "des Princes de Condé, de Conty, &amp; Duc de Longue",
+            "ville, &amp; de l’eſloignement ſans eſperance de retour",
+            "du Cardinal Mazarin, autheur de leur detention, &amp;",
+            "perturbateur du repos publie, luy enjoint de ſortir",
+            "du Royaume. Fait deffences aà tous Gouuerneurs,",
+            "Capitaines de Places, Maires, Eſcheuins &amp; Commu",
+            "nautez de luy donner retraite, à ſes parens &amp; dome",
+            "ſtiques eſtrangers ſur peine de la vie, &amp; en cas de con",
+            "trauention, permet de leur courir ſus. Ordonne que",
+            "leurs Majeſtez ſeront tres-humblement ſupplié́es",
+            "d’exclure à l’aduenir des Conſeils du Roy, tous",
+            "Eſtrangers, quoy que naturaliſez, &amp; d’en faire expe",
+            "dier Lettres de Declaration. Sera le preſent Arreſt"
+        ],
+        [
+            "leu &amp; publié en l’Audiance de ladite Cour, affché́ &amp;7",
+            "publié à ſon de Trompe &amp; cry public, par tous les",
+            "Carrefours de cette Ville, &amp; ledit Arreſt &amp; copie",
+            "deſdites Lettres enuoyées aux Sieges Preſidiaux &amp;",
+            "Royaux de ce reſſort, pour y eſtre pareillement leuës",
+            "&amp; publiées à la diligence des Subſtituds du Procu",
+            "reur General. Enjoint à tous les ſujets du Roy de",
+            "renir la main à̀ l’execution dudit Arreſt Fait en Par",
+            "lement le 22. Mars 16̃51.",
+            "Signé,",
+            "MONNERAYE."
+        ]
+    ]
+}

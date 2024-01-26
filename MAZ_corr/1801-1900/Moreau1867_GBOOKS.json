@@ -1,0 +1,174 @@
+{
+    "imprimatur": "Auec Permiſſion.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-02-19",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-27",
+            "@who": "AB"
+        },
+        "titre": "Lettre d'un gentilhomme à monseigneur le duc d'Orléans,\n          pour l'obliger de revenir à Paris et y rétablir le repos et la tranquillité\n          publique.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "D."
+                }
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000001796013",
+            "@xml:id": "IL_DuPontPierre.xml",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Du Pont"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "D’VN GENTIL-HOMME",
+            "A",
+            "MONSEIGNEVR",
+            "LE DVC D’ORLEANS,",
+            "Pour l'obliger de reuenir à̀ Paris, &amp; y reſtablir",
+            "le repos &amp; la tranquillité publique.",
+            "A PARIS,",
+            "Chez PIERRE DV PONT, au Mont S. Hilaire,",
+            "ruë d’Eſcoſſe.",
+            "M. DC. XLIX.",
+            "Auec Permiſſion."
+        ],
+        [
+            "3",
+            "LETTRE D'VN GENTIL",
+            "homme à Monſeigneur le Ducd’Orleans, pour",
+            "l'obliger de reuenir à Paris, &amp; y reftabdlir le",
+            "repos &amp; la rranquillité publique.",
+            "MONSEIGNEVR,",
+            "Ie trahirois la France, le reſpect &amp; l’hon",
+            "neur que ie dois à voſtre Alteſſe Royale, ſi",
+            "dans l’occaſion la plus importante qui ayt eſté",
+            "depuis l’eſtabliſſement de la Monarchie, ie",
+            "ne Vous reprceſenrois auec toute ſorte de ſouſ",
+            "miſſion, le pouuoir que vous auez d’appaiſer",
+            "tous nos deſordres, &amp; de donner la tranqui",
+            "lité &amp; le repos à cét Eſtat, qui eſt preſt d’eſtre",
+            "mis en pieces, &amp; d’eſtre le ioüet &amp; le butin de",
+            "tous les Ennemis de ce Royaume. Ie ſç̧ay bien,",
+            "MONSEIGNEVR, que pour parler di",
+            "eieeieli e",
+            "A ij",
+            "."
+        ],
+        [
+            "1 ques a a ummere u ooiei pius agreaoie",
+            "il lafaut dé́guiſer auec vn verre peint &amp; colo0",
+            "ré. le ſçay bien encore que pour complair",
+            "abſolument à vn Prince, il faut auoir l’eſpri",
+            "du Fauory, c’eſt à dire, ne parler. que par ſo",
+            "organe, &amp; ne dire que ce qui luy plaiſt. Mais",
+            "MONSEIGNEVR, i’ay vne ſi parfait",
+            "cognoiſſance de la grandeur &amp; perfectiôn de",
+            "inclinations de V. A. R. que dans cette occa",
+            "ſion, elle appelleroit trahiſon, ce déguiſemen",
+            "ciuiil, que quelques-vns pratiquent qui s’ap",
+            "pfochent d’elle: La grandeur de ſon eſprit",
+            "qui ne peut ſouffrir vnnuage qu’elle ne perce",
+            "n’eſt point capable ny d’illuſion, ny de ſurpri",
+            "ſe; &amp; ſon lugemeu eſt ſi elai 8- illuminé, qu",
+            "de quelque coſté que ſoit la verité ombragée",
+            "elle ſe la deſcouure. En fin, MON SE I",
+            "GNEVR, ie ne parlerois pas auec liberté, ſ",
+            "diſſimuler n’eſtoit vn crime, ſi ſe taire n’eſtoi",
+            "vne laſcheté, &amp; ſi tarder plus long-temps n’e",
+            "ſtoit perdre l’Eſtat, le Roy, &amp; le Royaûme",
+            "C’eſt pourquoy, MONSEIGNEVR, oſt",
+            "A.R. me perméttra de luy dire, Que ce n’eſt ri",
+            "d’eſtre ne de cette Tige Illuſtre de S. Louis",
+            "qu"
+        ],
+        [
+            "pour pIeueucs ¬2 ee7",
+            "Pete, Que ce ne ſeroit rien encore d’eſtre",
+            "Frere &amp; Oncle de Roy, d’auoir conſerué ce",
+            "Royaume de l’inuaſion des Eſtrangers, d’auoit",
+            "porté la terreur &amp; la erainte du nom François",
+            "parmy toutes les Nations du monde, ſi eſtant",
+            "ce que vous eſtes aà la France, vous ne ſau",
+            "uiez cét Eſtat d’vne guerre ciuile. Vous eſtes,",
+            "MONSEIGNEVR, Gouuerneur &amp; Lieute",
+            "nant General du Royaume de France, vous",
+            "auez droict de commander à toutes nos Ar",
+            "mées; les Subjets du Roy,à peine de felonnie,",
+            "ſont obligez de vous obeir. Qui vous empeſ",
+            "che, MONsEIGNEVR, d’impoſer ſilenceaux",
+            "deux Armé́es, &amp; d’apointer tous ces differents?.",
+            "Vous eſtes, MONSEIGNEVR, le ſeulMediateur",
+            "de nos deſordres, la ſeule perſonne qui ayt le",
+            "pouuoir &amp; l’authorite. Onvous a veu dans les",
+            "Conſeils &amp; au Parlement auec vne force d’eſ",
+            "prit &amp; vn iugement admirable, Et toute la",
+            "France ſç̧ait que vous ſeul, ſçauez mieux ſes",
+            "maux que tous les Miniſtres d’Eſtat enſemble.",
+            "Voſtre entremiſe ne peut eſtre. ſuſpecte, que",
+            "ous peut-on donner qui ne vous appartien¬"
+        ],
+        [
+            "ſtre integrité &amp; voſtre conſcience ne peuuent",
+            "ſouffrir aucune atteinte? On ſcait aſſez qu’on",
+            "vous a caché le mal qu’õ nous vouloit faire, &amp;",
+            "que ce feu qui brûle eſtoit couuert;s que voſtre",
+            "reſpect &amp; voſtre ſeule oppoſition empeſchent",
+            "que le Roy, qu’on nous a ſeulemẽt eſloigné, ne",
+            "nous ſoit rauy. Enfin,MONSEIGNEVR, vous",
+            "auez toutes les qualitez d’vn digne Entremet",
+            "teur de nos differents. Vous n’auez contribué",
+            "quoy que ce ſoit a nos maux, &amp; vous ne pou",
+            "uez, ſans nous faire ſouffrir plus que ceux qui",
+            "nous affſigent, retarder plus long-temps à no",
+            "ſtre tres-humble ſupplication, voſtre royale",
+            "preſence. Reuenez don, MONS E I GNEVR,",
+            "en voſtre Palais, &amp; ſç̧achez que ſes monſtres",
+            "de diuiſion &amp; de deſordre ſe diſſiperont à̀ vo",
+            "ſtre royal aſpect, que vous ſerez noſtre Her",
+            "cule, qui par vos trauaux inuincibles donne",
+            "rez le calme à cét Eſtat, Et ie me promets que",
+            "le Parlement &amp; les autres Compagnies Sou",
+            "ueraines, la Ville de Paris, tous les Princes &amp;",
+            "Seigneurs qui y ſont, &amp; tout le Royaume, vien",
+            "dront benir voſtre ſaincte reſolution, &amp; que",
+            "vous ſerez loüé́ de toutes les Nations eſtran¬"
+        ],
+        [
+            "d’obeiſſance &amp; de reſpect,",
+            "MONSEIGNEVR,",
+            "De voſtre Alteſſe Royale,",
+            "Le Tres humble, tres-obeïſſant &amp;",
+            "tres-fidele ſeruiteur, D."
+        ]
+    ]
+}

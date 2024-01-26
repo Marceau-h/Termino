@@ -1,0 +1,141 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Arrêt de la cour de parlement, portant défenses,\n                    à tous colonels, capitaines, lieutenants, officiers et gardes des portes de\n                    cette ville de Paris, de laisser passer aucunes personnes, de quelque qualité et\n                    condition qu'elles soient, avec passeport, que par les portes Saint-Jacques et\n                    Saint-Denys.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "I",
+            "I.",
+            "4",
+            "DE LACOVR",
+            "7",
+            "r¬",
+            "D A",
+            "T L",
+            "DE PARLEMENT,",
+            "PORTANT DEFENSES A TOVS COLONELS,",
+            "Capitaines, Lieutenans, Officiers &amp; Gardes des",
+            "Portes de cette Ville de Paris, de laiſſer paſſer",
+            "aucunes perſonnes de quelque qualité &amp; condition",
+            "qu’elles ſoient auec paſſe-ports, que par les Portes",
+            "Sainct Iacques &amp; Sainct Denis.",
+            "Du vingt-neufiéme Ianuier 16 49.",
+            ".",
+            "ee",
+            "la",
+            "ue",
+            "a¬",
+            "es",
+            "e",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majefté.",
+            "S1926"
+        ],
+        [
+            "el2",
+            "1",
+            "la",
+            "H*2",
+            "E 1",
+            "2¬¬",
+            "1"
+        ],
+        [
+            "AAAiAtAtuſdAAAt",
+            "ſſpeeepprps",
+            "EXTRAIC",
+            "D Tc D",
+            "T L",
+            "L L I L L",
+            ". D-l a n t",
+            "C aIIICI.",
+            "E iour, ſur ce qui a eſté repreſenté par",
+            "aucuns de Meſſieurs les Conſeillers",
+            "deputez pour les paſſe-ports, aſſemblez",
+            "en la Chambre de la Tournelle, Qu’au",
+            "prejudice de l’Arreſt du vingt-deux",
+            "iour du preſent mois de Ianuier, donné les Cham¬",
+            "bres aſſemblées, qui fait defenſes à toutes perſonnes",
+            "qui auront paſſe-ports, de paſſer par autres Portes",
+            "que celles Sainct Denis &amp; ſainct Iacques, Il y auoit",
+            "des Colonnels, Capitaines &amp; autres Officiers qui",
+            "ne laiſſoient de faire paſſer ceux qui auoient des",
+            "paſſe-ports de la Cour par autres Portes que celles",
+            "ſuſdites; ce qui eſt contraire à l’intention de la Cour.",
+            "La matiere miſe en deliberation: AARRESr E &amp;",
+            "&amp; ordonné, Que ledit Arreſt dudit iour vingt-deux",
+            "Ianuier ſera executé: Ce faiſant, fait iteratifues",
+            "defenſes à tous Colonels, Capitaines, Lieutenans,",
+            "Officiers &amp; Gardes des Portes de cette Ville de",
+            "Paris, de laiſſer paſſer aucunes perſonnes de quel¬",
+            "’que qualité &amp; condition qu’elles ſoient auec paſſe¬",
+            "ports, que par les Portes Sainct Iacques &amp; ſaint"
+        ],
+        [
+            "4",
+            "Denis, fors &amp; excepté ceux qui auront paſſe-port",
+            "de Monſieur le Prince de Conty, &amp; Meſſieurs les",
+            "Generaux pour le faict de la Guerre, auſquels per¬",
+            "met paſſer par telles Portes qu’ils deſireront. En¬",
+            "joint auſdits Colonels, Capitaines &amp; autres Offi¬",
+            "ciers, de laiſſer les paſſages libres entre les Habi¬",
+            "tans de cette Ville &amp; ceux des Faux-bourgs, leſquels",
+            "auront entiere liberté de paſſer &amp; repaſſer par telles",
+            "Portes qu’ils deſireront. Oonne que le preſent",
+            "Arreſt ſera leu, publié &amp; affiché́ par toutes les Por¬",
+            "tes &amp; Carrefours de cette Ville de Paris, &amp; Faux¬",
+            "bourgs d’icelle. Fa1cr en Parlement le vingt¬",
+            "neufiéme Ianuier mil ſix cens quarante-neufſ.",
+            "r re e¬",
+            "Signé, GVYET.",
+            "2",
+            "e"
+        ]
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "narration",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1652-07-02",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "La marche de l'armée de monseigneur le prince de Conty,\n          commandée par le marquis de Lusignan, pour le secours de la ville d'Agennois, assiegée par\n          monsieur le comte d'Arcourt. Avec l'ordonnance de mondit seigneur le prince, sur les\n          offres faites par les bourgeois & habitans de la ville de Bourdeaux, pour le secours\n          de ladite ville.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-05-25",
+            "#text": "25 mai 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000119302891",
+            "persName": {
+                "forename": "Armand",
+                "surname": "Conti (De)"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121290076",
+            "persName": {
+                "forename": "Guillaume",
+                "surname": "La Court (De)"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "1",
+            "e e ieie",
+            "DE L’ARME’E",
+            "rre¬ 7",
+            "DE CONT.",
+            "1",
+            "COMMANDE’E PAR LE",
+            "Marquis de Luſignan, pour le ſe cours",
+            "de la Ville d’Agennois, aſſiegée par",
+            "Monſieur le Comte d’Arcourt.",
+            "Auec l’Ordonnance de mondit Seigneur le Prince,",
+            "ſur les offres faites par les ourgeos &amp; Habitans de",
+            "la Vile de Bourdeaux, pour le ſecours de ladite Ville.",
+            "8e3",
+            "8o",
+            "A PA RIS,",
+            "Iouſte la copie Imprimée ̀ ourdeax;",
+            "Roy, &amp; de ſon Alteſſe.",
+            "M. DC. LII.",
+            "Aue Pemiaiun de ſu dlſe eoale."
+        ],
+        [
+            "&amp;ee",
+            "AV",
+            "LAS",
+            "re¬ 7",
+            "DE CONTY.",
+            "T",
+            "1",
+            "PRINCEVSNC,",
+            "Pir de France, Couuerneur &amp; Lieutenant Cene",
+            "ral pour le Poy en ſes Prouinces de Champagne, é&amp;",
+            "Srie, Generaliſſime des Armées de ſa Majeſté.",
+            "ES Bourgeois &amp; Habitans de cette",
+            "Ville, continuans de plus en plus a",
+            "Q nous donner des preuues de leur al.",
+            "ed fection au ſeruice du Roy, de Mou",
+            "ſieur le Prince &amp; le Noſtre, s’eſtans",
+            "offerts de donner des hommes pour ſecourir Vil",
+            "leneufve d’Agennois, aſſiegée par les Trouppes",
+            "de Monſeur le Comte d’Arcourt: NO vS en",
+            "acceptant leur bonne volonte; ORDONNONS,",
+            "à ceux qui voudront bailler des hommes, ou aller",
+            "en perſonne au ſecours de ladite Ville, de donner",
+            "leurs noms au Sieur Marquis de Luſignan, Lieute",
+            "nant General des Armées du Roy en Guyenne,",
+            "A ij"
+        ],
+        [
+            "i",
+            "ſouhs noſtre Authoriteé, pour en tenir eſta: Re",
+            "gler les Compagnies, les conduires &amp; faires mar.",
+            "cher le pluſtoſt qu’il ſe pourra, auec les Troup",
+            "pes reiglées, &amp; Milices que Nous tenons preſtes",
+            "pour cét effect: Enſemble les choſes neceſſaires",
+            "pour Ieurs ſubſiſtances. A IT Bourdaaux, e",
+            "9",
+            "deuxiéme iour de Iuillet 165a.",
+            "A.",
+            "a",
+            "3",
+            "3",
+            "DE BOVRON.",
+            "r",
+            "1",
+            "as",
+            "Et pus bas:",
+            "Par Monſeigneus,",
+            "N5¬93",
+            "MEVRET DELA TOVR.",
+            "Ll1.",
+            "1"
+        ]
+    ]
+}

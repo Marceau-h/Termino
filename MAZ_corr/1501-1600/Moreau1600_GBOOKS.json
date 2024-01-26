@@ -1,0 +1,171 @@
+{
+    "imprimatur": "AVEC PERMISSION.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "discours adressé",
+            "harangue"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-08-18",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-22",
+            "@who": "MF"
+        },
+        "titre": "Harangue faite au roi sur son heureux retour en sa ville\n          de Paris, et prononcée dans le Palais-Royal, devant Sa Majesté, le 3 septembre 1649, par\n          maître Jean Gabillaud, avocat en Parlement.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": "Jean",
+                "surname": "Gabillaud"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000114066324",
+            "@xml:id": "IL_VariquetPierre.xml",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Variquet"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "HARANGVE",
+            "FAITE",
+            "AV ROY,",
+            "SVR SON HEVREVX",
+            "Retour en ſa Ville de Paris;",
+            "ET PRONONCEE",
+            "DANS LE PALAIS ROYAL",
+            "deuant ſa Ma jeſté le 3. Septembre 1649.",
+            "PAR MAISTRE IEAN GABILLAVD",
+            "Aduocat en Parlement.",
+            "A PARIS,",
+            "Chez PIERRE VARIQVET, ruë S. Iean de Latran,",
+            "deuant le College Royal.",
+            "M. DC. XLIX.",
+            "AVEC PERMISSION."
+        ],
+        [
+            "3",
+            "IN OMINE IESV.",
+            "AV RO.",
+            "1.",
+            "SIRB. Voſtre Retourheu¬",
+            "reux &amp; fortupé SLRE en voſtre",
+            "bonne Ville. de Paris a eſcarté les",
+            "Troubles, olipſé. les Nuages de la",
+            "triſteſſe, &amp; redonné enfin vne joye",
+            "indicible, innoyable, comme le So",
+            "leil par ſon tetour ſur ſon Oriſon,",
+            "&amp; ſur rout ſon Emiſphere, diſſipant",
+            "neneieneie lone"
+        ],
+        [
+            "re commun de tous vos Sujets eſt à",
+            "tous, a eſté, &amp; ſera touſiours filiale",
+            "ment aymable &amp; cordialement de",
+            "ſirable, parce que par ſa Bonté &amp;",
+            "Clemence ordinaire, elle n’eſt pas",
+            "moins bien faiſante ſur tout ce qu’el.",
+            "le regarde, que le retour qu Soleil",
+            "qui infſuë ſans ſe laſſer la lumiere aux",
+            "Aſtres, embelliſſant lair d’vne agrea",
+            "ble clarté, eſchauffant la terre, &amp; la",
+            "rendant feconde, fauoriſe plus par",
+            "ticulierement l’Aurore.",
+            "Conme voûs faites, SIRE, cette",
+            "Fauorite &amp;t bhfidéte-du Ciel, 0",
+            "veux dire tette troisfoisgrandeRe",
+            "ne de France. MABAAE, MAb",
+            "e eiroe e ereue",
+            "neufe &amp;’irr paſ’ ’DMei bi",
+            "MEÉ, ANNE D’AVSTRIHE,path",
+            "grace de Dieu, laſſiſei das le Throſ",
+            "ne de la Soduiétainié Regence, o",
+            "me e Seil Cos, &amp; lidu",
+            "Royaume"
+        ],
+        [
+            "Royatme, done (il y aſong-temps",
+            "par la ſplendeur &amp; ſaincteté́ de ſon",
+            "ſang Royal vn luſtre brillant) non",
+            "ſeulement à toute la France, mais",
+            "emoe à̀ ous les Enpereurs, Roys",
+            "&amp; Monarque de l’Europe.",
+            "Voſtre retour à Paris, SIE, SRE.",
+            "comaencenene de Paix, fais en cé",
+            "temps pendant les deux Noſtre Da",
+            "me, &amp; d ſalnct Louys, la Feſte des",
+            "Tabernacles, faiſant de voſtre bon",
+            "ae Ville de Paris v autre petit Pa",
+            "radls, faiſane de voſtre bonne Vil",
+            "le de Paris ut autre Paradis, pa",
+            "les Diuines Lumieres dont le Ciel",
+            "vous a heureuſement partagé, auec.",
+            "plus de profuſion, qu’l na orne le",
+            "Soleil &amp; la Lune de betles quaſuez.",
+            "Ayant honoré la France de oſtre",
+            "Royale preſence, &amp; plas finguliere.",
+            "aent voſte preémiere ille du Mon",
+            "e, Paris ou vous auezauſſi toft a",
+            "B"
+        ],
+        [
+            "é",
+            "pcemier aſpect, diſipe! les eehas",
+            "des guerres, omme on eſpere:que",
+            "yousferez encore mieux, Dieu r",
+            "compenfant, vos vertus Martiale",
+            "ment Royales, &amp; Royalemept Mar.,",
+            "tiales, Martialement Royales, &amp;",
+            "Royalemjent Martjales, d’vee paix",
+            "generale. d’ne paix gperle.: deſi",
+            "rée de toure la Chreſtienté, &amp; tres4",
+            "glrieuſeà chute la Monarohje Eran",
+            "çoiſe,",
+            "Ce ſont les veux. Sie, Si.",
+            "d tous vos enfans &amp; ſuieſs quiif",
+            "plorent voſtre Royalerfauur&amp;pro!",
+            "tection dans vn temps ſl faſcheux &amp;!",
+            "difficile; C’eſtce qu’ils eſperent des",
+            "effets de la bonté extreme, diain ze",
+            "les &amp; pieté Aglique de voſtreſa",
+            "jeſté, pour la gſire les. iereſts",
+            "de Diea, de l’gliſe, &amp; deoure la",
+            "France peur le ſinpr, &amp; veritable;",
+            "ſeruice d’vntreſage,tres-vertueux"
+        ],
+        [
+            "7",
+            "&amp; tres- puiſſant Monarque, comme",
+            "eſt voſtre Majeſté, SIRE, SIRE, de",
+            "qui nous ſommes tous, &amp; ſpeciale",
+            "ment voſtre tres- humble, tres-obeiſ",
+            "ſant &amp; tres-fidelle ſeruiteur &amp; Suiet,.",
+            "IEAN GABIL LA VD Aduocat.",
+            "Soli Dao Honor &amp; CGloria."
+        ]
+    ]
+}

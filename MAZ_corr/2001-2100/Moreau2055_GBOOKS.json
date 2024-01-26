@@ -1,0 +1,99 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-09-09",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Lettre de Son Altesse Royale écrite à la reine sur le\n          sujet de la paix.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121336441",
+            "persName": "Gaston d'Orléans"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-09",
+                "#text": "septembre 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
+            "persName": {
+                "forename": "Veuve de Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LETT",
+            "SON ALTESSE",
+            "olE",
+            "A LA REYNE.",
+            "sv LSvTpLAPa1X.",
+            "s",
+            "&amp;9"
+        ],
+        [
+            "J",
+            "¬¬.",
+            "a",
+            "e",
+            "e49",
+            "eox?",
+            "n?",
+            "r2 eeſb",
+            "LETTRE DE SON ALTESSE",
+            "Royale ̀ la Reyne, ſurle ſuje de laPa",
+            "ADAME.",
+            "Ayant appris auec vne extreme joye",
+            "par le Marquis de Ioyeuſe, les diſpoſi",
+            "tions fauorables qu’à voſtre Majeſté",
+            "lnelue eleneun e e",
+            "haittons mon Couſin &amp; moy tres paſ",
+            "ſionnement: Mais bien, MADA",
+            "ME, que le premier objet des vœux",
+            "qve nous en faiſons au Ciel doiue eſtre"
+        ],
+        [
+            "le bien de l’Eſtat, ie vous proteſte auec",
+            "verité, que l’inclination que i’ay toû̂",
+            "jours eü à honnorer parfaitement Vo",
+            "ſtre Majeſté, en eſt vne des principales",
+            "cauſes, &amp; qu’il n’en peut iamais arriuer",
+            "aucune qui puiſſe en rien alterer le ze",
+            "elafſection &amp; le reſpee aueoe leque",
+            "MADAME,",
+            "E",
+            "Voſtre tres-humble &amp; tres-obeiſant frere,",
+            "&amp; ſeruiteurGASTON.",
+            "Paris, ceao. Sepembre 162."
+        ]
+    ]
+}

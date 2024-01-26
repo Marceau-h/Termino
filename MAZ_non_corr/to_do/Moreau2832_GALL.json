@@ -1,0 +1,207 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Pour (le) et le contre de la cour.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:0000000",
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "L8¬",
+            "4d"
+        ],
+        [
+            "aule",
+            "LE",
+            "POVR",
+            "ET",
+            "CONTRE",
+            "DELA COVR."
+        ],
+        [
+            "l",
+            "--e erm ama-¬-¬",
+            "¬",
+            "ru ¬",
+            "¬"
+        ],
+        [
+            "Sſ&amp;&amp;eiieed&amp;eſessgees",
+            "LE",
+            "POVRETCONTRE",
+            "DE LA COVR.",
+            "I la Reine veut qu’on concluë",
+            "La paix auec le Parlement,",
+            "L Chacun ſçait qu’elle eſt abſoluë,",
+            "Et ferme dans ſon ſentiment:",
+            "A dire vray dans ce rencontre,",
+            "Ie vois bien du Pour &amp; du Contre.",
+            "Si le Duc d’Orleans ſe faſche,",
+            "Qu’on ne reſous pas promptement,",
+            "Il n’eſt peiſoune qui ne ſçache,",
+            "Qu’il peu changer dans vn moment:",
+            "Et l’on peu voi dans ce rencontre,",
+            "Qu’il eſt tantoſt Pour tantoſt Contre.",
+            "Si Madame le ſollieite,",
+            "A l’inſtant il luy promet tout,",
+            "Mais auſſi-toſt qu’elle le quitte,",
+            "La Riuiere cauſe vn dégout:",
+            "Et l’on voit bien en ce rencontre,",
+            "Qu’il eſt tantoſt Pour tantoſt Contre.",
+            "A ij"
+        ],
+        [
+            "4¬",
+            "Madamoiſelle à beau ce plaindre,",
+            "On n’entendpoint ſon ſentiment,",
+            "Mais elle qui ne veut rien craindre,",
+            "Ayme le peuple vniquement:",
+            "Et l’on voit bien dans ce rencontre,",
+            "Qu’elle prefere Pour au Contre.",
+            "Le Prince de Condé ’élance,",
+            "Et iure de perdre Paris,",
+            "Mais on ſçait que ſa violence,",
+            "Ne prouient que de nos Louïs:",
+            "Qui ne voudroit en ce rencontre,",
+            "Tater du Pour &amp; puis du Contre.",
+            "Le Comte d’Harcourt quoy qu’il die,",
+            "Et quoy qu’il ait quelques ſoldats,",
+            "N’a peu trouuer en Normandie,",
+            "Que des finets attrappe-lats,",
+            "Et l’on ſçait bien en ce rencontre,¬",
+            "Qu’il n’eſt pas trop Pour ny trop Contre.",
+            "Le Duc de Mercœur ſans rien faire,",
+            "Voit ſon frere agir vaillamment,",
+            "ll ne demande quà ſe taire,",
+            "Attendant tout l’euenement:",
+            "A dire vray dans ce rencontre,",
+            "Il quitte le Pour &amp; le Contre."
+        ],
+        [
+            "Le Duc Duzés ne peut point rire,",
+            "De toute cette hoſtilité,",
+            "S’il ſe reſerue à ſe produire,",
+            "Ce n’eſt que pour l’extremité;",
+            "Ie ſçais bien que dans ce rencontre,",
+            "S’il prend le Pour il n’eſt pas Contre.",
+            "Si le Sur-Intendant s’ennuye,",
+            "Des maux que ſa goutte luy fait,",
+            "On ſçait qu’il n’a plus grande enuie",
+            "D’authoriſer autun forfaict:",
+            "Ie crois moy que dans ce rencontre,",
+            "S’il prend le Pour il n’eſt pas Contre¬",
+            "Quoy que le Mareſchal de Guiche,",
+            "Veuille ſignaler ſa valeur,",
+            "On ſcait s’ilnous peut faire niche,",
+            "Que ce ſera par grand mal-heur:",
+            "Et l’on luy laiſſe en ce rencontre,",
+            "A choiſir le Pour ou le Contre.",
+            "Le Viceroy de Catalogne,",
+            "Ne manque pas d’affection,",
+            "Mais s’il s’auance ou s’il s’élogne,",
+            "Ce n’eſt pas par auerſion:",
+            "Et l’on ne ſçait en ce rencontre,",
+            "S’il aime le Pour ou le Contre."
+        ],
+        [
+            "Pour ce bon vieux Due d’Angouleſme,",
+            "On ſçait qu’il n’aime que Gros-bois,",
+            "Et que dans ſa vieilleſſe extreme,",
+            "On nele voit faire aucun cloix:",
+            "Et tous ſçauent en ce rencontre,",
+            "Qu’l ne peut terir Pour ny Conuré.",
+            "Perſonne n’ignore l’adreſſe",
+            "Du Mareſchal de l’Hoſpital,",
+            "Et l’on ſçait que dans ſa vieilleſſe",
+            "Il ne peut pas faire grandmal:",
+            "Et l’on ne ſet en ce rencontre,",
+            "S’il tient le Pour oubien le Contre.",
+            "Octroyezl’employ qu’il demande",
+            "Au Mareſchal de Villeroy,",
+            "Pourtant ſa charge luy commande",
+            "De ne quitter iamais le Roy:",
+            "Il ne ſçait pas en ce rencontre,",
+            "S’il tient le Pour ou bien le Contre.",
+            "Voſtre priſon eſt eſtonnante,",
+            "Vaillant Mareſchal de Rantzau,",
+            "Dans cette cruelletourmente",
+            "Eſpere le ſecours d’en-haut,",
+            "Car dans ce mal heuroux rencontre,i¬¬",
+            "On ne cognoſt ny Pour ny Contre."
+        ],
+        [
+            "Le Chancellier malgré l’enuie,",
+            "Ayme le Chapeau Cardinal,",
+            "L’vn le fit Grand, l’autre l’appuye,",
+            "Et luy fait ſi fort l’animal:",
+            "Ou’il monſtre bien dans ce rencontre,",
+            "Qu’il n’eſt point Pour, mais qu’il eſt Contre.",
+            "Iarre, Bautrus, &amp; Seneterre,",
+            "L’imitent dans ce beau deſſein,",
+            "Et comme ils approuuent la guerre,",
+            "Ils ne recherchent que le gain:",
+            "Qui fait bien voir en ce rencontre,",
+            "Qu’ils n’aiment le Pour ny le Contre.",
+            "Tubœuf Controlle ſans contrainte,",
+            "Alors qu’il prend part au profit,",
+            "Les Partiſans n’ont plus de crainte,",
+            "Veu qu’on approuue leur delict:",
+            "Ils auront apres ce rencontre,",
+            "Touſiours le Pour, iamais le Contre.",
+            "Mais pourtant chaecun eſt en peine,",
+            "Sçauoir quand le Roy reuiendra,",
+            "Ie dis, &amp; la choſe eſt certaine,",
+            "Que ce ſe ra quand on voudra:",
+            "A dire vray dans ce rencontre.",
+            "Ie vois bien duRour &amp; du Contre.",
+            "e",
+            "eſFIN"
+        ],
+        [
+            "¬.",
+            "l",
+            "Q"
+        ]
+    ]
+}

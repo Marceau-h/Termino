@@ -1,0 +1,106 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1650-01",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-05-04",
+            "@who": "MF"
+        },
+        "titre": "Lettre du roi écrite à sa cour de Parlement de Bordeaux,\n          ensemble sa déclaration et articles de paix, avec l'arrêt de ladite courdonné en\n          conséquence de ladite lettre, déclaration et articles.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "persName": "Louis XIV"
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000367213580",
+            "@xml:id": "IL_SassierGuillaume.xml",
+            "persName": {
+                "forename": "Guillaume",
+                "surname": "Sassier"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DU ROY",
+            "ESCRITE",
+            "A",
+            "ſa Cour de Parlement",
+            "de Bourdeaux.",
+            "Eſenmble ſa eclaration &amp; Articles de paix,",
+            "auec l’Arreſt de ladite Cour, donne en con",
+            "ſequence de ladite Lettre, Declaration &amp;,",
+            "Articles.",
+            "A PARIS,",
+            "Chez Guillaume Saſſier, Imprimeur &amp; Libraire",
+            "ordinaire du Roy, ruë des Cordiers, pro",
+            "che Sorbonne, aux deux Tourterelles.",
+            "M. DC. L."
+        ],
+        [
+            "DE PAR LE ROY.",
+            "T A",
+            "OS Ame &amp; Feaux; Deſirans",
+            "faire eeſſer les preſſens mouue",
+            "mens qui ſout en noſte Ville de",
+            "Rourdeaux &amp; aux enuirons, &amp; reé",
+            "rablir le repos &amp; la tranquillité́ en",
+            "ces quartiers, pour Nous donner d’autant plus",
+            "moyen de paruenir à la Paix generale, que Nous",
+            "voulons proeurer à tout noſtre Royaume, Nous",
+            "auons fait expedier la Declaration d’amnitie de",
+            "toutes les chſoes qui ſe ſont paſſees à l’oceaſion",
+            "deſdits mouuemens, &amp; arreſter les Articles que",
+            "Nous auons eſtimé à propos pour l’accommode",
+            "ment entier des affaires. &amp; enuoyant leſdites Er.",
+            "peditions à noſtre Couſin le Mareſchal du Pleſſis",
+            "Praſlin, Gouuerneur de noſtre tres-cher &amp; tres¬",
+            "Aymé́ Frere vnique le Duc d’Anjou, pour les faire",
+            "punctuellement executer; Nous vous faiſons cet",
+            "A ij"
+        ],
+        [
+            "te Lettre, de l’auis de la Reine Reg ente, noſtre",
+            "tres-honorée Dame &amp; Mere, pour vous mander",
+            "&amp; ordonner d’adjouſter creance à ce que noſtre",
+            "dit Couſin vous fera entendre; &amp; vous exhorter:",
+            "de contribuer tout ce qui dependra de vous pour",
+            "l’execution de ce qui eſt porté́ par noſtredite De",
+            "claration &amp; Articles; Vous confirmant de plus les",
+            "aſſeurances que noſtre tres cher &amp; Amé le Duc",
+            "d’Orleans à donnez de noſtre part à vos Depu",
+            "tez, &amp; nos bonnes &amp; ſinceres intentions en voſtre",
+            "endroit. DONNE’ à Paris le vingt-cinquié́me",
+            "jour de Decembre, mil ſix cens quarente-neuf.",
+            "Signé, LOVIS: &amp; pluus bas, PnLipaAv.",
+            "3",
+            "Ie ous donneray au preier jour la Declararion da",
+            "Royp, &amp; les Articles veritables."
+        ]
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "subject": [
+            "Catalogne (Espagne), 1640-1652 (Guerre des Moissonneurs)",
+            "Louis, roi de France, 1638-1715, XIV"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-01",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-02",
+            "@who": "AB"
+        },
+        "titre": "L'ambassadeur des États de Catalogne envoyé par don\n          Joseph de Marguerite à la reine régente, mère du roi, touchant les affaires de cette\n          province et la paix particulière et générale.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000110630725",
+            "@source": "BM_Lyon",
+            "persName": {
+                "forename": "Joseph de",
+                "surname": "Margarit, marquis d'Aguilar"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-04-01",
+                "@notAfter": "1649-07-31",
+                "@when": "1649",
+                "#text": "entre\n            avril et juillet\n            1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000063027789",
+            "@xml:id": "IL_MorlotClaude.xml",
+            "persName": {
+                "forename": "Claude",
+                "surname": "Morlot"
+            }
+        },
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "L’AMBASSADEVR",
+            "DES",
+            "ESTATS",
+            "DE",
+            "CATALOGNE.",
+            "ENVOYE PAR DOM IOSEPH",
+            "DE",
+            "MARGVERITE.",
+            "A la Reine Regente Mere du Roy, touchant les affaires",
+            "de",
+            "cette Province.",
+            "Et la Paix particulière et generalle.",
+            "<figure",
+            "type=\"decoration\" />",
+            "<figure",
+            "type=\"decoration\" />",
+            "A PARIS,",
+            "Chez CLAVDE MORLOT, ruë de la",
+            "Bucherie,",
+            "aux vieilles Eſtuues.",
+            "M. DC. XLIX."
+        ],
+        [
+            "<pb",
+            "n=\"3\" />",
+            "3 L’AMBASSADEVR DESESTATS de Catalogne. Enuoyé par Dms",
+            "loſeph de arguerite, à la Reyne Regente Mere du Roy, touchant les affaires de cetre",
+            "Prouince, &amp; la Paix particuliere &amp; genrale. MADAME, Les intereſts",
+            "de ma Patrie &amp; de mon omer m’obligent, outre mon deuoir &amp; ma  charge de",
+            "ous enuoyer cét Amaſſadeur expres, pour vous aſſeurer de la foy inuiolable des Cata <lb",
+            "rend=\"¬\" break=\"no\" />lans mes comparriotes, &amp; vos tres-obeiſſans ſub <lb rend=\"¬\"",
+            "break=\"no\" />jets, &amp; vous informer de l’eſtat preſent des affai <lb rend=\"¬\"",
+            "break=\"no\" /> res de cette Prouince, la nouuelle que nous auons receu de",
+            "f’eſloignement du Roy de ſa bonne vills e Paris, &amp; le l’emotion de ſon Peuple pour",
+            "e iſte ſuiet, nous a cauſé autant de triſteſſe &amp; de deſplaiſir qu’elle a",
+            "eſtévn ſujet d’allegreſſe &amp; de ré́joüiſſance à nos Ennemis, &amp; principalement à ceux",
+            "qui ſont dans Lerida qui oit fait durant trois lours &amp; trois nuits des grands feux",
+            "de ioiye &amp; tiré tout leur canon, &amp; ont beu vne infinité de fois à la",
+            "lanté́ de voſtte CardinalMazarin.  Les eſpions &amp; confedere de l’Eſpagne, pout ſe",
+            "ſeruir de l’ccaſion; ſemerent pluſieurs billees"
+        ],
+        [
+            "4 en diuerr lieux de",
+            "la Prouince, &amp; neſme dans Ba¬. celonne &amp; Perpignan, où eſtoient inſerez ces",
+            "Articles. ATICLE 1.. Que le Roy d’Eſpagné pardonne tous les crimes commis,",
+            "pour atroces &amp; enormes qu’ils ſoient, à tous ſes ſubjets de Catalogne, qui",
+            "quitteront le party de la Hrance pour ſe remettre ſouz ſon obeiſſance. ARTICLE",
+            "2. Que les Catalans ioüiront des meſmnes priuil ges &amp;",
+            "franchiſes dont leurs Anceſtres ont joüy du temps de Recarede &amp; Alphonſe Roys",
+            "d’Arra gon &amp; de la Calogne, ſi bien que d’oreſnauant ilsſeront",
+            "libres &amp; francs de toutes tailles, charges, iuſpoſts &amp; ſubſides, a la reſerue",
+            "du don graruit ARTICLE 3.. annuel. Que la Nobleſſe de ce Pais ne ſera",
+            "point ſubjee slanc ny arriere-banc, que quand les Frapç̧ois pepdront les armes",
+            "contre leur Patrie,à quoy ils ſeront ubjets pour trois mois, à condition qu’il ſera",
+            "luréà chaque Cheualier mil richedalles par le Treſorier de l’Eſpargne. ARTICLE",
+            "4.  Que tous les gens d’Egliſe &amp; de Iuſtice ſerone maintenns en leur charges",
+            "&amp; dignitez ſelon leur anciens Priuileges, &amp; que d’oreſnauãt ils ne ſeron; point",
+            "obligez à̀ la çontriburion dos gens de gurre quen cas qu’il faut aruier comre",
+            "leglnſilelles ARTICLE"
+        ],
+        [
+            "1",
+            "1 ARTICLE 5.  Que le Roy Catholique fera dilribuer trente millions par",
+            "leCommiſaires deputez &amp; choiſis par les Eſtats de cette Prouince, laquelle ſomme ſera",
+            "diſtribué́e ſelon la proportion Geometrique &amp; Aritmetique, ayant eſgard aux.",
+            "maiſons les plus incommodées. ARTICLE 6. Que ceux qui fe rons mourir om",
+            "Ioſeph de Marguerite, le Gouuerneur de Barcelonne; &amp; ee <lb rend=\"¬\"",
+            "break=\"no\" />luy de Perpignan, auront pour chacup d’iceux, cinquante mille",
+            "piſtolles. Le contenu de ces arti oles, fit une certaine",
+            "impreſſion dans les Eſprits de la Populace, &amp; meſme de pluſieurs perſonnes de",
+            "condition, que le peuple fut ſur le point de ſe reuolter en beaueoup de lieu :;ſ bien",
+            "que ie fits. eonuoquer l’Aſſemblée de la Nobleſſe dans Bar celonne,",
+            "&amp; en ſuitte i’enuoyay des lettres aux Pri eurs, Chanoines",
+            "&amp; Curez des Parroiſſes, pour: les prier à exhorter le peuple d’eſtre touſiours fi <lb",
+            "rend=\"¬\" break=\"no\" />delle à la Couronne de France, &amp; de n’adiouſter point de",
+            "foy aux paroles de nos ennemis, qui cer tainement tiendront leurs",
+            "promeſſes en apparen¬. ce, &amp;non pas en effect, la diligence que i’ay ap <lb",
+            "rend=\"¬\" break=\"no\" />porté́à remettre les Eſprits du Peuple, n’a pas eſt inutille,",
+            "Ie ſuis venu au but de mon deſſein, ayant fait oognoiſtre clairement ax plus apparens",
+            "inti midez, que nous ne pourrions iamais tomber en"
+        ],
+        [
+            "6 ruine que par vne reuolte, maintenant nous ap prehendons",
+            "d’vn autre coſteé, la raiſon en eſt, Que l’Eſpagnol a mis vne armée en camagne par",
+            "ter re, de dix mille hommes de pied, &amp; de quatre mil cheuaux,",
+            "qui ſont aupres de Sartagoſſe, ayant equippé ſur mer, huict Galeres quatorze Vaiſ <lb",
+            "rend=\"¬\" break=\"no\" />ſeaux, &amp; ſeize Galliaſſes, qui ſont ſur le courant de",
+            "Tortone, ce qui m’a obligé́ d’eſcrire à Voſtre Majeſte, pour la ſupplier &amp;",
+            "conjurer de nous vou leir enuoyer des hommes &amp; de l’argent,",
+            "afin de. pouuoir empeſcher que l’ennemy ne faſſe point de progrets ſur cette",
+            "terre, les menaces dont il vſe enuers nous de mettre tout à feu &amp; à ſang, eſton <lb",
+            "rend=\"¬\" break=\"no\" />nent tellement vos pauures ſujects de cette con <lb rend=\"¬\"",
+            "break=\"no\" />rée, qu’il faudroit vn autre Hieremie, pour deſ crire",
+            "leurs Iaemeneatins, &amp; ee qui augmentc lus leur douleur, &amp; nous donne plus de",
+            "ſuiect de crainte, ſont les nouuelles que nous apprenons tous les iours de la",
+            "deſ-vnion des Princes, &amp; dela mauuaiſe intelligeuce qui eſt,",
+            "principalement en¬! tre le Cardinal Mazarin, &amp; vos Bougeois de Parls.  Pour",
+            "pluſieurs raiſons grandes Reine, Voſtre Majefté eſt obligée de",
+            "donner congé à ce Miniſtre d Eſtat, ie veuy qu’il ayt la ſageſſe de Caton;, l aleur",
+            "de Pompée, la conduite d’Annibal, le on heur de Scipion, &amp;",
+            "qu’il poſſede eneore tou tes les autres qualitez des plus grands",
+            "Perſonn4 ges de l’Italie: par ce que ſon hnmeur eſt Italien-"
+        ],
+        [
+            "7 ne,",
+            "il eſt impoſſible qu’il puiſſe agreer aux Fran cois, dont vous",
+            "deuez non ſeulement preferer les intereſts: mais encore les deſirs",
+            "aux ſiens &amp; aux voſtres particuliers par ce qu’ils deſircni ſon eſſoi <lb rend=\"¬\"",
+            "break=\"no\" />gnement auec paſſion, voſtre bonteé leuir doit ac¬l cprder ceſte grace,",
+            "qui regarde le bien public &amp; le ſeruice du Roy, ſi vous conſiderez que la valeur",
+            "de vosMareſchaux de France ſe conſomme au lieu de S’allumer aupres du feu de ſon",
+            "ambition j que la gloire des Princes s’obſcurcit par le trop grand eſ <lb rend=\"¬\"",
+            "break=\"no\" />clat de ſa vanité, que les plus grndes dignitez de ce Royaume perdent",
+            "de leur luſtre par le ſeule de mande qu’il fait d’eſtre",
+            "declaré́Duc &amp; Pair de Frã  ce, &amp; que l’autoſteé duRoy eſt",
+            "diminuéspar l’ac croiſſement de ſa vaine gloireſdns doute V.M.ac <lb",
+            "rend=\"¬\" break=\"no\" />quieſcera a la iuſte demande devoſtre Peuple, qui n’ontpas",
+            "moins que nous d’auerſibopour les Ita liens, à peine le Cardinal",
+            "Mazaiinſon frere, fut arriué en Cathalogne pour eſtre noſtre Vice-Roy, que les",
+            "Enfans, Hommes &amp; Femmes commence rent à mediter u perte. Ce",
+            "qui obligea le Roy de le faire retirer. Les François ont vne ſe mblable",
+            "animoſiteé eon te voſtre Miniſtre, voſtre prudencefin depreue <lb",
+            "rend=\"¬\" break=\"no\" />nir les malheurs qui enpourroientarriuer luy doit perſuader,",
+            "&amp; l’obliger pour ſon plus grand bien de ſortir hors de c’eſt Empire, ainſi voſtre",
+            "Auguſte Parlement &amp; voſtre Peuple ſeront contants, les"
+        ],
+        [
+            "8 paſſages",
+            "ſeront ouuerts, le negoce libre, le Roy reuindra dans Paris, &amp; en ſuitte vous fere",
+            "vne paix generale, laquelle nous ſouhaitons auee la meſme ambition que nous",
+            "deſirons viure ſouz les loix de voſtre! Couronne. Ce iuſte mnrif eſt caufſe que",
+            "nousvous auons député́ exprez c’eſt Ambaſ ſadeur, pour vous",
+            "ſupplier &amp; conjurer au nom de tous vos ſuiects de voſtre Prouince, de voùloir. touſiours",
+            "maintenir nos interefts &amp; de ne nous ne mettre point ſouz la",
+            "domination de l’Eſpagne, le droiét des gens, &amp; le droict ciuil forceroient vo <lb",
+            "rend=\"¬\" break=\"no\" />ſtre Maieſté à condeſcendre à noſtre equitable de <lb rend=\"¬\"",
+            "break=\"no\" />ſir, quand meſme voſtre ſinguliere bonteé, n’auroit pas deſſein de nous",
+            "l’accorderDepuis le regne de. la Reine Blanohe, lesCatalans ſont nés ſubjets du Roy",
+            "de France, ſi bien que nous n’auons point fait de tort auRoy d’Eſpagne, quand nous",
+            "auons ſe coüé le joug de: ſa ſeruitude pour nous réinir à voſtre",
+            "Empire, auoe l’eſporance que nous auons que le Roy quia meſure qu’il croiſtra en aage,",
+            "ac croiſtra auſſi noſtre feliciré, uous conſeruera tou <lb",
+            "rend=\"¬\" break=\"no\" />fiours commae ſes tres- fidels ſubjers; &amp; auſſi de voſtre",
+            "Majeſtéeà qui nous demandons pour toute recompence de nos peines, la ſortuie de Mazari hors",
+            "de la France. FIN."
+        ]
+    ]
+}

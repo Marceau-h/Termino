@@ -1,0 +1,180 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "discours adressé",
+            "avis"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-04-11",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-04",
+            "@who": "MF"
+        },
+        "titre": "Avis de monsieur le Prince à messieurs du parlement,\n          contenant les particularités de la bataille qu’il a gagnée, et le sujet de sa venue en\n          leur assemblée.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121209573",
+            "@source": "BM_Lyon",
+            "persName": {
+                "forename": "Louis II de Bourbon, prince de",
+                "surname": "Condé"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
+            "persName": {
+                "forename": "Jacob",
+                "surname": "Chevalier"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "ADVIS",
+            "DE MONSIEVR",
+            "LE PRINCE",
+            "A MESSIEURS",
+            "DV PARLEMENT,",
+            "CONTENANT LES PARTICVLARITEZ",
+            "de la bataille qu'il a gaignée, &amp; ſuiet de ſa",
+            "venuë en leur Aſſemblée.",
+            "A PARIS",
+            "Chez IACOB CHEVALIER, prés Sainct Jean",
+            "de Latran.",
+            "M. DC. LII."
+        ],
+        [
+            "AVIS",
+            "DE",
+            "MONSIEVR LE PRINCE",
+            "A MESSIEVRS DV PARLEMENT,;",
+            "ontemane les Particularitez de l Baalle qaiil",
+            "gagaée, &amp; le ſfſuiee de ſi veaes leur Aſſamblée,",
+            "ggEssIEvs;",
+            "I Vous aoez ſans doae aps le",
+            "&amp;Moon uee de mes mes, quen,",
+            "Voe, n leniree du oy. au bien de idſat",
+            "e e enienere der",
+            "me ſemble, arreſter les pſſantes pourſuites de",
+            "A ij",
+            "¬"
+        ],
+        [
+            "ar",
+            "....",
+            "quelques-vns d’entre vous, qui pour eſtre trop",
+            "’atrachez à ce tyran s’eflorcent de rendre vains",
+            "tous les moyeps dont- pous ousſruons pour",
+            "l’auancement de la Paix, pour laquelle S. A.R. ſe",
+            "porte auec tant d’epreſſemen.",
+            "C’eſt pourquoy i’ay bien voulu vous auertir de",
+            "vouloir contribuer tous vs ſoins &amp; vos affections",
+            "poule bien -de l’Eſtae, à empſeher ectte rroupe",
+            "e factionnafres Mazarins, dõnt les pernicieuſes",
+            "intriqyes; &amp; qaples impprunes ſont extreme",
+            "ment nuiſibles à l’auancement des affaires, ſur",
+            "eſquelles oni doit’efiberer à preſent auec toute",
+            "ſorte de libcrté bien intentionnée, eſtant deli",
+            "urez de la peur que pouuoit ietter dans les eſprits",
+            "vne puiſſante armée qui proche de vos portes don",
+            "noit la licence à ſes partiſans de tout oſer contre",
+            "le ſeruice du Roy, &amp;. contre le Repos de cette",
+            "Monarchie, elle eſt à preſent Ditu mercy en",
+            "eſtat de ne donner pl¬ gy vas a -e-jdre ats la",
+            "perte generale qu’elle a faite des Troupes’eom",
+            "mandees par le Mareſchald’Hoquinéout.t",
+            "Ie vous en donneray moy-nſeſfme les pnrti",
+            "cularitez veritables, puiſque i’ay pris rſoluriou",
+            "e me réndre à voſtre Aſſemblée, porquspries",
+            "que ſelon yoſtre ele odipaie vous demeurie",
+            "ferme aui ſeruice du Roy, &amp; de ſon Eſtau, que",
+            "les Maafins yeulent enraiſner auec l Ruine",
+            "de leur"
+        ],
+        [
+            "e a.,e¬-",
+            "5",
+            "de leur Maiſtre, j’ay bien cru que ie deuois vous",
+            "auertir de ma venue, qui ne ſera pas inuulepour",
+            "auancer la ruine de cét inſolent Miniſtre qui va",
+            "remuer Ciel &amp; terre pour embaraſſer voſtre Com.",
+            "pagnie par ſes fourbes ordinaires, mais ie ſcçy",
+            "bien que vous eſtes aſſez clair-voyans dans voitre",
+            "zele pour dé́couurir tous ſes artifices &amp; toutes",
+            "ſes infames pratiques, par leſquelles il ne peut",
+            "alterer la ſincerité de voſtre Corps, quoy qu’il",
+            "en ait gaigné quelques particuliers à force de",
+            "promeſſes, deſquelles ſeules il eſt liberal.",
+            "Ie ne manqueray point de me treuuer à vo",
+            "ſtre aſſemblée pour y refſoudre auec Son Aleeſſe",
+            "Royale des moyens les plusiuſtes &amp; les plus le",
+            "gitimes d’auancer les affares dn Roy, de r’éa",
+            "bBlir l’authoriteé que ce Miniſßtre a trop inſolem",
+            "ment violée, par le meſpris qu’il fait de la Iuſti",
+            "ce &amp; des luſtes Remonſtrances que vous auez",
+            "faites à fa Majeſt́.",
+            "I’aurois eu de la peine aà me reſoudre d’aller",
+            "au Palais auant que d’auoir entierement rom¬.",
+            "pu les forces de ce Tyran ennemy de nos loix,",
+            "e de noſtre liberté́, ſi Son Alteſſe Royale, aux",
+            "ordres de laquelle ie défere tout, n’auoit ſou",
+            "haitté que ie m’y treuuaſſe, me faiſant l’hon",
+            "neur de ne vouloir rion entreprendre ſans me",
+            "faire participant de ſes iuſtes deſſeins, auſquels",
+            "B"
+        ],
+        [
+            "6",
+            "ie contribuëtay toûjors tout mon pouuoir &amp;",
+            "toutes mes forces, afin de les conduire à vne",
+            "fin heureuſe, dans la certitude que i’ay de leur",
+            "Iuſtice &amp; des bonnes intentions qu’il a toûjours",
+            "eué pour la Paix generalle, à laquelle il faut",
+            "trauailler ſerieuſement, &amp; le pluſtoſt ſera le",
+            "meilleur, ſi l’on veut épargner la vie de tant de",
+            "millions d’ames qui gemiſſent ſous le faix de",
+            "la tyrannie, &amp; pour éuiter la ruyne des fidelles",
+            "ſujets du Roy qui ſouffrent. l’opprefſion ſous la",
+            "violence des armes qu’on a eſteé contraint d’em",
+            "ployer pour denier remede, apres que le pou.¬.",
+            "uoir de vos Arreſts autcefois formidables à tous",
+            "les Potentas de l’Europe, a eſté indignemenr",
+            "meſpriſé par le plus laſche &amp; le plus vil de tous",
+            "les hommes.",
+            "Toutes ces conſiderations ſi importantes",
+            "m’ons fait quitter mes troupes, &amp; re lacher au",
+            "mleu de la victoie pout me rendre aujour",
+            "d’huy en voſtre Compagnie tout pres d’execu",
+            "ter en ſuitte de voſtre reſolution tout ce que",
+            "vous jugetez de plus neceſfaire pour le ſalur",
+            "public qu’il ne faut point à preſeot negliger,",
+            "pendant qu’il ſe preſente quelque voye a o",
+            "eſtabliſſement, &amp; qu’il y a quelque jour à faire",
+            "vne paix, apres laquelle tous les peuples ſoupi",
+            "renc depuis uandt d’aanées,&amp; que nous deuons"
+        ]
+    ]
+}

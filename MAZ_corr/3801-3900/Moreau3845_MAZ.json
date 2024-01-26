@@ -1,0 +1,123 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-08-26",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-18",
+            "@who": "AB"
+        },
+        "titre": "Le trictrac de la cour.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1652-01",
+                "@notAfter": "1652-09-10",
+                "@when": "1652",
+                "#text": "entre janvier et début\n            septembre 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "I",
+            "LE",
+            "TRIQVE-TRAC",
+            "DE LA COVR.",
+            "La Reyne.",
+            "Ie ſuis enfiĺe.",
+            "Le Roy.",
+            "Ie n’ayme point les Dames noires.",
+            "Le ardimal.",
+            "l’ay fait mon plain, mais ie ne puis paſſer ſans bon",
+            "heur.",
+            "Le ſhaacelier.",
+            "l’ay le mien auſſi, mais ie ſuis enfillé ſi ie ne le tiens",
+            "encore vn coup.",
+            "Monſieur de Beaufort.",
+            "Par le plus grand bon-heur du monde, i’ay éuité",
+            "l’enfillas.",
+            "Monſiesr de la Aeilleraye.",
+            "lI’ay trop hazardé.",
+            "Monſieur de Chauigny.",
+            "Ie ne deuois point parler ſur le jeu",
+            "Meſieurs du Paslement.",
+            "Nous ſommes en chemin de gaigner le tour de",
+            "Bredoüille."
+        ],
+        [
+            "Ies Tarens du Card aal.",
+            "Le bruict de ce jeu rompt la teſte.",
+            "Monſieur le Due d’Orleans.",
+            "Ie n’y entends rien, &amp; i’ay le dé malheureux.",
+            "Lſonſieur de l R iuiere.",
+            "Ie vois faire vne belle Eſchole, mais ie n’oſe en",
+            "aduertir.",
+            "Monſieur le Prinee.",
+            "Au hazard d’eſtre enfillé́, i’enfille touſiours.",
+            "Monſicur de Longueville.",
+            "I’ay doublé, ie ne ſçay quelle choſe faire.",
+            "La Reyne d’Angleterre.",
+            "l’ay tout perdu aà ce jeu.",
+            "Les Files de la Reyne.",
+            "On nous enfille ſi on ameine gros jeu.",
+            "Monſieur de haſteau- Neuf",
+            "Ie reprends mon coin par vn double as.",
+            "eſſieurs du Conſeil.",
+            "On ne peut maiquer d’en prendre ſur nous, car",
+            "noſtre jeu eſt rouſiours deé́couuert.",
+            "Les Pariſans.",
+            "Noſtre jeu eſt paſſé.",
+            "d’Emery.",
+            "Il faut m’en aller apres ce malheureux obſtacle.",
+            "Monſſeur Seruien.",
+            "l’ameine le jeu que l’on veut, car ie pipe le dé.",
+            "Les Pariſies.",
+            "Il faut touſiours garnir le coin Bourgeois."
+        ],
+        [
+            "Les Oſfeirs des Elefioos.",
+            "Sijnous mettona dedans nous remplirons ſans dif",
+            "ficulté.",
+            "Monſieur de Guiſe.",
+            "Si ie ſors mon coin, ie ſeray vn Iean, de retour.",
+            "Monſieur de MonbaZo.",
+            "93",
+            "Il faut m’en aller, ie n’ay point de bois aà̀ abattre:",
+            "Madame de MonbaZon.",
+            "Ie n’ay qu’vn jean qui ne peut, mais au reſte ie",
+            "ſuis toute découuerte.",
+            "Les Dames de la Cour.",
+            "Nous nous laiſſons rellement preſſer, qu’on nous",
+            "enfille touſiours.",
+            "Les Courtiſans.",
+            "Nous remuons rouſours le filet, aieus fe gail",
+            "gnons rien pour cela.",
+            "FIN."
+        ]
+    ]
+}

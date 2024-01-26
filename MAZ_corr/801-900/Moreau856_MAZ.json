@@ -1,0 +1,222 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "pamphlet",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Anne d'Autriche (1601-1666 ; reine de France)",
+            "France -- 1648-1653 (Fronde)"
+        ],
+        "creation": "1649-07-17",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-10",
+            "@who": "AB"
+        },
+        "titre": "La custode de la reyne, qui dit tout.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": [
+            {
+                "@ref": "isni:0000000063027789",
+                "@source": "Mazarine",
+                "@role": "alleged_author",
+                "persName": {
+                    "forename": "Claude",
+                    "surname": "Morlot"
+                }
+            },
+            {
+                "@ref": "isni:0000000140417845",
+                "@source": "Mazarine",
+                "@role": "alleged_author",
+                "persName": {
+                    "forename": "Claude de Chouvigny, baron de",
+                    "surname": "Blot-l'Eglise"
+                }
+            }
+        ],
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-07-17",
+                "#text": "17 juillet 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000063027789",
+            "@xml:id": "IL_MorlotClaude.xml",
+            "persName": {
+                "forename": "Claude",
+                "surname": "Morlot"
+            }
+        },
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "LA",
+            "CVSTODE",
+            "DE LA",
+            "REYNE,",
+            "QVI DIT TOVT",
+            "M. DC.",
+            "XLIX."
+        ],
+        [
+            "3",
+            "LA",
+            "CVSTODE",
+            "DE LA REYNE",
+            "QVI DIT TOVT.",
+            "PEuple n’en doutez plus, il eſt vray qu’il l’a fou,",
+            "Et que c'eſt par ce trou ques lule nous canarde",
+            "Les grand &amp; les petits en vont à la moutarde,",
+            "Reſpect bas, ileſt temps qu’ole ſçachepar tout.",
+            "Son crue eſt bien plus noir que l’on ne penſe pas,",
+            "Elle confent l’infame vice d’Italie,",
+            "E crolrois ſa desbauche tre moins accomplle",
+            "Sifonaln’auoit partà fes ſalle esbats.",
+            "EPournous vger des maux que Ingrarenous fai",
+            "et voudrois qu’on la it das la meme poure",
+            "Qui parut à mesyeux, lors que par aduenture",
+            "le deuins le teſmoin de oœlaſhe fofai.",
+            ".222"
+        ],
+        [
+            ".amaa¬",
+            "lſes peis de quel eſfoy e fiſte ou ſrpdis",
+            "Voyant que la nature afrontant la naure,",
+            "ortoit contre elle reſme l’imuge de l’iniſure",
+            "a",
+            "Exeerable ttentat- d’vn ſiiuſte meſpriſs.?",
+            "Mais pour comble d’horreuſ qui les rend odieur,",
+            "Et quel esbloümſſement frapperent mon oreille",
+            "ol prur rpnme d’ooe ple morle ¬",
+            "Eralloiten pupts vt amour fusiex., l",
+            "taaaé. ...",
+            "Ses obiee efroyable eſtonna tou; mes ſens,",
+            "Ma raſiſonſſpeûue, &amp; ma vue eſdre ſ7",
+            "Ne me peurent ſeruir de conduitte aſſeurée,",
+            "e fus contrant d’oiuir ces funeſte accons.",
+            "Iulle que ’ayme plus que le oyny ’ſuat",
+            ".-4",
+            "Ie te veux teſmoigner ma paſſion exeefme",
+            "En perdant le Rqyaume, en me perant nsy-meſne",
+            "Afin que u prfite en e Noble acntt,sCie",
+            "Ie ne pardonneray à mon Sceptre pour o",
+            "Que l’Vniers entier me baſme &amp; me dereſte,",
+            "En te donnant mafFoy, Chacr eſpoux, ie proteſte:¬",
+            "Ie t’aypris pour mo Dieu, pour maoy, pourmõ Roy.",
+            "ue ratautre deuoite cedde à o- Ameu1",
+            "Pis qu’ ton inrereſt jexoſe ne Couronne,I",
+            "Pour quil’ambotu l reſte i’ahandoaue,",
+            "le te conſeruqa e edray le tout",
+            "Toy",
+            "1"
+        ],
+        [
+            "J9",
+            "5",
+            "Toy ſeut per-quHlCielacheua esgrandeuts,",
+            "Et qui me fit bie mieur que ton Pere eſtre Reyne:",
+            "Cher Fils ie te canfeſfe auecvmpeu de peine",
+            "Ie te couſte beaucoup pournourrir mes ardeuts.",
+            "Mais le fou qui me bruſleetſi clair-&amp; ſi beau¬",
+            "Que tonreſpec, honneur ne le ſçauroit eſteindre,",
+            "Et ſans toy ie dirois, afin de ne rien feindre.",
+            "Que ie voudrois qu’il euſt eſchauffé mon borceau.",
+            "Souffre daas ces excez vn trait de liberté,:",
+            "Il m’eſt bien glorieux qu’on me nomme la Mere,",
+            "Il faudroit neantmoins que lulle fut tou Pere",
+            "Pour efleuer vcombleà̀ mafelicité,",
+            "Peuple aueugle &amp; brtal ſacrilege Senſeur",
+            "Pouſſeiuſque au Ciel ton inſolent murmure,",
+            "Mal-gre les vains efforts donc on me fait injure,.",
+            "De tout ce que ie fuis il ſera poſſeſſeur.",
+            "Ta hayne a redoublé mon Amourà ſon bruit, e.i",
+            "Comme vnvent ne ſert rien que pour croiſtre ma ftaâme,2",
+            "Tes menaces en l’air ne trouble point mon ame,",
+            "Et tu verras enfin quel enſera le fruict.",
+            "1",
+            "Ie prepare vn eremple à la Poſterité",
+            "Digne de ton chaſtiment d’eternelle menmoire,",
+            "Paris ie te perdray: car ie veux pour ma gloire",
+            "Que l’on cherche quelqueiour ou te auras eſté.",
+            "B"
+        ],
+        [
+            "1",
+            "6",
+            "Ville par trop rebelle eſcoute monprejat,-!",
+            "1",
+            "Vn Cheual autrefois petdi la belle Tpoye i",
+            "Mais ie ſens en mon eourvne ſecrette joye;",
+            "..",
+            "Que c’eſtaſſsz d’varAſn pour vn ſi grand efſe.2.",
+            "Iulle que de diſcours ftattoit on l’aſſeutaé’",
+            "onrabien que ſon Aſneeſtoit d’aiſeaue,",
+            "Et ſe creyant deſia Maiſtre de mavie;2",
+            "I’entendisquoes mots, il alloit profoant.¬",
+            "Genereux ſentiment, que ceſt ardeur me plaiſt,",
+            "Et que i’ayme d voir le ſoucy qui vous preſſe;",
+            "Ceſte haute oalere eſt iute, maPrinceſſe,",
+            "Le premier des Loixeſtle -pfropre intea.1",
+            "Quittez ſans plus tader ce ſejour odlem,",
+            "Oulerepeades pnos ſe purngnmdeinme",
+            "Ou la ſubmiſioni aperdu ſon eine,",
+            "¬",
+            "Oùu les plus gens de bienſont les plusſaëieui.",
+            "Les ceuts ſont toas portésà larebelioh,",
+            "Ceu n’aguere qui douroient d’vne me plusloyale",
+            "Maintenr lrautement la puiſſance Royalle,",
+            "Pour la deſtruire mieur font ramerl’Vaſen.¬",
+            "C’eſt Auguſte Senat doud les Diras rree¬",
+            "Le rendirentiadis celebre dans-l’Erope¬¬",
+            "1",
+            "Auec vn peple vil lachenent senueloppe,",
+            "Et ſoufreauec luyde comauns interets."
+        ],
+        [
+            "l",
+            "Qui vit deſormais le deſordre ou l’orgueil des Mutins",
+            "Ay-je oſeé paroiſtre auec autant de parade",
+            "Deuant ees murs Sacrez, i’ay veu les Barricade",
+            "Qu’vn de vos ſeruiteurs planta de ſes nains",
+            "Grande Reyne, il eſt temps d’agir ſeuerement",
+            "Ces Rebelle ſujects ſeront bien-toſt vos Maiſtre,",
+            "Puis qu’elle ne voit ſe ſeruir deſormais que d’extraire",
+            "Deſſus les fleurs de Lys de voſtre Parlement.",
+            "Mes Conſeils neceſſaire à voſtre Majeſté",
+            "Pour les executer, vous auez deux grands Princes",
+            "Qui donneront les mains au ſae de vos Prouince,",
+            "L’vn par l’impiete, &amp; l’autre par lacheté",
+            "Il ſe turent ainſi, moy par ma paſſion",
+            "e penſay ſur le champt offrir ces deux vicimes",
+            "uſalue duPublie mais e ereut que leur erime.",
+            "Demandoit plus d’eſtat en leur punition.",
+            "Francois de qui l’Empire eſt Sain&amp;t &amp; glorieur,",
+            "Ne ſoufrez poiut chez ous letriomphe du vic,",
+            "Prepareà̀ Louys vn Troſne de Iuſtice,",
+            "Afin que dignement ils ſuiuent ſes Ayeuls.",
+            "FIN."
+        ]
+    ]
+}

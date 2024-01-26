@@ -1,0 +1,179 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Sortie (la) de monseigneur le duc de Beaufort du\n                    bois de Vincennes. Stances.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "I",
+            "l",
+            "8",
+            ".",
+            ", E",
+            "1",
+            "n",
+            "l",
+            "¬",
+            "1 (",
+            "1 1"
+        ],
+        [
+            "i¬",
+            "Ans E.",
+            "LA SORTIE",
+            "T",
+            "2",
+            "1",
+            "DE MONSEIGNEVR",
+            "T E T ¬",
+            "LE DVC",
+            "T D",
+            "A ND",
+            "REAI",
+            "L IDILVII 1l",
+            "T IT",
+            "DV BOIS DE VINCENNES.",
+            "r ¬",
+            "STANCES.",
+            "E r a affreuſe &amp; formidable,",
+            "Sejour où preſide l’horreur,",
+            "fé Chaſteau dont le ſeul nom fait peur",
+            "A l’innocent comme au coupable:",
+            "Superbe, mais triſte priſon,",
+            "Qu’on eut iadis peu de raiſon",
+            "De t’armer de Tours effroyables,¬",
+            "e e r a e ee er",
+            "N’empeſchẽt pas qu’vn Duc n’échappe de ton ſein.",
+            "A",
+            "4"
+        ],
+        [
+            "1",
+            "1.",
+            "e5",
+            "Ce Donjon qui morgue la Terre.",
+            "Et dont le faifte imperieux,",
+            "S’éleuant iuſques dans les Cieu,",
+            "Mépriſe les coups de Tonnerre:",
+            "Ce lieu qui te ſert d’ornement,",
+            "N’a-t’il pas veu dans vn momen",
+            "Renuerſer à bas ſon audace;",
+            "L’artifice l’a ſurmonté,",
+            "Et ces murs ont cedé la place",
+            "Aus ſurprenans efforts de la ſubtilité",
+            "8¬",
+            "Ouy, grand &amp;genereux courage,¬",
+            "Ie ſuis dans l’admiration,",
+            "De voir par quelle inuention",
+            "Tu t’es garenty du naufragee",
+            "Ton esprit a ſauué ton corps,",
+            "fl l’a tiré du rang des morts",
+            "Par vn moyen épouuentable,",
+            "Außi te voyant hors des fors",
+            "J’oſe tenir pour venitable,",
+            "Que nons pouuons forcer les oachots des nfers,",
+            "as . l"
+        ],
+        [
+            "3",
+            "&amp;.",
+            "e",
+            "Certes quand ie te conidere",
+            "Deſcendre à l’ayde de tes bras,",
+            "Et fondre comme vne digle en bau,",
+            "Mon cœur parle &amp; ne ſe peut taire:",
+            "De cet effroyable danger",
+            "Vn cordeau t’a ſeu deſgagor,",
+            "0",
+            "Et t’oſter des mains de l’Enuie;",
+            "Ela, bon Dueu l quel ſtrange ſort,",
+            "8",
+            "e qui rauit fouuent la vie,",
+            "Te ſauue heureuſement du glaiue de la mot.",
+            "3",
+            "A cette iuſte violence",
+            "Vn Eempt voulut s’oppoſer;",
+            "Que luy ſeruit de reſſſter,",
+            "Ton bras le mit hors de defenſee",
+            "En vain &amp; à diuerſes foi",
+            "Jl taſchoit d’éleuer ſa voaix,",
+            "Langoiſſe le force à ſe tairs,",
+            "Qu’on te loue auec raiſon,.",
+            "Puis qu’au plus fort de ta colere",
+            "Vu le fis ſeulement brider comme vn Oyſon",
+            "aaa? a",
+            "¬-- a¬¬",
+            "2 ?"
+        ],
+        [
+            ".",
+            "8",
+            "5",
+            "Enfin ſuiuant ta deftinée",
+            "Tu te coules dans le fofßé,",
+            "Et ton corps à demy froißé",
+            "Sent ta vertu diminuée:",
+            "Les forces manquerent à ton cœur,",
+            "Neantmoins ton ame ſanst peur,",
+            "T’rrache du Bois de Vincennes;",
+            "Helaus! grand Prince, qu’il fait bo",
+            "Paſſer ſur les flots de la Seine,",
+            "Pluſtoſt que ſur les flots du funeſte Acheron.",
+            "Adieu faſcheuſe ſolitude,",
+            "Diſous-tu, regardant ces Tours;",
+            "Adieu Portes qui tous ls iours",
+            "Augmentiez mon inquietude;",
+            "Adieu trop vigilans Soldats,",
+            "Vous qui calculiez, tous mes pas;",
+            "Adieu deſolé la Ramée,",
+            "Pleurez ma perte ſans exce,",
+            "Calmez voſtre rage animée,",
+            "Vous aue mon Chapeau, faites luy ſon rocez.",
+            "F IN.",
+            "A PARIS, Chez Ro D A HaV, ptés le Puits Cerai¬¬"
+        ]
+    ]
+}

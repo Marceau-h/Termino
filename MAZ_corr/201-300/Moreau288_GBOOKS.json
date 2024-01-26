@@ -1,0 +1,126 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt",
+            "contrefaçon"
+        ],
+        "subject": [
+            "Condé, Louis de Bourbon, prince de, 1621-1686",
+            "Conti, Armand de Bourbon, prince de, 1629-1666",
+            "Longueville, Henri, duc de, II d'Orléans, 1595-1663",
+            "Étrangers (droit)"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de nos seigneurs du parlement, portant\n          l'éloignement du cardinal Mazarin et sortie hors du royaume, et Leurs Majestés\n          très-humblement suppliées de mettre en liberté messieurs les princes et duc de\n          Longueville, et d’envoyer une déclaration, pour exclure d’entrer ès conseils du roi tous\n          étrangers, même les naturalisés, et qui auront serment à un autre prince que le\n          roi.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@role": "speaker",
+            "@source": "Moreau",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1651-02-08",
+                "#text": "8 février 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
+            "persName": {
+                "forename": "Jacob",
+                "surname": "Chevalier"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "D D D",
+            "4",
+            ". I I L 2",
+            "DE’NOSSEIGNEVRS DE",
+            "Parlement, portant l’́loignement du",
+            "Cardinal Mazarin, &amp; ſortie hors du",
+            "Royaume; &amp; leurs Majeſtez tres-hum",
+            "blement ſupplíes de mettre en liberté",
+            "Meſſieurs les Princes &amp; Duc de Lon",
+            "gueville: &amp; d’enuoyer vne Declaration",
+            "pour exclured’entrer és Conſeils du Roy",
+            "tous Eſtrangers, meſmes les naturaliſez,",
+            "&amp; qui aurontſerment à autre Prince que",
+            "le Roy.",
+            "D ſeptieſne Feurier I6.",
+            "I1",
+            "cps",
+            "A PARIS,",
+            "Chez Iaos C n v a i, deuant",
+            "le College Royal.",
+            "M. DG. LI."
+        ],
+        [
+            "deee",
+            "EXTRICT DES RECISTRES",
+            "de Parleoent.",
+            "E Iour la Cour, toutes les",
+            "Chambres aſſemblées ayant",
+            "&amp; delſiberé ſur ce que Mon",
+            "Feurſe Due dOrleans a dit, preſens les",
+            "Gens du Roy, que le Roy &amp; la Reyne",
+            "Regente auoient eloigné le Cardina",
+            "Mazarin, lequel eſtoit ſorty de cette",
+            "ville la nuict derniere; Et ouy ſur ce",
+            "leſdits Gens du Roy, a arreſté &amp; or",
+            "donné, que par les Deputez de ladite",
+            "Cour, le Roy &amp; la Reyne Regente",
+            "ſeront ce iourd’huy tres-humblement",
+            "ſuppliez mettre en liberté Meſsieurs les",
+            "Princes &amp; Duc de Longueville, inceſ",
+            "A"
+        ],
+        [
+            "4",
+            "ſamment, &amp; en faire expedier tous or",
+            "dres neceſſaires preſentement. En ou",
+            "tre ſeront ledit Seigneur Roy. &amp; ladite",
+            "Dame Reyne Regente remerciez de",
+            "l’éloignement dudit Cardinal Maza",
+            "rin, &amp; priez de luy commander qu’il",
+            "ſorte le Royaume, &amp; d’enuoyer vne",
+            "Declaration au Parlement, pour exclu",
+            "re aà l’aduenir d’entrer es Conſeils du",
+            "Roy tous Eſtrangers, meſmes les na",
+            "turaliſez ou autres, qui auroient ſer",
+            "ment à autres Princes, que le Roy.",
+            "Fait en Parlement le 7. Fevrier i6̃.",
+            "Signe, GVYET. Ve8"
+        ]
+    ]
+}

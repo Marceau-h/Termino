@@ -1,0 +1,135 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Saintes (Charente-Maritime)",
+        "creation": "1652-03-16",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-14",
+            "@who": "AB"
+        },
+        "titre": "Lettre du roi envoyée à monsieur le maréchal de Lhopital,\n          gouverneur de la ville de Paris, sur la réduction de la ville de Xaintes à son obéissance.\n          De Blois, le 16ᵉ jour de mars 1652.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "@source": "Mazarine",
+            "persName": "Louis XIV"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1652-03-18",
+                "#text": "18 mars 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DV ROY",
+            "EnuoyÉe à Monſieur le Mareſchal de",
+            "L’hoſpital, Gouuerneur de la Ville de",
+            "Paris, ſur la reduction de la Ville",
+            "de Xaintes à ſon obeïſſance.",
+            "De Blois le 16. iour de Mars 1652.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires du Roy.",
+            "M. DC. LII.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "MON COVSIN, Dés que ie ſceus l’entrée des",
+            "Eſpagnols en France, &amp; que j’eus reſolu de",
+            "Il m’auancer vers ma bonne Ville de Paris, pour",
+            "m’oppoler à leurs deſſeins, ie ereus que pour déliurer la",
+            "Capitale Ville de mon Pays de aintonge de l’oppreſſi6",
+            "que les troupes du Prince de Condé luy faiſoient ſouf",
+            "frir, &amp; pour reſtablir le commerce ſur la Charente qui",
+            "ſe trouuoit interrompu par le moyen de cette Ville &amp;",
+            "de Taillebourg qu’elles occupoiét, ie deuois preſſer mon",
+            "Couſin le Comte d’Harcourt d’y enuoyer vne partie de",
+            "l’Armée qu’il commande, &amp; de faire promptemét aſſie",
+            "ger ces deux places, il a ſuiuy mes ordres, &amp; ce deſſein a",
+            "ſi heureuſement reuſſi qu’hier auſoir au moment que",
+            "i’entrois en cette Ville, le Cheualier d’Albret m’apporta",
+            "la nouuelle que dés Mardy dernier, &amp; quatre iours apres",
+            "l’ouuerture de la tranchée, la ville &amp; le fort de Xaintes",
+            "s’eſtoient remis ſous mon authoriteé; Que ſous la faueur",
+            "d’vne capitulation ordinaire douze cens hõ̃mes de pied",
+            "&amp; quatre-vingts cheuaux en eſtoient ſortis &amp; s’eſtoient",
+            "retirez à Bourg; Que le ſieur du Pleſſis Belliere à̀ qui la",
+            "coduite de ces ſieges auoit eſté commiſe en eſtoit party",
+            "pour aller former celuy de Taillebourg, &amp; que Diman",
+            "che prochain il deuoit faire trauailler à l’ouuerture de la",
+            "trancheée: cependant que come la priſe de Xaintes rend",
+            "celle de Taillebourg infaillible; Que les rebelles eſtoiẽ̃t",
+            "ſur le point de ſotir entierement hors de cette Prouin",
+            "ce, &amp; que les trouppes que i’auois deſtinées pour me",
+            "venir trouuer apres cette execution, pouuoient s’auan",
+            "A ij",
+            "74"
+        ],
+        [
+            "A..¬¬¬¬¬¬",
+            "aaaaes",
+            "4",
+            "cer de deçà ſans aucun obſtacle, ledit ſieur de Belliere",
+            "auoit détaché trois ou quatre mil hommes du corps",
+            "qu’il commandoit, &amp; que le meſme iour que mes Ar",
+            "mées entrerent dans Xaintes, ils en eſtoie nt partls pour",
+            "me venir trouuer. Ce ſuccez me donne deux grands",
+            "auantages; d’vn coſté il facilite la priſe de Tailebourg",
+            "&amp; aſſeure le repos de la Xaintoõge, &amp; de l’autre il me per",
+            "met de groſſir l’Armée que ie fais eſtat d’auoir aupres de",
+            "ma perſonne, d’vn corps aſſez conſiderable; ie ne laiſſe",
+            "pas en l’attendant de m’auancer auec ce que i’ay de for",
+            "ces pour m’approcher des lieux où ie croiray ma preſen",
+            "ce neceſſaire, tant pour empeſcher les progrez de cette",
+            "Armée ennemie, que pour aſſeurer mes bons Sujets, &amp;",
+            "les fortifier dans les bonnes intentions qu’ils ont pout",
+            "mon ſeruice. C’eſt ce que ie deſire que vous faſſiez en",
+            "tendre au Corps de ma bonne Ville de Paris, &amp; à ceux",
+            "qui s’intereſſent dans la proſperité de mes affaires; Et",
+            "que vous les exhortiez tous de ſeconder mes bonnes in",
+            "tentiõs par les effets que ie me promets touſiours de leur",
+            "fidelité: Cependant ie prie Dieu qu’il vous ayt, Mon",
+            "Couſin, en ſa ſainte garde. Eſcrit aà̀ Blois le ſeiziémeiour",
+            "de Mars mil ſix cens cinquante-deux. Signé, LOV IS.",
+            "Et plus bas, DE GV ENEGAV D.",
+            "ét ſur la ſuſcription,",
+            "A mon Couſin le Sieur de L’hoſpital, Ma",
+            "reſchal de France, Gouuerneur &amp; mon",
+            "Lieutenant general en ma bonne Ville,",
+            "Preuoſte &amp; Vicomteé de Paris."
+        ]
+    ]
+}

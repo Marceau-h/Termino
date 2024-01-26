@@ -1,0 +1,112 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "00-00-0000",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Ballade à Jules Mazarin sur son jeu de hoc",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-03",
+            "#text": "3 juin 2021"
+        },
+        "author": "Anonyme",
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": "Sans Nom",
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "T",
+            "T",
+            "T",
+            "H",
+            "IA",
+            "A",
+            "T N",
+            "l",
+            "lL",
+            "TII DC",
+            "u",
+            "E",
+            "A",
+            "r",
+            "SVRSON IEV",
+            "du Hoc.",
+            "A PARS",
+            "M. DC. XLl"
+        ],
+        [
+            "3",
+            "e",
+            "BAELA DE.",
+            "Nfinil en aura, deſia le foüet fait clae",
+            "Et ee ieune ſron deur auſi ferme qu’n",
+            "Roe",
+            "Sanglera la croupiere à ce ioüeur de hoc,",
+            "Dont l’auarice à mis noſtre France au biſſae.",
+            "Les Enqueſtes pour luy ſont pires que le tic",
+            "Toutes ces actions s’obſeruent rie aric,",
+            "Et contre le Senat ſes fourbes ſont à ſec",
+            "Chàque iour il faitvoir qu’il n’a ny ſangny ſuc",
+            "Et moins deugement quel’oyſeaude St, Luc,",
+            "Hlepeuteſuiter le Mat dans cét eſchet",
+            "- Pur le faiie ſortironfait letrictrac",
+            "ll connille ila peurilredoûtle choec",
+            "Il fianehirapouttant le pas ſans brin d’eſtoc",
+            "Et paſſera bien-toſtnosriuieres ſans:barc",
+            "Il craint certain Arreſt plus que venin d’aſpic",
+            "Il craint les gens à croc à crochets &amp;àpie.",
+            "Et le coyon qu’il eſt fair le Salamalech",
+            "Au plus vil artiſan comme il feroit au Duc",
+            "inueieuole en neie p nne lniſlrn",
+            "Il a pour ſon conſeil gens de corde &amp; de ſaec,",
+            "oui rot eu de lironeur eenne r ugue",
+            "nots du fioc,",
+            "Il vend l’Epiſcopal &amp; des Mitres fait troc,"
+        ],
+        [
+            "4",
+            "Car il n’en donne poit ſans quelque’miclmic",
+            "Mais il ne fera plus deſormais ce traffie",
+            "L’Almanach du Palais eu fai vn pronoſtie,",
+            "Et qu’on luy paſſera la plume par le bec",
+            "Fut il plus fier cent fois qu’m Flamandl dans",
+            "Boldue;",
+            "e¬",
+            "Où qu’vn ieune Cadet du pays de Monluc,",
+            "Il ne peut euiter le Mat dans cét eſchet.",
+            "¬",
+            "AV PRINCEDE CONDE’",
+            "Rince quifis paſſer carriere au braue Bec",
+            "Et qui mit Larchidue en pitoyableaffroc,",
+            "Ce Mlaiſtre ignorant n’a que lafoy d’vn Grec",
+            "Meſme il te trahiroitpour trois plume deCoe,",
+            "Laiſſe léchaſtier &amp; ſa ſequelle aue.,",
+            "Ie ſuis dans l’auenir ſģauant comme v nEnoc",
+            "Ilne peut euiter le Mat danśteſqnuet",
+            "ee rrs",
+            "e¬",
+            "¬",
+            "l dedee ie!",
+            "¬"
+        ]
+    ]
+}

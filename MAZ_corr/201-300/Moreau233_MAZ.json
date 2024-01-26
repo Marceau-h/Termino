@@ -1,0 +1,85 @@
+{
+    "imprimatur": "Auec Privilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Mazarin, Jules (1602-1661)",
+            "Saisie"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant qu’ouverture sera\n          faite de toutes les chambres de la maison du cardinal Mazarin, et description sommaire de\n          tout ce qui se trouvera dans ladite maison.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01-26",
+                "#text": "26 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "Portant qu'ouuerture ſera faite de toutes les",
+            "Chambres de la maison du Cardinal Mazarin,",
+            "&amp; deſcription ſommaire de tout ce qui ſe",
+            "trouuera dans ladite maiſon.",
+            "Du treizieſme Ianvier mil ſix cent quarante neuf.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires du Roy.",
+            "M. DC. XLIX.",
+            "Auec Privilege de ſa Majeſté."
+        ],
+        [
+            "4",
+            "ſcription ſommaire faite de ce qui ſe trouuera en",
+            "icelles. Fait en Parlement le vingt-cinquieſme Ian",
+            "vier mil ſix cens quarante-neuf.",
+            "-2¬.¬",
+            "yy 5 ’",
+            "Signé, DV TILLET.",
+            "Collationné à l’original par moy Con ſeiller",
+            "Secretaire du Roy &amp; de ſes Finances."
+        ]
+    ]
+}

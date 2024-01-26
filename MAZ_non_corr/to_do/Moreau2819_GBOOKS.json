@@ -1,0 +1,183 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Pont-Neuf (le) frondé.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "9",
+            "PONT NEVF",
+            "FRONDE.",
+            "1",
+            "A PARIS,",
+            "M. DC.LII."
+        ],
+        [
+            "1",
+            ".4¬",
+            "0 t,3",
+            "¬2",
+            ".¬",
+            "oonmo Google",
+            "a",
+            "."
+        ],
+        [
+            "peppfgtepaſeoe",
+            "S slS?",
+            "DNT",
+            "LE PONTNEVI",
+            "Frondé.",
+            "us",
+            "R ſſAz a Rrs il faut tous partir,",
+            "VM Ma Muſe vous vient aduertir",
+            "Que vous courie comme des ſques",
+            "Deguilez en habirs fantaſques,",
+            "Pour vous fourer, ie n ſç̧ais ò,",
+            "C’eſt à dire en vn petit trou:",
+            "La Ville eſt ou trop ſuſpecte,",
+            "Pour des Meſſieurs de voſtre ſecte:",
+            "Les cailloux y volent à̀ tas,",
+            "Sur tous ceux qui ne crient pas",
+            "Viue le Roy, Viue les Princes,",
+            "Viue ces apuis des Provinces:",
+            "Ils vont recoigner les voleurs,",
+            "Partiſans &amp; Monopoleurs,",
+            "Et par eux tous tant que nous ſommes,",
+            "Nous auront pour rien Pain &amp; Pommes,",
+            "Mais quand vous diriez tout cela,",
+            "Vous ne mettriez pas le hola,",
+            "On vous connoiſtroit à la mine:"
+        ],
+        [
+            "Chacun diroit eſchine, eſchine,",
+            "Ce ſont pendars de Mazarins,",
+            "Et lors ie vous tiendrois bien fins,",
+            "Si par vn rour de paſſe- paſſe",
+            "Vus amuſiez la populace,",
+            "Qui viendroit à grands coups de poing.",
+            "Faire tôpe ſur voſtre groing",
+            "Sur tout ſi dans l’autre ſemaine",
+            "Aupres de la Samaritaine.",
+            "Dame Anne euſt peu vous deſeouurir",
+            "Vous auriez eu bien à̀ ſouffrir,",
+            "Branquas qui n’eſt pas vne beſte",
+            "Ne fut iamais à telle feſte",
+            "Qu’l ſe vit vn certain Mardy,",
+            "Sur le Pont-neuf apres ridy:",
+            "Encore qu’il loit pour la Fronde,",
+            "Comme il le iure à tout le monde.",
+            "Il entendit crier bien fort,",
+            "Aſſomme, il en veut à Beaufort,",
+            "Lors eſtourdy d’vn tué, tuë..",
+            "Il ſent que lur luy l’on le rué,",
+            "Il perd de ſes cheueux dorez,",
+            "Il voit ſes habits deſchirez,",
+            "Et s’il n’euſt bien dit, oüy, &amp; voire,",
+            "On l’auroit contraint de trop boite:",
+            "Ioutesfois pour leur peine encor,",
+            "1"
+        ],
+        [
+            "Il donna quelques Louys d’or,",
+            "Si bien pour leureté́ plus grande,",
+            "Que le battu paya l’amende:",
+            "Encor ne fut-il pas faſché",
+            "D’en eſtre quirte à ce marcheé.",
+            "Ce vacarme ceſſoit à peine,",
+            "Et l’on alloit reprendre haleine,",
+            "Quand vn Carroſſe orné de vert,",
+            "Par fortune fut deſcouuert,",
+            "Il trainoit auecque viteſſe",
+            "Vers le Palais de ſon Alteſſe.",
+            "La Mareſchale d’Orlano,",
+            "Qul ſouuent comme vn Godenõ,",
+            "Montroit le nez à la portiere,",
+            "Et puis ſe ciroit en arriere,",
+            "Avoir ſon habit vn peu neuf,",
+            "On l’a cru Madame d’Elbeuf,",
+            "Qui ( cecy dit par parentheſe)",
+            "Eſt dehors de ce Dioceſe,",
+            "A l’inſtant ſans plus conſulter¬",
+            "Le Cocher vint à culbuter,",
+            "Et frappé́ de plus d’vne pierre,",
+            "Donna bien-toſt du nez en terre:",
+            "Les Laquais ne furent pas mieux,",
+            "Les rondins volerent ſur eux;",
+            "Mais auec tant de violence,",
+            "¬ B",
+            "2"
+        ],
+        [
+            "Que c’eſt vn fort grand coup de chance",
+            "Qu’ils ne furent pas ajuſtez,",
+            "Comme chair à̀ petits paſtez.",
+            "La Mareſchalle épouuentée",
+            "Fut vn peu trop pres viſiré́e,",
+            "Vn chacun la vintſaluër,",
+            "Non pas ſans pluſieurs coups rueër,",
+            "Et luy faire vne reuerence,",
+            "Qui luy déplut comme ie penſe,",
+            "Car ſans qu’elle le treuuaſt bon,",
+            "On la deſchargea d’vn manchon,",
+            "Pendant que les pauures ſuiuantes,",
+            "Se laiſſoient foüiller dans leurs fentes",
+            "Et ne gagnoient rien aà̀ crier,",
+            "A haute voix à plein gozier",
+            "Les meſchans ayant peu d’enuie",
+            "De leur ſauuer bagues my vie,",
+            "Or les anneaux on fricaſſa,",
+            "Et la vie onne leur laiſſa",
+            "Qu’apres que leur beau corps d’albaſtre",
+            "Euſt eſté battu comme plaſtre:",
+            "La populace apres cela",
+            "N’en voulut pas demeurer-là,",
+            "De meſme qu’vn Hidre feroce",
+            "Elle deſchira le Carroſſe,",
+            "Le cuir n’eut aucune mercy,"
+        ]
+    ]
+}

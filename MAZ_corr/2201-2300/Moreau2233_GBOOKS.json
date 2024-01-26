@@ -1,0 +1,107 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-06-03",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-04",
+            "@who": "AB"
+        },
+        "titre": "Lettre envoyée par Dom André Piedmontel , gouverneur de\n          Nieuport en Flandre, le 8 juin 1649, à messieurs les colonels et capitaines suisses,\n          commandants ès armées et garnisons de Sa Majesté très chrétienne.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": "André",
+                "surname": "Piedmontel"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-06",
+                "#text": "datée de juin 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "None",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "3",
+            "LETTRE ENVOYEE",
+            "par Dom André Piedmontel.",
+            "Gouuerneur de Nieuport en",
+            "Flandres le huictieſme Iuin 1649.",
+            "à Meſsieurs les Colonels &amp;",
+            "Capitaines Suiſſes, commandans",
+            "és Amees &amp; Garniſons de ſa",
+            "Maieſte Tres Chreſtienne.",
+            "MESSIEVRS,",
+            "E adueny du eraitement meque ue vou",
+            "ez receu depais vn an &amp; plus de la Couronne de",
+            "mes du iuſle ſmtſment que ous aue eon",
+            "u, fomde ennt’autre, ſur le defuut de o e",
+            "ui vous ont desa oſte le moyen depouuoir fbu",
+            "lr I’eny donneaui uoſl adui,a ſE Conn, ner.",
+            "mon acquit de mon deuoir &amp; de l’affection que",
+            "y touſiours porte à voſtre Nation, ſi mail traitée",
+            "apres de ſi longs &amp; ſignalez ſtruices rendus à ladite"
+        ],
+        [
+            "4",
+            "Couronne, qui la verité metieoit des tepa",
+            "es oien loenlies &amp; eraodinaine Es onan",
+            "’ay eeer ordre de ſon Alueſſe lmpeale devoy",
+            "ile onre tan de la pant de d uleſ ut del",
+            "ſeone, d’vne pompe u nuee ſaifiaeo deu",
+            "reraeps quela Fanee vour dois neſoe de o",
+            "ou quere nou de la ſoldede ſuceroiſt poun fiel",
+            "oige ae rour veon oſre oass aee liberlt",
+            "puſpen parere pluee &amp; vou imesdeobe",
+            "e d ſa luieſre &amp;t de rEmpereurſon frere le!",
+            "ſeeu nexeuſer de vos en donnert prt auſi tout 8",
+            "par diuerſeeoyes, auſi de vous donarles aſeun",
+            "que pourtiet deſret de I’aecompuiſenen du",
+            "die le, vous prant ſi vous en prende desoul",
+            "rerieur de vouloir ehoiſir ou denommer quequs",
+            "placeidoine, meſme hors du li de mon Gou",
+            "nement, ouie pourrois trouuer vos Depute&amp; mui",
+            "er auee eux plus partculierement, &amp;e de bou",
+            "auee la ſincerite &amp; candeur de laquelle voſt",
+            "loun eonſlunt p -ee eeoee",
+            "Ee e eely’qui fait profeſion de vui efaigpe",
+            "qu’il eſtveritablement,",
+            "ESSIEVRS,",
+            "2",
+            ".",
+            "Vſtre tras bamble &amp;",
+            "oboyſſantſeruitour,",
+            "oon &amp;ime raijolnl.",
+            "nD 2",
+            "A Nieuport le8. uin 649.",
+            "¬aaaa"
+        ]
+    ]
+}

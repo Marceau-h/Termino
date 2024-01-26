@@ -1,0 +1,162 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Épernon, Bernard de Nogaret de La Valette (1592-1661 ; duc d')",
+            "Guyenne"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Bordeaux, portant que le\n          roi sera très-humblement supplié de donner un autre gouverneur à sa province de\n          Guyenne.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-09-24",
+                "@when": "1649",
+                "#text": "le 24 septembre au plus tôt"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE BOVRDEAVX.",
+            "Portant que le Roy ſera treſ-humblement",
+            "ſupplié́ de donner vn autre Gounerneur",
+            "à ſa Province de Gbye nne",
+            "Iouxte la Copie imprimé́e à Bourdeaux.",
+            "M. DC. XLIX."
+        ],
+        [
+            "réueeeeee",
+            "Mqiela",
+            "e",
+            "Ss ooes seseaésſ diſiSia",
+            "r",
+            "1!",
+            "E IRAIC1",
+            "l ne",
+            "û VRe qu a e repreſene",
+            "aa cOvR, que depuis di",
+            "uets traictez de paix, meſmes celuy",
+            "qui uſt fait auee le ſieue A rcheueſque de",
+            "Pourdeaux, le ſieur Due d’Eſpernon, a",
+            "fait faire pluſieurs pilliages ruynes, n",
+            "radages, volleries, démlitionse. de",
+            "maiſbns, degradation de bois dehaute",
+            "te-uſtaye, tuër des Curez &amp; Preſtres",
+            "de la Campagne, &amp; autres pet ſonnes, mis"
+        ],
+        [
+            "1",
+            "11",
+            "1",
+            "4",
+            "le feu en pluſieurs ’endroits de la vilte,",
+            "&amp; autres actes d’Hoſtillité, a fait faire",
+            "des leveées extraordinaires ſur les ſets",
+            "du Roy, deplus ceux qui comman",
+            "dent Au chaſteaurometté, ont uté",
+            "par ſox odre, plus quacre rAille coaupb",
+            "de canon, &amp; ont ruyne quantitré de",
+            "maiſons des-particuliers, &amp; Mdnaſteres,",
+            "qui ont oblyg dés. Religieux &amp; Reli",
+            "geuſes, &amp; boargois, dei las abandon",
+            "her, &amp; contnuent encore a preſent, de",
+            "uirer iour &amp; nuit, &amp; apres tant de",
+            "deſulations reyerees, &amp; foy viollée, il",
+            "ſeroit impoſible d’entretenir la cooſpon",
+            "dance neceſſaire auec luy, pour le ſerui",
+            "e du Roy: Oüy ſur ce le Proeureur",
+            "Geral du Roy LA COVR., ls",
+            "chambre, aſſemblées, attendu l’a no",
+            "orieé des faits cy- deſſus, a Decla",
+            "e Declare, ledit Duc d’Eſpenon:",
+            "pertrbateur du repos publie, &amp;",
+            "conſequence , fait inli biione &amp; deffen",
+            "cé",
+            "....,.¬.."
+        ],
+        [
+            "ces à tous Gentils-Hommes &amp; ſujes",
+            "du Roy de le ſuiure &amp; executer fes",
+            "oidres, ruyneux &amp; dommagéables à la",
+            "Ptovinee, &amp; conforrmément à̀ l’Arret",
+            "de ladire coar du vingtieſme Auril, der",
+            "ier que le Roy, ſera tees humblement",
+            "ſupplie, pous le bien de ſon ſervice, &amp;",
+            "raquilité publique, de bailler vn aurre",
+            "Gouuerneur, ſa Province de Guy",
+            "enne. E afin que perſonne n’en pre",
+            "tende cauſe d’ignorance, laditeCOVR",
+            "ûrdonne, que le preſent Arreſt, ſera leu,",
+            "publieé &amp;eaffiché par tout ou beſoin ſera.",
+            "FAIT A BOVRDEAVX, en",
+            "Parlement, extraordinairement aſſemblé́,",
+            "le neufieſme de Septembre, mil ſiix cens",
+            ".",
+            "quasante-neuf.",
+            "e?",
+            "ee",
+            "A1",
+            "’lel",
+            "Signé, DE PONT A&amp;’",
+            "-"
+        ],
+        [
+            "r¬¬¬",
+            "l",
+            "J e ou-ueme duſinſdis mois a",
+            "lLLle preſent Arreftde la Cour, aeſfte",
+            "leu &amp; publié, és lieux &amp; Cantons ac¬",
+            "couſtumez de la preſente ville parno",
+            "Huiſſer en ladie Cour ſouſſgń, ſ",
+            "ſie de maiſre ean iuir anſſ fln",
+            "iſer en ladie Cour, du Cheuallir du",
+            "Ci &amp; archers, les Tromperes ſon",
+            "nan, afin que perſonne n’en preren",
+            "de cauſe dignorance. Fait a Bom:",
+            "l",
+            "laau ledit ionr &amp; an que deſues.",
+            "d",
+            "3y CAAN."
+        ]
+    ]
+}

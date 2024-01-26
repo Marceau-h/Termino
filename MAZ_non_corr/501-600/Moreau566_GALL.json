@@ -1,0 +1,122 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Ballade du Mazarin, grand joueur de hoc",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-03",
+            "#text": "3 juin 2021"
+        },
+        "author": "Anonyme",
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000001831368",
+            "persName": {
+                "forename": "Jean",
+                "surname": "Brunet"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "H",
+            "Z .",
+            "T¬",
+            "4",
+            "1",
+            "IL L",
+            "D V",
+            "MAZARIN",
+            "rA",
+            "A",
+            "GRAND IOVEVR",
+            "DE",
+            "HOC",
+            "r",
+            "ee",
+            "A PAR1S,",
+            "Chez IEAN BRVNET, ruë neuue ſainct",
+            "Louys, auCanon Roal, oehe le Palais¬",
+            "¬",
+            "M. DC. XLl.",
+            "97"
+        ],
+        [
+            "1",
+            "&amp;AldAtthe Ah&amp;ſul.",
+            "ééſs é6s",
+            "n",
+            "BLLADE D MAAZRIN, GR",
+            "ioueur de Hoe.",
+            "Nfin il enaura deſia le forfaitelAC",
+            "Et le ieune frondeur auſiferme qu’vnroCc",
+            "Sanglera la eroupiere à ce oüeur de hOC.,",
+            "¬0",
+            "Dont l’auarice a mis noſtre France au biſſAC,",
+            "Les enqueſtes pour luy ſont pires que letIC",
+            "Toutes ſes actions-s’obſeruent ric à rIC,",
+            "Et contre le Senat ſes fourbes ſont àſEC",
+            "Chaque iour il fait voir qu’il n’a ny ſens ny ſVC",
+            "Et moins de iugement que l’oyſeau deS. lVC,",
+            "ll ne peut éuiter le mat dans cet eſchEC.",
+            "Pour le faire ſortir on fait le triquetAC",
+            "Il connille, ſl a peur, il redoute le chOC",
+            "Il franchira pourtant le pas ſans brindeſtoc,",
+            "Et paſſera bien toſt nos riuieres ſans bA,",
+            "ll craint certain arreſt plus que venin d’aſp IC",
+            "Il craint l’agent à croc, à crochets &amp; à plC,",
+            "Et le coyon qu’il eſt, fait le ſalamalEC",
+            "Auplus vil artiſan comme il feroit au d VC",
+            "Dans peu le gazetier proſnera ſon desjC,",
+            "Il ne peut eſuiter le mat dans cét eſchEC.",
+            "ll a pour ſon conſeil gens de corde &amp; de ſAC",
+            "Qui font cas de l’honneur comme huguenots",
+            "dvn fr 0C"
+        ],
+        [
+            "¬",
+            "4",
+            "Il vend ’Eſpiſcdpât &amp; des mitres fait tr OC ’",
+            "Ca il n’en done point ſans quelque miguemAC",
+            "Mais il ne fera plus deſormais ce trafIC",
+            "¬. ¬",
+            "L’almanach du Palais enfaitleproneſtlC,",
+            "Et qu’on luy paſſera la plume par le bEC,",
+            "Fuſt-il plus fier cent fois qu’vn Flamaud dans",
+            "boſd vVc",
+            "Ouqu’vn ieune cadet du pais de MonlVC,",
+            "Il ne peuteſuiter lemat dans cét eſchEC.",
+            "!",
+            "ENVOY.",
+            "Prince qui fis paſſer carriere au braue bEC.",
+            "¬",
+            "Et quimisl Archiduc en pitoyable affrOC",
+            "Ce miniſtre ignorant n’a que la foy d’vn gr EC,",
+            "Meſme il te trahiroit pour trois plumes de c OC,",
+            "Laiſſe le chaſtier &amp; ſa ſequele au EC",
+            "4¬",
+            "Ie ſuis dans l’aduenirſçauant commevn en oc,",
+            "Il ne peut eſuiter le mat dans cét eſchEC."
+        ]
+    ]
+}

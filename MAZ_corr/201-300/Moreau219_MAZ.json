@@ -1,0 +1,122 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Militaires – Solde, indemnités, etc.",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, concernant la levée des\n          deniers pour le payement des gens de guerre, du 9 janvier 1649.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-01-09",
+                "#text": "9 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "Arreſt de la Cour",
+            "DE PARLEMENT.",
+            "CONCERNANT LA LEVEE DE",
+            "deniers pour le payement des",
+            "Gens de Guerre.",
+            "Du neufiéme iour de Ianuier, mil ſe cens",
+            "quearante-neuf.",
+            "A PARIS,",
+            "Par les lmprimeurs &amp; Libraires ordinai",
+            "res du Roy.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "EXTRAICT DES",
+            "REGISTRES",
+            "DE PARLEMENT",
+            "CE iour la Cour toutes les Chambres",
+            "aſſemblées, deliberant ſur l’execution",
+            "de l’Arreſt du iour d’hier, en ce qui",
+            "concerne la leuée des Gens de guerre;",
+            "Apres auoir oüyle recit d’aucuns des Conſeillers",
+            "commis qui ſe ſont tranſportez dans l’Hoſtel de",
+            "Ville, &amp; apres pluſieurs propoſitions, meſmes de",
+            "payer par les Conſeillers de ladite Cour de la nou",
+            "uelle creation faite en l’anneée mil ſix cens trente",
+            "cinq dans le temps qu’il plaira ordonner la ſom",
+            "me de trois cens mil liures, pourueu qu’ils ioüiſsẽt",
+            "&amp; diſpoſent de leurs Offices, eux, leurs vefues &amp;",
+            "heritiers, comme les autres Conſeillers anciens ;",
+            "A oRoNE’ ET oRDOnNNE, Que la taxe faite",
+            "lors de la priſe de la Ville de Corbie, ſera ſuiuie, &amp;",
+            "que chacun des habitans de cette Ville &amp; Faux",
+            "bourgs de Paris payera preſentemeét le double de",
+            "la Taxe, &amp; que leſdits Coſeillers de nouuelle crea",
+            "tion, de leur conſentement, payeront auſſi dans"
+        ],
+        [
+            "1",
+            "deux iours la ſomme de trois cens mil liures,",
+            "moyennant quoy ils iouiront &amp; diſpoſeront de",
+            "leuHſdits Offices, eux, leurs vefues, &amp; heritiers &amp;",
+            "ſueceſleurs, tout ainſi que les autres Conſeillers",
+            "anciens, &amp; ſans qu’il y ayt à l’aduenir aucune diffe",
+            "eaee! Ono o en ore, quil ſera ait enmt",
+            "prunt de la ſomme de quatre cens inquantemil",
+            "ſiures; Sçauoir, par les Preſidens &amp; Conſeillers de",
+            "la Grand’chambre, cinquante mil liures: par les",
+            "Peſidens &amp; Conſellers de chacne Chambredes",
+            "Enqueſtes, pareille ſomme de cinquamtemiſ li",
+            "ures, qui reuiennentà deux cens cinquanre mil li",
+            "ures: pat les Preſidens &amp; Conſeillers des Reque",
+            "es dus balai,, parenle ſonme de cnquanre miJ",
+            "liures &amp; par les Maiſtres des Requeſtes de l’Ho",
+            "el du Roy, la ſomme de cent mil luores Tous leſ",
+            "quels denies ſeron inceſammenr ni enre lee",
+            "ains de Maiſtre Charles le Preuoſt, Conſeiller",
+            "duRoy enla dite Cour, &amp; le tout empboyé au paye",
+            "uent des Gens de guerre qui ſerontleuea ,ſelo¬ J",
+            "ainſi qu’il ſera ordonné- A e en Palemens",
+            "e neufieme lanuier mil ſix cens quarante neuf",
+            "Signe, DV TILLET.",
+            "Celationné à̀ l’Original, par moy Conſeille",
+            "Secretaire du Roy &amp;de ſes Finances."
+        ]
+    ]
+}

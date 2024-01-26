@@ -1,0 +1,256 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Chasse (la) furieuse donnée à la garnison de\n                    Corbeil, où il est demeuré plus de deux cent cinquante cavaliers sur la place,\n                    et grand nombre de blessés et de prisonniers, par la cavalerie de M. le prince,\n                    ensemble le nombre des morts et des prisonniers.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "LA",
+            "HA",
+            ". D D",
+            "FVRIEVSE.",
+            "PONNEE ALA GAR¬",
+            "nſon de Corbeil: où il ſt de¬",
+            "meuré plus de deux cens cin¬",
+            "quante Caualiers ſur la place, &amp; grand",
+            "nombre de bleſſez &amp; pnſonniers, par",
+            "la Caualeie de M le Prince.",
+            "ESEFMBLE LE OMBRE",
+            "des morts &amp; priſonnier.",
+            "ueee",
+            "T",
+            "A PARIS,",
+            "sn’l’ pea s Eſnne",
+            "M DC LI1.",
+            "Aduec Peri ſion."
+        ],
+        [
+            "¬1",
+            "¬",
+            "1",
+            "¬l",
+            "¬ 2",
+            "1"
+        ],
+        [
+            "1",
+            "ûe’taê1",
+            "Q&amp;-eos &amp; e e",
+            "SFeiſeeeesss",
+            "L CASSE FVRIEVSE.",
+            "donnée à la Garniſon de Corbeil: où il",
+            "ſt demeuré́ plus de deux cens cinquan¬",
+            "le Caualiers ſur la place, &amp; grand",
+            "ombre de bleſſez &amp; priſonniers, par la",
+            "Caualerie de Monſieur le Prince:",
+            "ec le nombre des morts &amp; priſon¬",
+            "ies.",
+            "J ne faut point trouuer eſtrange, ſi les",
+            "onſeils Mazarins ne pouuans quitter",
+            "l haine quils ont touſiours euë corre la",
+            "Ville de Paris, continuent leurs efforts pour",
+            "larduire a la neceſité: &amp; ne layans ſcea",
+            "ſaireil y atrois ans, quoy qu’ils euſſent des",
+            "foces &amp; des moyens aſſez puiſſans, &amp; Pa¬",
+            "n’ayant que ſes Habitans pourſa deffen¬",
+            "ſe: ils ont fait cette anné́e Ieuri poſſible pour",
+            "venir aux effets: mais nous voyons ou¬",
+            "ment que par des reſſorts incogaus"
+        ],
+        [
+            "6",
+            "la Ville de Paris ne s’eſtpoint veuë reduite",
+            "cette neceſſité; quoy que les ennemis ſe",
+            "ſoient ſaiſis des paſſages de la Riuiere, tant",
+            "enmontant qu’en deſcendant, pour empeſ",
+            "ehetle viures dy venir. ent’autres la vile",
+            "de Cobeiſ; de laquelle le Sieur du Pe.",
+            "Capitaine de la Chaſſe du Loup, eſt Gou:",
+            "emeur. &amp; eomme il pore le party Mau¬",
+            "n i ya touſaious reeeu les gens de puene",
+            "que les Maarins y ont enuoyez pour laga¬",
+            "der &amp; ſe ſaiſir du Pont: comme il a faix de¬",
+            "puispeau les trouppes du Comte de Paluun,",
+            "ſeſqueles apes la prſe du Chaſeau de",
+            "Mouron, ſe ſont rendues a Corbeil, pou",
+            "’aller joindre aà l’armée du Mareſchalde Tu¬",
+            "renne, ce qu’elles n’ont pûfair.",
+            "De maniere qu’à preſent tout leur deſſein",
+            "et de faire des parties pour courir le paispl",
+            "ler, prendre &amp; emmener tout ce qu’ils o¬",
+            "uerront, s’ils neſont retenus par les trouppi",
+            "e Monſieur le Prince, enuoyées aux enui¬",
+            "Ions de Coibeil, con dnits par le Sieur dt",
+            "Rauenet: &amp; comme cete Garmiſon laiſfs",
+            "entrer dans Corbeil les Paiſans qui J ppr",
+            "tent"
+        ],
+        [
+            "ent des viutes: trois Paiſans des enuirons",
+            "ournans ayans eſté arreſtez &amp; interroge2",
+            "de ce quefiſoit ceure oarn ſon, l de le",
+            "nt qu’ils ſe diſpoſoient d’enuoyer ſix cens",
+            "auales à la pieoree, du eote deſlomne¬",
+            "de veoy &amp; dela rete ale e a lusne",
+            "fu pointreloute, il fut pourtant tenu ſecret",
+            "uſquts à l’amuée de quelque Cualerlie de",
+            "lrme des eincespontreaforen eur qu",
+            "toent dési au cnuirons de Ccor leil",
+            "raelanà peuprés le coſué de leut matche,",
+            "s déaeheent quarre cens caes &amp; roi¬",
+            "s Dragons, qu’ils enuoyerent à leurs",
+            "ouſſes, marcherent iuſques à la Ferté Alez,.",
+            "alaqueue d’vn bois oules renans ainſicom¬",
+            "e enfermez, ſans pouuoirſe retirer, ils fu¬",
+            "’t contrains de ſe mettre en deffenſe: mais",
+            "labod ils ſe trouuerent ſ iuenenr eluar",
+            "S par ces trois cens Dragons ſouſtenus de",
+            "l Caualerie de quatre cens Maiſres, que",
+            "atre-vingts y furent tuez ſur le champ, &amp;",
+            "douze du coſté́ des Princes:lesautres ſe vou¬",
+            "lans ſauuer, mais ’eſtans reunis au deſous"
+        ],
+        [
+            "6",
+            "la Garenne de Villeroy, pourſuiuis par les J",
+            "quatre cens Maiſtres &amp; les Dragons, qui fi¬",
+            "ie e i iurenie de lnuneut au",
+            "plus des deux tiers furent tuez &amp; faits pri¬",
+            "ſonniers: de ſorte que de ſix cens qu’ils ¬",
+            "eſtoient, s’en retournerent enuiron cent,",
+            "cinquante à Corbeil porter les nouuelles de",
+            "leur deffaite.",
+            "Entre les morts, il y eut dix Gentils hom¬",
+            "mes, deux Pages du Comte de Palluau, l Eſ¬",
+            "cuyer du baron de Mont Bas, dix-huit",
+            "Officiers &amp; ſix Guidons.",
+            "Du coſté des Princes, enuiron vingt",
+            ",",
+            "cinq furent tuez en cette deſfaite.",
+            "Ils gaignerent deux cens cheuaux, ſans",
+            "ce qu’ils trouuerent d’or &amp; d’argenten lade¬:",
+            "pouille des morts.",
+            "Ceét eſchet à bien diminué la Garniſon¬",
+            "de Corbeil: ce qui y reſte ne peut pas tenmr:",
+            "long temps ſans ſe ren !re, pour ne pouuoi",
+            "eſperer ſecours du Mareſchal de Turenn.",
+            "aſſez empeſché en ſon Camp, ou il eſt enfer¬",
+            "mépar l’Armée de Meſſieurs les Princes:&amp;"
+        ],
+        [
+            "on armée manquant de viuxes &amp; de fou¬",
+            "S ne peut pas durer long-temps.",
+            "estrois Paiſana ont rapporté, que dans",
+            "Cobeil, laplus grande parrie des tlabian.",
+            "uneaenſon ſorms ceur qui yſonr demneun¬",
+            "E ont eſté deſarmez par les ſoldats de la",
+            "amſon, qui y vuen a dſerenion &amp; font",
+            "Pyet de grandes ſommes pour lesmarchan.",
+            "oes qui paſet ſous les rous, e quie",
+            "uſe dela charréd’icelles quand’eles onmi",
+            "Paris.",
+            "D’auantage, comme cette Garniſon ſort",
+            "us les foirs ilsramenent hommes, femme",
+            "ſonniesenla Vvle pouren res angon",
+            "Ps auoir pillé &amp; emporté tout ce qu’ils",
+            "ſouué aux maiſons ou ils demeuroient.",
+            "Mais depuis deuxiours ces pillards eſdan",
+            "ui, conme ils fſoient, ne ſont poun",
+            "lournez: ce qui ſait croire qu’ils ont eſte",
+            "i&amp; emmenet pat les paris des inees",
+            "vonr tous les iours en partie &amp; au four¬",
+            "Se, tant au deçà, qu’au delà la riuiere, iuſ¬",
+            "esaux portes de Corbeil, Chelles, Boiſſy,"
+        ],
+        [
+            "l",
+            "Crecy, Eſtiolles, choiſy, Chaſtillon, Gi¬",
+            "gny, &amp; autres Bourgs &amp; IParroiſſes: dont les",
+            "Habitans deſdits lieux abandonnent leurs",
+            "aiſons.",
+            "FIN."
+        ],
+        [
+            "l",
+            "Crecy, Eſtiolles, choiſy, Chatillon, Gi¬",
+            "gny, &amp; autres Bourgs &amp; ’arroiſſes: dont les",
+            "Habitans deſdits lieux abandonnent leurs",
+            "aaiſons.",
+            "FIN."
+        ],
+        [
+            "l",
+            "Crecy, Eſtiolles. choiſy, Chatillon, Gi¬",
+            "gny, &amp; autres Bourgs &amp; Parroiſſes: dont les",
+            "Habitans deſdits lieux abandonnent leurs",
+            "aaiſons.",
+            "FIN"
+        ],
+        [
+            "1",
+            "Crecy, Eſtiolles. Choiſy, Chatillon, Gi¬",
+            "gny, &amp; autres Bourgs &amp; Parroiſſes: dont les",
+            "Habitans deſdits lieux abandonnent leurs",
+            "aaiſons.",
+            "FIN."
+        ],
+        [
+            "l",
+            "Crecy, Eſtiolles, Choiſy, Chaſtillon, Gi¬",
+            "gny, &amp; autres Bourgs &amp; Parroiſſes: dont les",
+            "Habitans deſdits lieux abandonnent leurs",
+            "aaiſons.",
+            "FIN."
+        ],
+        [
+            "Crecy, Eſtiolles, choiſy, Chatillon, Gi¬",
+            "gny, &amp; autres Bourgs &amp; Parroiſſes: dontles",
+            "Habitans deſdits lieux abandonnent leurs",
+            "maiſons.",
+            "F I N."
+        ]
+    ]
+}

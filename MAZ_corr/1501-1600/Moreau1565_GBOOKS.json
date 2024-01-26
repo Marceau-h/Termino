@@ -1,0 +1,181 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "discours adressé",
+            "harangue"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-08-26",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-05-15",
+            "@who": "MF"
+        },
+        "titre": "Harangue faite à la reine par un révérend père Chartreux\n          pour la paix.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1652-05-20",
+                "@when": "1652",
+                "#text": "à partir du 20 mai 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:000000007740264X",
+            "@source": "Mazarine",
+            "@xml:id": "IL_LeRatJean.xml",
+            "persName": {
+                "forename": "Jean",
+                "surname": "Le Rat"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "HARANGVE",
+            "FAITE A LA",
+            "REYNE,",
+            "PAR UN REVEREND",
+            "PERE CHARTREVX,",
+            "POVR LA PAIX.",
+            "A PARIS",
+            "Ruë d'Ecoffe aux trois Cremailleres.",
+            "M. DC. LII."
+        ],
+        [
+            "RANGVE FAITE A L",
+            "Reye, par un Renerend Pers Chartreu,",
+            "pour la Paixs.",
+            "J E voiecy de retour, Madans, pour vos an",
+            "J noncer que Dieu eſt faſché de l’aflition de",
+            "ſon peupl, &amp; qu’il ne peutplus voir lar Erance dans le",
+            "faag; il veut que les triſteſſaes&amp; les lamenaeions Fran",
+            "çoiles ceſſent; Il ne veut plus auoir de contredits; il",
+            "eut etre le Seigneur &amp; Maiſtre, le fort &amp; robuſte",
+            "dbellateus, &amp; l’vnique puiſſanc de l’Vniuers; Il n’eſt",
+            "plasloiſible deregimber contreſonayguillon; il veut",
+            "ilveus, il vout, que vos Sujes viuent eu Paix. L’affli",
+            "tion du peuple eſt montée iuſques au troſne de ſa Iu",
+            "lce: la mort la prié de ceſſer ſon couroux le ſang in",
+            "iuſtehent teſpandu a crieé vangeance deuant ſaface.",
+            "Les veufues ons pleuré́, &amp; leur larmcs ont cauſeé vne",
+            "inondation és environsde ſon ſiege; l’orphelin a geſ",
+            "ny &amp; il en apris compation. Quoy, Madame, ſerez",
+            "vousſi ehdcre que de: ne pas ceſſer voſtre ire, puit",
+            "qu’vn Dieu meſtuocourouéas’appaiſe &amp; ſe rocncilie",
+            "auec nous Aymerez-vs le ſang, puis qu’il e cheit",
+            "que lelait. La Ouerre vous eſt elle plus propre que la"
+        ],
+        [
+            "Paix leauuleeque latanquliue, &amp; leruail que le",
+            ".",
+            "répoa: Crté,lli’eſt plus de ſaiſon d’enuoyer les ames",
+            "da fulas uaeafrs ;ile regorge, &amp; eſt honen:",
+            "de lesy reçeuoi. nya4plus de feu capable de les con",
+            "ſoniier, depuls que voſtre fauory la ſiardemment al",
+            "lumeſu la terre à eſ’leele que vous auiez iadls?",
+            "où eſt cetre humilité ulerbsloit en vous extraordi",
+            "naire? où eſt cette pieteé &amp; deuotion maieſtueuſe qui à",
+            "ſe longtemps paru ſu votre iſage? Dira- ton, qe",
+            "toueln’aſtbit que fainiſe, que e n’oſtoit qu’vne",
+            "bdvuë, ou nl lſages fanyaique, ou bien vn appa",
+            "pou trompee tonus les liomes de la terre. Non, Mada",
+            "ne, il nevous fut pointpbrdre le luſtre de cette can",
+            "deur que le: Ciel vous a ſi lougr-temps conſeruéa. u",
+            "l’augmentcra tat plus i ous auez recours à celuy qui",
+            "conſerue les Scepcges &amp; lesCouronnes. Ne ſçaua",
+            "vous pas que Dieu eſt ialou, Qu’il ne peut auoir de",
+            "compagnon :’Qu’ilet robnſte &amp; que nul ne luy peu",
+            "reſiſter Qu’il eſt ſage, &amp; queſaſapiene eſt immanſa.",
+            "Ita tout fait, &amp; il peut oot deſtouire. Il eſt le Iieu de",
+            "la guerre, &amp; la pernet pout haſtierſo peuple, ſoyz",
+            "humble. autremenſou bras tombera ſut vous: Songe",
+            "vn pou qu’il vous a fai ce que vous eſtes, &amp; que ſana",
+            "luy vous a ſeriez riene n. monde vous eſt aſſuiy,",
+            "maisiln’eſt pas queſtion de le tycanniſtr; Voſtrecorps,",
+            "Madame, doit eſtre ſemblable à œluy de vos ſuiets;i¬i",
+            "voug eſtes brme,ils ſeronhons; ſvoueſtes malicieu¬"
+        ],
+        [
+            "le, ils feront malieieux; ſi vous eſtes fortes, ils ſeront",
+            "forts, i vous eſtes chaſte, ils ſeront chaſtes, ſi vous",
+            "less tonnandez, ils vous obeyront, pourueu que",
+            "vous vreudiez douce en leur endroit. Que deirez",
+            "voudauantage d’vn peuple qui eſt, qui ſera, &amp; qui fut",
+            "touours franc. Ne voyez vous pas que ce que ie vous",
+            "y-aoneeé ey-deuant eſft arriue, Quel aduantage auez",
+            "vus tité de SaintCloud ? quels profits de ſainct De",
+            "ais Inevois point queſes dégats ayt mis voſtre Fran",
+            "ee plssb ſon ayſe. Ie vous prie dites moy lequel à plus",
+            "perdu de vous, ou de vos ſuiets, (quoy qu’ils ayent eſté,",
+            "ainſi quà Charenton rahis) C’eſt que les voſtres qui",
+            "ontlas noſtres, &amp; les noſtre qui ſont les voſtres, ſont",
+            "demeuré ſur les place. Sont des effets de la guerre,",
+            "dites vous, mais ſongez que ce diuorce ne peut tom",
+            "’ber queſur vos eſpaules. Hé! Madame, que l’on vous",
+            "appelle pluſtoſt gubernatrice, &amp; conſolatrice, que de",
+            "ſoſatrico &amp; minatrice de la Prance. De qui ſerez vous",
+            "Reyne quand il n’y auraaueun qui vous veulent recla",
+            "mer par ce tiltre enainent? La femme ſage edifie la",
+            "ailon; &amp; il ſemble que vous la voulie deſtruire?",
+            "Quoy? vn éſtranger eſt-il capable de ſubuertir vos ſem",
+            "timens? Eſt-il néen meſme air &amp; Climat que vous?",
+            "N’eſtes-vous pas la Reynedes François, &amp; luy n’eſt il",
+            "pas la ruyne deſa patrie? Quoy ’permettez vous qu’vn",
+            "deſolateur de Villes, de Prouinces &amp; de Royaumes?",
+            "B"
+        ],
+        [
+            "6",
+            "ous ſuiue: Si dans vn iardin, ou vous meſme auriés",
+            "pns plſir de cultiuer &amp; y faire naiſtre les plus belles",
+            "fleurs qui ſe peuuent rencontrer dans le monde, &amp; que",
+            "ſous l’vne d’icelle, en la penſant cueillir ouadorer, vous",
+            "viſſiés ſortir ou paroiſtre à vos yeuxvnaſpievn ſerpent",
+            "ou vn baſilic; Ne quiterés vous pas la priſe ? Ne cede",
+            "riez vous pas à̀ l’vn de ſes foibles animaux, qui vous",
+            "auroient eſpouuentée? Ie le croy, Madame, c’eſt donc",
+            "maintenant qu’il faut que vous ſoyez la Mere &amp; noa",
+            "pas l’amer de la France; Que vous chaffiés ce ſerpent,",
+            "ce baſilie, &amp; cét aſpic, qui s’eſt depuis ſi long-temps",
+            "caché parmy nos Fleurs-de-lys, afin de les deſtruircs,",
+            "Il n’en à iuſques à preſent pû venir à bout, &amp; ne pour",
+            "ra iamais les fleſtrir. Car cette fleur eſt enuoyée du",
+            "Ciel, &amp; la terreà cormmandement expré́s de la con",
+            "ſeruer. Ie ſç̧ay que vous n’auez point de repos, mais",
+            "ie ſuis certain qu’il netient qu’a vous de le tenir proche",
+            "de voſtre perſonne, la Reine de Saba eſtoit prdente,",
+            "c’eſt pourquoy elle prit la peine de venir vor le trelor",
+            "de Sapienſe &amp; de luſtice Salomon, elle fut rauie quand",
+            "elle le vid, &amp; quand elle l’entendit parler, elle lui fit",
+            "des preſens &amp; fut contente.",
+            "Paris, Madame, eſt Salomon: Ne contient-il pas",
+            "en luy toutes les ſciences? N’eſt-ce pas le Siege des",
+            "Roys? N’eſt-ce pas le lieu principale de leur Empire;",
+            "Venes y donc, comme vne ſeconde Saba en Ieruſalem,"
+        ]
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "imprimatur": "Auce Priuilege de ſa Majeſté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "déclaration"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1650-05-09",
+        "change": {
+            "@status": "corrected",
+            "@when": "2021-11-16",
+            "@who": "AB"
+        },
+        "titre": "Déclaration du roi, portant abolition générale de ce qui\n          s’est passé en la ville de Paris, l’onzième décembre dernier, 1649, vérifiée en parlement\n          le douzième mai 1650.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121209573",
+            "persName": {
+                "forename": "Louis",
+                "surname": "De Bourbon"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1650-05",
+                "#text": "mai 1650"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "DECLARATION",
+            "DV ROY,",
+            "PORTANT ABOLITION GENERALE",
+            "de ce qui s’eſt paſſé en la Ville de Paris",
+            "l’vnziéme Decembre dernier mil ſix",
+            "cens quarente-neuf.",
+            "Verifiee en Parlement le douzieme May mil",
+            "ſix cens cinquate.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires du Roy.",
+            "M. DC. L.",
+            "Auce Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "LOVIS par la grace de Dieu Roy de",
+            "Françe &amp; de Nauarre, aà tous preſens",
+            "&amp; aduenir, Salut. Bien que nous ſça",
+            "chions de quel prejudice &amp; importan",
+            "ce ſont aà l aurhorité́ des Roys, au bien",
+            "public &amp; à la tranquilliteé des Peu",
+            "ples, les factions, ſeditions &amp; reuoltes qui ſe for",
+            "ment dans les grands Eſtats, principalement dans",
+            "les Villes capitales, &amp; que le tumulte fait en noſtre",
+            "bonne Ville de Paris l’vnzié́me Decembre dernier,",
+            "par nombre de gens armez &amp; artroupez luſques",
+            "dans noſtre Palais, cnians ax armes, qu’il faſlois",
+            "fermer les Boutiques, &amp; repouſſer la force par la for",
+            "ce, ſoit de cette qualité, &amp; par l’ordre des Loir pu",
+            "niſſable exemplairement &amp; ſeuerement; &amp; d’autans",
+            "plus que cette action a eſteé precedee &amp; ſuiuie de di.",
+            "uers monopoles, pratiques, mené́es, aſſembleé́es, &amp;",
+            "conſeils tenus contre le bien de noſtre ſeruice &amp; le",
+            "repos de noſtre Eſtat, voire meſmes pretexté́e, con",
+            "re verité, d’entrepriſe faite ſur quelques Officiers",
+            "de noſtre Cour de Parlement, &amp; de meurtres de par",
+            "ticuliers feints &amp; ſuppoſez; Nous auons neantmoins",
+            "touſiours eſtimé́ que la clemence eſt la propre ven.",
+            "A ij"
+        ],
+        [
+            "tu des bons Princes, &amp; qu’eſtans l’Image de Dieu ſur.",
+            "laterre, ils doiuent, aurant qu’ils peuuent, pardoner",
+            "à leûirs Subjeis, &amp; ne les point traitter par rigueur",
+            "de Iuſtice: Ce que nous faiſons d’autant plus volon",
+            "tiers, que nous y ſommes portez par noſtre inclina",
+            "tion naturelle, l’Education &amp; les Conſeils de la",
+            "Reyne Regente, noſtre tres- honoré́e Dame &amp;",
+            "Mere, &amp; par l’exemple des oys derniers decedez,",
+            "nos Tres-honorez Seigneurs, Pere &amp; Ayeul, qui",
+            "apres auoir reduit leurs Subjess à l’obeiſlance par la",
+            "force, &amp; à la gloire de leurs Armes, les ont traittez",
+            "par clemence &amp; par grace, &amp; ont mieux aymé re.",
+            "gner comme Peres de leurs Peuples, que com",
+            "me Roys Triomphans &amp; Vainqueurs. A CES",
+            "C A S E S, epour autres grandes conſiderations",
+            "à ce nous mouuans, prejugeans bien de tous nos",
+            "Subjets, &amp; nous confians en leur affection &amp; fide.",
+            "lité́; deuëment informez des choſes ſuſdites, &amp;",
+            "pour les couurir d’vne Amniſtie generale, &amp; d’vn",
+            "oubly perpetuel, De l’Aduis de la Reyne regente",
+            "noſtredite Bame &amp; Mere, &amp; de grace ſpeciale, plai",
+            "ne puiſſance &amp; athorité Royale, Nobus auons",
+            "eſteint, ſupprimeé &amp; aboly, &amp; par ces preſentes ſi",
+            "gnées de noſtre main, eſteignons, ſupprimons &amp;",
+            "aboliſſons leſdits cas &amp; crimes, &amp; la memoire &amp;",
+            "recherche de ce qui: s’eſt paſſé́ en noſtre bonne",
+            "Ville de Paris ledit iour vnzieéme Decembre der",
+            "nier, deuant &amp; apres iceluy, meſme depuis noſtre",
+            "Declaration du mois de Mars mil ſix cens quarente",
+            "aeu iuſques à preſent, pourexeiter ſedition, émo",
+            "ioné6"
+        ],
+        [
+            "tions &amp; tumules, par aſſemblées, conſeils, por",
+            "d’armes, voyes de fat &amp; autrement, par quelques",
+            "perſonnes &amp; en quelque ſorte &amp; maniere que ce",
+            "ſoit, &amp; generalement tout ce qui peut auoir eſteé.",
+            "commis, dit ou fait pour raiſon de ce que deſſus,",
+            "circonſtances &amp; dependances, comme ſi le tour",
+            "eſtoit cy ſpecifié, auec remiſe &amp; deſcharge de",
+            "toutes peines, amendes, offenſes corporelles, cri",
+            "minelles &amp; ciuiles encouruës enuers Nous &amp; Iulti..",
+            "ce, Mettans aà cét efſé́ct au neant toutes pourſuit.",
+            "tes, decrets, défauts, contumaces, Iugemens &amp; Ar.",
+            "reſts, qui s’en pourroient eſtre enſuiuis, &amp; remet¬",
+            "taus les preuenus &amp; condamnez en leur bonne re",
+            "nommee, pays &amp; biens, charges, honneurs &amp; di",
+            "gnitez, Voulons &amp; nous plaiſt, que les priſonniers",
+            "pour ce detenus, ſoient mis hors des priſons, ſans",
+            "qu’ores, ny aà l’aduenir, ils en puiſſent ellre inquie",
+            "tez ou recherchez, Et ſur ce impoſons ſilence per",
+            "petuel à noſtre Procureur Seneral, ſes Subſtituts &amp;",
+            "à tous autres. SI DONNONS HN MANDE",
+            "MENT à nos amez &amp; feaux Conleillers les Gens",
+            "enans noſtre Cour de Parlement de Paris, Que ces",
+            "preſentes nos Lettres d’abolition, ils ayent à̀ faire.",
+            "Iire, publier &amp; regiſtrer, &amp; du contenu en icelles,",
+            "faire joü̈ir &amp; vſer tous ceux qu’il appartiendra, plai",
+            "nement &amp; paiſiblement, ſans pemettre qu’il leur",
+            "y ſoit donné aucun trouble ny empelchent:",
+            "CRtel ſt noſtre plaiſir. Et afn que ce ſoit cho",
+            "ſe ferme &amp; ſtable à touſours, ncus auons aà̀ ceſdi",
+            "tes preſentes fait mettre noſue Seel, ſauf en au",
+            "B"
+        ],
+        [
+            "tres choſes noſtre droict, &amp; l’autruiy en toutes.",
+            "D on s’à Dijon au mis d’Auril, l’an de grace",
+            "rmil ſix cens cinquante, &amp; de noſtre le ſeptiéme.",
+            "Signé, LOVIS, Et ſur le reply, Par le Roy, la",
+            "Reyne regente ſa Mere preſente, d Gv s n",
+            "cAvD, &amp; ſeellée du grand Seau de cire verte ſur",
+            "lacs de ſoye rouge &amp; verte. Et oncor eſt écrit:",
+            "Leus &amp; pabliées l’Audiance tenant, &amp; regiſtrées",
+            "as Greffe de la Cour, Ouy ce equeranu le Procureur",
+            "General du Ry, pour eſtre executées ſelon leur forme",
+            "teneur, A Paris en Parlement le douiéme May mil",
+            "ſux cens cnquante. Signé, G vy nr.",
+            "Collationné à l’Original par moy Conſeiller",
+            "Secretaire du Roy &amp; de ſes Finances."
+        ]
+    ]
+}

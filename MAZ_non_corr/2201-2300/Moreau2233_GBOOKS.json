@@ -1,0 +1,122 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1649-06-03",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre envoyée par Dom André Piedmontel (sic), gouverneur\n          de Nieuport en Flandre, le 8 juin 1649, à messieurs les colonels et capitaines suisses,\n          commandants ès armées et garnisons de Sa Majesté très chrétienne.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": "André",
+                "surname": "Piedmontel"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": "Sans Lieu",
+        "publisher": "Sans Nom",
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "û q &amp; &amp;&amp;u &amp;,",
+            "Ve ieeſillu",
+            "TT",
+            "V",
+            "LEI IRE ENVOYEE",
+            "par Dom André Piedmontel.",
+            "Couuerneur de Nieuport en",
+            "Elandres le huictieſme Iuin es.",
+            "̀ Meſsieurs les Colonels &amp;",
+            "Capitaines Suiſſes, commandans",
+            "s Amees &amp; Garniſons de ſa",
+            "Maieſte Tres Chreſtienne.",
+            "fssevs,",
+            "E adueny du eraitement meque ue vou",
+            "ez receu depais vn an &amp; plus de la Couronne de",
+            "mes du iuſle ſmtſment que ous aue eon",
+            "u, fomde ennt’autre, ſur le defuut de o e",
+            "ui vous ont desa oſte le moyen depouuoir fbu",
+            "lr I’eny donneaui uoſl adui,a ſE Conn, ner.",
+            "mon acquit de mon deuoir &amp; de l’affection que",
+            "y touſiours porte à voſtre Nation, ſi mail traitée",
+            "apres de ſi longs &amp; ſignalez ſtruices rendus à ladite",
+            "ed",
+            "ii",
+            "l",
+            "tie i",
+            "e",
+            "l is",
+            "dr iire",
+            "eire",
+            "1",
+            "l ſei",
+            "e le",
+            "e",
+            "eei",
+            "ie l ee",
+            "l",
+            "ee",
+            "e eei",
+            "e",
+            "S",
+            "1!",
+            "edee",
+            "e8e",
+            "ledti",
+            "d",
+            "l"
+        ],
+        [
+            "4",
+            "Couronne, qui la verité metieoit des tepa",
+            "es oien loenlies &amp; eraodinaine Es onan",
+            "’ay eeer ordre de ſon Alueſſe lmpeale devoy",
+            "ile onre tan de la pant de d uleſ ut del",
+            "ſeone, d’vne pompe u nuee ſaifiaeo deu",
+            "reraeps quela Fanee vour dois neſoe de o",
+            "ou quere nou de la ſoldede ſuceroiſt poun fiel",
+            "oige ae rour veon oſre oass aee liberlt",
+            "puſpen parere pluee &amp; vou imesdeobe",
+            "e d ſa luieſre &amp;t de rEmpereurſon frere le!",
+            "ſeeu nexeuſer de vos en donnert prt auſi tout 8",
+            "par diuerſeeoyes, auſi de vous donarles aſeun",
+            "que pourtiet deſret de I’aecompuiſenen du",
+            "die le, vous prant ſi vous en prende desoul",
+            "rerieur de vouloir ehoiſir ou denommer quequs",
+            "placeidoine, meſme hors du li de mon Gou",
+            "nement, ouie pourrois trouuer vos Depute&amp; mui",
+            "er auee eux plus partculierement, &amp;e de bou",
+            "auee la ſincerite &amp; candeur de laquelle voſt",
+            "loun eonſlunt p -ee eeoee",
+            "Ee e eely’qui fait profeſion de vui efaigpe",
+            "qu’il eſtveritablement,",
+            "ESSIEVRS,",
+            "2",
+            ".",
+            "Vſtre tras bamble &amp;",
+            "oboyſſantſeruitour,",
+            "oon &amp;ime raijolnl.",
+            "nD 2",
+            "A Nieuport le8. uin 649.",
+            "¬aaaa"
+        ]
+    ]
+}

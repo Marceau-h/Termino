@@ -1,0 +1,137 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "faux"
+        ],
+        "handwritten_note": true,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Mazarin, Jules (1602-1661)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Rennes en Bretagne\n          contre le nommé Jules Mazarin et ses fauteurs et adhérents, par lequel ils sont tous\n          déclarés criminels de lèse majesté, tous leurs biens acquis et confisqués.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000123225884",
+            "@source": "Mazarine",
+            "@role": "speaker",
+            "orgName": "Parlement de Bretagne"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-01-21",
+                "@notAfter": "1649-01-31",
+                "@when": "1649",
+                "#text": "dernière semaine de\n            janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": [
+            {
+                "@ref": "isni:0000000108959687",
+                "@xml:id": "IL_MaucroyEtienne.xml",
+                "persName": {
+                    "forename": "Étienne",
+                    "surname": "Maucroy"
+                }
+            },
+            {
+                "@ref": "isni:0000000001965841",
+                "@xml:id": "IL_PepingueVeuvedeTheodore.xml",
+                "persName": {
+                    "forename": "Veuve de Théodore",
+                    "surname": "Pépingué"
+                }
+            }
+        ],
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR DE PARLEMENT",
+            "de Rennes en Bretagne, contre",
+            "le nommé lulles Mazarin, &amp;",
+            "ſes autheurs &amp; adherans, par le",
+            "quel ils ſont tous declarez cri",
+            "minels de leze Majeſté, tous",
+            "leurs biens acquis &amp; confiſquez.",
+            "A PARIS,",
+            "Chez la Veufve THEOD. PEPINGVE,, &amp; EST.",
+            "MAVCROY, ruë de la Harpe, vis à vis",
+            "la ruë des Mathurins.",
+            "M. DC. XLIX."
+        ],
+        [
+            "ARREST DE LA COVR DE",
+            "Parlement de Rennes en Bretagne, contre",
+            "le nommeé lulles Mazarin, &amp; ſes theurs",
+            "&amp; adherans, par lequel ils ſonr to lecla",
+            "rez criminels de leze Majeſe, tous leurs",
+            "biens acquis &amp; confiſquez.",
+            "er",
+            "1p D",
+            "A7 er",
+            "EXYTRAICT DES REGISTRES",
+            "de Parlement.",
+            "CE jourd’huy la Cour, les deux Semeſtres aſſem",
+            "blez, ſur le rapport fait par le Procureur General",
+            "du Roy, de l’enleutement de la perſonne dudit Sei",
+            "a gneur Roy, la nuict du cinq au ſieſme iour du",
+            "preſent mois &amp; an, par le nommé lIules Mazarin",
+            "de nation ltaienne, &amp; ſur la notorieté de fait des leué́es",
+            "des Gens de Guerre &amp; deniers en cette Prouince: Veu",
+            "auſſi les Arreſts du Parlement de Paris des huictieſme &amp;",
+            "&amp; treizieſme deſdits mois &amp; an, A declaré &amp; decla",
+            "re ledit Iules Mazarin, ſes fauteurs, adherans, crimi",
+            "nels de leze Majeſte au premier chef, &amp; perturbateurs du",
+            "repos public: Leur fait commandement de-garder leur ban",
+            "ordonné par ledit Arreſt du huitieſme anuier, ſu peine",
+            "de la hart, auec confiſcation de tous leurs biens, meubles",
+            "&amp; immeubles, &amp; meſmes les fruits des Benefies dudit",
+            "Mazarin: Fait deffenſes à toutes perſonnes. de quelque",
+            "eſtar &amp; qualité qu’ils ſoient, de leur donner r traite, à pei",
+            "ne de deſch ance des priuileges de Nobleſſe, &amp; d’eſtre de",
+            "clarez incapables de tenir aucunes dignitez, &amp; Offices",
+            "Royax. O DoNnE qu’à la diligence dudit l’rocureur",
+            "General du Roy, il ſera informé du diuertiſſement d’argent"
+        ],
+        [
+            "l",
+            "neſpece ou lingors faits par ledit laarin ho duoyaa",
+            "1",
+            ".",
+            "ne, enſemble des leuées des C&amp;ens deouerre, auſquels aueun",
+            "Saiuiſs Couuerneus ne pourome donmer enrtes aideou",
+            "ouin foeſur pareille peine, Apermis &amp; permet au Conm",
+            "uunes de leur courir ſus au ſon du toxin Et a ladite oue",
+            "ionta ous leomeiens de ce eſot de emi l nain?",
+            "’e euron du preſent meſl, le ue edle o lone deſe",
+            "puuie ſon de ronpe eaſnhe pnr ou ou beſoinſer ee",
+            "’qnaniere aecouſlunmée, afn que peſonne n’en pretende",
+            "uſe dignmorance, F r aennes,en Patlement, ledix",
+            "huireſme lanuier mil ſix cens quarante-neuſ"
+        ]
+    ]
+}

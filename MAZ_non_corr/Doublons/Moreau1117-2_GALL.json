@@ -1,0 +1,172 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Discours des misèrês de ce temps, dédié au duc de\n                    Beaufort.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "ai",
+            "4"
+        ],
+        [
+            "¬",
+            "1",
+            "1",
+            "A",
+            "mne v e g e l ſee rr",
+            "¬¬",
+            "N",
+            "T",
+            "IS",
+            "DES MISERES",
+            "de ce temps.",
+            "r r",
+            "I",
+            "L ¬",
+            "T T T",
+            "DEDIE’E AV VC",
+            "T T",
+            "H",
+            "L L .",
+            "T",
+            "A",
+            "L .",
+            "ta tottd",
+            "eue elti derſovpxe",
+            "AtEe",
+            "ee p tr ei pu",
+            "ſ",
+            "’ee",
+            "ri e",
+            "Ao’t?",
+            "¬",
+            "A PARIS,",
+            "s.",
+            "lL¬",
+            "Che M erl lM E Tr a x , Impimeur ordinaire du",
+            "oy, demeuran en l’lle oſre Dame ſar e",
+            "Pont Marie, au Cigne,",
+            "l.",
+            "M. DC. XLIX.",
+            "T ¬ .",
+            "J T",
+            "A",
+            "s 2¬",
+            ","
+        ],
+        [
+            "¬",
+            "1",
+            ".",
+            "A u, &amp;sp&amp; te udi,e, ah,tiue,",
+            "jieoeleo efeleee elſeteleto:e?",
+            "T",
+            "CD",
+            "TI1",
+            "DIOS9 DE9",
+            "mſeres de ce temps.",
+            "DEDIEEAV DVC DE BEAVFORT.",
+            "NI",
+            "T",
+            "I depuis que le monde a pris commencement,",
+            "yLe vice d’aage en aage auoit accroiſement",
+            "Cinq mille ans ſont paſſez que l’extreme malice",
+            "Euſt ſurmonté le peuple, &amp; tout ne fuſt que vice,",
+            "Mais puis que nous voyons les hommes en tous lieux",
+            "Viure l’vnvertueux &amp; l’autre vicieux,",
+            "Il nous faut confeſſer que le vice difforme",
+            "N’eſt pas victorieux, mais ſuit la meſme forme",
+            "Qu il receut dés le iour que l’homme fuſt veſtu",
+            "Ainſi que d’vn habit, de vice &amp; de vertu.",
+            "Ny meſme lavertu ne s’eſt point augmentée,",
+            "Si elle s’augmentoit ſa forcefuſt montée",
+            "Au plus haut pe riode, &amp; tout ſeroiticy",
+            "Vertueux &amp; parfaitce qui n’eſt pas ainſi.",
+            "Or comme il plaiſt aux loix, aux Princes &amp; à l’aage.",
+            "uelque fois la vertu abonde dauantage,",
+            "Le vice quelquefois, &amp; l’vn en ſe hauſſant",
+            "Va de ſon compegnon le credie rabaiſſant,",
+            "Puis il eſt rabaiſſé afin qué leur puiſſance.",
+            "Ne prenne entre le peuple vne entiere aćcroiſſance"
+        ],
+        [
+            "e",
+            "rl ie",
+            "5",
+            "Ainſi plaiſt au Seigneur de nous exereiter,",
+            "Et entre bien &amp; mal laſſer l’homme habiter",
+            "Comme le Marinier qui conduit ſon voyage",
+            "Ores par le beau temps, ores par l’orage.",
+            "Vous, Reine, dont l’eſprit ſe repaiſt quelquefois",
+            "De lire &amp; d’eſcouter l’hiſtoire des François,",
+            "Vous ſçauez, en voyant tant de faits memorables,",
+            "Qe les ſiecles paſſez ne furent pas ſemblables",
+            "Vn tel Roy fut cruel, l’autre nele futpas:",
+            "L’ambition dvn tel cauſa mille debats:",
+            "Vn tel futignorant, l’autre prudent &amp;ſage,",
+            "L’autre n’euſt point de cœur, l’autre rropde courage",
+            "2",
+            ",Tels que furent les ſuiets:",
+            ", Car les Rois ſont touſiours des peuples les obiets:",
+            "Il faut donc dés ieuneſſeinſtruire bien vn Pnnce",
+            "Afin qu’auec prudence il tienne ſa Prouince:",
+            "Il faut premierement qu’il ait deuant lesyeux.",
+            "La crainte d’vn ſeul Dieu qu’il ſoit deuotieux¬",
+            "Vers l’Egliſe approuuée, &amp; que point ilne change",
+            "La foy de ſes ayeulx pour en prendre vne eſtrange:",
+            "Ainſi que nous voyons inſtruire noſtre Roy",
+            "Qui par voſtre vertu n’a point changé de Loy.",
+            "Ha ! que diront la bas ſous les tomhes poudreuſſes",
+            "De tant de vaillans Rois les ames genereuſes,",
+            "Que dira Pharamond, Clodion, &amp; Clouis,",
+            "Nos Pepins, nos Martels, nos Charles, nos Louys:",
+            "Qui de leurpropre ſang à tous perils de guerre",
+            "Ontacquis à leur fls vne ſibelle terre?",
+            "o",
+            "Que"
+        ]
+    ]
+}

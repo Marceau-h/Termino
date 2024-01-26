@@ -1,0 +1,162 @@
+{
+    "imprimatur": "Auec Permißion",
+    "corrector": false,
+    "entête": {
+        "form": [
+            "vers",
+            "prose"
+        ],
+        "genre": [
+            "prosopopée",
+            "discours adressé"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-15",
+            "@who": "ZC"
+        },
+        "titre": "La voix du peuple à monseigneur le duc de Beaufort, pair\n          de France.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000506791357",
+            "@xml:id": "IL_NoelFrancois.xml",
+            "persName": {
+                "forename": "François",
+                "surname": "Noël"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "LA VOIX",
+            "DV PEVPLE",
+            "A MONSEIGNEVR",
+            "LE DVC",
+            "DE BEAVFORT.",
+            "PAIR DE",
+            "FRANCE.",
+            "A PARIS,",
+            "Chez FRANCOIS NOEL, ruë Sainct Iacques, aux",
+            "Colomnes d'Hecrules.",
+            "M. DC. XLIX.",
+            "Auec Permißion"
+        ],
+        [
+            "LA VOIX DV PE VPLE,",
+            "A MONSEIGNEVR LE DVC",
+            "DE BEAVBORT,",
+            "PAIR DE FRANCE.",
+            "I iamais la valeur à paru auec eſ",
+            "dat &amp; auee de ſignalez teſmoi",
+            "a gnages, comme aurte-fois celle",
+            "des Hectors &amp; des Achiles: Cer",
+            "tes, nous deuons bien à preſent vanter la",
+            "grandeur &amp; la generoſité́ de ce Prince, dont",
+            "la valeur eſt teilement connui, que l’on",
+            "peut auoüerauec veriteé qu’il ne s’eft iamais",
+            "veu de Heros plus digne de porrer le. nonm",
+            "&amp; le tiltre de vainqueur que ce grand Duc.",
+            "Et comme il n’ya point d’éloge qui ne ſoit",
+            "au’deſſous de ſes merises, Quelles palmes&amp;",
+            "quels lauriers ſeront aſſez floriſfans pour",
+            "couronner ſa ceſte, luy qui va garantir lano",
+            "A ij"
+        ],
+        [
+            "4",
+            "ſtre, &amp; la mettre à l’abry de l’enuie &amp; de la",
+            "ue de nos enunnmis ouel ma oue ou qei",
+            "ai in ſera aſſez fidel pour çonſeruer ſa me",
+            "moire a la poſterité́, luy que nos ſucceſſeurs",
+            "doiuent reuerer comme le conſeruateur de",
+            "leurs biens &amp; de leurs fortunesN’auoüerez¬.",
+            "vous pas auecc moy, ( iudicieux François )",
+            "que vos cœurs ſont remplis de rauiſſement",
+            "quand il s’agit de ſon ſeruice, &amp; lors que la",
+            "fatale nouuelle vint icy qu’il eſtoit entou",
+            "ré d’ennemis, ne le fiſtes-vous pas paroiſtre",
+            "en ce rencontre, &amp; ne conruſtes vous pas",
+            "plus viſtes que les eſclairs luy teſmoigner",
+            "vos vœux &amp; vos ardeurs: mais a vertu qui",
+            "l’aceompagne a’auoit garde de l’abandon",
+            "ner à ces monſtres d’iniquité, puis que la cau",
+            "ſe pour laquelle il cobattoit eſtoit trop",
+            "pleine de. Iuſtice : &amp; ee ſouuerain Maiſtre",
+            "des decrets qui -nous l’a donné pour nous",
+            "proteger contre la tyrannie, l’accompagne",
+            "ra touſiours, &amp; le fera triompher des enne",
+            "mis de noſtre Roy &amp; de ſon Eſtar; C’eſt par",
+            "luyque nous pouuons eſperer la ttanquili",
+            "té &amp; le repos, auſſi nous l’a-t’il defia moa",
+            "ſtré par ſes ations heroques: les viures &amp;"
+        ],
+        [
+            "les conuoys qu’il fait entrer iournellement",
+            "en cette ville, en ſont des preuues éuiden",
+            "tes; n’a-t’il pas aux champs de Mars affron",
+            "té les plus grands perils que puiſſe franchir",
+            "vn valeureux ſoldat? &amp; ceux qui ont eſteé́ ga",
+            "gez pour commettre vn homicideen ſa per",
+            "ſonne, n’ont-ils pas eſté punis par ſa propre",
+            "main de leurs laſchetez. De deſcrire toutes",
+            "les victoires où̀ il a ſignalé ſon courage, l’on",
+            "deſcriroit auec plus de facilité le triomphe",
+            "d’Alcide, &amp; ſi vous rappellez la priſe d’Ar",
+            "ras, vous le pourrez voir encore tout cou",
+            "uert duſang des ennemis, qui penſoient aſ",
+            "ſeurer leur vie, &amp; rencontrer leur ſalut dans",
+            "la fuitte, enfin l’on monſtreroit pluſtoſt l’I",
+            "liade compriſe en vne noix que toutes les",
+            "belles &amp; genereuſes actions de ce Prince.",
+            "Apres taãt de manifeſtes marques de ſon cou",
+            "rage, il faut donc neceſſairement conclur",
+            "re, puis que ſa valeur eſt immortelle, qu’il",
+            "luy faut par conſequent des palmes immor",
+            "telles, &amp; que nos vers &amp; nos eſcrits ne ſont",
+            "pas aſſez puiſſans, pour vanter ſa valeur;",
+            "que noſtre bouche n’a pas aſſez d’éloquen",
+            "S pour publier ſon merite, &amp; qu’il n’y a"
+        ],
+        [
+            "6",
+            "point d’aſſez durables métaux pour immor",
+            "taliſer ſa gloire.",
+            "SONNET.",
+            "Vox populi.",
+            "Rand Pince le deftin propice à̀ ta valeur,",
+            "Promet à tes rauaux tant d’honmeur &amp; degloire,",
+            "Que tu remporteras la fameuſe victoire,",
+            "e ouee",
+            "Chacun veut par ſon ſang ſignaler ta memoire.,",
+            "Et laiſſer aux nepueux apprendre dam l’Hiftoire,",
+            "Qe Mars n’a point conn de plus noble vainquenr.",
+            "Deſis les fatieux redoutans ton courage",
+            "P.irlent de Conference &amp; donnent vn paſſage:",
+            "Mi ſans borner le cours de tes faits inouys.",
+            "D’n Miniſtre tyran v deliurer la Fnance,",
+            "Et rameine bien-toft auec noſtre Louys,",
+            "Pour comble de bon-heur, la pdx &amp; l’abondance.",
+            "Ex vot. Pariſ¬"
+        ]
+    ]
+}

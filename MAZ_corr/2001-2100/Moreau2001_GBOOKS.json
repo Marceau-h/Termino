@@ -1,0 +1,110 @@
+{
+    "imprimatur": "AVEC PERMISSION.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-01",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-27",
+            "@who": "MF"
+        },
+        "titre": "Lettre de monseigneur le duc de Guise à la reine régente\n          sur son injuste détention à Naples, et sur son affection pour mademoiselle de Pont\n          .",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:000000012131180X",
+            "persName": {
+                "forename": "Henri II de Lorraine, duc de",
+                "surname": "Guise"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000110423830",
+            "@xml:id": "IL_LaVigneNicolasde.xml",
+            "persName": {
+                "forename": "Nicolas de",
+                "surname": "La Vigne"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DE MONSEIGNEVR",
+            "LE",
+            "DVC DE GVISE",
+            "A LA",
+            "REYNE REGENTE",
+            "SVR SON INIVSTE DETENTION",
+            "à Naples, &amp; ſur ſon aſfection pour",
+            "Mademoiſelle de Pont.",
+            "A PARIS,",
+            "Chez NICOLAS DE LA VIGNE, proche",
+            "S. Hilaire, dans la Cour d'Albret au Nom IESVS.",
+            "M. DC. XXXXIX.",
+            "AVEC PERMISSION."
+        ],
+        [
+            "3",
+            "LETTRE DE MCNSEIGNEVR",
+            "LE",
+            "DVC DE GVISE",
+            "1 ¬ T L",
+            "la Reyne Regente, ſur ſon iniuſte",
+            "detention à Naples, &amp; ſur ſon",
+            "affection pour Mademoi",
+            "ſelle de Pont.",
+            "ADAME.,",
+            "I’auois touſiours eſperé́ de voſtre Majeſté, que ha",
+            "ſardant ma vie, luy conquerant des Prouinces, luy a",
+            "ſuietiſſant des Royaumes, &amp; maintenant par ma ſeule",
+            "reſolution des peuples dans la fidelité, ſans argent, &amp;",
+            "ſans pain, comme la guerre ſans poudre, &amp; ſans ſol",
+            "dats, expoſant ma perſonne dans les perils continuels,",
+            "ou ie me trouue touſiours, ou de trahiſon, ou de poi",
+            "ſon, &amp; ne prerendant pour recompenſe de mes ſerui",
+            "ces, que de pouuoir, apres tant de trauaux paſſer heu¬"
+        ],
+        [
+            "reuſement le reſte de mes iours auec Mademoiſelle.",
+            "de Pons, elle la conſidereroit, pour me teſmoigner",
+            "auoir quelque ſausfaction des ſoins que ie prens icy",
+            "de luy rendre des ſeruices ſi perilleux, eſtant rahy, &amp;",
+            "abandonné’de tout le monde, que ie peux dire eſtre",
+            "le ſeul qui euſt oſe penſer d’entreprendre pareil.",
+            "I’auoü̈e, MADAME, que i’ay appris auec vn deſeſpoir",
+            "extreme la rigueur, dont voſtre Majeſté a vſé enuets",
+            "elle, ie laſupplie tres humblement de vouloir en con",
+            "fideration de tout ce que i’ay fait, &amp; de tout ce que ie",
+            "pretens faire pour les ſeruices de la Couronne, m’ac",
+            "corder pour recompenſe quelle ſoir, &amp; traicté́e &amp;",
+            "cõſiderée d’vne autre façon Ce que i’eſpere de ſabon",
+            "té,ſi elle veut conſeruer le repos &amp; la vie de la perſon",
+            "ne du monde, qui eſt plus veritablement, &amp; auec plus",
+            "de reſpect,",
+            "MADAME,",
+            "Devoſtte ſaiefe lerres-hamble, re-obeyſame.",
+            "&amp; tres-fidel ſujet, &amp; ſeaaitenr."
+        ]
+    ]
+}

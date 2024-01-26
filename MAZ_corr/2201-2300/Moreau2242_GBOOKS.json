@@ -1,0 +1,178 @@
+{
+    "imprimatur": "Auec Permißion.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "lettre",
+            "réponse"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-07-30",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-05",
+            "@who": "AB"
+        },
+        "titre": "Lettre interceptée de M. Servien à M. Gaultier, avec la\n          Réponse contre ladite lettre.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000003147076",
+            "persName": {
+                "forename": "Abel",
+                "surname": "Servien"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-08-07",
+                "#text": "datée du 7 août 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000364740772",
+            "@xml:id": "IL_LarruSamuelde.xml",
+            "persName": {
+                "forename": "Samuel de",
+                "surname": "Larru"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "INTERCEPTEE",
+            "DE MONSIEVR",
+            "SERVIEN",
+            "ESCRITE",
+            "A MONSIEVR",
+            "GAVLTIER",
+            "AVEC LA RESPONSE",
+            "contre ladite Lettre.",
+            "A PARIS,",
+            "Chez SAMVEL DE LARRV, prés S. Eſtienne.",
+            "M. DC. LII.",
+            "Auec Permißion."
+        ],
+        [
+            "3",
+            "LETRE TRETE",
+            "dle; omſfeu Srie, eepite ſom",
+            "ſſeusr Gaultier.Auec ls Reſponfe coi",
+            "re ldite Lttr",
+            "ii.",
+            "2.L1.",
+            "1..",
+            "l",
+            "11",
+            "?",
+            "tosE vy,",
+            "Ce qud jay à vous diſe depuis mai er?",
+            "niere, eſt que Mohſéuar e-’Cardinial eſ",
+            "ien informé́ des ſoins que vous prenez",
+            "pour détromper les eſprits des mauuaiſes",
+            "impreſſions que le paſcy de lMeſfidrs les",
+            "Princes taſche de donaer au peuple, contre",
+            "luy; pour leiirs deſſeins; Il m’a donné́ char",
+            "ge dous mando qu’il n’oubliera iamais",
+            "ce. eruaice û’il eſtine, d’autant plus que",
+            "vous preferez les bons intereſts à ceux que",
+            "vous pouuez auoir pour Moſieur le Prince;",
+            "Vous continuerez, s’il vous piſt, à parler",
+            "hautement dans le Palais pour la cauſe du",
+            "A’¬"
+        ],
+        [
+            "’oya Cmmevounauez fait inſqus à pre",
+            "pre ſuiuaheles ntruooas qul vouis om",
+            "témiſes enie les mai",
+            "eee neon reaaine ei e",
+            "as iu ſur toit n&amp; aquei pis",
+            "’oua lenne tos lasoun, i faioſepaut,",
+            "de o ouuedles pas l oye aon",
+            "mees. On a donné ordre a Cantarni de",
+            "voux vor, &amp; ous pajley pe que deers",
+            "de lur, lomſieur le cdarhmaiſ regnſei",
+            "depis dea faetieur, il ne oain ny re",
+            "Slle ſoraun lrout pas lns dlan",
+            "nes que Mepeurs la Pineea",
+            "Adieu. Cet,",
+            "MoNSI EVR",
+            "r .",
+            "2",
+            "Votre afetionae,",
+            "npourvous ſeui,",
+            ". A As io",
+            "oi l",
+            "De Pomhoiſe e pe",
+            "p",
+            "Aouſt r6;.",
+            "2.",
+            ".LL e pu2i",
+            "Reſponf"
+        ],
+        [
+            "5",
+            "4 da&amp;a",
+            "t e tee e?",
+            "’ eru",
+            "RESPOSE COTRE LA",
+            "re d Moſieur Seruie, crite",
+            "̀ Monſur Gaultier.",
+            "Ete Lettre marque l’artifice aue le",
+            "quel le party du Cardinal Mazarin",
+            "taſche d’empoiſonner les eſprits en mettant",
+            "le Roy de ſon coſté́, &amp; voulant porſuader",
+            "Qqu’on ne peu l’attaquer ſans offencer l’au",
+            "thorité oyale; Mais cét ecrit n’aura pas",
+            "plus de pouuoir ſur les bons &amp; veritables",
+            "François, qu’ont eu pluſieurs libelles diffa",
+            "matoires qu’on a ſemez parmy ce peuple",
+            "pour le deffendre, en décriant la conduite",
+            "de Meſſieurs les Princes, les gens de bien",
+            "qui ſont tous de leur party, ſçauent diſtin",
+            "guer le ſeruice du Roy d’auec les intereſts",
+            "d’vn Eſtranger, declareé Perturbateur du re",
+            "pos public &amp; ennemy de l’Eſtat, &amp; qui s’eſt",
+            "emparé de la perſonne du Roy &amp; le detient",
+            "priſonnier; Ils ſçauent auſſi que les mau¬"
+        ],
+        [
+            "uuis Miniſtres ont accouſtumé de ſe ſeir",
+            "u nom du Roy pour ſouſenir leuis peni",
+            "ceux deſſems, qui vont touſiours à leur pro",
+            "fit particulier ap deſpens de la choſe publi",
+            "que, outde meſme les promeſfes de cer ta",
+            "lien, &amp; ſes liberalitres quil fit des erere",
+            "des ’articuliers, ne ſont pas apables de",
+            "corrompre leur vereu, ny d’ebranlert leu",
+            "generoſité; Le Cardinal Mararin pesira",
+            "malgré tous fes Paitiſans. L’Hſpagne &amp;",
+            "le Lorrain, ne traicteront point auec cé",
+            "inſame proſcript, ils cognoſet ſesr fout",
+            "beies &amp; infidolitex, &amp;ils n’ignorer pa",
+            "quoy qu’ilſe vdmte, il ne peenie leui",
+            "donner.",
+            "FIN."
+        ]
+    ]
+}

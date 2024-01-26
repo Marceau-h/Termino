@@ -1,0 +1,115 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Viole, Jacques (1...-1652)",
+            "Le Doux, Claude (1... - 1652)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant qu’il sera délivré\n          passeports aux courriers tant ordinaires qu’extraordinaires, sous la signature de deux de\n          messieurs de la cour, commis pour l’ordre des postes, ou de l’un en l'absence de l’autre,\n          et du greffier.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01-31",
+                "#text": "31 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE PARLEMENT.",
+            "PORTANT QV’IL SERA DELIVRE",
+            "paſſeports aux Couriers, tant Ordinaires que",
+            "Extraordinaires, ſous la ſignatures de deux",
+            "de Meſſieurs de la Cour commis, pour l’ordre",
+            "des Poſtes, ou de l’vn en l’ablence de l’autre,",
+            "&amp; du Greffier.",
+            "Du trentieſme Ianuier, mil ſix cent quarante-neuf.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Maieſté."
+        ],
+        [
+            "3",
+            "EXTRAICT DES REGISTRES",
+            "de Parlement.",
+            "CE iour Meſſieurs les Conſeillers dépn.",
+            "tez pour l’ordre des paſſeports aſſem",
+            "ee e eenie ei e nen e de irrouneile",
+            "Sde ſaurce quelen qireur uremoſtrequi",
+            "eſtoit neceſſaire de faire paſſerà chaque heure du",
+            "iour les Couriers, tant ordinaires qu’extraordinai",
+            "res, &amp; que pour auoir paſſeports, il ſeroit trop long",
+            "de les obtenir de la Chambre; Il eſt à propos d’or",
+            "donner que ſous les ſignaturs de deux de Meſ",
+            "ſieurs quiſont commis pour l’ordre des ’oſtes, les",
+            "Chambres aſſembſées, &amp; du Greffier, que leſdits",
+            "paſſeports ſoient deliurées la matiere miſe en",
+            "deliberation, aà̀ Arreſté &amp; Ordonneé, qu’il ſera",
+            "deliuré paſſeports aux Couriers, tant ordinaires",
+            "qu’extraordinaires: Signez de Maiſtres lacques",
+            "Viole, &amp; Claude le Doulx, Conſeillers en la",
+            "Cour par elle commis pour l’ordre des Poſtes ou",
+            "de l’vn d’eux, en l’abſence de l’autre, &amp; de",
+            "Maiſtre Anthoine Guyet, Greffier. Enioinct à",
+            "tous 8apitaines &amp; Officiers de cette Ville &amp;",
+            "Faux-bourgs de Paris, de laiſſer paſſer Ieſdicts",
+            "A ij"
+        ],
+        [
+            "Couiriers, ſans qu’il leur foit fait aueun empeſ",
+            "chement ny retardement; Ordonne que l’Arreſt",
+            "ſera leu publieé &amp; affiché par toates les Portes &amp;",
+            "Carrefours de cette Ville de Paris &amp; Faux-bourgs",
+            "d’icelle. Faict au Parlement le trentieſme Ianuie",
+            "mil ſix cens quarante-neuf.",
+            "Signé GVYET.",
+            "Collaionne l’Original parmy Conſeiller Secre",
+            "taire du Roy é&amp; deſes Finances."
+        ]
+    ]
+}

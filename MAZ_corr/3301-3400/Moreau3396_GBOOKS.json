@@ -1,0 +1,112 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "réponse",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-22",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-08-04",
+            "@who": "MF"
+        },
+        "titre": "Réponse de la reine au mémoire présenté au Parlement de\n          la part de M. le prince de Conty, touchant l'entrée de l'archiduc Léopold en\n          France.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000055360231",
+            "@role": "speaker",
+            "persName": "Anne d'Autriche"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-03-22",
+                "#text": "Daté du 22 mars 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000109088537",
+            "@xml:id": "IL_JacquardNicolas.xml",
+            "persName": {
+                "forename": "Nicolas",
+                "surname": "Jacquard"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "RESPONSE",
+            "DE LA",
+            "REYNE",
+            "AV MEMOIRE PRESENTE'",
+            "AV PARLEMENT,",
+            "De la part de Monſieur le Prince",
+            "de Conty, touchant l’entrée",
+            "de l'Archiduc Leopold",
+            "en France.",
+            "A PARIS,",
+            "DE l'Imprimerie de NICOLAS JACQVARD,",
+            "ruë Chartiére.",
+            "M. DC. XLIX."
+        ],
+        [
+            "uueoeureneue",
+            "A,",
+            "ge e es e e ge e e de ge.",
+            "RESPONSE",
+            "DE LA REYNE",
+            "au memoire preſenté au",
+            "Parlement, de la part de M",
+            "le Prince de Conty, tou",
+            "chant l’entrée de l’Archi",
+            "duc Leopold en France.",
+            "A REINE eſt bien aiſe",
+            "loapprendre pat que",
+            "ſd dſe eaee",
+            "&amp;lquele on d queſ le",
+            "Roy d’Eſpagne, pour",
+            "iConunon e la pair onnre le dnu",
+            "A ij"
+        ],
+        [
+            "Couronnes. Et comme ſa Majeſté à fait",
+            "juſques icy tout ce qu’elle a pû pour l’y",
+            "convier, ayant fait demeurer ſi longtemps",
+            "ſes Plénipotentiaires aà Munſter, &amp; a en",
+            "voyé depuis peu le Sieur de Vautorte à",
+            "Bruxelles, &amp; meſme depuis peu declaré",
+            "à Monſieur le Nonce &amp; à l’Ambaſſadeur",
+            "de Veniſe, qu’elle eſtoit encor en ceſte",
+            "diſpoſition d’envoyer des deputez pourle",
+            "meſme effect. Sa Majeſté perſéverant en",
+            "cette bonne reéſolution, nommera &amp; fera",
+            "partir ſes Ambaſſadeurs avec plein pou",
+            "uoir, auſſi-toſt que l’on ſera convenu du",
+            "lIieu ou le Traitté ſe pourra faire; Entre",
+            "leſquels elle choiſira quelqu’vn des Offi",
+            "ciers du Pailement de Paris.",
+            "Eſcrit à S. Cermain le Lundy vingt",
+            "deuxieéme Mars, 64 .",
+            "e"
+        ]
+    ]
+}

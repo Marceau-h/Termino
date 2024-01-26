@@ -1,0 +1,188 @@
+{
+    "imprimatur": "Auec Priulege de ſa Maieſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "subgenre": [
+            "Fiscalité",
+            "Rentes de l'Hôtel de Ville"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement , toutes les chambres\n          assemblées, du 8 février 1652, portant que les prévôt des marchands et échevins\n          continueront leurs poursuites, et feront toutes diligences nécessaires pour le payement\n          des rentes, conformément à la déclaration et arrêts intervenus en conséquence\n          d'icelle.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-02",
+                "#text": "février 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "T T",
+            "A1I",
+            "T L .",
+            "DE LA",
+            "s r¬ ao3",
+            "4",
+            "lL",
+            "COVR",
+            "DE PARLEMENT",
+            "Ir",
+            "TOVTES LES CHAMBRES ASSEMBLEES;",
+            "Da haictiéme Feurier 16;.",
+            "Portant que les Preuoſt des Marchands &amp;Eſche",
+            "uins, continueront leurs pourſuittes; &amp; fe",
+            "ront toutes diligences neceſſaires pour le paye",
+            "ment des Rentes. Conformémentà la Decla",
+            "ration &amp; Arreſts interuenus en conſequenee",
+            "d’icelle.",
+            "A PARIS,",
+            "I’ar les Imprimeurs &amp; Libraires ordinaires du Roy.",
+            "Auec Priulege de ſa Maieſté."
+        ],
+        [
+            "3",
+            "Aloſ",
+            "ExrAier pEs ReG1STRES",
+            "de l Caar de Parlemenm.",
+            "E jour la Cour, toutes, les",
+            "Chaimbres aſſemblées preſns",
+            "J les Gns du Roy;apos auoit",
+            "gg ouy lePreuoſt des Marchanads",
+            "&amp; Eſcheuins de rette Ville:",
+            "p Jedit Preuoſt des Marchands",
+            "portant la parole en leur plaiate, de ce qui",
+            "leur à eſté; ſignifié à la Requeſte de Maiſtre",
+            "Chriſtophle de Bordeaux, Reeeueur General",
+            "des Finances à̀ Tours, vn Areſt du Conſeil",
+            "du huictiéme Ianuier dernier, qui arreſte &amp;",
+            "empeſche le payemont des deniers deſtinep",
+            "pour les Rentes aſſigneées ſur l’Hoſtel de lai",
+            "e Ville; dant les Rentiers aſfemblez font",
+            "grande inſtance ce qui pourroit apporter",
+            "trouble, où- ill eſt oeceſſaire de remedier., Et",
+            "fur la propoſition par luy faite d’enuoyer veris",
+            "le Roy, pour faire interpreter ledit Arreſt du¬"
+        ],
+        [
+            "qucl, &amp; d’vna projet d’Arreſt qu’il a deſſé",
+            "ſur ce ſujet, ſuiuant le reſultat de l’aſſemblée",
+            "renuë pour les Rentes en la maiſou de Mon",
+            "ſieur le Preſident de Bailleul, lecture a eſté",
+            "faite, ur peire &amp; oy ſur ce leſdits CGens",
+            "uRoy, eux auſireairez &amp; gular ſeclara",
+            "tion du Roy du vingt-deuxieſhe Octobre",
+            "mil ſix oens quarante-huict ; &amp; les Arreſts",
+            "du Conſeil des premier Iui&amp; vingt-ſrieſ",
+            "me Nouenbre mil ſix eescinquante, regi",
+            "ſtrez au Parlement les dixieſme luin &amp; vingt",
+            "deuxieſme Decembre audit an. Eſtat de re",
+            "couurement du neufeſme Clctobre, &amp; au",
+            "tre Arreſt du Conſeil du nedfieſme Nouerm",
+            "bre dernier, par leſquels, entrautres choſes,",
+            "eſt ordoné Que les ſommes deſtiées pou",
+            "le payement deſdites rentes, &amp; mentiornéés",
+            "eſdits Arreſts &amp; Eſtat, ſeront payez par pré,",
+            "erence à la partie de l’Eſpargne; &amp; que les",
+            "Receueurs geneaux &amp; particulies Cdrmmiq",
+            "&amp;’autres, deſnommez eſditsArteſts, y ſe",
+            "ront contraints chacunà leur eſgard, comme",
+            "pour les propres denlers &amp; affaires du Roys",
+            "La matiere miſe endeliberation iLITB",
+            "COVR a ordonné &amp; ordonae, que leſdits",
+            "Preuoſt"
+        ],
+        [
+            "Preuot des Marchands &amp; Eſcheuins conti",
+            "nueront leurs pourſuites, &amp; feront toutes",
+            "diligences neceſſaires pour le payement deſ",
+            "dites Rentes; &amp; pour obtenir l’interprcration",
+            "ou reuocation dudit Arreſt du huictieſme",
+            "lanuier, pour ce qui concerne leſdites Ren",
+            "tes; A cette fin ladite Declaration du Roy du",
+            "mois d’Octobre ſix cen quarante-huict, &amp;",
+            "leſdits Arreſts du Conſeil des premier Iuin &amp;",
+            "vingt-ſixieſme Nouembre ſix cens cinquante,",
+            "regiſtrez en ladite Cour, &amp; l’Eſtat de recou",
+            "urement du neufieſme Octobre, &amp; autre",
+            "Arreſt du Conſeil du neufieſme Nouembre",
+            "denier ſeront executez. Fait deffences àtou",
+            "tes perſonnes d’y contreuenir, &amp; à tus Re",
+            "ceueurs generaux &amp; particuliers, Commis,",
+            "Fermiers &amp; Traittans, de diuertir en quelque",
+            "ſorte &amp; maniere que ce ſoit, &amp; ſe deſſaiſir des",
+            "deniers deſtinez au payement deſdites Rentes,",
+            "qui ſeront payées par preference à toutes",
+            "choſes, meſmes à la premiere partie de ’Eſ",
+            "pargn de laquelle aucan payement ne ſera",
+            "aict, que le onds deſdices Rentes n’ait eſté",
+            "payé &amp; acquité, &amp; ce àpoine de la viecon",
+            "B"
+        ],
+        [
+            "tre leſdits Receueurs, Commis, Fermiers &amp;",
+            "Traittans, &amp; à peine d’en reſpondre par les",
+            "ordonnateurs Treſoriers de l’Eſpargne &amp;",
+            "leurs Commis, en leurs noms &amp; leur poſte",
+            "rité. Fait en outre deffences aux Maiſtres",
+            "des Requeſtes &amp; autres perſonnes, d’execu",
+            "ter aucunes Intendances &amp; Commiſſions ex",
+            "traordinaires, qu’elles n’ayent eſté verifiées",
+            "en ladite Cour, à peine de faux; &amp; ſi aucu",
+            "nes ſont expedices, ſeront tenus les faire ve",
+            "nfier dans vn mois: Enjoint aux Officiers",
+            "du Roy, Treſoriers de France des lieux, tenir",
+            "la main à l’execution du preſent Arreſt, lequel",
+            "ſera leu, publié &amp; affiché par tous les Carre",
+            "fours de cette Ville &amp; Faux-ourgs de Paris,",
+            "&amp; par tout ailleurs; &amp; à la diligence du Pro",
+            "cureur General, enuoyé par toutes les Villes",
+            "&amp; Liux que beſoin ſera, à ce qu’aucun n’en",
+            "pretende cauſe d’ignorance; Et a oſté arreſté",
+            "qu’il ſera dit auſdits Preuoſt des: Marchands",
+            "&amp; Eſcheuins, que la Cour eſt ſatisfaite de",
+            "leurs ſoins &amp; diligences, &amp; exhorter de conti",
+            "nuer: Et à l’inſtant mandez, Monſienr le Pro",
+            "ſident de Bailleul, leur a fait anendce edit"
+        ]
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1649-01-26",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Ballade burlesque des partisans",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-03",
+            "#text": "3 juin 2021"
+        },
+        "author": "Anonyme",
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": "Sans Lieu",
+        "publisher": "Sans Nom",
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "2",
+            "Noſtradamus n’a que tropvraimentdit,",
+            "Rouges deux fois feront boire calice,",
+            "Calice amer au Porte-rouge-habit,",
+            "Quand il ſeroit plus cauteleux qu’Vlyſſe.",
+            "Quand il iroit à S. Iacque en Gallice,",
+            "De tout peril ne ſeroit retiré.",
+            "Manteau pourprin n’eſtant port aſſeuré,",
+            "Que deuiendront gens de noſtre pratique?",
+            "Iules deloge, adieu donc la boutique.",
+            "Ce fut pour nous vn deſſein bien maudit",
+            "De party prendre en iniuſte milice,",
+            "Pour mieux goinfrer, &amp; coucher en beau",
+            "lit,",
+            "Et pour changer bergame en haute lice.",
+            "Bien vaudroit mieux auoir porté cilice,",
+            "Bien vaudroit mieux auoir toûjours pleuré.",
+            "Car l’vn ſera par peuple déchiré,",
+            "’autre au gibet pendra long- temps etique",
+            "Iules deloge, adieu donc la boutique.",
+            "-¬a"
+        ],
+        [
+            "naæ",
+            "e",
+            "RENVOY.",
+            "M aiſtre Pluron ouaooms antadore ¬",
+            "Manune ouenoneie uenenunrene e¬",
+            "ſes d",
+            "ſoit traitté comme bon domeſtique.",
+            "Car Senat dit, par moult triſte narré,",
+            "Iule, dé́loge. Adieu donc la boutique.",
+            "3¬",
+            "I .",
+            "5",
+            "l",
+            "!",
+            "¬"
+        ]
+    ]
+}

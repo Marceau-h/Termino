@@ -1,0 +1,189 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "narration",
+        "subject": [
+            "Ville de Paris",
+            "Broussel, Pierre (1576?-1654)"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-07-04",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-30",
+            "@who": "AB"
+        },
+        "titre": "Les particularités de ce qui s'est fait et passé en\n          l'assemblée de la Maison de ville pour l'élection de M. de Brusselles à la charge de\n          prévôt des marchands, le sixième juillet 1652.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2026-04-26",
+            "#text": "26 avril 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1652-07",
+                "@when": "1652",
+                "#text": "pas avant juillet 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000000174394",
+            "@xml:id": "IL_PoussetLouis.xml",
+            "persName": {
+                "forename": "Louis",
+                "surname": "Pousset"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LES",
+            "PARTICVLARITEZ",
+            "DE CE QVI S'EST FAIT",
+            "&amp; paſſé en l’Aſſemblée de la Maiſon",
+            "de Ville, pour l’Election de Mon",
+            "ſieur de Bruſſelles, a la charge de",
+            "Preuoſt des Marchands, le ſixiéme",
+            "luillet 1652.",
+            "A PARIS,",
+            "Chez LOVIS POVSSET, rue d’Eſcoſſe, prés Saint",
+            "Hilaire.",
+            "M. DC. LII."
+        ],
+        [
+            "LES PARTICVLARITEZ DE",
+            "cequis’eſt paſſé en l’Aſſemblée de",
+            "la Ville, pour l’Election de Mon",
+            "ieur de Bruſſelles à̀ la charge de",
+            "Preuoſt des Marchands, le ſixiéme",
+            "Iuillet o6se.",
+            "JTJOs ſouhaits &amp; nos eſperances ont en",
+            "fin atreint leur but, &amp; ceux que nous",
+            ", auons tant de fois demandé auCiel",
+            "pour nous proteger -contre l’oppreſſion du",
+            "tran Mazarin, vennent de receuoir la re",
+            "compeuſe de leur veru, &amp; de ce zelle",
+            "qeils ont fait voirz en tant de rencontres",
+            "paur noſte defanſe. le parle deces deux ze.",
+            "lateurs du bien publi Monſieur le Duc de",
+            "Baufost &amp; Monfieux dt Bruſelles, qui ont",
+            "prouueles prermirs les effets de la malveil",
+            "hce&amp; uauté de ce perfide Miniſtre, l’vs",
+            "par la capoiuité dequatre ansqu’il a injuſte",
+            "pant ſouffere, &amp; l’autre par ce fameux at",
+            "tpntateqiseoaure a peſonne au miet"
+        ],
+        [
+            "4",
+            "Aout o i ces deux grand ommes s",
+            "ue dles ple une diaoende lie er e",
+            "e en ſes iioi reinlies ſee eur",
+            "eſuiree e leſ e d eo lite dol",
+            "e or Peuoſt des Manedhaodn, en eeue",
+            ".2.",
+            "ſone:",
+            "ee a dnrioe le vle ao ue ſee ei",
+            "ooue le quiieonae di es npe e e",
+            "eone e ieſ lesi ouai onians de n die.",
+            "ounre pnues s lin eneiei oneeie",
+            "ae s e l ilde per l le lie lei",
+            "qe eon ſ e ſeie de ioaiele",
+            "lue duus ileaie ur les pinen fus lnſile",
+            "eteren nnreauoiſeounue leil n",
+            "peue ie n ie oen ee rouliaur onnſonre",
+            "pen ue ere ieee deſoaneieeiei",
+            "’el iun oeonreounde eeuſota de v ileie",
+            "n uen eieienee eu ean l n odln dle",
+            "ee uus lis ple e ie deoaie ioouue",
+            "ene e e ne i et ere &amp;s leue",
+            "nun uleileili ioneoe e ue le oe",
+            "uunaioaoiuoiosrrenagn",
+            "enn e uee rne ues lni n punese",
+            "leeel lue u lſe nroion de ſiuue de de",
+            "pluſuar ee ile pron de u’ a cembleo, Pou",
+            "Vu le eomi, ou dbiom quoprooede",
+            "à",
+            "-a-m"
+        ],
+        [
+            "I’Elton-’vi noueau: nbt dosMſai",
+            "chanls Sadit AlhtoſſoRoyaleeefienrs",
+            "les Psinosdonudqueleàt dacebel’ Affem",
+            "-blée desfheuns, Qua eie, Diziniers,",
+            "&amp; notalasButgeois à̀ l’aprbfdinlée d ſi",
+            "ueſomade oeaoinmau puſiems apanaaa",
+            "odiffiqudéde sedues popr. lgeaiie d’vn",
+            "deſe patdl aeluy qui eftolt atiaué quel¬;",
+            "quesirrupbareuant Sadie Altefſe Roya-",
+            "le leur ft olteraſſeuraadequillſ pmmmi",
+            "oit olt bousreé-deAſſenbléonlfsre ue",
+            "tos autbienti : fuffrag&amp;s. lse qui",
+            "ayaneſté, xoté ;&amp; dephbſieus compa",
+            "2goitdeogouib qu ieſtoibontous les al",
+            "-aeslStas ſalsdtmqosi lesaiiehes dela",
+            "lade de dee rmtfimeMoiihar ile Da",
+            "oBeafol aymopris lefnin dfaide indr",
+            "3 aeppeolhacaafdlrqaietoioa",
+            "ſcmoléeenladiPlace; lſditsfair Eſche",
+            "uins Queaeniers, ConfeilersdeVillo",
+            "notablei Banngedis, ſemdiaſ à.boût?l",
+            ", eVl̀lle où!ſeqrouueenpaufſ Meffreusilas",
+            "Prince de Condé &amp; D de Beaufost&amp;",
+            "-ptes les voix recueillies par vn des Quue",
+            "lers nmaeé à cé efft à̀ quae fois diffe",
+            "eates, le nombe daſqulloeſe tou lepls",
+            "E"
+        ],
+        [
+            "olepoaruoneummaneeaast",
+            "ſlelog nu eaue debu",
+            "e e d ſpunlie dmoba aun",
+            "ani aueu deſilapu laueqaadses out",
+            "as de laine ehaugp de lairialete",
+            "Senu e r ieune u ernun dis enoae e",
+            "e nen ee re e ou deooaneinee",
+            "’ odieſiſe lu e ſduduilaueee",
+            "oiederaeepem igpmdponrn",
+            "unriirniſiulnaus aee",
+            "ale l enre a id ienoneulſlnr",
+            "l eeueiu Se uiuea oeieiinte",
+            "ae e enuaiſ l mreiuiea eule",
+            "tait auetaundin ain dinoromueler",
+            "le ius rooperdeſrouarnaet",
+            "e ene udi dre ree i ſo oaeie",
+            "’lee ai eſe lſ ieeai aroeons puane",
+            "e rie reoin remoigſiroauoetme",
+            "ee dliſea di vilan ſdideplaeduedleſ",
+            "le e eruſaie unolſdemſineeueoinle",
+            "Cadie duane Ehnnoi il dps",
+            "uouaude dun-serleemps dealuatr",
+            "eaſſlſoanat demameb, t",
+            "meoigme manoienaa &amp;our",
+            "dn doronndadioainodaonuea",
+            "au. hons pmaoblouſphaenquls deglô"
+        ],
+        [
+            "8",
+            "Gtes leursi eſolutios ſui celes de ce ſage",
+            "&amp; padeut Magiſtat.",
+            "FIN."
+        ]
+    ]
+}

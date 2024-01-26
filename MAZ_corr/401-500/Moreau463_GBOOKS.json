@@ -1,0 +1,247 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": [
+            "vers",
+            "prose"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-01",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-04",
+            "@who": "AB"
+        },
+        "titre": "Avertissements charitables faits à Mazarin par son bon\n          ange, par N. S. B. D. C. Beausseron.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@role": "dubious_author",
+            "persName": {
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "N. S. B. D. C. Beausseron"
+                }
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-01",
+                "@notAfter": "1649-03",
+                "@when": "1649",
+                "#text": "pendant le blocus de\n            Paris"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": [
+            {
+                "@ref": "isni:0000000001965841",
+                "@xml:id": "IL_PepingueVeuvedeTheodore.xml",
+                "persName": {
+                    "forename": "(veuve de Théodore)",
+                    "surname": "Pépingué"
+                }
+            },
+            {
+                "@ref": "isni:0000000108959687",
+                "@xml:id": "IL_MaucroyEtienne.xml",
+                "persName": {
+                    "forename": "Étienne",
+                    "surname": "Maucroy"
+                }
+            }
+        ],
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "ADVERTISSEMENTS",
+            "CHARITABLES",
+            "FAITS A",
+            "MAZARIN",
+            "PAR SON",
+            "BON ANGE",
+            "Pa N. S. B. D. C. Beauſſeron.",
+            "A PARIS,",
+            "Chez la Veuſue THEOD. PEPINGVE &amp; EST.",
+            "MAUCROY, ruë de la Harpe, vis à vis",
+            "la ruë des Mathurins.",
+            "M. DC. XLIX."
+        ],
+        [
+            "3",
+            "ADVERTISSEMENS",
+            "CHARITABLES",
+            "FAITS A",
+            "MAZARIN",
+            "PAR SON",
+            "BON ANGE",
+            "AV LECTEVR,",
+            "LEcteur amy, ne. mets point cette",
+            "apparition au nombre de celles qui",
+            "t’ont eſté données iuſques icy, &amp;ne",
+            "ſais poinrcerort à la veeité que de la meſ",
+            "ler parmy des fables. Cecy n’eſt point vns",
+            "agination capricieuſe, mais vn miracle",
+            "eſtonnãt:&amp; qui ne manque pas de té́moins.",
+            "le te les npmmoois, ſi cs n’eſtoit profaher",
+            "les choſes diuines , que de les vouloir ’ap¬!",
+            "puyer par le teſnmoignage de honmes.",
+            "Ne t’informe donc poins oomapae i’en ſuis"
+        ],
+        [
+            "inſtruit, gai ſeuleme adite, li, &amp;te",
+            "ais. Acieu.",
+            "Fid paſalaun e faiut.",
+            "rr",
+            "e ſtrrrs e iei le",
+            "T A nuict aans obigé Maarin det",
+            "LLs’enſeueli,dans ſesdfaps, aut eſu",
+            "contahpé́ la miei des ſiri puple:",
+            "&amp; pour ſatisfajre tout à fait cét aimal",
+            "(qu’on dit auoir cent teſtes , pourcs qu 1",
+            "autant eſpbt Me eut aupyl p ſalois",
+            "plus rie, inon que le ciel &amp; les rideaux",
+            "du lict du Cardinal fuſſent de bois, pae",
+            "qu’on ſe fut inagure de le veoit dansvat",
+            "iepe; Lors, qlilſfuu éueile pan vn gra",
+            "bruie quil onsadiodans fa Cdambre,",
+            "que les ridaau de en lcteſtans i,",
+            "luy appaus caueosfao A c edoapa!",
+            "pe oacla onpuunueiſ ou dn",
+            "quai le deuroit refoeploqeſurpis qua",
+            "Saeriead, Ce fou lay ie uoahe laia",
+            "puniion, des cmes ua lo piopa",
+            "ſupplic ou plubſs ibs maginai voirbo",
+            "te ’la Coue doP’arlenee en rober por",
+            "&amp; il nefuu modamadea a cae aa",
+            "luy"
+        ],
+        [
+            "loy donnade la peur. Ce qui l’augmenta",
+            "ancore, c’eſt qu’il s’entédit apeller pat trois",
+            "fois Maarin, Mazarin, Mazarin. Ses yeux",
+            "prenans auſſi- toſt le chemin qu’auoit tenu",
+            "le bruit qui auoit frappé ſes oreilles, ren",
+            "contrerent vn vieux ieune homme d’entre",
+            "deux tailles, qui s’approchant de luy ſans",
+            "bouger d’vne place, luy dit ſans luy parler",
+            "cdsparolles ou oes penſees. Moypar la gra",
+            "ce de Dieu Roy du ciel &amp; de la terreEſprit",
+            "bien-heureux, Miniftre du Tout-puiſſant,",
+            "Soldat de la Milice celeſte, comnmis à la",
+            "conduite &amp; diretion de ta conſcience,",
+            "bref ton Ange gardien, ayans reeonneu",
+            "qu’en vain ie te donois de bonnes inſpi",
+            "ations, &amp; que bien loin d’en tirer profit,",
+            "ts croyois bion pluſtoſt aux ſuggeſtions du",
+            "mafin! eſorit mon ennemy iuré, i’ay creu",
+            "quoy que tes ceimés horribles &amp; efpou",
+            "uantables ulayentfait abadonor la con",
+            "duite de ta perſonne) qu’il y alloit du ſer",
+            "uie de Dieu &amp; de mon honneur de te faire",
+            "é pei adertiſſemeat.",
+            "e e’aueois donc d! lapart du Tout",
+            "puiſſant mon aiſtre, que ſi tu ne changes",
+            "ua- vie, &amp;noe conartis, u e peux non",
+            "’e a"
+        ],
+        [
+            "I",
+            "tea’.",
+            "l",
+            "pe",
+            "6",
+            "ſeulement euiteri les. panitiaſs qumous",
+            "les gens de bien te preparcabetcenande,",
+            "mais encore celles de ieu enlautre, &amp;",
+            "non ſeulement celles qua le Senatcrreftre",
+            "t’a ordonnées, mais enêore cellesdufienat",
+            "eeleſte. Tu ſçais auec quelle-affectiona ie te",
+            "parle, &amp; comme il aa pas tenuà moy que",
+            "u ne fuſſes plus grand dans le ciel qae",
+            "n’es en terre. Si tu euſſes creu mos fideles",
+            "conſeils, eu ſerois maintenanc l’amour des",
+            "pouplas, &amp; eu en es la haine. Tu ſerois les",
+            "deliees de la France, &amp; tuen es le tout",
+            "mene. Tu aurois eſté vn flambeas de l’E",
+            "gliſe, &amp; ru ſeras va tiſons d’Eafer. Tu au",
+            "rois eſté beait, &amp; ou ſeras maudit. Tou",
+            "bonaet rouge, eſelatranseaarque de la",
+            "preeminence que tu ienedlans lEgliſe, ne",
+            "ſera plus qu’un grand charbaa enſtambé",
+            "qui te greſlleta la ete &amp;oesquas ct",
+            "nes qui deuroient ſetuaineomne de quati",
+            "pilliers du Temple de la dotrine de l’Egli",
+            "ſe, ne ſeruiront par vnohangemeohorrir",
+            "ble qu’à te faire reſſemble au iable e",
+            "imagine pas pour eſtre ſi hasaſîé que",
+            "eu ſois exempt da la tenmpeſte, foiant fam",
+            "aas cudlaia maonces. La foudrsucabe pl",
+            ".Aaal"
+        ],
+        [
+            "r",
+            "v",
+            "5",
+            "ſouuent ſur las Elmnancec qua dans-les",
+            "lieux raualle.",
+            "leſ pourtant oacoren ron poumoir de",
+            "changer ta deſtinde; car ſi eu veux ſuiure",
+            "mes conſeils, ra rohb ne ſeta plus teiate du",
+            "ſang du peuple, mais elle ſera ruge de la",
+            "honte d’auoir faie tant de maux. On ne",
+            "fera plus de honteuſes alluſions ſur ton",
+            "nom: on ne dira plus Mazaitin bMaette",
+            "Ou bien Mazarin eſt autant que Maſſe",
+            "à rien: La mediſance n’anagrammatiſera",
+            "plus ſuar ton nom. &amp; le peuple ne criera",
+            "plus,",
+            "Voyez de Maſarin la plaiſante Anagramme.",
+            "Il y a Saraſin, mettant ſ poar",
+            "dais vne auatre plu belle encare que ie ſay.",
+            "Il y a aſcarin en adjouftant vn e.",
+            "Ao contraire on fera dé belles Etimolo",
+            "gies ſar tonnom, &amp; l’on dir, Vore",
+            "Vous le Cardinal, aſt appellé ainſi à",
+            "Camdne, parce qu’i eſt comme le gond",
+            "fur lequel ſe meue cont le Royaume de",
+            "Frace, ou pluſtoſt lvn des gonds de la",
+            "porte de Paradis.",
+            "Ie te pourrois encore donner beauco?",
+            "&amp;inſteucions, mais ce ſeroit retarder d’au",
+            "i"
+        ],
+        [
+            "..,a¬¬.’obd",
+            "-a",
+            "g",
+            "adnipbus oaueoſioi, left pourquoy",
+            "vois-tu, en amy, fais toy Hermite.:",
+            ".A eeapets Aoge sonuole,",
+            "le Maarlu domeuna,",
+            "nondir &amp; deena prca;",
+            "i -Ee ne ſtapbfdlde &amp;e oanfais",
+            "Anſi ques dit Noſtadamus",
+            "Das ſs deroiere Cenauie,",
+            "muell liſz ie voapne",
+            "FIN."
+        ]
+    ]
+}

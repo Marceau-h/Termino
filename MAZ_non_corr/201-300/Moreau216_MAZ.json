@@ -1,0 +1,105 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Aliments – Approvisionnement",
+            "Militaires"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement , donné , toutes les “\n          chambres assemblées , le sixième jour de janvier 1649, pour la sûreté et police de la\n          ville de Paris",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "persName": "France. Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01-07",
+                "#text": "7 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": "Imprimeurs et libraires ordinaires du roi",
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DONNE TOVTES LES",
+            "Chambres aſſemblées le 6, iour",
+            "de Ianuier 1649.",
+            "POVR LA SEVRETE’ET POLICE",
+            "de la Ville de Paris.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinai¬",
+            "res du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "l",
+            "1l",
+            "l",
+            "!",
+            "l1",
+            "1",
+            "11",
+            "-aa¬",
+            "dite Ville, laiſſer paſſer librement les Viures &amp;",
+            "denrées qui ſeront deſtinées pour apporter en icel¬",
+            "le. Leur fait tres-expreſſes inhibitions &amp; defenſes",
+            "de receuoir aucunes garniſons ny logement de",
+            "gens de guerre; leur enjoint auſſi faire en ſorte que",
+            "les viures &amp; denrées ſoient apportées en cetredite",
+            "Ville ſans aucun empeſchement, à̀ cette fin eſcor¬",
+            "ter &amp; aſſiſter ceux qui les apporteront, à peine d’en",
+            "reſpondre en leurs noms. Et ſera le preſent Arreſt",
+            "leu &amp; publié à̀ ſon de Trompe &amp; Cry public, &amp;",
+            "affiché és Carrefours de cettedite Ville &amp; Faux¬",
+            "bourgs, &amp; enuoyé és Villes circonuoiſines, pour",
+            "y eſtre auſſi leu, publié &amp; affiché, à ce qu’aucun n’en",
+            "pretende cauſe d’ignorance. Fait en Parlement le",
+            "ſixieſme Ianuier mil ſix cens quarante-neuf.",
+            "Signé, DV TILLET.",
+            "7 ’ r ¬ e¬",
+            "J E leud&amp;y ſeprieſme iour de Ianuier mil ſix cens quarante",
+            "neufſ, l’Arreſt -deſſus de Noſſeigneurs de la Cour de",
+            "Parlement, a eſleé leu &amp; publié à ſon de Trompe &amp; Cry pu¬",
+            "blic, tant és Portes &amp; Entrees de cette Ville &amp; Fauxbougs",
+            "de Pars, qu’aux Carrefours &amp; Places publques de certedite",
+            "lle &amp; Fauxbougs, par moy lean Ioſßier, Iuré Crieur",
+            "ordinaire du Roy en la Vlle, Preuoſté&amp; lV’icomte de Paris, en",
+            "l preſence de aiſtres lean Fimot &amp; Pierre Laurens, Huijſ",
+            "ſiers en ladte Cour, accompagné de trois Trompettes, lean du",
+            "Bos, lacques le Franmc, lureZ Trompettes du Roy, &amp; d’vn au¬",
+            "tre Trompette commis de Didier Ordin, dit Champagne, auſßi",
+            "Iuré Trompette, &amp; affché où beſoin a eſté.",
+            "Signe, IOSSIER."
+        ]
+    ]
+}

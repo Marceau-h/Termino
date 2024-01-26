@@ -1,0 +1,140 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "lettre",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-30",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Lettre de cachet du roi, envoyée à nosseigneurs de la\n          chambre des Comptes, concernant la paix.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "persName": "Louis XIV"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-03",
+                "#text": "mars 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "r",
+            "TR",
+            "L",
+            "e’ee",
+            "v",
+            "ENVOYEE ANOSSEIGNEvS",
+            "Des coEs, ecOcNANT",
+            "2 LA PAI X.",
+            "8",
+            "3",
+            "8",
+            "A PARIS.",
+            "PC. XLI"
+        ],
+        [
+            "3",
+            "Jopqirn’s gil A",
+            "ey¬",
+            "EeT, S.. CA C .",
+            "du Ray, enuoyee ai Noignaars des",
+            "Comptes, concernqnt la Palx.",
+            "2",
+            "e",
+            "1v. 2l",
+            "’’&amp;s ernueouiet le nleun deonſirCun",
+            "-’ pgnie qui ontaſſiſtl auſCouferences teës",
+            "l Rel pour fſaire eeſſer los praſens-mouemens.",
+            ". &amp; qyipe ſiaé les, ayisles qui nt eſte arreſtoz",
+            ";,",
+            "pue cé loneſmu peoſan moisouaurons, dõaé",
+            "ienrtgnoifacede qui s’aſt paſſé a&amp;e vôus au",
+            "4 hie recgl o quele incsrié &amp; popualitéNoue",
+            "op à l’inſtant meſae. de la ſignaure; deſdis ajicles",
+            "ſ4tisfais à,touqes, les ehoſes quiy out eſé promiſes an aſtre",
+            "qo, jyait, eplus, cu que dcaconſe toxps",
+            "upbjy as ves apuilliparai unoſte beiſa",
+            "reuvip, e ſtaaliſraene de la Paixgenerg",
+            "le; E; biepqie par leſdits artialeil ait eſté poueà toit",
+            "ce quicangcpe e gçpsl e les payiculies qui pauuiae",
+            "pfep,igeeſt, e,eecaa,, eotagioſtcede",
+            "gr ayeq ggoisaeapyé oa eſa,Pa",
+            "pSy ſtoie-adie elapour en ceptaa ledis, Tié",
+            "nous ſaie quelques emaonſtraes lus ce qui regardoit na",
+            "ſtrediſ our, le ipereſts des Princes, Ducs, Pais, ff",
+            "eſe ee ſfeoeiee eoi enrn nedi nil nli elene ne",
+            "Nsuqnsi gul cerderà ſtrçdiaCourgles",
+            "ſeilbsngp,a daaadese leonſlasPi",
+            "ces &amp; de çeux qui les ont ſuiuis, Nous leu auns aſſ",
+            "cordé tout ce qui et faiſable ſans apporter vn preiudice trop",
+            "notable à noſtre Eſtat. Surquoy nous auons fait expeder",
+            "nos Lettres de Declaration de ce jourd’huy, leſquelles nous",
+            "enuoyons preſentement à noſtredite Cour de Parlement,",
+            "&amp; dont nous vous adreſſerons le double au premier iour,",
+            "pour les faire executer en ce quivous concerne, &amp; quoyi"
+        ],
+        [
+            "qe nous eſtiqious bienque faiſaat ou ce quai t aſoa",
+            "abl, &amp; peoſſble gour leſditsPrindds ls y aecoiame.",
+            "deron touosfois ûe oas ’aons pôins de erti",
+            "tde de leurs ſentimes ſur ce ſujet, Nous aùons bien voulu",
+            "vous faire cette Letite pat l’aduis de la Reyne Regente no",
+            "ſtre tres-honorée Dame &amp; Mere, pour vous teſmoigner &amp;",
+            "Autet que otoe tſloaſ lſgt? eutegſée",
+            "Cempaga outaines &amp;e dups dénre bbna1.",
+            "e de Patfsde teleinur à falre peinéement &amp; entemnt",
+            "recuet ledi raté de Rodquadlblen leds Prines",
+            "ceie e ls, oeſuitn’n udnohét pas eddsêhi, te",
+            "us evohs tthfiastpés detoes qaitî êſes",
+            "otupuabiêasderis s mefese hſſahqé elle",
+            "qni ſomne ſls a thaltgedeſdir Princes trotlicentiées, n",
+            "eemane ls neſttes pat decà que pout êispeſchét qffe",
+            "’entepreft atu héſt ottélnoſlé eficé ,’efe",
+            "ulAaitanp enaas plss ’afétidque de ſla tfrpa",
+            "gne ibtt lgde tout laniere;, inſlque bfftebs",
+            "ie lledle tis dafs l’abondance e le tepos dnierà uioy",
+            "Aêus bthortos détr au ale oeployertout",
+            "e-u ſpléta de vous,ſela qsi Vsuigreé afſe qu1l",
+            "obudt Blen pblic, &amp; à éſuy é oſffe ſerite. C’",
+            "porad hos ne vous e ſerons’ele-cy plsexpreſfe",
+            "pos ſngue, ſion pour vous afſſeosretque ous ne ſçaurie",
+            "amé eholt qul noss ſoit plus agrêae. Donné à SGermaln.",
+            "e E ayelee. Ma i6. Signé, LUVIS, &amp; ptos bds,",
+            "Sl Gé v b. Eta eſen? ’hôs amft",
+            "i Cſle es eas enſhs ore Chaote e",
+            "Conptes e Paris."
+        ]
+    ]
+}

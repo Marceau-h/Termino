@@ -1,0 +1,88 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers/prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Mazarin‎, Jules‎ (1602-1661)",
+            "Saisie"
+        ],
+        "change": {
+            "@status": "not_corrected",
+            "@when": "2022-02-01",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant qu’ouverture sera faite de toutes les chambres de la maison du cardinal Mazarin, et description sommaire de tout ce qui se trouvera dans ladite maison.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "persName": "France. Parlement de Paris"
+        },
+        "pubDate": {
+            "@source": "Mazarine",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": "Imprimeurs et libraires ordinaires du roi",
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "olſlſſ:",
+            "eẽEl"
+        ],
+        [
+            "1",
+            "1",
+            "....",
+            ". 4",
+            "e",
+            "230"
+        ],
+        [
+            "J",
+            "lA reeoſ l¬ la",
+            "JAI e Ia ou1AJ",
+            "DE PARLEMENT.",
+            "Portant qu’ouuerture ſera faite de toutes les",
+            "Chambres de la maiſon du Cardinal Mazarin,",
+            "&amp; deſcription ſommaire de tout ce qui ſe",
+            "trouuera dans ladite maiſon.",
+            "Du vingt-cinquiéme lIanuier mil ſi cens",
+            "quarente-neuf.",
+            "a",
+            "q9",
+            "APARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinai¬",
+            "res du Roy.",
+            ". DC. xILIX.",
+            "uec Priuilege de ſa eajefte."
+        ],
+        [
+            "ſommaire faite de ce qui ſe trouuera en icelles.",
+            "Fait en Parlement le vingt-cinquieſme Ianvier mil",
+            "ſix cens quarante-neuf.",
+            "Signé́, DV TILLET.",
+            "yy ry y¬",
+            "Collationné à l’Original par moy",
+            "Conſeiller Secretairedu Roy &amp;",
+            "Ae",
+            "de ſes Finances. eS",
+            "a",
+            "ey",
+            "L."
+        ]
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "discours adressé",
+            "stances",
+            "poésie à forme fixe"
+        ],
+        "subject": "Broussel, Pierre, vers 1576-1654",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-24",
+            "@who": "AB"
+        },
+        "titre": "À monsieur de Broussel , conseiller du roi au parlement\n          de Paris",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-01",
+                "@notAfter": "1649-03",
+                "@when": "1649",
+                "#text": "pendant le\n            blocus de\n            Paris"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000506791357",
+            "@xml:id": "IL_NoelFrancois.xml",
+            "persName": {
+                "forename": "François",
+                "surname": "Noël"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "A",
+            "MONSIEVR",
+            "DE BROVSSEL",
+            "CONSEILLER",
+            "DV ROY",
+            "AV PARLEMENT",
+            "DE PARIS.",
+            "A",
+            "PARIS,",
+            "Chez FRANCOIS NOEL,rue Sainct Iacques, aux",
+            "Colomnes",
+            "d'Hercules.",
+            "M. DC. XLIX."
+        ],
+        [
+            "A MONSIEVR DE BROVSSEL CONSEILLER du",
+            "Roy au Parlement de Paris. STANCES.",
+            "ILluſtre Senateur, Hero Icomparable,",
+            "Qu’on ne m’aceuſe pas te croyant Adorable",
+            "Si i’eſeue dta gloire vn ſi fameux Autel",
+            "Quel honnbur dans ce lieux ne doit-on point te rendre",
+            "Dans les ſiecles paſſez vit-on iamais mortel,",
+            "Qui pour le bien du peuple oza plus entreprendre.",
+            "Nylebruit des priſons, des tourmens, ny des chaiſnes,",
+            "Ny l’horreur des bourreaux, ny de leurs dures genés,",
+            "N’ont iamais esbranlé ton iuincible cœur:",
+            "Tu l’as tout exposie, pour l’honneur de la France",
+            "Et pour le bien pubhic, ton extréme vigueur",
+            "A monſtré les effects de ta ferme aſſeurance.",
+            "Que tu t’es trauaillé pour deſtourner l’orage",
+            "Qui menacoit nos iours d’vn funeſte naufrage",
+            "Pilote genereux de l’Empire Gaulois",
+            "Sans l’art induftrieux de ta ſage conduite",
+            "Serions nous pascaptif dansles iniuſtes loix",
+            "D’vr troupe de gens ua l’Enfer a produite¬",
+            "Iniuſtes Partiſans, qui bruſlans d’auarice,",
+            "Banniſſez la vertu pour eſtablir le vice,"
+        ],
+        [
+            "3",
+            "Et ne vous repaiſſez que du ſang des humains:",
+            "Larrons, audacienx, mpudens, herettques,",
+            "RetiendreZ vous touſiours nos treſors dans vos mains",
+            "Sanr vouloir ſaulager nos miſeres publiques.",
+            "De Brouſſel eſt armé du bra d’vne Deeſſe",
+            "Qui veut vous puniſſant finir noſtre triſteſſe,",
+            "Et de noſtre ſeul bien ourdir voſtre mal-heur",
+            "Voye comme il combat pour auoir la victoire,",
+            "Malgré tous les demons le Ciel pour ſon bon-heur",
+            "Le fera triompherdans vn thrône de gloire.",
+            "Voſtre rage a’vomy contre luy ſa furie,",
+            "Et le plus grand effort de voſtre barbarie",
+            "Produiſit ſon efſet quand il fut enleué:",
+            "Cet énorme attentat, cette laſche induſtrie",
+            "L’ont mis dedans les fenrs, qu’en eſt-il arriué?",
+            "Les François ont renlu le Pere à ſa Parie.",
+            "Parmy les legions des ſoldats tous en armes,",
+            "Parmy le bruit confus du peuple en ſes alarmes",
+            "Qui demandoit auoir ce Soleil eclipsé:",
+            "Qu’on fut rauy voyant eſclater ſa lumiere",
+            "Lors que plus on croyoit qu’il eſtoit oppreſſé",
+            "Ou qu’il fut le butin de quelque cimetiere.",
+            "Quel heureux changement cette forte tempeſte,",
+            "Qu’on euſt dit qui vouloit tomber ſur noſtre teſte",
+            "Et qui ſi promprement auoit armé Paris,",
+            "Se calma dés l’inſtant qu’on vit libre Brouſſelles",
+            "Alors toutes nos pleurs ſe changerent en ris",
+            "Madid ſeul s’affligea d’en ßauoir les nouuelles.",
+            "e ."
+        ],
+        [
+            "¬",
+            "aa¬¬¬¬¬¬¬",
+            "4",
+            "Amilieu du Pont-neuf ſe fit cette entreueue,",
+            "Qui ſurpritnos eſprits d’vne ioye impreueuë",
+            "De te voir de retour mon Heros glorieux;",
+            "e el¬",
+            "Que d’applaudiſſemens &amp; que de bien- veillances,",
+            "L’air retantit des cris qui furent iuſqu’auxs Cieu",
+            "Raconter le ſuccés de nos reſſouiſſances.",
+            "Vn ſeul homme pour toy fit qu’il s’en arma mille",
+            "Aux armes crioit il en chacune famille,",
+            "On nous vient d’enleuer noſtre vnique ſupport,",
+            "Retirons-le des fers, garantiſſons ſa vie,",
+            "Puis qu’il nous a ſi bien affranchis de la mort:",
+            "Allons, diſoit Liſis, où l’honneur nous conuie.",
+            "Enfin on t’a rendu noſtre Ange tutalaire,",
+            "Obiect qui d’vn clin d’œil cabme noſtre miſere,",
+            "Et remets en ſplendeur l’authorité du Roy:",
+            "Vous regnez maintenant dans ſon lit de Iuſtice",
+            "Senat Augufte &amp; Saint en faiſant vne loy",
+            "Pour punir les meſchans par uu iuſte ſupplioe.",
+            "Que vous roſte-t’il plus pour couronner vos peines,",
+            "Qu’à ranger au deusoir ces ames inhumaines,",
+            "Qui ſans crainte de Dieu, volent impunément,",
+            "Faites les regorger ces infames harpies,",
+            "Par vos fameux Arreſts, Auguſfe Parlement,",
+            "Et vous verrez bien toſt, nos haines aſſoupiess",
+            "FIN."
+        ]
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "burlesque",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1649-03-15",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Discours heroique presenté a la Reyne regente pour la\n          paix.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-05-25",
+            "#text": "25 mai 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000061373231",
+            "persName": {
+                "forename": "Suzanne",
+                "surname": "Nervèze (De)"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": [
+            {
+                "@ref": "isni:0000000006911746",
+                "persName": {
+                    "forename": "Guillaume",
+                    "surname": "Loyson"
+                }
+            },
+            {
+                "@ref": "isni:0000000004958516",
+                "persName": {
+                    "forename": "Jean-Baptiste",
+                    "surname": "Loyson"
+                }
+            }
+        ],
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "J r DISCOVRS HEROIQVUE PRESENTE EIN T REGENTE Pour la Paix. A DA E Ceux qui nous",
+            "font du bien ont vn empire ſi abſolu ſur nos volontez, que les peuples qui ont idolatre v n",
+            "Iupiter vn Mars vn Mercure vne Diane vne Iunon ſe ſont perſuadez que c’eſtoit leurs Dieux",
+            "&amp; Déeſſes tutelaires, lors qu’ils ont encenſé leurs Autels, &amp; offert les vi. ctirnes",
+            "ſangilantes à l’immolation erronée d’vne fauſſe &amp; phantaſftique diuinité: Il eſt vray",
+            "que toutes les Natiõ̃s les plus barbares ſe ſoumettent aux biens-faicteurs, &amp; il n’eſt",
+            "point de cœur qui reſiſte aux attraits de la bonté quelque indomta ble qu’il puiſſe eſtre,",
+            "s’il n’eſt abſolument priue de raiſon &amp; de toute ratiocination iudicieuſe, mais comme",
+            "nous ſommes attachez par les faueurs, nous ſommes auſſi bleſſ z dans la rencontre de la",
+            "peine, ce qui nous incommode, altere no affectious; &amp; quelque grace qu’vne main ennemie",
+            "poſſede de nous eſt odieuſe, i elle s’arme pour nous nuire tnt nous ſommes naturellement",
+            "portez contre ce qui nous choque, &amp; à l’aigrear de nos ennemis, la nature meſme eſt",
+            "continuelle¬ ment en cotraſte dans ces oppoſitions, &amp; pert dans le com¬ bat &amp; la",
+            "reſiſtance toutes les forces de lon compoſ, vſant eſgalement les deux parties qu ſe piquent",
+            "dans ces fforts. is comme la Loy de Dieu ne nous engage qu’a la ſout¬ A ij"
+        ],
+        [
+            "france, les couronnes qu’ilnous promet ſont ſeulement pour les debonnaires, qui",
+            "paſſent par obeïſſance chreſtienne au deſſus de l’iniure ſans reſentiment, prient pour ceux",
+            "qui les perſecutent, &amp; ne veulent point d’autre vangeance que l’honneur d’eſtre",
+            "touſiours expoſez au tourment continuel qui produt vn mrice infini: La vertu ne conſiſte pas",
+            "avn acte ſimplement, il faut vne habitude glorieuſe pour pre¬ tendre à l’aduantage d’vn",
+            "ultre ſuperlatif, Madame, c’eſt par ce digne aſſemblage des parfaits eſcarboucles d’vne vie",
+            "remplie de candeur &amp; de probité que les tiſſu des diuines vertus dont voſtre Maieſté eſt",
+            "toute rillante ont fait voir à vos peuples, que la douceur de cetre Paix ſi neceſſaire à",
+            "l’E. ſtat &amp; à noſtre ſalut, eſt vn efft de voſtre pieré́ &amp; vne preuue tres",
+            "concluante de vos bontez &amp; des ſoins que vous auez d’vne Regence qui uous eſt ſi chere,",
+            "plaiſe à eeluy qu a ſoin de voſtre diadeſme &amp; de noſtre repos d’accepter toutes les",
+            "larmes des veufues &amp; des orphelins, le ſang reſpandu des ſu¬ iets du Roy, dans vn",
+            "pitoyable malheur en expiation des fautes d’vne imprudence tres punie, &amp; que ilamis plus",
+            "il ne paroiſſe, ny colere ny eſmotion royale, ny publique en France, Madame, vos Maieſtez",
+            "oublieront ie m’aſſeure le pouuoir conptable que vous auez d’exterminer &amp; de de¬",
+            "ſtruire, &amp; n’agires qu’au reſtabliſſement des oppreſſez, comme des progeniteurs qui ont",
+            "pardonné leurs enfans, &amp; i’oſe bien aſſeurer qu’il s’en trouue peu des coupables d’vne",
+            "diſgrace ſi ſenſible, mais il n’apartient qu’a celuy qui fait lui¬ re ſon ſoleil ſur les",
+            "bons, &amp; les mauuais de faire vn dicerne¬ ment de cette condition, auec le temps, ſa",
+            "luſtice ſeparera le bon grain de liuoyre, &amp; oſtera de la confuſion &amp; des tenebres",
+            "les penſees fermes &amp; heroiques dans cette infaillible atten¬ te, vos Maieſtez peuuent",
+            "dire aux Pariſions ce que noſtre Seigneur dit à la Magdelaine beaucoup de pechez luy ſont",
+            "pardonnez, par ce qu’elle a beaucoup aimé. Il faut aduoüer cette verité, &amp; que le",
+            "Francois eſt tres loüiable dans cette extreme paſſion qu’il à pour ſon Prince, toutes les",
+            "deuiſes de leurs enſeignes de guerr e eſtoient les teſmoins de leur ze¬ le, il ne reſpiroit",
+            "que le repos &amp; ne combattoit que pour le"
+        ],
+        [
+            "pain, &amp; à l’vn &amp; à l’autre, ils ont erité l’honnur de vos graces &amp;",
+            "le charme de leurs douleurs; Madame vos arden¬ tes deuotions &amp; les ieuſnes auſteres que",
+            "vous faites encette ſaincte ſaſon ont eu pitié de ceux que nos indigences nous ont ordonaez,",
+            "&amp; lots que le temps de noſtre redemption uous eſt repreſenté par l’Egliſe, voſtre bonté",
+            "toucheée de nos clameurs nous remetau premieér point de nos tranquillitez, outes choſes",
+            "reprenent leur eſclat au iour de la iuſtice que vous aues rendu a nos ſoupirs &amp; a nos",
+            "l’armes, les obiets ont leur premiere beauté, &amp; ſi vosMaieſtez venoiẽt aſſeoir dãis",
+            "leurs Palais, &amp; leurs Louures de c’etre elle ville iamais elle n’a eſté plus pompeuſe",
+            "&amp; magfique,naais de cette felicité́ qen ſera ce que Dieu en voudra ordohex, pourueuique",
+            "nous ſoyons certains de vos ſantés &amp; de nds procections, nous vi¬ urons deſpoir &amp; de",
+            "deſir pour le bien de noſtre Monarque, &amp; celuy de voſtre Maieſté, tout le monde ſe",
+            "promet que cet¬ te paix vniuerſelle reſuſſicera tous uos contentemens, mas perſonne nignore",
+            "que la plus importante ne ſoit celle que vousnous aués donnée,les anciens auoient vn",
+            "Templededié au Dieu de la paix, la France donneſes vœo e ſes acla¬ mations a voſtre maieſté",
+            "comme à la puiſſance fauorable qui a exaucé ces triſtes gemiſſemens, que toute la terre vous",
+            "com. ble d’honneur &amp; de benediction,&amp; que dans les cœurs de os fidelles ſubiets,",
+            "vous trouiés autant d’autels ou le ſerui¬ ce de voſtre Maieſtéſoit le vray agent detous",
+            "lenrs mouue¬ mens, qu’eſt ee que nous ae deuons pas a vne grande Reyne de qui les humilitez",
+            "&amp; les modeties donnent des leçons à toutes les Dames de ſon Royaume &amp; de l’vnuers,",
+            "exenmpte de paſſion &amp; abſolurnent ſobmiſe aux ſages Directeurs, de ſa conſcience, qui",
+            "n’a que desR oys;des empereurs &amp; des S ainct e des Saintes pour les chers parens du ſang",
+            "&amp; les mode¬ les de ces atious pieuſes Madame, ce grand Dieu qui uous à choiſi pour le",
+            "bien de la France ſ’offenceroit de uaos meco¬ gioſſantes, ſi aous ne donions a ce bon-heur",
+            "tout ce que nosſormes capables de cceuoir de gratitude &amp; deſtimé a l’exeedllence de uos",
+            "œuures, le Seigaeur ſois loüe a tous les ecles qui à diſpofé vos mouueens, par les ordres",
+            "ſacrez"
+        ],
+        [
+            "de ſa ſupreme ſageſſe, la campagne reueſtue deſmail &amp; de parure ne ſera plus",
+            "rougie de ſang de cruauué &amp; de camage elle ſera embellie des eurs &amp; prendra vn",
+            "nouuel ornemenr pour deſlaſſer l’Eſprit devoſtreMaieſté des fatigues d’vaſoin mportun, &amp;",
+            "au lieu des ſoupirs funeſtes des pauures mal¬ heureux, les ramages charmants des oyſeaux",
+            "&amp; les doux coulant murmure de riuiers &amp; des fontaines, diront à voſtre abort de la",
+            "part de leur ſouuerain, que toutes les crearures ſe preſſent pour donner plaiſir a cete",
+            "grande Rëyne quia chaſſé les douleurs &amp; les l’armes de ſon Royaume, il n’eſt ſi petit",
+            "bergerot qui en beniſſant, ſon pain bis, ne beniſſe voſtre Maieſté de l’auoir deliuré de la",
+            "tyranie &amp; de l’inſolence du ſoldar. Madame, penſez ie vous ſuplie de quel prix eſt lese¬",
+            "pos de tout vn peuple &amp;permettez nous d’en porter la gloire que vous auez aquiſe par les",
+            "accéns de noſtre zele autant que nous ieſpirerons l’aiſe d’vne vie paiſible &amp; douce, que",
+            "le brutcal &amp; le mecognoiſſant, ſacrifie aux pieds de cete pieuſe Reyne les deireglemens,",
+            "de ſon Eſprit, infame &amp; mercenaire, e que le ſuiet de quelque inosentior per¬ aicieuſe",
+            "ne le faſſe plus choqquer contre les loix du de¬ uoir &amp; de l’honneur, la iuſtice tient",
+            "le poids &amp; la balan¬ e, pour rendre au méchant ce qu’il a peu aquerir de iuſ¬ ice &amp;",
+            "de punition, il eſt vray que la miſericorde regn hautement, elle tient ſon ſiege &amp; ſon",
+            "empire parmy nous à l’aduantage de nos defauts, mais ſans encourir le blaſ¬ me de malcieux,",
+            "nous ne pouuons pas abuzer de ſon in¬ dulgence, il faut, aiuſter toutes nos penſées, &amp;",
+            "les vnif¬ ſanc en celuy qui eſt tout amour, par refleCtion ſoubmſe à une ſubordinarion",
+            "neceſſaire, nous rendrons à nos ſuperi¬ eurs &amp; Maiſtres les deferenees, que leur rang",
+            "exigenr de nos raiſonnemens, &amp; lors que nous ſubirons la loy nous reſterons ſi",
+            "ſarisfaits, qu nous brauerons le deſtin &amp; le biſarre cours de ces muances, il fut fondé́",
+            "autre¬ fois à Rome vn Temple, à la vertu &amp; a l’honneur &amp; l’o¬ ne puuoit aller a",
+            "celuy ſi que par le premier comme ſa porte &amp; ſon paſſage, ceſte relation ſe trouue dans",
+            "nos deuoirs diuins &amp; huains, uaas le peiacipil but quenou."
+        ],
+        [
+            "37 deuons auoir c’eſt d’aimer &amp; honnorer nos Ptinces plus pour leur legitime",
+            "domination, que pour l’eſpoir d’vne fortune, aueugle &amp; incertaine, car Dieu qui a",
+            "ordonné les puiſſances ſuperieures benit l’amour que les ſubiets portent a leurs Roys, qui",
+            "ſont fes images en terre, de cet amour procede la crainte, le reſpet des Loix du Prince",
+            "l’oboeiſſance de ſes commandemens &amp; la ialou¬ ſie de ſa gloire, &amp; ces biens doiuent",
+            "aſtre d’autant plus eſtroits, que le prince eſt bon &amp; glorieux, la ieuneſſe du noſtre",
+            "eſt ſoutenue de voſtre Maieſté, auec tant de fermeté, que nous pouuons bien dire &amp; a",
+            "meilleur til¬ re que ce diſerte Cheualier Romain parlant du l’oüa.¬ ble ſiecle de Traian,",
+            "que nous ſommes tres leureux de reſ¬ pirer ſoubs la lumiere de voſtre regence, puis que vous",
+            "n’aués trouué du repos que vous n’ayés terminé nos mi¬ ſeres, nous auons paſſé la mere rouge",
+            "des tumultes &amp; d’a¬ larmes, mais parvos bontés, noeus ſommes dans la terre de",
+            "promiſfion, voſtre Maieſté deuant eſtre vn aſtre bril¬ lant de mille clartés esbloiſſantes,",
+            "ſe doibt autant ſigna¬ ler par ſa piete que par ſa puiſſance, &amp; le Ciel qui a mis dans",
+            "voſtre ametant des grandeurs en benira l’eſclat &amp; ren¬ dra voſtre ſplendeur tres-",
+            "heureuſe, voſtre proſperité temporelle &amp; eternelle ſeruira dexemple à toure la terre,",
+            "&amp; vos volontés donnerons agreablement la Loy à tous vos ſubiets ſans diuiſion n’y",
+            "repugnance. Madame, ma plume qui a touſiours voué ces trauaux a l’honneur de voſtre nom n’a",
+            "pas attendu es auétorités d’vne regence pour témoigner mon zele tres humble, tous les temps",
+            "ſont eſgaux à mes idelités, quoy que ie porte vn viſage de douleur, mon cœur eſtinflexible",
+            "dans les fermes mouuemens de ces deuotions., fi voſtre Maieſteé ſe forme a l’exemple d’vn",
+            "Dieu, elle ne me iugras pas par les defauts de mes biens, puis qu’elle me peu; petfectionner",
+            "quand il luy platra, mais par le long eſtude que ie fais à l’honeur de ſon ſeruice, les",
+            "ſaiſons qui ont veu tanr des changemens n’en ont pointerouués chez moy, non plus pour mes",
+            "treshumbles deuoirs à voſtreMaieſté que pout les manquemens de ma cheſtiue vie, &amp; quoy",
+            "que ie ſouffre"
+        ],
+        [
+            "ſans marmurer les amertumes de mes iours, il ſemble que mes triſtes l’angeurs en",
+            "des accuſarions eſloquentes contre les grandeurs qui mecoſiderent, ie m’imagine que lors que",
+            "ie ne ſeray plus ma ſouffrance ſera cenſuréeemon mal regretcé j’auoue pourtant que ie",
+            "ſouhaiterois quelque allegemẽt, ad¬ uancela mais ie ne puis pretendre à cette douceur que",
+            "par les mouuemens d’vne generoſité &amp; pieté Royale, &amp; cette ſu¬ preme &amp; auguſte",
+            "vertu que mes humilités oſent encor im¬ plorer en qualicé. MADAME, De voffse Maieſté, La",
+            "s-humble &amp; tres-obeyſlante ſeruante &amp;ſuierte, S. D. N."
+        ]
+    ]
+}

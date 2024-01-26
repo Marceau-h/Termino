@@ -1,0 +1,156 @@
+{
+    "imprimatur": "Auec Permißion.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-02-18",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-05",
+            "@who": "AB"
+        },
+        "titre": "Lettres de monseigneur le Prince écrites à la cour de\n          Parlement et Capitouls de Toulouse sur la défaite des troupes du marquis de Saint-Luc, à\n          Miradoux.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121209573",
+            "persName": {
+                "forename": "Louis II de Bourbon, prince de",
+                "surname": "Condé"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-02",
+                "#text": "datée de février 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
+            "persName": {
+                "forename": "Veuve de Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LETTRES",
+            "DE MONSEIGNEVR",
+            "LE PRINCE,",
+            "ESCRITES",
+            "A LA COVR",
+            "DE PARLEMENT.",
+            "ET CAPITOVLS DE TOLOSE.",
+            "Sur la defaite des Troupes du Marquis",
+            "de S. Luc à Miradoux.",
+            "A PARIS,",
+            "De l'Imprimerie de la Veufue I. GVILLEMOT, ruë des Mar",
+            "mouzets, proche l'Egliſe de la Magdelaine.",
+            "M. DC. LII.",
+            "Auec Permißion."
+        ],
+        [
+            "3",
+            "EETTRE DE ONSEIGN Ee",
+            "le Prine à Meßieurs du Parlement de Toloſo.",
+            "MESSIEVRS,",
+            "Apres vas auoir remercie du fauorable Arreſt qu’il vous a pleu",
+            "diuoar lar la Requeſte que ie vousay preſentée; e vousdiay qu",
+            "ce m’et ne ſatisfacnon tres graqnde, de voir qu’vne Compagnie,",
+            "comnme la voſlre, connoiſt lainceriré de mes intentions: &amp; que",
+            "le ſeul deſſein d’empeſcher le retout de celuy que, vous auea ſi ſo.",
+            "lemnellement condamné; m’a fair prendre les armes: la ſuite de",
+            "outes mes actions vous fera voir, que la plus forte paſſiou, que.",
+            "iagt a monde, et celle de ſeoon der les bonnes intentions de",
+            "S.A.R. pour l’expulfion de cetennemy commun, &amp; pour la con",
+            "claſon d’ne paix generale, glorieuſe au Roy, &amp; vtile à l’Ear.",
+            "ependant,MEs s evs, ie vous diray, qu’eſtane veu dans",
+            "la haute Guyene, pour y reſtablir l’authoric de ſa Majeſte,",
+            "’oppoſer aux deſordes que l’armée du Ca dnal Mazarin, co-:",
+            "andée par le ſieur de S. Luc, yfaiſoit depuis long temps au grand",
+            "prejudice du Langudoc, &amp; de la Guyenne, dont il a tout aà̀ fai.",
+            "ruine le commerce, il a pleu à Dieu me mettre en eſtat de lereſta.",
+            "ir; ayant entierarmsent defait ſon arḿe à Miradou, cemnae.",
+            "oas dira plus pasticulieuemnt le Cheualier de Riuiore, auquel",
+            "ſay comaandé́ de vous aſſeer, Ms ssie v s, que e couſer¬.",
+            "y toute ma vie le ſouuenir de lafaueur, &amp; de la Iuſtice que vous",
+            "auez aie, &amp; de vous ſupplier d’apporer ae qui depend de vo.!",
+            "lt uthrité por ompeſchar que les creauaaes dadit Cardinaloe",
+            "ſemblent dans les villes qui ſont dans le voiſinage de Toloſeau",
+            "’ npis devos Areſs, &amp; de ceux de tous les Parleoens deFmie,",
+            "ſeure- ons queiy fetay oat mou poſſible: &amp; pour mieux y",
+            "l eſir ie ous lappe , aisss ur s, de vouloir dire vos ſeni.",
+            "ns à ce porteur afin que me les faiſant ſçaaoir it puiſ agide",
+            "l acertauec vous, comme ie feray en toutes oetfos,-ea ſore",
+            "e voos pourrez connoiſtre, que i’ay pour vous toure l’eſtime, &amp;",
+            "4 l’aân qui et deuë à vne auſſi grande Compagnie que la"
+        ],
+        [
+            "41",
+            "votre: Vous fſeat uee e r;ayes toQeQRa",
+            "comnande, que dans les lieux où vous iugerez qu’il eſt plus neceſ",
+            "ſaire e Jes metre, quee ſyis ẽritablermt, qué ie ſray efiou",
+            "MESSIEVRS,",
+            "u eamp deuant Miradoux,",
+            "le 25. Feurier 65j2.",
+            "oſfre plas bamble ſeui",
+            "L’oV 1s Bovnp",
+            ". A",
+            "7 E e ep 2",
+            "E",
+            "y 7",
+            "LETTR DS CONSEI N E",
+            "le Prnince à Meßeurs les Capirouls de Toſoſe.",
+            "ESSIEVS,",
+            "M ee eeereau oan",
+            "commandoes par le ſieur de S. Luc, ruageoient entieéremét lah",
+            "te Guyenne, ie me reſolus d’y venir en diligence, pcur m’oppoſ?",
+            "à rous ees detordres, &amp; taſcher à reſtablirle commerce entreTolel",
+            "&amp; Bordeaux, qu’elles auoient interrompu: &amp; comme il a pĺul",
+            "à-Dieus de benir les armes du Roy. que ie conrmande, en ſorteqt",
+            "toute l’armée du dit fieur de S. Luc a eſteé enterement defaite à Mi",
+            "radoux, i’ay creu vous en deuoir donner adis, &amp; vous’prier par ces",
+            "lignes,de fairs toutce qui déperdra de ous, pour le reſtabliſſementl",
+            "dadit cõmerce, qui eontribuëra beaucoup à la rranquiliteé, &amp; aà l’a",
+            "uantage reciproque de voſtre Prouince, &amp; de celle cy, Fies-moy",
+            "connoiſtre ce que ous croyez que ie puis apporrer d. mon aahpi",
+            "rité, afin que ie m’y employe de mon toſté. l’oy donré cleargeaû",
+            "ſieue Cheualiers de R auiee de prendre la deſſos vs bons aus",
+            "vous afſeurer de ma bonne voloneé́ entautasroconres, &amp; que",
+            "ſuis..",
+            "’iESSEvS.",
+            "Parsaras -afoéioon ao aulop",
+            "A Lons Eoya no",
+            "Dal eaa deuan Miad;:.",
+            "25 FPuies 2é;,",
+            "aie",
+            "1",
+            "512.",
+            "2",
+            "a en E",
+            "s S i QuaSVe ſng i ae"
+        ]
+    ]
+}

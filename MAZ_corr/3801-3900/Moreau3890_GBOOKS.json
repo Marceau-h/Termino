@@ -1,0 +1,99 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-07-20",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Troisième arrêt du conseil d'État du roi, portant\n          cassation de l'arrêt donné par le Parlement de Paris, le vingt-quatrième juillet dernier,\n          pour la vente du reste des meubles de M. le cardinale Mazarin, et défense audit Parlement\n          et aux commissaires nommés de l'exécuter.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121754977",
+            "orgName": "Conseil d'État"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-07",
+                "#text": "juillet 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2986140",
+            "#text": "Pontoise"
+        },
+        "publisher": {
+            "@ref": "isni:0000000005438555",
+            "@xml:id": "IL_CourantJulien.xml",
+            "persName": {
+                "forename": "Julien",
+                "surname": "Courant"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "TROISIESME",
+            "1 3I 1001",
+            "Au .",
+            "tieeu, u4",
+            "ARRES T",
+            "DV CONSEIL D’ESTAT",
+            "1 cr e¬.",
+            "7",
+            "r",
+            "DV RO Y.",
+            "Portant caſſatiou de l’Arreſt donné par le Parlemeni",
+            "de Paris le vingt quatrieſme Iuillet dernier, pour",
+            "la vente du reſte des meubles de M. le Cardina!",
+            "Muain &amp; defenes audit Palement &amp; aur",
+            "Commiſſaires nommez de l’executer.",
+            "EXTRICT DES REGISTRES",
+            "du Conſeil d’Eſtat.",
+            "gVR ce qui a eſlé repreſenté au Roy en ſon",
+            "conſen qu’auprepudie de l’drſl donne",
+            "ſ par ſa Majeſé à Poicdiers du o lanuier",
+            "dernler, Par lequel elle auroit caſſé &amp;",
+            "annulle l’Arreſt de ſa Cour de Parlement de Pari.",
+            "du a Deembre, &amp; fait res eupreſles defenees de",
+            "l’ereeute le oficens de ladie ceour qu ſonrrete",
+            "nus dans la ville de Pans pat la violence des rebeles,",
+            "auroient donné par vne continuation d’attentar &amp;",
+            "."
+        ],
+        [
+            "8",
+            "amplement, ainſi qu’il appartienda par raiſou,",
+            "FAIT au Coaſeil d’Eſtat du Roy, ſa Majeſté y",
+            "eſtant enu ai’onhiſe le vingehuit luileusj",
+            "Signé DE GVENEGAVD,",
+            "A PONTHOISE.",
+            "Chez Iulien Couraut Imprimeur ordinaire duRoy.",
+            "i",
+            "o e",
+            "uu2"
+        ]
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Stances au roi par le sieur Algier.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "Sans Date",
+            "#text": "Sans Date"
+        },
+        "pubPlace": {
+            "@ref": "geonames:0000000",
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "486"
+        ],
+        [
+            "Ses",
+            "SeS¬",
+            "¬",
+            "C",
+            "A L",
+            "1",
+            "AV R",
+            "D",
+            "O",
+            "ES",
+            "Par le Sieur ALGIER.",
+            "’Y",
+            "JD ENDANI que le Senat Romain",
+            "L Donnoit conſeil au Souuerain,",
+            "Malgré les Deſtins &amp; la Parque,",
+            "Il a forcé les Nations",
+            "De le recognoiſtre onarque",
+            "Sur toutes leurs poſſeßions.",
+            "L",
+            "¬",
+            "Ces plus débordez de leurs Roys,",
+            "Quand ils ont conſulté leur vois,",
+            "Ont acquis vn honneur ſupréme;",
+            "Puiſqu’aux’yeux de toutrl’niuers",
+            "Vn Roy reçeuit le diadéme.",
+            "Par Neron, ce chanteur de Vers",
+            "7"
+        ],
+        [
+            "2",
+            "3",
+            "Si des Empereurs vicieux,",
+            "Par le frin de ces Demi-dieux",
+            "Ont obtenu tant de victoires,",
+            "Qu’inferer d’vn Prince vaillant",
+            "Des-jà de ſon ſiecle la gloire",
+            "Se guide de ſon Parlement.",
+            "ee",
+            "Conſultez, donc leur jugement,",
+            "Grand Roy, qui eſtes l’ornement",
+            "De tant de teſtes couronnees,",
+            "Et regnere auec cet heur,",
+            "Que les Prouinces eſſoignees",
+            "Prendront loy de voſtre valleur.",
+            "Ae",
+            "Et bien que vos braues yeux",
+            "Par tant d’exploits miraculeux",
+            "Ay ent ſurmonté Alexandre",
+            "Vos ſaicts ſeront encor plus beaux,",
+            "Le monde eſtant preſt à ſe rendre",
+            "Si vous croye ces grands Cerueaux.",
+            "¬"
+        ],
+        [
+            "3",
+            "e",
+            "Roloam adyant reſiſté",
+            "au Coneil qui luy fut porté",
+            "Par les Sages de ſon Empire",
+            "Eſpreua perdant les dix parts,",
+            "Qu’vn aduis peu ſenſé nous tire",
+            "A l’ereité des haz arts.",
+            "SIRE, pour eſuiter ce ſort,",
+            "eA vancre ſans aucun effort",
+            "Le Globe vniuerſel du monde,",
+            "Planter par tout les fleurs de ys,",
+            "Acqueris gloire ſans ſeconde,",
+            "Practiquez leurs prudents aduis.",
+            "FI N."
+        ]
+    ]
+}

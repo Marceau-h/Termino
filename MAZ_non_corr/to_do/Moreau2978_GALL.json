@@ -1,0 +1,233 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Rat (le) de la cour.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "(s. l)"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "7",
+            ". A",
+            "o 6"
+        ],
+        [
+            "¬¬-e--¬",
+            "4",
+            "a",
+            "¬",
+            "A",
+            "s",
+            "JlAre",
+            "e",
+            "l.77",
+            "A",
+            "¬.,s¬-es ar-o-e-oueeeta¬s -",
+            "pn7",
+            "v",
+            "H",
+            "T",
+            "11",
+            "L A",
+            "9",
+            "M. DG. E",
+            "4",
+            "¬",
+            ";",
+            "¬¬"
+        ],
+        [
+            "i¬.",
+            "i",
+            ".",
+            "T&amp; e¬.",
+            "-AD¬"
+        ],
+        [
+            "AA &amp; &amp;",
+            "ſe db d ſies A es ſee dſſs ſidſs ddſlie dſaet deo s s dſde ſasa",
+            "d ſaa dſs ie d eidps eſd gls leae",
+            "ies e is n ei p s e ies e ree eot p ?",
+            "5 s 3399 93 9 9",
+            "LA CO",
+            "¬",
+            "7",
+            "A",
+            "18",
+            "-",
+            "A",
+            "Parturient montes naſcetur ridi¬",
+            "Clis ns.",
+            "3Dur parler en vers de Voiture",
+            "l De cette plaiſante aduenture,",
+            "De cet illuſtre &amp; maiſtre Rat",
+            "Qui ſortit deſſous le grabat,",
+            "l’employe les vers de Sirique",
+            "Qe ’habille à la Scaronique,",
+            "22?",
+            "7"
+        ],
+        [
+            "Et vous diry tout en vn mot",
+            "A la façon de feu Marot,",
+            "Iadis le bon homme la cuiſſe,",
+            "Aſſiſté dé quatre nourrice,",
+            "Monté ſur ſon petit dada,",
+            "Fut acoucher le mons lda,",
+            "Cette pauure montagne groſſe,",
+            "Groſſe pour le moins d’vn coloſſe,",
+            "Remplit chacun d’eſtonnement",
+            "D’vn rideule accouchement",
+            "D’vn Rat qui fut de bonne race,",
+            "Ainſi que le raconte Horace,",
+            "Et qui fit rire tous les gens",
+            "Qi s’attendoient voir des geans.",
+            "Tel fut ce gros Rat d’importante,",
+            "Qui des mieux nourris de la France,.",
+            "Ce gros Rat, ce Rat de la Cour",
+            "Qu’on vid pareſtre l’autre iout",
+            "Au temps que la France troublée",
+            "Attendoit de noſtre aſſemblée",
+            "Quelque pro dige tout nouueau,",
+            "Qelque faict plus grand &amp; plus beau,",
+            "e ene enee enoe.",
+            "N’a"
+        ],
+        [
+            "5",
+            "N’a ereué que pour mettre au iour",
+            "Cet illuſtre Rat de la Cour,",
+            "Rat nourry de parle ſommaires,",
+            "De maintes inſtances legeres,",
+            "De proces, de lettres de repit,",
+            "Qui font à chacun grand dépie,",
+            "De deffenſes ſouuent injuſtes,",
+            "Qui font pourtant venir les juſtes,",
+            "Rat enfiné dans le Palais,",
+            "Nourry d’arreſts bons &amp; mauuais,",
+            "Couché dans le lict de Iuſtice,",
+            "Et qui fut le ragouſt d’eſpice,",
+            "Duquel il n’a iamais taſté,",
+            "C’eſt ainſi fort bien appaſté",
+            "Ce Rat auiour de ſa naiſfance",
+            "Trouua la corne d’abondance",
+            "Dans le ſac du ſieur Coquelay,",
+            "Mieux garny que celuy d’vn lay.",
+            "Il entre, il ſort, il ſe demeine,",
+            "Il fait trois tours, il ſe promene,",
+            "De ſac en ſac, de blancen blanec,",
+            "Viſite Meſſieurs en leur rang.",
+            "Et rodant vers les Commiſſaires",
+            "Il taſche d’abreger aftaires,",
+            "r a a a aas al da v¬",
+            "B"
+        ],
+        [
+            "6",
+            "Et rongeant Pichon &amp; charton,",
+            "Eſtonne Doujat &amp; Champion,",
+            "Pus ſans crindre Huiſlier ny ſa verge,",
+            "Sous les Fleurs de Lis il s’heberge,",
+            "Fuyant ces maroux de la cour,",
+            "Chats fourez qui vont nuit &amp; iour,",
+            "Chats de pa quet &amp; de la chambre",
+            "Qui veillent pour les Rats ſurprendre:",
+            "Enfin frappé d’vn Due &amp; Pair,",
+            "Et preſque atteint d’vn pied non pair?",
+            "Incontinent il ſe deſrobe,",
+            "Et ſe cache deſſous la robbe",
+            "De Monſeigneur le Preſident.",
+            "Tel fut enfin cet aceident",
+            "De cette moulte grande entrepriſe",
+            "Qui met tourt le Royaume en criſe,",
+            "Vn Rat d’vn’eſtrange grandeur",
+            "u,.",
+            "Qui naiſſant nous fit ſi grandpeur,",
+            "Pourra bien, braues Commiſſaires,",
+            "Si vous ne quittez les affaites,",
+            "Et vous auſ grands Preſidents,",
+            "Qui trop iey monſtrez les dents,",
+            "Vous arracher voſtre creſpine,",
+            "Puiſſiez- vous ſous voſtre machine"
+        ],
+        [
+            "3",
+            "Ceſſer de faire tant de maux",
+            "A nos quatre iluſtres fderos,",
+            "Car auſſi bien la Preſidenece",
+            "N’emportera pas la Ballance.",
+            "E IN."
+        ],
+        [
+            "1",
+            "l",
+            "1",
+            "¬",
+            "¬",
+            "1",
+            "4",
+            ",",
+            ". .",
+            "m",
+            "¬.¬",
+            "i",
+            "1",
+            "’",
+            "i",
+            "i",
+            "1",
+            "1"
+        ],
+        [
+            "1",
+            ".",
+            ".",
+            "2 ¬",
+            "l",
+            "1",
+            "1",
+            "¬"
+        ]
+    ]
+}

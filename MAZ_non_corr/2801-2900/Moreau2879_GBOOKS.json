@@ -1,0 +1,184 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "narration",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "00-00-0000",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Prise (la) du château de Tournon, dans le Vivarats (sic),\n          et du Pont Saint-Esprit, sur le Rhône, par les troupes de Son Altesse Royale, commandées\n          par M. le vicomte d'Arpajon.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2026-04-26",
+            "#text": "26 avril 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000364435102",
+            "persName": {
+                "forename": "André",
+                "surname": "Chouqueux"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "L A PRISE DV",
+            "CHASTEA V",
+            "TOVRNON",
+            "DANS LE VIVARETS",
+            "&amp; du Pont du S. Eſprit ſur le",
+            "Rhoſne, par les trouppes de ſon",
+            "A R. Commandées par Mr le",
+            "Vi comte d’Arpajou.",
+            "l",
+            "ee.",
+            "ee",
+            "cue epn e cio voy e ne eie",
+            "-e see",
+            "Auec permißion de ſon A. Royale."
+        ],
+        [
+            "3",
+            "aetaêsiaiaes",
+            "tdllſtteſttltſltſi?",
+            "LA P RIE DV CAS TEA",
+            "de ournon dans le iaarets, &amp; ds",
+            "Pone du Sainct Eſprit ſur le Rhoſne,",
+            "par les trouppes de ſon A. R. comman",
+            "deées par Mr le Vicomte d’Arpajou.",
+            "VOMME le Cardinat Mazarin mi",
+            "nutroit ſa reraitte à̀ Pignerolles en",
+            "Piedmone en cas qu’il ſe trouuaſt forcé de",
+            "ſortic de France; proiettoit ſon chemin",
+            "par Lyon: Mais poux rompre ſon deſſein",
+            "le Vicomts d’Arpajou ayant leué vn corps",
+            "d’amée en Lagtedoc, s’auanç̧a auec ſes",
+            "toouppes en Viarets &amp; Geuandan, ou il",
+            "ſe aiſi du Chaſteau de Tournon, pour",
+            "empeſcher le paſſage des trouppes Maza",
+            "rines en cas qualle prinſent leur marche",
+            "de ce coſté là, &amp; y ayant laiſſe bonno gami",
+            "ſon, i s’auança ſuſques à la ville du Pon",
+            "du Sainm ſprit ſur la’ riuiere u hoſne.",
+            "igat la place tres-inportant comme",
+            "A ij"
+        ],
+        [
+            "4",
+            "ſtant la clef de trois Prouinccs, Daupli",
+            "é, Proicnce &amp; Laniguedoc, il fit ſommet’",
+            "es habitans de larendre &amp; d’y receuoir gar",
+            "iſon pour le ſeruice du Roy, non pour au",
+            "re deſſein que d’empeſcher que le Cardnal",
+            "Maarin n paſſaſt en Piedmont, les ha",
+            "ans firent quelque refus au commence",
+            "ent: Mais ſe voyant menacez d’vyn ſiege",
+            "rois jours apres ils ouurirent leurs portes",
+            "u Vicomte d’Arpajou, lequel s’aſſd,",
+            "a ville par quatre cens hommes qu’il y",
+            "laiſſe, &amp; luy auee le reſte de ſon armée’",
+            "ſe met entre, la Prouencs &amp; le Dauphiné",
+            "pour garder le paſſage en Piedmone bon",
+            "nombre de Nobleſſe volontaire de Dau",
+            "piné &amp; d’Auuergneſeſopt joint audit i",
+            "comté d’ Arpajou, auec-mes, &amp; Cheuam",
+            "bien reſolus de ſeruir le Roy &amp;les Princs.",
+            "R elation de Guyennede ce qui s’eſt fait,",
+            "enre larmée de Monſieuir le Prince de",
+            "Conde!, &amp;cee du Comire d’Harcouirt.",
+            "Aguerre ſe continuant er Guytme",
+            "Lepje l’araee de pnſieq ld nge",
+            "de",
+            "1"
+        ],
+        [
+            ".",
+            "de Condé &amp; celle du Comte d’Harcourt",
+            "laquelle à paſſé la Garonne &amp;s’eſt auan",
+            "ce &amp; enré́ das Arnagae, on iutentioin",
+            "d’empeſcr que Monſieus e rinceneral",
+            "liaſt ſes forces, dont la plus grande partie",
+            "eſtoient en Perigod ſous la conduite du",
+            "Marqis de Marſi&amp; du Cagpitaine Bal",
+            "tar Mjs le Come d’Hgscoursn’afai",
+            "ar pagr qu de pourſuiute quelqu",
+            "d cps chuaux de Monſieur le Pince,",
+            "dqueluio’quurante ufentetuce le",
+            "ag, nßſretardangvn! Caſtodubo;",
+            "Coy d’artaur les ulla aſſegs: lder",
+            "gçg ̀ gonpoſutipnl,- qi ne leus futgar-",
+            "dé c lor ſoteie ils furene deſpouille",
+            "de, eupbaits, ainfs honeuſementen.",
+            "uy5, l J elqgAe pſonpaess dntre",
+            "leſull Cheuallie de Roquelaure fa",
+            "ns&amp;upen-;",
+            "A&amp;aaoaſcslaas Manſfes le, Flna, ui",
+            "enuoya auſſi toſt enPetigordfairveislla",
+            "agquide Maſin &amp; leapitaine Balthaar",
+            "afe; aus roupps pour alle couere le",
+            "s dascous.",
+            "2"
+        ],
+        [
+            "e",
+            ",a:,",
+            "Refus fait pa l Ville de Thoulouſe, de?",
+            "donner ds Canon aux Mazarins.",
+            "E ſieur de Pontac Intendant de la Iu",
+            "Iſtice dans l’afmée Mazarine comman¬:",
+            "dée parle Marquis de S. Luc, s’eſtant ache",
+            "miné́ à Tholouſe auec lettres addreſſédes au",
+            "Parlement &amp; à la Maiſon de Ville, leur man",
+            "dant defourir ſix pieces de Cnon, auec",
+            "poudte; balles &amp; meſche à l’armée dudit",
+            "Madrquis de Sainct Luc, le Parlement aſ",
+            "ſemblé, ayantveuces lettres ſe trouuant di",
+            "uiſé par la pluralité des voix, conlud d’ac¬?",
+            "corder audit ſieur de Pontac ce qu’it de",
+            "mandoit: la Maiſon de ville fut en ſuitte",
+            "ſembĺe ſur l meſme ſujet; ou de huict Ca",
+            "pitoux qui y eſtoient cinq furent d’aduis- de!",
+            "donner les ſix Canons, podre, meſche &amp;",
+            "balles qu’on dmandoit.",
+            "Mais comme on eſtoit à̀ l’Arſenal de la",
+            "ville pour en titer ces Canonis, le peuple",
+            "courut aux armes auec telle ardour queceux"
+        ],
+        [
+            "53",
+            "e",
+            "quiauoient eſteé d’aduis de les enoyer,e",
+            "rent contraintsdes abſenter eraignant lafu",
+            "reur de la populace, les portes de la ville fu",
+            "rent fermé́es &amp; les gardes poſeées par tout, en",
+            "ſorte que le Canon ne ſortit point de l’Ar",
+            "ena, la rſonunioneſtant piſe de ienen",
+            "oyer à l’amée Mazarine.",
+            "EIN."
+        ]
+    ]
+}

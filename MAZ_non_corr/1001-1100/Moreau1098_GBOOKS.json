@@ -1,0 +1,126 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2021-11-12",
+            "@who": "AB"
+        },
+        "titre": "Dirœ in Angliam ob patratum scelus, IX februarii\n                    1649.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": "S. P., Ph., SI. S. C. R."
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649-02-09",
+            "#text": "9 février 1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": [
+            {
+                "@ref": "isni:0000000001965841",
+                "persName": {
+                    "forename": "(veuve de Théodore)",
+                    "surname": "Pepingué"
+                }
+            },
+            {
+                "@ref": "isni:0000000108959687",
+                "persName": {
+                    "forename": "Étienne",
+                    "surname": "Maucroy"
+                }
+            }
+        ],
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "DIRAE",
+            "IN",
+            "ANGLIAM.",
+            "OB PATRATVM SCELVS",
+            "IX. Februarij M. DC.XLI.",
+            "PARISIIS,",
+            "Apud Viduam THEO. PEPINGVE, &amp; STEPH.",
+            "MAVCROY, via Citharaea, e regione viae",
+            "Mathurinorum",
+            "M. DC. XLIX."
+        ],
+        [
+            "DIRAE",
+            "IN",
+            "ANGLIAM.",
+            "OB PATRATVM SCELVS",
+            "IX. Februarij M. DC.XLI.",
+            "Hœbe Thyeſtaœas refugo ſi lumine menſas.,",
+            "JA Factaque Cadmee puduit te cernere gentia,",
+            ". Cur indigna tuos fœdant ſpectaeula vultus,",
+            "Siderei Rex alme chon, dum Regla comis.",
+            "Subdita carnificis funeſtat colla ſecuri,",
+            "Rex fatum Regis nuſquam miſeratus iniquum?",
+            "Iam tibi ſepceno ſignantur tempora curſu",
+            "E quo magnanimus, ſcelerataque oul ab vrbi",
+            "CAROLVS, aduerſam paſſus liet vadique fſortem,",
+            "Biſque domo profugus, upto bis fœdere caprus,",
+            "Suſtinet extremas inuicto corde ruinas;",
+            "Nec tanta infeftos iniia mitigat hoſtes.",
+            "Principis hi ſolo ſaiari ſanguine gaudont:",
+            "Neve quid intactum ſceleri fera turha relinquas",
+            "Iuridicum reprohos munus queſiuit in vſus,",
+            "Aſtramque fimul voluit feciſſe nocentem,",
+            "Legitimum patrare nefas ſie impia credens.",
+            "Non alirer diuina malis immiſcet, &amp; omne",
+            "Religione ſacrum Stygijs Magus artibus aptat.",
+            "At vos monſtra fori, rabies queis militis auſa eſt",
+            "Iu’Domini dare iura caput, queis lege ſceleſtum"
+        ],
+        [
+            "ſodieuim Fmare plates, rituqueDeorum",
+            "1",
+            "Inſonem, uriſque ſui prducere Regeme",
+            "Tartarei que pœna queat, quod grande barathri",
+            "Suppliciuri infligi voſtris nn lenus aufis?",
+            "Non ſiomhis pœnœ-fpeoies- coeeſrrat’invnânt,",
+            "In veſftrum ruituma caputeſed ula doloris",
+            "Vltio digna mei ſatis eſt, niſi funditus ipſa",
+            "InNsv LA, monſtra dedit noſtro quz talia ſœcl",
+            "Subter aquas tota pereat eum gente, nec aufit",
+            "Oceano profarre caput, ponotranſque per inas",
+            "AEquoris atque ſoli partes, inamabile centrum",
+            "Oceupet, &amp; eſe cruciandam ad Tartara ſiſtat;",
+            "Indignam ſe luce frui nam orimineprodit",
+            "Sacrilego, &amp; Sygia meritam caligine nergi:",
+            "Quique ſuum ſolem volaere exnguere, s et",
+            "Credere perpeeua damnaros nocte Brirannos.",
+            "IsL demonibus quondam famoſa colonis,",
+            "Quorum formadedit caudate nomia Genti.",
+            "Insvla ſueta manus Regum infeſtase cruore.",
+            "Quam fore ciuili reſperſan ſanguine, Vates",
+            "Præcinit, a Satant Merlinus ſanguine cretus.",
+            "IsvLA vicin truculſentior quore, ſummi",
+            "Qum pia cura DEei toto diuiſit ab Orbe",
+            "Ne qua foret tactu tellus polluta nefando.",
+            "Fœlix qui primos vindicte carpet honores",
+            "Parque nouo ſceleri tormentum aptare valebit",
+            "Digna tibi indigno pro crimine damna rependens.",
+            "PH. S. P.",
+            "SLS.C. ."
+        ]
+    ]
+}

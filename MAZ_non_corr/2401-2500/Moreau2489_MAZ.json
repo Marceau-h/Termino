@@ -1,0 +1,179 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Bourgeois, Jean (16..-1652)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-14",
+            "@who": "AB"
+        },
+        "titre": "Monitoire publié par toutes les paroisses de la ville de\n          Paris contre les Juifs de la Synagogue, le 1er jour de septembre 1652, pour avoir\n          cruellement martyrisé, assassiné et tué un notable bourgeois de ladite ville de\n          Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": [
+            {
+                "@ref": "isni:0000000109066434",
+                "persName": {
+                    "forename": "André du",
+                    "surname": "Saussay"
+                }
+            },
+            {
+                "@ref": "isni:0000000121814044",
+                "persName": "Eglise catholique. Diocèse"
+            }
+        ],
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1652-07-02",
+                "#text": "2 septembre 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000359773502",
+            "persName": {
+                "forename": "Veuve de Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "MONITOIRE",
+            "PVBLIE PAR TOVTES",
+            "les Parroiſſes de la Ville de",
+            "Paris.",
+            "CONTRE LES IVIFS DE LA",
+            "Synagogue, le premier iour de Septembre 1652.",
+            "POVR AVOIR CRVELLEMENT",
+            "martyriſé́, aſſaſſiné &amp; tué vn notable Bour¬",
+            "geois de ladite Ville de Paris.",
+            "A PARIS,",
+            "De l'Imprimerie de la Veufve I. GVILLEMOT, Imprimeuſe",
+            "ord. de ſon Alt. Royale, ruë des Marmouzets, proche",
+            "l'Egliſe de la Magdeleine.",
+            "M. DC. LII."
+        ],
+        [
+            "MONITOIRE",
+            "PVBLIE PAR TOVTES",
+            "les Parroiſſes de la Ville de",
+            "Paris.",
+            "CONTRE LES IVIFS DE",
+            "la Synagogue, le premier iour de Septembre",
+            "152.",
+            "POVR AVOIR CRVELLEMENT",
+            "martyriſé́, aſſaſſiné &amp; tué vn notable Bour¬",
+            "geois de ladite Ville de Paris.",
+            "FFICIALIS PAISIENSIS DILE¬",
+            "tis noſtris rectoribus ſeu eorum icariis",
+            "Is di pi ius ſ iene ie pnaen ſſeus",
+            "I d&amp; uoun nndeou de den de duenrnene",
+            "S admoneſter de noſtre part &amp; authorité",
+            "par cois diuers Dimanches és Proſnes de vos Egiſes,",
+            "A ij"
+        ],
+        [
+            "4",
+            "ſous peine d’excommunication, comme par ces pre¬",
+            "ſentes nous admoneſtons, A l’inſtace &amp; Requeſte de",
+            "Pierre Bourgeois Marchand, Bourgeois deParis, com¬",
+            "plaignant à Dieu &amp; à noſtre Mere ſaincte Egliſe. Tous",
+            "ceux &amp; celles qui ſçauect &amp; ont connoiſſſance, que le15.",
+            "iour du preſent mois d’Aouſt, iour &amp; Feſte de l’Aſſom.¬",
+            "ption de Noſtre-Dame, deffunct Iean Bourgeois",
+            "Marchand Eſpinglier fils du Complaignant, paſſant",
+            "à la pointe ſainct Euſtache, ſur les cinqheures du ſoir,",
+            "eut en rencontre certains Quidams, leſquels ſuppo¬",
+            "ſant que ledit deffunct, parlant à vn homme qui luy",
+            "demandoit quelle Compagnie paſſoit, qu’il auoit dit,",
+            "c’eſt la Synagogue, &amp; ſous ces pretextes, l’auroient",
+            "battu &amp; outragé à coups de bouts de Mouſquets &amp;",
+            "Hallebardes, l’auroient mené en la maiſon de certain",
+            "Quidam touſiours bartant, en laquelle maiſon ils au¬",
+            "roient continueé leurs outrages, &amp; commis en ſ per¬",
+            "ſonne toutes ſortes d’indignitez;, Leſquelles conti¬",
+            "nuant, auroient le 6. du preſent mois d’Aouſt, en¬",
+            "uoyé vn certain Quidam aà la hourique du Complai¬",
+            "gnant, rue ſainct Denys, proche la porte du Cimetiere",
+            "ainct lnnocent où̀ eſtoit ledit deffunct Bourgeois, le¬",
+            "quel homme ſuppoſant auoir quelque choſe à luy dire,",
+            "l’auroit tireé de ſa boutque, &amp; conduit cinq ou ſix pas",
+            "dans le Cimetiere, où eſtoien t quinze ou ſeize perſon.",
+            "nes armées d’Eſpeées, Mouſquets, Piſtolets &amp; autres",
+            "armes, qui ſe ſeroient iettez ſur ledit Bourgeois fils,",
+            "battu &amp; outrage iceluy, &amp; par violence le lierent",
+            "auec des cordes, l’emmenerent au lieu dit ſous la Ton¬",
+            "nellerie, en la maiſon d’vn certain Quidam, ou eſtans,",
+            "commirent en la perſonne dudit deffunct pluſieurs",
+            "excez, le foü̈etterent auec de grands fouets de cordes,",
+            "luy"
+        ],
+        [
+            "luy donnerent pluſieurs coups du bout de leurs",
+            "Mouſquets, &amp; des ſoufflets, l’attacherent ſur vne",
+            "chaire appellée fauteuil, le lierent auec des cor¬",
+            "des, les jambes &amp; les bras eſcartez, reirterant ſur",
+            "ſa face leors ſoufflets, crachant à ſon viſage, luy",
+            "jettant des grains de verjus en grappes en les",
+            "preſſant &amp; creuant dans ſes yeux, le frappant en",
+            "toutes les parties de ſon corps, &amp; s’eſtant trouueé",
+            "en grande alteration, cauſee de tels outrages,",
+            "leur ayant demandé à boire vn verre d’eau, luy au¬",
+            "roient porté de l’eau ou aurre liqueur puante &amp;",
+            "corrompuë: &amp; en cét eſtar l’auroient porteé dns",
+            "ledit fauteuil, le tambour battant, iuſques &amp; de¬",
+            "puis la maiſon dudit Quidam en la rue ſainct Ho¬",
+            "noreé, dans la ruedes Deſchargeurs, ò s’eſtans ar¬",
+            "reſtez, l’auroient tué &amp; afſaſſié à coups de Mouſ¬",
+            "quets; &amp; apres l’auoir ainſi tué &amp; aſſaſſine, l’au¬",
+            "roient porte dans l’Hoſtel de certre Ville de Paris,",
+            "&amp; jetté ſon corps dans la Cour dudit Hoſtel de",
+            "Ville. Qui ont veu commettre leſdits outrages",
+            "&amp; meurtre. Ceux qui les ont commis. Er genera.",
+            "lement qui des faicts cy- deſſus, circonſtances &amp;",
+            "dépendances, en ont veu, ſceu, entendu, ouy di.",
+            "re, &amp; apperceu quelque choſe, à ce faire ont eſté",
+            "preſens, ou qui autrement en peuuent dire &amp; re¬",
+            "ueler, en quelque ſorte &amp; maniere que ce ſoit, ils",
+            "ayent à le dire &amp; reueler dans ſix iours, apres la",
+            "troiſieſme publication des preſentes, Autrement",
+            "nous vſerons d̀ l’encontre d’eux des cenſures Ec.¬",
+            "cleſiaſtiques, &amp; ſelon la forme du droict, Nous",
+            "nous ſeruirons de la peine d’excommunication.",
+            "Datunm Pariſiis ſub ſigillo Cauri noffr, Anno Domi¬",
+            "B"
+        ],
+        [
+            "oi mille ſmo ſexecenteſime quinquageſimo ſecunds, die",
+            "vlrma meſis Auguſti. Signatum, iſa v SAvs¬",
+            "SA Y: Et ſgillatum duplici ſigillo, &amp; infrà.",
+            "TERRIERE.",
+            "Collaeio haius praſeotis copie fate fuis ad ſui",
+            "rigile in pergamens deſcriptum ſanman &amp; inte¬",
+            "grom per me Votariom Apoſfolieun Pariſfis debit",
+            "imatriculaam &amp; commoyanfem infrà ſignofn ,",
+            "Anno &amp; die quo ſupra."
+        ]
+    ]
+}

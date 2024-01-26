@@ -1,0 +1,170 @@
+{
+    "imprimatur": "Auec Permiſsion.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "déclaration",
+        "subject": "États généraux",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1651-02-28",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Déclaration de monseigneur le duc d’Orléans, faite en\n          personne, et délivrée par écrit, signé de sa main, à messieurs de l’assemblée de la\n          noblesse, portant parole et assurance, de la part de Leurs Majestés pour la convocation et\n          tenue des États-généraux au 8ᵉ jour du mois de septembre prochain, avec les promesses\n          conditions et sûretés requises et nécessaires, tant pour le général que pour les\n          particuliers, en cas de retardement ou d’inexécution.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121336441",
+            "persName": "Gaston d'Orléans"
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1651",
+            "#text": "1651"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
+            "persName": {
+                "forename": "Veuve de Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "L1 A",
+            "DECLARATION",
+            "DE MONSEIGNEVRLE",
+            "DVCDORLEANS.",
+            "FAITE EN PERSONNE",
+            "ET DELIVREE PAR ESCRIT.",
+            "ſigné de ſa main aà Meſſieurs de l’Aſſemblée",
+            "de la Nobleſſe, portant parole &amp; aſſeurance",
+            "de la part de leurs Majeſtez pour la conuo",
+            "cation &amp; tenuë des Eſtats generaux au 8.",
+            "iour du mois de Septembre prochain, auec",
+            "les promeſſes, conditions &amp; ſeuretez re",
+            "quiſes &amp; neceſſaires, tant pour le general",
+            "que pour les particuliers, en cas de retarde",
+            "ment ou d’inexecation.",
+            "0",
+            "A PARIS,",
+            "De l’Imprimerie de la Veufue I. Guillemot,",
+            "uë des Marmouzets, proche l’Egliſe de la",
+            "Magdeleine.",
+            "M. DC. LI.",
+            "Auec Permiſsion."
+        ],
+        [
+            "3",
+            "S",
+            "tueas",
+            "OVvs Gaſtoa, Fil",
+            "de France, Onele du",
+            "e Roy, Duc d’Orleans,",
+            "Lieutenant generalde ſa",
+            "Majeſté en toutes les. Pro",
+            "uinces de ſon R’oyanmes, &amp;",
+            "pais de ſon obçiſſance; de",
+            "clarons à’Maſsieurs de la",
+            "Nobleſſe, aſſemblbé pre",
+            "ſentement cette vile: de",
+            "Paris, qu’ayant pleu au Roy",
+            "noſtre œs-honoŕ Seigneur",
+            "&amp; bNeubu ,dé l’aduisde la"
+        ],
+        [
+            "Reine Regente ſa Mere, à",
+            "la tres-humble ſupplication",
+            "que nous &amp; Meſsieurs nos",
+            "Couſins les Princes de Con",
+            "dé &amp; deConty luyen auons",
+            "faite, trouuer bon de nous",
+            "promettre &amp; acorder que",
+            "les Eſtats generaux de ce",
+            "Royaume, que ſa Majeſté",
+            "auoit ey- deuant ordonné",
+            "eſtre conuoquez, feront in",
+            "diquez par- hiuelles lettres",
+            "de fa Majeſt portant r¬l",
+            "dre d’vne: muuele dépu",
+            "tation au 8. Septembrepro",
+            "chain; nous promettons au¬1l",
+            "dits ſieurs de ld Nobleſſe de",
+            "tenir"
+        ],
+        [
+            "enin la mainde utrdftre",
+            "pouuoir, àoe que ladite cons",
+            "uocation &amp; aſſemblée des",
+            "Eſtats ſe faſſe incefſamment",
+            "&amp; ſans aucuni’delay audit",
+            "iour, &amp; au cas qu’il. yi ſur.",
+            "uint aucun retbrdement od",
+            "empeſchement( que neant",
+            "moins nous ne pouo ny",
+            "croir ny préuoir;nous cons",
+            "fanten la paroleRoyale de",
+            "leurs ſajeſtez)que ſuiuant",
+            "la permiſsion qu’ellesousen",
+            "on donneépn leurceſcrit,",
+            "ighedelle &amp;ctreignédps",
+            "quateeeSepfetresx dlEſlat,",
+            "ladite! lbleſsepoarr!saſ",
+            "B"
+        ],
+        [
+            "a",
+            "ſembler pour nous ioindre",
+            "auec noſdits Couſims, &amp;",
+            "aduiſer enſembloment à tout",
+            "ce qui ſera iugé neceſſai",
+            "i li l l e ie ſee",
+            "re pour le bien &amp; ſeruice",
+            "la tenuë deſdits Eſtats, ainſi",
+            "que leurs Maijeſtez ont eu",
+            "greable de nous le promet",
+            "tre, fans que Nous, noſdits",
+            "Gouſis &amp; ladte Nobleſse",
+            "en puiſsions eſtre blaâmez,",
+            "ny. etre imputée à aucune",
+            "fiu hanaquement de ce",
+            "que nùsdeuons à̀leurſdites",
+            "Majeſte z quelquesordres",
+            "Ideſmes &amp; eodhaſdedols"
+        ],
+        [
+            "que nous puiſsionslorsen re.",
+            "ceuoir, au contraire c’eſt ce",
+            "que nous promettoõ̃s à ladite",
+            "Nobleſſe aſsemblée: en foy",
+            "de quoy nous luy auons fait",
+            "de liurer le presẽ̃t eſcrit, apres",
+            "l’auoir ſigné de noſtre main,",
+            "&amp; iceluy fait contreſigner",
+            "par l’vn des Secretaires de",
+            "nos commandemens. Fait à",
+            "Paris le s. iour de Marsi6̃yi",
+            "Signé,GASTON:Et plus",
+            "bas, Goulas.",
+            "Coallationm ſur l’Origial, de l’ordre",
+            "epreés de l’Aſemblee, par nous ſes",
+            "Secretaires ſousſigne, ad Panis ce",
+            "25. Mars ib5."
+        ]
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1650-07-04",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Lettre des jurats et habitants de la ville de Bor deaux\n          envoyée à messieurs les bourgeois et habitants de la ville de Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1650-07",
+                "#text": "juillet 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DES IVRATSET",
+            "Habitans de la Ville de",
+            "Bordeaux,",
+            "oe doadſfis lus ’nn o aſlian",
+            "de la ville de Pari.",
+            "3",
+            "Iouxte la Coppie Imprimée à Borde:",
+            "M. DC L."
+        ],
+        [
+            "8:",
+            "t&amp;aeta etete &amp;Z3",
+            "Lettre des Irats &amp; abitans de la ville de Bordeaux, nvoyée",
+            "à Meßteurs les Bourgeois &amp; ’abitans de Paris.",
+            "ESSIEVRS,",
+            ". Dieu ſç̧ait avec quelle douleur nous",
+            "I avons pris part dans vos dernieres deſola",
+            "tions, comme de cœur &amp; d’eſprit nous",
+            "avons ſouhaitré de pouvoir vous rendre aſſiſtance dans",
+            "voſtre oppreſſion: A preſent que nous ſommes engagez",
+            "dans les meſmes peines, Nous attendons de voſtre gene",
+            "roſité, que vous ſerez également ſenſibles à mos infor",
+            "tunes, pudis qu’elles ſuivent les voſtres d’vn nmreſme pas, &amp;",
+            "que nous recevons perſecution de la meſme main, Nous",
+            "ſommes eſtonnez de ce qu’avec. tant d’aſſopiſſement",
+            "vous ayez conſervé celuy qui vous a ſi cruellement op",
+            "primez, lequel a tenté́ toutes les voyes de vous mettre",
+            "dans les fers, pour triompher de vos foibleſſes &amp; de vos",
+            "ruines, &amp; ainſi eſlever la tyrannie au ſupreſme degré́. Il",
+            "opiniaſtre tant qu’il peut, &amp; combat pour ſa conlerva",
+            "tion, eſloignant le Roy dë Paris iuſques au temps qu’il",
+            "eſpere luy eſtre favorable: il cherche ſon affermiſſement",
+            "dans les troubles &amp; dans les deſordres qu’il exerce dans",
+            "le Royaume affligé de miſeres, n’a iamais voulu la paix,",
+            "il croit trouver le calme parmy la tempeſte, il penſe pro",
+            "firer de nos diviſions, &amp; ſe iouër impunement de la pa",
+            "tience des Peuples: Il ſemble qu’il ait épandu vn char",
+            "me general dans tous les eſprits, &amp; il eſt eſtrange de ce",
+            "que ſes Ennemis coniurez ſoient devenus ſes fideles ado",
+            "-2",
+            "2¬ A-¬."
+        ],
+        [
+            ".¬",
+            "rateurs: Nous avous elté obligez de vous donuer ads",
+            "de nos penſees bien contraires, Et vous mander que nous",
+            "avons aſſeuré leurs Majeſtez de nos tres-humbles obeyſ",
+            "ſances, Que nous atrtendons avec impatience leur entrée",
+            "dans noſtre Ville, &amp; l’honneur de leur ſejour; mais que",
+            "nous n’avons nulle intention de recevoir iamais noſtre",
+            "Ennemy commun, l’autheur de tous nos maux, qui s’en",
+            "vient vers nous pour inſulter aà̀ nos diſgraces. Enfin ce",
+            "luy qui a paſſé parmy Vous pour vn monſtre dans l’E",
+            "ſtat, le Protecteur declaré du Tyran qunous perſecute",
+            "il y a ſi long-temps: Vousſerez donc aduertis de cette",
+            "reſolution que nous avons priſe, &amp; nous eſperons qu’en",
+            "fin dans ce rencontrevous ouvrirez les yeux en noſtre",
+            "faveur, que vous aurez au moins aſſez de cœur pour don",
+            "er quelques eſtimes à̀ nos ſentiments, &amp; que vous nous",
+            "yderez de vos vœux&amp; vos ſoins aupres de Meſſieurs du",
+            "Parlement, dans cetreattentenous ſeronstouſiours,",
+            "CSSVRS,",
+            "A Bordeau ce 6 Iuillet 16o.",
+            "E",
+            "6",
+            "E",
+            "à",
+            "ue?",
+            "Vos tres-humbles &amp; tres-obeyſſans",
+            "Seruiteuts s Ivaars delaville",
+            "de Bordeaux,",
+            "2:",
+            ".."
+        ]
+    ]
+}

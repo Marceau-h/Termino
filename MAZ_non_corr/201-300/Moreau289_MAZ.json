@@ -1,0 +1,119 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Condé‎, Louis de Bourbon‎ (1621-1686 ; prince de‎)",
+            "Conti‎, Armand de Bourbon‎ (1629-1666 ; prince de‎)",
+            "Longueville‎ II, Henri (1595-1663‎ ; duc de)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, pour la liberté de\n          messieurs les princes et l’éloignement du cardinal Mazarin hors du royaume de\n          France.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "persName": "France. Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-02-07",
+                "#text": "7 février 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2989317",
+            "#text": "Orléans"
+        },
+        "publisher": {
+            "@ref": "FRBNF:17146624",
+            "persName": {
+                "forename": "Maria",
+                "surname": "Paris"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE",
+            "PARLEMENT",
+            "Pour la liberté́ de Meſsieurs le Princes, &amp; l'éloi¬",
+            "gnement du Cardinal Mazarin hors le Roiau",
+            "me de France.",
+            "Du 7. feurier 1651.",
+            "A ORLEANS,",
+            "Par MARIA PARIS, Imprimeur du Roy",
+            "&amp; de Monſeigneur le Reuerend Eueſque",
+            "d’Orleans, &amp; de la Nation Geranique."
+        ],
+        [
+            "CE iour a Cour toutes",
+            "les Chambes aſſemblee",
+            "ayant deliberé ſur ce que",
+            "Monſeigneur le Duc d’Orl ans",
+            "a dit, preſence les CGens du Roy",
+            "&amp; la Re yne auoient éſloigné le",
+            "Cardinal Mazarin, lecquel eſ",
+            "toit ſort y de cete Vi!le la nuict",
+            "derniere: Et ouy ſur ce leldts",
+            "Gens du oy. a anſte&amp; or",
+            "pue de",
+            "donné Que parls!",
+            "ladite Cut le oy &amp; laR y ne",
+            "ſ ront ce iourd’iuy rs hum¬",
+            "blement ſuppiez de metre en",
+            "liberté Meſſieurs les Princes &amp;",
+            "Due de Longueville inceſſam¬",
+            "¬¬¬"
+        ],
+        [
+            "l1",
+            "1",
+            "11",
+            "ll",
+            "4",
+            "ment: &amp; d’enfaire eipediee",
+            ".",
+            "tous ordres neaeſſaires pteſen¬",
+            "tement. E outre, ſerontledit",
+            "Seigneur Roy &amp; ladite Dame J",
+            "Rene remeieie de l’eſloigne¬",
+            "1 1",
+            "men dodr eat dinl daatn J",
+            "1",
+            "priez de luy commander",
+            "qu il ſorte le Royaumé den J",
+            "uoyer vne Decla atiou au Par,",
+            "dement, pour exe lure à l’adue.",
+            "n d’enrré eouſeis duRoyJ8",
+            "tous Eſtrangers, meſmesles na",
+            "turalilez, ou aures qui auront",
+            "erment d’autres Princes que le",
+            "Ry. Faict en Parlement le 7.",
+            "Fevrier 1651.",
+            "Signe,",
+            "GUYET."
+        ]
+    ]
+}

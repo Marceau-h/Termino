@@ -1,0 +1,56 @@
+{
+    "imprimatur": null,
+    "corrector": true,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "poésie",
+            "burlesque",
+            "satirique"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-06-26",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-06",
+            "@who": "AB"
+        },
+        "titre": "L'achat de Mazarin, en vers burlesques.",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-16",
+                "#text": "16 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-27",
+                "#text": "27 avril 2021"
+            }
+        ],
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-07",
+                "#text": "juillet 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "11"
+    },
+    "texte": null
+}

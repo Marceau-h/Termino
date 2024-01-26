@@ -1,0 +1,175 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers/prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Paix de Bordeaux (1649)",
+        "change": {
+            "@status": "not_corrected",
+            "@when": "2022-02-01",
+            "@who": "AB"
+        },
+        "titre": "Articles de la paix, accordés entre messieurs du parlement de Bordeaux et monsieur d'Argençon (sic)",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": [
+            {
+                "@ref": "isni:0000000115726371",
+                "persName": {
+                    "forename": "René de Voyer",
+                    "surname": "Argenson"
+                }
+            },
+            {
+                "@ref": "isni:0000000383255772",
+                "persName": "Louis XIV"
+            },
+            {
+                "@ref": "isni:0000000119572170",
+                "persName": "France. Parlement de Bordeaux"
+            }
+        ],
+        "pubDate": {
+            "@source": "Mazarine",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000011194155",
+            "persName": {
+                "forename": "Veuve d'André",
+                "surname": "Musnier"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "olſlſſ:",
+            "eẽEl"
+        ],
+        [
+            "e"
+        ],
+        [
+            "6l",
+            "ARTICLES",
+            "PARLEMENT",
+            "ovEAvX.",
+            "poeco",
+            "?",
+            "ee"
+        ],
+        [
+            "eess",
+            "5",
+            "ee",
+            "e",
+            "1r",
+            "rT",
+            "I IL9S",
+            "DELAPAIX",
+            "Accordez entre Meſieurs du",
+            "Parlement de Bourdeaux,",
+            "&amp; Monſieur d’Ar",
+            "gençon.",
+            "eE deſarmement &amp; léloigne",
+            "as",
+            "J ment ds trouppes tant par",
+            "lſenriſie anani ſe",
+            "eGe4",
+            "Les trouppes ſeront reti¬",
+            "rées aà la diſtance de dix lieues ordonnées"
+        ],
+        [
+            "4",
+            "par le feu Roy, &amp; pour ne donner om¬",
+            "brage à la Ville de Bourdeaux, &amp; ſui¬",
+            "urone la route qui leur ſera ordonnée",
+            "par ſa Ma jeſté.",
+            "2. L’ouuerture des paſlages &amp; le com",
+            "merce ſera libre tant par terre que par",
+            "les deux riuieres.",
+            "4. Le Chaſeau de Langoiran auec les",
+            "meubles qui y eſtoient, enſemble celuy",
+            "de Vayres &amp; autres, ſeront rendus aux",
+            "proprietaires.",
+            "5. Les gens de guerre qi ſont à Libour¬",
+            "ne ſeront en nombre neceſſaire pour la",
+            "garde du Reduict en l’eſtat qu’il eſt aà̀",
+            "preſent iuſques à l’ordre du Roy, ſans",
+            "qu’on puiſſe cependant continuer le tra¬",
+            "uail dudit Reduict.",
+            "6. Ceux qui feront l’aduance de la ſuhb¬",
+            "ſiſtance des ſoldats dudit Reduit de Li¬",
+            "bourne en ſeront rembourſez ſous le bon",
+            "plaiſir du Roy, par dedution ſur les de¬",
+            "iers de la Taille, Subſiſtace, ou autremet.",
+            "Tous"
+        ],
+        [
+            "5",
+            "7. Tous les priſonniers de guerre ſeront",
+            "rendus de part &amp; d’autre.",
+            "8 Il y aura ſeureté́ entiere pourt les per¬",
+            "ſonnes &amp; les biens des particuliers tant",
+            "du Parlement que de la Ville de Bor.",
+            "deaux &amp; autres qui les ont aſſiſtz: Et",
+            "à ces fins ſa Majeſté ſera ſuppliée de",
+            "donner ſa Declaration neceſſaire.",
+            "9 Il ſera mis dans le Chaſteau Trompet¬",
+            "re iuſques aà ſepu vings ſacs de farine au",
+            "pluſtoſt qu’il ſe pourra, &amp; ſur l’aduis",
+            "qui ſ-ra donné par le Parlement du temps",
+            "conuenable à cét effet.",
+            "1. Et pour Ia ſeureté de la remiſe de¬",
+            "dites farines, ont eſté donnez trois cau¬",
+            "trons qui demeureront deſchargez des",
+            "lors que cela ſera effectué",
+            "On pourra continuer la garſé de a",
+            "Ville quand il ſera neceſfaire. ’",
+            "12. Le Chaſteau du Ha ſera remis és",
+            "mains du Sieur Marquis de Roquelau.",
+            "B",
+            "3"
+        ],
+        [
+            "6",
+            "re, ou ceux qui auront charge de luy.",
+            "Fait à Bourdeaux le premier iout de May",
+            "mil ſix cens quarante neuf.",
+            "Ainſi ſignez.",
+            "DBbernet, PremierPre¬ Argenç̧on Maiſtre des",
+            "Requeſtes.",
+            "ſidet.",
+            "De udairaus, ſonſeiller Caurſol, Conſelller Com¬",
+            "Coomißaireſuſdit. miſsaireſuſlit.",
+            "Duſault Aduocat Gene-¬ Duſſaulr, Depureé́.",
+            "ral Commiſſaire.",
+            "Caluimont, arat. Richon, Depateé.",
+            "JOvs ſoubs-ſignez certifions qu’il",
+            "Na eſté mis dans le Chaſteau Trom¬",
+            "ette la quantité de quatre- vingrs ſacs",
+            "de farine de deux boiſſeaux chacun faiſant",
+            "cent ſoixante boiſſeaux: En foy de quoy",
+            "nous auons ſgné ces preſentes. A Bour7",
+            "deaux le 6. Maé",
+            "as",
+            "E",
+            "lé i",
+            "?",
+            "e¬"
+        ]
+    ]
+}

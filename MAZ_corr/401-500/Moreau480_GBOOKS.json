@@ -1,0 +1,104 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "avis",
+            "discours adressé"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-01-08",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Avis aux bons et fidèles serviteurs du roi, les bourgeois\n          de Paris, de demander Au parlement et à l’échevinage , supplier le roi qu'il plaise\n          D'ordonner, aux bourgeois, de prendre les armes pour son entrée dans Paris; De faire sa\n          demeure au Louvre ; D'employer les revenus des biens et bénéfices de Mazavin à payer les\n          ouvriers, qui achèveront ledit Louvre; D'agréer le duc d’Elbeuf pour gouverneur de Paris,\n          etc.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "32s1.",
+            "aa",
+            ":gageéo&amp;oeeep",
+            "aeade&amp;e s eesẽ&amp;ee",
+            "Aeeeeyyepeo4",
+            "Aduis aux bons &amp; fidelles Seruiteurs",
+            "du Roy, les Bourgeois de Paris;",
+            "de demander, qu’il plaiſe",
+            "A. MESSTEVRS DV PARLEMENT,",
+            "Preuoſt des Marchands, &amp; Eſcheuins de cette",
+            "Ville, Mediateurs entre le Roy &amp; le Peuple, Apres",
+            "la ſorrie du Cardfal Mazarin, ſeu Ennemy du",
+            "epos Publicq, hos de ce Royaume, eneaecution",
+            "Se-eue",
+            "ro e",
+            "VVPPLIER ttes-hamblement leROY,",
+            ", que ſous fſon bon plaiſit, pou loy faire re",
+            "connoiftre les adas deſirs que tous les",
+            "Bourgeois de Pars ont pour lon heureux retour,",
+            "au pluſtoſt dedans cette Ville.",
+            "l foit enjoint à tous leſdits Bourgeois de ladi",
+            "te Ville &amp; Faux-Bourgs, ſans exception, de",
+            "prendreles armes le iour qui ſera deſtineé, pour",
+            "cette glorieuſe entrée: Diſpoſer la moitié vers"
+        ],
+        [
+            "Paris, en la pleine de Neuilly en bataille, &amp; le",
+            "reſte aà la garde des Portes, &amp; enhaye iuſques au",
+            "Louure. Où ſe fera, s’il luy plaiſt, d’oreſenauant",
+            "ſa demeure; le tout pour faire voir au Roy la",
+            "quantité de ſes fidelles Seruiteurs, &amp; par leurs",
+            "acclamations qu’ils font touſiours dans ſon",
+            "obeyſſance, en laquelle ils veulent viure &amp;",
+            "mourir.",
+            "Que tous les biens &amp; reuenus des Offices &amp;",
+            "Beneficespoſſedez par le Cardinal Mazarin, en",
+            "ce Roaume, ſeront employez à la nourriture",
+            "des pauures Ouuriers, qui trauailleront à ache",
+            "uer les Baſtimens du Louure.",
+            "Qu’attendu l’aage de Monſieur le Duc de",
+            "Montbaſon, &amp; le deſſein qu’il aeu deſe deffaire",
+            "de ſx Cernenent, il ſee osai . la diec",
+            "Vlle de recompenſer ledit Seigneur Due, de la",
+            "ſomme de quaraate mil eſeus. Et agreer pour",
+            "Gouunrneur en la place dudit Seigneur Duc,",
+            "Monſieur le Duc d’Elbeuf. Et pour ſon Lieute",
+            "nant Monſieur le Marquis de la Boullaye. Et",
+            "leur vouloir donner pour demeure le Palais",
+            "Mazarin, qui ſera à l’auenir la demeure des",
+            "ouucrneurs de Paris.",
+            "Que pour Gouuerneurs du Roy &amp; de Mon",
+            "ſeigneur le Duc d’Anjou:, l’on demande Mon¬"
+        ],
+        [
+            "ſieur Dauaux ou M le Comte de Treſmes,",
+            "ou autres de prudence &amp; fidelit́ auſſi connuë.",
+            "Et enfin que les anciens Capitaines des Gar",
+            "des, ſoient reſtablis dedans la fonction de leur",
+            "charge, pour reſpondre de la perſonne du",
+            "Roy."
+        ]
+    ]
+}

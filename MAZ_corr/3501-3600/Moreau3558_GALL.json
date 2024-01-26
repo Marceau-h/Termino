@@ -1,0 +1,182 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-02-19",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-07-19",
+            "@who": "ZC"
+        },
+        "titre": "Les rois sans roi, ou Réflexions des rois de la fève sur\n          l'enlèvement du roi hors sa bonne ville de Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": [
+            {
+                "@ref": "isni:0000000066473952",
+                "@xml:id": "IL_HenaultMathurin.xml",
+                "persName": {
+                    "forename": "Mathurin",
+                    "surname": "Henault"
+                }
+            },
+            {
+                "@ref": "isni:0000000108989536",
+                "@xml:id": "IL_HenaultJean.xml",
+                "persName": {
+                    "forename": "Jean",
+                    "surname": "Hénault"
+                }
+            }
+        ],
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "LES ROIS SANS ROY.",
+            "OV REFLEXIONS",
+            "DES ROIS",
+            "DE LA FEBVE,",
+            "SVR L'ENLEVEMENT",
+            "du Roy, hors ſa bonne",
+            "ville de Paris.",
+            "A PARIS,",
+            "Chez MATHVRIN, ET JEAN HENAVLT,",
+            "M. DC. XLVIIII."
+        ],
+        [
+            "Te faut il noyer dans vn verre",
+            "Et laiſſer perdre dans des pots,",
+            "L’honneur d’auoir dans ton enclos",
+            "Le plus grand des Rois de la terre?",
+            "garer vn don tout diuin;",
+            "Cependant que dedans le vin",
+            "s l’abondance des delices,",
+            "Tu donnes des Commandements",
+            "Qui n ’auront qu’autant de moments",
+            "us en pourront auoir tes caprices?",
+            "6",
+            "Ces Royaumes imaginaires",
+            "Conquis par la febue &amp; le ſort,",
+            "Außi-toſt que chaoun s’endorts",
+            "Laiſfent là leurs proprietaires",
+            "p-",
+            "Tels qu’ils auoient touſiours eſté,",
+            "Ne reſtant de leur Maieſté.",
+            "Que ceſte perte veritable",
+            "Qu’ils font ceſte nuict d’vn Snſant",
+            "Qui ſeul ſobre, &amp; ſeul triomphant",
+            "La porte toute en ſon viſage.",
+            "es"
+        ],
+        [
+            "Les voylà regnants à la table",
+            "Tandis qu’on les perd à la Cour;",
+            "L’on pourra voir auec le iour",
+            "Ce que c’eſt vrayement que la fable;",
+            "Combien elle a touſiours eſté",
+            "Contraire à toute verité,",
+            "Nommément en cette auanture;",
+            "Où l’on void donner à des Rois",
+            "Le pouuoir de faire des lois",
+            "Qi ne vangent point ceste iniure.",
+            "Lors que tu donnes en parfage",
+            "Des Empires aux conuie,",
+            "Tes fiers ennemis ennuye",
+            "De voir le boheur de ton aage,",
+            "Taſchent à diuiſer le tien,",
+            "Où plustoſt le reduire à nien",
+            "Aprés en auoir fact leur proyes",
+            "Et quand tu parles u Soleil,",
+            "Ils t’en oſtent vn ſans pareil",
+            "Qui peut tour ſeul faire ta ioye.",
+            "8"
+        ],
+        [
+            "6",
+            "8",
+            "4",
+            "Tus leur es pourtant redeuable",
+            "D’auoir fait par ceſte action",
+            "eoir à quel poinct d’affection",
+            "C’est Enfant te paroiſt aymable;",
+            "Choiſiſſants pour ce laſche tour",
+            "Sachants bien que pendant le iour",
+            "Ton cœur ne le pourroit permettre)",
+            "Les triſtes horreurs de la nuict,",
+            "Maniants les armes ſans bruict,",
+            "Pour pouuoir mieux troper ton aiſtre.",
+            "l",
+            "4",
+            "Mais quoy que pourroit on attendre",
+            "D’vn eſprit de bronze &amp; de fer",
+            "Qui leur commande d’eſtouffer",
+            "La deuotion la plus tendre",
+            "Dans les prieres &amp; les vœux,",
+            "Portant les armes &amp; les feux",
+            "Parmi les actions de graces;",
+            "Et par la meſme cruauté",
+            "Eſteignant noſtre liberté,",
+            "En effacer toutes les traces?"
+        ],
+        [
+            ".",
+            "2",
+            "Si non de voir que ſa manie",
+            "Sortant des termes du deuoir,",
+            "Vſurpe l’abſolu pouuoir,",
+            "Pour en baſtir ſa tyrannie;",
+            "t pour rendre vn nom odieux",
+            "Qui faict cheZ nous de petits Dieux,",
+            "Quand ils nous rendent la iuſtice:",
+            "Et l’entreprend meſme en vn iour,",
+            "ene ſe ener",
+            "Eſtrange face des affaires!",
+            "Ceite troupe de débauchez.",
+            "Qui ceſte nuict s’eſtoient couchez",
+            "Remplis de vins &amp; bonnes cheres,",
+            "Se leue pour recommencer;",
+            "Mais elle s’entend menacer",
+            "Par tout d’vne proche famine",
+            "Qui trouble ſes contentements,",
+            "Et qui ſuſpend les iugements",
+            "Craignants le coup de leur ruine.¬"
+        ],
+        [
+            "8",
+            "La pompe ſe trouuechangée",
+            "En vne conſternation",
+            "Donnant vne apprehenſion",
+            "Qui ſe void partout partagée.",
+            "On coniecture du danger",
+            "Du dedans &amp; de l’eſtranger",
+            "Au ris ſuccede la triſteſſe:",
+            "L’on void la prodigalité",
+            "Ceder la place à la cherté,",
+            "Qui nous eſt vne triſte hoſteſſe.",
+            "T",
+            "1",
+            "AN."
+        ]
+    ]
+}

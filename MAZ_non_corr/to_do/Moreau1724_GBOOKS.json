@@ -1,0 +1,243 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Intrigue (l') des soldats de l'armée de Mazarin\n                    avec les filles de joie de Paris, nouvellement découverte par des lettres\n                    interceptées par la garde de la porte Saint-Honoré, et la réponse sur le même\n                    sujet, où se voit la misère de l'armée mazariniste, et ce qui s'y passe de plus\n                    remarquable.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:0000000",
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "la l¬",
+            "oſſn",
+            "N lE¬",
+            "2112-B 3",
+            "----¬¬¬¬",
+            "ALT¬",
+            "1 1",
+            "1",
+            "1l",
+            "1",
+            "1l",
+            "1",
+            "1!",
+            "l1",
+            "1!",
+            "11"
+        ],
+        [
+            ",",
+            "esr.¬",
+            "aa¬"
+        ],
+        [
+            "2 1",
+            "l¬ I",
+            "1 2 I",
+            "1¬",
+            "L¬ 1",
+            "T",
+            "l1"
+        ],
+        [
+            "8",
+            "8",
+            "aaa",
+            "4"
+        ],
+        [
+            "eore pp?",
+            "S’l &amp;ssdee qts",
+            "T NA T",
+            "L’NTRIGVE DES SOLDATS",
+            "1 l 1",
+            "DE L’ARMEE DE MAZARIN,",
+            "Auee les Filles de joye de Paris.",
+            "1",
+            "Nouuellement découuerte pat des lettres inter¬",
+            "cepées par la garde de laPorte S.Honoré.",
+            "Ee la neſponce ſar le me ſne ſujet,oa ſe void la miſere",
+            "ds l’armee MaZariniſte, &amp; ce qui s’y paſſe",
+            "de plus remarquable.",
+            "Leitre de Madame Charlotte aà ſon amy LaPele.",
+            "HERLA PERLE.",
+            "Car il me ſemble que ie me mocquerois de",
+            "toy, ſi ie t’appellois Monſieur: Ie te diray que",
+            "a le manteau que tu conquis par tavaleur..or¬",
+            "dinaire deux iours deuant ton depart, a efté",
+            "deſcouuert à la friponnerie, où̀ ie penſay eſtre fort mal trair¬",
+            "tée; Ce malheur auee la cherte dud pain nous mee preſque au",
+            "deſeſpoir. Madame Bido qui m’a touſiours ſi heureuſement",
+            "aſſiſte de ſes conſeils, &amp; qui a vendu mon pucelage plus de",
+            "fois qu’il n’a de poils au menton, ſe rrouue au bout de ſe la¬",
+            "in dans cette malheureuſe ſaiſon: Mas tout cela n ſe1t",
+            "tien ſiie-iouyſſois det chere preſence, &amp; que tu ne fus pas",
+            "- r",
+            "A",
+            "12o2-B"
+        ],
+        [
+            "4¬",
+            "rmemy deetce bonnevilſe de Pati, donela rae traiſns a¬",
+            "pres ſoy, &amp; la noſtre &amp; celle des gens de ta robbe, tu ſçais bien",
+            "qu’il hny à point de vilſe en Francé, voire au monde,:où noſtre",
+            "commere&amp; le tie ſe puiſſe exercor aſſeurement, à cauſe de",
+            "a nmulritu le du peuple &amp;de la grande co fufion qui nous cou¬",
+            "urmieux oue da plus eſpaſſe forecſt, &amp; à cauſe. de la richeſſe",
+            "&amp; de latimidité du Burcois que ſi vne fois vous lappau¬",
+            "uriſſez &amp; l aguecrtſſez, où il nous faudra namurir de faim, où il",
+            "faudra que ta vie courre danger à tout moment. Si tu voulois",
+            "uiure le conſel d’vne fille, &amp; fare quelque choſe pour l’a¬",
+            "mour de moy, ie te prierois de reuenir à Pais, &amp; ne te point",
+            "declarer eanemy de la mere nourrice de tous les bons garçons",
+            "quiviuent de leur adreſfe &amp; de leur bonne mine, les Soldaxs",
+            "y ſont bien payez, on les arme iuſques aux dents, toutes la",
+            "France ſe delare pour cux, le payſan-traitte les ſoldats com¬",
+            "me leurs enfans, &amp; les coniderent comme leurs Liberateurs,",
+            "ils bnttouſiours la reritte decette fortereſſ, où i’auray ſou¬",
+            "uent le bi n de te voir, &amp; conſ ruer le burin que tu feras, &amp;",
+            "auorſoin de toy s’il t’acriue de l’indiſpoſition: la-ou dans l’ar¬",
+            "mee ou tues l n’y à rien à gagnet que de la miſere, l’argent y",
+            "manquera incontnent, puiſque les ſources des tailles &amp; des",
+            "impoſts ſont raries &amp; que le moindre village ne les reçoit que",
+            "par foree Tu neſçaurois croire conen ie ctaims pour toy,",
+            "car ll ne fauit qu’vn malheureux pſan pour t’eſgorger en",
+            "-drmant, ou pour te tuer derriere vne haye, c’eſt vn grand",
+            "poinct d’auoir le manantpour ſoy? On m’a dit auſſi que les",
+            "pavſans ontordre de reratquer lesſoldats qu ferot des vio.",
+            "lences, &amp; que le Parlerfent leés punita toſt bu tard côinne des",
+            "voleurs, parce qu’ils ſont franç̧ois &amp; non ennemis: Mais ſi tu",
+            "es aſſez crtuel pout ne te point laiſfer gagner à tande taiſons",
+            "&amp; à mon amour, pour le mons faits en ſorte que ie te voye.",
+            "Ma couſineCatome dt hrer qu’eélle aoie veu La-Rohe à mny"
+        ],
+        [
+            "t 3",
+            "ayqs",
+            "bhemin de S. Denais qui luyaueédanaét grapaû",
+            "auoient’ falt. cela, tu puras be dsar prsndeartusr&amp;e",
+            "m’y troneray fuſt ce au penda vi, ietdaiay deboa¬",
+            "che ce qe ie me puis coafier al papies lte ttedanqeeeſ¬",
+            "ponce aueompnienco iedaauteragil",
+            "1.1 O- l",
+            "Moneher La Peo,",
+            "naid n",
+            "T bianmayomne",
+            "Gharbir",
+            "1",
+            "Ee ees aoeuef",
+            "eb e",
+            "T",
+            "1",
+            "DLaA RAL LDo¬",
+            "à ſa bien aimée Chatlotte",
+            "Ou ſe void ce qui ſe paſſe de plus remarquable",
+            "dans l’arpée ds Maari.",
+            "A CHERE CHAROTTE,",
+            "ay receu latienne qui m’a bien donne du contentement,",
+            "reſtoideſudunsla rſolunon que u me propoſes, e pen",
+            "ſois m’en aller auoo:ce üie aay pfta",
+            "potot;, qui h’euſt"
+        ],
+        [
+            "1 4",
+            "aſicoûros t letireoq’ibpaouiſt poue ParisIle ſuiuray de",
+            "oproz, &amp;ſeedieparty a luy ſi mon linge eufb eſté blanc u",
+            "e ſçaurois otite là miſertque’nousfouffronis icy, on ne nous",
+            "aye poine, &amp;il nyàque les A llemaas &amp; autres eſteangers qui",
+            "font quelque choſe, parce qulo ne ſe fie pas nous, à oauſe",
+            "dit-on, que nous auons trop de pitié des pariſiens. Nous ſe¬",
+            "rions bien chiens de ne pas aimer nos parens, de mal raiter",
+            "de pauures païiſans qui ne nous font point de mal, ſi les trou¬",
+            "pes viennent vne fois à ſe meſler, vous verrez plus de la moitie",
+            "de noſtremëee ſoiettes dans la voſtre, tant les charmes de",
+            "Paris ſt agejq,’ie vous diray que le Cardinal eſt plus",
+            "hay icy qu’à Paris, &amp; que ſa teſte n’eſt pas tro aſſeuree s’il",
+            "vient iamais dans la meſlee. Ie n’ay pas fait cela vn pauure",
+            "coup depuis que ieſuis ſorty de Paris: A propos ie në man¬",
+            "queray pas de te porter du pain, car ſans celail n’y à pas moyen",
+            "e prr Rgpu de l’atgent je p’enſais guere charge, i’en ay",
+            "-poufearencoreſſez our boire pinee, &amp; pourueu que tu me",
+            "fournſſe de la viande ie porteray du lard pour la larder, &amp; vne",
+            "brocho peur l’embrochet, noſtr miſere n’empeſche pas que ie",
+            "ne me reſiouiſſe quand ie ſonge à ma chere Charlotte, à qui",
+            "ieſais,",
+            "Tres-obeiſſant &amp; affctionné ſeruiteur,",
+            "Ie ne mets pas de nom craince de furpriſe.",
+            "¬¬",
+            "TrO",
+            ".V..",
+            ", APari, çheC. Cheaul, raëédala hucene c49",
+            "S"
+        ],
+        [
+            "l¬",
+            "is¬",
+            "1"
+        ],
+        [
+            "eii",
+            "iiiſi",
+            "44"
+        ],
+        [
+            "l ¬¬",
+            "1",
+            "1",
+            "11",
+            "1",
+            "1",
+            "1",
+            "I",
+            "I",
+            "l",
+            "1 1",
+            "1",
+            "1",
+            "11",
+            "1",
+            "1",
+            "1"
+        ]
+    ]
+}

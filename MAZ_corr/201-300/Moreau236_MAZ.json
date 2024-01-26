@@ -1,0 +1,89 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Armes – Prix",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, du 30 janvier 1649,\n          portant règlement pour le prix des mousquets avec bandoulières, picques , paire d'armes\n          avec le pot, pistolets avec les foureaux, poudre, plomb et mesche .",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-02-01",
+                "@when": "1649",
+                "#text": "à partir du 1er février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST DE LA",
+            "Cour de Parlement.",
+            "Du trentiéme Ianuier 1649.",
+            "Portant reglement pour le prix des Mouſquets",
+            "auec banduiilleres, Picques, paire d’Armes",
+            "auec le pot, Piſtolets auecles fourreaux, pouldre,",
+            "plomb &amp; meſche.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires",
+            "ordinaires du Roy.",
+            "M DC. XLIX.",
+            "Auec Priuilege de ſa Maieſté."
+        ],
+        [
+            "¬.",
+            "4",
+            "les fourreaux dix-huict hures, &amp; ceux à roüet plus",
+            "de ſeze liures. La lure de pouldre à̀ mouſquet p’us",
+            "de vingt ſols, &amp; la fine plus de vingt-quatre ſols. La",
+            "liure de plomb quatre ſols, &amp; la liure de meſche",
+            "quatre ſols: le tout apres l’eſpreuue faite deſdires",
+            "Armes. Et en cas de contrauention ſera procedé",
+            "contre les contreuenans extraordinairement par les",
+            "voy es de droict. F 1cT en Parlement le trentieme",
+            "Ianuier mil ſix cens quarante neuf.",
+            "Signé,",
+            "GVYET.",
+            "Collationmné l’Original par moy Conſeilles",
+            "Secretaire d Roy, &amp; de ſes Finances."
+        ]
+    ]
+}

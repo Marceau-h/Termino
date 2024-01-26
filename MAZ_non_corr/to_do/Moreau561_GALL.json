@@ -1,0 +1,197 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Ballade",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:0000000",
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "r",
+            "n",
+            "2",
+            "s",
+            "e",
+            "Sourea l lblonaqua natlona’s ranea"
+        ],
+        [
+            "4 H",
+            "A.",
+            "A",
+            "A.",
+            "T",
+            "L",
+            "A",
+            ".",
+            "¬",
+            "p",
+            "4¬",
+            "A",
+            "¬",
+            "M. DC. XLIX.",
+            "¬",
+            "l1"
+        ],
+        [
+            ",",
+            "0Z",
+            "2 1",
+            ".2",
+            "-",
+            "8",
+            ".",
+            ". .-¬",
+            ". e2",
+            "gag?",
+            "1",
+            "ae",
+            "2",
+            "* a, ue eee Es.ae ’",
+            "e",
+            ".2..oee¬;",
+            "e, r ,u",
+            "e ee¬. .. e. 2¬",
+            "¬ ,",
+            "2",
+            "3",
+            "A",
+            "2.....",
+            "3",
+            ". s",
+            "-¬-¬¬¬¬¬¬¬¬.¬2*",
+            "S",
+            "!",
+            "A",
+            "¬",
+            ",5",
+            ";S.",
+            "..",
+            "ptp",
+            "2 4¬",
+            "o",
+            "’a-:ee-",
+            "?",
+            "o¬",
+            "e.",
+            "¬"
+        ],
+        [
+            "1",
+            "8",
+            "&amp; pu nunu e",
+            "a dp a q4n et r e",
+            "Aele dee pe d&amp;e Vt́ e’s ee reie",
+            "’ Rondeurs dont la vigueur autrefois eſtonna",
+            "I Ce maiſtre Calabrois, ſi beauſi rafiné",
+            "Quand pour auodir de nuict noſtrePrince mmené",
+            "Contre luy cét Atreſtſiefameux on donuna",
+            "Courage, ſon forfait ſera bien toſt puny",
+            "C’eſtvn pauure Miniſtre il a le teint teny,",
+            "Deſia’toiis fes ’etlatſttés ti eitieroPio m bno",
+            "Nous aurons le p’aiſir dee le oir’mis a nu,",
+            "e nele le ne e ieine el l e ur",
+            "3",
+            "A peine l’autre iour Condé le mâtina",
+            "Que plus triſte &amp; confus qu’vn pauore condamné",
+            "De tous ſes cou tiſans il fut abandonné,",
+            "Et leommé Cohon ſes Singes mal mena:.",
+            "¬."
+        ],
+        [
+            "Il n’euſt lus de credit chez le Cantariny,",
+            "L’huiſſier du cabinet morgua le Manciny,",
+            "Etl apael’a çent fois fils de Veturino,",
+            "Vn autre donte nom’ne m’ ſt pas fort cogn",
+            "Appeſa ce it on ſaNiepce Becquen0,",
+            "Le fauin euira commeil eſtoit yenu¬",
+            "a A..¬",
+            "e8e",
+            "Apres que dans Madrid le Seigneur Colonna",
+            "L’eut ſaus dſſusdeſſous maintefois retourné,",
+            "Dans Rome il fut produit comme vn effemine,",
+            "Et ſans deſſus deſſous qui voulut le tourna,",
+            "Cerundanr anoundhny ce neſes fauus",
+            "Comme ſi nous tenioas le ſang Mazariny",
+            "Pls i luſtre cent fois que le ſang Vrſino0,",
+            "Et que par ſon merire il ſe fut maintenu,",
+            "Il reſpond fieement à Condé Signor no.",
+            "Le faquin s’en ira comme il eſtoit venu,",
+            "ENV OY.",
+            "Prince appuy de l’Eſtat, de gloire enuironné",
+            "Par les mains de l’honneur tant de fois çouronné",
+            ".."
+        ],
+        [
+            "3",
+            "Ne vous laſſez vous point de voir ce Goden0",
+            "Trop l’ong-tomps malgé nous la Cour la retenu",
+            "Condé ſi vous parlés, deuant qu’on chante no,",
+            "Le faquin s’en ira comme il eſtoit venu.",
+            "S ſeſeſerdedßsde",
+            "CENTVRIE. 777.",
+            "DE NOSTRADAMVS.",
+            "3¬",
+            "Ors que l’on contera ſix cent quarente neuf",
+            "T",
+            "LChaeun ſeraſrpris deuant qu’il ſoit Decembie",
+            "Les mangeurs de ragouts retourneront au beut",
+            "Et Mars ne finira qu’à la fin de Septembre.",
+            "A Dieu dars.",
+            "Mourra t’il ne mourra t’il pas,",
+            "Ira t’il iuſqu’au quatorſieſme,",
+            "B"
+        ],
+        [
+            "6",
+            "Il ne ſemble qu’il eſt bien bas;",
+            "Mourra t’il, ne mourra t’il pas.",
+            "Ses Eſclaues font des helas,",
+            "Et diſent dans leur peur extreme:",
+            "Mourra t’il, ne mourra t’il pas.",
+            "Ira t’il iuſqu’au quatorſieſme",
+            "FIN.",
+            "4"
+        ]
+    ]
+}

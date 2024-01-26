@@ -1,0 +1,136 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-07",
+            "@who": "AB"
+        },
+        "titre": "Arrest du Conseil d'Estat du Roy, donné à Saumeur le\n          dixiesme fevrier 1652 pour le payement des gages des officiers des cours\n          souveraines.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121754977",
+            "@source": "Mazarine",
+            "orgName": "Conseil d'État"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-02-10",
+                "#text": "daté du 10 février 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000008903969",
+            "@xml:id": "IL_RocoletPierre.xml",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Rocolet"
+            }
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DV CONSEIL D'ESTAT",
+            "DV RO Y",
+            "Donné à Saumeur le dixieſme Fevrier",
+            "16s. pour le payement des gages",
+            "des Officiers des Cours Souue",
+            "raines.",
+            "SVR l’aduis donné au Roy en ſonCon",
+            "ſeil, que l’eſtabliſſement des Controol",
+            "é leure en chacun grenier aà Sel, &amp; ſaiſie",
+            "faite des deniers prouenans de lavente &amp;",
+            "diſtribution par Impoſt du Sel, en con",
+            "ſequence de l’Arreſt du Conſeil du 8 Ianuier dernier,",
+            "pouroit retarder la deliurance des ſommes ordonnées",
+            "eſtre payées pour les gages des Cours ſouueraines dans",
+            "les greniers affectez au payement d’iceux, ſuiuant les",
+            "Arreſts &amp; conſentement des adiudicaraires des Gabelles",
+            "cy-deuant accordez en faueur deſdites compagnies: SA",
+            "MAIESTE’ EN SON CONSEIL, ſans s’arreſter au",
+            "dit Arreſt dudit &amp; Ianuier dernier. A’ordonné &amp; or",
+            "donne auſdits adiudicataires deſdites Gabelles leurs Cõ̃",
+            "mis &amp; Controolleurs &amp; tous autres, prepoſez à la re",
+            "cepte des deniers prouenans des vẽtes és greniers à Sel,",
+            "de faire &amp; continuer les payemens des fonds des gages",
+            "A"
+        ],
+        [
+            "2",
+            "des Officiers dela Cour de Parlement, grand Conſeil,",
+            "Chambre des Comptes &amp; Cour des Aydes de Paris, en",
+            "l’eſtendué de tous les greniers affectez au payement d’i",
+            "ceux, en la meſme forme &amp; maniere accouſtumée, &amp;",
+            "aux termes portez par les conſentement y-deuant",
+            "donnez au receueu &amp; payeurs de chacune deſdites",
+            "compagnies, à quoy faire leſdits adiudicataires, Rece",
+            "ueurs &amp; Compiis ſeront, onrrains par toutes voyes",
+            "comme pour les propres affaires de Sa Majeſté on",
+            "obſtant les deſſences portées par ledit Arreſt du 8",
+            "Ianuier, &amp; toutes ſaiſies &amp; auttes deffences faies &amp; à",
+            "aire dans leſdits greniers afſetez auſdites gages deſdi",
+            "res Cours: que ſadire Majeſté ne veut &amp; entend auoi",
+            "lieu pour raiſon du fonds deſtiné au payement de leus",
+            "ages, &amp;e ſerale peſetmſgniiea la dilgune",
+            "onnroolileur gEnerildes etesdnu ondeil enous leſ",
+            "grenies a &amp;el dans quinunaine -à eine de eſp",
+            "Aeaiuerſlement des denneus, qui pounouent etre",
+            "aopar les adidiramaironeeiainms uſdeganiss",
+            "ed nu peiuliee deſrome deſ-nons Fa au ouſail",
+            "ear d Roy, enu à̀ Sanmour le o. iour de Feuier",
+            "25e. Signe, ſGALLAN.",
+            "T oyIS par la gee de aneu, ayde Fanne V",
+            "L deNauanes a pmer dus mſſnes de noſe",
+            "ead ou uere Huſior ou Sognt ſur re requ",
+            "os e mandohs o oemamandonique lAetdamt",
+            "reuit eooradhe ſousile-ſoed dentrCha",
+            "ie ee ioumd’huy anmaé en ndte Caonſoil dta,",
+            "our rucon dn pyemneuds gg deeoi- des"
+        ],
+        [
+            "Compagnies Souueraines de Paris en la maniere accou",
+            "ſtumée: Tu ſignifie aux adiudicataires des Gabelles, Re",
+            "ceueurs, Commis &amp; autres qu’il appartiendra, à ce qu’ils",
+            "n’en pretendent cauſe d’ignorance, &amp; faicts pourl’exe",
+            "cution dudit Arreſt à la diligence du Controolleur ge",
+            "neral des reſtes de noſtredit Conſeil; tous commande",
+            "mens, contraintes, ſommations par les voyes y decla",
+            "ré́es, deffences &amp; autres actes neceſſaires, ſans autre per",
+            "miſſion: Et ſera adiouſteé foy comme aux Originaux,",
+            "aux copies dudit Arreſt, &amp; des preſentes Collationneées",
+            "par l’vn de nos amez &amp; feaux Conſeillers &amp; Secreraires:",
+            "Car tel eſt noſtre plaiſir. Donné à Saumeur le dixieſme",
+            "Fevrier 5. Par le Roy en ſon Conſeil.",
+            "Signé, GALLAND. Et ſcellé.",
+            "Collationneé.",
+            "A PARIS, De l’Imprimerie de",
+            "PIERRE RocOLET."
+        ]
+    ]
+}

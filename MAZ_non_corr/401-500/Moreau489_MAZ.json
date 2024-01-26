@@ -1,0 +1,135 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": true,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Condé‎, Louis de Bourbon‎ (1621-1686 ; prince de‎)",
+            "Orléans‎, Gaston (1608-1660 ; duc d'‎)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-09",
+            "@who": "AB"
+        },
+        "titre": "Avis aux Parisiens",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121002759",
+            "persName": {
+                "forename": "Claude",
+                "surname": "Du Bosc de Montandré"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-04-02",
+                "#text": "affiché le 2 avril 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans Lieu"
+        },
+        "publisher": "Anonyme",
+        "nbPages": "1"
+    },
+    "texte": [
+        [
+            "AVIS",
+            "AVX PARISIENS.",
+            "affiché le 2e iour d'avril 1652 dans tous les carrefours de paris",
+            "et ſur le pont neuf.",
+            "MESSIEVRS,",
+            "La preuue que vous receuez auiourduy de ’affction que Monſieur le Irinceà pour",
+            "noſtne epo eſt ſigrande, qul aura raiſon de vous croire aui inſenſibles a vos propres",
+            "mau, que meſconnoiſſants des fatigues &amp; des peins qu’il prend depuis ſix mois pour",
+            "le",
+            "publie, ſi vous ne luy teſmoignez dans cecte rencontre les bons deſeins que vous ane",
+            "de le ſeconder.",
+            "grand Prince ayant apris que le Cardinal Manarin faiſoit venir des Trouppes de",
+            "outes parrs pour groſſir de ſorte ſon Armee qu’il peut promptement blocquer Paris,",
+            "parce",
+            "n ou nue ly vouluit pon e geonois onnue vous voree qulilr nrehoit a gands ps,¬",
+            "eſtimé quil ne pouuoit vous donner des teſmoignages plus grands de l’armirí qu’il",
+            "pour",
+            "le Publicq, qu’enabandonnant toutes ſes plus importentes affaire de Guyenne, pour ve¬",
+            "nir ſeconder les bonmes jntentions de ſon Alteſſe Royalle; principipalement quandila",
+            "con¬",
+            "iderei que Monſieur le Due dtorleans ne pouuoit abandonner pars ſans dane a",
+            "ord pary, courant nuit &amp; iour pour ſe venir mertre à la teſte de l’Armee que",
+            "Monſeur",
+            "le Duc de Nemours à conduit affin de s’oppoſer à̀ ce pernicieux deſſein du Cardinal",
+            "Maa-.",
+            "Il n’eſt point neceſſaire d’exagerer icy toures les raiſons qui vous doiuent faire",
+            "cenri¬",
+            "buer aues vseur àla perte de cet Eſtanger voſtre propre intereſt, &amp;la iuſte haine",
+            "que",
+            "tous les gens de bien doiuent auoir pour luy, vous attachent aſſez fort aſuiure ſes",
+            "bonne,",
+            "ntenions que lonſieur le Princeà de vous deliurer de ce Tyran Ceſt le ſeul motifqui",
+            "porte ſe hazarder ſeul pendant vnſi l’ong chemin en abandonnant le reſte de ſa famille",
+            "la Prouince de Cuyenne , à qui ila tant d’obligation, pour vous venir ſecourir ſoubs",
+            "la, ¬",
+            "dr de ou lueſe Rorale si laquele i vent cn propre pe ſonne ſoimeererouresles v¬",
+            "lontez ſçaſchant bien que tous ſes ſentiments ſon¬-iuſtes.",
+            "S’il eſt hors de propos, il ne ſera point inutil d’auertir ceux qui taſchent de",
+            "deſcrier dans",
+            "le publie les intentions de Monſieurle Prince qu’il n’a nulle part à tants de libeles",
+            "i",
+            "Papoires rendanta ſedition qui ſe ſont fait ou a ſon auanuge ou aſon nom, paree que les",
+            "deſeins neſtans aurres que de vous proeurer la Pai il roitesen eſtre aſeuedelairey pat",
+            "le",
+            "l eetes qu’ila eſerit à Monſieurt le Due d’odeans &amp; au Parlement, qui ſont les",
+            "ſeulles pieces",
+            "que ſes amis ont fait Imprimer.",
+            "o n non particuliert commme bon Cyroyen, &amp; pſſionne pour le bien publie ie",
+            "vous ſupplie devous rrouuer ce iourà deux heures preciſes de releúe ſur le Pont euf",
+            "ſans",
+            "ure deſeins que pour aler teſmoignerà ſon Alreſe Royale &amp;a onſieur le prnce, que",
+            "tous les gens de bienſont preſts de ſuiure leurs ordres, pour acheuer d’executer ce",
+            "qunis one",
+            "commencé auec rant de zelle contre noſtre Tyran il n’eſt plus temps de balancer, ’eſt",
+            "le",
+            "denier coup, &amp; le plus fauorable que la France puiſe iamais eſperer pour obotenir",
+            "ſa ran",
+            "quiliréſichaeun y veut Contribuerſe lonſon pouuoit, voyant que ſon Sleſe Reoyale ny",
+            "cpargne ny ſes amis, nyſon bien, ny ſon ſang, puis qu’ila expoſe a demoiſclle qui a",
+            "enm.",
+            "peſché auec tant de courage que le Cardinal Maarin ne ſoit eutre dans Orleans, donſeut",
+            "le Prince expoſe la meſme choſe, &amp; tous deux enſemble, peuuent vous donner touece",
+            "aue vous pouuez ſoubhaitter, pourueu que vous les aſſeuriez de la bonne volonté que",
+            "vous",
+            "aue- de vous ioindre auee eux contre foſtre Ennemy mortel le Cardinal daarin.",
+            "Enfin Meſſieurs, ilne faut point ſe flatter, le mal eſt al’eutremité, iſſe renmdra",
+            "incurable ſi",
+            "l’on n’y appore vn ſouuerainremede, &amp;nyena point demeileur que de faire comme fon",
+            "vous ceux qui veulent bien reücir, c’eſt à dire dechaſſer tous les ſulſpecs ans",
+            "leſquels nous",
+            "n’aurions pus de guerre &amp;x nottammemtiftamt ſe onner de garde de noſtre",
+            "C&amp;ouuerneur,",
+            "aaa l’a ps pluſtoſt ouy parler de l’arriuée de Monſieur le Prince a noſtre ſecours,",
+            "qu’il ̀ vou¬",
+            "imtaireaſemble quelques bourseois quilaaigné par les reſuins qui leura fair, pour, o",
+            "poer au bonheur qui vous artiué par vnreſlart de l’Hoſtel de Vile conclu par a de ſe,",
+            "Fationnairess cet horrible deſſein euſt cauſénoſtre perte entiere s’il l’euſt peu",
+            "faire re",
+            "cr, il eſt homme a ententer bien d’autres pour faire abandonner Paris à la diſcretion",
+            "du",
+            "Cardinal Mabarin ſon Maiſtre ſi l’on le ſouſnie dans la charge qu’il poſſede."
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "imprimatur": "\nAuec Priuilege de ſa Majeſte.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Prévoté des marchands (Paris)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-03",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, toutes les chambres\n          assemblées, le dixième jour de janvier 1649",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "persName": "France. Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01-11",
+                "#text": "11 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": "Imprimeurs et libraires ordinaires du roi",
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "TOVTES LES CHAMBRES",
+            "aſſemblées, du dixiéme Ianuier mil",
+            "ſix cens quarante neuf.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinai¬",
+            "res du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſte."
+        ],
+        [
+            "e de ladite CoyeFaiſant tres-exreſſes ihe",
+            "oa ¬",
+            "itioas &amp; defeſes teoures perſoamnes de deg",
+            "erfaire py nedire i peine de la vie. Fait ed",
+            "urlement je diuecme jour de lauier i ſ́",
+            ".",
+            "1",
+            "cens quarante-neuf",
+            "7. 5",
+            "olationnélOoriginlpr",
+            "l Canſeilet SaereraSe dis R3",
+            "&amp; de ſes’Finaices."
+        ]
+    ]
+}

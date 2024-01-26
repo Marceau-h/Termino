@@ -1,0 +1,162 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2021-11-15",
+            "@who": "AB"
+        },
+        "titre": "Envoi de Mazarin au mont Gibel, ou l’Étique\n                    Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "L'ENVOY",
+            "DE",
+            "MAZARIN",
+            "AV",
+            "MONT-GIBEL",
+            "OV",
+            "L'ETIQVE MAZARIN",
+            "A PARIS,",
+            "M. DC. XLIX."
+        ],
+        [
+            "L'ENVOY",
+            "DE",
+            "MAZARIN",
+            "AV",
+            "MONT-GIBEL",
+            "PViſſe le iet bietoſt exaucer ma ſupplique",
+            "que ie fais en Franç̧ois non en langue Hdebraique",
+            "L Pour chaſſer loing de nous Manzarin Mazarique",
+            "Qui a tout bouleuerſe par ſa loy tyranaiqué",
+            "Ce barbare Eſtranger; cét homme frenetique",
+            "Cet eſprit ſafranné petry dedans la Ligu.",
+            "Son maintien paroiſt doux &amp; ſur tout maghifique",
+            "C’eſt le plus grand fourbe qui ſoit dans la Cronique,¬",
+            "Il et à S. Germain conſtant comme vn Stoïque",
+            "Renfermé au Chaſteau preſque tout fait de brique",
+            "Il ſouffle, il ſe roidit quand on le ſophiſtique",
+            "Qu’onluy dit qu’il n’eſt pas du touc Apoftolique",
+            "il eſt comme vn Athée, pire qu’vn Heretique,",
+            "Et qu’il eſt moins pieux qu’vn Eccleſiaſtique",
+            "u’l ſ̧ait l’art de tromper comme auſſi la Magique",
+            "Bref, qu’il eſt adonné à l’art Diabolique,",
+            "oy qu’il ait ſur ſon dos quelquefois la Tunique",
+            "Il a l’ame venale, ileſt paraſitique",
+            "A",
+            "e",
+            "ei",
+            "a",
+            "?",
+            "ee?",
+            ".",
+            "A",
+            "1",
+            "a",
+            "a",
+            "4",
+            "a",
+            "ep"
+        ],
+        [
+            "3",
+            "Ce qui luy plaiſt e plus c’eſt vn diſcours comique",
+            "Pourueu qu’il ſoit forgé par quelque ſatyrique,",
+            "Il ayme grandement le Bal &amp; la Muſique,",
+            "Sur tout, il eſt paillard &amp; grandement lubrique",
+            "-",
+            "Fort adonné aux femmes qui ſont impudiques,",
+            "On nous dir qu’à preſent il eſt tout fantaſtique",
+            "u’il eſt morne &amp; perplex &amp; du tout lunatique",
+            "Il eſt de bas aloy; c’eſt vn homme ruſtique",
+            "4",
+            "Ses parents ſont fort peu, ſa race famelique",
+            "Le lieu de ſa naiſſance eſt fort pres de lAffrique",
+            "Quelquefois on y va ſur vn petit Caïque",
+            "Il a le diſcours double &amp; fort peuil s’explique",
+            "Et donne rarement, preſque ou point de replique,",
+            "Certes il ne ſent pas bien ſon deuot Catholique.",
+            "Et ce qui eſt requis à l’ordre Monaſtiqué",
+            "Il tient à ce qu’on dit de la Loy Iudaique",
+            "n",
+            "Puis quil a fait paſſer le tout par l’alambique¬",
+            "Qu’il seſt approprietout le bien du publiqua",
+            "Ce ſont-là fes Titres les plus honorifiques",
+            "Et le plus aſſeuré de ſes Panegyriques",
+            "Puiſque luy-ſeul ileſt encette eſpece vnique",
+            "uoy qu’il ne ſç̧ache pas la langue Grammatique",
+            "Encor moins a-il veu toute la Rethorique",
+            "Les arguments diuers qu’on donne en la Logique.",
+            "Qu’il n’ayt point entendu ce qu’on dit en Phyſique",
+            "Ny veu ce qu’on reſoult dans les Mathemariques",
+            "Et ce qu’on peut apprendre en la Metaphyſique,",
+            "Ce qu’on enſeigne auſſi en la Dialectique",
+            "Qu’il eſcorche vn bien peu noſtre langue Gallique.",
+            "Sç̧ay-tu, mon cher amy, le plus où il s’applique",
+            "A rejetter l’argent qui luy eſt ſi modique",
+            "C’eſt en cela qu’il eſt le plus fin Politique",
+            "Qui ſoit deſſous le Pol Artique &amp; Antartique",
+            "Il eſt ſi gros &amp; gras car ie le prognoſtique",
+            "8",
+            "Qu’il creuera bien-toſt tout comme vn hydropique",
+            "et e leſeneoe e e n e eue ſiue fene"
+        ],
+        [
+            "Et a vray dire auſfi &amp; en ſens plus miftique",
+            "Il n’appriſt iamais rien en la langue Arabique",
+            "Non plus qu’en celle-là qui eſt la Chaldaique,",
+            "Germanique, Perſique, meſme la Moſaique",
+            "Iln’entend nullement le Compas Geometrique",
+            "Si vous luy demandez que’c’eſt d’vn acroſtique,",
+            "Il vous dira ſoudain, va-t’en car tu me pique",
+            "Ie ſçay d’autre meſtier i’ay vne autre pratique",
+            "Qu’à quiconque qui ſoit point ie ne communique",
+            "Ie fuis les regles droittes &amp; fuis les plus abliques",
+            "Qui ſont les plus anciennes &amp; les plus antiques",
+            "Fuſſes-tu deſia loing ame du tout d’Aſpieque",
+            "Enfoncé bien auant dans la Mer Atlantique",
+            "Ou dans le Mont-Gibel ſepulchre Pluronique¬¬",
+            "Ton plus iuſte manoir, c’eſt là ou ie t’indique",
+            "Tu ne ſçaurois eſtre en plus belle boutique",
+            "L’odeur en eſt bon &amp; bien aromatique",
+            "Ie ſuis las ce matin de te faire la nigue",
+            "Va ie dis que tu n’es qu’vne vieille bouriq i",
+            "FIN"
+        ]
+    ]
+}

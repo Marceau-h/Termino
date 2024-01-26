@@ -1,0 +1,101 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1651-10-01",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Lettre du roi écrite à Son Altesse Royale.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "persName": "Louis XIV"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-10",
+                "#text": "octobre 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DV ROY,",
+            "SCRITEON ALTESSE",
+            "Royalle.",
+            "A PARIS,",
+            "Par les Imprimeurs ordinaires du Roy.",
+            "M. DC. LI.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "a",
+            "LETTRE DV ROT ESCR1TE",
+            "a ſon Alteſſe Royalle.",
+            "ON ONCLE, Ayant",
+            "apris par mon Couſin",
+            "le Duc d’Anville, les",
+            "l bonnes diſpoſitions que",
+            "8 yous cohtinuez d’avoir",
+            "pour le bien de mon ſervice; ie n’ay",
+            "pas voulu demeurer plus long-temps",
+            "ſans vous témoigner la ſatisfaction qui",
+            "m’en reſte, &amp; vous dire que i’auray",
+            "toûjours tres-agreable tout ce que",
+            "vous ménagerez au bien &amp; aduan",
+            "tage de mon ſervice, &amp; de mes af",
+            "faires, pour remettre mon Couſin",
+            "le Prince de Condé dans ſon de",
+            "voir; &amp; me confiant entierement",
+            "A ij"
+        ],
+        [
+            "4",
+            "en voſtre affection. Ie prie Dieu qu’il",
+            "vous ayt, mon Oncle, enſa ſaincte &amp;",
+            "digne garde. Eſcrit à Montargis le",
+            "troiſiéme iour d’Octobre, 1651.",
+            "Voſtre bien bon &amp; affectionné",
+            "nepueu,",
+            "ov1S..",
+            "Et plus bas,",
+            "Lo1e",
+            "Et ſur laſuſripon,",
+            "A mon Onele, le Dae d’Olens..",
+            "e"
+        ]
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "lettre",
+            "texte officiel"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1651-10-08",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-07",
+            "@who": "AB"
+        },
+        "titre": "Lettre de cachet du roi, envoyée à messieurs du\n          Parlement, sur le sujet du plein pouvoir donné par Sa Majesté à monseigneur le duc\n          d'Orléans pour traiter avec M. le Prince.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "persName": "Louis XIV"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-10",
+                "#text": "datée d'octobre 1651"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
+            "persName": {
+                "forename": "Veuve de Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DE CACHET",
+            "DV ROY",
+            "ENVOYEE",
+            "A ESSvs pvV Pnrr",
+            "ſur le ſujet du plein pouuoir don",
+            "iulreiei ilſeieleneur ie be ei",
+            "ous pour rat",
+            "e",
+            "A PARIS,",
+            "De l’Imprimerie de la Veufuel GvnLEMoT,",
+            "ue des Marmouets, proche l’Egliſe",
+            "de la Magdelain",
+            "agueau",
+            "M. DC. L1."
+        ],
+        [
+            "s.",
+            "f",
+            "1",
+            ".",
+            "il",
+            "d",
+            "ea",
+            "é",
+            "l",
+            "e",
+            "saa"
+        ],
+        [
+            "3",
+            "ernergprp;",
+            "Peetii",
+            "es",
+            "el",
+            "Sſe ee&amp;eldou8",
+            "LETTRE DE CACHET",
+            "du Roy, Enuoyée à Meſieurs du",
+            "Parlement, ſrle ſujet du plein pouuoir",
+            "donné par ſa Majefté à Monſeigneur",
+            "le Duc d’Orleans, pour traitter auec",
+            "Monſieur le Prince.",
+            "DE PARLE ROY.",
+            "OS AMEZ E T",
+            "feau, ureaprise",
+            "eiſ qie ſn neuſi e eſlne",
+            "de ce mois, noſtre tres-cher &amp;",
+            "tres-amé Oncle le Duc d’Oreans,",
+            "y eſtant, nous nous ſommss reſo",
+            "A ij"
+        ],
+        [
+            "4",
+            "lus de luy mander, ainſi que nous",
+            "luy auons deſia par deux fois ſ",
+            ", quenous auions tres-agrea",
+            "ble qu’il continuaſt ſon entremiſe",
+            "vers noſtte Couſin le Prince de",
+            "Condé, pour le ramener en ſon",
+            "deuoir, &amp; enuoyaſt vers luy pour",
+            "apprendre les ſujets de ſon meſ",
+            "contentement, &amp; le conuier de",
+            "venir au lieu que noſtre- dit On",
+            "cle auroit iugé le plus commode.",
+            "Et au cas que noſtre dit Omeley",
+            "vouluſt bien aller, noſtre inten¬.",
+            "tion eſtoit qu’il fuſt ſuiuy de no",
+            "ſtre Couſin le Mareſéhal d.",
+            "l’Hoſpital, &amp; des ſieurs de la Mar.",
+            "guerie &amp; d’Aligre de noſtre Con.",
+            "ſeil, comme des ſieurs de Meſme",
+            "Preſident de noſtre dite Cour,",
+            "Menardeau¬Champray &amp; de",
+            "Cumont Conſeillers en icelle, l’aſ",
+            "ſeurant"
+        ],
+        [
+            "5",
+            "ſeurant que tout ce qu’il feroit",
+            "pour le bien de noſtre ſeruice",
+            "nous ſeroit tres-agreable, pre",
+            "nant vne entiere confiance en ſon",
+            "a ffect ion: &amp; comme nous auons",
+            "conſenty que noſtre-dite Oncle",
+            "fiſt encores ſes diligences, &amp; que",
+            "nous auons iugé que nous ſerions",
+            "vtilement ſeruis de ceux que",
+            "nous auons ordonné de le ſuiure,",
+            "nous auons bien vouluauſſi vous",
+            "en faire part, ne doutant point",
+            "que la Compagnie n’adreſſe ſes",
+            "vœux à Dieu, à ce qu’il luy plaiſe",
+            "donner benediction à ce qui eſt",
+            "entrepris pour le bien &amp; l’aduan",
+            "tage de cette Couronne; Sur ce",
+            "nous prions cetre diuine bonté",
+            "vous auoir nos amez &amp; feaux, en",
+            "ſa ſaincte garde. Eſcrite à Bour",
+            "ges ce vnziéme Octobre mil",
+            "B"
+        ],
+        [
+            "6",
+            "ſix cens cinquante-vn. Signé,",
+            "LOVIS. Et plus bas, DE",
+            "LOMENIE.",
+            "nos Amez &amp; ſeax les Gens te",
+            "nans noſtre Cour de Parlement à Panis.",
+            "lvn e"
+        ]
+    ]
+}

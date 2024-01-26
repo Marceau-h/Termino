@@ -1,0 +1,135 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2021-11-15",
+            "@who": "AB"
+        },
+        "titre": "Épitaphe de monsieur de Nemours.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "Sans Date",
+            "#text": "Sans Date"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "I",
+            "EPITAPHE",
+            "DE MONSIEVR",
+            "DE NEMOVRS.",
+            "DOnc, Paris, ce Foudre de Guerre,",
+            "Ce Chef-d’œuure de la Vertu,",
+            "Neſtre Aleide eſt donc abattu,",
+            "Plus craint que n’eſtoit le Tonnerre;",
+            "Il n’eſt plus que cendre &amp; que terre,",
+            "Aprés auoir bien combattu,",
+            "Faut-il qu’il le ſoit reueſtu",
+            "D’vne armure en taille de pierre!",
+            "Ouy, Deſtins! vous auez grand tort,",
+            "Son bras nous ſeruoit de ſupport,",
+            "La France contre vous deteſte",
+            "D’auoir incité de Beaufort,",
+            "Malgré le vouloir de Thyeſte",
+            "De pouſer Nmous à la mort.",
+            "A"
+        ],
+        [
+            "AV PERE",
+            "ET",
+            "L'ALCYON",
+            "DE LA FRANCE",
+            "SON ALTESSE ROYALE.",
+            "SONET.",
+            "DEſia de toutes parts la Pompe magnifique",
+            "S’appreſte à ta Victoire, &amp; le Peuple aguerry",
+            "T’a pris (GASTON) pour Mars, le Ciel pour fauory,",
+            "L’Europe pour l’Atlas de l’Eſtat Monarchique.",
+            "Alcide des Gaulois. dont le bras heroïnue.",
+            "Surpaſſe la valeur &amp; les faits de Henry,",
+            "Sans toy cent mille fois tout Paris euſt pery,",
+            "Et le Senat iamais n’euſt eſté pacifique.",
+            "Ton Alteſſe Royale a ſi grande Bonté,",
+            "Qu’il n’eſt point d’Ennemy qui n’en ſoit ſurmonté,",
+            "Ny de troubles ſi grands qu’elle ne rende calmes:",
+            "Bien-toſt de tes deſſeins puiſſions-nous voir",
+            "le bout,",
+            "Et couronner tes Lys de Lauriers &amp; de Palmes,",
+            "Car pour dire le vray la France te doit tout.",
+            ".9",
+            "2 ...., ¬--.¬¬¬"
+        ],
+        [
+            "A",
+            "A MESSIEVRS",
+            "LES PRInCES",
+            "SONET.",
+            "PRinces des Fleurs de Lys, Mars de toute la",
+            "Terre,",
+            "Grands Alcides Gaulois d’indomptables trauaux,",
+            "e e e lene eoueſee e eue",
+            "Donnez tréve aux Combats, couurez vous de",
+            "Lauriers,",
+            "Et mariez l’Oliue à vos Exploits Guerriers,",
+            "Puiſque vous triomphez du Romain Euriſthée.",
+            "La Paix dedans Paris touſiours vous benira:",
+            "Mais que s’il ſe rencontre encore vn autre Anthée,",
+            "Quels Dieux autres que vous la France inuoquera!",
+            "."
+        ],
+        [
+            "4",
+            "LE",
+            "CITOYEN",
+            "DE PARIS",
+            "SONET.",
+            "LOin d’icy, Factieux, pire que n’eſt la peſte,",
+            "LLes Iuſtes ſont punis, ce regne eſt des méchans,",
+            "IeNoble le Bounrgeois le bonlnomne des Champ",
+            "Tout le monde ſe plaint &amp; contre vous deteſte.",
+            "Ce mal Epidemique &amp; la faim nous moleſte,",
+            "La Pandore eſt ounnerte aux deſaſtres panchans,",
+            "La Guerre nous oppreſſe, il n’eſt plus de Marclands,",
+            "Que Taille, que Maltote, &amp; plus rien ne nous reſte.",
+            "Maltotiers &amp; Marans, qui cauſez tant d’ennuis,",
+            "Que ſi vous me croyez &amp; mes vers ſont ouys,",
+            "Vous adorerez Dieu, le Prince &amp; la Iuſtice:",
+            "Autrement ie diray que vos ſens ébloüis",
+            "N’ont point d’autres deſſeins qu’à ſuiure leur malice,",
+            "Et de troubler touſiours l’Empire de Loüis.",
+            "¬e",
+            "1",
+            "I. De S.N."
+        ]
+    ]
+}

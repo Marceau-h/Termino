@@ -1,0 +1,182 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1651-12-12",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Lettre de monseigneur le Prince à Son Altesse Royale sur\n          le sujet du retardement de la paix.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121209573",
+            "persName": {
+                "forename": "Louis II de Bourbon, prince de",
+                "surname": "Condé"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-12",
+                "#text": "décembre 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121408134",
+            "@xml:id": "IL_VivenayNicolas.xml",
+            "persName": {
+                "forename": "Nicolas",
+                "surname": "Vivenay"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "lerere",
+            "LE PRINCE",
+            "ASONALTESSE",
+            "Royalle; Sur le ſujet du",
+            "retardement de la Paix.",
+            "ueo!",
+            "’ven",
+            "ernnreee¬¬"
+        ],
+        [
+            "1,",
+            "1 .?",
+            "Qbésposs",
+            "teegefpeege p?eet æ",
+            "&amp;eé&amp;s8",
+            "lpod",
+            "-o *",
+            "rii EEiaisSeà",
+            "leſPrinr duon efeRoyplla, ae teesq",
+            "i jetdo poardemenrdeli Pls,",
+            "nl eu aoV",
+            "el oyeno! ſ.",
+            "ia e ials",
+            "e i2o¬7",
+            "R’V oſt qu Vhenſl’fae arrbeſprer",
+            "ſ de l̀ part de yofte AR. ie fs parti",
+            "hdeoſpoiea eeeqPene",
+            "AfrSme elefee,’&amp;’oef2",
+            "ievP’uaieb’eſpepſ1",
+            "aſebs d b6e Ateſſé oyea Poiie",
+            "q ôi aloſt ouieftRededes &amp; letideisd",
+            "Vſetd’en tecondnir ,qPaſ’ae rete el",
+            "a,efit’pe giaidplfe facSqſdefto",
+            "ge laify pblfque qul éf ſacŕé auée les ie",
+            "ids, eſnes Jes pſus barbape lé me reſoh8.",
+            "l’all ſſſe de rjent, &amp;le pflel",
+            "deſafeſePdoſth Aeſtelle.",
+            "t plectoe Rfeaee ,pR, ſaépln!",
+            "tvuſiPrfoer &amp;8’qué c’eftdſt’per’la",
+            "Aia, &amp;lp eoſeqdefeAodlerepSpſPFle",
+            "e,&amp;dpllſeeneſb eeſplubnp",
+            "et",
+            "A"
+        ],
+        [
+            "8",
+            "de paſſer, &amp;allerjuſques à vous. Mais au lieu’ de",
+            "eeſa, Moheir de rlenné l’a’renaoyé&amp; na",
+            "mandeé queſa Majefté n’approuuoi pas que je",
+            "oueuoyaſſe petſenna, pr’mes leds",
+            "il vous les feroit tenir ſi ie voulois. lugez Mo",
+            "Aigeufdà té poe Eoa qu norel",
+            "pasna plque Mio lareuepa",
+            "quets pais dan ps ’A ce qu’",
+            "eſt dedans qu’on les referme; Vous iuge ben",
+            "que ie n’ay garde de vous faire ſçauoir toutes mes",
+            "penſe pay la voyelegp pnenis, &amp; oug l",
+            "France juge facilea ue y, que ce hat!",
+            "avaloil pi de oe u A’4!",
+            "ches, que le e y, i je, Sugi al",
+            "pnſseene onene du dte",
+            "moy yhe declaraqi,, yopps, jefſee qpjE",
+            "11",
+            "ious en cé eppsjecsy eage que gf",
+            "ſé Qdeux eqneepepe de ces pffije,",
+            "eſt conſfi, Mqlſeeure dpefes",
+            "mqnde neſouhaiuel, Paiz ſi rdepppfi s",
+            "Mo, &amp;e queje donetis pa ſan, eaél",
+            "poue vyois l’eſtat di l, pdqilipg j d;!",
+            "upoit eſt,, lca éſniepgi loes",
+            "enmé &amp; i le, goun euoge, oi",
+            "eu d’aui bones ioieptions que voi, Ma",
+            "ceui qui oe vſutpé lquehanie, ovlle, e",
+            "uij ’5aleiai aes pluliaſale&amp;utpe",
+            "Ieeues",
+            "."
+        ],
+        [
+            "lauevpebrapehe de la Maiſon Royalle qui",
+            "na pas eſté́ tout à aſit intilleà lEſtar, &amp; qui.",
+            "peut encore luy rendre des ſeruices aſſez conſi",
+            "derables, s’eſtans vnis auec le Cardinal Maza",
+            "in, &amp; ſçachans bien que tant que ie ſeray dans",
+            "les bonnes graces de ſa Majeſté &amp; dans les vo",
+            "ſtres, ie ne ſouffriray iarmais le retour de ce",
+            "Miniſtre, ny qu’ils abuſent du nom du Roy",
+            "pour eſtablir leur ryrannie, &amp; pour empeſcher",
+            "ls gaix, qui eſt ſi neceſſaire, ce qui ne peut",
+            "eſte que par vne vnion veritablſe de toute la",
+            "l Maiſon Royalle, n’oubliens aucuns artifices",
+            "pour m’en eſloigner. Ie ne doute point que",
+            "Voſtre Aleſſe Royalle connoiſſant leur mau",
+            "uaife valonté, &amp; voyant d’ailleurs la neceſ",
+            "ſité́ qu’il y a de procurer cette reü̈nion qui eſt ſi",
+            "neceſſaire ne face connoiſtre à ſa Majeſteé́ ce",
+            "qui l’empeſche, &amp; ce qui trouble ſon Royau",
+            "lme, &amp; ſi elle a encore la bonté́ de ſçauoir plus",
+            "particulierement mes ſentimens ſur l’eſtat pre",
+            "ſent des affaires, qu’elle ne m’enuoye vne ſeu",
+            "reté veritable pour vne perſonne que ie luy en",
+            "s uoyeray, en ſorte qu’elle ne ſoit ny foüillée ny",
+            "arreſtée, vous proteſtant cepedat, Monſei",
+            "lt gneur, que ie ne ſouhaitte rien auee plus d’ar",
+            "! deur qu’vne paix aſſeuré́ededans, &amp; dehors le",
+            "e Royaume, que i’y contribuëtay touſiours de"
+        ],
+        [
+            "6",
+            "mon ſaug, ſue qde ni ies, &amp; lpoſeis u",
+            "u, l’t &amp; l’autre pourvous veſnoignqu",
+            "ie ſuis.",
+            ".",
+            "MONSEIGNEVR,",
+            "!",
+            ".",
+            "De voſtre Alteſſe Royale; ue",
+            "humble, &amp; tres-obeiſſant ſeruue,",
+            "LOvS DE BoOVRo",
+            "u?",
+            "Du Camp de la Bergerie, le 4. Decembje ſt",
+            "211.",
+            "2i e1.22"
+        ]
+    ]
+}

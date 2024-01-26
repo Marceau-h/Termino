@@ -1,0 +1,146 @@
+{
+    "imprimatur": null,
+    "corrector": true,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "poésie",
+            "burlesque",
+            "satirique"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-01-26",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-09",
+            "@who": "AB"
+        },
+        "titre": "La fuite des maltôtiers après Mazarin, mise en vers\n          burlesques par le sieur Pompholis.",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-22",
+                "#text": "22 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-22",
+                "#text": "22 avril 2021"
+            }
+        ],
+        "author": {
+            "@ref": "isni:0000000500051905",
+            "persName": {
+                "addName": {
+                    "@type": "pseudonyme",
+                    "#text": "Pomphollis"
+                }
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "LA FVITTE",
+            "DES",
+            "MALTOTIERS",
+            "APRES",
+            "MAZARIN.",
+            "MISE EN VERS BVRLESQVES",
+            "Par le Sieur POMPHOLLIS.",
+            "DEPVIS que vous eſtes fortis ,",
+            "Meſſire Iulles hors de Paris ,",
+            "L'on a bien taillé des croupieres",
+            "A Meſſieurs vos Secretaires ,",
+            "Qui ont auſſi peſché au plat ,",
+            "Et qui n'ont ſçeu voſtre depart.",
+            "L'on en voyoit dans cette ville",
+            "Plus de cent, voire plus de mille",
+            "Qui ſe vouloient auſsi ſauuer ,",
+            "Afin de vous aller trouuer.",
+            "Voyant qu'on mettoit icy ordre;",
+            "Et qu'ils ne ſçauoient plus où mordre,",
+            "Les vns couroient parmy la ruë",
+            "Qui d'vne façon mal-autruë,",
+            "Se diſoient Seigneurs d'vn village,"
+        ],
+        [
+            "2",
+            "Et qu'on leur donnaſt le paſſage:",
+            "Les autres grands Monopoleurs,",
+            "Noircis comme des Ramoneurs,",
+            "Veſtus d'habits de gueuſerie,",
+            "Pour taſcher de ſauuer leur vies:",
+            "D'autres retournoient leurs habis",
+            "Pour ſortir deuers Sainct Denis,",
+            "Et par la porte de Sainct Iacques",
+            "Il en eſt ſorty ſans caſaques,",
+            "Qui ſe diſoient mourir de faim,",
+            "Et qu'ils alloient chercher du pain,",
+            "C'eſt vous qu'ils ſuiuiofent à la piſte",
+            "Comme petits Mazariniſtes:",
+            "Mais tous les gros ſont demeurez,",
+            "Qui ſouffrent autant que les damnez,",
+            "On les a fait rougir de honte",
+            "Quant on leur a demandé conte",
+            "Des Louys qu'ils ont pris pour vous.",
+            "Ie trouue qu'ils eſtoient bien fous,",
+            "De mettre tout leur eſperance",
+            "A voſre tronmpeuſe Eminence:",
+            "Ils en ſont bien aux repentans,",
+            "D'auoir paſſé tant de comptans;",
+            "Dont l'vn d'eux qui n'eſtoit pas ſot",
+            "S'eſt retiré tout auſsi tôt",
+            "Qu'il a veu que voſtre Eminence",
+            "Commençoit n'eſtre en aſſurence.",
+            "Ie crois que vous auez regret",
+            "De ce beau Palais imparfait,"
+        ],
+        [
+            "3",
+            "Et cette grand'Bibliotheque,",
+            "Tomes de Grenade &amp; Seneque,",
+            "Et autres beaux liures Romains,",
+            "Qu'on ne vous rendra pas és mains.",
+            "Reuenant à voſtre caballe,",
+            "Qui touſiours appreſte leur malle,",
+            "Attendant que leur enuoyez",
+            "Ces machines des autres annez,",
+            "Où ils mettront leur equipage,",
+            "Et leur honneſte perſonnage.",
+            "Ils prendront les cordes du bal",
+            "Qui ſont au Palais Cardinal,",
+            "Pour eſtre enleuez hors de France",
+            "Où ſe plaira voſtre Eminence.",
+            "Ils ſortiront ſans paſſeport,",
+            "Ny ſans parler ny dire mot,",
+            "Pourueu que les cordes ſoiont fortes",
+            "Pour ſeulement ſortir les portes;",
+            "Et vous commanderez tout haut",
+            "Que l'on vous enleue bien haut",
+            "A la grand'troupe diabolique",
+            "Auec leurs violons &amp; muſique,",
+            "Eſtant conduits par Belzebut",
+            "Les feront arriuer au but,",
+            "En Enfer touſiours en ſouffrance",
+            "Au deſir de toute la France.",
+            "A PARIS,",
+            "M DC. XLIX."
+        ]
+    ]
+}

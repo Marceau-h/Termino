@@ -1,0 +1,104 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-01",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-17",
+            "@who": "AB"
+        },
+        "titre": "Le piquet de la cour.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-01",
+                "@notAfter": "1649-03",
+                "@when": "1649",
+                "#text": "pendant le blocus de\n            Paris"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "LE PIQVET DE",
+            "LA COVR.",
+            "La Reyne.",
+            "Ie poirte vnas qui me fait bien &amp; i’ay beaujeu",
+            "ſanseſcart.",
+            "Le Ry.",
+            "Ie ne cognois pas encore lejeu.",
+            "Monſeur le Duc d’Anjou.",
+            "le n’y entends encore rien.",
+            "Monfeur le Ducd’Qeleans..",
+            "Ien’ayiamais de cœun.",
+            "¬ Monſieur le Prince.",
+            "I’ay bien du cœur, mais ie ne ſçay que porter.",
+            "ſooſieur de Longueuille.",
+            "Ie n’ay garde de gagner puls qu’on me triche",
+            "Monſieur le Cardinal.",
+            "Au hazard ie prend tout."
+        ],
+        [
+            "3",
+            "Mademoiſelle..",
+            "i’auois vn Roy, Ie ſçaurois bien que faire.",
+            "La Reyne d’Agleterre.",
+            "Ie voy bien que tout eſt perdu, car ie cognois",
+            "le jeu.",
+            "lMeſfieurs les lntendans.",
+            "Nous ne ſeruons plus, qu’à marquer le jeu.",
+            "Monſfeur d’Eſery.",
+            "Ie ſuis bien pris, car i’auois beau jeu, &amp; l’ay",
+            "perdu.",
+            "Mofeu- da-een.",
+            "Pour nous ſauuer du Capot, il faut eſearter",
+            "lesas.",
+            "..",
+            "4e Ru",
+            ".",
+            "Aforce de perdre, i’aprendray leju",
+            "Leyne.",
+            "l",
+            "Ie ne ſongeois pas, qu’il falloit ſcarter.",
+            "Les Dames de laeya.",
+            "Nous aprenons, en voyant ioü̈er le jeu."
+        ],
+        [
+            "Monſieur de le Milereye.",
+            "Ie me ſuis perdu de moymeſme, i’ay trop",
+            "battu.",
+            "Monmſieur le Chancelier..",
+            "Mon jeu ne vaut rien, il ne s’en eſt guerre falu",
+            "queie n’aye tout perdu.",
+            "Mooſieur de eauſort.",
+            "Vne Dame &amp; vn as, me faiſoient Capot, c’e",
+            "ſtoit par tricherie, ie l’ay deſcouueri",
+            "Momſieur de Chauigny.",
+            "Par maheureux eſeart, ie ſuis Capot."
+        ]
+    ]
+}

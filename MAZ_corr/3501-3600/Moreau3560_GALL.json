@@ -1,0 +1,74 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-01",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-07-18",
+            "@who": "ZC"
+        },
+        "titre": "Rondeau du roi contre le cardinal Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "RONDEAV",
+            "DV ROY.",
+            "contre le Cardinal Mazarin.",
+            "M. DC. XLIX."
+        ],
+        [
+            "RONDEAV DV ROY,",
+            "contre le Cardinal Mazarin.",
+            "A DIEV ne plaiſe, o mon peuple fidele,",
+            "Mes chers parens, &amp; amis pleins de zele,",
+            "Qu’vn Cardinal vous faſſe plus la loy,",
+            "I’en ſuis défait; criez, Viue le Roy,",
+            "Et n’ayez peur que ie le renouuelle:",
+            "Ie ſçay qu’vn autre auſſi plein de cautele,",
+            "Eſt a l’affuſt d’vne charge ſi belle,",
+            "Mais nul iamais; j’en ay promis la Foy",
+            "A Dieu.",
+            "Qu’il aille au Diable auecque ſa ſequelle,",
+            "Ie ne veux plus eſtre ſous la tutele;",
+            "Ie ſuis le Maiſtre, &amp; veux qu’on parle à moy:",
+            "Charmeurs de Roys, cherchez ailleurs employ,",
+            "Vuidez la France, &amp; prenez congé d’elle.",
+            "Adieu."
+        ],
+        [
+            "deuAAulAAebhh,u h uh,u 4,",
+            "QVATRAIN,",
+            "SVR L’ENLEVEMENT DV ROY.",
+            "Ces voleurs de Louis, ces infames harpies,",
+            "Le Grand-Maiſtre, &amp; le Cardinal,",
+            "Apres s’eſtre ſaiſis de toutes les copies",
+            "Ont enleué l’Original."
+        ]
+    ]
+}

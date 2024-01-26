@@ -1,0 +1,197 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "faux",
+            "lettre"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Charles IV (1604-1675 ; duc de Lorraine)",
+            "Anne d'Autriche (1601-1666 ; reine de France)",
+            "Chilly-Mazarin (Essonne)",
+            "Etampes (Essonne)"
+        ],
+        "creation": "1652-05-25",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-16",
+            "@who": "AB"
+        },
+        "titre": "La mort du cardinal Mazarin prédite par les troupes du\n          duc de Lorraine, avec la retraite de la reine au bourg de Chilly, ensemble la lettre du\n          duc de Lorraine écrite au comte de Tavannes sur les approches d'Etampes.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121428928",
+            "@source": "Mazarine",
+            "@role": "speaker",
+            "persName": "Charles IV, duc de Lorraine"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1652-06-05",
+                "@when": "1652",
+                "#text": "à partir du 5 juin 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LA",
+            "MORT",
+            "DV CARDINAL",
+            "MAZARIN",
+            "PREDIT",
+            "PAR LES TROVPPES",
+            "DV DVC",
+            "DE LORRAINE.",
+            "AVEC LA RETRAITTE DE LA",
+            "REYNE AV BOVRG DE CHILLY.",
+            "Enſemble la Lettre du Duc de Lor",
+            "raine eſcrite au Comte de Tauan",
+            "nes, ſur ſes approches d’Eſtampes.",
+            "M DC. LII."
+        ],
+        [
+            "8",
+            "Aa le &amp;eetddaſuetAtſis",
+            "pee s ee eslea ieeie ieeeeer pſiſteeeie",
+            "Pegipeſepſe Epepyet",
+            "L M0RT D on",
+            "Maarinr. pedis pr’ es roppepu",
+            "Dur de Loraſelr ieiſ etraite",
+            "I eyne au poure de ciſi enſtfpi",
+            "l Leire u Dis deattſuſjiſe",
+            "au Comie de ſ’qunpas, ſris pe:",
+            "Elonil",
+            ".ches d’Eſtamps.",
+            "9",
+            "er leu, le il nouaouudela",
+            "vs eae pao n non nie onn ne",
+            "lleſe dodſiſanounlfiaſe lailpou",
+            "g à̀ voir du ſang reſpamdu ;ll veut",
+            "leree iur e ree lis",
+            "T oess &amp; quih viuer palQui",
+            "aroit cni qu’ine teleulqu eiſtagau",
+            "lécourage deepouſer fesdeſolaonmequi",
+            "eit nombe de gens eouleeoudar",
+            "ne puiſante arme Ceda ce uuaud́",
+            "ontee; &amp; ſrainſeraydanliflſtonaqo",
+            "’ e , s ioar de ce pnſenrxhoitunouiiip",
+            "aduor de nous reni aonpsgadodbde apat",
+            "-Aa bons fPancuipuiliaodap",
+            ";Hs la vllee: pnauyeadaxffemuléa"
+        ],
+        [
+            "pe s deffaſus do Fanaanes &amp; doCli",
+            "uami paiuces la trahiſou doncie vous ay eſ",
+            "pefarAbeAagauohſtaintutes ſes cho",
+            "less Dieu eſt pour nous; Et voicy commenr; nous",
+            "eſcis aosfore &amp; conoequoyqous",
+            "fſteeeRoyale, il Roy",
+            "ée loudlaouss &amp; e ſçaulons",
+            "lrſte qougeangeti Ou init Conſeilpour",
+            "eget i nais lts Coſeuets embloilent plu",
+            "ll&amp;uees lis lPhioli cdoue",
+            "vos hs xet danmee de",
+            "Clinchampt, firent dire-au ’pouplé par l’vn de",
+            "leuns Seceretaires ceas paroles: ſieuns: Que crai",
+            "l-obt ſlnyarqedaleuoue voul oyee",
+            "aimemidteaans ooporepruourfremiſſeZ, Ou",
+            "etue atder qui pldraiſfoit y ideuat ſar vos aiſagei?",
+            "t qy met vou mieux ſtre eſelaues de zan",
+            "ue di fnlnl voſtne legiime lLes Priue?s",
+            "atenmtlur ſemg ponndeffendre ſon party, &amp; voſire",
+            "aufle aufe laae veulen’aſpargner leur vies poree",
+            "faios naplurqae les voftred imsez-vous mieuae ſ.",
+            "ſou lyranmie que ſous ler lolx d’me agreable",
+            "dsble ai.1",
+            "Ces parodes ealamanerent tellemeént les cœurs,",
+            "qu’ils mouroientd’enuie de ſe vaager de leuns en",
+            "neqis. Etſçachez quedaſecours diuin vient lors",
+            "quel’o ny penſcpa; la preuue eneſt tros-vai",
+            "ublee eaaps leceion faie e nos taiſtr;",
+            "2¬2"
+        ],
+        [
+            "la Reyne nous menaſſa d’incendie, &amp; quelle he",
+            "laiſſeroinpirrefupierre dans la Villenyés nui",
+            "rons d’iEſtabpey diſant; e deſtruiray ce euple",
+            "qui eſtrebelloéfon Ry,",
+            "Ces menaſfes d’abbrd nous, firent trembler;mais",
+            "gcornenil vint vſûourhar de la part de Mon",
+            "ieudle Due le oinelequbnous fit reprendre",
+            "nosſens&amp; voicy le conende la Lattre qu’il pre",
+            "fenta à Mnfitpdeſlauanncan Chben Caſin ne",
+            "eleimablepapûbno uos uſqu’loranrt le par",
+            "uſla toy e ds ’rthoo,y me: roabez aiut dlans les",
+            "prebnſons dea’tre’pas atfmps ſecoaros: ie ſun",
+            "pleſt de vos endtelanain, &amp;vous oois pouaerz aſ",
+            "ſurerſar miaparole vmre dayqai eſt&amp;faoouſ",
+            "jours,",
+            "Mon cher Couſin",
+            "Charles, duc de Lorraine."
+        ],
+        [
+            "6",
+            "5",
+            "Ces niouuelles l’eſpouuante ſe fit danti le",
+            "Campt du Roy le party axarin-ple",
+            "bagage: &amp; n’oſeront plus nous attaquerr lls qui",
+            "terenopriſer: uais uouontaduerty quabne fa",
+            "Aoiteſſo deſtre ſouslames, de raiote deſeni",
+            "nr liaffer dvne nduaehle taluiſoi. lNo dhſes",
+            "uons diligemaent cetaduertiſſement ,&amp; necro",
+            "yons pasque l’onnons pulſſe ſuprnhre. e veu",
+            "bien vous dlre,; auant que de. declarez mod-di",
+            "cours Que le len demain dela trahiſon qui fu",
+            "eſuenteée: Que la Reyne &amp; Mazarin prirent le",
+            "chemin de Chilly, faiſant croireau Roy qu’ilsele",
+            "manoient en ſa fameuſe ville de P’aris: il dit à la",
+            "Reyne: le ſuis deſireux de voir le peuple qui me cherie",
+            "ie ſuis fatiqué de la guere: ie n’aime plus que le repos.",
+            "Ces paroles furent recueillies: &amp; chacun dit: Ces",
+            "mots, ne peuent ſortir que de la bonche a’vneſprit",
+            "oour ̀ fait celeſes &amp; dui: Cela auſi fut cauſe d’vn",
+            "grand tintamare en Cour: ce que le Pere Faure,",
+            "eſtourna par ſes ſupercheries ordinaires. Nous",
+            "ſçauons de bonne part que le Roya comm an",
+            "dé de nous laiſſer en repos, &amp; que tout ſon defir",
+            "eſt de retourner à Paris, poury eſtablir la paix, le",
+            "repos: &amp; la tanqui llitéde toute l’eſtendue de ſou",
+            "Royaume. Ie vous veut bien dire, comme ecnpaſ",
+            "ſant quele Due de Lorraine approche, &amp; nt et",
+            "qu’a dix lieués de diſtances: les trouppes ſont"
+        ],
+        [
+            "hien policées, &amp; ou eles paſent ila ny eres",
+            "pnir ſpounune euſn nous ſonms eol",
+            "enous deffendre courageuſement, ſi l’on nous",
+            "anmuquenos deſrenſeun ſnt valau ll ne ei",
+            "net os de perdreleu vie pournoſtreſecoun;",
+            "ainſi noſtre eſperance et d’agir &amp; non pas pe",
+            "rir. Adieu iuſques au reoir."
+        ]
+    ]
+}

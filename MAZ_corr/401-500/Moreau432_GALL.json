@@ -1,0 +1,157 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "subject": "Condé Louis de Bourbon prince de 1621-1686",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-04",
+            "@who": "AB"
+        },
+        "titre": "Au prince du sang, surnommé la Cuirasse",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "Sans date",
+                "#text": "Sans date"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-04",
+                "#text": "avril 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "AV PRINCE",
+            "DV SANG,",
+            "SVRNOMMÉ",
+            "LA CVIRASSE."
+        ],
+        [
+            ".",
+            "A V",
+            "r",
+            "l.A.",
+            "A",
+            "DV SANG.",
+            "s e rv vn",
+            "LLAAA",
+            "e",
+            "NT D",
+            "l",
+            "I R",
+            "A.V I IE.4",
+            "Rince que l’on nomme du Sangsr",
+            "Ńpuiſe pas celuy de Franee,",
+            "Sous rvn pretexte de vengeance,",
+            "Ou bien tu y perdras ton rang",
+            "Toy ſur tout, Prince de Condé,",
+            "Qui n’en a pas en abondance,",
+            "Et qu’rvne goutte à ta naiſſance,",
+            "SOISSONS n’euſt iamais accordé.",
+            "Ne eviens point forcer les François",
+            "A s’écrier auec outrage,",
+            "2",
+            "Voyant ta fureur &amp; ra rage,",
+            "Que tu n eſt point du Sang des BRoys",
+            "¬."
+        ],
+        [
+            "p",
+            ".",
+            "Deſia t’auoientils adoptés",
+            "Et tu paſois pour vn des Princesr",
+            "Maus ſi tu ruine leurs Prouinces,",
+            "Ile crains pour ta poſterité.",
+            "Tuſçais ce qu’il en a eouſté",
+            "A ce Charles, vray fils de France,",
+            "Quy que certain de ſa naiſſance,",
+            "Pour auoir pu moins attenté.",
+            "Ne croy pas iamaus que pour toy,",
+            "Ce Peuple qui touſiours fidelle,",
+            "Ait plus d’amour &amp; plus de zelle,",
+            "Qu’il en eut alors pour ſon Roy.",
+            "Ila dore qui le cherit,",
+            "Et deteſte qui l’abandonne,",
+            "Et tous les Fils de la Couronne,",
+            "Ne ſont reconnus qu’à te prix."
+        ],
+        [
+            "Si don tu es ſon Ennem",
+            "Comme ce Prince de Lorraine,",
+            "Qui de tous s’attire la haine,",
+            "¬",
+            "Tu ſera traicté comoe luy.",
+            "2",
+            ".",
+            "¬",
+            "L’on eſtouffera ta Maiſos,",
+            "Que l’on noircira d’infamie,",
+            "Eeſilon te laiſſe ta vie,",
+            "Tu ſeras touſiours en priſon.",
+            "8",
+            "L.",
+            "VMeſme ta femme &amp; tes enfanse,",
+            "Gourreront pareille fortune,",
+            "Et pour aſſonor c’a anucme,",
+            "I perirnt, quoy qu’innocens.",
+            "2",
+            "Chacun maudiva ta fureur,",
+            "Tu ſeras par tout execrable,",
+            "Et deuiendras ſi miſenable",
+            "Que u t’auras maſme en honeur",
+            "i¬ 6 ..¬¬¬",
+            "B"
+        ],
+        [
+            "6",
+            "Si tu es fſils de ce Capet,",
+            "Que de là ſoit ton origine,",
+            "Comme tu eveux qu’on s’imaine,",
+            "Que ne ſuis tu ce qu’il a fait?",
+            "Ce fut luy qui nous enſeigna",
+            "Comme il falloit punir ton crimee",
+            "Et qu’enſuiuant cette maxime",
+            "Tres prudemment ſe couronna.",
+            "Entre donc dans ce ſentiment,",
+            "Et par vn aduis politique,",
+            "Rends toy pour la canſe peblqme.",
+            "Qu’on perſecute iniuſtement.",
+            "¬",
+            "Faits cognoiſtre à tous les fFrancuis",
+            "En les oſtant de tyranie,",
+            "Que les Princes, quoy qu’onen die,",
+            "Peuuent bien paiſtre à treie moiis,",
+            "2 a",
+            "ſ"
+        ],
+        [
+            ".",
+            "Tu né peux mieux authoriſer,",
+            "Cette chatoüilleuſe naiſſance,",
+            "Qu’en prenant l’intereſt de Fnance,",
+            "Qui e te peut eſtre aſſee cher.",
+            "FIN."
+        ]
+    ]
+}

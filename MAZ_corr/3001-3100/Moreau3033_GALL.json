@@ -1,0 +1,187 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "éloge",
+            "rhétorique épidictique",
+            "ode"
+        ],
+        "subject": "Beaufort, François de Bourbon-Vendôme, duc de, 1616-1669",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-06-28",
+            "@who": "AB"
+        },
+        "titre": "La reconnoissance de la France faite à monseigneur le duc\n          de Beaufort.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1650-03",
+                "#text": "mars 1650"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000108647130",
+            "@xml:id": "IL_BoudevilleClaude.xml",
+            "persName": {
+                "forename": "Claude",
+                "surname": "Boudeville"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LA",
+            "RECONNOISSANCE",
+            "DE LA",
+            "FRANCE",
+            "FAITE A",
+            "MONSEIGNEVR",
+            "LE DVC DE",
+            "BEAVFORT.",
+            "A PARIS;",
+            "Chez CLAVDE BOVDEVILLE, ruë des",
+            "Carmes, au Lys Fleuriſſant",
+            "M. DC. L."
+        ],
+        [
+            "3",
+            "LA",
+            "RECONNOISSANCE",
+            "de la F’rane fait à hMn",
+            "ſeigneur le Duc de",
+            "Beaufort.",
+            "OD E",
+            "Vo Rbitres de mes deſtinées",
+            "Seet liſlres nuiſu nou euieo",
+            "&amp; amenes la bele ſaiſon",
+            "v Apres tant de triſtes iournées,",
+            "Qui par des mouuemens puiſſans",
+            "Remets mes eſpris languiſſans,",
+            "Et fais voir que ton influence",
+            "Eſt ſifauorablepour tous,",
+            "Que l’hyuer nous eſt meſme doux",
+            "Par vne inſigne deliurance.",
+            "A i",
+            "¬¬"
+        ],
+        [
+            "¬¬",
+            "Ie puis cet autre defier",
+            "Qui par ſa lumiere importune",
+            "Aparu contre ma fortune",
+            "Le plus malin &amp; leplus fier",
+            "Il n’a rien ietté que des ombres",
+            "Pour faire trouuer des encombres",
+            "Tu n’inſpires que le deuoir,",
+            "C’eſt auſſi par là que tu donnes",
+            "A toute ſorte de perſonnes",
+            "Les loix d’vn abſolu pouuoir.",
+            "eé",
+            "Ayant donné toutton eſtude",
+            "Pour ſatisfaire à mes beſoins,",
+            "Ie veux employer tous mes ſoinis",
+            "Pouréuiter l’ingratitude,",
+            "Pour toy les plus ſçauans eſprits",
+            "Se ſentiront touſioursépnis,¬",
+            "Toutes les filles de memoire",
+            "Trauailleront à qui miteux mieux,",
+            "Pour te mettre parmy les Dieux",
+            "Dreſſant des Autels à ta gloire"
+        ],
+        [
+            "Elles preparent leur pinceau",
+            "Pour faire eſclater tes merueilles¬",
+            "Et n’épargneront point leurs veilles",
+            "Pour te retirer du tombeau:",
+            "Mais ce ſeroit trop entreprendre",
+            "D’imiter &amp; ne point comprendre",
+            "Vn obiet parfait comme toy,",
+            "Tu fais ſeul toutes nos delices,",
+            "Auſſi les vœux de nos ſeruices",
+            "Sont pour toy ſeul apres le Roy.",
+            "Ie ſens vn ardeur qui m’allume,",
+            "Voyant de ſipuiſſans attraits,",
+            "Pour faire quelques petits traits",
+            "Sur ce papier auec ma plume",
+            "Et ne faiſant pas comme il faut,",
+            "Ton bras ſupplee à mon defaut,",
+            "Mon ſtyle eſtant plein de rudeſſe",
+            "Monſtrera ta ciuilité,",
+            "Liſant dans ſa ſimplicité",
+            "Ta grandeur&amp; ma petiteſſe.",
+            "B"
+        ],
+        [
+            "S.",
+            "Tu fais ſi bien qu’à l’aduenir",
+            "La plus infidelle memoire",
+            "Voulant diſcourir de ta gloire",
+            "Ne perdra point le ſouuenir",
+            "Comme Pere de la Patrie",
+            "Chacunroit te deuoir la vie,",
+            "Auſſi dans l’apprehenſion",
+            "Qu’on te fit vn mauuais office,",
+            "leuiene eue de un pn e",
+            ",4",
+            "eS ffres de cette aſſiſtance",
+            "Diſent en eſpargnant mon ſoi¬",
+            "Ce qu’on feroit en vn beſoin",
+            "Pour vne vrayé deliurance",
+            "Par des admirables reſſorts",
+            "Tu fais remuer ce grand corps,",
+            "Pais prend &amp; quitte les armes",
+            "Et n’a point d’autres ſentimens",
+            "Que pour ſuiure’les mouuemens",
+            "Qui luyſont cauſez par tes charmes."
+        ],
+        [
+            "1",
+            "t4",
+            "En proeurant ta ſeureté",
+            "Par vne ſpeciale grace",
+            "Le Ciel fait tomber ſa diſgrace",
+            "Sur ceux qui t’ont perſeeuté,",
+            "Voulant attenter ſur ta vie",
+            "Ils n’ont monſtré que leur enuie:",
+            "Mais combien es-tugenereux",
+            "De n’auoir aucune rancune",
+            "Et plaindre meſme l’infortune",
+            "De ton ennemy malheureux.",
+            "h",
+            "L’enuie contre ſon deſſein",
+            "Releue l’eſclat de ta gloire",
+            "Et voyant pour toy la victoire",
+            "Deſchire maintenant ſon ſein,",
+            "Le Ciel a fait voir à la France",
+            "Par cette double deliurance",
+            "Que tous nos ſouhaits ſont ouys,",
+            "Ayant conſerué ta perſonne",
+            "Et l’heritier de la Couronne",
+            "Dont nous ſommes ſireſiouys.",
+            "FIN."
+        ]
+    ]
+}

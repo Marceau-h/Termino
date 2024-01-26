@@ -1,0 +1,179 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-02-08",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-14",
+            "@who": "AB"
+        },
+        "titre": "Lettre du roi écrite à son Parlement de Paris sur les\n          affaires présentes, de Saumur le 11 février 1652.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "@source": "Mazarine",
+            "persName": "Louis XIV"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1652-02-14",
+                "@notAfter": "1652-02-21",
+                "@when": "1652",
+                "#text": "troisième semaine de\n            février 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DV ROY,",
+            "ESCRITE",
+            "A SON PARLEMENT",
+            "DE PARIS,",
+            "Sur les affaires preſentes.",
+            "De Saumaur le 11. Feburier 1652.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. LII.",
+            "Auec Priuilege de ſa Maieſté."
+        ],
+        [
+            "4",
+            "dans vne rencontre de. cette importance, il ſe",
+            "trouue de mauuais eſprits, leſquels abuſans du",
+            "nom de noſtre tres-cher &amp; tres-amé Ocle le",
+            "Duc d’Orleans, ſont aſſez hardis pour l’employer",
+            "contre ſon intention, afin de haſter &amp; fauoriſer",
+            "l’entrée &amp; les progrez deſdits Eſpagnols dans la",
+            "France. L’affection paternelle que nous auons",
+            "pour les peuples que Dieu a ſoûmis à noſtre",
+            "obeyſſance, &amp; le ſenſible regret dont nous ſom",
+            "mes couchez de les voir expoſez par ceux qui",
+            "ſeroient plus obligez de trauailler pour leur con",
+            "ſeruation aà la mercy des forces eſtrangeres, que",
+            "l’eſperance du pillage attire plus dans noſtre",
+            "Royaume en cette ſaiſon, qu’aucun autre inte¬,",
+            "reſt, nous oblige de laiſſer en Guyenne noſtre?",
+            "Couſin le Comte d’Harcourt auec toutes les for",
+            "ces qu’il a commandées juſques à preſent, pour",
+            "continuer ce qu’il a ſi heureuſement commencé;",
+            "&amp; en conſeruant noſtre authorité́, de liurer nos",
+            "ſujets de ce pays-laà des violences que ledit Prin",
+            "ce leur fait ſouffrir, afin de retourner en dili",
+            "gence vers noſtre bonne ville de Paris, &amp; garan",
+            "tir par noſtre preſence, &amp; meſmes auec les for",
+            "ces qui nous accompagnent, s’il en eſt beſoin,",
+            "tous nos bons ſujets, tant de ladite ville, que des",
+            "Prouinces voiſines, des maux dont ils ſont me",
+            "nacez par le rauage des troupes eſtrangeres,",
+            "&amp; de celles qui les fauoriſent:’ Nous aurions",
+            "deſiaexecuté cette reſolution, ſi la rebellion du",
+            "Due"
+        ],
+        [
+            "5",
+            "Dae de Rohan ne nous euſt retenu icy pendant",
+            "quelques iours pour l’eétouffer dans ſa naiſſan",
+            "e; Mais comme ſon entrepriſe temeraire ne luy",
+            "a reuſfi juſques à preſent que par le pouuoir que",
+            "ous luy auions donné dans cecte Ptouinsce, dont",
+            "par vn artifice digne de ehaſtiment il s’eſt ſeruy,",
+            "pour ſedire vne partie dé nos peuples, &amp; lespor",
+            "er à la deſobeyſſance par diuoerſes ſuppoſitions;",
+            "Nous nous prometons dans peu de temps d’y",
+            "auoir reſftably le calme par noſtre auStorité, tou",
+            "es les Villes qui la compoſent nous ayant deſia",
+            "rendu à noſtre arriuée vne entiere obeyſſace; &amp;",
+            "erecuer auec beaucoupde zele tous les Ordres",
+            "que nous y auons vonlu enuoyer: Il ne reſte plus",
+            "que celled’Anger, ou par le moyen de quelques",
+            "ſeditieux du mena penuple qu’il a engagez dans",
+            "lIa reuolto, e qu’il eaſea oncora d’y retenir par",
+            "l’apprehention qu’il leur donne du chaſtiment",
+            "qu’il leur a fair meriter; ll a oſteé iuſques à̀ preſent",
+            "aux principaux Hdabitans, tant Officiers que",
+            "Bourgeois, quoy qu’en beaucoup plus grand",
+            "nombre, la liberté de nous rendre l’oheyſſance",
+            "qu’ils aous doiuent, dont ils nous ont enuoyé.",
+            "teſmoigner leur déplaiſir par duers Deputez.",
+            "Cependant reconnoiſfant biea que ce mouue",
+            "ment quin’a point d’appuy ſolide, &amp; nu’en peut re",
+            "ceuoir, ae ſçauroit plus darer qu’autant qu’il",
+            "aous faut de temps pour faire marcher nos",
+            "Tcouppes iuſqu’aux portes de ladite Ville; Nous",
+            "39"
+        ],
+        [
+            "6",
+            "eſperons bien -toſt d’eſtre en eſtat de reprendrs",
+            "le chemin de Paris, &amp; d’aller en perſonne garen",
+            "tir la Capitale de noſtre Royaume, que nous ay",
+            "mons tendrement, des maux qu’on a projetté de",
+            "luy faire ſouffrir par l’approche des Eſpagnols; les",
+            "nouueaux teſmoignages que ſes Habitans nous",
+            "ont rendus depuis peu de leur affection &amp; fideli",
+            "té à noſtre ſeruice, ayant encores augmenté de",
+            "beaucoup l’amour, &amp; la tendreſſe que nous",
+            "auons touſiours eu pour eux, dont ils receuron",
+            "des preuues en cette conjoncture, &amp; en toutes",
+            "celles où il s’agira de leur bien: La fermeté que.",
+            "voſtre Compagnie a fait paroiſtre toutes les fois",
+            "que l’on a voulu faire prendre quelque eſtabliſſe",
+            "ment aux Eſpagnols dans noſtre Royaume, &amp;",
+            "l’horreur que vous auez touſiours euë pour de",
+            "ſemblables attenas, ou dnene aſſeurance",
+            "qu’eſtant informez de tout ce qui ſe paſſe, &amp; des",
+            "iuſtes reſolutions que nous prenons, vous em",
+            "ployerez ſoigneuſement &amp; auee courage das vne",
+            "occaſion ſi importante, le pouuoir que nous vous",
+            "auons donné pour contenir vn chacun dans ſon.",
+            "deuoir, &amp; pour oſter à tous ceux qui voudroient",
+            "entreprendre contre noſtre Autoriteé, de laquelle",
+            "depẽd principalement le repos de nos Peuples &amp;",
+            "voſtre propre ſeureté, les moyés d’executer lours",
+            "mauuais deſſeins; Nous ne croyons pas qu’il ſoit.",
+            "beſoin de vous y exciter d’auantage, remetrant.",
+            "à vous faire bien-toſt ſçauoir de plus preés le ſur¬"
+        ],
+        [
+            "plus de nos intentions. Cependant, nous prions",
+            "Dieu nos Amés &amp; Feaux, qu’il vous ayt en ſa ſain",
+            "te Garde. Eſerit à Saumur le 11. iour de Feurier",
+            "652. Signé LOVYS, Et plus bas de GvEnoavd.",
+            "Et ſur la ſuſeription",
+            "A nos Amez &amp; Feaux Conſeillers, lee",
+            "Gens tenans noſtre Cour de",
+            "Parlement de Paris."
+        ]
+    ]
+}

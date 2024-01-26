@@ -1,0 +1,159 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "lettre",
+            "réponse"
+        ],
+        "subject": "Emprisonnement des\n            Princes",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1651-02-13",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Lettre de messieurs de la cour du Parlement de Bordeaux,\n          pour réponse à la lettre de messieurs de la cour du Parlement de Paris, concernant les\n          arrêts donnés contre le cardinal Mazarin, et pour la liberté de messieurs les\n          princes.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-02",
+                "#text": "février 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000371172953",
+            "@xml:id": "IL_BessinNicolas.xml",
+            "persName": {
+                "forename": "Nicolas",
+                "surname": "Bessin"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "8",
+            "¬ r",
+            "1 4l",
+            "L 1L 1",
+            "31062",
+            ".",
+            "DE MESSIEVRS",
+            "T",
+            "DE LA COVR DE",
+            "PARLEMENT DE BoVRDEAvX,",
+            "Pour Reſponſe à la Lettre de Meſſieurs de la Cour de",
+            "Parlement de Paris,",
+            "Concernas les Arreſts donez contre le Cardinal",
+            "Mazarin, &amp; pour la liberté de Meſſieurs",
+            "les Princes.",
+            "A PARIS",
+            "Chez N. Befſin, au Palais, en l’allée S, Michel",
+            "M. D C. L1."
+        ],
+        [
+            "5",
+            "1",
+            "¬.",
+            "8",
+            "4 E",
+            ".",
+            ", atſa",
+            "1.....",
+            ". i-l",
+            "ao¬",
+            ".",
+            ".",
+            "2:.",
+            ". 1",
+            "¬.",
+            "l",
+            "l",
+            "I",
+            "1",
+            ". im",
+            "l.",
+            "i.",
+            "es",
+            ".",
+            "ler",
+            "1",
+            "l",
+            "r.",
+            "e 2.. 2",
+            "l1..",
+            "onaaaOogle"
+        ],
+        [
+            "1.",
+            "r",
+            ".",
+            "v. e",
+            "EDN",
+            "l lL",
+            "du Parlement de Bourdeaux,",
+            "A la Lettre du Parlement",
+            "de Paris.",
+            "HssIrs5.",
+            "de",
+            "éêlej",
+            ",,",
+            "Nous ne pouuons aſeZ lauervoſtre gene",
+            "roſité ale ’le que vous faites paroiftre à",
+            "tote la France pour ſa conſeéruaaqtion dans l’o",
+            "beiſſance d Roy, pour la confirmarion &amp;"
+        ],
+        [
+            "l’e-ecaution des Loix de l Eftat, nous nmousl",
+            "ſommes vnis à vons, &amp;? conforme à vos",
+            "ſentimens auecgrande affectin &amp; deſir de",
+            "vous teſmgner l’eſlime que nonu en faſons,",
+            "comime Ies LDeqtezqe oais duons ’preés d",
+            "ſaſajeté vods feohit enendr; ils-voui",
+            "feront voir e Arceſs, que nous aeon do",
+            "né, &amp; oos donneront les aſſeuirnces de l’ſ",
+            "fection auec laquelde nous ſommes,",
+            "e",
+            ".2",
+            "MESSIEVRS,",
+            "3",
+            "o",
+            "É vE",
+            "5",
+            ".",
+            "Vos bien humboles ſeruiteurs &amp; feres, les",
+            "Sens eenans la Cour de Parlemens de",
+            "Bordeaux,.",
+            "Eſcrit à Bourdeas en Parlemsent,",
+            "les Chmbres aſeiabllas,le",
+            "2;. Fehier 6;1.",
+            "S y aA’v.",
+            ".",
+            "¬."
+        ]
+    ]
+}

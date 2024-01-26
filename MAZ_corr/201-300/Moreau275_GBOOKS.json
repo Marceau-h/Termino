@@ -1,0 +1,201 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "subject": [
+            "Fiscalité",
+            "Impôts",
+            "Taxe"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, du 29 décembre 1649,\n          portant réglement pour le paiement des rentes, constituées tant sur les gabelles, clergé,\n          aydes, recettes générales, tailles anciennes, entrées et cinq grosses fermes.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1650-01",
+                "#text": "janvier 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000008903969",
+            "@xml:id": "IL_RocoletPierre.xml",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Rocolet"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "D c",
+            "ARRES",
+            "DE LA COVR",
+            "DE PARLEMENT.",
+            "Du vingt-neuf Decembre 1649.",
+            "Portant Reglement pour le payement des Rentes,",
+            "conſtituées tant ſur les abelles, Clergeé, Aydes,",
+            "Receptes generelles, Tailles anciennes, Entrées,",
+            "&amp; Cinq groſſes Fermes.",
+            "8",
+            "Chez p. Rocoer lmprimeur &amp; Libraire ordinaire",
+            "du Roy, au Palais, auxArmes du Roy, &amp;",
+            "M. DC. L.",
+            "Auec Priuilege de ſa Maieſté."
+        ],
+        [
+            "e",
+            "reaqu",
+            "e8",
+            "e",
+            "T r TC",
+            "H",
+            "A1l",
+            "L I AI L LD E",
+            "Regiſtres de Parlement.",
+            ", A COVR, pour pourueoir àll’ordre",
+            "du payement des Rentes ſur l’Hoſtel",
+            "de ceſte Ville, &amp; veiller à la conſerua",
+            "tion des fonds deſtnez à icelles: apres",
+            "auoir veu les Areſts des premier, &amp;",
+            "quatre Septembre mil ſu- -ens quarante",
+            "huict &amp; aurres depuis donnez: Enſemble les Articles",
+            "dreſſeées en l’aſſemblée des deputés de toutes les Cham",
+            "bres de ladite Cour. A OronnET oRDoNNE",
+            "Qu’aſſemblée ſera faite en l’Hoſtel de ladite Ville par",
+            "le Preuoſt des Marchands &amp; Eſcheuins, à laquelle les",
+            "deputez du Parlement, Chambre des Comptes &amp; Cour",
+            "des Aydes ſeront aduertis d’aſſiſter auec les Conſeillers",
+            "de Ville, &amp; Quartiniers, &amp; quatre notables Bourgeois",
+            "de chacun quartier, pour nommer &amp; eſlire dix-huict",
+            "deputez qui prendrontſoing de chacune des ſix natures",
+            "de Rentes, Sçauoir trois pour les Rentedes Gabelles,"
+        ],
+        [
+            "1",
+            "trois pour celles du Clergé, trois pour celles des Aydes,",
+            "trois pour les Receptes generalles &amp; Tailles anciennes",
+            "&amp; nouuelles, trois pour ſesRentes ſur les Entreées, &amp; trois",
+            "pour les Rentes ſur les Cinqgroſſes Fermes. Les quatre",
+            "Bougeois qui aſſiſtẽront en ladite aſſembleée ſeront",
+            "nommez par trente Bourgeois, tant Officiers qu’autres,",
+            "tous Rentiers des ſommes conſiderables de cinq cens",
+            "liures de- rente au moins, non traitans ny cautions ou",
+            "aſſociez de traictans, ny intereſſés aux preſts des conſti",
+            "tutions deſdites Rentes, leſquels trente Bourgeois ſe",
+            "ront aſſemblez le iour precedent l’aſſemblée de Ville",
+            "à la diligence &amp; en la maiſon du Quartinier de chacun",
+            "quartier, lequel Quattinier baillera les noms des quatre",
+            "Eſleus aux reuoſt des Marchans &amp; Eſcheuins Pareilles",
+            "aſſembleées ſerot ſaites à̀ l’aduenir de ſix mois en ſix mois",
+            "ſçauoir lesMardys premiers des mois de Iauier &amp; luillet",
+            "de chacun anńe, e e’il ſe trouue Feſte eſdits iours de",
+            "Mardy, le Vendredy enſuiuant, à̀ cette fin leſdits De",
+            "putez trois iours auant, aduertiront les Compagnies",
+            "pour enuoyer leurs Deputez en ladite Aſſemblee :com",
+            "me auſſi aduertiront les Quartiniers de faire leurs aſſem",
+            "blées de trente Bourgeois Rentiers dans leurs quartiers,",
+            "pour en nommer quatre, ainſi que deſſus: Et ſeront eſ",
+            "dites Aſſemblées qui ſe feront de ſix mois en ſix mols,",
+            "changez neuf deſdits Deputez au ſort pour la premiere",
+            "fois, &amp; ſix mois apres les neuf anciens ſeront changez,",
+            "&amp; neuf autres nommez en leur lieu. Ce qui ſera fait",
+            "&amp; continué enla meſme forme, en telle ſorte qu’aucun",
+            "deſdits"
+        ],
+        [
+            "deſdics nommez ne pourra eftre cohtimieé plus d’vnar",
+            "La fonction deſdis-huict Depute ſenapour veillet;",
+            "à l’entretenepée des articles de la Declaration du vingt",
+            "dou Otobre ml ſzensquahantoe lait, coeacernan",
+            "le fait deſdites Ranies, &amp; eecutiandeslrrefts de la",
+            "dite Cour des premier&amp; quaxe Sepmbe milſix cens",
+            "quarante-huice, &amp;",
+            "uilla: dernir, &amp;",
+            "auos depuis donac ettcquiconcero lſdtsoentesI",
+            "tpou ermpeſchdrates oiraoaenloadiss til",
+            "eles , Arreſts , &amp;R égleœaſpdlemenoſanuqu’ils pail¬",
+            "ſent. s’anrcmeſfſe dacdts aess aftainsu dll",
+            "qui regaadt leſditeteds.sepuede doutav",
+            "les Chambdos pbllefaideſdltsruœs saſftamblehel",
+            "en la llamdlrele la ounlheplaleuée deprmlersl",
+            "J ahdypdesmois de aaaſer Aufib loaillet,&amp; ôctes",
+            "bledecnadnlanna opfoamſutreee",
+            "our œfamadm ad-er te",
+            "J ax-E-",
+            "plier qy leſais mnietepoa ſaiue de dlu",
+            "ontrdeiospoale fütdedcs ees, qilspout",
+            "ont auſſi faireo puardeunele Pouoſût dess darelands,",
+            "pour y eſtr&amp; pouuparlaue,oſisquladi au",
+            "re partceult Rentldoſé puiſſe eidretué aueleſdie",
+            "emnez. Patani auſſilſdsnomeaſfiteràltonl",
+            "tes les encheres &amp; adiudlcàtlods des fires, &amp;t. tieas",
+            "concenahs leſdlts rentesl, faire lsaonſtrances, op",
+            "poſiions, pouſuittes, &amp; dligences neceſſaires, pour",
+            "tiliséde enœrsl,-’ineahterteospooe, interuenir",
+            "auonus a nouanot otlesdiudicataires, &amp;",
+            "B"
+        ],
+        [
+            "payeurs des rentes, de quelque nature que ce ſoit lecut",
+            "prealablement communiqué aux Deputez du Parle.",
+            "ment. Aſſiſteront auſſit leſdits nommez aux Comptes",
+            "que les adiudicacaires des Generliez rendront au",
+            "Preuoſt des Marchands, meſmes à tous autres Com",
+            "ptes que les Payeurs rendront audic Preuoſt des Mar",
+            "chands, concernans toutes natures derentes, &amp; fe",
+            "tont toutes diligences &amp; poutſuies neceſſajres pour",
+            "la conſeruation du fends de uts les haturos, apres",
+            "auſſi en auoir communiqué́ aux Deputez de ladite!",
+            "Cour. Pourront encores aſſiſter aux payemons deſ",
+            "dites Reutes, pour faire obſeruer les Reglemens de",
+            "ladite Cour, &amp; ſera tenu le Greffiet de l’Hotel de Ville",
+            "leur deliurer grauitement les Refiltats des delibera",
+            "tions duditr Hoſtel de Ville : Ordonne en outre que leſ",
+            "dits trois Deputez de chacune nature de Rentes, ſe",
+            "pnu -¬",
+            "¬aiſn ortinliee de ſ’ancon",
+            "ou plua qulifé d’en’eoux, &amp; oi aiſeuii, pait es.",
+            "rerentre eux des plalntes qu’ilsaurotà faire auDeputez",
+            "de ladite Cour, &amp; des auttes choes concemans leſdites",
+            "Rentes, le tout gramitemeut &amp; ſans aucuns frais, ſal",
+            "laires ny aduatages. Et ſera lo preſent Arreſt exeuré à",
+            "la diligence du Procureut General du, Roy. Fait; ene",
+            "Paleenc le as Decembro éA",
+            "ae ee ET",
+            "Cllauionne à l’Qriginal,; par mo Caaſellee",
+            "Seceaire d R &amp; de ſes Fiaa."
+        ]
+    ]
+}

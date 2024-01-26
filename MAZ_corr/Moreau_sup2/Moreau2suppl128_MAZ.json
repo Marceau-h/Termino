@@ -1,0 +1,101 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Hocquincourt, Charles de Monchy (1599-1658 ; marquis d')",
+            "Rohan, Henri de Chabot (1615?-1655 ; duc de)",
+            "Angers (Maine-et-Loire)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-07",
+            "@who": "AB"
+        },
+        "titre": "Lettre du roy envoyée à monsieur le maréchal de\n          Lhospital, gouverneur de la ville de Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "@source": "Mazarine",
+            "persName": "Louis XIV"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1652-03-02",
+                "#text": "2 mars 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000008903969",
+            "@xml:id": "IL_RocoletPierre.xml",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Rocolet"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DV ROY.",
+            "Enuoyée a Monſieur le Mareſchal",
+            "de Lhoſpital; Gouuerneur de",
+            "la Vile de Paris.",
+            "A PARIS,",
+            "Chez P. ROCOLET, Imprimeur &amp; Libraire ordinaire",
+            "du Roy &amp; de la Maiſon de la Ville, au Palais, aux",
+            "Armes du Roy &amp; de la Ville.",
+            "M. DC. LII."
+        ],
+        [
+            "tez à la reconnoiſſance de leur faute, en les trait ant auec",
+            "douceur. Auſſi-toſt qu’vne partie de mon Infanterie a",
+            "eſté dans la Ville &amp; dans le Chaſteau, le reſte auec mon",
+            "Artillerie a eſté enuoyé au Pont de Cé pour le forcer, qui",
+            "eſt l’ouurage d’vne journée. Apres cela, j’ay diſpoſé",
+            "toutes choſes pour reprendre ſans retardement la routte",
+            "de ma bonne Ville de Paris; &amp; comme j’apprens l’entré́e",
+            "del’arné́e d Eſpagne dans mon Royaume, ie faits auan",
+            "cer des troupes pour joindre à̀ celles que j’ay preés de",
+            "moy, afin de ne perdre pas vn moment de temps d’aller",
+            "combattre l’ennemy, ne voulant point auoir de repos",
+            "iuſqies à ce que j’aye affermy celuy de mes Subjets, mal",
+            "gre l’effort que mes enne mis Eſtrangers &amp; domeſtiques",
+            "font de concert pour l’empeſcher. C’eſt ce que j’ay voulu",
+            "vous faire ſçauoir, afin que vous en donniezpart à mes",
+            "bons ſeruiteurs, &amp; que vous diſpoſiez par vos ſoins or",
+            "dinaires tous les Habitans de ma bonne Ville aà̀ concou",
+            "rir ſelon leur deuoir au bien de mon ſeruice &amp; a la tran",
+            "quillité de l’Eſtat: Cependant, ie prie Dieu qu’il vous",
+            "ayt, monCouſin, en ſa ſaincte garde. Eſcrit à Saumeur",
+            "le dernier Fevrier mil ſix cens cinquante-deux. Signé,",
+            "LOVIS. E plus bas; de GveE vD.",
+            "Et ſur la ſuſcription.",
+            "Amon Couſin le Sieur de Lhoſpital, Ma",
+            "reſchal de France, Gouuerneur &amp; mon",
+            "Lieutenant general en ma bonne Ville,",
+            "Preuoſté &amp; Vicomte de Pais."
+        ]
+    ]
+}

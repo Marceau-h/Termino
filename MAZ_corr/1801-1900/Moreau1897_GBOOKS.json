@@ -1,0 +1,169 @@
+{
+    "imprimatur": "Auec Permiſſion.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-06",
+            "@who": "AB"
+        },
+        "titre": "Lettre d'un seigneur françois envoyée au prince de Galles\n          sur la mort du roi d'Angleterre, son père, pour l'obliger à venger sa mort, se mettre en\n          ses États et se mêler de la paix générale.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "persName": {
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "L. D. A."
+                }
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:000000010899305X",
+            "@xml:id": "IL_SevestrePierre.xml",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Sevestre"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "D’VN",
+            "SEIGNEVR FRANCOIS",
+            "EN VOYEE AV PRINCE",
+            "DE GALLES,",
+            "SVR LA MORT DVR0OY",
+            "D’ANGLETERRE SON PERE,",
+            "Pour l’obliger à̀ venger ſa mort, ſe remettre",
+            "en ſes Eſtats &amp; ſe meſler de la",
+            "Paix generalle.",
+            "e",
+            "A PARIS,",
+            "p l sveSrE, a nant ain",
+            "!¬ flau",
+            "¬",
+            "M. DC. XLIX.",
+            "Auec Permiſſion.",
+            "28-B",
+            "A"
+        ],
+        [
+            "3",
+            "Ce",
+            "b?",
+            "LETTRE DVN",
+            "Segneur Francois enuoyée au",
+            "Prince de Galles, ſur la mort",
+            "du Roy d’Angleterre ſon Pe",
+            "re, pour l’obliger à venger ſa",
+            "mortſe remettre en ſesEſtats,",
+            "&amp; ſe meſler de la Paix gene",
+            "ralle.",
+            "5",
+            "EIRE",
+            "Ie ne pretens point pardes",
+            "prols obles &amp; lanpuiſune dodee"
+        ],
+        [
+            "¬ A",
+            "4:",
+            "treſmes affliction qu’à receu voſtre Sereniſſi",
+            "me Majeſté, de la perte du Roy de tres-glorieuſe",
+            "memoire, voſtre Seigneur &amp; Pere: I’ay vne trop",
+            "parfaite connoiſſance de la grandeur de vos in",
+            "clinations pout pouuoir douter qu’en vn acci",
+            "dent ſi eſtrange &amp; ſi inoü̈y, voftre ame la plus",
+            "forte qui ſoit au monde n’ait beaucoup ſouffert",
+            "d’vne ſi cruelle atteinte. Mais, SIRE, ie veux",
+            "prendre la liberté́ de conuier voſtre Sereniſſi",
+            "me Majeſté, apres auotr rendu les droits que la",
+            "natare éxige auecque tant de juſtice d’elle, de",
+            "vuloir non pas chaſſer cette douleur, mais la",
+            "fortifier auecque ce courage inuinoible qui re",
+            "luip en toutes ſes actions pour tirer vengeance",
+            "du plus horrible crime qui ayt eſt́ imagineé́",
+            "dans l’eſprit des plus ſcelerats hommes: Toutes",
+            "ſortes d’occaſiõ̃s, SIRE, ſemblent fauoriſer vne",
+            "ſi glorieuſe &amp; genereuſe entrepriſe, l’eſperance",
+            "qu’on a d’vne paix generale par toute l’Euro",
+            "pe obligera tous les Princes Chreſtiens, com",
+            "me ils ſont hiez tres eſtroictement de ſang &amp;",
+            "d’intereſt auec Vous, de joindreleurs armes a",
+            "uecque les voſtres, pour vous mettre lur la teſte",
+            "voſtre Couronne vſurpée &amp; enuahie par vn",
+            "barbare, &amp; aller à̀ voſtre ſecours comme à̀ vne",
+            "guerre ſaincte. L’amour &amp; la paſſion qu’ont",
+            "tous les Franç̧ois pour leurs Roys, fera enga",
+            "ger cette braue Nobleſſe à voſtre party, pour",
+            "faire connoiſtre à toute la terre qu’ils ſont les",
+            "iberateur"
+        ],
+        [
+            "liberaters &amp; les conſerurateurs des Bpirs, &amp;",
+            "les reſtaurateusldes Eſtats renuerſez. Noſtre",
+            "Roy meſme dans la force de ſ jeuneſſe don",
+            "nera les premiers ardeurs de for courrage à re",
+            "mettre voſtre Trône abatu, &amp; à vous faire pa",
+            "roiſtre que ſa protection eſt le plus fort rem",
+            "part que vous puiſſiez oppoſer à vos ennemis.",
+            "Enfin, Se, ce qui eſt neceſſaire pour voſtre",
+            "maintien &amp;voſtre reſtabliſſement eſt quevoſtre",
+            "Sereniſſime Majeſté́ faſſe tous ſes efforts pour",
+            "faire cõ̃clure la paix entre tous les Princes Chre",
+            "ſtiens, les preparatifs en ſont tous dreſſez, &amp;",
+            "nous auons dans Paris vn enuoye auecque vne",
+            "lettre de creance de la part de Monſieur l’Ar",
+            "chiduc Leopol, qui teſmoigne la ſincerité des",
+            "intentions de l’Empereur, du Roy d’Eſpagne,",
+            "du Duc deLorraine, &amp; de ſon Alteſſe Impera",
+            "le. Mais comme il eſt impoſſible que la paix",
+            "generale ſe puiſſe conclure que nos deſordres",
+            "domeſtics ne ſoient appaiſez, il ſemble que",
+            "ce ſeroit vne digne oceupation de voſtre Sere",
+            "niſſime Majeſté, auecque celle de la Reyne vo",
+            "ſtre Mere de s’en entremettre, en cette occa",
+            "ſion la France toute entiere vous ſeroit obligée",
+            "de ſon repos, &amp; de la toute l’Europe qui vous",
+            "baillerot des arhmées triomphantes pour cha",
+            "ſtier, ſelon l’enormité du crime ſes meurtriers",
+            "B"
+        ],
+        [
+            "1",
+            "6",
+            "de Roys &amp; vſurpateurs de l’authorité Sonuerai",
+            "ne, &amp; en cëtte occaſion le neſerois pas des dei",
+            "niers à vous teſmoigner que ie ſuis auecque",
+            "route ſorte de reſpect,.",
+            ".",
+            "De voſtre Sereniſſime Maijeſté,",
+            "¬2",
+            "1",
+            "i Tres humble, rres oheiſſant,",
+            "&amp; res-fidele ſeruiteur.",
+            "L. D. A."
+        ]
+    ]
+}

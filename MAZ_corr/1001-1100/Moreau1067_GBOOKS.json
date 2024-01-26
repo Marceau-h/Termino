@@ -1,0 +1,132 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "lettre",
+            "pro et contra"
+        ],
+        "subject": "Mazarin",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-01",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Les deux nouvelles lettres coupées, sur le sujet de\n          Mazarin, pour et contre, où il y en a une qui lui servira de pasport , trouvée dans le\n          cabinet d’un curieux.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LES DEVX NOVVELLES",
+            "I ETTE",
+            "’es oei eie",
+            "il y en a vne qui luy ſeruira de paſpor",
+            "rovvee s E -B.",
+            "a",
+            "A PARIS.",
+            "TDG XLIX"
+        ],
+        [
+            "5.",
+            ",,,aaa l, a -¬",
+            "LETTRE COVPEE, SVR LESVET DE",
+            "er s e",
+            "de Mazarin, pour &amp; contre.",
+            "Lglenr liſatos gmes touteao longt, voas verteg q’eles parlrs pour e",
+            "zarin; Mais ̀ ne lire’que la moitie des Lgnes, à commençer aux",
+            "pre",
+            "mieres ſqu’ ces pepits points, vaus verrez qu’elles parles contre",
+            "lasy.",
+            "1!",
+            "BESSIEVS.",
+            ".1..!",
+            "Si les fourbes &amp; les ſupercheries. que le vulguaire indiſcret va ſemant",
+            "du Cardinal M.ne nous paroiſſoiét. fauſſement alſegueées, pour uaous eſtre",
+            "éuidemment conaps, lequel eſt. res-fidel Miniſtre, bien loing d’eſtre",
+            "à preſent ſelaré’Petibateürdu.! Pnple, comme il ſe l’imagine, du",
+            "repos publicque, &amp; ennemy de. SA MAjESTE, des Princes, &amp; de",
+            "l’Eſtat, nous aporteriõs toute nôtre. diligence, noſtre ſoing, &amp; toute noſtre",
+            "Induſtrie pour le Conduire. nous meſme en propre perſonne",
+            "hors des Limittes de France. pour retourner en ſa Patrie:",
+            "Mais çomae Lriminel: qu’il eft creu dedans l Eſprit d’vn chacun",
+            "mous ne ſerions pashous, rançois. ny meſme cenſés &amp; eſtimes tels",
+            "ſi nious ne l’empeſchions d’en ſortir. qu’auec tout le cõtente mét qu’il deſire",
+            "afin que ſa perſonne eſtant entre. elle u Pape, i ne ſoit mis entre1",
+            "les mains de la Iuſtice, &amp; de ce. qu’infailliblement en ordonnera le",
+            "Paleoer de aris, aufil en faſſe. cõne deépendãt de luy &amp; l’exempte de",
+            "tel Iugemet gu le damande ſa. bonté, &amp; non-pas ſa pretendué",
+            "deloyauté, lequel Cne peut eſtre. attendu-ſes bons &amp; agreables ſeruices",
+            "legitimement moins que d’eſtre. paiſſamment eſcorté au lieu d’eſtre",
+            "reſeiré ’entre quatre murailles. comme ſans ſubjet, on le requiert",
+            "Poury: Fiir. le teſte de.e qu’ila’à viure pe ndant",
+            "ſa qiequ nmas ſnulhalnnb eureuſe &amp; tranquille, &amp; non-pas",
+            "eſtre. moius, lopgs pi les. ſeruices qu’il nous a rédus, au lieu des",
+            "maux que ſa. grando perfrdie, ainſi qu’imprudemnmens on s’imagine",
+            "nus a procurés; Nous vous. faiſons cetce Lere; Et vous",
+            "d́ions aduls û’ et preſt. de s’en retourner, auec honaeus &amp; non",
+            "d’eîrev axileé , e lur at. Ie laiſſer ble ment &amp; ſeurement paſſer",
+            "que de bon cœur nous veillerons. &amp; empeſcherons de toutes nos foreés",
+            "à lay courir ſus; Et ne luy. ſoit donné aucune trauerſe &amp; ne1",
+            "par donnerons en aucune façon. à celuy qui y mettra empeſcheme nt",
+            "cõme ennemy juré de l’Eſtat, ſur ce. Nous vous dirons Meſſieurs que",
+            "Nous ſomme",
+            ".,",
+            "ot’seoi2 . Arvi",
+            "Vsé Tres-inmbles Seruiteu. s"
+        ],
+        [
+            "4",
+            "&amp; et u ra uuonounnu",
+            "vuvuvu uepereuu",
+            "AVrE LETEE COVe",
+            "r",
+            "T er",
+            "r E",
+            "ſeruant de paſport à Mazarin, pour",
+            "&amp; contre",
+            "L ttur vous ſerexz aduert de lire les ignes eome à̀ l’aura etre.",
+            "i ouorvn",
+            "se en l aearin, eſane danmsſa eonneuton &amp;t depaenmtń",
+            "n uiunne ore uau cCoeuſes utrepes h",
+            "ioeun ne peuuen nmenner que toures ouangeu, mdnma dane",
+            "ſon acceds; m’eſt venu. iouuuer ce miauin, pous s",
+            "ſie e ſi euut lende qplpueuſnuinroee",
+            "donnet qulqus lenmre qui lu lene pueus dee",
+            "elpun u d lnune eeque ea oiuonun nn eſte",
+            "’oien vouu hire e p, ueſaie. e",
+            "oun dut due ſerer qulai doue de naot de pefeouionleno",
+            "̀ omnmeamuntmdtedhnu u auſi puaedonnealenſene",
+            "ui ei punni enu ouneu ſia ne lor dmnuanonnene",
+            "ouni ſue ar qu voua n deu dan roe",
+            "nuyeeien dourerpoiuque ſa fanchiſe m’eſt counue&amp; e",
+            "e ſ dieure ueabute uon d o n e t",
+            "ie ſuis.",
+            "1",
+            "Voe uasaable &amp;eateuonn Saraitein"
+        ]
+    ]
+}

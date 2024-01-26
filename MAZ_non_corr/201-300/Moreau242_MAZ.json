@@ -1,0 +1,114 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "France. Trésor royal",
+            "Impôts"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, pour empêcher le\n          divertissement des deniers des tailles, subsistances, fermes, aides, gabelles et autres\n          deniers de Sa Majesté, ordonnés, par précédents arrêts de ladite cour, être portés en\n          l’Hôtel de Ville de Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "persName": "France. Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-02-09",
+                "#text": "9 février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": "Imprimeurs et libraires ordinaires du roi",
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT.",
+            "POVR EMPESCHER LE DIVERTISSE¬",
+            "ment des deniers des Tailles, Subſiſtances, Fermes,",
+            "Aydes, Gabelles &amp; autres deniers de ſa Majeſté,",
+            "ordonniez par precedens Arreſts de ladite Cour, eſtre",
+            "portez en l’Hoſtel de Ville de Paris.",
+            "Du hictieme Feburier 1649.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "EXTRAICT DES RECISTRES",
+            "de Parlemen.",
+            "CE IOVR, la Cour toutes les Chrambres",
+            "ſid aſemblées, deliberant ſur ce qu’au preju¬",
+            "dice des anciennes Ordonnances, &amp; de la",
+            "fé Declaration du Roy du vingt-deux Octo¬",
+            "bre dernier, aucuns Particuliers auroient, en vertu",
+            "d’Arreſts &amp; Commiſſions du Conſeil, diuerty &amp; de¬",
+            "tourné les deniers des Tailles, Subſiſtances &amp; Fermes",
+            "de ſa Majeſté, meſmes ceux des Generalitez d’Orleans",
+            "&amp; de Moulins, affectez au payement des rentes de",
+            "l’Hoſtel de Ville de Paris, A oronnNE’&amp; ordon¬",
+            "ne, Qu’il ſera informeé de l’enleuement &amp; diuertiſſe¬",
+            "ment deſdits deniers, pour les informations rappor¬",
+            "tées &amp; veü̈es par la Cour, eſtre ordonne ce qu’il appar¬",
+            "tiendra; cependant, que les Arreſts des dix-neufieme",
+            "&amp; trentiéme Ianuier dernier, ſeront execurez: Ce fai¬",
+            "ſant, que par les ordres des Treſoriers de France en",
+            "chacune Generalité, les deniers des Receptes particu¬",
+            "lieres ſeront inceſſamment &amp; ſans delay portez aux",
+            "Receptes generales, &amp; d’icelles conduits &amp; voturez",
+            "en bonne &amp; ſeure garde en l’Hoſtel de cette Ville de",
+            "Paris; comme auſſi tous les deniers prouenans des",
+            "Fermes des Aydes, Gabelles &amp; autres. Acét effet, en¬"
+        ],
+        [
+            "8",
+            "1",
+            "4",
+            "joint aux Preuoſts des Mareſchaux, leurs Lieutenans",
+            "&amp; Archers, d’eſcorter leſdits deniers, à peine d’en reſ¬",
+            "pondre en leurs propres &amp; priuez noms, Et à tous",
+            "Offieiers &amp; Subjets du Roy, de preſter main-forte à",
+            "l’execution dudit Arreſt: Fait defenſes à toutes per¬",
+            "ſonnes de quelque qualité́ &amp; condition qu’elles puiſ¬",
+            "ſent eſtre, d’enleuer ou diuertir leſdits deniers, à̀ peine",
+            "de la vie. Et que le preſent Arreſt, enſemble leſdits",
+            "Arreſts des dix-neuf &amp; trente Ianuier dernier, ſeront",
+            "enuoyez en chaque Bureau des Generalitez, pour y",
+            "eſtre leus, publiez &amp; executez ſelon leur forme &amp; te¬",
+            "neur, &amp; affichez par tout où beſoin ſera, à̀ ce qu’aueun",
+            "n’en pretende cauſe d’ignorance. FAcT en Parle¬",
+            "ment le huictiéme Feburier mil ſix, cens quarenre¬",
+            "neuf. Signé, DV TILLEI.",
+            "Collarionné́ à l’original par moy Conſeiller Secre¬",
+            "aire du Roy &amp; de ſes Finances."
+        ]
+    ]
+}

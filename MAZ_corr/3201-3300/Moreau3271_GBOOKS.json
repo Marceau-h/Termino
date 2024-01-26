@@ -1,0 +1,139 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "éloge",
+            "remerciement",
+            "ode",
+            "discours adressé"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-30",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Remercîment à Son Altesse de Longueville pour la\n          paix.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "REMERCIMENT",
+            "A",
+            "SON ALTESSE",
+            "DE LONGVEVILLE",
+            "POVR LA PAIX",
+            "ODE",
+            "PRINCE excellent, Illuſtre Alteſſe",
+            "De qui les ſoins laborieux",
+            "Ont d'une profonde ſageſſe",
+            "Tiré des effets glorieux",
+            "Sans toy, bel eſprit &amp; belle ame,",
+            "L’horreur du fer &amp; de la flame",
+            "Nous euſt fait des maux inoüis",
+            "Et de long-temps la Paix ſacré́e",
+            "Faite aaußſi-toſt que deſirée,",
+            "N’auroit les Peuples reſioüis."
+        ],
+        [
+            "2",
+            "éûi",
+            "Mon Dieu, que la guerre civille",
+            "A des torrents impetueux,",
+            "Que pan les champs ’ dans la ville",
+            "Elle é́branle de vertueux.",
+            "Qae ſa fureur eſt redoutable,",
+            "Que ſa rage eſt pouventable",
+            "Meſme tre les plus innocens:",
+            "Que ſon deſordre &amp; ſon ravage,",
+            "Souvent du plus ferme courage",
+            "Met en deſordre tous les ſens.",
+            "ê4e",
+            "Que la plus belle des Provinses,",
+            "-Aymable &amp; Gouuerneur aymé,.",
+            "Avec raiſon que t luy vinſſes",
+            "Bruloit d’vn deſir enflamaé:",
+            "Qee ſon Zele &amp; qus ta prdeca",
+            "Ont dignement ſauvélas ance",
+            "De mille barbares effrts,",
+            "Dont les moins cruelles epauves",
+            "N’euſſent par tout fait vair que veufues,",
+            "Qee pleurs, qu’orphelins, &amp;que morts."
+        ],
+        [
+            "ps",
+            "Le Roy meſme de qui l’Enfance",
+            "Préſage beaucoup de valeur,",
+            "Et ſur qui les pluus grands de France",
+            "Prennent l’exemple de la leur:",
+            "ußi-toſt qu’à ce grand onarque",
+            "Les ans auront donné la marque",
+            "D’vn redoutable Potentat,",
+            "Il étendra ſa gratitude¬",
+            "Sur toy, qui dans vn temps ſi rudu",
+            "Luy ſçeus conſeruer ſon Eſftat.",
+            "eg",
+            "dußi la Reyne que ie priſe",
+            "Comme vn treſor tres-preeieux,",
+            "Scachant nos maux eſre en leur criſ;",
+            "voulu déſiller ſes yeux;",
+            "ette incomparable Princeſſe,",
+            "Qui vile à nmſtre hin ſans ce,",
+            "Et qu’on ne peut aſſez cherir,",
+            "S’eémerveille de ta conduite,",
+            "D’avoir canmbatu, mis en fuire,",
+            "Et ſurmonté ſans coup ferir."
+        ],
+        [
+            "4",
+            "aéai",
+            "Que aMeſſeigneurs, tes deux Deaux-freres,",
+            "Ont bien ſecondeé tes deſſeins",
+            "nous retirer des iſeres",
+            "Où nous plongeoient d’avares maims.",
+            "es deux grands &amp; rares Genies,",
+            "Dont les forces ſont infinies",
+            "Sur les Peauples &amp; ſur les Rois,",
+            "Partagent auec toy la gloire",
+            "De la veritable ictoire",
+            "Que le Roy gaigne par vous troïr.",
+            "2",
+            "ee82ée.",
+            "La Paix eſt faite, &amp; ce miracle",
+            "Qi fait à preſent tant de bruit,",
+            "Fait qu’au Printemps ſans nul obſtacle,",
+            "L’Olivier nouus donne ſon fruit.",
+            "Mai afin que ta Renommée,",
+            "Dont l’odeur eſt par tout ſemeée,",
+            "¬",
+            "Puſe ponr plus la ſau 9",
+            "Fais par ta haute politique,",
+            "Qe cette Paix ſe caaoauique",
+            "De nous encore à l’Eſpagnol.",
+            "FIN."
+        ]
+    ]
+}

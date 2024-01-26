@@ -1,0 +1,140 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêts"
+        ],
+        "subject": "Mazarin",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrét de la cour de parlement, toutes les chambres\n          assemblées, portant que le cardinal Mazarin, ses parents et domestiques étrangers\n          vuideront le royaume de France ; autrement permis, aux communes et autres, de courir sus,\n          avec autres ordres pour cet effet.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1651-02-10",
+                "#text": "10 février 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "lA",
+            "T",
+            ".",
+            "31o599",
+            "D D",
+            "H H l",
+            "I D L",
+            "DELACOV1",
+            "PARLEMENT",
+            "T",
+            "I II N",
+            "TOVTES LES CHAMBRES ASSEMBLEES,",
+            "Portant que le Cardinal Mazarin, Ses",
+            "Parens &amp; Domeſtiques Eſtrangers,",
+            "Vuideront le Royaume de France,",
+            "Autrement permis aux Communes",
+            "&amp; autres de courir ſus; Auec autres",
+            "Ordres pour cét effet.",
+            "Du leudy 9. Feurier t65.",
+            "d",
+            "?",
+            "PAR1S,",
+            "Par les Imprimeurs ordinaires du Roy.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "E I A11 9",
+            "REGISTRES DE PARLEMENT.",
+            "¬ r",
+            "E iour, la Cour toutes les Chambres",
+            "aſſembleées, ayant deliberé ſur le",
+            "recit fait par les Gens du Roy, de",
+            "ce qui leur a eſteé dit par ledit Sei",
+            "gneur Roy &amp; la eyne egente ſur",
+            "l’execution des Arrſts des ſep &amp;",
+            "huictieſme de ce mois &amp; an, &amp; Declaration de la",
+            "volonré dudit Seigneur &amp; de ladire Dame Reyne,",
+            "que l’eſloignement du Cardinal Mazarin eſt ſans",
+            "eſperance de retour: Et oü̈y ſur ce leſdits Gens ds",
+            "Roy, A ARREST E’ &amp; ordonné en conſequence",
+            "de ladite Declaration &amp; volonté́ dudit Seigneur",
+            "Roy &amp; de ladite Dame Reyne Regente, que dans",
+            "quinaine du iour de la publication du preſent Ar",
+            "reſt, ledit Cardinal Mazarin, ſes Parens &amp; domeſti",
+            "ques Eſtranges, vuidront ce Royaume de Fianice,",
+            "terres &amp; places de l’obeiſſance du Roy: Etfaute de",
+            "ce faire ledit temps peſlé, ſera contr’eux procedé"
+        ],
+        [
+            ".",
+            "4",
+            "extraordinairement. Permis aux Commanes &amp;.",
+            "tous autres de leur courir ſus, ſans qu’ils puiſſent",
+            "reuenir pour quelque pretexte, cauſe, employ",
+            "&amp; occaſion que ce ſoit. Fait deffnſes ledit temps",
+            "paſſé aà tous Guuerneurs de Prouinces, Maires &amp;",
+            "Eſcheuins des Villes, &amp; autres ſujets du Roy de les",
+            "retirer &amp; receuoir. Ordonne que ſe preſent Arreſt",
+            "ſera affiché, leu, &amp; publié à ſon de Trope &amp; ery",
+            "public par tous les Carrefours de cette Ville",
+            "&amp; Faux-bourgs &amp; enuoyé aux Bailliages, Seneſ",
+            "chauſſées &amp; Sieges du reſſort pour y eſtre pareil",
+            "lement leu, publié &amp; executé, à la requeſte d",
+            "Procureur General, &amp; diligence de ſes Subſtituts:",
+            "Et qu’il en ſera donné aduis aux autres Parlemens.",
+            "Fait en Parlement le neufieſme Fevrier mil ſix cens",
+            "cinquante -vn. Signeé, GVYET.",
+            "E Veadraey o. iourde Fevrier 16s. l’Apeſt y-deſſas de mos Soi",
+            "Lgneurs de la Caar d Parlemene, a eſté́ leu, pablié affcheé",
+            "C’aefus ardinaires &amp; extrordnarss de cotts lle &amp; Fax-bourgs",
+            "de Paris; par my Cirles Caito Sergent ̀ verge- a Chſlelet de Par ,",
+            "pourue de l’offce de Iuré Crieur dRoy, en la Ville Preſté &amp; icone",
+            "e de Paris, en preſence des Huißiers de ladite Cour, &amp; eſtans",
+            "acco",
+            "pgnmé de quarre Trompettes; Iean du Bas, Iacques le FPaain, ſaure",
+            "Toampetes du Roy eſdirs lienx , &amp; deac atrs Trpetus oous¬.",
+            "CAT0.",
+            "Sné,",
+            "Collatiomméà l’Original parmoy Conſeiller, Secretaire",
+            "du Roy &amp; de ſes Fimances."
+        ]
+    ]
+}

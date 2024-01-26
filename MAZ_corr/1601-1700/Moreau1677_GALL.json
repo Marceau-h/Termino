@@ -1,0 +1,129 @@
+{
+    "imprimatur": null,
+    "corrector": true,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "poésie",
+            "burlesque",
+            "satirique"
+        ],
+        "subject": "Molé, Mathieu (1584-1656)",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-12",
+            "@who": "AB"
+        },
+        "titre": "L'illustre barbe D. C., en vers burlesques.",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-18",
+                "#text": "18 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-23",
+                "#text": "23 avril 2021"
+            }
+        ],
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "None",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "L'ILLVSTRE",
+            "BARBE",
+            "D. C.",
+            "En vers Burleſques."
+        ],
+        [
+            "2",
+            "L'ILLVSTRE",
+            "BARBE",
+            "D. C.",
+            "En vers Burleſques.",
+            "LOING d'icy diſcours ſerieux",
+            "Vous n'eſtes bons que pour les vieux,",
+            "Parlons en des termes Burleſques",
+            "Comme tous ces Autheurs groteſques",
+            "Qui font treve à tous les diſcours",
+            "Où l'on ne parle que d'amours.",
+            "Ie veux parler d'vn ton affable,",
+            "Non pas d'vne inutile fable,",
+            "Mais d'vne Barbe au beau menton",
+            "Qui comme le poil au mouton",
+            "Depuis ſix ſemaines eſt cruë",
+            "Eſpaiſſe, longue, belle &amp; druë",
+            "A cét illuſtre Conquerant",
+            "Qu'on appelle le Iuif errant."
+        ],
+        [
+            "3",
+            "Ce grand Guerrier que rien n'eſtonne,",
+            "Ce valeureux fils de Bellone",
+            "Pour paroiſtre homme de Conſeil",
+            "A voulu paroiſtre plus vieil.",
+            "Tous ceux qui ſçauoient ſon courage",
+            "Diſoient qu'il eſtoit trop volage,",
+            "Qu'il reſſentoit le mois de May,",
+            "Que ſon timbre eſtoit trop gay:",
+            "Sçachant qu'on parloit de la ſorte,",
+            "Morbleu dit-il le Diable emporte",
+            "Si ie ne les feray mentir,",
+            "L'on me verra laiſſer venir",
+            "Vne barbe ſi venerable",
+            "Que ie paroiſtray plus capable",
+            "Qu'vn General des Capucins",
+            "Ou bien des petits Auguſtins.",
+            "Les Soldats voudront mieux me ſuiure,",
+            "Et diront que ie ſçay bien mieux viure",
+            "Que ie n'ay pas fait cy-deuant,",
+            "Quand la teſte pleine de vent",
+            "I'ay perdu les plus braues hommes",
+            "Qui fuſſent au ſiecle où nous ſommes.",
+            "En effet il a ſi bien fait",
+            "Que ſa barbe eſt crue en effet,",
+            "Et qu'il paroiſt le plus ſage homme",
+            "Qui ſoit de Paris iuſqu'à Rome,",
+            "Et l'on le prend à S. Germain",
+            "Pour mettre de l'eau dans ſon vin",
+            "A ij"
+        ],
+        [
+            "4",
+            "Et temperer ce grand courage",
+            "Qui ne craignoit aucun orage.",
+            "Dieu vueille qu'il deuienne meur",
+            "Pour noſtre bien &amp; ſon honneur,",
+            "Car par ma foy ſi ce temps dure",
+            "Ie crains quelque triſte auanture.",
+            "Mais que mon preſage ſoit faux,",
+            "Et que pour ſoulager nos maux",
+            "Deuant la fin de la ſemaine",
+            "Nous ayons vne paix certaine.",
+            "L'autheur de ces Burleſques vers",
+            "Auoit l'eſprit tout de trauers",
+            "Ainſi que cette Barbe eſt faitte,",
+            "Ie ne dis pas à l'eſcopette,",
+            "Mais il auoit tout le menton",
+            "Comme la queue d'vn mouton.",
+            "FIN."
+        ]
+    ]
+}

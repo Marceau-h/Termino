@@ -1,0 +1,190 @@
+{
+    "imprimatur": "Auec permiſion de ſon Alteſſe Royalle.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "narration",
+            "récit"
+        ],
+        "subject": "Parlement de Paris",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-07-11",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-30",
+            "@who": "AB"
+        },
+        "titre": "Récit véritable contenant tout ce qui s'est fait et passé\n          en la dernière assemblée du Parlement, tenue en présence de messieurs les princes, le\n          samedi XIII juillet 1652, avec l'union et la généreuse résolution prise en ladite\n          assemblée de lever des troupes, pour composer une puissante armée pour délivrer le roy de\n          captivité et chasser tous les Mazarins.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2026-04-20",
+            "#text": "26 avril 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1652-07",
+                "@when": "1652",
+                "#text": "pas avant juillet 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000070440942",
+            "@xml:id": "IL_LafossedeSalomon.xml",
+            "persName": {
+                "forename": "Salomon de",
+                "surname": "La Fosse"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "RECIT",
+            "VERITABLE",
+            "Contenant tout ce qui s’eſt fait",
+            "&amp; paſse en la derniere aſsemblée",
+            "du Parlement, tenuë en preſen",
+            "ce de Meſsieurs les Princes, le",
+            "Samedy XII. Iuillet 1652.",
+            "Auec l’Vnion &amp; la Genereuſe Reſolution priſe en",
+            "ladite Aſſembée, de leuer des Trouppes pour",
+            "Compoſer vne puiſante Armée pour deliurer",
+            "le Roy de capiuité &amp; chaſſer tous les Mazarins.",
+            "A PARIS,",
+            "Chez SALOMON DE LA FOSSE, ſur le",
+            "quay de Geſvres, vers le Pont Marchands.",
+            "M. DC. LII.",
+            "Auec permiſion de ſon Alteſſe Royalle."
+        ],
+        [
+            "3",
+            "RECIT VERITABLE CONTENANT",
+            "Tout ce qui s’eſt fait &amp; paſſé on la derniere",
+            "Aſſemblée du Parlement tenuë enpreſence",
+            "de Meſſieurs les Priuees, leSamedy treizieſ",
+            "me Iuillet 1632.",
+            "Aue l’Vaion &amp; la Cenmereuſe Reſolutien priſe en",
+            "laddius ſſemble, de leer des Trouppes pour",
+            "deliurer le oy de Capiice &amp; chaſſer tous les",
+            "Maarins.",
+            "E Samedy ;. luillet ſuiuant ce qu’il a",
+            "LLuoit eſté arreſté le leudy precedent que",
+            "lPoa s’aſſembleroit ledit iour. Son Alteſſe",
+            "Royalle accompagnée de Meſſiuts les",
+            "Prince de Condeé, Duecs de Beaufort, de",
+            "Rohan, de Sully, du Comte de Tauannes, &amp;",
+            "autres Seigneurs ſe rendy au Palais ſur les",
+            "buit à neufheures duatin où elle fur receuës",
+            "de la ſainte Chappelle, par des Deputez de la",
+            "Cour en la maniere accouftumé́e, &amp; conduie"
+        ],
+        [
+            "en la Grande Chambre, ou chacun ayant pris",
+            "ſa place l’on commenca à deliberer ſur la der",
+            "aiere Reſponſe que le Roy a faite air Depu",
+            "tez, par laquelle en ſubſtance il teſmoigne ne",
+            "defirer rientant que la ’aix,&amp; qle ſoa deſſein",
+            "eſt d’eſloigner le Cardnal Mazarin. Eſtans",
+            "venus aux opinionsles vnes dllaient a nuôyer",
+            "de Nouueaux Deputez, d’autres né le’trou",
+            "uoient pas à propos, attendu que ceux qui y",
+            "eſtoient enuoyez eſtoient ſuffiſans pour faire",
+            "entendre au Roy &amp; ſon Cpnſeil, -les raiſons",
+            "des Princes &amp; du Parlemear:. Enfin ttuy",
+            "cy fut le plns fort, qu’il failloit eſecrre au",
+            "Preſident de Neſmond chef des Depurez qui",
+            "ſont prés du Roy, de remercier ſa Majeſté",
+            "de la part de Meſſieurs les Princes, du Par",
+            "lement &amp; de la Ville deParis, de ſa parolte",
+            "Royale pour l’eſloignement d C. Mazarin,",
+            "&amp; le prier que cét eſloignement ſu, fais dan",
+            "Lundy ſans feintiſe, &amp; pourout delayy il",
+            "non que ledit Temps paſſe, &amp; ſut ce qe",
+            "ledit Cardinaſ ſeroit encores prés du Roy, que",
+            "meſdirs Sieurs les Princes ſeroienr &amp; demeu",
+            "roient vnis cô me ils ſont des aprſent auec la",
+            "Cour deParlemẽt, &amp; laVlille deParis, pourd’vn",
+            "commun effort faire vn corps d’Armee conſ",
+            "derable"
+        ],
+        [
+            "derabl capable de irer le Roy de capriuité,",
+            "&amp; d’epulſer les Mazarins, que ces Deſputez",
+            "auroient ſoing de tirer reſpenſſe de tce dans",
+            "ledit iour de Lundy, &amp; eſtte de retour Mar",
+            "dy ſeptheures du natin à Paris, pou aſſiſter",
+            "a l’Aſſemblee, toute a tonpagnie approuua",
+            "ceét;aduis qui paſſa de la ſorte&amp; pria ſonAl",
+            "rſſe Royalle vulloir ſe çharger d’eſcrire au",
+            "dits Preſident de Neſmond, lecontenu de cet",
+            "te reſolutionpour -fsire ſçauoir à ſa-ajeſté, ce",
+            "que Saditte Alteſſe Royalle pronit faire au",
+            "jouird’huy, apres quoy l’aſſemble ceſ",
+            "cun ereira, eome lhoacheuoit ladelibe",
+            "rasion, l y:euſt quelques Eas de laPoulace",
+            "qei eſtoientans le Palais abndans d’iſſuë de",
+            "cete Aſſembĺequi ayant apris que l’on auit",
+            "romis a Lundy &amp; croyans qu’il ny euſt rien",
+            "d’autre choſe arreſté, ſurenj coignerſ rude",
+            "menpa laporte dd Prquet deshiſſieps, par",
+            "olon etre dans la grande Cnafbre, di",
+            "ſaht qu’il vouloient l’aion,-&amp; en ſuite cfie",
+            "rent haut ement l’Vnio, aais ſon Alteſſe leur",
+            "enuoys ra! d ne pas fadire ebruipd auan¬,",
+            "tag &amp;q ullejeſtait faite, Coqai les appai",
+            "ſa &amp; ſe retirerent, ſon Alteſſe Royalle ſor",
+            "B"
+        ],
+        [
+            "r¬¬",
+            "ant diſta quelques qui puoiet ut",
+            "n enr eau le rnion uele ou ſiee;",
+            "le e leiene po e e en eſlen ene",
+            "l uſ ueuroie qne ron ſaierune liſli nee",
+            "ſl ſe tous anaie, &amp; que dus lun",
+            "dauanan ſogrs de la cour.",
+            "uee le n olie epne que nrnrnu",
+            "uluine un euirot deie, ds qel",
+            "iui oore gpe nl oie ais ſen ile lpe",
+            "ll l iſe epuie eniunie,noarneee",
+            "e uoln uioureuin e lne ei di el",
+            "a eil neiſe ſereie nle n leineue",
+            "ieln n leiaile e ſdoienoenene",
+            "eeueieiaeune dar ui lun enene ooe nenre",
+            "l pn unene ni uaie oaies e le oenr",
+            "ea ne ei s eine lione nu on",
+            "s eniues qeinous neainenl e onn",
+            "e t iu e le pionne e un lne e",
+            "e nlte pour anpoauit lea diſſnfo",
+            "elſ e nmo enreun de u dſeaeCſ",
+            "enſene e enoe i ſl t ere",
+            "elels lus u ea ſlen e ſe p e ier",
+            "o oe ene ue iſi ee qne le oelie",
+            "ae e s ans duua redoie de uſn",
+            "!"
+        ],
+        [
+            "ieune Monarque, qui recognoiſtra à la fin",
+            "que ceux qui l’ont oblige de chaſer le va",
+            "arin luy auront fait vn ſignalé ſeruice,",
+            "puis que ſa preſence ne peut produire que",
+            "la ruyne de ſon Eſtat.",
+            "FIN."
+        ]
+    ]
+}

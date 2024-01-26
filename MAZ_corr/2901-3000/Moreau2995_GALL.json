@@ -1,0 +1,126 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "narration",
+            "récit",
+            "dialogue"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-30",
+            "@who": "AB"
+        },
+        "titre": "Le recit du grand combat donné entre deux dames de la\n          ville de Cologne, & les deux niéces du cardinal Mazarin. Sur les affaires du temps\n          present.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-04-20",
+            "#text": "20 avril 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1651",
+            "#text": "1651"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Antonomaz",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LE",
+            "RECIT",
+            "DV",
+            "GRAND COMBAT",
+            "donné entre deux Dames de la",
+            "ville de Cologne, &amp; les deux",
+            "Niéces du Cardinal Mazarin.",
+            "Sur les affaires du temps preſent.",
+            "M DC. LI.",
+            "Iouxte la copie imprimée à Cologne."
+        ],
+        [
+            "RECIT VERITABLE DV GRAND",
+            "comhat arriué entre deux Dames, &amp; les",
+            "Niep es du Cardinal Maanin dans",
+            "la ville de Cologne",
+            "es deus Dames.l",
+            "JAt Manzarine, c’eſt trop que m’appelez Ri¬",
+            "vale,",
+            "Si plus ie l’endurois, ie ſerois animale,",
+            "Et je yeux dedans peu ce different vuider:",
+            "Portez vous ſur le champ, &amp; ayez vne Fronde¬",
+            "Car ie vous feray voir que ie ſçay bien fronder",
+            "Et genereuſement auec elle ie ſonde.",
+            "Les deux Niepces.",
+            "Ha! mes Dames, comment n’eſtes vous point",
+            "honteuſes?",
+            "Qui auroit iamais creu que vous fuſſiez Frondeuſ",
+            "Pour moy ie ne ſçay pas la fronde manier,",
+            "Battre ie me veux bien, mais prenõs d’autres armes,",
+            "Car pour en bien parler vous nepouuez nier",
+            "Que ce ne ſont pas là les armures des femmes;",
+            "¬"
+        ],
+        [
+            "4",
+            "Les deux Dame.",
+            "C’eſt à faire alcela, faiſons apprentiſſage,",
+            "Puis quon eſime tant aujourdhmy le fondage,",
+            "Ie vous veux faire voir ma generoſité:",
+            "Toute voſtre raiſon n’eſt aucunement bonne,",
+            "Se ſont des vrais teſmoins de voſtre laſcheté,",
+            "Sus, ſus, depeſchez vous, ne ſoyezpoint poltronne",
+            "Les deux Niepces",
+            "Mais de nous battre ainſi ce ſeroit vne honte,",
+            "C’eſt que voûsyomoquez, vous n’eſtes pas ſiprõte",
+            "Vous voulez ſeſement me faire aaoir la peur,",
+            "Il ne faut plus ſonger à toutes nos querelles,",
+            "Vous pouuez bien penſer que c’eſt vn des honneur",
+            "De voir vn Duel frondeur entre deux Damoiſelles",
+            "Les deux Dames.",
+            "Tous ces ſots diſcours-là plus m’enflame&amp; irrite",
+            "ne faut pas penſer que vous en ſoye quitte,",
+            "Et vous le payerez, ’en deuſſay-iemourir,",
+            "Voſtre ex cuſe n’eſt point en façon receuable,",
+            "Et tous vos argumens ne ſeruent qu’à m’aigrir,",
+            "Il eſt bon de payer quand on eſt redeuable.",
+            "Pui"
+        ],
+        [
+            "Les deux Niepces.",
+            "Puis que c’eſt tout de bon, ie me vais dõc reſoudre,",
+            "Car mesDames, ie vois, vous en voulez découdre,",
+            "Et que vous le voulez &amp; l’auez tout reſous,",
+            "Ie vois que voſtre humeur eſt tropimperieuſe,",
+            "Ie vous dis hardiment, prenez bien garde à vuos,",
+            "Car ie vous feray voir que ie ſuis genereuſe.",
+            "Les deuex Dames.",
+            "Vous m’eſpouuenteriez ſi i’eſtois bien peureuſe,",
+            "Mais ie vous feray voir que ie ſuis valeureuſe:",
+            "Et vous feray ſentir la force de mon bras,",
+            "Et lors vous connoiſtrez que nous ſome vaillante,",
+            "Car i’eſpere bien toſt vous renuerſer à bas,",
+            "Meſme quand vous ſerez cent fois plus ſufiſante.",
+            "Ha! Mazarine entenez-vo auez-vo voſtre cõte,",
+            "Et le courage au cœur de plus en plus me monte,",
+            "I’ay oup té le prx, me voila glorieuſe,",
+            "Viſte, deffendez-vous, ſus, ſus, à ce coup ey.",
+            "l’ay triomphé de vous, vous eſtes à ma mercy,",
+            "Et l’on m’eſtimerà eſtre bonne Frondeuſe."
+        ]
+    ]
+}

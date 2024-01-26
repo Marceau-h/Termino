@@ -1,0 +1,88 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Mémoire présenté au conseil du roy par la\n                    noblesse du bailliage de Chartres, du 22 septembre 1650.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@ref": "geonames:0000000",
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "r¬¬",
+            "i",
+            "1",
+            "7",
+            ": ,,:",
+            "81 11688",
+            "e&amp;e eeP ’i ’ei’ipi",
+            "lenoe preſenré au, Conſel du",
+            "Ro, mar la N obleſe du PBailage",
+            "de Chartres.",
+            "Du 2z . Seprembre 165o.",
+            "n Corps de la oleſe dao ilee de cdnut",
+            "e",
+            "A eres, lupplie nes humbiement le Roy de luy",
+            "SA oloi lare reodt ls bonne &amp; bneuenu:",
+            "a",
+            "A iee que la Maeſé loy a fait ’honneur de",
+            "er ;,y promettre, &amp; de conſiderer que depuis le",
+            "violenteraitrement qu’ila reçeudes Officiers &amp; de quel¬",
+            "aes qunieniius e enre v le ina ſ oninen e ſon",
+            "eouſées ſans qu’l luy en aye eſté fait aucune reparation",
+            "’ſans que le reſſentiment d’vn ſi eruel afront l’aye peu",
+            ",te ſortir, des reſpects qui ſont deubs àſa Majeté.",
+            "Quoy qu’il ne manquaſt pas de moyens pour en irer",
+            "eiere ſa eisfaction, il a touſiours ſouhaitte de donner",
+            "piluſoi des uaqus de ſ puiue boeſlne uo!",
+            "que dudeſ ouiunot de pmendne lanranre, de eun",
+            "Ine il eſtoit offencé; ce qui neantmoins pourroit eſtre",
+            "an pejudiciable à la reputation des Genti lshommes",
+            "La plus partde nos cnnemis comnomenyan dimputercere",
+            "Teſoeoueuſe paueee, l i ſenſibiite &amp; baſele de cou¬",
+            "tare, ſronne leut ſit pe rds ee oonions p lai",
+            "reuſe puniion, dont elle doit eſtre promptement lui¬",
+            "uie.",
+            "¬¬"
+        ]
+    ]
+}

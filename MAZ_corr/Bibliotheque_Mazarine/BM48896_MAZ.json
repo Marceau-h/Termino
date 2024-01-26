@@ -1,0 +1,157 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "France -- 1648-1653 (Fronde)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-03",
+            "@who": "AB"
+        },
+        "titre": "Consideration sur le deplorable estat du royaume, avec\n          le moyen indubitable de faire cesser la guerre, & y voir bien tost la paix.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1652-05-31",
+                "@when": "1652",
+                "#text": "à partir du 31 mai 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000071413225",
+            "@xml:id": "IL_LaCailleJeande.xml",
+            "persName": {
+                "forename": "Jean de",
+                "surname": "La Caille"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "Ta perdition vient de toy ô Iſrael ton ſecours eſt ſeulement en moy. Oſée 13.",
+            "CONSIDERATION SVRLE DEPLO",
+            "rable eſtat du Royaume, auec le moyen indubitable",
+            "de faire ceſſer la Guerre, &amp;y voir bien toſt la Paix.",
+            "PERSONNE ne ſçauroite donner que les miſeres de la",
+            "France ne ſoient extremes, les larmes &amp; les gemiſſe",
+            "mens de toute la campagne, qui n’eſt couuerte que de",
+            "morts, &amp; de perſonnes agoniſſants, la deſolation de",
+            "Paris, qui ne ſçait aà qui auoir recours pour trouuer quelque ſou",
+            "lagement à ſes diſgraces &amp; aà ſa crainte, tout le circuit de",
+            "cette",
+            "grande Ville enuironneée de troupes Françoiſes, &amp; eſtrangeres",
+            "toutes ennemies de noſtre Religion &amp; de noſtre repos, qui n’eſ",
+            "pargnent ny Temples, ny Aurels, ny Preſtres, ny myſteres, qui",
+            "n’attendent qu’à exercer le dernier coup de leur fureur, &amp; de",
+            "leur rapacité ſur ce qui reſte de biens aux meilleures maiſons,",
+            "ſont des maux ſi ſenſibles, qu’il faudroit eſtre ſans yeux pour ne",
+            "les pas connoiſtre, &amp; ſans cœur pour ne les pas gemir. Dans vne",
+            "conioncture ſi faſcheuſe, quoy que nos maux puiſſent venir de",
+            "pluſieurs ſources, il eſt vray neantmoins qu’il n’y en a point de",
+            "plus malignes que nos offences qui ſont venuës à̀ tel point de",
+            "forcenerie que dans nos portes, &amp; hors icelles le frere egorge",
+            "ſon frere &amp; l’amy ſon amy. Ileſt auſſi facile à̀ comprendre que",
+            "rant de gens qui parlent de paix la deſirent plutoſt pour viure",
+            "ſenſuellement, que pour honorer &amp; ſeruir Dieu plus deuote",
+            "ment; &amp;bien eſloignez de nous diſpoſer à receuoir cette grace",
+            "de",
+            "1",
+            "ſa main liberale, nous l’excitons ſans ceſſe par nos mauuaiſes",
+            "ations à nous la refuſer; Nous anons mepriſé ſa Loy",
+            "!"
+        ],
+        [
+            "dans la proſperité, il faut que nous reuenions à̀ luy par la",
+            "neceſſité: la tranquilité dont nous auons ioüy par le paſſé, nous",
+            "a porté au luxe &amp; au deſordre, &amp; ſa Maieſté enfin s’eſt reſolué de",
+            "punir nos excez parvne guerre qui nous reduiſe au ſac &amp; à la cen",
+            "dre, &amp; qui nous contraigne de rendre aà ſa iuſtice la",
+            "ſoûmiſſion",
+            "que nous auons refuſée à la bonté. Le voyant donc encor dans",
+            "l eſtat de continuer les chaſtimens &amp; de verſer le fiel de ſon",
+            "courroux auec plus d’abondance que iamais ſur nos teſtes, il",
+            "n’y a point d’autres remedes à nos calamirez que celuy de la pe",
+            "nitence, c’eſt à nos larmes, &amp; à nos confuſions d’eſmouuoir",
+            "les",
+            "entrailles de ſa miſericorde, &amp; luy faire ſouuenir que nous ſom",
+            "mes ſes enfans: il faut donc que le Preſtre redouble ſes",
+            "ſacrifices,",
+            "le peuple ſes prieres, le Religieux ſes ieuſnes &amp; ſes macerations,",
+            "il faut que les peres &amp; meres diſpoſent par leurs bons exemples",
+            "&amp; ſaintes inſtructions leurs familles à viure ſelon Dieu, il faut",
+            "que le plus iuſte ſe traite auiourd’huy en coulpable, il faut que",
+            "les plus grands &amp; les plus conſiderables en naiſſance quittent les",
+            "marques de leurs grandeurs pour prendre celle d’vne ſainte",
+            "riſteſſe, il faut continuer les prieres non ſeulement dans les E",
+            "gliſes, mais auſſi dans les familles, il faut renoncer aux feſtins,",
+            "&amp; à la pompe, aux deſpenſes ſuperflues, &amp; à la brauerie, de",
+            "peur que noſtre ioye criminelle ne rende noſtre affliction extre",
+            "me, il faut nous ſacrifier de nous meſme aux abſtinences &amp; aux",
+            "ieuſnes, afin que Dieu voyant que nous nous affligeons nous",
+            "meſmes, ait pitieé de ſon ſanctuare &amp; de ſon peuple, &amp; que",
+            "vaincu par nos gemiſſemens, l tourne le cœur du Roy &amp; des",
+            "Princes du coſté le plus fauorable à noſtre conſolation C’eſt",
+            "ce que firent les Niniuires aà̀ la ſeule voix de Ionas, qui",
+            "ne fut pas ſi long-temps à conuertir vne Ville infidelle, &amp; ido",
+            "latre, &amp; à la reſoudre aux cilices, aux heres &amp; à la",
+            "cendre, que les",
+            "Predicateurs de Ieſus-Chriſt leſont à̀ reſoudre lepeuple à̀ vn mo¬"
+        ],
+        [
+            ",",
+            "ment de priere, &amp; d’oraiſon, &amp; à penſer à ſe bien connoiſtre: la lesJ",
+            "enfans à la mamelle ieuſnerent, les animaux firent abſtinence.",
+            "Le Roy commençant le premier quitta ſa Couronne &amp; ſa pour",
+            "pre &amp; ſe meſla dans la pouſſiere auec les autres, reconnoiſſant",
+            "qu’il eſtoit creature &amp; pecheur. Si donc vous entendez auiour",
+            "dnuy ſa oat an non de leu cnſt ne pont ſee de!",
+            "difference pour demeurer tiedes ou vous endurcir vous meſme,",
+            "mais qu’vn chacun ſe conuertiſſe, &amp; croye que les iniuſtes n’he¬J",
+            "riteront point du Royaume Celeſte. Que tout le monde diſe,",
+            "peccauus, iniqueegimus, Nous auons comis mille ſorte de crimes",
+            "&amp;d’iniuſtices Ce ſera le moyen d’appaiſer ſa colere, &amp;de ne point",
+            "authoriſer par noſtre impenitence la fureur de ſon Ire, qu’il ré",
+            "pandra ſur nos teſtes au iour de ſes vengeances, &amp; de ſes",
+            "iuſtes",
+            "chaſtimens, alors qu’il iugera les malices les plus cachées, &amp; qu’il",
+            "reuelera les turpitudes les plus ſecrettes, empliſſant de confuſion",
+            "&amp; de honte ceux qui triomphent auiourd’huy de leurs malices.",
+            "Le 1. Iuin 1652 iourde S. Brnabe Apoſfre ſe portera proceſſionnellement &amp;",
+            "en grande &amp; deuote ceremonie par l Ville de Paris, la Chſſe où ſont enfermee",
+            "les Reliques de la graende Sainte Geneuieſue Patrone de cete ille; Afn que",
+            "parſon nterccion il pliſe à Dieu detourner ſa colere, &amp; regarder de ſon il",
+            "miſericordieux ler pauures peuples de ce Royaume aflgez de toutes pars.",
+            "es prieres &amp; Proceſſions pabliques ont eſe auſſ d’abondant ordonnées per",
+            "eee le nene e le ee ele lele eerne il",
+            "Monſeun l’Areheaeſque dans eutes les Egliſes de ladte vlle, depuis le 17.",
+            "leur Parroißiens d’ppliquer leurs Commanonr, &amp; ſaeire chacun leurs prieres",
+            "a Dieu pour la perſonne du Roy &amp; e la Paix de ſon Eat.",
+            "Toaut le Royaume peut ſe ſeruir de ce bon Exemple pour ſon profs."
+        ],
+        [
+            "De l’Imprimerie de Iean de la Caille Imprimeur Ordinaire",
+            "du Roy, ruë S. Iacques aux trois Cailles. 1642"
+        ]
+    ]
+}

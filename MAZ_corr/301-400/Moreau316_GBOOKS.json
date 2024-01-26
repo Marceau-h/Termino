@@ -1,0 +1,120 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "subject": [
+            "Police",
+            "Alimentation"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement portant règlement pour la\n          police du pain.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-07",
+                "#text": "juillet 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
+            "persName": {
+                "forename": "Veuve de Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "’oo9",
+            "ARRES T",
+            "DE LA COVR",
+            "DE PARLEMENT,",
+            "Portant Reglement pour la Po",
+            "lice du Pain.",
+            "3",
+            "De lmpeimerie de l Vae ’ cvLEMoT,",
+            "Imprimeuſe ordinaire de ſon Alteſſe Royale",
+            "rue des dlarmoueres prochel’Eiſe",
+            "&amp;"
+        ],
+        [
+            "t,",
+            "V’p’’’epé etpp&amp;é.",
+            "YTRAICT DeSREISTRES",
+            "de Parlement.",
+            "é E jour la Cour, toutes les",
+            "9 Chambres aſſemblées, ayant",
+            "deliberé ſur l’eſtat des affaires",
+            "preſentes, &amp; defaut &amp; manquement",
+            "de pain, &amp; oüy ſur ce Bechefert Sub",
+            "ſtitut pour le Procureur General du",
+            "Roy: A arreſté &amp; ordonné que les",
+            "Arreſts cy-deuant donnez en l’anné́e",
+            "ſix cens quarante-neuf pour la police",
+            "du pain ſeront executeés, enjoint aux",
+            "Boulangers d’y ſatisfaire exactement,",
+            "&amp; ſuiuant iceux tenir leurs boutiques",
+            "&amp; Marchez garnis de toute ſorte de",
+            "pain; leur fait defenſes d’augmenter",
+            "le prix du pain du matin à la releuée.",
+            "Permet aux Paticiers, Compagnons",
+            "lnue re i eieoreſe reu elene"
+        ],
+        [
+            "tes de pains, meſmes d’vn ſol &amp; deux",
+            "ſols, &amp; au deſſus. Ordonne, que les",
+            "Moulins eſtans cy-deuant és Com",
+            "munautez &amp; Maiſons particulieres",
+            "ſeront ré́tablis. Enjoint aux Muſniers",
+            "de moudre inceſſamment &amp; fidelle",
+            "ment les grains qui leur ſeront baillez.",
+            "Et aux Officiers de la Police, tenir la",
+            "main à̀ l’execution deſdits Arreſts &amp;",
+            "du preſent, lequel ſera ce jourd’huy",
+            "publié &amp; affiché par tous les Carre",
+            "fours de cette Ville &amp; Faux bourgs",
+            "à ce que nul n’en pretende cauſe d’i",
+            "gnorance. Fait eu Parlement ce qua",
+            "tríme jour de Iuillet mil ſix cens",
+            "cinquante-deux.",
+            "e 1 y e",
+            "Signé, DV TILLET.",
+            "Collaronne à l’Original parn pmoy Coſeillej",
+            "&amp; Secretaire du Roy, Maiſon &amp; Couroas",
+            "de France, &amp; deſes Finances."
+        ]
+    ]
+}

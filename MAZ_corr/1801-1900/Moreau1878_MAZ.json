@@ -1,0 +1,173 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "lettre",
+            "traduction"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-01-08",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-14",
+            "@who": "AB"
+        },
+        "titre": "Lettre d'un gentilhomme italien à un François son ami,\n          sur l'enlèvement du roi très chrétien, traduite par P. D. P., sieur de Carigny.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@source": "Mazarine",
+            "persName": "Alessandro"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-01",
+                "@notAfter": "1649-03",
+                "@when": "1649",
+                "#text": "pendant le blocus de\n            Paris"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000110423830",
+            "@xml:id": "IL_LaVigneNicolasde.xml",
+            "persName": {
+                "forename": "Nicolas de",
+                "surname": "La Vigne"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "D’VN GENTIL-HOM.",
+            "me Italien à vn François, ſon",
+            "amy, ſur l’enleuement du",
+            "Roy tres-Chreſtien.",
+            "TRADIVTE PAR. P. D. P.",
+            "Sieur de Carigny.",
+            "A PARIS,",
+            "Chez NICOLAS DE LA VIGNE",
+            "pres Sainct Hilaire.",
+            "M. DC. XLIX."
+        ],
+        [
+            "ſuis Italien. Toutefois ceux qui prendront la pei",
+            "ne de lire ce qu’elle contient. qui ſeront ſans dou",
+            "te les honneſtes gens de voſtre Royaume, con",
+            "noiſtront aiſement que ie ſuis de l’humeur de ce",
+            "Philoſophe qui ſe diſoit habitant de tout le mon",
+            "de. Ie condamne le vice aueuglement, &amp; ſi Ma.",
+            "arin eſt l’autheur des maux que ſoufſie la Fran",
+            "ce, eroye que ie eray le premier à prononcer",
+            "l’Arreſt de ſa condemnation, &amp; que ie pourſui",
+            "urois vn criminel de cette ſorte iuſques deſous la",
+            "pourpre Pour vous dire ce que i’en penſe, cher",
+            "Acanthẽ, ie ne voy rien de ſi aymable entre les",
+            "anciens que les Heros qui ſe ſont expoſez aà̀ la",
+            "mort pour le ſalut de leur patrie, &amp; il n’y a point",
+            "d’endroit’ou ie m’arreſte ſi long-tems, dans Va.",
+            "lere Maxime qu’en celuy où il traire de ces ver",
+            "tueux de l’antiquité. Au reſte iay appris auec",
+            "grande conſolation qu’il ſe trouue chez vous des",
+            "Heros de cette ſorte, &amp; que vos Panlemens ſont",
+            "remplis de ces ames genereuſes, qui ſont des rem",
+            "parts, &amp; des Citadelles imprenables, &amp; d’ou il",
+            "ſort des foudres contre les traiſtres, &amp; contre les",
+            "perturbateurs de l’Eſtat. Il y a plaiſir d’eſtre con",
+            "ſerué par des teſtes ou la ſageſſe prefide, &amp;ce ſont",
+            "autant de Minerues quiconſeruent la Reyne des",
+            "villes. Ce m’eſt vn ſenfible regret que la France",
+            "ayt aà ſe plaindre encore vne fois de l’ltalie: Il",
+            "ſemble"
+        ],
+        [
+            "ſemble qu’ily ayt en cela quelque fatalité, &amp; que",
+            "ce grand Royaume ne puiſſe eſtre troublé́ que",
+            "pa des eſtrangers, quoy qu’il ſoit meſme le refu.",
+            "ge, &amp; le gloreux Aile des eſtrangers perſecu",
+            "rtez. Ilfaut auoü̈er qu’ils ſont d’autant plus cou.",
+            "pables qu’ils imitent ces hoſtes qui pour la re.",
+            "compenſe de l’hoſpitalité́ mettent le feu aux",
+            "lieux qui leur ont ſeruy de retraitre. Mais apres",
+            "i’admire cette grande vnion de toutes les Prouin.",
+            "ces qui compoſent ce grand Corps, &amp; plus que",
+            "tout le reſte encore, cetre tranquilité du peuple",
+            "de Paris dans cette mauuaiſe conioncture. L’a.",
+            "euglement de vos Miniſtres eſt eſtrange; la",
+            "Prouidence de Dieu miraculeuſe, &amp; ie croy qu’en",
+            "ce point les choſes ont eſté tout au contraire de",
+            "leur penſée. C’eſt vne marque infſaillible que",
+            "Dieu prenl vn ſoin particulier du throſne dvn",
+            "Prince pupille, dont on dit que les vertus naiſ",
+            "ſantes font attendre de grande choſes de luy",
+            "pour le bien du peuple, &amp; pour la grandeur de a",
+            "Couronne. La vertu eſt le plus beau fleuron de cé́t",
+            "ornement de la teſte des Roys, &amp; les peupleso",
+            "heiſſent auec plaiſir à la vertu couronnée. C’e",
+            "ce que la renommée raconte icy de ce grand Mo",
+            "arque que le Mazarin a enleué hors de Paris",
+            "ſous de faux pretextes, &amp; qui n’ont aueune ap",
+            "parance de verité. Ie penſe qu’il n’eſt pas encore"
+        ],
+        [
+            "!",
+            "31",
+            "aà ſe repentir de cette fate, &amp; pour moy ie me",
+            "figure que cõme il eſt accouſt mé à prédre, qu’il a",
+            "voulu ous derober ce precieux treſor. Ilne pou",
+            "uoit faire vn plus lluſtre larcn:mais celas’appelle",
+            "forcer la vertu, lors que l’on ne la pratique pas.",
+            "Sans doute, c’eſt vne rude ſecouſſe pour vn",
+            "Eſtat, de ſe voir enleuer ſon Maiſtre par vn",
+            "Etranger, &amp; ie trouue que l’on a raiſon de com",
+            "pare la Pohtique à la Science des Nautonniers.",
+            "&amp; les Royaumes à des Mers, puis que les Eſtats.",
+            "ont leurs tempeſtes &amp; leurs écueils auſſi bien que",
+            "l’Ocean. Ie ne doute pas que le Mazarin n’y faſ",
+            "ſe naufrage, los que tant de vents ſoufflent de",
+            "routes parts pour l’y enſeuelir. Oüy, cher",
+            "Achante, à moins que d’auoir vn Ange bien puiſ",
+            "ſant, on ne ſe garentit pas facilement de ces ren",
+            "contres. Ce Miniſtre eſt en eerorion à tour ce",
+            "qu’il y a d’ames viuantes. &amp; quelque ſoin que",
+            "i’aye apporré icy pour découurir des partieulari",
+            "rez de ſa naiſſance, ie n’ay ſeu trouuer qui ayt pû",
+            "m’en inſtruire auec certitude. Si ie puis en ap",
+            "prendre quelque chole, ie ne manqueray pas de",
+            "vous le fare ſç̧auoir par la premiere commodté.",
+            "Vous ne deuez point craindre d’auoir intelligen",
+            "ce auec moy, ie penſe que noſtre amitié, &amp; mon",
+            "humeur vous ont oſté cette crainte, &amp; ie ne dois",
+            "iamais eſtre ſuſpect à ceux qui me connoiſſent."
+        ],
+        [
+            "7",
+            "e hay les Tyrans, &amp; croyez que ie ſeray touſ,",
+            "iours de voſtre party, comme eſtant",
+            "Cher ACANTHE,",
+            "De Liuorne.",
+            "Voſtre tres-humble, &amp; tres",
+            "affectionné ſeruiteur",
+            "ALESSANDRO"
+        ]
+    ]
+}

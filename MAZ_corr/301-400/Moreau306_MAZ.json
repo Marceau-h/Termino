@@ -1,0 +1,127 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant cassation de la\n          déclaration, donnée contre monseigneur le prince de Condé.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-01-12",
+                "#text": "daté du 12 janvier 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121408134",
+            "@xml:id": "IL_VivenayNicolas.xml",
+            "persName": {
+                "forename": "Nicolas",
+                "surname": "Vivenay"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "Portant caſſation de la Decla",
+            "ration donnee contre Monſei",
+            "gneur le Prince de Condé.",
+            "A PARIS,",
+            "Chez NICOLAS VIVENAY, en ſa Bouti",
+            "que au Palais.",
+            "M. DC. LII."
+        ],
+        [
+            "ARREST DE LA COVR",
+            "de Parlement.",
+            "CE iour toutes les Chambres aſſen",
+            "blé́es, Monſieur le Duc d Orleans y",
+            "LAeſtant, ayant deliberé le iour d’hyer",
+            "&amp; cedit iour ſur la Lettre du Sieur Prince de",
+            "Condé: creance par luy donneée, &amp; ſa Re",
+            "queſte contenüe au Regiſtre dudit iour",
+            "d’hyer, enſemble ſur le recit fait ledit iour",
+            "par vn Officier de ce qui s’eſt paſſé à Pont",
+            ". Sur- onne &amp; és enuirons, &amp; ſur les con",
+            "cluſions du Proecureur General du Roy, &amp;.",
+            "lettres miſſiues de Maiſtre Iacques de Ge",
+            "niers Conſeiller en la Coudr, que l’vn deſ",
+            "dits Conſeillers d’icelle a preſenteées ledit",
+            "iour.",
+            "Aarreſté &amp; ordonné que d’Office, aà la",
+            "equeſte du Proeureur General, il ſerain",
+            "formé du fait arriué à Pont-Sur-onne &amp;",
+            "s enu rons, le neufviéme de ce mois, &amp; à̀",
+            "cette fin que ledit Officier, oüy par la Cour",
+            "ne e renda ſa depoſinos pur deuantllſree,",
+            "eolas Cheuallier, &amp; lean Doujat Corſeillert?",
+            "du Roy en icelle: Que Monſieur le duc"
+        ],
+        [
+            "d’Orleans, ſera prieé d’enuoyer vn Trom",
+            "pette, redemander &amp; faire rendre Maiſtre",
+            "Prançois Bitaut, Conſeilleren ladite Cour;",
+            "&amp; que la Requeſte dudit ſieur rince de",
+            "Condé, enſemble la lettre de creance du",
+            "porteur d’icelle, ſeront enuoyez aux depu",
+            "tez de ladite Cour à Poictiers, &amp; copie de la",
+            "depoſition dudit Officier arriué de pont",
+            "Sur-onne, pourremonſtrer tres humble",
+            "ment audit Seigneur Roy, l’importance du",
+            "contenu en ladite Requeſte; &amp; les maux",
+            "ineuitables que commencent aà̀ produire &amp;",
+            "apportera à l’aduenir le retour du Cardinal",
+            "Mazarin en ſon Royaume: Cepédant ſeront",
+            "la Declaration du Roy &amp; Arreſts, donnés",
+            "contre ledit Cardinal executés, faititeratriue",
+            "deffences à rous ſujets dudit Seigneuroy,",
+            "d’y contreuenir &amp; de donner paſſage, nyre",
+            "connoiſtre le Mareſchal d’Hocquincourt &amp;",
+            "utres quiaſſiſtent ledit Cardinal en quali",
+            "té de commendants les trouppes du Roy:.",
+            "Et outre a eſté ordonné qu’il ſera ſurcis al’e",
+            "ecution de la Declaration &amp; Arfeſt de ve",
+            "Ffication du cinquiéme Decembre dernier,",
+            "iuſque à ce que la Declaration dudit Sei",
+            "dneur Roy, du ſiiéme de Seprembre der",
+            "nier, &amp; Arreſts rendus en conſequence, con",
+            "tre ledit Cardinal ayent plainement &amp; en¬"
+        ]
+    ]
+}

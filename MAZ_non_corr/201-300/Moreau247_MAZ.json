@@ -1,0 +1,67 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſte",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Militaires",
+            "Impôts",
+            "Aliments – Approvisionnement"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-07",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant que taxes seront\n          faites sur tous les secrétaires, avocats, procureurs et autres particuliers, habitants de\n          cette ville et fauxbourgs de Paris, comme bourgeois, pour la subsistance des gens de\n          guerre.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "persName": "France. Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-02-16",
+                "#text": "16 février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": "Imprimeurs et libraires ordinaires du roi",
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "Arreſt de la Cour",
+            "DE PARLEMENT,",
+            "PORTANT QVE TAXES SERONT",
+            "faites ſur tous les Secretaires, Aduocats, Pro¬",
+            "cureurs &amp; autres Particuliers habitans de",
+            "cette Ville &amp; Faux-bourgs de Paris, comme",
+            "Bourgeois, pour la Subſiſtance des gens de",
+            "Guerre.",
+            "Du ſeizieme Février mil ſix cens quarante-neuf.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſte."
+        ]
+    ]
+}

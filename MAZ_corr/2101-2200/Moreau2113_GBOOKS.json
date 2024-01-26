@@ -1,0 +1,175 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-07-11",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-05",
+            "@who": "AB"
+        },
+        "titre": "Lettre du garde des sceaux envoyée à tous ceux qui\n          tiennent le parti du Mazarin, pour les faire sortir hors de Paris avant le 14\n          juillet.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121204991",
+            "@role": "speaker",
+            "persName": {
+                "forename": "Mathieu",
+                "surname": "Molé"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-07",
+                "#text": "datée de juillet 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": {
+                "forename": "Philippe",
+                "surname": "Ardoin"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DV GARDE",
+            "DES SCEAVX",
+            "ENVOYEE A TOVS CEVX",
+            "qui tiennent le parti du Mazarin,",
+            "pour les faire ſortir hors de Pais,",
+            "auant le 14. de Iuillet.",
+            "A PARIS,",
+            "Chez PHILIPPE ARDOIN, proche S. Eſtienne.",
+            "M. DC. LII."
+        ],
+        [
+            "3",
+            "3",
+            "DV GARDE DES",
+            "Sceaux, enuoyée à",
+            "tous ceux qui tier",
+            "nent le parti duMa",
+            "2arin",
+            "MESSIEVRS.",
+            "areque io vou ennoye eft",
+            "ſur l’avis que leRoy m’a donné du",
+            "deſſein qu’la de chaſtier les rebelles",
+            "deſa ville dë Paris, &amp; deleurfairevoir",
+            "apuiſlance. Ie croi que eelaſurpree",
+            "e..¬"
+        ],
+        [
+            ".",
+            "4",
+            "dra beaucoup de nos confreres, leſ",
+            "quels ne pouuans pas éviter l’orage!",
+            "quimenacë les Pariſieos; C’eſt pour¬J",
+            "quoy, Meſſieurs, i’ay voulu vous en p",
+            "dõner avis pournvſer deſurpriſe, afin5",
+            "deſauuer vosperſonnes, &amp; le Royma",
+            "oétroyé de l’eſcrire, afin d’auoir plus t",
+            "de liberté de vous rendre aupres de 1",
+            "leurs Maieſtez, Ie ſouhaitteextreme",
+            "meft que les Pariſiens foyent en eſtat",
+            "de ne pouuolrplus ſe rebeller contre",
+            "luy. Ie croy, Meſſieurs, que vous ſe",
+            "rez de mon ſentiment, ne doutant ſt",
+            "nullement de voſtre fidelit́, l’ayant l",
+            "fait paroiſtre ei beaucoupderencon¬ 1",
+            "tres, principalementaI’Hoſtelde Vil",
+            "le, dans l’oppreſſion ou vous eſtiez",
+            "reduits. Le Roy ma teſmoigń auoir1",
+            "vos ſeruicesfort agreables, ayant re",
+            "conni Fafection que vous auee fai",
+            "paroiſtreparmy l’orage d’vne popula¬ !",
+            "ce, qui ne demande rien mpis que",
+            "VOS"
+        ],
+        [
+            "vos vies, afin de les ſacrifier à leur",
+            "fureur &amp; brutalité. Meſſieurs les",
+            "Princes ont beaucoup de moyens",
+            "pour vous faire perir en retardans",
+            "voſtreſortle. Ie vous coniure de me",
+            "croire, &amp; de ne pas ifferer d’auan",
+            "tage voſtre voyage, &amp; de l’effectuer",
+            "au pluſtoſt que vous pourrex. Tay",
+            "eſté extreémement ſurpris lors que",
+            "’ayappris que la pailleeſtoit le ſignal",
+            "du party contraire, &amp; ie ne doute",
+            "point que vous ne luyi ayés mis plu",
+            "oſt par conerainte que par deuoir,",
+            "les peuples s’eſtant laſſez emporter.",
+            "a cette nouueauté, mais la paille luy",
+            "couſtera cher, ſa Maieſté a eſté tout",
+            "afait diſpoſee par le conſeil des plus",
+            "elez de noſtre parti de leur rendre",
+            "’eſchange de la trahſſon qu’ils ont",
+            "laite, en laiſſant entrer les rroupes",
+            "dans la ville, apres le comimandemét",
+            "qu’on leur auoit fairpar vne Lettie",
+            "B"
+        ],
+        [
+            "6",
+            "de Cachet, ne doutans nullement",
+            "de la defaite generale deſdites trou",
+            "pes, par laquelle tous les bons Suiets",
+            "du Roy euſſent eſté en repos. Voila,",
+            "Meſſieurs, tout ce que ie vous puis",
+            "mander pour voſtre conſeruation,",
+            "ie croy que vous neſerez pas enne",
+            "mis de vous meſaes, &amp; que vous",
+            "chercherez tous les moyens de con",
+            "ſeruer vos vies, ſi-neceſſaire à l’Eſtat",
+            "&amp; à mon reſtabliſſement. Ie ſuis ex",
+            "tremement faſché de n’auoir peu",
+            "vous faire voir mon affétion plt",
+            "ſtoſt, les deſordres m’en aians oſté́",
+            "les moiens, mais à preſent que ie",
+            "ſuis en liberté de dire mes ſentimens",
+            "que qui que ce ſe ne contredira,",
+            "voiant mes ennemis à mes pieds &amp;",
+            "reduits en vn eſtat de ne pouuoir",
+            "plus ce faire craindre, aiant eſté́ i",
+            "affoiblis de la ſeignée que les trou",
+            "pes duRoi leur ont faite quandnous"
+        ],
+        [
+            "ſerons enſemble nous parlerons d’a",
+            "uantage des Princes, &amp; en atten",
+            "dant ie demeure,",
+            "MESSIEVRS,",
+            "Voſtre affeionné ſeruiteur,",
+            "MOLE.",
+            "De S. Denis, ce.",
+            "Iuillet 652",
+            ".",
+            ". A2¬.21"
+        ]
+    ]
+}

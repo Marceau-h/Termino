@@ -1,0 +1,116 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Aliments – Approvisionnement – Bordeaux",
+            "Bordeaux"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-09",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Bordeaux, portant que\n          les maîtres boulangers de la présente ville achèteront des blés, pour faire magasin et les\n          convertir en farines , pour les nécessités du public.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1650-06-27",
+                "#text": "daté du 27 juin 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:6455058",
+            "#text": "Bordeaux"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121390552",
+            "@xml:id": "IL_MongironMillangesJacques.xml",
+            "persName": {
+                "forename": "Jacques",
+                "surname": "Mongiron Millanges"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE BOVRDEAVX.",
+            "Portant que les Maiſtres Boulangers de la preſente Ville achapte",
+            "ront des bleds, pour faire magaſin &amp; les conuertir",
+            "en farines, pour la neceſſité du public.",
+            "A BOVRDEAVX,",
+            "Par I. MONGIRON MILLANGES, Imprimeur",
+            "ordinaire du Roy. 1650."
+        ],
+        [
+            "EXTRAICT DES",
+            "Regſtres ’de Parlement.",
+            "ſ Cour delberontu",
+            "éſ la neceſslté des aſfaires",
+            "y preſentes, &amp; ſur la con",
+            "ſeruation de la preſen",
+            "te Ville, &amp; maintien du peuple",
+            "dans le repos &amp; l’obeyſſance; Ouy",
+            "ſur ce le Procureur General du",
+            "Roy a Ordonne &amp; Ordonne, que",
+            "les Maiſtres Boulangers de la pre",
+            "ſente Ville achepteront chacun",
+            "d’eux dans huictaibe, quatre cens",
+            "boiſſeaux de froment pour en faire",
+            "magazin, ſans y toucher qu’en cas",
+            "de neceſsités Etcependant leur en",
+            "8-s ¬¬,4,, a¬,",
+            "A2"
+        ],
+        [
+            "4",
+            "joint d’achepter d’autres bleds qui",
+            "ſeront portés de iour ea iour ſur le",
+            "Port &amp; Haure de ladite Ville, &amp; le J",
+            "conuertir inceſſamment en farine",
+            "&amp; en pain par chacuniour, pour la",
+            "neceſsité des lHabitans de ladite",
+            "Ville, autrement &amp; en cas de refus",
+            "ou dilayement faict &amp; affecté par",
+            "leſdits Boulangar ſera pourueu",
+            "par lhdite Courenl leu lieu &amp; pla",
+            "ce, d’autres prſues dapables",
+            "pour faue d dobtrdupbaſauſdits",
+            "Habitanb, aoefdedituhſan",
+            "gers amſi quid apptieldr, Eae",
+            "aBourdleax en Paſetevhge? J",
+            "feptleſmo uain mit ſix oe i",
+            "pu Vn an",
+            "quanme.li",
+            "Signés DE PONTAC."
+        ]
+    ]
+}

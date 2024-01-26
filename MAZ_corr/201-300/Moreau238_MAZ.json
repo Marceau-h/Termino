@@ -1,0 +1,91 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "France. Trésor royal",
+            "Impôts – Auvergne (France)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant que les\n          quarante-six mille livres, provenant de la recette générale de l'Auvergne, seront\n          apportées dans cette ville, et mis ès coffres de l’hôtel d’icelle.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01-31",
+                "#text": "31 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT.",
+            "Portant que les quarente-ſix mil liures pro",
+            "uenant de la recepte generale d’Auuergne,",
+            "ſeront conduits en cette Ville, &amp; mis és",
+            "coffres de l’Hoſtel d’icelle.",
+            "Du trentieſme Ianvier mil ſix cens quarante-neuf.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "4",
+            "lieux, tenir la main à l’execution du preſent Arreſt, y",
+            "donner confort &amp; eſcorte ſi beſoin eſt; Et à ce faire",
+            "ſera ledit Mirlahau ou autre faiſant la conduire,",
+            "contraint par toutes voyes deuës &amp; raiſonnables;",
+            "nonobſtant tous empeſchemens, oppoſitions &amp; ap",
+            "pellations quelconques faites &amp; à̀ faire, en vertu du",
+            "preſent Arreſt, lequel ſera executé en vertu de l’Ex",
+            "traict. Fait en Parlement le trentieſme lanvier mil ſix",
+            "cens quarante-neuf.",
+            "r J",
+            "Signeé, DV TILLET.",
+            "Collationné à l’original par moy Conſeiller",
+            "Secretaire du Roy &amp;y de ſes Finances."
+        ]
+    ]
+}

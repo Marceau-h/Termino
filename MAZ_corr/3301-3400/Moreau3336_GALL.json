@@ -1,0 +1,163 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "rhétorique délibérative",
+            "remontrances"
+        ],
+        "subject": [
+            "Nesmond, François-Théodore de, 1598-1664",
+            "Paris (France)",
+            "Louis, roi de France, XIV, 1638-1715"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-10-06",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-07-20",
+            "@who": "MF"
+        },
+        "titre": "Remontrances de femmes des plus gens de bien de Paris,\n          autorisées de leurs maris, à Son Altesse Royale.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1652-09-07",
+                "@when": "1652",
+                "#text": "après le 7 septembre 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "REMONSTRANCES",
+            "DE FEMMES",
+            "DES PLVS GENS DE BIEN",
+            "DE PARIS,",
+            "AVTHORISEE",
+            "DE LEVRS MARIS.",
+            "A SON",
+            "ALTESSE",
+            "ROYALE.",
+            "A PARIS.",
+            "M. DC. LII."
+        ],
+        [
+            "3",
+            "REMONSTRANCES",
+            "de Femmes des plus Gens",
+            "de bien de Paris, authoriſées",
+            "de leurs Maris.",
+            "A ſon Alteſſe Royale.",
+            "ONSEIGNEVR,",
+            "TNous auons eſté deſeſperees",
+            "Q-&amp; quant voſtre Alteſſe nous a dit",
+            "qu’elle ne pouuoit faire la Paix,",
+            "vû qu’il ne tient qu’à elle, &amp; que cela ne dépend",
+            "qu’à executer ſes Declarations, &amp; tenir ſa parole;",
+            "&amp; d’enuoyer au Roy ſa Declaration en bonne for",
+            "me, pour renoncer aux Ligues &amp; Aſſociations, tant",
+            "Eſtrangeres, que dans le Royaume. L’affermiſſe",
+            "A ij",
+            "-e---enrr-aee",
+            "¬-e,¬..¬¬..¬¬eep¬"
+        ],
+        [
+            "ment de la Paix ne dependant que de ſe tenir prés",
+            "de la Perſonne du Roy, &amp; de ne séloigner iamais",
+            "de ſes Conſeils, quelque deffiance que luy puiſſent",
+            "donner les Ennemis de noſtre repos: Si Voſtre Al",
+            "teſſe Royale n’eſt point touchée de nos miſeres,",
+            "&amp; qu’il ne luy plaiſe pas de ſe ſeruir d’vn moyen",
+            "ſi aiſé pour nous donner vne profonde Paix, Vo",
+            "ſtre Alteſſe Royale ne peue pas trouuer mauuais",
+            "que refuſant de ſatisfaire à des demandes ſi juſtes",
+            "de ſa Majeſté, nous luy rendions nous autres nos",
+            "obeiſſances aueugles; Autrement ſi vous y trou",
+            "uiez à redire, il ſembleroit que vous nous vouluſ",
+            "ſiez inſtruire à la rebellion; ce qui ſeroit de tres",
+            "mauuais exemple, &amp; de tres-pernicieuſe conſe",
+            "quence pour Voſtre Alteſſe meſme: Et puis nous",
+            "auons appris par la fatale experience des maux",
+            "que nous ſouffrons, qu’il ne ſe faut iamais meſler",
+            "des Affaires des Grands qui trouuent touſiours",
+            "leur ſeureté quant ils trouuent leur compte.",
+            "Nous vous proteſtons donc, Monſeigneur, que",
+            "puis que nous ne pouuons jouïr de la Paix par vo",
+            "ſtre moyen, que nous ne la receurons que de la pu",
+            "re miſericorde de Dieu, &amp; de noſtre Roy; &amp; que",
+            "quelque terreur que taſchent d’imprimer dans nos",
+            "Eſprits les Factieux, que la Cour nous veut perdre",
+            "auec Paris; Nous ne nous laiſlſerons iamais leduire",
+            "par",
+            "Laa",
+            "¬"
+        ],
+        [
+            "1",
+            "l",
+            "par ces bruits Seditieux, &amp; le Roy nous faiſant bien",
+            "voir par ſes Declarations, &amp; par la derniere Am",
+            "niſtie, meſme qu’il excuſe l’Vnion de la Ville auec",
+            "vous, donnant à connoiſtre qu’elle n’a eſté con",
+            "cluë que par le Feu, par le Fer, &amp; par l’Outra",
+            "ge qu’on fit au Parlement. Voyant donc la voye",
+            "de recouurer noſtre liberté, quoy que vous fer",
+            "miez à tout le monde les Portes de la Ville, pour",
+            "empeſcher que les bien-affectionnez au Roy ne",
+            "luy en aillent rendre le teſmoignage; Nous ne",
+            "laiſſerons pas neantmoins perdre vne ſi belle oc",
+            "caſion pour ouurir les portes de nos Cœurs au",
+            "Roy, ou perſonne doreſnauant n’aura entrée que",
+            "ceux qui ſeront bien vnis à ſa Majeſté; Et toutes",
+            "renfermées que nous ſommes dans nos murailles",
+            "par le deſny de vos Paſſe-ports, nous allons ren",
+            "dre les deuoirs au Roy d’vne façon dont ſe ſou",
+            "uiendra la Poſterité: Et encore que nous ne ſoyons",
+            "aſſeurées maintenant que de vingt mil hommes,",
+            "ſans nous compter, Nous nous en allons à rous les",
+            "Quar tiers de Paris, &amp; à toutes les Maiſons, de",
+            "porte en porte, pour exhorter chacun à obeir au",
+            "Roy: Et nous eſperons par la grace de Dieu, &amp;",
+            "par les ſoings que nous prendrons, que nous au",
+            "rons vne aſſeurance dvne ferme fidelité de ſer",
+            "uice qu’on luy doit; &amp; qu’on ne ſuiura plus à",
+            ",",
+            "-prp-eemaarr¬¬",
+            "e,4- rraoaa a- rea -ree -rr-ve . Tvev-maav¬-a.aree-¬ooaoe-",
+            "¬....L-e.e oeee--"
+        ],
+        [
+            "Paris d’autres Ordres que ceux de ſa Majeſté: ne",
+            "penſant pas que le Preſident Neſmond, ny que",
+            "Ferrand ſon Commis ayent la hardieſſe de nous",
+            "enuoyer des Drilles, pour vſer du terme du Duc",
+            "de Beaufort, pout nous faire payer la Taxe de",
+            "nos Maiſons.",
+            "FIN."
+        ]
+    ]
+}

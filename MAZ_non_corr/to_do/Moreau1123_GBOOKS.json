@@ -1,0 +1,189 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Discours fait par les députés du parlement de\n                    Provence dans le parlement de Paris, toutes les chambres assemblées, ensemble la\n                    réponse de monsieur le premier président, avec l'arrêt de ladite cour, des 15 et\n                    28 janvier 1649.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "sl",
+            "1",
+            "e"
+        ],
+        [
+            "e",
+            "le nu",
+            "E",
+            "¬",
+            "¬ ¬",
+            ":",
+            "l.",
+            "2",
+            "a",
+            "¬",
+            "oaumanCo"
+        ],
+        [
+            "g",
+            "d",
+            "3",
+            "o de",
+            "eap,",
+            "DISCOVRS FIT PAR LES",
+            "Deputez du Parlement de Prouence.",
+            "ES Deputez du Parlement de Pro¬",
+            "uence ont dit, Que leur Compagnie",
+            "ayant procuré de leurs propres de¬",
+            "niers le recouurement des lſles de",
+            "Sainct Honnorat &amp; Saincte Margue¬",
+            "rite ſur les Eſpagnols; peu apres &amp;",
+            "depuis ſept anneé́es ont eſté contraints ſouffrirvne",
+            "Chambre des Requeftes, ſans que l’Edict fuſt veri¬",
+            "fié, dont les Officiers ont voulu auoir ſeance, quoy",
+            "qu’ils ne fuſſent que Commiſſaires, fans y auoin",
+            "eſté examinez ny receus, ſ’y eſtans maintenus par",
+            "les frequentes citations de tous les Conſeillers, &amp;",
+            "meſme des premiers Preſidens adit Parlement; Et",
+            "qu’apres vne ſi longue agitation depuis treize mois",
+            "les meſmes Officiers des Requeſtes preuoyans que",
+            "leur eſtabliſſement volent ne pouuoit eſtre ſtable,",
+            "firent le projet de rendre ledit Parlement Seme¬",
+            "ſtre, &amp; donnerent commencement à̀ ce deſſein ſi",
+            "funeſte aà toutes les Compagnies du Royaume:",
+            "Trois Intendans de Iuſtice, auec les armes du Gou¬",
+            "A ij"
+        ],
+        [
+            "4",
+            "uerneur, les mirent en poſſeſſion. Vn mal-heur ¬ſi",
+            "ineſperé ayant ſurpris le Parlement, il ereut par",
+            "ſon obeiſſance rendre ſes oppoſitions plus fauora¬l",
+            "bles, &amp;e que ſa ſubrmiſiondeſtoumeaoiteeioruse!",
+            "Il eut recours à la Iuſtice du Roy par diuerſes depu¬",
+            "tations, oſfrant les meſmes ſommes: Mais au ſieu",
+            "d’eſtre eſcouté́, la plus grande partie d’iceux fut",
+            "relegueée auec leurs familles par Lettre de Cacher",
+            "en diuers lieux, tant dedans que dehors le Royau¬",
+            "me, apres auoir eſteé́ criez à ſon de Trompe en tou¬",
+            "tes lesVilles dela Prouince par Ordonnãce du Gou¬",
+            "ue e e e e eoe e enre eleeſe",
+            "de guerre. Ce bannſſement a duré iuſques aumois",
+            "paſſé, où la pourſuite des meſmes Deputezſembloit",
+            "auoir touché la clemence du Roy, apres que les",
+            "ſoins de cét auguſte Parlement auoit obienu le",
+            "eieieine eiei",
+            "ſoulagement de tout le Royaume, par la Decla¬",
+            "Atreſt qui confirmoit le Semeſtre, &amp; defenſes aux",
+            "vieux Offitiers de rentrer dans leurs Charges, dont",
+            "ils ont eſté touſiours priuez depuis cé́t eſtabliſſe¬",
+            "ment: Et de plus, vint nouuelles Lettres de Cachet",
+            "enuoyeé́es au Gouuerneur, pour reexiler ceuxqui",
+            "ne faiſoient que d’arriuer dans leurs maiſons, ſans",
+            "que les vœux de tous les Ordres de la Prouince, qui",
+            "ſouſpiroient pour le retour de leurs Magiſtrats le¬",
+            "gitimes, fuſſent eſcoutez, auec leſquels ils eſpe¬",
+            "roient",
+            "l"
+        ],
+        [
+            ".¬¬¬¬",
+            "peroient le recouurement de leurs Prinileges ſacri¬",
+            "fiez à l’ambition de ceux qui vſurpoient leurs Di¬",
+            "gnitez",
+            "Leſdits Deputez ſe voyans maintenant priuez",
+            "de toute ſorte d’eſpoir, par le prompt &amp; inopiné",
+            "départ du Roy, ont eſtimé que la Cour leur ac¬",
+            "corderoit le ſecours charitable qu’vne Compagnie",
+            "affliǵe pourroit eſperer, puis qu’elle n’a amais",
+            "manqué de fidelité ny dobeiſſance, Et qu’elle con¬",
+            "demneroit vn cſtabliſſement violent qui ne tend",
+            "qu’à ſubuerſion de la luſtice, lit ne dénieroit pas",
+            "ſon interuention a ceux qui ont l’honnur de porter",
+            "vn meſme caractere, &amp; qui ont vne meſme paſſion",
+            "d’expoſer leurs vies pour le ſeruice du Roy &amp; les",
+            "proſperitez de l’Eſtat, &amp; pour le repos &amp; la digni¬",
+            "téde cette Compagnie.",
+            "Monſeur le Premier Preſident leur a reſpondi, que cd’e¬",
+            "ftoit auec regrer, que l’on entendoit le narré de leurs ma!.¬",
+            "heurs, que la Compagnie ſouhaittoit eſtre aſſeZ puiſſante",
+            ".",
+            "pour y apporter les remedes, Qu’il importe d’en deiiberer,",
+            "faire en ſorte par la reſolurion en eſſayant de les conſeruer,",
+            "ne defaillir a elle-meſme."
+        ],
+        [
+            "---¬.¬.. -¬-¬-m-¬¬¬,",
+            "Eetraict des Regiftres de Parlement.",
+            "E loun la Counr toutes les Chanbestl",
+            "u",
+            "Itle ſambles, delibennt ſut leſlablirenme",
+            "te5",
+            "i da nouueau Snetre feait depu qui",
+            "E",
+            "e ue enne ea ene en ſepne n",
+            "penue, Ee pes auoir ouy deu conſeſilen du",
+            "lene ne le l e ne oni r aun pn eieu",
+            "l eone nie leliei lenene e le oe lnenee",
+            "e nioilile leonſrnes ſenu ſe e n er",
+            "&amp; l la lene leeoue ſur l erenre e lei",
+            "lens dade donedre, ur i Counr ren e.",
+            "3 e n auoir eis ſit ore les o",
+            "lnaunre le qu ds ne an ira eus qu lune e",
+            "lue e oednaesdou roueun eneſe oer e",
+            "piſonnes pries En oune ple n e pue pno",
+            "elen e oriens de coun oe eine ner",
+            "on les edabliemens de Seneſes nouuau ſ",
+            "diſae bieun &amp;s dienens veie en ie eur r",
+            "diones e lneapables de ous honneun pui",
+            "es e denres e Compnones Souurue tt",
+            "ee lene ne le oee huineſn lunier pii",
+            "cens quarante neuf",
+            "Signé, DV TILLET.",
+            "Jr 15 1 e ¬",
+            "Codlaionmé à l’originual par oy Corſiu",
+            "Secretaire de Roy &amp;r de ſes Fimanee,"
+        ]
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Épernon, Bernard de Nogaret de La Valette (1592-1661 ; duc d')",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-09",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Bordeaux, portant\n          inhibitions et deffenses, au sieur duc d’Épernon, de prendre et usurper, à l'advenir, les\n          qualités de très- haut et très-puissant prince et d’altesse, et à toutes personnes de les\n          lui bailler.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1650-04-15",
+                "#text": "mi-avril 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000367213580",
+            "@xml:id": "IL_SassierGuillaume.xml",
+            "persName": {
+                "forename": "Guillaume",
+                "surname": "Sassier"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE BOVRDEAVX",
+            "Portant inhbitions &amp; deffences au Sieur Duc d'Eſ",
+            "pernon, de prendre &amp; uſurper à l'aduenir les qualitez",
+            "de très-haut &amp; tres-puiſſant Prince &amp; d'Alteſſe , &amp; à tou",
+            "tes perſonnes de les luy bailler.",
+            "Iouxte la copie Imprimée à Bourdeaux chés I. M.",
+            "Millanges, imprimeur ordinaire du Roy.",
+            "ET A PARIS,",
+            "Chés GVILLAVME SASSIER, Imprimeur &amp; Li",
+            "braire ordinaire du Roy, ruë des Cordiers,",
+            "proche Sorbonne, aux deux Tourterelles.",
+            "M. DC. L."
+        ],
+        [
+            "3",
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE BOVRDEAVX",
+            "EXTRAICTS",
+            "Regiſtres de Parlement.",
+            "SVR ce qui a eſté tepreſenté ̀",
+            "é la Ccour par le Proeureur Gns",
+            "leeae nil drs len e Cdoe lilens nue le",
+            "a: ſieur Duc- d’Eſpernon h’ait aucun",
+            "droict deſe qualifier tees-haut &amp; puiſſant",
+            "Prince par priuilege de naiſſance, ny par le",
+            "droict &amp; poſſeſſron d’aucune terre en Do",
+            "maine, qui luy puiſſe donnen cette preroga",
+            "iue &amp; qualié e Neantmoins il la prenda&amp;",
+            "2,l",
+            "A ij",
+            "9"
+        ],
+        [
+            "vſupe’inleeneit en tous Actes, Ordon",
+            "nances,’Contracts &amp; Requeſtes qu’il ſe fait",
+            "preſenter par les Conſuls des villes, &amp; par les",
+            "parcies qui s’adreſſent a luy contre leur deuoir,",
+            "&amp; les inhibidons qui leur ont eſté́ cy- deuant",
+            "faitês; &amp; e plus vſurper la qualirté d’Alteſſe,",
+            "laquelle non plus que celle de tres-haur &amp;",
+            "puiſſant Prince, n’apartient qu’aux Princes",
+            "du lang Boyal priuatiuement à tous autres.",
+            "Au hoyea dequoy ledi’Procureur general",
+            "a requis qu’il plaiſe aà̀ la Cour y pouruoir",
+            "&amp; ce fiſant, inhiber &amp; deffendre audit Sieur",
+            "d’Eſpernon, de prendre &amp; vſurper leſdites",
+            "qualitez, &amp; à toutes ſortes de perſonnes d",
+            "les luy donner à peine de dix mil liures, &amp;",
+            "d’autre plus grande ſi le cas y eſchoit; Et",
+            "que leſdites qualités ſeront rayées en tous",
+            "Actes, Contracts &amp; Requeſtes. LA COVR,",
+            "ayant eſgard aux concluſions du Procureur",
+            "General, a fait &amp; fait inhibitions &amp; deffen.",
+            "ces formelles&amp; exproſſes audit Duc d’Eſ.",
+            "pernomi, de prendre &amp; vſurper à l’aduenir",
+            "leſdites qualiez de tres haut &amp; puiſſant",
+            "Prince &amp; d’Alreſſe, à peine de trente mil li",
+            "ures; d&amp; à toutesſortes de perſornes, Cont",
+            "ſulsg qmnmurto particullezs &amp; heſ",
+            "oebix ldtairesnſaeffers &amp; ergets de",
+            "A",
+            "les"
+        ],
+        [
+            "es luy bailler dans les Requeftes, Contraéts,",
+            "&amp; autres Aées de juſtice qu’ils feront ou",
+            "receuront, à peine de quatre mil liures d’a",
+            "mande, nuallité́ &amp; caſſation deſdits Actes &amp;",
+            "Requeſles, &amp; de rous deſpens, dommages",
+            "&amp; intereſts des prties, &amp; meſme de ſul",
+            "penſion d leurs charges. Et en cas de con",
+            "auention, a permis &amp; permet audit Pro",
+            "cureur General d’en informer contre leſdits",
+            "Conſuls, Notaires, Greffiers &amp; Sergens, &amp;",
+            "autres particuliers, deuant le premier Huiſ",
+            "fier ou Sergent Royal ſur ce requis, appel",
+            "lé auec ſoy vn Noraire de Cour Laye, pour",
+            "ladite information faite, &amp; deuers ladite",
+            "Cour rapporteé́e, y eftre pourueu de tel de",
+            "eret qu’il appartiendra. Et en outre ordonne",
+            "que leſdites pretenduës qualitez que la Cour",
+            "declare appartenir aux ſeuls Princes du ſang",
+            "Royal priuariuement à tous autres, ſeront",
+            "rayées audit Duc d’Eſpernon, en toutes Re",
+            "queſtes, Actes, Contracts &amp; Sentences, qui",
+            "ſe trouueront donnces auec leſdites qualitez.",
+            "Et ordonne auſſi que le preſent Arreſt ſera",
+            "imprimé, publié &amp; enuoyé par tous les Sie",
+            "ges, Bailliages &amp; Seneſchauſſé́es du preſent",
+            "Reſſort, pour y eſtre faict pareille publica",
+            "tion &amp; enregiſtrement; afin que perſonne"
+        ],
+        [
+            "m’en pretende eauſe d’ignoraee, &amp; eaxedeuté",
+            "en vertu du ſimple Dictum d’iceluy; atrten",
+            "da ce dont il s’agit. Fait à Bordeaux en Par",
+            "lement le huictiéme Auril mil ſix cens cin",
+            "quante.",
+            "signé, DE PONTAC."
+        ]
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Foullé, Étienne (1600-1673)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-09",
+            "@who": "AB"
+        },
+        "titre": "Arrêt du parlement de Bordeaux, du 6 mai 1650, contre le\n          sieur Foulé en faveur des trésoriers de France, de Limoges.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1650-05-15",
+                "#text": "mi-mai 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000068219536",
+            "@xml:id": "IL_LozetThomas.xml",
+            "persName": {
+                "forename": "Thomas",
+                "surname": "Lozet"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "2",
+            "ARREST",
+            "DV PARLEMENT",
+            "DE BORDEAVX.",
+            "Du ſixieſme May 1650.",
+            "Contre le Sieur Foulé, en faueur des Treſoriers de",
+            "France de Limoges.",
+            "A PARIS,",
+            "Chez THOMAS LOZET, ſur le Pont au Change,",
+            "à l'Eſcu de France."
+        ],
+        [
+            "4",
+            "ſans cõgnoſſance de cauſe, l’vn des Receueurs",
+            "en l’Eſlection dudit Limoges, quoy que notam",
+            "ment ſoluable &amp; qu’il aye touſiours fait le deub",
+            "de ſa, charge en homme de bien, comme il ſe iu",
+            "ifie par les eſtats qu’il à rendus au Bureau deſdits",
+            "Ipréſofiers , comtis en ſa place vn homme le",
+            "neant ballléipluſieurs qrdnances qun portht",
+            "outes choſes dans l’extreme, iuſques à auoir",
+            "fait imueſtir leur Bureau &amp; Chambre du Conſeil,",
+            "par des perſonnes inconnuës, Armez d’Eſpées,",
+            "Piſtolets &amp;! Mouſquetons, fait interdire cinq",
+            "deſdits Threſoriers qui font la meilleure partie des",
+            "reſidens en ce Bureau ſur des faits ſuppoſez &amp; ſans",
+            "qu’ils a yent eſté ouys ny deffendus, ce qui pour",
+            "roit eauſer des ttoubles dans la Ville de Limoges",
+            "vne des plus ’importantes du reſſort dont les",
+            "ſuittes pourroient eſtre tres-dangereuſes dans",
+            "a comioncture du temps &amp; preiudiciables au",
+            "ſeruite du’ Roy, bien &amp; repos de ſes ſubies,",
+            "s’ilfy eſtoit pronptement pourueu par la pruden",
+            "ce de la Cour, partant requiert que les pieces",
+            "à luy remiſes ſe conſeruent, enſemble l’arreſt qui",
+            "nteruiendra ſoient enuoyez aux Deputez de la",
+            "Cour pour ſupplier leurs Majeſtez de maintenit",
+            "leſdts Tteſoriers en la foncton de leurs charges,",
+            "confõrmement aux Declarations du Roy veri",
+            "fiées en tous les Pairlemens &amp; d’arreſtér es entre",
+            "priſes &amp; vilences duſit fieut Foule pour le bien",
+            "de ſonſeruice, repos &amp; foulagement de ſes Sujets,",
+            "&amp; que ſa Majeſté ſera tres-humblement ſuppüée"
+        ],
+        [
+            "de leuer l’interdit, &amp; cependant que leurs Or",
+            "donnances des yingt-huict &amp; vingt-neuf Auril",
+            "mil ſix cens cinquante, ſeront executez par proui",
+            "ſion ſoubs ſon bon plaiſir pour par eux vacquer",
+            "inceſſamment aà la leuée &amp; ſeurete de ſes deniers.",
+            "LA COVR faiſant droict ſur la requiſition du",
+            "Procureur General du Roy, A Ordouné &amp; O",
+            "donne qu’il ſera inceſſamment informé par les",
+            "Commiſſaires qui ſeront à ce Deéputez par le mi",
+            "niſtere dudit Procureur General du Roy des viol",
+            "lences &amp; entrepriſes commiſes par ledit Foulé au",
+            "Bureau des Treſoriers à imoges, pour l’informa",
+            "tion faite &amp; rapporteée eſtre pourueu de tel decret",
+            "qu’il appartiendra, que les pieces remiſes entre les",
+            "mains dudit Procureur General ſeroient enuoyées",
+            "aux Deputez de la Cour pour faire les Remonſtran",
+            "ces à ſa Maieſté deſdites violences &amp; excés, &amp; la",
+            "ſupplier de maintenir leſdits Treſoriers en la fon",
+            "ction de leurs Charges, &amp; leuer ledit Interdit. Ce",
+            "pendant que les Ordonnances deſdits Treſoriers",
+            "des vingt-huict &amp; vingt-neuf d’Auril 16so. ſeront",
+            "executées. Et que tant eux que ledit Receueur con",
+            "tinuëront l’exercice de leurs Charges, ſous le bon",
+            "plaiſir du Roy Fait inhibitions, &amp; deffenſes tant au",
+            "dit Foulé, qu’à tous autres, les empeſcher en l’e",
+            "ercice d’icelle, iuſques à ce qu’autrement par ſa",
+            "Maieſté, en ſoit ordonné, &amp; en outre faire aucune",
+            "Impoſition &amp; Leuée de derniers tant en ladite Ville",
+            "de Limoges qu’ailleurs, contraires aux Declara",
+            "tions, à peine de dix mil liures, &amp; tant luy que les",
+            "1"
+        ],
+        [
+            "l",
+            "6",
+            "Colleteurs d’icelles reſpondre en leur propre",
+            "&amp;priue nom des ſommes qui ſeront leuées enuers",
+            "les parieuliers qui les auront données, &amp; lera le",
+            "preſent Areſt enecuré en vertu du ſimple Dium",
+            "attendu la mattiere dont eſt queſtion. Fait à Bor",
+            "deaux en Parlement le ſixieſme May mil ſix cens",
+            "Sinquante.",
+            "Signeé, DE PONTAC.",
+            "collationné par moy Conſeiller Sereeaire du Roy",
+            "Maiſsn &amp; Couronne de France, &amp;",
+            "de ſes finances."
+        ]
+    ]
+}

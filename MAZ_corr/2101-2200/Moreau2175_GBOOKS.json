@@ -1,0 +1,112 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maiesté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-04-16",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-05-04",
+            "@who": "MF"
+        },
+        "titre": "Lettre du roi envoyée à messieurs les prévôt des\n          marchands et échevins de la ville de Paris, apportée par M. de Saintot, maître des\n          cérémonies, le 29 avril 1649.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "persName": "Louis XIV"
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000008903969",
+            "@xml:id": "IL_RocoletPierre.xml",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Rocolet"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DV ROY,",
+            "Enuoyée à̀ Meſsieurs les Preuoſt",
+            "des Marchands &amp; Eſcheuins",
+            "de la Ville de Paris.",
+            "Aportée par Monſieur de Sainctot Maiſtre",
+            "des Ceremonies.",
+            "Le vingt-neufieme Auril 1649.",
+            "A PARIS",
+            "Chez P. ROCOLET Impr. &amp; Libr. ordin. du Roy,",
+            "&amp; de la Maiſon de Ville, au Palais, aux Armes",
+            "du Roy, &amp; de la Ville.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Maiesté."
+        ],
+        [
+            "DE PARLE ROY.",
+            "RE S-CHERS ET BIEN AMEZ,",
+            "Nous auions reſolu de retoumer en",
+            "noſtre bonne Ville de Pais auec la",
+            "Reyne Regente noſtre tres-honoréos",
+            "Dame &amp; Mee: Mais comme nou",
+            "ions ſur le poinct d execurer ce de",
+            "ſein, Nous auons veu que les Eſpagnols ons ene",
+            "pis deux ſieges en meſme temps, I’vn de la Ville",
+            "d’pre en Flandre, qui eſt vne des plus conſiderables:",
+            "l’autre de celle de S. Venant, ſcituée ſur la riuiere du",
+            "Lis, qui eſt vn Poſte tres important; Faiſaut en oune",
+            "de grands preparatis, ou pour ataquer quelqu’ve",
+            "des places de noſtre frontiere de deça, où pour entrer",
+            "dans. le Royaume: Et iugeant que noſtre preſence",
+            "ſur noſtredite frontiere en y faiſant rendre inceſſam",
+            "ment nos principalles forces, Eſtoit neceſſaires pour",
+            "areſter le cours de leurs progre, &amp; les obliger àdon",
+            "ner les mains ̀ la Paix geneealle, Nous auions reſolu",
+            "de nous y acheminer au premier iour: Ce que nous",
+            "auons bien voulu vous faire ſçauoir par cette Letre,",
+            "., .",
+            "&amp; vous dire par l’aduis de la Reyne egenre noſue",
+            "tres-honorée Dame &amp; Mere, Que vous ayez pendant",
+            "que nousſerons de ce coſté là, à vous employer en"
+        ],
+        [
+            "4",
+            "tont ce qui dependra de vous, pour faire qu’il n’arioe",
+            "rien dns noſtre bonne Ville de Paris qui en puiſfe",
+            "troublet le repos, ny preiudicier à noſtre ſeruice: Et",
+            "nous promettant bien que pendant que nous nos",
+            "employerons en peſonne, &amp; auec nos armées pour",
+            "acquerr la Paix ànoſtre Royaume: Il uy a auun de",
+            "nos Offeiers &amp; Sujets, meſme dans noſtredite bonne",
+            "Ville de Paris quiue ſoit entierement porté à ycou",
+            "ibaer par ſes ſoings, fidelité &amp; obeiſſance; Nous ne",
+            "vous feronsl4 preſente plus longue, ny plus expreſſe",
+            "Dee à S. Germnain en Laye le as. iour d’Auril",
+            "mil ſix cens quarante-neuf Signeé, LOVIS, Et",
+            "uebas, DE Gva Rec A vD: Eeſur la ſuſcripcioa",
+            "eſteſcrit,",
+            "os res-chers &amp; bien amaez les Preaot de",
+            "aanleg ffauus dmſe",
+            "banme Vll de Pars."
+        ]
+    ]
+}

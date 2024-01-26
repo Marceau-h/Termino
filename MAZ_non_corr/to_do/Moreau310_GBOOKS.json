@@ -1,0 +1,381 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Arrêt de la cour de parlement, toutes les\n                    chambres assemblées, du 17 février 1652, portant que l’arrêt des rentes, du 8 de\n                    ce mois, sera exécuté; a cassé l’ordonnance des trésoriers de France à Lyon; que\n                    celui qui a présidé viendra rendre raison à la cour, et qu'assemblée sera faite\n                    en la salle de Saint-Louis pour aviser ce qui est à faire pour le payement des\n                    gages des officiers et desdites rentes sur la ville.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "1",
+            "AI",
+            "4 L. .",
+            "DE LA",
+            "P¬",
+            "L",
+            "COVR",
+            "D",
+            "DT E",
+            "DE HARLEMENI",
+            "Ir¬",
+            "TOVTES LES CHAMBRES AS SEMBLEES,",
+            "Du di- ſeptiéme Feurier icgz.",
+            "oantque l’Arreſt des Rentes du S. de ce mois",
+            "neierue i euſde o ionue e e pone",
+            "e ni le eune en oue e ſne e.",
+            "eſde oiendr renle naiſun en l, e&amp;u e",
+            "quuſnue ſen feire eni Sle àe s i e",
+            "len onons udlie e ui e aiſe oune",
+            "onens des gogus des Oniee &amp;e deſui¬",
+            "esRentes ſur laVle.",
+            "A PARIS,",
+            "Par les Inmprimeurs &amp; Libraires ordinaires du Roy.",
+            "Auec Priuilege de ſ Majeſté."
+        ],
+        [
+            "4.",
+            "-¬",
+            "¬¬",
+            "a-ae",
+            ".s .i’?ii",
+            "E",
+            "2: .",
+            "¬",
+            "ae¬",
+            "I. s",
+            "-l¬",
+            ", a",
+            "on Google"
+        ],
+        [
+            "naaaaa¬",
+            "1",
+            "das",
+            "eea",
+            "e",
+            "rE led losres",
+            "dele Caurde anm",
+            "E jour la Cour, coutes les",
+            "El Chambhres aſemblées Mon¬",
+            "E ſet uuae dotleoan,y lan",
+            "Apres aloir ouy les Preuoſt",
+            "i des Marchands &amp; Eſeheuins",
+            "T de œte Ville, ſur le defaue",
+            "’ nunmn deſmdipoa’la puyenmeunr",
+            "leenieru al ldeoeli snde li ni",
+            "ladoeunt dui ep ni enae i nr upes",
+            "leſenſeil da dnuilne liumroer onlenrie",
+            "flouſire rolnieenea ene nnorlen",
+            "dleoeat de nln, deor oinuiei iern",
+            "oun d runel luon dluieiſene de e.",
+            "p onſonbledoie onbniune n dn",
+            "il de vner -deuaiee laſuiur enee e",
+            "quy ledit Aduoeat doRoy pourt le Proeureu",
+            "enetal en ſes Cocduſions, La matiere mie",
+            "A ij"
+        ],
+        [
+            "en deliberation, LADITE COVR aor¬",
+            "donné &amp; ordonne que l’Arreſt d’icelle du",
+            "huictiéme de ce mois ſera executé, &amp; toutes",
+            "purſuites neceſſaires faites pour l’execution,",
+            "d’iceluy; A caſſé ladite Ordoninance deſdits",
+            "Treſoiers de France à Lyo dudit jour buis",
+            "ctiéme de ce mois; Lufait deffnces d’en tẽ¬",
+            "dre de pareilles, à peine de ſuſpention de leurs",
+            "charges, &amp; autres plus gcandesi s’ily’ éſcet?",
+            "Ordonne que celuy. qui a preſidé en icelle",
+            "vierdra rendn raiſon en ladite Cour touros",
+            "les Chambres aſſemblées aaois. Enjoint à̀",
+            "Monanerot Receueur Geheral des Finances",
+            "defaire voiturerà Paris ledeiers deſtinez au",
+            "payement deſditeseaes nonnbtae rbous",
+            "empeſchemens faits&amp; à fair à peine d’en reſ¬",
+            "pondre en ſon nom. Fait, deffarſes à tbutes!",
+            "perſonnes de quelque qualité &amp; condition?",
+            "qu’ils ſoieneid’peſcher ladite voiturd yau¬",
+            "tres ſemblables;&amp; aux Commis de l’Eſpangne",
+            "qui dnt oſté ommez en execution de l’Arreſt",
+            "du Conſeil dudit huſctiéme Ianuier denier,",
+            "de. s’immiſſer:en la ſRecepte des denlers des’",
+            "Receptes generales des Fermes des Gabelles,",
+            "decs Aydes, &amp; autres ermes à peiae de- pecu",
+            "lat."
+        ],
+        [
+            "le",
+            "s",
+            "3",
+            "lat Ordonne que les deniers en ſeront receus¬",
+            "par les Receuturs Generaux &amp; Fcrmiers ainſi",
+            "qu’il eſt accouſtumé, &amp; par eux payez confor¬",
+            "mement à la Declaration du mois d’Octo¬",
+            "remil ſix cens quarante-huit. Baux deſdites",
+            "Fermes &amp; Areſts de verification d’iceux, meſ¬",
+            "me ceux des Receptes generales conforme¬",
+            "men aux Arreſts dur Conſeil, des premiecr luin",
+            "yvingt-ſix Nouembre mil ſix cens cinquante",
+            "egſtret en la Cour es dirx Iuin &amp; vingt deux",
+            "Deceibre audit ai, &amp; autres Arrieſts donnez",
+            "conſequence, &amp; tout ce qui a eſté receu par",
+            "leſits Commis deſdits denlers, Receptes ge¬",
+            "nerales &amp; Femmies ſefa par’eux rendu auſdits",
+            "Receueurs Géneraux &amp; Fermiers, à̀ quoy faire",
+            "ils ſeront contraints par toutes voyes deüs &amp;",
+            "raiſonnables, meſmes par empriſonnement de",
+            "leurs perſonnes, t la dligence deſdits Rece¬",
+            "ueurs Generaux &amp; Fermiers, &amp; deſdits Pre¬",
+            "uoſt des Marçhands &amp; Eſcheuins de Paris.",
+            "Qrdonne enoutr. quril ſera donné aduis aux",
+            "Qonpagnies Souaeramnes de dee Ville de",
+            "Prſs, &amp;e couiede deputer auec aucuns De¬",
+            "ptez de laite Cur qi s’aſſerbleront en le,",
+            "Salle- Saint’Louis pou aduiſer ’e qul’et’ à"
+        ],
+        [
+            "faire pour le payement des gages des Oi¬",
+            "ciers &amp; deſdites Rentes ſur la Ville. Et ſera",
+            "le preſent Arreſt leu, publié &amp; affich́, &amp;",
+            "enuoyé par tout ou beſoin ſera, à la Requeſte",
+            "du Procureur General du Roy, &amp; diligence",
+            "deſdits Preuoſt des Marchands &amp; Eſchuins;",
+            "&amp; à l’inſtant leſdits Preuoſt des Marchands &amp;",
+            "Eſcheuins mandez, Monſieur le Preſident de",
+            "Bailleul leur a fait entendre ledit Arreſt, &amp;",
+            "Maiſtre René Radigue Secretaire de la Cou",
+            "chargé́ d’aduertir les Compagnies Souuerai¬",
+            "nes, &amp; les aduertir de deputer pour Mardy",
+            "prochain deux heures de releuée en la Salle",
+            "Saint Louis. F AI T en Parlement le dix¬",
+            "ſeptieſme Fevrier mil ſix cens cinquante¬",
+            "deux.",
+            "Signé DV TILLET.",
+            "Leu publié à ſon de Trompe &amp; cry public, e ous",
+            "l Caeoun d e Pi Fa r d Pn,",
+            "pa moy ſharls Cass Iaré Cniaur aordaare ds Roy",
+            "en laVille, Preuaſté́ Vioaaoé de Panis; aecopagaé",
+            "de lean dn Bos, Iaques le Frain &amp; Eieane Chappé",
+            "dipla Chappele, Iurez Tronmpenes de ſa Majefté́eſdits"
+        ],
+        [
+            "¬",
+            "lr, lany daafefae Feuner a ſe ams d¬",
+            "qat-deu.",
+            "l",
+            "Siae, CaT0.",
+            "Collanimné à lOrigiaal par oy Coaſaill",
+            "Secetaire du Roy, Maiſo &amp; Coua¬",
+            "e deFrance, &amp; de ſs Fianas."
+        ],
+        [
+            "-:.me",
+            "? l",
+            "¬",
+            "¬",
+            "e.",
+            ". A",
+            "i.2..",
+            "a te",
+            "¬",
+            "ona, GOogle"
+        ],
+        [
+            "maſ"
+        ],
+        [
+            "l.",
+            "e 2e",
+            "&amp;",
+            "ſe",
+            ",",
+            "anGoogle"
+        ],
+        [
+            "maſ"
+        ],
+        [
+            ": a:.",
+            "a-.",
+            "La",
+            "u’.",
+            "r¬",
+            "tina",
+            "ooua Google"
+        ],
+        [
+            "maſ"
+        ],
+        [
+            "1",
+            "-t:",
+            "¬",
+            "¬¬",
+            "Em",
+            ".",
+            "à.¬",
+            "..",
+            "at",
+            "be tr¬",
+            "ooaaa Google",
+            "9"
+        ],
+        [
+            "maſ"
+        ],
+        [
+            "..¬",
+            ":",
+            "¬¬",
+            "Tl",
+            ". ¬",
+            "¬ 2..",
+            ".",
+            "..",
+            "i",
+            ".",
+            "-2..",
+            ".",
+            "p",
+            "-u-",
+            ".",
+            "a.",
+            "oouma, Goq"
+        ],
+        [
+            "maſ"
+        ],
+        [
+            ".",
+            "14",
+            "a -l",
+            "’",
+            "..",
+            "al i -ou",
+            "oa Goſ",
+            ".",
+            "9"
+        ],
+        [
+            "maſ"
+        ],
+        [
+            "5",
+            "::¬",
+            "i",
+            ":..",
+            ".H.",
+            ",¬.",
+            "2",
+            "D",
+            "¬",
+            "..2",
+            "¬.",
+            "oao Goſ",
+            "ah¬",
+            "’."
+        ],
+        [
+            "maſ"
+        ],
+        [
+            ",¬",
+            ".",
+            "S",
+            ".¬",
+            "à ’¬",
+            "¬.",
+            "E",
+            "mdn¬¬",
+            "oma Goſ",
+            "1",
+            "l",
+            "ia¬",
+            "o¬"
+        ],
+        [
+            "maſ"
+        ],
+        [
+            "a:",
+            "--.",
+            "lPp",
+            "’ aio",
+            "aoo"
+        ],
+        [
+            "maſ"
+        ],
+        [
+            "u:.¬",
+            "e",
+            "hi*.",
+            "2",
+            "¬",
+            ".2 ¬",
+            ".",
+            "..",
+            "û.",
+            "¬",
+            "ra¬¬",
+            "a¬",
+            "7",
+            "ooua, Goſ",
+            "r"
+        ],
+        [
+            "maſ"
+        ],
+        [
+            ".",
+            ".:.:",
+            "¬..",
+            ".",
+            "aſ-.",
+            "-tl ojl",
+            ".. Tl",
+            "dm¬¬",
+            "ooa Go"
+        ]
+    ]
+}

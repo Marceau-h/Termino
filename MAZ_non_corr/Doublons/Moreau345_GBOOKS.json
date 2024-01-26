@@ -1,0 +1,166 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Arrêt de la cour de parlement de Rennes en\n                    Bretagne contre le nommé Jules Mazarin et ses fauteurs et adhérents, par lequel\n                    ils sont tous déclarés criminels de lèse majesté, tous leurs biens acquis et\n                    confisqués.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "-",
+            "ae CGoot"
+        ],
+        [
+            "D D r¬-",
+            "4",
+            "!",
+            ". I L",
+            "DE LA COVR DE PARLEMENT",
+            "de Rennes en Bretagne, contre",
+            "le nommé Iulles Mazarin, &amp;",
+            "ſes fauteurs &amp; adherans, par le¬",
+            "quel ils ſont tous declarez cri¬",
+            "minels de leze Majeſté́, tous",
+            "leurs biens acquis &amp; confiſquez.",
+            "ou923",
+            "2e?",
+            "t8",
+            "t",
+            "A PARI S,",
+            "Chez la Veufve Tn o. Ps PovE, e Ee",
+            "Mavc RoY, ruë de la Harpe, vis à vis",
+            "la ruë des Marhurins.",
+            "¬¬",
+            "D XxIX"
+        ],
+        [
+            "1",
+            "a",
+            "¬",
+            "-aa",
+            "¬",
+            "1¬..",
+            ".¬",
+            ".",
+            "¬",
+            "4.",
+            "1.",
+            ".",
+            "1",
+            "s",
+            "¬",
+            "¬ 7?",
+            "21.",
+            ".",
+            "2",
+            "..¬",
+            "IS .",
+            "2¬¬",
+            "1",
+            ",",
+            "¬",
+            "1;.¬",
+            "2. .22.",
+            "¬",
+            "...",
+            "oaooſ"
+        ],
+        [
+            "Aaeaetaees",
+            "eepieeeereetapee",
+            "ARREST DE LA COVR DE",
+            "c r",
+            "Parlement de ennes en Bretagne, contre",
+            "le nommé Iulles Mazarin, &amp; ſes fauteurs¬",
+            "&amp; adherans, par lequel ils ſont tous decla¬",
+            "rez criminels de lee Majeſté, tous leurs",
+            "biens acquis &amp; confiſque.",
+            "1.",
+            "EXTRAICT DES RECISTRES",
+            "e",
+            "e¬",
+            "de Parlement.",
+            "g E jourd’huy las Cour, les deux Semeſtres aſſem¬",
+            "blez,ſur le rapport fait par le Procureur Genera",
+            ", du Roy, de l’enleuement de la perſonne dudit Sei¬",
+            "a gneur Roy, la nuict du cinq au ſixieſme iour du",
+            "preſent mois &amp; an, par le nommé lIules Maarin",
+            "de nation lItalienne, &amp; ſur la notorieté de fait des leuées",
+            "des Geas de Guerre &amp; deniers en cette Prouince: Veu",
+            "auſſi les Arreſts du Prlement de Paris des huictieſme &amp;",
+            "&amp; treizieſme deſdits mois &amp; an, A declaré &amp; decla¬",
+            "re ledic Iules Maarin, ſes fauteurs; adherans, crimi¬",
+            "nels de leze Majeſté au premier chef, &amp; perturbateurs du",
+            "repos public: Leur fait commandement de garder leur ban",
+            "ordonné par ledit Arreſt du uitieſme lanuier, ſur peine",
+            "de la hart auec çonfiſcation de tous leurs biens, meubles.",
+            "&amp; immeubles, &amp; mefmes les fruits des Benefices dudit",
+            "Maarin : Fait deffeaſes à outes perſonnes, de quelque",
+            "eſtat &amp; qualité qu’tls ſoient, de leur donner retraite, à pei¬",
+            "ne de deſchcance des priuileges de Nobleſſe, &amp; d’eſtre de¬",
+            "clarez incapables de tenmir aucumes dignieez, &amp; Offices",
+            "oyaux. O onn u’à la diligence dudit Procureur",
+            "General du Roy, il ſera intomé du diuerciſſement d’arge"
+        ],
+        [
+            "en eſpece ou lingots faits par ledit Mazarlin hors du Royau",
+            "me,enſemble des leuées des Gens deuerre, auſquels aucuns",
+            "Baillifs &amp; Gouuerneurs ne pourront donner entrée, aide, ou",
+            "main forte,ſur pareille peine, A permis &amp; permet aux Com¬",
+            "raunes de leur courir ſus au ſon du toxin: Et a ladire Cour",
+            "enjointà tous les Officiers de ce reſſort de tenir la main à",
+            "l’exeoution du preſent Arreſt, dequel elle ordonne d’eſtre",
+            "publié à ſon de trompe, &amp; affiché par tout où beſoinſera en",
+            "la maniere accouſtumée, afin que perſonne n’en pretende",
+            "cauſe d’ignorance. Fa 1 à Rennes, en Parlement, le dix.¬",
+            "huitieſme Ianuier mil ſix cens quarante-neuf.",
+            "Signé, Mo e a.",
+            "N",
+            "2l"
+        ],
+        [
+            "-é"
+        ]
+    ]
+}

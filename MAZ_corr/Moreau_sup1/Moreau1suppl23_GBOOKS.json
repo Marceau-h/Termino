@@ -1,0 +1,122 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "texte officiel",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-08-22",
+            "@who": "KA"
+        },
+        "titre": "Arrest de la cour de Parlement portant qu'il sera procédé\n          à la vente des meubles et autres biens appartenans au cardinal Mazarin",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-07-24",
+                "#text": "24 juillet 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "@ref": "isni:0000000123698534",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT,",
+            "Portant quil ſera procedé à la",
+            "vente des meubles &amp; autres",
+            "biens appartenans au Car",
+            "dinal Mazarin.",
+            "Mercred vingt-quatrieſme luillet 1652.",
+            "A PARIS,",
+            "Imprimeurs &amp; Libr. ordinaires du Roy.",
+            "M. DC. LII.",
+            "Auec Priuilege de ſa Maieſté."
+        ],
+        [
+            "EXTRAICT DES REGISTRES",
+            "de Parlement.",
+            "Eiour la Courtoutes les Chambies aſ",
+            "E ſembldſes, Monſieur le Du d’Orleans",
+            "at Oncle du Roy, &amp; le fieur Prince de",
+            "Condé y eſtans, lecture faite de l’Arreſt du",
+            "viagt-neufié́me Decembre drnier, donné;",
+            "contre le Cardinal Mazarin; Et oy ſur ce Beſ",
+            "chefert, Subſtitut pour le Procureur General",
+            "du Roy, luy rotiré, la matiere miſe en delibe",
+            "ation: ADITE COVR executãt ledit Ar",
+            "reſt, &amp; autres dohnez en conſequence, a or",
+            "donné &amp; ordonne; Qu’il ſera inseſſamment",
+            "pocedéa la vente de ce quireſte des meubles,",
+            "Cautres choſes appartlnant audit Cardinal;",
+            "&amp;à la reddition descomptes des EFermiers &amp;",
+            "Receueurs des reuenus de ſes Benefices., en",
+            "preſence debaiſtresClement le Meuſaier, lac",
+            "qs Renard, Paul Portail, Cha;les Briſart,",
+            "Alexandre Petau&amp; Pierre Pithou, Conſeillers",
+            "a ladite Conr, ou de deux d’antr’eux, enl’ab",
+            "ence oumaladie desautres;&amp; ce qui ſetapar",
+            "ex fait &amp; ordõné, executé, nonobſtant oppo",
+            "ſiuus&amp; appellations faltes &amp; à̀ faire, &amp; ſans",
+            "eiudice d’icellesOrdonne en outre qu’il ſera",
+            "A"
+        ],
+        [
+            ".",
+            "par deut Bourgeois de chac qugtier, 4",
+            "ferontnommez ea l’Aſſemblée de l’Hoſtelde",
+            "Ville, fait inceſſamment vne leué́e de deniers",
+            "ſur le pied d’vne anneé́e de ce qui ſe paye pou",
+            "la taxe des Bouës ſur chacu des oaaites&amp;",
+            "habitans les Maiſons de dette Villr &amp; F¬.",
+            "bourgs de Paris, au payemenu de laquelle ca",
+            "cun particulier, qui a accoudſtumé de pagletl",
+            "dite taxa des Bouës, ſera contraint au pren",
+            "refus, nonobſtant oppoſiions &amp; appellations",
+            "faites &amp; à faire; leſquels deniers, &amp; cee qui",
+            "prouiendpont de la vente des meubles &amp; teu",
+            "nus des Boneſices dudie Cardial enſombla",
+            "ceux eſtans entre les mainsde bf...",
+            "Martinet, procedas de la vente de la Brblis",
+            "theque d’iceluy Catdmal, iuſqu’à la ſomtn de",
+            "cent cinquantiemilllle liures, ſeron miseatt",
+            "les mains dé Banquiers ; pour les fïlélfian",
+            "en tous lieux à celuy ou ceux qui ctro",
+            "dedit Arreé du ivmgt-eufllohé. Docondb",
+            "dermler y Et ſerà lepreſerit Asfſt le,j publbihaé",
+            "afficé entos les Camfous d ter Yillol&amp;",
+            "Faux ’boutgs. F&amp;A ITen Padenami be, loidg",
+            "quatriéme illet sqe Signé . TIALE.",
+            "Cqlariaomé ̀origina barmo Canſailer, seraiair",
+            "Ao7, aſan, Cburone deFanmce &amp;’ de foaet"
+        ]
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "sonnet",
+            "poésie à forme fixe"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-01-13",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-13",
+            "@who": "ZC"
+        },
+        "titre": "Vers présentés à monseigneur le duc de Beaufort, pair de\n          france.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@source": "BnF",
+            "@ref": "isni:0000000073678147",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Du Pelletier"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000110444682",
+            "@xml:id": "IL_LesselinAlexandre.xml",
+            "persName": {
+                "forename": "Alexandre",
+                "surname": "Lesselin"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "VERS PRESENTEZ",
+            "A",
+            "MONSEIGNEVR LE DVC",
+            "DE",
+            "BEAVFORT",
+            "PAIR DE FRANCE.",
+            "A PARIS,",
+            "Chez ALEXANDRE LESSELIN, ruë de la vieille",
+            "Bouclerie prés le pontS. Michel à la ville d’Amiens.",
+            "M. DC. XLIX."
+        ],
+        [
+            "A MONSEIGNER LE DC",
+            "E J¬ TA ¬",
+            "de Beaufor Pair de France.",
+            "¬ re¬",
+            "4¬ AT",
+            "SNINE I",
+            "TE medite vn Poëme où tes diuins exploits",
+            "J Forceront le Burin de ceder à ma plume:",
+            "Seau Fort, ie n’ay pû faire vn plus illuſtre chois",
+            "1",
+            "Et ie n’en ay que trop pour groſſir vn volune.",
+            "8 A",
+            "8.J",
+            "Ie te fai ſucceder aux Heros que i’aymois",
+            "D’aymer les demy- Dieux, grand Duc,c’eſt ma couſtume;",
+            "C’eſtoit pour les Rohains le beau feu que i’auois",
+            "Et pour toy maintenant ce beau feu ſe ralume.",
+            "Pour tracer tes hauts faits, ie conſacre ma main",
+            "’Tu ſéas moh Ceſar, ie ſeray tön Lucain,",
+            "Heureux ſi i’eſtois propfe à te ſiure en l’armée;",
+            "A",
+            "Mais ie m’offre à chanter tes miracles guerriers",
+            "Pour acroiſtre lebruit que fait ta Renommée",
+            "Par des vers compoſez ſous tes fameux Lauriers.4"
+        ],
+        [
+            "A &amp; e ea &amp;l u, &amp;,",
+            "sſeoqſſoſieogeosi s",
+            "s, Se os",
+            "de d e e ie ſe ee e es e ee",
+            "A MONSEIGNEVR LE DVC",
+            "de Beaufort, Pair de France.",
+            "SONNET.",
+            "1",
+            "E r¬",
+            "Rand Heros couronne des mains de la victoire",
+            "L’amour des vrays François, &amp; leur plus cherſoucy",
+            "De plus ſçauantes mains trauaillent à ta gloire,",
+            "Mais auec moins de zele on y trauaille auſſi.",
+            "Eſt-il donc quelque place aſſez belle en l’hiſtoire",
+            "Pour conſeruer tes faits que l’on admire icy?",
+            "Des Ceſars qu’on a mis au Temple de memoire",
+            "Le nom, par tes exploits ſera preſque obſeurcy.",
+            "Pour moy, ie ſuis rauy quand par la voix publique",
+            "Paris qui te benit fait ton Panegirique,",
+            "Ses cris font ton Eloge, ô genereux vainqueur.",
+            "Ce triomphe n’eſt pas vn triomphe ordinaine",
+            "De cette grande ville ayant gagné le cœur",
+            "Il ne te reſte plus de conqueſtes à faire.",
+            "D PELLETIER Pariſien."
+        ]
+    ]
+}

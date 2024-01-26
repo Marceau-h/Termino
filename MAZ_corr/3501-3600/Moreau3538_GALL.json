@@ -1,0 +1,181 @@
+{
+    "imprimatur": null,
+    "corrector": true,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "poésie",
+            "burlesque",
+            "satirique"
+        ],
+        "subject": "Emprisonnement des\n            Princes",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1650-01-18",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-22",
+            "@who": "AB"
+        },
+        "titre": "Le réveil-matin des curieux touchant les regrets de la\n          petite Nichon, poëme burlesque sur l'amprisonnement des Princes.",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-18",
+                "#text": "18 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-03-25",
+                "#text": "25 mars 2021"
+            }
+        ],
+        "author": {
+            "@ref": "viaf:202034862",
+            "persName": {
+                "addName": {
+                    "@type": "pseudonyme",
+                    "#text": "Nichon"
+                }
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000506791357",
+            "@xml:id": "IL_NoelFrancois.xml",
+            "persName": {
+                "forename": "François",
+                "surname": "Noël"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LE REVEIL MATIN",
+            "DES CVRIEVX",
+            "Touchant les Regrets",
+            "DE LA",
+            "PETITE NICHON",
+            "POEME BVRLESQVE",
+            "Sur l'ampriſonnement du Prince.",
+            "A PARIS,",
+            "M. DC. L"
+        ],
+        [
+            "LE REVEIL MATIN",
+            "DES CVRIEVX",
+            "Touchant les Regrets",
+            "DE LA",
+            "PETITE NICHON",
+            "POEME BVRLESQVE",
+            "Sur l'ampriſonnement du Prince.",
+            "CVpidon delaiſſer",
+            "voulut ſe mesler dans [illisible]",
+            "De breliquoquer ſa Nature",
+            "Et au lieu d'eftre amoureux",
+            "Cét Idiot fut ſi mal-leureux",
+            "Que d'expoſer ſon tout ſon tout à l'aduanture",
+            "A ij"
+        ],
+        [
+            "4",
+            "Il deuint furieux, ie deuins furieuſe",
+            "S'il deuint mal-heureux ie deuins mal-heureuſe",
+            "Et ce Pauure archer",
+            "En rabaiſſant ſon mat, ſon voile, &amp; ſon cordage",
+            "Perdit tout ſon credit en perdant ſon courage",
+            "Et ne trouua plus d'eau quand il voulut nager",
+            "Condé il faut perir",
+            "Condé il faut mourir",
+            "Tu deuiendras ſi fort qu'vn landie de careſme",
+            "Et moy en reſentant par tout le vieux ſormage",
+            "Ie ſeray obligé de fermer le paſſage",
+            "Si ie manque de lait, &amp; de beure, &amp; de creſme",
+            "O ciel que ie ſuis à ce coup mal-heureuſe",
+            "L'eau beniſte de cour i'eſtois ſi amoureuſe",
+            "Et a n'en point mentir",
+            "I'auois ſi agra ly dans trois coups mon beau nom",
+            "Que tous les courtiſans pour la belle Nichon",
+            "Commançoient à gemir",
+            "Trancy"
+        ],
+        [
+            "5",
+            "Trancy &amp; hors de moy ie deteſte les aſtres",
+            "Puis que ie vois ce ſigne conclure à mon deſaſtre",
+            "Que l'on nomme Verſaux",
+            "Par là ie prophetiſe que Moy ſe perd ſa verge",
+            "Le changeant de degré au point de la vierge",
+            "Les vaches de ce lampas ne feront plus de veaux",
+            "Ah deſtins ie le veux, ah aymable Condé",
+            "Tu as tout renuerſé par vn ſeul coup de pied",
+            "Et quoy qu'aupres d'vn bois",
+            "Tu ne pourras chaſſer ny de cerf ny de biche",
+            "Toute ſorte de champs demeureront en friche",
+            "Et moy pareillement ie demeure aux abois",
+            "C'eſt vne meſchante choſe que dans poile percé",
+            "Vouloir fondre du beure, y vouloir fricaſſé",
+            "Et de ne ſçauoir pas",
+            "Qu'il vaudroit bien mieux enfoncer en amour",
+            "Conſamer ſon temps, y conſumer ſes iours",
+            "Que de vouloir culer ainſi ſur ſes pas",
+            "D"
+        ],
+        [
+            "6",
+            "Ie creue de deſpit, tu creue de courage,",
+            "Ie deuiens plus fole &amp; tu deuiens plus ſage",
+            "En ce lieu l'vn &amp; l'autre",
+            "Nous ferons tant de ieuſnes &amp; tãt de penitences",
+            "Nous ferons tous les iours ſi grandes abſtinences",
+            "Que nous n'aurons en bouche qu'Aués &amp; Pate",
+            "noſtres.",
+            "Ie ſuis ſenſiblement touché de tes mal-heurs",
+            "Ie te dis ſur ma ſoy, que i'ay tant de douleur",
+            "Que ie ne ſçay où il va",
+            "Et quand i'ay conſideré voſtre Bois de Vincenne",
+            "C'eſt pour lors que ie ſens me redoubler ma peine",
+            "Et courir au repas.",
+            "Ie mets deuant les yeux helas que dira t'on",
+            "Apreſent dans la Ville de la pauure Nichon",
+            "Puiſque ſon beau Soleil",
+            "C'eſt mouillé &amp; dipſé apreſent dedans l'onde",
+            "Il faut qu'elle morfonde",
+            "Et jamais elle n'a eu le mal qui fut pareil"
+        ],
+        [
+            "7",
+            "Choſe eſtange, ie pleuray cõme vne ieune pucelle",
+            "Lors que i'ouy parler d'vne ſi triste nouuelle",
+            "Vn eſtan pour noyer ta fatale priſon",
+            "Iuge à preſent par là s'il ne faut pas que l'aurore",
+            "M'aye plus rechaufé qu'on rechaufe vn four",
+            "Si pour t'aymer ſi fort ie declare mon nom.",
+            "Moy qui diſois en moy, quoy, ce braue Condé",
+            "Qui par tant d'aſſauts auoit tout ſurmonté",
+            "Heſtoit ſi vaillant à tant de bons combas",
+            "Que tous les braues enfin qui le conſideroient",
+            "En eſtoient admirez &amp; s'en extaſioient",
+            "En l'ayant ſurnomé au glorieux fils de Mars.",
+            "Ie veux porter le deuil i'en veux porter le voile",
+            "Amaſſer mes chaudrons, ma marmite &amp; ma",
+            "vaiſſelle",
+            "Puis apres m'en aller",
+            "(drons,",
+            "Par tout Paris crier qui veut de vieux chau",
+            "Et puis m'en retourner à ce Palais de Pluton",
+            "Si ie puis y loger.",
+            "FIN"
+        ]
+    ]
+}

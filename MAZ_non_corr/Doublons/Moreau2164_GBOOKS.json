@@ -1,0 +1,87 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1651-12-12",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre du Roy escrite au cardinal Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "persName": {
+                "forename": "Louis",
+                "surname": "Bourbon (De)",
+                "name": "Louis XIV"
+            }
+        },
+        "pubDate": {
+            "@when": "1651-12",
+            "@source": "Carrier",
+            "#text": "Décembre 1651"
+        },
+        "pubPlace": "Sans Lieu",
+        "publisher": "Sans Nom",
+        "nbPages": "2"
+    },
+    "texte": [
+        [
+            "A",
+            ".",
+            "s",
+            "D V",
+            "T T D",
+            "LLII REV Y,",
+            "..",
+            "eſcrite au Cardinal Mazarin.",
+            "ſir",
+            "er es",
+            "ſ On Couſin, i’ay ſujet de croire ſelon les or",
+            "dres que ie vous ay cy deuant donnez, que",
+            "les trouppes que i’ay deſiré que vous miſſiez ſur",
+            "pied, ſont en eſtat de marcher &amp; de me ſeruir:",
+            "C’eſt pourquoy mon intention eſt, que ſans aucune",
+            "perte de temps, vous vous acheminiez auec ces",
+            "meſmes trouppes du coſteé ou ie ſuis, &amp; ſans repli",
+            "quer à cet ordre que vous y obëſſiez; Ie mande à",
+            "mon Couſin le Mareſchal d Hoquncourt, de s’ad.",
+            "uancer auſſi auec celles que i’ay fait aſſembler en",
+            "mes Prouinces de Picardie &amp; Champagne, &amp; par",
+            "vnordre que ie luy adreſſe, le commande à toutes",
+            "les Villes de mon Royaume de l’y receuoir &amp; lo",
+            "ger: Et à rous mes Officiers &amp; ſujets de fauoriſer ſa",
+            "marche. Ce que i’eſpere qu’ils executeront, peu",
+            "d’entre eux pouuans ignorer combien i’en ay be",
+            "ſoin pour reduirc ſoubs mon obeiſſance ceux qui",
+            "s’en ſont ſouſtraits, qui eſt le ſeul moyen qui peut",
+            "auancer leur repos, pour lequel ie trauaille inceſ",
+            "ſamment, &amp; l’affection &amp; la fidelliteé que vous",
+            "auez touſiours eueë à mon ſeruice, m’aſſeurant que",
+            "vous exccuterez ſans remiſe ce qui eſt de ma vo",
+            "309256"
+        ],
+        [
+            "m 1",
+            "? .",
+            "lonté. Ie prieray Dieu qu’il vous ayt mon Couſin en",
+            "ſa ſainte &amp; digne gar de. Eſcrit à- Poictiers le douxie!",
+            "me Decembre mil ſix cens cinquante-vn, Signé,",
+            "LOVIS. Et plus bas DE LOMENIE. Et au",
+            "dos eſt eſcrit.. A mon Couſin le Cardinal Ma",
+            "zarinj.",
+            "no"
+        ]
+    ]
+}

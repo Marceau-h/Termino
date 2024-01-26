@@ -1,0 +1,90 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Paix de Rueil (1649)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-09",
+            "@who": "AB"
+        },
+        "titre": "Ballade sur le cardinal.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": "Anonyme",
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-03-15",
+                "@notAfter": "1649-03-31",
+                "#text": "seconde quinzaine de\n            mars 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans Lieu"
+        },
+        "publisher": "Anonyme",
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "BALLADE",
+            "SVR LE",
+            "CARDINAL",
+            "IE ne ſçay pas ſi durera cent ans",
+            "Ce qu’a produit madame Conference,",
+            "Mais ie ſç̧ay bien qu’aucuns ſont mal con¬",
+            "De ce qu’on rend tant humble deference;",
+            "Et m’a-t’on dit que le Peuple s’ofſenſe",
+            "De voir rentrer le Miniſtre ſorain:",
+            "Sus recourons, dit-il, au tabourin,",
+            "e e eieie i¬"
+        ],
+        [
+            "Le Peuple eſt ſot de ne voir qu’au Prin¬",
+            "temps,",
+            "Il doit partir ſelon toute apparence;",
+            "Dieu le ſçait bien que Iule a dés long temps",
+            "Retenu place au Coche de Florence;",
+            "Et te diray, Lecteur, en aſſeurance,",
+            "Qu’il s’eſt fait faire habit de Pelerin,",
+            "C’eſt pour aller au Pays Barberin:",
+            "Anne pleurez ſa dure departie,",
+            "Las dans vn mois voſtre amy Maſcarin",
+            "Trouſſe bagage, &amp; quitte la partie.",
+            "Luy délogé, quant à moy ie pretens",
+            "Que ceſſera noſtre longue ſouffrance,",
+            "Dans peu de iours ſeront neiges d’antans,",
+            "Les cruels maux qui déchirent la France,",
+            "orsS on verra viure touſiours en tranſe",
+            "Les Partiſans qui n’iront vers Turin:",
+            "Si ne veut donc chanter comme vn ſerin",
+            "Dans quelque cage à l’épreuue baſtie:",
+            "Quiconque aura l’argent du Souuerain,",
+            "Trouſſe bagage, &amp; quitte la partie."
+        ],
+        [
+            "3",
+            "ENVOY.",
+            "REYNE qui vois par maint &amp; maint",
+            "burin",
+            "Ton los graué tant de fois ſur l’airin,",
+            "Soufſre qu’il danſe vn branle de ſortie,",
+            "Qu’il giſte au diable &amp; ſans ſuite ny train,",
+            "Trouſſe bagage, &amp; quitte la partie."
+        ]
+    ]
+}

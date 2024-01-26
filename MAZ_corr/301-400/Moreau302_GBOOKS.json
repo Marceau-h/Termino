@@ -1,0 +1,145 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement , toutes les chambres\n          assemblées , portant défenses, à toutes personnes, de quelque état et condition qu’elles\n          soient , de faire aucunes levées de gens de guerre qu’en vertu de lettres patentes,\n          scellées du grand sceau, à peine d’être déclarées criminels de lèze Majesté.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-10",
+                "#text": "octobre 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "A1",
+            "H 1H",
+            "L L A.",
+            "DE LA",
+            "r¬ N r",
+            "9 1",
+            "COVR",
+            "DE PARLEMENT.",
+            "TOVTES LES CHAMBRES ASSEMBLEES;",
+            "Portant deffenſes à̀ toutes perſonnes de quelque",
+            "eſtat &amp; condition qu’elles ſoient, de faire au",
+            "cunes leuées de Gens de guerre, qu’en vertu",
+            "de Lettres Patentes ſeelécs du grand ſeeau,",
+            "à peine d’eſtre declarez criminels de leze",
+            "Majeſté́.",
+            "Du . Octobre, 165.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires du Ry.",
+            "M. DC. LI.",
+            "Auec Priuilege de ſa Maieſté."
+        ],
+        [
+            "3",
+            "dtt eee lee ouera",
+            "e ẽSu",
+            "ſrſe",
+            "Ms oe",
+            "h",
+            "V l",
+            "s",
+            "dVde",
+            "T Ver",
+            "er c7",
+            "rrTtC, S E EGSTE",
+            "de Parlenent",
+            "i",
+            "Eiour la Courtontes les Cham",
+            "ores aſemblées, dyant delibe",
+            "or laReque preſerdtee pairle",
+            "Procueur Genedral du Roy,",
+            "e qu’attendu que plufieursper",
+            "ſonuenmdad aſre eionnees di",
+            "e ei lep nen un leiſen l e ro nee",
+            "uines peenens leuen de e eie oe ie eei",
+            "leneine dneus eue vie e e e uenr",
+            "un ſinie ounnſion duie e enn oee.",
+            "qu u conue ſon auronre, eomre le Old",
+            "eiſpen dle opnune eut le Sin de ſien u",
+            "nelenuna ſs oeune er n enel",
+            "lerunade daoa pneunus e eue r e eue",
+            "anſ dſnues laudeoie ue pore e ernen",
+            "de ni eopnaole pnr ies ne e one ene.",
+            "lnie enie dieoe ſio re pſe eorer er",
+            "ue qualré &amp;e couduion qirs ſiere de nie",
+            "9",
+            "A",
+            "2¬"
+        ],
+        [
+            "e ae uue e ſenienenſl ſee",
+            "4",
+            "nane eninreu e reie e nuna pi e",
+            "l ene ouſiuel eouis ea erne e dee",
+            "e ene ede eſoe eie eie ene",
+            "ene eoſi io eiea ei nueſe neueire",
+            "eie eene nrſenel elet ene eſee",
+            "aieloe ne di e oe enue e",
+            "ouneunoen e ie ae ean e",
+            "aieſin e elie e i eni unen e",
+            "eneoune e e enede e ele",
+            "aeoe eie",
+            "oerenone enue i oe ene eie.",
+            "poe e e le irel er eſede",
+            "eie ſldr ſle e ieſere e",
+            "iedie de en eloiadre e eneinere",
+            "pteane le oeobreoy",
+            "Signe GvET.",
+            "1",
+            "a rrauis fn eiren nr eueiri",
+            "le ereie eereeeuere",
+            "eſen dlr ene ere edefde e enie",
+            "Ee o e lerei ereilet",
+            "e le e e r eee peoeieie",
+            "li o eru en ereee n oeeo",
+            "pn ir nueoirele ſ lrt",
+            "Sgne CA0",
+            "."
+        ]
+    ]
+}

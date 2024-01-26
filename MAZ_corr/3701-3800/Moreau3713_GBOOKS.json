@@ -1,0 +1,140 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "discours adressé",
+            "stances"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Stances à Mademoiselle.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "persName": "Laisné"
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "STANCES",
+            "A",
+            "MADAMOISELLE",
+            "REines de ces Monts glorieux",
+            "Dont le ſommet voiſin des cieux",
+            "Voit ſous luy ſormer les orages:",
+            "Muſes, quittez voſtre ſeiour,",
+            "Et venez voir en cette Cour",
+            "Vn obiet dont les auantages",
+            "Doiuent donner à nos riuages",
+            "Voſtre denmeure &amp;r a eire auuour.",
+            "Cherchez vos attraits les plus doux,",
+            "C’eſt vne fille comme vous",
+            "Pour qui i’inuite vos careſſes,",
+            "Et pour rendre à ſes qualitez",
+            "Les droits qu’elles ont meritez,",
+            "Sans recourir à tant d’adreſſes,"
+        ],
+        [
+            "7",
+            "2",
+            "Vous n’auez, diuinss Princeſſes¬",
+            "Qu’à ietter l’œil ſur vos beaute.",
+            "o",
+            "N’employez point icy vos voix",
+            "A dire qu’elle ſort de Rois",
+            "De qui tout a ecraint la puiſſance,",
+            "Admirez, pluſtoſt ſa bonté,",
+            "Qui meſlant à ſa Maieſlé",
+            "Vne obligeante complaiſance",
+            "Fait auoüer que ſa naſſance",
+            "Cede à ſa generoſié.",
+            "e",
+            "Ce n’eſt point voſtre illuſtre rang,",
+            "O Prnceſſe, ny voſtre ſang.",
+            "Qui vous rend ſi conſiderable,",
+            "Ces biens vous ſont düs ſeulement,",
+            "D’autres peuuent egalement",
+            "Se vanter d’vn ſort fauorable",
+            "Mais peù ſçauent l’art admirable",
+            "De le poſſeder noblement.",
+            "aêe",
+            "efprit né pour la ſplendeur.",
+            "qus Dieu donne la grandeur",
+            "onne ne pare nurri.",
+            "reeu d peunun os ſs.",
+            "ae quueie er rei",
+            "2L"
+        ],
+        [
+            "5",
+            "Dans quelque cœur indigne d’elle,",
+            "La gloire dont elle eſincelle",
+            "ſouille ce qu’elle a d’eclat.",
+            "Ainſi cette lampe des cieux,",
+            "Qui paur l’vſage de nos yeux",
+            "De ſon feu propre et enmmee,",
+            "Ne ſouffre point d’impureté",
+            "Mais cells dans qui la clarté́",
+            "Par arifice eſt allumee,",
+            "Touſiours de beaucoup de fumee",
+            "Inſecte ſon luſtre emprunteé.",
+            "e",
+            "Doux rauiſſement de la Cour,",
+            "Ò le refpect auec l’amour",
+            "Viuent ſous voſtre obeiſſance,",
+            "Dans l’horreur de ces temps cruelse,",
+            "Ou nos maux ſont continuels,",
+            "Sans le bien de voſtre preſence,",
+            "Auroit-on preſque dans l France",
+            "Dequoy rendre grace aue Autels.",
+            "aeo",
+            "Enfin, apres tant de malheurs,",
+            "Pari a nma ſia à ſes plun,",
+            "Sans crainte que rien ne l’outrage:",
+            "Mais quoy qu’il puiſſe conceuoir,"
+        ],
+        [
+            "4",
+            "Dans ſon plus agreable eſpoir",
+            "Rien ne le charme dauantage",
+            "Brillant miracle de noſtre age.",
+            "Que le bon-heur de vous reuoir.",
+            "5e",
+            "Dans vous, ce port maieſtueux",
+            "Voſtre cœur noble &amp; verrueux",
+            "Ou rien que de haut ne reſpirs",
+            "Tant d’appas dont vous eſclattez,,",
+            "Noas ont tellement enchante,",
+            "Que ſi la terre eſt voſtre empire,",
+            "C’eſt moins que ce qu’on vous deſire",
+            "Et c’eſt moins que vous meritez.",
+            "9",
+            "L’AISNE",
+            "!"
+        ]
+    ]
+}

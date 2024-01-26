@@ -1,0 +1,159 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2021-11-18",
+            "@who": "AB"
+        },
+        "titre": "Déclaration (la) générale des habitants de la\n                    ville d’Orléans, et la réception de monseigneur le duc de Beaufort, avec le\n                    sujet de son arrivée à la ville de Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000385986464",
+            "persName": {
+                "forename": "Jacob",
+                "surname": "Chevalier"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "DECLARA TION",
+            "e s pts nr",
+            "DE LA VILLE",
+            "oRLtANS",
+            "aeeer e",
+            "Dve DE bEAvVEon",
+            "e tee",
+            "8",
+            "A PARIS.",
+            "coe leos cuu u, puodh &amp; lendeluue",
+            "M. DC. LII."
+        ],
+        [
+            "¬A.",
+            ".",
+            "le"
+        ],
+        [
+            "3",
+            "AéfehAbh",
+            "e ee eegrges",
+            "sſoeiss",
+            "P VPe &amp;eep̃",
+            "LA",
+            "DECLARATION",
+            "GENERALE DES HABITANS",
+            "u e l eue",
+            "DE LA VILLE",
+            "D’ORLEANS,",
+            "DVC DE BEAVFORT.",
+            "Auec le ſujet de ſon arriue à la Ville de Paris.",
+            "Outes les fois que le valet ferre la mule,",
+            "l il n’hayt pas ſon Maiſtre; c’eſt pour ſe",
+            "payer bien ſouuent de l’auarice &amp; de l’inno¬",
+            "cence de celuy qu’il ſert: Ainſi Meſſieurs d’Or¬",
+            "leans ayans vne parfaitte connoiſſance des af¬",
+            "faires preſentes, ont refuſé les portes au Cat¬"
+        ],
+        [
+            "dinal Mazarin, quoy qu’il fuſt à la compagnie",
+            "du Roy; non par mépris, mais pour tirer de",
+            "ſ Maieſté, ce qu’elle ne luy accorde pas, &amp; ce",
+            "qu’elle doit, qui eſt le banniſſement du C. M.",
+            "La tyrannie, quelle couleur qu’elle emprun¬",
+            "te, ne peut cacher ce qu’elle eſt; &amp; ſi elle chan¬",
+            "ge, c’eſt pour faite pis. Le Retour de ce Mi¬",
+            "niitre, qui cauſe tous nos malheurs, ſemble¬ !",
+            "roit neceſſaire au bien de l’Eſtat à ceux qui ne 1",
+            "ſcauroient pas ſa maladie; Mais qui çait ce",
+            "qu il eſt, qui a veu ſes cruautez, &amp; les tyran¬",
+            "niq es effets le ſon gouuermement, nepeutſouf¬",
+            "f ſon nom que pour publier ſes malueſa¬",
+            "tions.",
+            "On n’eut pas propoſé pluſtoſt à l’Hoſtel de",
+            "Vlle d’Orleans ce qu’on auoir à faire, que d’vn",
+            "commun conſentement il fuſt conclud qu’on",
+            "executeroit les ordres de Son Alteſſe Royale,",
+            "&amp; ceux de Monſeigneur le Duc de Beaufort,",
+            "qui con duiſoit ſon Armée..",
+            "Par effet, Vendredy 2z. de ce mois, ledit",
+            "Duc de eufort fuſt receu dans O1 leans auec",
+            "des acclararions generales; &amp; aprés beaucoup",
+            "de ſoumiiſions, les Eſcheuins de la Ville pri¬",
+            "rent"
+        ],
+        [
+            "les e eour, e l oaus deoiens ſee",
+            "l enſl e e lenue de euo dlo, lee e ien",
+            "aeii da one e un ine e eiur d Saun n",
+            "teſſe Royale.",
+            "lpo ereua dn ſeioenu l ſDe le ee",
+            "le enenene es peruoe lenen ee",
+            "ne e en e ens le e ue lſe ei uun",
+            "eereinr i nent ie u peae e leider",
+            "le e e peie ie ſoueone enr lien",
+            "aele denerens le un pe l er er",
+            "a oe e oniun ces ooe, d inerero",
+            "aeompuir ſes commandemeunt",
+            "’n ei e eienr pini iooue eſeieee",
+            "eie euee e linile pnie er oe ene",
+            "leur bonue nennue le enu ſe en¬",
+            "p ene oe en nuoires le erieſe.",
+            "ene e oer e ne afeune enſe eue",
+            "lenſe e ioeis oanis nin l eure",
+            "aene ie e e e ie e e eee",
+            "ne oneoe e n eone li nee ie",
+            "ni dDineun ade ned uepuoeion l Son u",
+            "ceſſe Royale."
+        ],
+        [
+            "Hier Lundy matin, i fut areſté que Ma¬",
+            "damoiſele iroit a Orleans pour viſeter les ſuies",
+            "de Son A. &amp; les aſſeurer de ſa proeoioi¬",
+            "Le meſme aiour au ſoir elle eſt panie ae¬",
+            "oneṕe de lponſieurt le Due de feuo.",
+            "e u ure doſnieen, &amp; de deu Courp",
+            "gnies de Cauallerie.",
+            "iuet dre e n le le nendeuire",
+            "onſieut le Due de peauſort ſera armul",
+            "Qdeans l a ioindre le gros de llnmée pot",
+            "onmner baaile, ſi les afdaines ne ’aceonmno",
+            "dent.",
+            "Par l̀ l’on peut voir le deſſein de Son AR",
+            "S comnei nlapire qua merne la Punee nl",
+            "Tpos, puis qu’il oblige Mademoiſelle à le quit¬l",
+            "&amp; a le nneeene eui campagne dans vne ſe¬",
+            "aine roure parieuliere, &amp; quil nepargpne",
+            "an de ſon chr pou Ieieeuion de e qai",
+            "entreprend."
+        ]
+    ]
+}

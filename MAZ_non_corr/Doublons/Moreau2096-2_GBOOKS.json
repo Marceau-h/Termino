@@ -1,0 +1,187 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre du cardinal Mazarin, envoyée à la reine\n                    touchant sa sortie hors du royaume, du 6 mars 1651.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1651",
+            "#text": "1651"
+        },
+        "pubPlace": {
+            "@ref": "geonames:0000000",
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "LETT RE",
+            "CARDINAL",
+            "MAZARIN",
+            "REYNE",
+            "l eo enlſle nee",
+            "ote hondulopaun",
+            "9"
+        ],
+        [
+            "-",
+            "¬",
+            "e",
+            "¬",
+            "E",
+            "¬.. n1¬ ¬",
+            ",",
+            "ja",
+            "aſl",
+            "s¬",
+            "op"
+        ],
+        [
+            "gA,",
+            "’ e’ e’.5",
+            "LETTREDV CRDINL MAZARIN",
+            "enuoyeée ̀ la Reypmne, touchanm ſa ſoriie",
+            "hors dau Royaume.",
+            "dl nAE.",
+            "Auſſitoſt que i’ay veu dans la lettre que",
+            "Voſtre Majeſté m’a fait l’hõneur de m’eſcrire,",
+            "&amp; reconnu par ce que M. de Rauigny, y a",
+            "ad jouſté de ſa part que le Seruice du Roy&amp;",
+            "le V oſtre, demandoien que maretraitre de la",
+            "Cour, fut ſuiuie de ma ſortie hors du Royau¬",
+            "mel’ay ſoubſcrit tres reſpectueuſementaà l’ar¬",
+            "rſt de V. Mdot les comman demens &amp; les",
+            "loix ſeror touſiours l’vnique reigle de ma vie,",
+            "i’ay deſia- deſpeſché vn Gentilhormme pour",
+            "m’aller chercher quelque sille, &amp; quoy que",
+            "ie ſois ſans eſquipage &amp; deſnué detoutos les",
+            "choſes neceſſaires pour vn long voyage le",
+            "’partisy denaain ſans fautu, pourm’eseldler"
+        ],
+        [
+            "droit aà Sedan, &amp; de l paſſer au lieu que l’on",
+            "aura peu obtenir, pour ma demeure, ie dois",
+            "tropdefferer aux ordres de V. M. pour auoir",
+            "ezitte le moins du monde a prendre ces re¬",
+            "ſolutionsCe n’eſt pasMADAME, que beau¬",
+            "coup d’autres quien ma place auec la iſtice",
+            "&amp; le noôbre d’amis que ie puis auoir n’euſſent",
+            "peu trouuer des moyens pour ſe mettre à cou¬",
+            "uert des perſecutions que ie ſouffee auſquels",
+            "neveux point penſer, ayman miéux con¬",
+            "tenter la paſſion de mes ennemis, que de riea",
+            "faire qui puiſſe preiudicier à l’Eſtatou deſpai¬",
+            "re àV M. encore qu’en cette occaſion ls a¬",
+            "yent eu le pouuoir d’empeſcher S. A. R; de",
+            "ſuiure les mouuemens de ſa bonreé nturelle,",
+            "ils n’ont pas laiſſé de luy teſmoigner contee",
+            "leurs intenionqu’ils auoitfort bonne opini",
+            "de ma fidelité, de mon zele pour le bien de",
+            "lEſtat, &amp; demoanentiee reſignarion aux or.",
+            "dres de V. M. Car à moins que d’eſtre enie¬",
+            "rement perſuadez que ie ſuis ineſbralable das",
+            "esſentimei la ilan auuroiet pas eſtex aſer pe¬",
+            "pudeéapour me pouſſerauee ant deviolnee",
+            "ſaas faire aucunereflexion ſur la conniſane",
+            "queie dois auoie des plua ſeeetes &amp; impo¬",
+            "nrsaſnuirs duoiamme dont iay ſ lon,",
+            "Eple mamiemane nyſar leaamye quam?",
+            "ſeruices &amp; la bienueillacede V M moe ae¬"
+        ],
+        [
+            "¬",
+            "quis &amp; qui ſont aſſez eonſiderable pour leui",
+            "õbré par leur qualité &amp; par la paſſion qu’ils",
+            "m’ont teſmoigné en ce rencontre- Mais i’ay",
+            "trop de reſſentiment MAD AME, des graces",
+            "que i’ay reçeu de V.M. pour eſtre eapable de",
+            "luy deſplaire, &amp; quand il faudroitſacrifier ma",
+            "vie, ie ſe ferois aucc ſoye pour la moindre de",
+            "ſes ſatis factions.I’en auray beaucoup das mon",
+            "malheur, ſi V. M. à la bonteé deé conſerueër",
+            "quelque ſouuenir des ſeruices que i’ay ren¬",
+            "du a lEſtat depuis que le feur Roy de glo¬",
+            "rieuſememoireme fſt l’honneur de me con¬",
+            "fier la principalle direction de ſes affaires&amp; deé",
+            "prier V. M. pluſieurs fois ’auant ſa mort, de",
+            "me maintenir-dans la mefme Place: Ie me ſnis",
+            "acquitté deceſt employ,auec la fideliteé, le zeéle",
+            "&amp; e des,-rrrerreſſement que V. M. ſaye, &amp;",
+            "s’il m’eſt bie ſceaue-e e dire auec quélque",
+            "ſucce, preſque toutés les perſonnes’ſenſées",
+            "&amp; les Eſpagnols meſmes auoüẽt qu’ils ſe ſont",
+            "ntoins eſtonnez des grandes eonqueſtes que",
+            "les armées du Roy ont faltes dans les inq",
+            "premiers années de, Voſte Regence que de",
+            "voir que pendant les trois derniers, on n’ayt",
+            "peu ſoutepi les afaires,. de ſauuer du nau¬",
+            "frage vn Vaiſſeau battu de cous coſtez &amp; ſi",
+            "furieuſement’agité parla vampeſtequeles di¬",
+            "uiſions domeſtiques auolent excie. ’euſſe",
+            "."
+        ],
+        [
+            "bie ſouhitté, MADAME, de pouoir Ca¬",
+            "cheraux Eſtrangers, les mauuais traittement",
+            "que ie reçois, pour empeſcher que le blaſue",
+            "nerejallife ſur vne nation que iay touſiours",
+            "haonorée &amp; cherie auec tant de tendreſſe, mis",
+            "quand ils me verront errant parmy eux, auec",
+            "les petſonnes quime ſont plus proches pour",
+            "chercher vn abry, ils auront ſuiet de s’eſton¬",
+            "net qu’vn Cardinal qui à l’honneur d’eſtre",
+            "Parain du Roy ſoit traitté de la ſorte, &amp; que",
+            "vingt. deux ans de ſeruice fidel ue luy aye peu",
+            "acquerir vne retraitte ſeure, en quelque en¬",
+            "roit d’vn Royaume, dont les limites ont eſté",
+            "aſſez notablement eſteduë par ſesſoins.",
+            "Ie’prie Dieu MADAME, que coimme ce",
+            "qui m’eſt arriué n’alterera iamals les paſſions",
+            "immuable que ie conſerueray iuſqu’a la mort",
+            "pour la paoſpeeé a uae M. Par l’agran¬",
+            "diſſement de l’aſtat, ie puiſſe auſſi enfaire",
+            "bientoſt ceſſer les deſordies, &amp; monſtter que",
+            "ceux qui m’oat attaquez n’en veulene qu’à",
+            "ma peſonne, C’eſt",
+            "MADAME,",
+            "von E",
+            "Qu",
+            "De Voſte Mai",
+            "Le eres-humble. res obeiſſanit-erulaar el.",
+            "IVLL Carinal Maeaau."
+        ]
+    ]
+}

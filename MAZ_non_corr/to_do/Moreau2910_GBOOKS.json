@@ -1,0 +1,153 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Prophéties sur les affaires du temps présent et\n                    advenir, tirée (sic) de la Centurie 11, prop. 34, 35 de M. Nostradamus, et ce\n                    que dit Kepler pour la présente année 1649.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "PROPHETIES",
+            "SVRLES AFFAIRES",
+            "DV TEMPS PRESHNT",
+            "ET ADVENIR.",
+            "Tirée de la Centure . Prop34.",
+            "35. de M. Noſtradamus. Et",
+            "ce que dit epler pour lapre¬",
+            "ſente année 16̃49.",
+            "A PARIS5",
+            ". e. Y L’"
+        ],
+        [
+            ".¬,",
+            "t cJ",
+            "5¬ r A",
+            "1",
+            "4?",
+            "! l. L1.2 1.¬¬¬2",
+            "3",
+            "t",
+            "1.;",
+            ".1.i¬¬¬2",
+            "e¬11",
+            "r 7 4",
+            "e51",
+            "T II CI12",
+            ".4 2",
+            "5",
+            "7 5",
+            "1.1",
+            "1..",
+            ". i2",
+            "L.4o’l.1!DL",
+            "¬ 2",
+            ".4",
+            "1",
+            ".:",
+            "1D.",
+            "3. 4.?. .. .. .¬..",
+            "1",
+            ";l, 1¬",
+            "A1er e,",
+            "E JoloA p02",
+            "l A",
+            "r. er;!",
+            ".O 11.",
+            "2IXA A¬",
+            "L",
+            "oon,oogle",
+            "aaa ¬"
+        ],
+        [
+            "Porheis ſa ls atairea da lems preſent a demir",
+            "Tire de M. Naadaous &amp; de eoler.",
+            "Pinces &amp; Seigpeurs tous ſeferont la uerre;!",
+            "Couſin germain, le freres auec le frere,",
+            "Finy l’Arby de l’heureux de Bourbon,",
+            "PeHlieruſalem les Princescantaymable",
+            "Du fait commis euorme &amp; execrable,",
+            "Se reſſentiront ſur la bouſe ſans fond.",
+            "Damepar mort grandementatHſde,2!",
+            "Mere &amp; tutrice au ſang qui l’a quittée,",
+            "unt &amp; Seigneurs faits enfans orphelins,",
+            "Pa les aſpies &amp; pa lasactooodilao:",
+            "ontlurpris fons nogs Caſteaou Vills,!",
+            "pieutout puiſſant le;gde des malins.",
+            ".",
+            "opheties de eple pour l’aanëtr6 .¬",
+            "JVit, quatre ne produira",
+            "AAien querage rien que fureur",
+            "nds &amp; petits, chacui peri,",
+            "l2",
+            "Aſeruir l’eſtat peu d’hone",
+            "¬",
+            "on",
+            "l, luiervern ulnusſol l ee.",
+            "ueſe uereel",
+            "u ani pua de ſeſiſiou",
+            "1"
+        ],
+        [
+            "3¬",
+            "Mais ſur tous les mois mal heureux",
+            "Juin nous fera voir l’Angoumols,",
+            "Iuillet vn peu plus gratieux,",
+            "I romet en outre les ponts de Blois.",
+            "Paris Septembre reç̧eusra,",
+            "Octobre la Baſtille reuerra",
+            "Nouembre vn Ducs’eſloignera",
+            "Et en Decembre perira.¬",
+            "ee",
+            "Alors que tu verras chanter",
+            "Le Roy Caulois ſix, cinq&amp; trois,:",
+            "Vn hommetu verramonter",
+            "Sur l’eſchaffaut de Roys.",
+            "Et celle quiaura trace",
+            "La fortune dutreſpaſſé,",
+            "Perte viendra trois mois apres",
+            "D’vn qui la touche deplusprés¬",
+            "FIN."
+        ]
+    ]
+}

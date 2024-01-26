@@ -1,0 +1,125 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "creation": "1650-05-09",
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Lettre de madame la princesse de Condé à la\n          reine.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000118756621",
+            "persName": {
+                "forename": "Claire-Clémence",
+                "surname": "Maillé-Brézé (De)"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": "Sans Lieu",
+        "publisher": "Sans Nom",
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "103SS",
+            "1",
+            "&amp;et &amp;e:&amp;ée 2t",
+            "LETRE DE MADAC LA PRINCESSE",
+            "de ondeé à la Reyne.",
+            "2",
+            "r pau.",
+            "I’auois differé de donner aduis à̀ Vo",
+            "ſtre Majeſté de mon arriuée en ce lieu, &amp; luy faire",
+            "connoiſtre que la fié́vre &amp; vn grand rhume qui me",
+            "trauailloient depuis long temps à Chantilly, n’ont",
+            "pas eu aſſez de force pour m’empeſcher d’obeyr au",
+            "Roy, auec toute la diligence qu’il m’a eſté poſſible, &amp;",
+            "i’auois reſolu d’attendre que i’euſſe appris des nou",
+            "uelles de Madame ma belle-mere, qui n’a pas eu la",
+            "fanté, la foace, ny l’equipage neceſſano pou ſe en",
+            "dre icy en meſme temps que moy; Mais comme ile",
+            "uis enoore incertaine du temps qu’ele pourra arri",
+            "uer: I’ay creu deuoir aduancer le terme que ie m’e",
+            "ſtois propoſeé de vous écrire, &amp; de porter au Roy, &amp;",
+            "à Voſtre Majeſté́ ma iuſte plainte contre Monſieur",
+            "le Comte deS. Agna, qui ſur l’aduis de mon voya",
+            "ge a fait vne aſſemblé́e de gens ineonnus, a trauerſeé",
+            "les chemins de mon paſſage auec deux cens cheuaux,",
+            "E a dit publiquement à pourges, que s’il m’auoit",
+            "roaconerée, il m’auroit arreſtéeauec mon fils, &amp; au",
+            "oit taillé́ en piecos cinq ou ſx de mes domeſtiques",
+            "quieſcortoient mon carroſſe. Ce procedé MADAME,"
+        ],
+        [
+            "eſt bien extraordinaire à̀ vne perſonne deu qualités",
+            "qui conduit ſon fils, agé de ſix à ſept ans, qui à l’hon",
+            "neur d’eſtre du Sang Royal, dans vne des maiſons",
+            "particulieres de Madame ma belle-mere, ſur la foy",
+            "d’vne Lettre de Cachet du Roy; Mais graces ̀",
+            "Dieu, M A D A E, ſon-erploit e guerre eſt",
+            "terminé en la priſe d’v de rmes cheuàux qu’il a",
+            "emmené en triomphe dans la Ville Capitall d’vn",
+            "des Gouuernements de Monſieur mon mary qu’il",
+            "exerce; Et comnei ſay,M-Ap A mi; que ctr",
+            "te violence, quai aſſeurént prod ds ſo mo",
+            "uement particulier, ne lers pas approuúe de Voſtre",
+            "Maijeſté: I’eſpere qu’elle me feta à̀ cetre ccaſionls",
+            "Iuſtice, qu’elle tend à tous ſes Subjet &amp; queie lu",
+            "demande; l’ay auſſi eſté adaertie par pluſieurap",
+            "ſonnes de creance &amp; de condition, que ledlt ſieut de",
+            "S. Agnan s’eſt vanté en diers lieux, que’. M. luy",
+            "donneroie bieuul des vropp pou m’aſſieger e",
+            "cecte maiſon! En ſuitte de l’aduis qu’il’luy auoit dour",
+            "e par Couries, erpnrés, que y aois miscing cub",
+            "hommes de pieds &amp; deux cens cheuau sSurquoy ise",
+            "diray à V. M. MAAE. &amp; luy proteſteray.",
+            "comme ’ay, deſ ait, dans ne etne que i’ay dé ja",
+            "6erite à Monſiut leellierp qperiea dumonde’et",
+            "plus eonraire à laverité́, &amp; quee n’aychaagé́t &amp; ne",
+            "chãgeray aucune chofe l’ancien odase éſtabIy cean",
+            "ouil n’y a qu’vne gorniſo ’emuinonrdte phodmme",
+            "&amp; nauray point plus doſots ptſeéeqult celledepss",
+            "Dieu pour la proſpcit o . d’́léuentdh filsies",
+            "ſa crainei &amp;le porer̀ oeſme gaſfion-que Mop¬"
+        ],
+        [
+            "1",
+            "ſieuir ſon Pere à touſiours eu pour le ſeruice du Roy;",
+            "celuy de V oſtre Majeſté, &amp; le bien de l’Eſtat, Vous",
+            "aſſeurant MDA mME, que ie fermeray l’oreille à",
+            "toutes les propoſitions que l’on me pourroit faire,",
+            "contraire à̀ ce deſſein, &amp; que ie ne chercheray iamais",
+            "le remede aux maux que i’endure, que dans la bonne",
+            "grace, &amp; la juſtice de Voſtre Majeſté. C’eſt pour ce",
+            "ſujet, MaD AmME, que i’ay écrit aux Preſidiaux",
+            "de Bourges &amp; de Moulins, plus voiſins de ce lieu,",
+            "pour les prier d’enuoyer dreſſer des procez verbaux,",
+            "de l’eſtat auquel il eſt, afin d’en rendre compte à̀ Vo",
+            "ſtre Majeſteé, &amp; luy faire connoiſtre en meſme temps",
+            "la mauuaiſe conduitte du Comte de S. Agnan, &amp; la",
+            "verité de la proteſtation que ie fais, d’eſtre toute ma",
+            "vie de Voſtre Majeſté,",
+            "MADAME,",
+            "1",
+            "Vtre tres-humble, tres-obeyſſante, &amp; tres- fidelle",
+            "ſeruante &amp; ſubictte C airE CLEME c",
+            "de Maille, de Brezé."
+        ]
+    ]
+}

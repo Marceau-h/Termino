@@ -1,0 +1,183 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "lamentation",
+            "plainte"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-01",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-06-15",
+            "@who": "AB"
+        },
+        "titre": "Plainte à la reine des dames qui ont leurs maris dans\n          l'armée mazarine.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "L. M. R. L. D. R. M. N. C. D. R. S. V. A. B. G."
+                }
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:000000038598758X",
+            "@xml:id": "IL_SevestreLouis.xml",
+            "persName": {
+                "forename": "Louis",
+                "surname": "Sevestre"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "PLAINTE",
+            "A LA",
+            "REYNE",
+            "DES DAMES DE",
+            "Paris, qui ont leurs maris dans",
+            "l’Armée Mazarine.",
+            "A PARIS,",
+            "Chez LOVIS SEVESTRE, ruë",
+            "du Meurier, prés ſainct Nicolas",
+            "du Chardonnet.",
+            "M. DC. XLIX."
+        ],
+        [
+            "3",
+            "PLAINTEA LA REYNE",
+            "des Dames de Paris, qui ont leurs",
+            "maris dans l’armée Mazarine.",
+            "MADAME,",
+            "Eſt-il poſſible que cette dou",
+            "ceur d’eſprit qui ſembloit eſtre",
+            "inſeparable de voſtre Royale.",
+            "Majeſté ſe ſoit tellement éua",
+            "nöie, qu’il n’en paroiſe plus en vous ny trace ny ap",
+            "parence? Quoy Madame, ce cœur d’vne veritable",
+            "Reyne de France qui eſtoit ſujet à tendreſſe &amp; à pit́",
+            "pour ſon peuple, deuiendra-t’il plus impaſſible que",
+            "celuy de la Reyne des Schites ou des Tartares. Qu’eſt",
+            "deuenuë cette charité de laquelle vous vous eſtez",
+            "vanté́e par tous les Cloiſtres de cette grande ville de",
+            "Pans, Il faurt qu’elle ce ſoie diſſipée, puiſque ſans au",
+            "cun ſujet vous vous eſtes reſoluë de faire mourir de",
+            "faim vn million d’ames innocentes? Sont- ce là les",
+            "beaux ftuits que nous eſperions de voſtre regence?",
+            "A 1j"
+        ],
+        [
+            "Nous nous perſuadions vn ſiecle d’or, mais nous en",
+            "auonsvn de fer, le plus cruel qui ait eſté veu depuis lal",
+            "naiſſance du monde. Fut-il jamais ren de ſemblable",
+            "&amp; nos Hiſtoires paſſeront-elles pas pour des Romans,",
+            "qu’vne Reyne de Prance de la naiſſance qu’eſt voſtre",
+            "Majeſté, ſe ſoit reſoluë de s’enleuer de ſa villeCapitalle,",
+            "d’emmener le Roy à deux heures apres minuit vn jour",
+            "des Roys, jour de rejoü̈iſſance, pour le maintien d’vn",
+            "Eſtranger qui a volé toutes ſes finances, &amp; qu’au meſ",
+            "me temps elle ait engagé deux Princes du Sang à ſa",
+            "prorection, &amp; pluſieurs perſonnes de condition &amp; de",
+            "merite. Qui le croyra Madame, que pour vn Eſtranger",
+            "on ait veu la France en armes contre la France meſme?",
+            "le",
+            "Les autres Eſtrangers&amp; auſſi bien que luy nos ennemis,",
+            "ne riront ils pas de nos folies, ne tiendront-ils pas à fa¬l",
+            "bles, &amp; en croyront-ils leurs Gazettes, que voſtre paſ",
+            "ſion ait armé les freres contre les freres, les couſinscon",
+            "tre les couſins, &amp; que nos maris ſoient reduis par vne l",
+            "obeiſſance folle &amp; eſtourdie d’affamer nous &amp; nos en",
+            "fans, &amp; par vne complaiſance exrauagante d’oublhier",
+            "tout deuoir d’amitié́ &amp; de charité, &amp; aà quoy s’oceu",
+            "pent-ils auec ces braues Generaux à̀ aſſieger Cha¬i",
+            "eneoninene oen eoenenoen een en onul",
+            "renton, ou Brie-Comte-Robert, &amp; autres petites bour",
+            "ſonnables oceupations de leurs pages ou de leurs la",
+            "quais, &amp; quelles conſolations pouuons nous auoirs’ils l",
+            "y ſont tuez, pareille du moins que celle de Madame de",
+            "oninſen ele nue irnſeoue eoea e eſe l",
+            "Chaſtillon de la mort de Monſieur ſon mary, deſç̧a",
+            "lors de leurs funerailles, ne ſommes-nous pas bien",
+            "traittées,"
+        ],
+        [
+            "traitté́es, Madame, &amp; n’auons nous pas raiſon de benir",
+            "voiſtre regence &amp; l’eminente adminſtration duCardi",
+            "nal Mazrin, c’eſt vn perſonnage qui merite bien que",
+            "nos maris ſoient ſacrifiez pour luy, lors que nous les",
+            "voyons oceupez en Allemagne pour le maintien de",
+            "l’Hſtat &amp; de la Couronne, Quoy que les Generaux",
+            "baillaſſent des batailles aſſez temerairem̃t nous ſuf",
+            "frions auec quelque patiẽ̃ce leur eſlognement &amp; l’ha",
+            "zard de leur vie, pource que nous nous y propoſions",
+            "quelque honneur, mais mantenant que toutes leurs",
+            "victoires ne peuuent eſtre que des parricides &amp; des at",
+            "tentats contre leur patrie, contre leurs parens, contre",
+            "leurs amis &amp; contre eux-meſmes, cela auec beaucoup",
+            "de raiſon &amp; de juſtice nous deſeſpere. De quel œil pen",
+            "ſez vous Madame que nous pſſions voir nos enne",
+            "mis envoyant nos maris, ceux qui auront peut eſtre",
+            "tueénos freres, nos amis &amp; nos parens, qui auront fait",
+            "mourir de faim nos filles, nos enfans &amp; nos nepueux,",
+            "non Madame, de quelque force que ce nœud nous aſ",
+            "ſemble, nous ne pouuons point tenir pour nos maris,",
+            "ceux qui font la guerre à noſtre patrie, nous les rejet",
+            "rons comme infames, con me gens qui ne meritent",
+            "point noſtre poſſeſſion, ce n’eſt pas Madame, que nous",
+            "ayons aucune penſée d’en prendre d’autres Nous nous",
+            "ſommes declarées vefues dés l’iſlan meſme que nous",
+            "auons ſceu nos maris ecngag z ence deteſtable paty;",
+            "mais nous proteſtõs que s’il eſtoit en noſtre de ſir d’en",
+            "fare choix, que nous choiſirons de nos braues &amp; ge",
+            "nereux Chefs qui deffendent ſi bien nos muraillcs. En",
+            "fin Madame ne penſ zpas qu’aucun deſir nous pren ne",
+            "B"
+        ],
+        [
+            "de les ller trouuer, ny d’approuuer vne ocupation",
+            "ſi njuſte, N1s ſuppons voſtre Maieſté de conſide",
+            "rer que nous en dereſtons la cauſe, en telle ſorte qu0",
+            "nous faſons vœu de ne les voir jamaiss’ils ne quttent",
+            "la protection du Cardnal Mzarin, incontinãt qu’ils",
+            "auront ſceu noſtre reſolution Nous ſç̧auons bien,",
+            "Mdame, qu’en cette penſee voſtre Majeſté aura pe",
+            "ne de receuoir nos complimens, mais quoy qu’l en",
+            "ſoit, nous prions Deu qu’il vous veuille changer le",
+            "cœur, &amp; qu’il deſille vos yeux afin que vous faſſiez",
+            "vne notable diſtinction des Dames veritablement",
+            "Françoſes d’auec ces hypoentes qui flattent voſtre",
+            "paſſion &amp; gaſtent voſtre Cour, alors vous cognoi",
+            "ſtrez que nos ſentimens ſont juſtes, &amp; que dans les ge",
+            "nereuſes plaintes que nous faiſons que nous auons",
+            "conſerué l’honneur, le reſpect &amp; l’obeiſſance telle que",
+            "nous deuons à noſtre veritable Reyne. Nous ſom",
+            "mes,",
+            "MADAME,",
+            "De voſtre Majeſté",
+            "Tres-humbles, cres. obeiſſantes &amp; tres-fidelles",
+            "ſujettes &amp; ſeruantes L M.R. L.D.R.",
+            "M.N. C. D.R. S.V. A. B. G."
+        ]
+    ]
+}

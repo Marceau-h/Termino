@@ -1,0 +1,143 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "dialogue",
+            "discours adressé",
+            "épigramme",
+            "sonnet",
+            "poésie à forme fixe"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-01",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Dialogue ou Discours d’un gentilhomme françois avec un\n          cardinaliste, réduit en sonnets et en épigrammes.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000108647130",
+            "@xml:id": "IL_BoudevilleClaude.xml",
+            "persName": {
+                "forename": "Claude",
+                "surname": "Boudeville"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "DIALOGVE",
+            "O V",
+            "DISCOVRS",
+            "GENTILHOMME",
+            "FRANCOIS AVEC",
+            "VN CARDINALISTE.",
+            "Reduit en Sonnets &amp; Epigrammes.",
+            "AAns",
+            "E, ruë des Carmes,",
+            "ce Cuavp",
+            "ar eiuii",
+            "e eennn"
+        ],
+        [
+            "31",
+            "AaAA’Aadaa’aâ ahA’ bb",
+            "DIALO GVEOV DISCOVR",
+            "d’us Getil-homme Francois auer vn Cardinaliſte.",
+            "Reduit en Sonnets &amp; Epigrammes.",
+            "LE FRANC OIS.",
+            "My, toy qu’on eſtime au rang des Fauoris",
+            "SA Dí ſoutoe uauan, quene ſais u u ne",
+            "Q Comment demeures-tu auec nous dans Paris",
+            "ESans craindre les fureurs qui ſuiuent la famine?",
+            "e rue in orune auure ſois pour on bien",
+            "Eſſaya ſi ton cœar eſtoit lItalien;",
+            "Mais qu’elle ayant connu qu’en ton cœur &amp; ton ame",
+            "Pour des biens paſſagers iamais tu ne conçois",
+            "Quo de ſimples deſits, ou qu’vne ſimple flame,",
+            "Te laiſſe mainuenant entre les bons François?",
+            "Le Cardinaliſte.",
+            "Amy, l’on ſçaie bien la faueur",
+            "Que m’a offert cette Deeſſe,",
+            "Mon ame languit de triſteſſe",
+            "Au ſouuenir de ce bon-heur.",
+            "Ie ne puis viure ſans deépit;",
+            "Mon refus fait de peu d’addreſſe",
+            "Donne à connoiſtre la foibleſſe",
+            "De mon ſens &amp; de mon eſprit.",
+            "A regret ie ſejourne icy;",
+            "Ie ſuiuray par tout ſans ſoucy",
+            "Mon Maiſtre au peril de ma vie:",
+            "Ie ne ſuis en peine du mal",
+            "Que peut endurer ma Pasrie",
+            "Car i’ay le cœut tout Cardinal.",
+            "Le Frayois.",
+            "Ne t’aceuſe point d’imprudence,",
+            "Amy, ne mets ſur toy le tort;"
+        ],
+        [
+            "4",
+            "Er mcy ie plains ton mauuais ſort",
+            "En vn cas de telle irmportance.",
+            "le b’ame pourtant la ſotiſe",
+            "Du Conſeil de ces ſcrupuleux,.",
+            "Qui ont eſté ſi rigoureux",
+            "De eauoir fait laſcher la priſe.",
+            "Si tu me crois, quoy que tu faſſes,",
+            "Tu n’auras plus de telles graces;",
+            "C’eſt vn Arreſt qui t’eſt fatal:",
+            "En vain tu veux ſuiure ton Maiſtre;",
+            "Qu’attends-tu de ce Cardinal,",
+            "Puis qu’a tous François il eſt traiſtre?",
+            "Le Ca-dinmaliſte.",
+            "Amy ie le confeſſe, il n’eſt pas equitable",
+            "De ſeruir vn Tyran auec affection,",
+            "Mais ie ne puis pas voir ce qui m’eſt profitable",
+            "Parmy les embarras de la cnfuſion.",
+            "Diuerſes paſſions troublent beaucoup ma vie;",
+            "Souuent i’ay pour iamais vn deſir ſingulier",
+            "(Comme le’bon François d’obliger ma Patrie,",
+            "Mais ie medite auſſi non bien particulier.",
+            "le ne ſuispas ſans erainte, &amp; ſans inquietudes:",
+            "Si ie perds mon ſeruice, ou ſeront mes eſtudes,",
+            "Mes veilles, mes trauaux ? ſeront-ils pour neant?",
+            "Si ie dois au pais, le cœur, l’amour extréme,",
+            "Ne dois-ie pas auſſi bien ſonger pour moy-méme",
+            "Ne voyane plus à moy que du vuide &amp; du vent4",
+            "Le Fraçois.",
+            "Amy, donc ſans perdre le tems,",
+            "Dedans l’oceurrence opportune",
+            "Pourſuis, faits ce que tu pretens,",
+            "Tente encor vn coup la fortune",
+            "Sans ſeruir ( comme Italien)",
+            "Ce tragique Comedien:",
+            "Quitte Paris, ſinon la France,",
+            "Il t’eſt maintenant trop fatal,",
+            "Veu qu’il bannit ton eſperance",
+            "En exilanc le Cardinal.",
+            "F I N."
+        ]
+    ]
+}

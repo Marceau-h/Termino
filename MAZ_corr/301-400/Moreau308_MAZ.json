@@ -1,0 +1,140 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, donné, toutes les chambres\n          assemblées, contre le cardinal Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-01-25",
+                "#text": "daté du 25 janvier 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "TOVTES LES CHAMBRES ASSEMBLÉES.",
+            "Contre le Cardinal Mazarin",
+            "Du vingt-cinquieſme Ianuier 152.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires du Roy.",
+            "M. DC. LII.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "cembre dernier; enſemble ſur l’execution",
+            "de la Declaration dudit Seigneur Roy, &amp;",
+            "Arreſt de verification d’icelle du ſixié́me",
+            "Septembre dernier, &amp; les Arreſts des trei",
+            "2éme, vingtiéme &amp; vingt-neufiéme du",
+            "dit mois de Decembre, douziéme &amp; ſei",
+            "ziéme de ce mois &amp; an, &amp; autres Arreſts",
+            "precedens, donnez contre le Cardinal Ma",
+            "zarin, &amp; ſur les Lettres eſcrirtes à̀ ladite",
+            "Cour, de la part des Parlements de Roüen,",
+            "Bretagne, Thoulouſe; &amp; Arreſts deſdits",
+            "Parlements de Roüen, Bretagne &amp; Thou",
+            "louſe, contenus eés Regiſtres de la Cour des",
+            "dix-ſeptieme de cedit mois &amp; du iour",
+            "d’hyer, &amp; ſur les Concluſions du Procuredr",
+            "General dudit Seigneur Roy;A ARRESTE’",
+            "&amp; ordonné, que tres-humbles Remonſtran",
+            "ces par eſcrit ſeront faites au Roy pour",
+            "l’eſloignement dudit Cardinal Mazarin;",
+            "cependant la Declaration dudit Seigneur",
+            "Roy, &amp; leſdits Arreſts donnez contre le",
+            "dit Cardinal, auparauant &amp; depuis ladite",
+            "Declaration, executez; A cette fin en",
+            "uoyés à la diligence du Procureur Gene",
+            "ral,"
+        ],
+        [
+            "ral, en tous les Bailliages, Seneſchauſ",
+            "ſées &amp; Sieges du reſſort, pour y eſtre pu",
+            "bliée, gardée &amp; executée ſelon leur for",
+            "me &amp; teneur, &amp; qu’il ſera fait reſponſe",
+            "de la part de ladite Cour, aux Parlements",
+            "qui ont eſcrit à icelle; auſquels, &amp; à tous",
+            "les autres Parlements, le preſent Arreſt",
+            "ſera enuoyé, &amp; inuitez de donner pareil",
+            "Arreſt en eſcrit à Monſieur le premier",
+            "Preſident, Garde des Sceaux de France, &amp;",
+            "prié de faire inſtance vers iceluy Seigneur",
+            "Roy, pour la liberteé de Monſieur François",
+            "Bitault, Conſeiller en ladite Cour, &amp; pour",
+            "ce enuoyeé homme exprés; &amp; ledit ſieur",
+            "premier Preſident prié́ de donner reſponſe",
+            "de noſtre arreſté; Qu’il ne ſera procedé́ en",
+            "ladite Cour, à̀ la reception d’aucun Duc,",
+            "Pair, Mareſchal de France, ny autres Of",
+            "ficiers de la Couronne, que ledit Cardi",
+            "nal ne ſoit ſorty hors du Royaume, Terres,",
+            "&amp; Places de la protection du Roy; meſme",
+            "à l’eſgard du ſieur Mareſchal de la Mille",
+            "raye, qu’il n’ait ſatisfait au Parlement de",
+            "Bretagne: Comme auſſi ſera, à la requeſte"
+        ],
+        [
+            "dudit Procureur General, informé des de",
+            "ſordres commis par les Trouppes, com",
+            "mandées par le Mareſchal d’Hoquincourt;",
+            "&amp; ce par le premier des Conſeillers de la",
+            "Cour, trouué ſur les lieux, Lieutenant",
+            "Criminel de Sens, ou par le premier Iuge",
+            "Royail ſur ce requis, pour les informations",
+            "faites &amp; rapporté́es, communiquées à ice",
+            "luy Procureur General, eſtre ordonné ce",
+            "qu’il appartiendra. FAIT en Parlement",
+            "le vingt-cinquiéme Ianuier mil ſix cens",
+            "Cinquante-deux.",
+            "Signé DV TILLET.",
+            "Collationné à l’Original par moy Conſoiller",
+            "Secretaire du Roy, Maiſon &amp; Couron",
+            "ne de France, &amp; de ſes Finances."
+        ]
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "chanson",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-11-23",
+            "@who": "KA"
+        },
+        "titre": "La nouvelle courante. A la reine.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-04-20",
+            "#text": "20 avril 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2982652",
+            "@source": "Moreau",
+            "#text": "Rouen"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LA NOVVELLE",
+            "COVRANTE",
+            "A LA REINE",
+            "LA Reine auec trop",
+            "d’amour,",
+            "Souffre dans la Cour,",
+            "Cet eſtranger,",
+            "De qui la France enfin veut",
+            "ſe vanger.",
+            "Et ſi lePrince embraſſe ſa deffence.",
+            "C’eſt par enfance,",
+            "Car on",
+            "ſçait bien,",
+            "Que tout le monde hait cét Italien,",
+            "Il a trop fait voir ſa rigeur,",
+            "Dans",
+            "noſtre langeur,",
+            "Et ce voleur,",
+            "Ne reſpiroit que le commun mal-heur,",
+            "Mais ſi",
+            "la Reine appuye ſa malice,",
+            "C’eſt iniuſtice,",
+            "Car l’on ſçait bien,",
+            "Que le",
+            "pendart ne vallut iamais rien."
+        ],
+        [
+            "4 2",
+            "s",
+            "En vain il cherche la faueur",
+            "De ce grand vainqueur,",
+            "Iln’aura pas,",
+            "Tant debon- heur que dans d’autres cobats,",
+            "Puiſque le Cielqui prend noſtre deffence,",
+            "Enfin s’offence,",
+            "Ct lonſçaitbien,",
+            "Qu’onne doit plus voir cét Italien.",
+            "En vain Orleans eſt pourluy.",
+            "a?.,",
+            "C’eſtvnm foible appuy,",
+            "Car qui ne ſçait,",
+            "Que ce grand Princea touſiours peu d’effet,",
+            "Quoy que l’Abbéſoit touſiours de ſa Ligue,",
+            "cnvainilbrigue,",
+            "Carl’onſçait bien,",
+            "Que s’il promet il change en moins de rion,",
+            "3",
+            "Ainſi que ce tiſon dcnfer,",
+            "Qui croit trimpher,",
+            "N’eſpére pas,",
+            "ei ceuire nereoeneiele",
+            "éCnces Guérriers qui luy preſtent le bras,.",
+            "4",
+            "Pour tout potage,",
+            "e e le daee rondspoaponr",
+            "FIN"
+        ]
+    ]
+}

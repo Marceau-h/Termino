@@ -1,0 +1,183 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "lettre",
+            "arrêt",
+            "texte officiel"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1652-07-11",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Lettres des députés du Parlement à nos seigneurs de la\n          cour, avec l'arrêt de ladite cour, du mercredi 17 juillet, rendu, toutes les chambres\n          assemblées, en présence de Son Altesse Royale et de messieurs les princes.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-09",
+                "#text": "septembre 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
+            "persName": {
+                "forename": "Jacob",
+                "surname": "Chevalier"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "S",
+            "e e D",
+            "¬ 0",
+            "DESDEPV TE",
+            "DV PARLEMENT.",
+            "A NOSSEIGNEVRS",
+            "DE LA COVR",
+            "APVEC L’ARREST DE LADTE coR",
+            "da Mercredy 7. Juillet, rendu toutes les Chambres",
+            "aſſemblees en preſcnce de ſon Alteſſ Royale,.",
+            "de Meßeurs les Princer.",
+            "A",
+            "9",
+            "Cez Ico Ca Va ps Sint leas",
+            "ei 1"
+        ],
+        [
+            "yesgpsggs",
+            "&amp;&amp;Qe e Se&amp;e&amp;",
+            "Lettres des Deputez du Parle",
+            "ment à Noſſeigneurs de la",
+            "Cour, auec l’Arreſt de ladite",
+            "Cour du Mercredy i Iuillet,",
+            ". 9",
+            "rendu toutes les Chambres aſ",
+            "ſemblées, en preſence de ſon",
+            "Alteſſe Royale, &amp; de Meſ",
+            "ſieurs les Princes.",
+            "Ce Mardy vnze heures dau ſoir",
+            "Ovs auons eu Audience du:",
+            "l Roy à̀ huit heures &amp; demie",
+            "Jl au ſoir, on nous a leu vne",
+            "N Reponſe du Roy par eſcrit, par",
+            "laquelle on promer donne",
+            "Jnifin au Cardinal Maarin de ſe reeire",
+            "quand Monſieur le Prince aura promis &amp;",
+            "accorde de rononcer aux alliances qu’il a auee",
+            "IEſpagne, &amp; d’exeeuter d’autres conditions",
+            "neceſſaires pour l’eſtabliſſement de Ia Paix:",
+            "Oa uous ordonne d’en donner aduis à Meſ¬.",
+            "A i"
+        ],
+        [
+            "4.8",
+            "44",
+            "ſieurs les Princes, afin qu’ils enuoyent des!",
+            "Deputez pour en conuenir: &amp; nous com",
+            "mande de ſuiure le Roy, pour eſtre teſnoins",
+            "de ce qui ſe paſſera. Monſieur le Preſident",
+            "de Neſmond a prié́ le Roy de nous donnet",
+            "congé de nous retirer, y ayant long-temps",
+            "que nous ſuiuons la Cour, Le Roy a repli",
+            "qué que nous ſuiuions, &amp; que l’on n’en",
+            "parle plus. Nous auons eſteé ce ſoir auec Mon",
+            "ieur le Garde des Sceaux pour luy dire que",
+            "nous ne pouuons ſuinre le Roy, il eſtoir cou",
+            "ché, nous y retournerons demain matin luy",
+            "dire, le Roy va demain aà̀ Ponthoiſe Dieu",
+            "aydant.",
+            "Ds Mercredy r7. à hait heures dumuat.",
+            "J Epuis ma lettre eſcritte hier, Monſieus",
+            "Seruient eſt veni nous troer à cin",
+            "heures du matin de la part du Roy, dire que!",
+            "les Princes ne veulent deputer vers le Roy",
+            "qu’il nous donnent pouuoir, &amp; le Roy trouue",
+            "bon que nous traittions pour eux, &amp; promet",
+            "eſloigner le Cardinal Mazarin ſi toſt que I’on",
+            "ſera conuenu des ordres pour la pacificarion",
+            "du Royaume, auant meſmes qu’ils ſõient exe",
+            "utez, &amp; ſur noſtre remoſtrance que nous ne",
+            "pouu"
+        ],
+        [
+            "pouuons ſuiure le Roy à Pomoiſe; on nous a",
+            "fait dire par Monſieur Sainctot de la part d",
+            "Roy qu’il nous permet de demeurer à S.De",
+            "nis pour nous pouruoir deParis des choſes nel",
+            "c ſſaires, &amp; faire ſç̧auoir la Reſponſe du Roy",
+            "aux Princes. Receuoit leurs reſolutions",
+            "pour l’enuoyer au Roy à̀ Põtoſe.&amp; que nous",
+            "attenderos icy les ordresde ſà Maielté: Le Roy",
+            "eſt party à cinqheures pour Pontoiſe; &amp; ſoa",
+            "Armeée auſſi.",
+            "2",
+            "Extaitt des Regiſtnes de Pblemene.",
+            "e jour toutes les Chambres aſſem",
+            "blées, Monſieur le Duc !d’Odeaus",
+            "ocle du Roy, &amp; Monſieur le Prihoe de",
+            "Condé y eſtant preſens, Beſchefer Su hſtinle",
+            "pour le Procureur General, ouuertute",
+            "ayant eſté faite du pacquet de Lettres ap",
+            "porté́ à ladite Cour de la part des Depu",
+            "tez d’icelle, eſtant aà Saint Denis, &amp; lecture",
+            "deſdires lettres faite: de la Reponce à eux",
+            "faite de la part dudit Seigneur Roy du jour",
+            "d’hyer. &amp; dire dudit ſieur Seruien auſdits",
+            "Desputez de ce jour, contenue au preſent",
+            "Regiſtre, ouy ſur ce ledit Subſtitut, luy re",
+            "B"
+        ],
+        [
+            "eiréla matiere miſe en deliberation. Ladite",
+            "Cour à emis à̀ demain ſept heures du ma",
+            "tain toutes affaine ceſſantes à̀ deliberer ſut",
+            "les Arrſts du &amp; isudit mois, Ordoane",
+            "que Meſſieurs les Desputez d’icelle s’y",
+            "trouueront, &amp; que Monfieur le Chancelier",
+            "&amp; les Ducs &amp; lPaits eftans en cette ville,Se",
+            "l’Archeueſque de Paria &amp; tous les Conſeil",
+            "lers d’icelle leront aduertis d’y aſſiſter, les",
+            "gens du Roy d’y venir faire leur charge,",
+            "&amp; à cette fin ont eſté Deſputez Meſſieurs",
+            "Pierre Payen &amp; Seuin Conſeillers en ladite",
+            "Cour, vers ledit ſieur Chanceher, &amp; Radi",
+            "gue Secretaire de la Cour, d’a!ler vers les",
+            "us &amp; Pais &amp; Archeueſque, &amp;e le Pre.",
+            "oier Hduiſfier de faire aduerrir les Conſeil.",
+            "lers &amp; Gens du Roy. Fait en Parlement",
+            "ce . tulliet s5je.",
+            "T",
+            "vna e",
+            "¬¬"
+        ]
+    ]
+}

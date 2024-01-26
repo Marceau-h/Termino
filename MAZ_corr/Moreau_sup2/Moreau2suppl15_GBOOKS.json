@@ -1,0 +1,124 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la Cour de partement portant qu'il sera fait\n          assemblée en l'hôtet de cette ville pour la sûreté d'icelle et éloignement du cardival\n          Mazarin; du mercredy vingt quatrieme juillet 1652.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-07",
+                "#text": "juillet 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "D DC",
+            "ARRES T",
+            "ereteier",
+            "ortant qu’il ſera fait aſſemblée",
+            "enlHoſtel de ceſte Villepour",
+            "la ſeureté d’icelle, &amp; eloigne",
+            "nent du Cardinal Mazarin.",
+            "Mercredy vingt-quatrieſme Iujlleti65.",
+            "A PARI S,",
+            "mpruu &amp; lbuie ordiouie duon",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "EXTRAIT DES REGISTRE8",
+            "de Parlement.",
+            "E jour la Cour, toutes les",
+            "Chambres aſſemblées, Mon",
+            "ſieur le Due d’Orleans Oncle",
+            "du Roy, &amp; le ſieur Prince de",
+            "Condé y eſtans; Apres auoir",
+            "oy Befchefert Subſtitut pour le Procureur Ge",
+            "neraldu Roy, &amp; ayant deliberé ſur l’eſtat des",
+            "affaires preſentes, &amp; exeeution de l’Arreſt de",
+            "ladite Cour du o. de ce mois &amp; an; A OrR",
+            "nonn e’&amp; ordonne, qu’il ſera fait inceſſam",
+            "ment vne Aſſemblée generale en l’Hoſtel de",
+            "ceſte Ville, eu la maniere accouſtomée, poun",
+            "aduiſer aux moyens les plus prompts &amp; con",
+            "uenahles, afin d’auoir des deniers pour em",
+            "ployer aux neceſſitez preſentes, libertez des",
+            "paſſages, &amp; du commetce, ſeureté &amp; defen",
+            "ſe de ladite Ville de Paris, &amp; éloignement du",
+            "Cardinal Mazarin, ſuiuant la Declaration du",
+            "A ij"
+        ],
+        [
+            "4",
+            "Roy, &amp; Arreſt de ladite Cour; &amp; que les",
+            "deniers prouenans des Fermes des Gabelles,",
+            "Aydes, cinq groſſes Fermes, Tailles, &amp; autres",
+            "eſtans entre les mains des Comptables, Fer",
+            "miers &amp; Redeuables, &amp; qui ſeront à l’aduenir,",
+            "ſeront apportez ineeſſamment en ladite Ville",
+            "de Paris, pour eſtre employez au payement",
+            "des Rentes conſtituées ſur icelle, à la déchar",
+            "ge de ſa Majeſté, &amp; autres neceſſitez; nonob",
+            "ſtant tous ordres &amp; empeſchemens faits ouà",
+            "faire: Fait deffenſes auſdits Comptables, Fen",
+            "miers, Redeuables, &amp; à toutes autres perſon",
+            "nes de diuertir leſdits deniers à peine du qua",
+            "druple, &amp; autre punition. Enjoint aux Of",
+            "ciers du Roy des lieux, Maires, &amp; Eſcheuins",
+            "des Villes d’y tenir la maid. Et ſeront le pre",
+            "ſent Arreſt, &amp; celay du ao. de c mois enuoyez",
+            "aux autres Parlemens, qui ſeront conuiez de",
+            "donner pareil Arreſt: Et leſdits Areſts leus &amp;",
+            "publiez en tous ls Baillages &amp; Seneſchauſſées",
+            "du reſſort, &amp; affichez par tout ou befoin ſera:",
+            "Enjoint aux Subſtituts dudit Procureur Ge",
+            "neral en certifier la Cour au mois. FA enPar",
+            "lement le 24Iuillet i6s. Signé D.TILLET.",
+            "Coſlationmoe à l’Original, par m Conſeille, Seeretaio",
+            "d Rogy, dſon Courome de Franee &amp; de ſes Finaces?",
+            "rone",
+            "S2"
+        ]
+    ]
+}

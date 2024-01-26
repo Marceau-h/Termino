@@ -1,0 +1,121 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-06-20",
+            "@who": "ZC"
+        },
+        "titre": "Satyre contre Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1651",
+            "#text": "1651"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "SATYRE",
+            "CONTRE",
+            "MAZARIN",
+            "A PARIS,",
+            "M. DC. LI."
+        ],
+        [
+            "SATYRE",
+            "Contre Mazarin",
+            "VLES Mazarin Cardinal,",
+            "Toy qui nous as fait tant de mal,",
+            "ee Qu’on ne peut le penſer ny dire,",
+            "Eſcoute les airs de ma lyre.",
+            "A ce coup te voila foutu,",
+            "C’eſt dommage pour ta vertu,",
+            "l’entens parler de ta brayette,",
+            "Car pour d’autre vertu ſecrete,",
+            "Chacun dit que tu n’en as point,",
+            "Et qu’en tout horſmis en ce point,",
+            "Tu ſerois le moindre des hommes,",
+            "Qui viuent au ſiecle ou nous ſommes.",
+            "Tu n’as gueres plus de ſçauoir,",
+            "Que ceux qu’on meine à l’abreuuoir,",
+            "Deuant que leur donner l’auoine.",
+            "Beau Cardinal à la douzaine,",
+            "Tu n’es pas digne ſucceſſeur;",
+            "Du grandDuc ton predeceſſeur."
+        ],
+        [
+            "6",
+            "Dreſſé pour faire voir au monde,",
+            "Goliath vaincu par la Fronde.",
+            "Pariſiens, &amp; Bourdelois,",
+            "Vous rirez trop à cette fois.",
+            "Et la Champagne rauagée,",
+            "Ne pouuant mieux eſtre vangee,",
+            "Que par la mort de ce Tyran,",
+            "Commancera dans moins d’vn an,",
+            "A ſe releuer de ſa perte,",
+            "Et lors noſtre France deſerte,",
+            "De ce monſtre d’iniquité,",
+            "Plein d’orgueil, &amp; de vanité,",
+            "Aura la Paix, ſi ie ne réve.",
+            "Ou du moins vne longue tréue,",
+            "Tant ſouhattée des François,",
+            "Fidelles ſuiets de nos Roys,",
+            "Ie ſçay fort bien Foutu viedaze,",
+            "Qu’vn coupde pied de mon Pegaze,",
+            "Porté contre vn grand animal,",
+            "Ne luy ſçauroit faire du mal,",
+            "Mais la Muſe la plus diſcrette,",
+            "Ne ſçauroit demeurer muette,",
+            "En vn temps où tout eſt permis,",
+            "Pour déchifrer nos Ennemis.",
+            "Si i’auois autant de paroles,",
+            "Que tu nous voles de piſtoles,",
+            "Ie ferois bien mieux ton portrait,",
+            "Mais recçois neanmoins ce trait,"
+        ],
+        [
+            "Que legerement ie te darde,",
+            "En arte ndant que ie te garde.",
+            "Quelqu’autre choſe de meilleur,",
+            "Non pas comme d’vn’ſerut ur,",
+            "Mais d vn homme qui te déchire,",
+            "Seulement par vne Satyre.",
+            "Dont les vers rudes &amp; malfaits,",
+            "N’egaleront point tes forfaits,",
+            "Car ta vie eſt cent fois plus noire,",
+            "Que l’ancre de mon eſcritoire,",
+            "Et que celle de Conchini,",
+            "C’eſt fait de toy Mazarini,",
+            "Tu n’s pas loin de la Potence,",
+            "Penſe donc à ta conſcience,",
+            "Et dis ton Salue Regina,",
+            "A Dieu donc Catilina,",
+            "Chaſſé pour eſtre meſchant homme,",
+            "De paris comme il fut de Rome.",
+            "FIN."
+        ]
+    ]
+}

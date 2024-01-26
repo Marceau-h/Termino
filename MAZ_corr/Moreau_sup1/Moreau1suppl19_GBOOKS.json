@@ -1,0 +1,159 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "subject": "émeute",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-08-04",
+            "@who": "KA"
+        },
+        "titre": "Arrest de la cour de Parlement donné contre les sédicieux",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "surname": "Guyet"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-04-05",
+                "#text": "5 avril 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@xml:id": "IL_BarboteLouis.xml",
+            "@ref": "isni:0000000358398050",
+            "persName": {
+                "forename": "Louis",
+                "surname": "Barbote"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "ARREST DE LA",
+            "Cour de Parlement,",
+            "Donné contre les ſedicieux.",
+            "A PARIS,",
+            "De l’Imprimerie de LOVIS BARBOTE, rue",
+            "Mariuault, pres S. Iacques de la Boucherie.",
+            "M. DC. LII."
+        ],
+        [
+            "Areſt de la Cour de",
+            "alemente",
+            "in li",
+            "2",
+            "TDonné conere les ſediciex",
+            "C il",
+            "e ele-¬¬",
+            "exT RAi c D",
+            "V T. 1",
+            "e egtres qe fademen",
+            "rE V’pat ls Cour le proetaz Gti",
+            "1",
+            "nmnsli par l ailyda Pa",
+            "as ou ſoi lurelant a lare",
+            "r;",
+            "1",
+            "A"
+        ],
+        [
+            "34",
+            "queſte du Procureur General du",
+            "oy demandeu &amp; aeuſnev;.",
+            "Contre Pierre Louis,; Manl eqe",
+            "rſe&amp; Iadqes Cire, acéuſeeptiſh",
+            "niers é́s priſons de la Conciergerie",
+            "du Palais, appellans’de la- ſentence",
+            "contre eux donnée le quatrieſme",
+            "Auril mil ſix cens cinquante deux,",
+            "par laquelle leſdits Louis &amp; Dacque",
+            "uille auroient efté deelarez deuẽ̈",
+            "ment atteints &amp; conuaincus de cri",
+            "me de ſedition &amp; emotion populai",
+            "réarries ſurle Pont neuf &amp; enui",
+            "rons d’iceluy, our raiſon dequoy",
+            "auroient eſté́ condamnez, ſç̧auoir",
+            "eodit Louis à eſtre pendu &amp;eſtrarm",
+            "ld àlvne Potonce qui pour ét e",
+            "e ſeroit dreſlé́eà̀ la poin&amp;te de IIſle",
+            "duì"
+        ],
+        [
+            "oſalais, ayant au deuant &amp; derriee",
+            "on eeriteau contenant ces mots",
+            "Sibi cEVx, tous &amp; ehaoanſe",
+            "bienn acquis e&amp;e eonfiſoque-auouy;S",
+            "aam loaeuioſeroitappquéh",
+            "ueiion ordnaire &amp; eitabirdil",
+            "e pour aire par ſa bouche la deel",
+            "alon de ſes ompuces edit Dae",
+            "queille condaunne daſte aludi",
+            "e execution de mort auee vnpa",
+            "il eſetiteaud,-ce fai bapmy pour",
+            "roia ans de caſte Vl Preuoſté &amp;",
+            "Veore de aris, a luiy drolnt de",
+            "oardee ſos ban a poiba do l-e",
+            "Traſteard dude Cite, auron ee",
+            "ordoné qu’il ſetoi plus ale",
+            "aent nfſomé́, &amp; le pcoceaz à uy",
+            "B",
+            "1",
+            "a",
+            "."
+        ],
+        [
+            "ait &amp; parfait par ledit-Iuge ſuian",
+            "les Ordoonances &amp; uy, &amp; inter",
+            "rogé en ledite Cour leſdits priſon",
+            "niers ſur leurs cauſes d’appel &amp; cas",
+            "à es impoſez: Tout conſide reé,",
+            "DITABSTE’qué ladite Cour",
+            "pour le regard deſdits Louis &amp; Dac",
+            "queuille a mis &amp; met les ’appella",
+            "tios &amp; Senteinee au’neant, en ce",
+            "qu’il eſt ordonné que ledit Louis",
+            "aura; la fueſtion, &amp; ledit Dacque",
+            "ujlle vn eſrdead e au, reſidu- ladite",
+            "ſenoncetootanteec: t en tant",
+            "qeoudhblodit Cire eûoque à elle",
+            "le prinipal, luy ſera le procez fait",
+            "&amp; arfaipar l apporteur du pre",
+            "ſenti Aeſu Pait en Barlemone &amp;"
+        ],
+        [
+            "1",
+            "5",
+            "prononć auſdits Louis &amp; Dacque",
+            "uille, &amp; executé le cinquieſme iour",
+            "dAuril milſix cens cinquante deux.j",
+            "Signe GVYET."
+        ]
+    ]
+}

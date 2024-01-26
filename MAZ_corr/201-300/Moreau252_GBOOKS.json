@@ -1,0 +1,117 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſte.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "texte officiel",
+            "arrêt"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-25",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, par lequel il est enjoint\n          , à tous comptables, fermiers, traitants et autres particuliers, d'aller au greffe de\n          ladite cour faire déclaration des deniers par eux dus, recélés ou retenus, dans trois\n          jours, à peine de confiscation de corps et de biens.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-10-25",
+            "#text": "25 octobre 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-03",
+                "#text": "mars 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "A rreſ d la",
+            ",",
+            "DE PARLEMENT.",
+            "PAR LEQVEL IL EST ENIOINT A",
+            "tous Comptables, Fermiers, Traitans &amp; autres",
+            "Particuliers, d’aller au Greffe de ladite Cour faire",
+            "declaration des deniers par eux deubs, recelez",
+            "ou retenus, dans trois jours, aà peine de confiſ",
+            "cation de corps &amp; de biens.",
+            "Du deaxieme Mars mil ſix cens quarante-neuf.",
+            "An",
+            "e",
+            "u",
+            "n",
+            "APARIS.",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. X LI X.",
+            "Auec Priuilege de ſa Majeſte."
+        ],
+        [
+            "4",
+            "General, proaedéextraordinairement contre les refuſans",
+            "&amp; coupables, &amp; ieeux punis des recelez ou retentions deſ",
+            "dits deniers, ſuiuant la rigeur des Ordonnances &amp; Arreſts,",
+            "meſmes parconfiſcation de corps &amp; de biens, comme ayant",
+            "commis le crime de Peculat: ſans que ladite peine puiſſe",
+            "eſtre moderée, ny les coupables deſchargez d’icelle pour",
+            "quelque cauſe, occaſion &amp; ſous quelque pretext que ce ſoit.",
+            "Et afin qu’il en ſoie fait vne exacte recherche &amp; que leſdits",
+            "deniers puiſſent eſtre indiquez, la Cour a accordé &amp; accorde",
+            "au denonciateur d’iceux, le huictiéme deſdits deniers deubs,",
+            "recelez &amp; retenus depuis ladite Declaration du a2. OCtobre",
+            "dernier juſques à̀ preſent, &amp; le tiers de ceux deubs, recelez",
+            "ou retenus auparauant icella; enſemble des amen des &amp; con",
+            "fiſcations qui ſeront adiugeées en conſequence, &amp; ledie",
+            "huictiéme &amp; tiers deſdits deniers, amendes &amp; confiſcations",
+            "deſliurez audit, denonciateur,-ſur ſa ſimple quitance, en",
+            "vertu de l’Arreſt de condemauion qui interuiendra ſur ſ",
+            "denontiation. Et ſera le preſent Arreſt leu &amp; publié à ſon",
+            "de Trompe, &amp;ery publie, &amp; affiché és Carrefours de cette",
+            "Ville &amp; Fux-bourgs, à ce qu’auun n’en pretende cauſe d’i",
+            "gnorance.FAIT en Parſément le deuxieéme Mars mil fix",
+            "7r 1 1 .",
+            "cens quarante-neuf. Signé,-DV TILLET.",
+            "1",
+            "E huititme iour de Mars ail ſic cens quarae-neuf, l’A",
+            "ſt cy-deſſus de Noſſeigneurs de la Cour de Parlement,",
+            "eſte leu &amp; publié́ à ſon de Trompe &amp; cry public, par tous les Car",
+            "refours ordinaires &amp; extraordinaires de cetre Ville &amp;",
+            "Faux-bourgs",
+            "de Paris, par moy lean Ioſſier, lur Crieur ordinaire du Roy en la",
+            "Ville, Peeuoſté &amp; Viconmté de Paris, &amp; affché par tour o beſoin",
+            "a eſté, Aſſiſté de Didier Ordin, Iean du Sos &amp; ,lacques le Frain,",
+            "Iurez Trompettes du Roy eſadits lieux. Signé́ IOSSIR.",
+            "A",
+            "-",
+            "leo-e",
+            "u?"
+        ]
+    ]
+}

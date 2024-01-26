@@ -1,0 +1,112 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-01-26",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-02",
+            "@who": "AB"
+        },
+        "titre": "Gallicinium nuper auditum, Franciam expilante Mazarino.\n          Quis dedit gallo intelligentiam ? JoB, 38. Qui preparat corvo escam suam. ID.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-03-15",
+                "#text": "mi-mars 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "GALLICINIVM",
+            "NVPER AVDITIVM",
+            "FRANCIAM",
+            "EXPILANTE",
+            "MAZARINO",
+            "Quis dedit Gallo intelligentiam ? Iob. 38.",
+            "Qui praeparat Coruo eſcam ſuam. Ibid.",
+            "A PARIS,",
+            "M. DC. XLIX."
+        ],
+        [
+            "GALLICINIVM NVPER AVDITIVM",
+            "Franciams expilate Mazarino.",
+            "e V Regi per etaremRegine matriper ſe¬",
+            "um non licet:",
+            "À Surglre prneipsRegpi¬",
+            "En Gallus claruit,",
+            "Quemadmodum anſer animoſus captâ Roma:",
+            "Recipite omen.",
+            "Omen eſt enim futurz victoriz Gallis.",
+            "Vigilate Franei, egai,armainobhiles,ignobiles,",
+            "Quotquot Ludouici ſubditi.",
+            "Ludouicinobis pereunt, ne Sanctoquidem parcendo,",
+            "ſi ſit aureus:",
+            "Exulant nammi Regij:",
+            "Regij Senatores exularunt:",
+            "Hæc fuit ſcilieert iuſtorum omniumſors.",
+            "Sed exularunt diuerſis in locis?.",
+            "Hic Italorum dolus",
+            "Ne ſemtu deprehenderent, &amp;t oõſolaretur exilio.",
+            "Nummus Regius,",
+            "Senator Regius,",
+            "Vterque ſacra principis imago:",
+            "Imagini vtrique bellum indicitur:",
+            "Indicitur, &amp; tacebimus?",
+            "Hereſis noſtra virtus Cardinalis eſt:;",
+            "Perge Curia;",
+            "A ij"
+        ],
+        [
+            "4",
+            "Sat quieti, ſatpatientiæ daumeſt:",
+            "Siluere ſatis oppreſſ ſub Mazarino leges.",
+            "Clama, nec ceſſa.",
+            "Fugam indixeras, ſalutem neglexit,",
+            "Qui vult omia ſecum perire.",
+            "Eequid tandiu grauiores ſuſpendis ictus?",
+            "Age nunc, in cœleſtü caput inſolitum fulmen intorque.",
+            "Non erit ſatis graue, quod grauiſſimum puras.",
+            "Expergiſciminiprincipes?",
+            "Veſtris debetur mucronibus",
+            "Qui populorum fregit patientiam, &amp; purpuratoru¬",
+            "ſpreuit clementiam.",
+            "Profligate hocmonſtrum?",
+            "Vendicate Regnum;",
+            "Regi puero,",
+            "Cuius œtas innocens maieſtatem ſeruat idbatame",
+            "Reginæ matri,",
+            "Cuius ſexus facilior authoritatem amiſit legitimam.",
+            "Et ſubditis omibus,",
+            "Quam dudum anhelant pacem, ac ſœpius ereptamre¬",
+            "ſtituite.",
+            "DEVS OPTIME; MAXIME",
+            "Confunde hominem diuitiarum quibella fouet."
+        ]
+    ]
+}

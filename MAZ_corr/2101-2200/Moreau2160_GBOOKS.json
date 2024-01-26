@@ -1,0 +1,148 @@
+{
+    "imprimatur": "Avec privilege de sa Majesté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1651-10-08",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-10-06",
+            "@who": "AB"
+        },
+        "titre": "Lettre du roi écrite à Son Altesse Royale, de Poitiers,\n          le 16 novembre 1651.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-08",
+            "#text": "8 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "persName": "Louis XIV"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-11",
+                "#text": "datée de novembre 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": {
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "Avec privilege de sa Majesté."
+        ],
+        [
+            "1",
+            "a",
+            "t a",
+            "us",
+            "r pv o",
+            "1TTRE",
+            "sc",
+            "A SON ALTESSE ROYALE.",
+            "ouoeel ee",
+            "auir o le dernr eeon",
+            "dnuer r o eu ſne e",
+            "iſ le ueon deeer ne",
+            "gpge e de nouiles anure",
+            "e eie e",
+            "oſ ſl n ere rouare ernne le ne.",
+            "le nulerare qpe v oune donener",
+            "lſennue erel u rauo reu",
+            "e unen euein ie eoner deoenee",
+            "Ee enloſeunoneli en nr",
+            "a re u e leu dunres oan le rene",
+            "e deilee eie ee",
+            "e enſene eounnue non pa oue",
+            "A ij"
+        ],
+        [
+            "ai enuie qui e",
+            "ſte noununele, en aruinereuni r",
+            "Poe tnrs lounr l ooie iou ii",
+            "eonelnue, le oue re eene",
+            "ou oies le noaſoue ionnmeonr pe",
+            "oue ouil y aneuaieſperer de i dut",
+            "nire eue e nie oeeie nre e",
+            "eſern ede paroie de ene ſe oe ouone",
+            "eſonuer le r oniel rouoſepor ſper",
+            "Senouſiere ſoeoeou e penen",
+            "oeb enunennurnnulie onenr",
+            "eue er dere le ouiee ſou or oe",
+            "eon de nue adueoe enune one",
+            "oeſue lone olonue ennonne",
+            "e eonen dut poiai elie ens",
+            "e ere onidiurie nuede e ide ue",
+            "ne oe ee ene reu preieene",
+            "e oundl noaſaine de ierne ee",
+            "ae eiee a deunle re erert",
+            "uembre, a6r.",
+            "Ps buas, ’nſte bienioneſecmnenpe,",
+            "e ore.",
+            "LOVYVS",
+            "t ſur l ſaſpn,",
+            "mon onele, le Dac d’O-le,,",
+            "n¬¬¬"
+        ],
+        [
+            "e",
+            "ee",
+            "i",
+            "s",
+            "a"
+        ],
+        [
+            "nieit oene n ionle, qus e na e",
+            "e eneronun ules eoanuiurnune",
+            "lunelouns ouns li oequie uulrine",
+            "ounlnn le ue puenene",
+            "oue euiuns le onatne ſeorneone pe",
+            "on uiy apeu leſqerer de ſ ues",
+            "lnire one enle ee ie n o ee",
+            "eſenſoe panie de meſte rpue",
+            "eenenilei onede rueſieneipue",
+            "oeule iroeunuen eſeunren",
+            "loaneteninu ouoe ouuein pe euere",
+            "Eoeue er dere le aunese ſoi ieooe",
+            "eon dt eue oueoe ie neunr oe",
+            "ſue le one luue ene une",
+            "leoe ee dtas poiue eie dener",
+            "e eneionalnrl ulieſerer e nun",
+            "ne oe e e pe neuqpo eilonpne",
+            "e odndleoaea ſinure oe ilenoe eue",
+            "e eieor anueieunlee e er",
+            "uembre, a6sr.",
+            "Voſte bienaonnô fetctionnénepau,",
+            "Et plus bas,",
+            "4P Lou.",
+            "eſur l ſaiſoin.",
+            "LOVY5",
+            "- mon Oncle, de Dac d’ole,",
+            "du"
+        ]
+    ]
+}

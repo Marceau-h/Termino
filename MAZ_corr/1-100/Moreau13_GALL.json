@@ -1,0 +1,182 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "pamphlet",
+            "satirique"
+        ],
+        "subject": "Scarron",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-23",
+            "@who": "KA"
+        },
+        "titre": "A un ministre d’État sur les œufs",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@role": "dubious_author",
+            "@ref": "isni:0000000120990126",
+            "persName": {
+                "forename": "Paul",
+                "surname": "Scarron"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans lieu"
+        },
+        "publisher": {
+            "persName": "Sans nom"
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "A",
+            "VN MINISTRE",
+            "D'ESTAT",
+            "SVR",
+            "LES",
+            "OEUFS",
+            "M. DC XLIX.",
+            "<pb",
+            "n=\"3\" />"
+        ],
+        [
+            "3",
+            "A",
+            "VN",
+            "MINISTRE",
+            "D'ESTAT",
+            "SVRLES",
+            "OEVFS",
+            "VN Miniſtre à",
+            "quitt́ les Cieux,",
+            "Eln delaiſtin le lDieu des Dieu",
+            "Qui eſt-ce qui t’aueugle les yeux,",
+            "ce ſonr ous les onopoleu.",
+            "Ce Demon qui eſt ſi affreux,",
+            "Qui pour te rendre furieux:",
+            "Mais tu ſeras par trop honteux,",
+            "Car tu ne parois que monſtrueux.",
+            "Si tu ſuiuois les bien-heureux,",
+            "Faiſant penitence auec eux:.",
+            "Sans chercher les lieux tenecbreux,",
+            "Mais tu veux entrer en ces lieux.",
+            "Les Demons qui ſont malheureux,",
+            "Qui ton rendu ſi pernicjeux:",
+            "Rendant les pauure langoureux,",
+            "Car tu és trop auantageux."
+        ],
+        [
+            "¬",
+            "Cs innocens melodieux,",
+            "Le chant qui eſt gracieux,",
+            "A Gra d Dieu ſi amoureux:",
+            "Il ont tou preſenté leurs voux.",
+            "Leurs cry qui eſtoit ennuyeux,",
+            "Car tu les à rendu jeuneux,.",
+            "Cardulai&amp; la farines ny auoit point de buteu,",
+            "Bu bien fallu eſtre argenteux.",
+            "Tu as bien fait lanquy les vieux,",
+            "Car tu eſtoit trop deſireux,",
+            "L’Argent t’a rendu Glorieux:",
+            "La honte te rendra taigneux.",
+            "Ceſar qui eſt bien valureux,",
+            "Te deuoit mettre tel que gueux,",
+            "Car tu es trop auaritieux,",
+            "Le pauure tu parle contreeux.",
+            "Tu ne parois qu’vn embaleux,",
+            "Mais il y à vn bon controleux,",
+            "qui te fera manger les œux,",
+            "De Cocodrille les moy eux.",
+            "Va aux enfeires trop embitieux,",
+            "Les Monopoleux, &amp; toy venteux,",
+            "Il te faut mettre aux Chartreux,",
+            "Et n’aiſtre point Auancoureux.",
+            "Te faudroit eſtre genereux,",
+            "Te rendre à̀ Dieu deuotieux,",
+            "En quittant tout ſes diſcoureux,",
+            "Qu te tendront trop enuieux."
+        ],
+        [
+            "Rome teſtimerarailleux,",
+            "L’Eſpagne te tient pour vn pſpeux,",
+            "L’Empire te tient comme vn chifleux",
+            "L’Italie comme vn deſerteux.",
+            "Tu es Demon malitieux,",
+            "Des richeſſe fort curieux,",
+            "Tu ſeras bien malancontreux:",
+            "Et au rang des Paſmanteux.",
+            "5",
+            "Tu paroiſtras vn grand coureux,",
+            "Il vaudroit mieux eſtre Couureux,",
+            "Tu feras de mieux en mieux:",
+            "Car tu deuiendras tout boiteux.",
+            "Te faudroit aller à Lizieux,",
+            "Chercher le premier des Paueux,",
+            "Mais ie croy que tu es gouteux,",
+            "De reuenir comme vngaleux.",
+            "Miniſtre tu es ſouffreteux,",
+            "En F ance tu es cajoleux,",
+            "L’aprehention te rend frilleux,",
+            "Car tu ne puis eſtre Ioyeux.",
+            "Tes eſprits ne ſont pas craſeux,",
+            "Tu fais la paix pour des Meſſieux,",
+            "Qui vous ont prit comme voleux:;",
+            "Qui te deuoit rendre hydeux.",
+            "Sur ta vielleſſe tu ſeras rogneux,",
+            "Dans la bouë̈ comme vn balieux,"
+        ],
+        [
+            "6",
+            "A l’argent n’eſt point pareſeux:",
+            "Tu es mechant infructueux.",
+            "Tu es vilain &amp; odieux,",
+            "Du pauure tu parle trop deux,",
+            "Car tu n’eſt rien qu’vn cagneteux,",
+            "Et le plus mechant en iceux.",
+            "Tu es par trop preſomptueux,",
+            "Et au mal bien amoureux,",
+            "Te faut du monde faſeſſieux",
+            "Le plus meſchant de tes ayeux.",
+            "Tues meſchanr &amp; tourmanteux.",
+            "Suiuant le pauure laboureux,",
+            "Au mal tu n’ais pas oyſeux,",
+            "Car tu es aſſé conuoyteux.",
+            "Mal habillé &amp; bien dagereux,",
+            "Contre noſtre Loy fulmineux,",
+            "Tu es par trop Luxurieux:",
+            "Mais tu ne peut eſtre donneux.",
+            "Tu es vn fort beau langageux,",
+            "Tu pourras ſeruir d’harmonieux,",
+            "Car tu es vn bon gambilleux,",
+            "Aux enfe rs tu ſeras Crieux.",
+            "Et toy qui eſt ſi orguilleux,",
+            "Tu ſeruiras de bateleux,",
+            "Dans les granges, auez les bateux,",
+            "Car tu eſt grandement lubieux."
+        ],
+        [
+            "Les enfers ſont bienraboteux,",
+            "Et bon pour toy trop rigoureux,",
+            "Car ie te voy bien curieux,",
+            "Dans ce pays auantageux.",
+            "FIN."
+        ]
+    ]
+}

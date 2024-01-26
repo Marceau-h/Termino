@@ -1,0 +1,132 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subgenre": [
+            null,
+            null
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "not_corrected"
+        },
+        "titre": "Arrêt de la cour de parlement, portant\n                    injonction, à tous marchands et artisans de cette ville et faubourgs de Paris,\n                    de tenir leurs boutiques ouvertes et continuer leurs trafics , ainsi qu’il est\n                    accoutumé.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000",
+            "persName": {
+                "forename": null,
+                "surname": null
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "A rrſ l lA 1",
+            "11o3",
+            "¬,",
+            "1",
+            "TL LAL I Il UUI",
+            "DE PARLEMENT,",
+            "PORTANT INIONCTION A ToVS",
+            "Marchands &amp; Artiſans de cette Ville &amp; Faux¬",
+            "bourgs de Paris, de tenir leurs boutiques ouuer¬.",
+            "es, &amp; continuer leur trafic ainſi qu’il eſt ac¬",
+            "oue a ee e iee",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Aues Pruilege de ſa Majeſteé́."
+        ],
+        [
+            "ai",
+            "j¬",
+            "ni I ra ¬",
+            "¬",
+            ",-u e- 2",
+            ".s",
+            "a",
+            "4.",
+            "p",
+            "¬!",
+            "1",
+            "oaogle.",
+            "l"
+        ],
+        [
+            "3",
+            "s8",
+            "L",
+            "EXTRAICT",
+            "ie",
+            "TE C",
+            "D E TD",
+            "L L 0 I L LI D I L L D",
+            "DE PARLEMENT.",
+            "4 E iour, la Cour toutes les Cham¬",
+            "b bres aſemblées, Sur l’aduis qui a",
+            "eſté donné qu’aucuns Marchands",
+            "e de cette Ville tiennent leurs bouti¬",
+            "ques fermées; Ce qui eſt contre l’ordre, &amp;",
+            "peut apporter trouble à la tranquillité publi¬",
+            "ue: La matiere miſe en deliberation, L A¬",
+            "ITE COQVR a enjoint à tous Marchands",
+            "&amp; Artiſans de cette Ville &amp; Faux-bourgs, t¬",
+            "nir leurs boutiques ouuertes, &amp; contnuer",
+            "leur trafic ainſi qu’il eſt accouſtumé, à peine",
+            "d’amende arbitraire. Et ſera le preſent Arreſt,",
+            "à la requeſte du Procureur General du Roy,",
+            "leu, publié &amp; affiché par tout ou il appartien¬",
+            "Ata, à ce que nul n’en pretende cauſe d’igno¬"
+        ],
+        [
+            "4",
+            "rance: Enjoint aux Officiers du Roy du Cha¬",
+            "ſtelet, tenir la main à l’execution. FAICT",
+            "cn Parlcment le quatorziéme Ianuier mil ſix",
+            "cens quarente-neuf.",
+            "T 7 ee e¬",
+            "Signé, DV TILLET.",
+            "Cllatjonnmé d l’original par my Comſeiller Sccetaire",
+            "du oy &amp; de ſes Finaces.",
+            "I E quatorzié́me iour de Ianuier mil ſix cens qu",
+            "Arenie-neuf, l’Arreſt cy-deſſus de Noſſeignmeurs de la",
+            "Cour de Parlement, a eſté leu &amp; publié à ſon de Trompe",
+            "&amp; cry publie, par tous les Carrefours ordinaires &amp; ex¬",
+            "trordinaires de cette ille &amp; Faux-bourgs de Pars, par",
+            "moy Iean Ioſſier, luré Crieur ordinaire dau Roy en la Vile,",
+            "Preuoſté &amp; Vicomreé de Paris, aſfiſté de Didier Ordin,",
+            "Iean ad Bos, &amp; lacques le Frain, lrez Trompetres da",
+            "Roy eſdits lieux. Signé, IOSSIER.",
+            "eei",
+            "."
+        ]
+    ]
+}
