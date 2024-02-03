@@ -106,5 +106,9 @@
             "Ai",
             "ICI OCR incomplet (manque des pages)"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3"
     ]
 }

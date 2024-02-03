@@ -1,5 +1,5 @@
 {
-    "imprimatur": null,
+    "imprimatur": "AVEC PERMISSION.",
     "corrector": false,
     "entête": {
         "form": "vers",
@@ -49,17 +49,17 @@
     "texte": [
         [
             "DIALOGVE",
-            "O V",
+            "OV",
             "DISCOVRS",
-            "GENTILHOMME",
+            "GENTIL-HOMME",
             "FRANCOIS AVEC",
             "VN CARDINALISTE.",
             "Reduit en Sonnets &amp; Epigrammes.",
-            "AAns",
-            "E, ruë des Carmes,",
-            "ce Cuavp",
-            "ar eiuii",
-            "e eennn"
+            "A PARIS,",
+            "Chez CLAVDE BOVDEVILLE ruë des Carmes,",
+            "au Lys Fleuriſſant.",
+            "M. DC. XLVIIII.",
+            "AVEC PERMISSION."
         ],
         [
             "31",
@@ -139,5 +139,10 @@
             "En exilanc le Cardinal.",
             "F I N."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4"
     ]
 }

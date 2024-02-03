@@ -53,22 +53,8 @@
     },
     "texte": [
         [
-            "DIALOGVE",
-            "CONTENANT LA",
-            "DISPVTE ET L'ACCORD",
-            "DE LA PAIX, ET DE LA GVERRE.",
-            "EN VERS BVRLESQVES.",
-            "A PARIS,",
-            "Chez CLAVDE HVOT, ruë S. Iacques,",
-            "proche les Iacobins, au pied de Biche.",
-            "M. DC. XLIX.",
-            "AVEC PERMISSION."
-        ],
-        [
-            "DIALOGVE CONTENANT LA",
-            "diſpute &amp; l'accord de la Paix,",
-            "&amp; de la Guerre.",
-            "EN VERS BVRLESQVES.",
+            "DIALOGVE CONTENANT LA diſpute &amp; l'accord de la Paix, &amp;",
+            "de la Guerre. EN VERS BVRLESQVES.",
             "VN iour la Paix la bonne femme",
             "Qui iamais ne iura ſon ame,",
             "Et qui croid faire vn grand ſerment",
@@ -436,5 +422,16 @@
             "Bon.",
             "F I N."
         ]
+    ],
+    "pages_number": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
     ]
 }

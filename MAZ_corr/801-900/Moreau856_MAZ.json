@@ -72,12 +72,7 @@
     },
     "texte": [
         [
-            "LA",
-            "CVSTODE",
-            "DE LA",
-            "REYNE,",
-            "QVI DIT TOVT",
-            "M. DC.",
+            "LA CVSTODE DE LA REYNE, QVI DIT TOVT M. DC.",
             "XLIX."
         ],
         [
@@ -218,5 +213,13 @@
             "Afin que dignement ils ſuiuent ſes Ayeuls.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

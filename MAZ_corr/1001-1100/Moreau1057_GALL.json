@@ -48,23 +48,13 @@
     },
     "texte": [
         [
-            "DESCRIPTION",
-            "DE LA PAIX",
-            "PARTICVLIERE,",
-            "DE",
-            "LA FORTVNE",
-            "VNIVERSELLE DES PLVS",
-            "grandes Puiſſances de la terre,",
-            "du Siecle preſent. En Vers Burleſques.",
-            "A PARIS,",
-            "M. DC. XLIX."
-        ],
-        [
             "3",
             "DESCRIPTION DE LA PAIX",
-            "particuliere, &amp; de la fortune vniuerſelle des",
+            "particuliere, &amp; de la",
+            "fortune vniuerſelle des",
             "plus grandes puiſſances de la terre.",
-            "En Vers Burleſques.",
+            "En",
+            "Vers Burleſques.",
             "JIE voudrois auoir du Porphyre,",
             "Et du Iaſpe pour vous deſcrire,",
             "Le Char triomphant de la Paix:",
@@ -251,5 +241,13 @@
             "Qui ſont la terre &amp; ſur l'Onde.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

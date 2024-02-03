@@ -55,5 +55,6 @@
         },
         "nbPages": "8"
     },
-    "texte": null
+    "texte": null,
+    "pages_number": null
 }

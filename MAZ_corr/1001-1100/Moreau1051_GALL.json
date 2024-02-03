@@ -52,22 +52,8 @@
     },
     "texte": [
         [
-            "LA",
-            "DEROVTE",
-            "DES",
-            "PARTISANS",
-            "ROTIS.",
-            "En vers Burleſques.",
-            "A PARIS,",
-            "Chez la veſue MVSNIER, au mont ſainct Hilaire",
-            "en la Court d'Albret.",
-            "M DC. XLIX.",
-            "Auec Permißion."
-        ],
-        [
             "3",
-            "LA DEROVTE",
-            "des Partiſans.",
+            "LA DEROVTE des Partiſans.",
             "FAVT-il qu'vn tas de Partiſans",
             "Poux affamez plus qu'artiſans",
             "Sous des mines trop contrefaites,",
@@ -343,5 +329,16 @@
             "Des Demons pour vous diuertir",
             "Soient occupez à vous roſtir."
         ]
+    ],
+    "pages_number": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
     ]
 }

@@ -70,8 +70,6 @@
             "Par vn Arreſt ſolemnel.",
             "<figure",
             "type=\"decoration\" />",
-            "<figure",
-            "type=\"decoration\" />",
             "A PARIS,",
             "Chez CLAVDE MORLOT, ruë de la",
             "Bucherie,",
@@ -199,5 +197,13 @@
             "&amp; pars des treshumbles remer ciements, edeſir que hous auons",
             "de viue ſoa rprotelon, &amp; de mourir pour leur ſeruice. FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
     ]
 }

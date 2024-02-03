@@ -63,26 +63,9 @@
     },
     "texte": [
         [
-            "LA",
-            "DERNIERE",
-            "SOVPPE A L'OGNON",
-            "POVR MAZARIN.",
-            "OV LA CONFIRMATION",
-            "de l'Arreſt du huictiéme Ianvier",
-            "mil ſix cens quarante-neuf.",
-            "EN VERS BVRLESQVE.",
-            "A PARIS,",
-            "Chez NICOLAS IACQVARD, ruë Chartiére",
-            "prés le Puits-Certain, au Treillis Vert.",
-            "M. DC. XXXXIX."
-        ],
-        [
-            "LA DERNIERE",
-            "SOVPPE A L'OGNON",
-            "POVR MAZARIN.",
-            "Ou la confirmation de l'Arreſt du huictié",
-            "me Ianvier mil ſix cens quarante-neuf.",
-            "EN VERS BVRLESQVE.",
+            "LA DERNIERE SOVPPE A L'OGNON POVR MAZARIN. Ou la",
+            "confirmation de l'Arreſt du huictié me Ianvier mil ſix cens",
+            "quarante-neuf. EN VERS BVRLESQVE.",
             "C’EN eſt fait il en tient dans l'aiſle",
             "Il a beau nous faire querelle,",
             "Le Parlement a dit hola,",
@@ -210,9 +193,13 @@
             "D'eſtre eſtimé voleur inſigue,",
             "Nul n'enuie cét intereſt,",
             "Puis qu'on en confirme l'Arreſt.",
-            "VOSTRE SERVITEVR.",
-            "NICOLAS LE DRV.",
-            "SCAZON."
+            "VOSTRE SERVITEVR. NICOLAS LE DRV. SCAZON."
         ]
+    ],
+    "pages_number": [
+        "2",
+        "3",
+        "4",
+        "5"
     ]
 }

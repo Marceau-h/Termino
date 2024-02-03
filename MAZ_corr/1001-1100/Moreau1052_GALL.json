@@ -53,26 +53,9 @@
     },
     "texte": [
         [
-            "LA",
-            "DEROVTTE",
-            "DES TROVPPES",
-            "DE MAZARIN",
-            "VEVE EN SONGE,",
-            "ET PRESENTEE A MONSEIGNEVR",
-            "LE DVC",
-            "DE BEAVFORT.",
-            "EN VERS BVRLESQVES.",
-            "A PARIS,",
-            "Chez CLAVDE BOVDEVILLE, ruë des Carmes,",
-            "au Lys Fleuriſſant.",
-            "M. DC. XLIX.",
-            "AVEC PERMISSION."
-        ],
-        [
             "3",
-            "LA DEROVTTE DES TROVPPES",
-            "de Mazarin veuë en ſonge; Et preſentée à",
-            "Monſeigneur le Duc de Beaufort.",
+            "LA DEROVTTE DES TROVPPES de Mazarin veuë en ſonge; Et preſentée à Monſeigneur",
+            "le Duc de Beaufort.",
             "VERS BVRLESQVES.",
             "S’Il eſt quelque Muſe groteſque",
             "Qui nous inſpire le Burleſque",
@@ -296,5 +279,13 @@
             "Qu'vn monſtre fut mort dans ſon lit.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

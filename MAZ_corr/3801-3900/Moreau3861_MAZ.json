@@ -58,12 +58,9 @@
     },
     "texte": [
         [
-            "TRIOLETS",
-            "pour le temps preſent.",
+            "TRIOLETS pour le temps preſent.",
             "A",
-            "PARIS",
-            "Chez CLAVDE BOVDEVILLE, ruë des",
-            "Carmes, au Lys fleuriſſant 1650."
+            "PARIS Chez CLAVDE BOVDEVILLE, ruë des Carmes, au Lys fleuriſſant 1650."
         ],
         [
             "LA belle rafle qu’on a faie:",
@@ -209,5 +206,11 @@
             "Viue Mazarin &amp; la Fronde.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "7",
+        "8",
+        "9",
+        "10"
     ]
 }

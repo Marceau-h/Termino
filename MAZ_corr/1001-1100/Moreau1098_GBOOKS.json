@@ -69,20 +69,19 @@
             "DIRAE",
             "IN",
             "ANGLIAM.",
-            "OB PATRATVM SCELVS",
+            "OB",
+            "PATRATVM SCELVS",
             "IX. Februarij M. DC.XLI.",
             "PARISIIS,",
-            "Apud Viduam THEO. PEPINGVE, &amp; STEPH.",
-            "MAVCROY, via Citharaea, e regione viae",
+            "Apud Viduam",
+            "THEO. PEPINGVE, &amp; STEPH.",
+            "MAVCROY, via Citharæa, e regione viæ",
             "Mathurinorum",
             "M. DC. XLIX."
         ],
         [
-            "DIRAE",
-            "IN",
-            "ANGLIAM.",
-            "OB PATRATVM SCELVS",
-            "IX. Februarij M. DC.XLI.",
+            "DIRAE IN",
+            "ANGLIAM. OB PATRATVM SCELVS IX. Februarij M. DC.XLI.",
             "Hœbe Thyeſtaœas refugo ſi lumine menſas.,",
             "JA Factaque Cadmee puduit te cernere gentia,",
             ". Cur indigna tuos fœdant ſpectaeula vultus,",
@@ -137,5 +136,10 @@
             "PH. S. P.",
             "SLS.C. ."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4"
     ]
 }

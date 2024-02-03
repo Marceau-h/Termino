@@ -45,23 +45,6 @@
     },
     "texte": [
         [
-            "LES DERNIERES",
-            "BARRICADES",
-            "DE",
-            "PARIS.",
-            "EN VERS BVRLESQVES.",
-            "AVEC AVTRES VERS ENVOYEZ",
-            "A",
-            "MONSIEVR SCARRON",
-            "SVR L'ARRIVEE D'VN CONVOY",
-            "A PARIS.",
-            "Iouxte la Coppie Imprimée",
-            "A PARIS",
-            "Chez NICOLAS BESSIN Imprimeur &amp; Libraire, au",
-            "Palais en l'allée S. Michel.",
-            "M. DC. XLIX."
-        ],
-        [
             "1 3 loolootlotopouoohpenl pr letopot. s&amp;fpoiot peſeoſeoe",
             "eſeeeſpfesoſeoupſeipotppeu ’R n 181 215 1 1 n1S2s 11 1e e T TD R L L L L LN L E T T T QC D",
             "D 43 l? 88 H 4 H 4A1 D I . A L AAAA AAA8.",
@@ -136,9 +119,9 @@
             "Cet aftaire mis en balance",
             "Fut eſtimée de conſequence.",
             "Eeonoeue ee lſeenenenunr",
-            "Bij"
-        ],
-        [
+            "Bij",
+            "<pb n=\"4\" facs=\"https://gallica.bnf.fr/ark:/12148/bpt6k5692406d/f5.item.r=bpt6k5692406d\"",
+            "manual_correction=\"yes\" />",
             "L’vnion tres-fort baloté́",
             "Ne fut pas d’abord arreſtée,",
             "Les regiſttes ſont apportez",
@@ -955,9 +938,9 @@
             "Comme pourceaux dans vne ruë,",
             "Leur bataillon ſage &amp; diſecret",
             "Laiſſoit vneſtron à regret,",
-            "Mais"
-        ],
-        [
+            "Mais",
+            "<pb n=\"13\" facs=\"https://gallica.bnf.fr/ark:/12148/bpt6k5692406d/f14.item.r=bpt6k5692406d\"",
+            "manual_correction=\"yes\" />",
             "1",
             "1",
             "!",
@@ -1128,9 +1111,9 @@
             "Que mainte fois on delaiſſoit,",
             "Pour le Chappon qui rotiſſoit.",
             "Mais à̀ preſent que nul n’apporte",
-            "Et que neceſſité tres-forte"
-        ],
-        [
+            "Et que neceſſité tres-forte",
+            "<pb n=\"15\" facs=\"https://gallica.bnf.fr/ark:/12148/bpt6k5692406d/f16.item.r=bpt6k5692406d\"",
+            "manual_correction=\"yes\" />",
             "¬",
             "¬",
             "Retient le Payſant chez ſoy,",
@@ -1302,5 +1285,18 @@
             "Faiſant ainſi vous ferez bien,",
             "Et mieux encor, n’eu faiſant rien."
         ]
+    ],
+    "pages_number": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
     ]
 }
