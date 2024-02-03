@@ -11,9 +11,9 @@ done = Path('done.json')
 
 if done.exists():
     with open(done, 'r') as f:
-        done = json.load(f)
+        done_list = json.load(f)
 else:
-    done = []
+    done_list = []
 
 pbar = pdfs.glob('**/*.pdf')
 pbar = sorted(pbar, key=lambda x: x.name)
@@ -36,11 +36,12 @@ try:
         else:
             folder.mkdir(parents=True)
 
-        for i, image in enumerate(convert_from_path(pdf, thread_count=10)):
+        for i, image in enumerate(convert_from_path(pdf)):  # , thread_count=10)):
             image.save(folder / f'{i}.png', 'PNG')
 
-        done.append(pdf.name)
+        done_list.append(pdf.name)
+
 finally:
     with contextlib.suppress(KeyboardInterrupt):
         with open(done, 'w') as f:
-            json.dump(done, f)
+            json.dump(done_list, f)
