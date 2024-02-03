@@ -1,0 +1,6290 @@
+[
+    {
+        "file": "MAZ_corr/1-100/Moreau19_GBOOKS.json",
+        "how_many": 23,
+        "len_c": 21,
+        "len_nc": 23,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1-100/Moreau30_MAZ.json",
+        "how_many": 15,
+        "len_c": 14,
+        "len_nc": 15,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1-100/Moreau3_MAZ.json",
+        "how_many": 4,
+        "len_c": 16,
+        "len_nc": 16,
+        "same_len": true,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/1-100/Moreau42_MAZ.json",
+        "how_many": 1,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/1-100/Moreau59_MAZ.json",
+        "how_many": 23,
+        "len_c": 20,
+        "len_nc": 23,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1-100/Moreau81_MAZ.json",
+        "how_many": 11,
+        "len_c": 9,
+        "len_nc": 11,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1-100/Moreau83_MAZ.json",
+        "how_many": 31,
+        "len_c": 22,
+        "len_nc": 31,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1-100/Moreau95_GBOOKS.json",
+        "how_many": 13,
+        "len_c": 15,
+        "len_nc": 16,
+        "same_len": false,
+        "ratio": 0.8125
+    },
+    {
+        "file": "MAZ_corr/1-100/Moreau97_GBOOKS.json",
+        "how_many": 7,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1-100/Moreau98_MAZ.json",
+        "how_many": 39,
+        "len_c": 33,
+        "len_nc": 39,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1-100/Moreau99_GBOOKS.json",
+        "how_many": 21,
+        "len_c": 20,
+        "len_nc": 21,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1001_GBOOKS.json",
+        "how_many": 7,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1002_GBOOKS.json",
+        "how_many": 8,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1005_GBOOKS.json",
+        "how_many": 8,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1006_MAZ.json",
+        "how_many": 31,
+        "len_c": 25,
+        "len_nc": 31,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1007_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1008_GBOOKS.json",
+        "how_many": 7,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1009_MAZ.json",
+        "how_many": 38,
+        "len_c": 36,
+        "len_nc": 38,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1010_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1012_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 6,
+        "len_nc": 5,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1016_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.7142857142857143
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1018_GBOOKS.json",
+        "how_many": 7,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1019_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1020_GBOOKS.json",
+        "how_many": 19,
+        "len_c": 17,
+        "len_nc": 19,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1021_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1023_GBOOKS.json",
+        "how_many": 15,
+        "len_c": 15,
+        "len_nc": 14,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1024_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 4,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1030_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 31,
+        "len_nc": 32,
+        "same_len": false,
+        "ratio": 0.09375
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1035_GBOOKS.json",
+        "how_many": 21,
+        "len_c": 22,
+        "len_nc": 22,
+        "same_len": true,
+        "ratio": 0.9545454545454546
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1036_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1037_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1040_MAZ.json",
+        "how_many": 14,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 0.9333333333333333
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1041_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1043_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.8333333333333334
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1047_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1053_GBOOKS.json",
+        "how_many": 39,
+        "len_c": 42,
+        "len_nc": 42,
+        "same_len": true,
+        "ratio": 0.9285714285714286
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1054_GBOOKS.json",
+        "how_many": 22,
+        "len_c": 23,
+        "len_nc": 23,
+        "same_len": true,
+        "ratio": 0.9565217391304348
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1056_GALL.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1059_GBOOKS.json",
+        "how_many": 26,
+        "len_c": 26,
+        "len_nc": 26,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1060_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1068_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.8333333333333334
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1072_MAZ.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1077_GALL.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1078_MAZ.json",
+        "how_many": 4,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1080_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1081_GBOOKS.json",
+        "how_many": 7,
+        "len_c": 9,
+        "len_nc": 9,
+        "same_len": true,
+        "ratio": 0.7777777777777778
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1084_GALL.json",
+        "how_many": 1,
+        "len_c": 10,
+        "len_nc": 10,
+        "same_len": true,
+        "ratio": 0.1
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1085-i_MAZ.json",
+        "how_many": 7,
+        "len_c": 10,
+        "len_nc": 10,
+        "same_len": true,
+        "ratio": 0.7
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1085-ii_MAZ.json",
+        "how_many": 10,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 0.9090909090909091
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1089_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1090_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1092_GALL.json",
+        "how_many": 10,
+        "len_c": 10,
+        "len_nc": 10,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1093_MAZ.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1094_GBOOKS.json",
+        "how_many": 30,
+        "len_c": 31,
+        "len_nc": 31,
+        "same_len": true,
+        "ratio": 0.967741935483871
+    },
+    {
+        "file": "MAZ_corr/1001-1100/Moreau1097_GBOOKS.json",
+        "how_many": 14,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 0.9333333333333333
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau101_GBOOKS.json",
+        "how_many": 10,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 0.9090909090909091
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau104_GBOOKS.json",
+        "how_many": 7,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.875
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau105_MAZ.json",
+        "how_many": 38,
+        "len_c": 40,
+        "len_nc": 40,
+        "same_len": true,
+        "ratio": 0.95
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau109_GBOOKS.json",
+        "how_many": 34,
+        "len_c": 35,
+        "len_nc": 35,
+        "same_len": true,
+        "ratio": 0.9714285714285714
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau110_GBOOKS.json",
+        "how_many": 10,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 0.9090909090909091
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau120_GBOOKS.json",
+        "how_many": 13,
+        "len_c": 14,
+        "len_nc": 14,
+        "same_len": true,
+        "ratio": 0.9285714285714286
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau121_GALL.json",
+        "how_many": 1,
+        "len_c": 9,
+        "len_nc": 9,
+        "same_len": true,
+        "ratio": 0.1111111111111111
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau123_GBOOKS.json",
+        "how_many": 14,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 0.9333333333333333
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau124_GALL.json",
+        "how_many": 1,
+        "len_c": 10,
+        "len_nc": 10,
+        "same_len": true,
+        "ratio": 0.1
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau125_GBOOKS.json",
+        "how_many": 10,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 0.9090909090909091
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau126_MAZ.json",
+        "how_many": 85,
+        "len_c": 86,
+        "len_nc": 85,
+        "same_len": false,
+        "ratio": 0.9883720930232558
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau127_MAZ.json",
+        "how_many": 37,
+        "len_c": 38,
+        "len_nc": 38,
+        "same_len": true,
+        "ratio": 0.9736842105263158
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau131_MAZ.json",
+        "how_many": 18,
+        "len_c": 19,
+        "len_nc": 19,
+        "same_len": true,
+        "ratio": 0.9473684210526315
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau144_MAZ.json",
+        "how_many": 7,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.875
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau148_MAZ.json",
+        "how_many": 4,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 0.8
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau164_MAZ.json",
+        "how_many": 4,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 0.8
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau166_MAZ.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.5714285714285714
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau184_MAZ.json",
+        "how_many": 5,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau196_MAZ.json",
+        "how_many": 2,
+        "len_c": 2,
+        "len_nc": 2,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau197_MAZ.json",
+        "how_many": 4,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 0.8
+    },
+    {
+        "file": "MAZ_corr/101-200/Moreau200_MAZ.json",
+        "how_many": 7,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1101-1200/Moreau1102_MAZ.json",
+        "how_many": 31,
+        "len_c": 31,
+        "len_nc": 31,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1101-1200/Moreau1104_MAZ.json",
+        "how_many": 13,
+        "len_c": 14,
+        "len_nc": 14,
+        "same_len": true,
+        "ratio": 0.9285714285714286
+    },
+    {
+        "file": "MAZ_corr/1101-1200/Moreau1106_GBOOKS.json",
+        "how_many": 8,
+        "len_c": 8,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1101-1200/Moreau1107_MAZ.json",
+        "how_many": 25,
+        "len_c": 26,
+        "len_nc": 26,
+        "same_len": true,
+        "ratio": 0.9615384615384616
+    },
+    {
+        "file": "MAZ_corr/1101-1200/Moreau1113_MAZ.json",
+        "how_many": 6,
+        "len_c": 14,
+        "len_nc": 14,
+        "same_len": true,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/1101-1200/Moreau1124_MAZ.json",
+        "how_many": 7,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1101-1200/Moreau1125_MAZ.json",
+        "how_many": 11,
+        "len_c": 13,
+        "len_nc": 13,
+        "same_len": true,
+        "ratio": 0.8461538461538461
+    },
+    {
+        "file": "MAZ_corr/1101-1200/Moreau1160_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 19,
+        "len_nc": 19,
+        "same_len": true,
+        "ratio": 0.05263157894736842
+    },
+    {
+        "file": "MAZ_corr/1101-1200/Moreau1161_GALL.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/1101-1200/Moreau1174_MAZ.json",
+        "how_many": 1,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/1101-1200/Moreau1183_MAZ.json",
+        "how_many": 30,
+        "len_c": 31,
+        "len_nc": 31,
+        "same_len": true,
+        "ratio": 0.967741935483871
+    },
+    {
+        "file": "MAZ_corr/1101-1200/Moreau1184_MAZ.json",
+        "how_many": 14,
+        "len_c": 14,
+        "len_nc": 14,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1101-1200/Moreau1200_GALL.json",
+        "how_many": 6,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1210_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1216_MAZ.json",
+        "how_many": 4,
+        "len_c": 47,
+        "len_nc": 47,
+        "same_len": true,
+        "ratio": 0.0851063829787234
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1217_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1218_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 29,
+        "len_nc": 29,
+        "same_len": true,
+        "ratio": 0.10344827586206896
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1220_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1225_GBOOKS.json",
+        "how_many": 10,
+        "len_c": 14,
+        "len_nc": 14,
+        "same_len": true,
+        "ratio": 0.7142857142857143
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1228_GALL.json",
+        "how_many": 9,
+        "len_c": 10,
+        "len_nc": 10,
+        "same_len": true,
+        "ratio": 0.9
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1241_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1242_GBOOKS.json",
+        "how_many": 10,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 0.9090909090909091
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1244_GBOOKS.json",
+        "how_many": 20,
+        "len_c": 21,
+        "len_nc": 21,
+        "same_len": true,
+        "ratio": 0.9523809523809523
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1248_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1249_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.7142857142857143
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1251_GBOOKS.json",
+        "how_many": 30,
+        "len_c": 31,
+        "len_nc": 31,
+        "same_len": true,
+        "ratio": 0.967741935483871
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1253_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1255_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1256_MAZ.json",
+        "how_many": 1,
+        "len_c": 19,
+        "len_nc": 19,
+        "same_len": true,
+        "ratio": 0.05263157894736842
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1257_GBOOKS.json",
+        "how_many": 7,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1260_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 0.8
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1264_GBOOKS.json",
+        "how_many": 10,
+        "len_c": 10,
+        "len_nc": 10,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1267_GALL.json",
+        "how_many": 1,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1271_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1272_GBOOKS.json",
+        "how_many": 10,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 0.9090909090909091
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1274_GALL.json",
+        "how_many": 14,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 0.9333333333333333
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1275_GBOOKS.json",
+        "how_many": 7,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.875
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1276_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1278_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1279_GBOOKS.json",
+        "how_many": 23,
+        "len_c": 23,
+        "len_nc": 23,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1282_MAZ.json",
+        "how_many": 17,
+        "len_c": 17,
+        "len_nc": 17,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1283_MAZ.json",
+        "how_many": 15,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1284_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1285_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1287_GBOOKS.json",
+        "how_many": 46,
+        "len_c": 47,
+        "len_nc": 47,
+        "same_len": true,
+        "ratio": 0.9787234042553191
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1288_GBOOKS.json",
+        "how_many": 9,
+        "len_c": 10,
+        "len_nc": 10,
+        "same_len": true,
+        "ratio": 0.9
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1289_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 14,
+        "len_nc": 14,
+        "same_len": true,
+        "ratio": 0.21428571428571427
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1290_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1293_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.8333333333333334
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1294_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1201-1300/Moreau1299_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1301-1400/Moreau1314_MAZ.json",
+        "how_many": 18,
+        "len_c": 18,
+        "len_nc": 18,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1301-1400/Moreau1317_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/1301-1400/Moreau1324_MAZ.json",
+        "how_many": 18,
+        "len_c": 18,
+        "len_nc": 18,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1301-1400/Moreau1326_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 0.2727272727272727
+    },
+    {
+        "file": "MAZ_corr/1301-1400/Moreau1332_MAZ.json",
+        "how_many": 13,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 0.8666666666666667
+    },
+    {
+        "file": "MAZ_corr/1301-1400/Moreau1342_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/1301-1400/Moreau1351_GBOOKS.json",
+        "how_many": 45,
+        "len_c": 45,
+        "len_nc": 45,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1301-1400/Moreau1353_MAZ.json",
+        "how_many": 2,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/1301-1400/Moreau1359_MAZ.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.8333333333333334
+    },
+    {
+        "file": "MAZ_corr/1301-1400/Moreau1365_MAZ.json",
+        "how_many": 6,
+        "len_c": 6,
+        "len_nc": 4,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1301-1400/Moreau1366_MAZ.json",
+        "how_many": 12,
+        "len_c": 12,
+        "len_nc": 12,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1301-1400/Moreau1367_MAZ.json",
+        "how_many": 36,
+        "len_c": 36,
+        "len_nc": 36,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1301-1400/Moreau1368_MAZ.json",
+        "how_many": 8,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1301-1400/Moreau1370_MAZ.json",
+        "how_many": 4,
+        "len_c": 23,
+        "len_nc": 23,
+        "same_len": true,
+        "ratio": 0.17391304347826086
+    },
+    {
+        "file": "MAZ_corr/1301-1400/Moreau1372_GALL.json",
+        "how_many": 3,
+        "len_c": 28,
+        "len_nc": 28,
+        "same_len": true,
+        "ratio": 0.10714285714285714
+    },
+    {
+        "file": "MAZ_corr/1301-1400/Moreau1376_MAZ.json",
+        "how_many": 7,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.875
+    },
+    {
+        "file": "MAZ_corr/1301-1400/Moreau1377_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 13,
+        "len_nc": 13,
+        "same_len": true,
+        "ratio": 0.15384615384615385
+    },
+    {
+        "file": "MAZ_corr/1401-1500/Moreau1401_MAZ.json",
+        "how_many": 23,
+        "len_c": 23,
+        "len_nc": 23,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1401-1500/Moreau1447_MAZ.json",
+        "how_many": 15,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1401-1500/Moreau1448_MAZ.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.8333333333333334
+    },
+    {
+        "file": "MAZ_corr/1401-1500/Moreau1461_MAZ.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/1401-1500/Moreau1463_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 17,
+        "len_nc": 17,
+        "same_len": true,
+        "ratio": 0.17647058823529413
+    },
+    {
+        "file": "MAZ_corr/1401-1500/Moreau1469_GALL.json",
+        "how_many": 3,
+        "len_c": 13,
+        "len_nc": 14,
+        "same_len": false,
+        "ratio": 0.21428571428571427
+    },
+    {
+        "file": "MAZ_corr/1401-1500/Moreau1470_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/1401-1500/Moreau1472_MAZ.json",
+        "how_many": 1,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/1401-1500/Moreau1477_MAZ.json",
+        "how_many": 6,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1401-1500/Moreau1498_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 11,
+        "len_nc": 12,
+        "same_len": false,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/1401-1500/Moreau1500_MAZ.json",
+        "how_many": 12,
+        "len_c": 12,
+        "len_nc": 12,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1501-1600/Moreau1510_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 13,
+        "len_nc": 13,
+        "same_len": true,
+        "ratio": 0.23076923076923078
+    },
+    {
+        "file": "MAZ_corr/1501-1600/Moreau1531_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.5714285714285714
+    },
+    {
+        "file": "MAZ_corr/1501-1600/Moreau1532_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 29,
+        "len_nc": 29,
+        "same_len": true,
+        "ratio": 0.06896551724137931
+    },
+    {
+        "file": "MAZ_corr/1601-1700/Moreau1624_GBOOKS.json",
+        "how_many": 27,
+        "len_c": 27,
+        "len_nc": 27,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1601-1700/Moreau1634_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/1601-1700/Moreau1638_GALL.json",
+        "how_many": 17,
+        "len_c": 79,
+        "len_nc": 80,
+        "same_len": false,
+        "ratio": 0.2125
+    },
+    {
+        "file": "MAZ_corr/1601-1700/Moreau1639_GBOOKS.json",
+        "how_many": 233,
+        "len_c": 234,
+        "len_nc": 234,
+        "same_len": true,
+        "ratio": 0.9957264957264957
+    },
+    {
+        "file": "MAZ_corr/1601-1700/Moreau1643_GBOOKS.json",
+        "how_many": 464,
+        "len_c": 466,
+        "len_nc": 466,
+        "same_len": true,
+        "ratio": 0.9957081545064378
+    },
+    {
+        "file": "MAZ_corr/1601-1700/Moreau1644_MAZ.json",
+        "how_many": 253,
+        "len_c": 254,
+        "len_nc": 254,
+        "same_len": true,
+        "ratio": 0.9960629921259843
+    },
+    {
+        "file": "MAZ_corr/1601-1700/Moreau1645_MAZ.json",
+        "how_many": 39,
+        "len_c": 40,
+        "len_nc": 40,
+        "same_len": true,
+        "ratio": 0.975
+    },
+    {
+        "file": "MAZ_corr/1601-1700/Moreau1649_MAZ.json",
+        "how_many": 6,
+        "len_c": 13,
+        "len_nc": 14,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/1601-1700/Moreau1650_MAZ.json",
+        "how_many": 4,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/1601-1700/Moreau1652_GALL.json",
+        "how_many": 7,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.875
+    },
+    {
+        "file": "MAZ_corr/1601-1700/Moreau1653_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/1601-1700/Moreau1656_MAZ.json",
+        "how_many": 17,
+        "len_c": 17,
+        "len_nc": 17,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1601-1700/Moreau1666_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 25,
+        "len_nc": 25,
+        "same_len": true,
+        "ratio": 0.08
+    },
+    {
+        "file": "MAZ_corr/1601-1700/Moreau1673_MAZ.json",
+        "how_many": 18,
+        "len_c": 19,
+        "len_nc": 19,
+        "same_len": true,
+        "ratio": 0.9473684210526315
+    },
+    {
+        "file": "MAZ_corr/1601-1700/Moreau1674_MAZ.json",
+        "how_many": 27,
+        "len_c": 27,
+        "len_nc": 27,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1601-1700/Moreau1691_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 9,
+        "len_nc": 9,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/1601-1700/Moreau1694_MAZ.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1701-1800/Moreau1733_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/1701-1800/Moreau1740_GALL.json",
+        "how_many": 1,
+        "len_c": 43,
+        "len_nc": 43,
+        "same_len": true,
+        "ratio": 0.023255813953488372
+    },
+    {
+        "file": "MAZ_corr/1701-1800/Moreau1741_GBOOKS.json",
+        "how_many": 329,
+        "len_c": 321,
+        "len_nc": 329,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1701-1800/Moreau1742_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 29,
+        "len_nc": 29,
+        "same_len": true,
+        "ratio": 0.034482758620689655
+    },
+    {
+        "file": "MAZ_corr/1701-1800/Moreau1743_GBOOKS.json",
+        "how_many": 207,
+        "len_c": 209,
+        "len_nc": 209,
+        "same_len": true,
+        "ratio": 0.9904306220095693
+    },
+    {
+        "file": "MAZ_corr/1701-1800/Moreau1745_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 14,
+        "len_nc": 15,
+        "same_len": false,
+        "ratio": 0.2
+    },
+    {
+        "file": "MAZ_corr/1701-1800/Moreau1748_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/1701-1800/Moreau1751_GBOOKS.json",
+        "how_many": 58,
+        "len_c": 58,
+        "len_nc": 58,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1701-1800/Moreau1757_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 0.13333333333333333
+    },
+    {
+        "file": "MAZ_corr/1701-1800/Moreau1759_GALL.json",
+        "how_many": 6,
+        "len_c": 14,
+        "len_nc": 17,
+        "same_len": false,
+        "ratio": 0.35294117647058826
+    },
+    {
+        "file": "MAZ_corr/1701-1800/Moreau1760_GBOOKS.json",
+        "how_many": 42,
+        "len_c": 42,
+        "len_nc": 42,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1701-1800/Moreau1761_GALL.json",
+        "how_many": 4,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/1701-1800/Moreau1762_GBOOKS.json",
+        "how_many": 326,
+        "len_c": 326,
+        "len_nc": 325,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1701-1800/Moreau1763_GALL.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/1701-1800/Moreau1764_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/1801-1900/Moreau1808_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1801-1900/Moreau1819_GBOOKS.json",
+        "how_many": 14,
+        "len_c": 14,
+        "len_nc": 4,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1801-1900/Moreau1832_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/1801-1900/Moreau1836_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 11,
+        "len_nc": 12,
+        "same_len": false,
+        "ratio": 0.16666666666666666
+    },
+    {
+        "file": "MAZ_corr/1801-1900/Moreau1839_GBOOKS.json",
+        "how_many": 33,
+        "len_c": 38,
+        "len_nc": 38,
+        "same_len": true,
+        "ratio": 0.868421052631579
+    },
+    {
+        "file": "MAZ_corr/1801-1900/Moreau1843_MAZ.json",
+        "how_many": 13,
+        "len_c": 13,
+        "len_nc": 13,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1801-1900/Moreau1851_GBOOKS.json",
+        "how_many": 8,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1801-1900/Moreau1866_MAZ.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1801-1900/Moreau1869_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.14285714285714285
+    },
+    {
+        "file": "MAZ_corr/1801-1900/Moreau1881_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/1801-1900/Moreau1887_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 10,
+        "len_nc": 10,
+        "same_len": true,
+        "ratio": 0.2
+    },
+    {
+        "file": "MAZ_corr/1801-1900/Moreau1894_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/1801-1900/Moreau1895_MAZ.json",
+        "how_many": 9,
+        "len_c": 10,
+        "len_nc": 9,
+        "same_len": false,
+        "ratio": 0.9
+    },
+    {
+        "file": "MAZ_corr/1801-1900/Moreau1897_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 0.2
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1901_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1902_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1904_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 2,
+        "len_nc": 4,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1910_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1913_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1915_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 12,
+        "len_nc": 12,
+        "same_len": true,
+        "ratio": 0.08333333333333333
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1916_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1917_MAZ.json",
+        "how_many": 3,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 0.75
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1921_MAZ.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1932_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.14285714285714285
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1936_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.16666666666666666
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1937_MAZ.json",
+        "how_many": 2,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1939_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.14285714285714285
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1940_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1942_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 10,
+        "len_nc": 10,
+        "same_len": true,
+        "ratio": 0.2
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1943_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1952_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.14285714285714285
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1960_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.14285714285714285
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1968_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 20,
+        "len_nc": 20,
+        "same_len": true,
+        "ratio": 0.05
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1974_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 1,
+        "len_nc": 3,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1985_MAZ.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.8333333333333334
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1986_MAZ.json",
+        "how_many": 23,
+        "len_c": 25,
+        "len_nc": 25,
+        "same_len": true,
+        "ratio": 0.92
+    },
+    {
+        "file": "MAZ_corr/1901-2000/Moreau1991_GALL.json",
+        "how_many": 2,
+        "len_c": 16,
+        "len_nc": 16,
+        "same_len": true,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2006_MAZ.json",
+        "how_many": 4,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2011_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2017_MAZ.json",
+        "how_many": 9,
+        "len_c": 9,
+        "len_nc": 9,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2019_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2020_GBOOKS.json",
+        "how_many": 30,
+        "len_c": 31,
+        "len_nc": 31,
+        "same_len": true,
+        "ratio": 0.967741935483871
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2022_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2026_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2032_MAZ.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2033_MAZ.json",
+        "how_many": 5,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.7142857142857143
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2040_GBOOKS.json",
+        "how_many": 63,
+        "len_c": 64,
+        "len_nc": 64,
+        "same_len": true,
+        "ratio": 0.984375
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2042_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 3,
+        "len_nc": 4,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2043_GBOOKS.json",
+        "how_many": 11,
+        "len_c": 10,
+        "len_nc": 11,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2045_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2047_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 15,
+        "len_nc": 16,
+        "same_len": false,
+        "ratio": 0.0625
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2050_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2051_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2056_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2059_GBOOKS.json",
+        "how_many": 8,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2061_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2067_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.14285714285714285
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2068_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2069_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2076_GBOOKS.json",
+        "how_many": 7,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.875
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2079_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2081_GALL.json",
+        "how_many": 6,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2084_GBOOKS.json",
+        "how_many": 7,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.875
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2086_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2088_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2094_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2099-i_MAZ.json",
+        "how_many": 16,
+        "len_c": 17,
+        "len_nc": 17,
+        "same_len": true,
+        "ratio": 0.9411764705882353
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2099-ii_MAZ.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/2001-2100/Moreau2099-iii_MAZ.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau211_MAZ.json",
+        "how_many": 4,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau212_MAZ.json",
+        "how_many": 2,
+        "len_c": 2,
+        "len_nc": 2,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau214_MAZ.json",
+        "how_many": 4,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau216_MAZ.json",
+        "how_many": 2,
+        "len_c": 2,
+        "len_nc": 2,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau217_MAZ.json",
+        "how_many": 3,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau219_MAZ.json",
+        "how_many": 3,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau220_MAZ.json",
+        "how_many": 2,
+        "len_c": 2,
+        "len_nc": 2,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau223_MAZ.json",
+        "how_many": 1,
+        "len_c": 2,
+        "len_nc": 2,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau225_MAZ.json",
+        "how_many": 3,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau227_MAZ.json",
+        "how_many": 2,
+        "len_c": 2,
+        "len_nc": 2,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau230_MAZ.json",
+        "how_many": 1,
+        "len_c": 2,
+        "len_nc": 2,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau233_MAZ.json",
+        "how_many": 1,
+        "len_c": 2,
+        "len_nc": 2,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau234_MAZ.json",
+        "how_many": 1,
+        "len_c": 2,
+        "len_nc": 2,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau242_MAZ.json",
+        "how_many": 3,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau247_MAZ.json",
+        "how_many": 1,
+        "len_c": 1,
+        "len_nc": 1,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau258_MAZ.json",
+        "how_many": 2,
+        "len_c": 2,
+        "len_nc": 2,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau260_MAZ.json",
+        "how_many": 3,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau278_MAZ.json",
+        "how_many": 6,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau289_MAZ.json",
+        "how_many": 3,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/201-300/Moreau293_MAZ.json",
+        "how_many": 3,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 0.75
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2101_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2103_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2105_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2106_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2107_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.5714285714285714
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2110_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2113_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2114_GBOOKS.json",
+        "how_many": 8,
+        "len_c": 6,
+        "len_nc": 12,
+        "same_len": false,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2116_GBOOKS.json",
+        "how_many": 8,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2118_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2119_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 10,
+        "len_nc": 11,
+        "same_len": false,
+        "ratio": 0.2727272727272727
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2124_MAZ.json",
+        "how_many": 8,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2126_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2128_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 31,
+        "len_nc": 32,
+        "same_len": false,
+        "ratio": 0.09375
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2129_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2130_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 3,
+        "len_nc": 4,
+        "same_len": false,
+        "ratio": 0.75
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2131_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.5714285714285714
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2132_GALL.json",
+        "how_many": 12,
+        "len_c": 11,
+        "len_nc": 12,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2135_MAZ.json",
+        "how_many": 3,
+        "len_c": 2,
+        "len_nc": 4,
+        "same_len": false,
+        "ratio": 0.75
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2140_MAZ.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.625
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2147_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2157_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 3,
+        "len_nc": 4,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2158_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2159_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.14285714285714285
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2160_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2163_MAZ.json",
+        "how_many": 3,
+        "len_c": 5,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2164_MAZ.json",
+        "how_many": 2,
+        "len_c": 2,
+        "len_nc": 2,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2166_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2168_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.14285714285714285
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2169_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2176_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.14285714285714285
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2180_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2197_MAZ.json",
+        "how_many": 12,
+        "len_c": 12,
+        "len_nc": 9,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2101-2200/Moreau2200_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2201_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.5714285714285714
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2202_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 9,
+        "len_nc": 10,
+        "same_len": false,
+        "ratio": 0.3
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2203_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 15,
+        "len_nc": 16,
+        "same_len": false,
+        "ratio": 0.1875
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2205_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2206_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2208_GBOOKS.json",
+        "how_many": 23,
+        "len_c": 22,
+        "len_nc": 23,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2209_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.16666666666666666
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2212_GBOOKS.json",
+        "how_many": 8,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2213_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2216_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2217_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2220_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 14,
+        "len_nc": 15,
+        "same_len": false,
+        "ratio": 0.2
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2225_GBOOKS.json",
+        "how_many": 8,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2227_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2229_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2230_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2231_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2232_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 18,
+        "len_nc": 19,
+        "same_len": false,
+        "ratio": 0.15789473684210525
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2233_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 2,
+        "len_nc": 2,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2235_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2236_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2242_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2247_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2248_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 10,
+        "len_nc": 11,
+        "same_len": false,
+        "ratio": 0.2727272727272727
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2249_GBOOKS.json",
+        "how_many": 39,
+        "len_c": 38,
+        "len_nc": 39,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2251_GBOOKS.json",
+        "how_many": 8,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2252_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2253_GALL.json",
+        "how_many": 10,
+        "len_c": 9,
+        "len_nc": 10,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2258_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2259_GBOOKS.json",
+        "how_many": 14,
+        "len_c": 13,
+        "len_nc": 14,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2263_MAZ.json",
+        "how_many": 8,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2268_GBOOKS.json",
+        "how_many": 8,
+        "len_c": 3,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2269_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 8,
+        "len_nc": 9,
+        "same_len": false,
+        "ratio": 0.2222222222222222
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2271_MAZ.json",
+        "how_many": 15,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2272_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 3,
+        "len_nc": 4,
+        "same_len": false,
+        "ratio": 0.75
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2277_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 15,
+        "len_nc": 16,
+        "same_len": false,
+        "ratio": 0.1875
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2280_GBOOKS.json",
+        "how_many": 12,
+        "len_c": 4,
+        "len_nc": 14,
+        "same_len": false,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2282_MAZ.json",
+        "how_many": 7,
+        "len_c": 10,
+        "len_nc": 10,
+        "same_len": true,
+        "ratio": 0.7
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2287_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 13,
+        "len_nc": 14,
+        "same_len": false,
+        "ratio": 0.14285714285714285
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2288_GBOOKS.json",
+        "how_many": 40,
+        "len_c": 39,
+        "len_nc": 40,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2289_MAZ.json",
+        "how_many": 11,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2290_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/2201-2300/Moreau2297_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/2301-2400/Moreau2355_MAZ.json",
+        "how_many": 22,
+        "len_c": 22,
+        "len_nc": 22,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2301-2400/Moreau2372_MAZ.json",
+        "how_many": 21,
+        "len_c": 22,
+        "len_nc": 22,
+        "same_len": true,
+        "ratio": 0.9545454545454546
+    },
+    {
+        "file": "MAZ_corr/2301-2400/Moreau2386_MAZ.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.5714285714285714
+    },
+    {
+        "file": "MAZ_corr/2301-2400/Moreau2397_MAZ.json",
+        "how_many": 15,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2301-2400/Moreau2398_MAZ.json",
+        "how_many": 24,
+        "len_c": 25,
+        "len_nc": 25,
+        "same_len": true,
+        "ratio": 0.96
+    },
+    {
+        "file": "MAZ_corr/2401-2500/Moreau2404_MAZ.json",
+        "how_many": 14,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 0.9333333333333333
+    },
+    {
+        "file": "MAZ_corr/2401-2500/Moreau2407_MAZ.json",
+        "how_many": 22,
+        "len_c": 23,
+        "len_nc": 23,
+        "same_len": true,
+        "ratio": 0.9565217391304348
+    },
+    {
+        "file": "MAZ_corr/2401-2500/Moreau2408_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 13,
+        "len_nc": 13,
+        "same_len": true,
+        "ratio": 0.23076923076923078
+    },
+    {
+        "file": "MAZ_corr/2401-2500/Moreau2409_MAZ.json",
+        "how_many": 3,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2401-2500/Moreau2410_MAZ.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/2401-2500/Moreau2412_MAZ.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/2401-2500/Moreau2413_MAZ.json",
+        "how_many": 4,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/2401-2500/Moreau2422_MAZ.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/2401-2500/Moreau2436_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 0.2
+    },
+    {
+        "file": "MAZ_corr/2401-2500/Moreau2439_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 58,
+        "len_nc": 59,
+        "same_len": false,
+        "ratio": 0.05084745762711865
+    },
+    {
+        "file": "MAZ_corr/2401-2500/Moreau2440_MAZ.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.8333333333333334
+    },
+    {
+        "file": "MAZ_corr/2401-2500/Moreau2454_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/2401-2500/Moreau2455_MAZ.json",
+        "how_many": 6,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 0.4
+    },
+    {
+        "file": "MAZ_corr/2401-2500/Moreau2456_MAZ.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.14285714285714285
+    },
+    {
+        "file": "MAZ_corr/2401-2500/Moreau2457_MAZ.json",
+        "how_many": 22,
+        "len_c": 23,
+        "len_nc": 23,
+        "same_len": true,
+        "ratio": 0.9565217391304348
+    },
+    {
+        "file": "MAZ_corr/2401-2500/Moreau2459_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 14,
+        "len_nc": 14,
+        "same_len": true,
+        "ratio": 0.07142857142857142
+    },
+    {
+        "file": "MAZ_corr/2401-2500/Moreau2489_MAZ.json",
+        "how_many": 5,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2401-2500/Moreau2494_MAZ.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.7142857142857143
+    },
+    {
+        "file": "MAZ_corr/2401-2500/Moreau2495_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/2501-2600/Moreau2508_MAZ.json",
+        "how_many": 20,
+        "len_c": 21,
+        "len_nc": 21,
+        "same_len": true,
+        "ratio": 0.9523809523809523
+    },
+    {
+        "file": "MAZ_corr/2501-2600/Moreau2537_GBOOKS.json",
+        "how_many": 166,
+        "len_c": 166,
+        "len_nc": 166,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2501-2600/Moreau2538_GALL.json",
+        "how_many": 5,
+        "len_c": 39,
+        "len_nc": 39,
+        "same_len": true,
+        "ratio": 0.1282051282051282
+    },
+    {
+        "file": "MAZ_corr/2501-2600/Moreau2541_GALL.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/2501-2600/Moreau2542_GALL.json",
+        "how_many": 4,
+        "len_c": 2,
+        "len_nc": 4,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2501-2600/Moreau2544_MAZ.json",
+        "how_many": 4,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/2501-2600/Moreau2554_MAZ.json",
+        "how_many": 5,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.7142857142857143
+    },
+    {
+        "file": "MAZ_corr/2501-2600/Moreau2556_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/2501-2600/Moreau2557_MAZ.json",
+        "how_many": 6,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2501-2600/Moreau2559_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/2501-2600/Moreau2568_MAZ.json",
+        "how_many": 34,
+        "len_c": 35,
+        "len_nc": 35,
+        "same_len": true,
+        "ratio": 0.9714285714285714
+    },
+    {
+        "file": "MAZ_corr/2501-2600/Moreau2593_MAZ.json",
+        "how_many": 9,
+        "len_c": 10,
+        "len_nc": 10,
+        "same_len": true,
+        "ratio": 0.9
+    },
+    {
+        "file": "MAZ_corr/2601-2700/Moreau2617_MAZ.json",
+        "how_many": 3,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2601-2700/Moreau2638_MAZ.json",
+        "how_many": 1,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 0.09090909090909091
+    },
+    {
+        "file": "MAZ_corr/2601-2700/Moreau2677_MAZ.json",
+        "how_many": 39,
+        "len_c": 39,
+        "len_nc": 39,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2601-2700/Moreau2698_MAZ.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.8333333333333334
+    },
+    {
+        "file": "MAZ_corr/2701-2800/Moreau2701-i_MAZ.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.14285714285714285
+    },
+    {
+        "file": "MAZ_corr/2701-2800/Moreau2701-iii_MAZ.json",
+        "how_many": 1,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.16666666666666666
+    },
+    {
+        "file": "MAZ_corr/2701-2800/Moreau2704_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/2701-2800/Moreau2705_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2701-2800/Moreau2713_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.5714285714285714
+    },
+    {
+        "file": "MAZ_corr/2701-2800/Moreau2714_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/2701-2800/Moreau2715_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/2701-2800/Moreau2718_MAZ.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/2701-2800/Moreau2728_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/2701-2800/Moreau2747_GALL.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/2701-2800/Moreau2752_MAZ.json",
+        "how_many": 14,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 0.9333333333333333
+    },
+    {
+        "file": "MAZ_corr/2701-2800/Moreau2755_MAZ.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/2701-2800/Moreau2765_MAZ.json",
+        "how_many": 38,
+        "len_c": 39,
+        "len_nc": 39,
+        "same_len": true,
+        "ratio": 0.9743589743589743
+    },
+    {
+        "file": "MAZ_corr/2801-2900/Moreau2808_MAZ.json",
+        "how_many": 13,
+        "len_c": 14,
+        "len_nc": 14,
+        "same_len": true,
+        "ratio": 0.9285714285714286
+    },
+    {
+        "file": "MAZ_corr/2801-2900/Moreau2829_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 0.13333333333333333
+    },
+    {
+        "file": "MAZ_corr/2801-2900/Moreau2842_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/2801-2900/Moreau2847_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/2801-2900/Moreau2848_GALL.json",
+        "how_many": 2,
+        "len_c": 29,
+        "len_nc": 29,
+        "same_len": true,
+        "ratio": 0.06896551724137931
+    },
+    {
+        "file": "MAZ_corr/2801-2900/Moreau2850-ii_MAZ.json",
+        "how_many": 1,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/2801-2900/Moreau2856_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.16666666666666666
+    },
+    {
+        "file": "MAZ_corr/2801-2900/Moreau2861_MAZ.json",
+        "how_many": 29,
+        "len_c": 29,
+        "len_nc": 29,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2801-2900/Moreau2870_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 10,
+        "len_nc": 10,
+        "same_len": true,
+        "ratio": 0.1
+    },
+    {
+        "file": "MAZ_corr/2801-2900/Moreau2871_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.14285714285714285
+    },
+    {
+        "file": "MAZ_corr/2801-2900/Moreau2872_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/2801-2900/Moreau2879_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/2801-2900/Moreau2880_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/2801-2900/Moreau2882_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/2801-2900/Moreau2886_GBOOKS.json",
+        "how_many": 12,
+        "len_c": 11,
+        "len_nc": 12,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2801-2900/Moreau2889_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 13,
+        "len_nc": 13,
+        "same_len": true,
+        "ratio": 0.23076923076923078
+    },
+    {
+        "file": "MAZ_corr/2801-2900/Moreau2891_MAZ.json",
+        "how_many": 10,
+        "len_c": 11,
+        "len_nc": 10,
+        "same_len": false,
+        "ratio": 0.9090909090909091
+    },
+    {
+        "file": "MAZ_corr/2801-2900/Moreau2892_MAZ.json",
+        "how_many": 31,
+        "len_c": 31,
+        "len_nc": 31,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2901-3000/Moreau2948_MAZ.json",
+        "how_many": 7,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.875
+    },
+    {
+        "file": "MAZ_corr/2901-3000/Moreau2964_MAZ.json",
+        "how_many": 12,
+        "len_c": 13,
+        "len_nc": 13,
+        "same_len": true,
+        "ratio": 0.9230769230769231
+    },
+    {
+        "file": "MAZ_corr/2901-3000/Moreau2967_MAZ.json",
+        "how_many": 25,
+        "len_c": 25,
+        "len_nc": 25,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2901-3000/Moreau2971_MAZ.json",
+        "how_many": 26,
+        "len_c": 26,
+        "len_nc": 26,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2901-3000/Moreau2977_MAZ.json",
+        "how_many": 31,
+        "len_c": 31,
+        "len_nc": 31,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2901-3000/Moreau2984_MAZ.json",
+        "how_many": 6,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/2901-3000/Moreau2985_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.14285714285714285
+    },
+    {
+        "file": "MAZ_corr/2901-3000/Moreau2986_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 8,
+        "len_nc": 10,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/2901-3000/Moreau2987_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 14,
+        "len_nc": 14,
+        "same_len": true,
+        "ratio": 0.07142857142857142
+    },
+    {
+        "file": "MAZ_corr/2901-3000/Moreau2994_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 13,
+        "len_nc": 13,
+        "same_len": true,
+        "ratio": 0.15384615384615385
+    },
+    {
+        "file": "MAZ_corr/2901-3000/Moreau2995_GALL.json",
+        "how_many": 5,
+        "len_c": 4,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 0.8333333333333334
+    },
+    {
+        "file": "MAZ_corr/2901-3000/Moreau2996_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 25,
+        "len_nc": 25,
+        "same_len": true,
+        "ratio": 0.04
+    },
+    {
+        "file": "MAZ_corr/2901-3000/Moreau2999_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.625
+    },
+    {
+        "file": "MAZ_corr/2901-3000/Moreau3000_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.5714285714285714
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3003_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3004_MAZ.json",
+        "how_many": 3,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 0.6
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3005_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3006_GBOOKS.json",
+        "how_many": 7,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3007_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.625
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3010_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3011_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3016_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 15,
+        "len_nc": 16,
+        "same_len": false,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3017_MAZ.json",
+        "how_many": 6,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3018_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 11,
+        "len_nc": 12,
+        "same_len": false,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3019_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3024_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3027_MAZ.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.8333333333333334
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3030_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3032_MAZ.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3035-i_MAZ.json",
+        "how_many": 92,
+        "len_c": 94,
+        "len_nc": 94,
+        "same_len": true,
+        "ratio": 0.9787234042553191
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3035-ii_MAZ.json",
+        "how_many": 80,
+        "len_c": 82,
+        "len_nc": 82,
+        "same_len": true,
+        "ratio": 0.975609756097561
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3035-iii_MAZ.json",
+        "how_many": 94,
+        "len_c": 97,
+        "len_nc": 97,
+        "same_len": true,
+        "ratio": 0.9690721649484536
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3035-iv_MAZ.json",
+        "how_many": 93,
+        "len_c": 95,
+        "len_nc": 95,
+        "same_len": true,
+        "ratio": 0.9789473684210527
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3037_MAZ.json",
+        "how_many": 748,
+        "len_c": 755,
+        "len_nc": 740,
+        "same_len": false,
+        "ratio": 0.990728476821192
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3049_GALL.json",
+        "how_many": 114,
+        "len_c": 111,
+        "len_nc": 114,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3055_GALL.json",
+        "how_many": 3,
+        "len_c": 26,
+        "len_nc": 27,
+        "same_len": false,
+        "ratio": 0.1111111111111111
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3057_GBOOKS.json",
+        "how_many": 80,
+        "len_c": 6,
+        "len_nc": 80,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3096_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3097_GBOOKS.json",
+        "how_many": 257,
+        "len_c": 257,
+        "len_nc": 258,
+        "same_len": false,
+        "ratio": 0.9961240310077519
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3098_GALL.json",
+        "how_many": 3,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3099_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/3001-3100/Moreau3100_MAZ.json",
+        "how_many": 9,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 0.8181818181818182
+    },
+    {
+        "file": "MAZ_corr/301-400/Moreau345_MAZ.json",
+        "how_many": 3,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/301-400/Moreau385_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/301-400/Moreau387_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/301-400/Moreau388_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/301-400/Moreau389_MAZ.json",
+        "how_many": 7,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/301-400/Moreau390_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/301-400/Moreau392_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/301-400/Moreau393_MAZ.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/301-400/Moreau394_MAZ.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/301-400/Moreau395_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/301-400/Moreau397_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 0.2
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3104_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 11,
+        "len_nc": 12,
+        "same_len": false,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3106_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3108_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 22,
+        "len_nc": 23,
+        "same_len": false,
+        "ratio": 0.13043478260869565
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3110_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3114_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.5714285714285714
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3117_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3118_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.5714285714285714
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3119_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3121_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3122_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3125_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3126_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 14,
+        "len_nc": 15,
+        "same_len": false,
+        "ratio": 0.26666666666666666
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3127_MAZ.json",
+        "how_many": 6,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 0.5454545454545454
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3129_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3130_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3132_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 11,
+        "len_nc": 12,
+        "same_len": false,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3137_MAZ.json",
+        "how_many": 6,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 0.5454545454545454
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3139_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 5,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.625
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3141_MAZ.json",
+        "how_many": 6,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3142_MAZ.json",
+        "how_many": 16,
+        "len_c": 26,
+        "len_nc": 31,
+        "same_len": false,
+        "ratio": 0.5161290322580645
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3143_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.5714285714285714
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3146_GBOOKS.json",
+        "how_many": 16,
+        "len_c": 6,
+        "len_nc": 16,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3149_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 13,
+        "len_nc": 14,
+        "same_len": false,
+        "ratio": 0.21428571428571427
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3151_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3152_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3154_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3156_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 9,
+        "len_nc": 10,
+        "same_len": false,
+        "ratio": 0.3
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3162_MAZ.json",
+        "how_many": 4,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3163_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3165_MAZ.json",
+        "how_many": 4,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3166_MAZ.json",
+        "how_many": 24,
+        "len_c": 26,
+        "len_nc": 26,
+        "same_len": true,
+        "ratio": 0.9230769230769231
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3170_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 9,
+        "len_nc": 12,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3176_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3177_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 15,
+        "len_nc": 16,
+        "same_len": false,
+        "ratio": 0.1875
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3180_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3181_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3186_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.5714285714285714
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3188_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3189_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3190_MAZ.json",
+        "how_many": 3,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 0.6
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3191_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3195_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3198_GALL.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.7142857142857143
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3199_MAZ.json",
+        "how_many": 6,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/3101-3200/Moreau3200_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3204_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 10,
+        "len_nc": 11,
+        "same_len": false,
+        "ratio": 0.36363636363636365
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3205_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 12,
+        "len_nc": 13,
+        "same_len": false,
+        "ratio": 0.15384615384615385
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3209_GBOOKS.json",
+        "how_many": 8,
+        "len_c": 15,
+        "len_nc": 16,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3214_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3215_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3216_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3219_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3220_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3222_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3225_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 15,
+        "len_nc": 16,
+        "same_len": false,
+        "ratio": 0.1875
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3229_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 16,
+        "len_nc": 18,
+        "same_len": false,
+        "ratio": 0.2777777777777778
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3230_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 16,
+        "len_nc": 16,
+        "same_len": true,
+        "ratio": 0.0625
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3233_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3234_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3241_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3242_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3243_GBOOKS.json",
+        "how_many": 7,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3244_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3246_MAZ.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3247_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3248_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3250_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3251_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3255_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3256_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3257_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/3201-3300/Moreau3273_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 17,
+        "len_nc": 18,
+        "same_len": false,
+        "ratio": 0.16666666666666666
+    },
+    {
+        "file": "MAZ_corr/3301-3400/Moreau3326_MAZ.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3301-3400/Moreau3328_MAZ.json",
+        "how_many": 4,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/3301-3400/Moreau3341_MAZ.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.8333333333333334
+    },
+    {
+        "file": "MAZ_corr/3301-3400/Moreau3399_MAZ.json",
+        "how_many": 34,
+        "len_c": 34,
+        "len_nc": 34,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3401-3500/Moreau3463_MAZ.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.14285714285714285
+    },
+    {
+        "file": "MAZ_corr/3401-3500/Moreau3478_MAZ.json",
+        "how_many": 4,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3501-3600/Moreau3554_MAZ.json",
+        "how_many": 11,
+        "len_c": 12,
+        "len_nc": 12,
+        "same_len": true,
+        "ratio": 0.9166666666666666
+    },
+    {
+        "file": "MAZ_corr/3501-3600/Moreau3561_MAZ.json",
+        "how_many": 31,
+        "len_c": 31,
+        "len_nc": 31,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3501-3600/Moreau3570_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/3501-3600/Moreau3572_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/3501-3600/Moreau3577_GALL.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/3501-3600/Moreau3598_MAZ.json",
+        "how_many": 114,
+        "len_c": 115,
+        "len_nc": 115,
+        "same_len": true,
+        "ratio": 0.991304347826087
+    },
+    {
+        "file": "MAZ_corr/3601-3700/Moreau3620_MAZ.json",
+        "how_many": 4,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/3601-3700/Moreau3648_MAZ.json",
+        "how_many": 75,
+        "len_c": 76,
+        "len_nc": 76,
+        "same_len": true,
+        "ratio": 0.9868421052631579
+    },
+    {
+        "file": "MAZ_corr/3601-3700/Moreau3663_MAZ.json",
+        "how_many": 2,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/3601-3700/Moreau3665_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3601-3700/Moreau3671_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3601-3700/Moreau3672_MAZ.json",
+        "how_many": 3,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 0.6
+    },
+    {
+        "file": "MAZ_corr/3601-3700/Moreau3686_GBOOKS.json",
+        "how_many": 82,
+        "len_c": 6,
+        "len_nc": 82,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3701-3800/Moreau3705_MAZ.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.14285714285714285
+    },
+    {
+        "file": "MAZ_corr/3701-3800/Moreau3721_MAZ.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.8333333333333334
+    },
+    {
+        "file": "MAZ_corr/3701-3800/Moreau3725_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3701-3800/Moreau3726_GBOOKS.json",
+        "how_many": 46,
+        "len_c": 45,
+        "len_nc": 46,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3701-3800/Moreau3727_MAZ.json",
+        "how_many": 1,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/3701-3800/Moreau3728_GBOOKS.json",
+        "how_many": 261,
+        "len_c": 261,
+        "len_nc": 262,
+        "same_len": false,
+        "ratio": 0.9961832061068703
+    },
+    {
+        "file": "MAZ_corr/3701-3800/Moreau3741_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 14,
+        "len_nc": 15,
+        "same_len": false,
+        "ratio": 0.26666666666666666
+    },
+    {
+        "file": "MAZ_corr/3701-3800/Moreau3742_GBOOKS.json",
+        "how_many": 38,
+        "len_c": 37,
+        "len_nc": 38,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3701-3800/Moreau3743_MAZ.json",
+        "how_many": 2,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3701-3800/Moreau3748_MAZ.json",
+        "how_many": 10,
+        "len_c": 28,
+        "len_nc": 28,
+        "same_len": true,
+        "ratio": 0.35714285714285715
+    },
+    {
+        "file": "MAZ_corr/3701-3800/Moreau3766_MAZ.json",
+        "how_many": 14,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 0.9333333333333333
+    },
+    {
+        "file": "MAZ_corr/3701-3800/Moreau3769_MAZ.json",
+        "how_many": 10,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 0.9090909090909091
+    },
+    {
+        "file": "MAZ_corr/3701-3800/Moreau3792_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.7142857142857143
+    },
+    {
+        "file": "MAZ_corr/3701-3800/Moreau3794_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3814_MAZ.json",
+        "how_many": 13,
+        "len_c": 14,
+        "len_nc": 14,
+        "same_len": true,
+        "ratio": 0.9285714285714286
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3846_GBOOKS.json",
+        "how_many": 22,
+        "len_c": 7,
+        "len_nc": 22,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3847_GALL.json",
+        "how_many": 4,
+        "len_c": 10,
+        "len_nc": 11,
+        "same_len": false,
+        "ratio": 0.36363636363636365
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3848_GALL.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3849_GALL.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3850_GALL.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3851_GALL.json",
+        "how_many": 7,
+        "len_c": 9,
+        "len_nc": 9,
+        "same_len": true,
+        "ratio": 0.7777777777777778
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3852_GALL.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3853_GALL.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3854_GALL.json",
+        "how_many": 5,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.625
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3855_GALL.json",
+        "how_many": 3,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3856_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3857_GALL.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3858_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3859_GALL.json",
+        "how_many": 4,
+        "len_c": 10,
+        "len_nc": 11,
+        "same_len": false,
+        "ratio": 0.36363636363636365
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3860_GALL.json",
+        "how_many": 9,
+        "len_c": 1,
+        "len_nc": 9,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3861_MAZ.json",
+        "how_many": 1,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3862_GALL.json",
+        "how_many": 4,
+        "len_c": 9,
+        "len_nc": 10,
+        "same_len": false,
+        "ratio": 0.4
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3864_GALL.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3865_GALL.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3866_GALL.json",
+        "how_many": 3,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 0.2727272727272727
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3867_GALL.json",
+        "how_many": 3,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3868_GALL.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3869_GALL.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3870_GALL.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.14285714285714285
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3871_GALL.json",
+        "how_many": 24,
+        "len_c": 23,
+        "len_nc": 24,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3872_GALL.json",
+        "how_many": 3,
+        "len_c": 14,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.21428571428571427
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3899_GALL.json",
+        "how_many": 2,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/3801-3900/Moreau3900_MAZ.json",
+        "how_many": 15,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3901-4000/Moreau3901_MAZ.json",
+        "how_many": 271,
+        "len_c": 273,
+        "len_nc": 273,
+        "same_len": true,
+        "ratio": 0.9926739926739927
+    },
+    {
+        "file": "MAZ_corr/3901-4000/Moreau3927_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3901-4000/Moreau3930_MAZ.json",
+        "how_many": 4,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.5714285714285714
+    },
+    {
+        "file": "MAZ_corr/3901-4000/Moreau3947_MAZ.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/3901-4000/Moreau3950_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.625
+    },
+    {
+        "file": "MAZ_corr/3901-4000/Moreau3951_MAZ.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.8333333333333334
+    },
+    {
+        "file": "MAZ_corr/3901-4000/Moreau3961_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 14,
+        "len_nc": 14,
+        "same_len": true,
+        "ratio": 0.21428571428571427
+    },
+    {
+        "file": "MAZ_corr/3901-4000/Moreau3962_MAZ.json",
+        "how_many": 4,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3901-4000/Moreau3973_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.625
+    },
+    {
+        "file": "MAZ_corr/3901-4000/Moreau3974_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/3901-4000/Moreau3975_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/3901-4000/Moreau3986_GBOOKS.json",
+        "how_many": 19,
+        "len_c": 18,
+        "len_nc": 19,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/3901-4000/Moreau3998_MAZ.json",
+        "how_many": 38,
+        "len_c": 39,
+        "len_nc": 39,
+        "same_len": true,
+        "ratio": 0.9743589743589743
+    },
+    {
+        "file": "MAZ_corr/4001-4100/Moreau4004_MAZ.json",
+        "how_many": 8,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/4001-4100/Moreau4026_MAZ.json",
+        "how_many": 1,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/4001-4100/Moreau4075_MAZ.json",
+        "how_many": 6,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/401-500/Moreau412_MAZ.json",
+        "how_many": 2,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/401-500/Moreau439_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/401-500/Moreau456_MAZ.json",
+        "how_many": 22,
+        "len_c": 22,
+        "len_nc": 22,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/401-500/Moreau460_MAZ.json",
+        "how_many": 5,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/401-500/Moreau465-i_MAZ.json",
+        "how_many": 29,
+        "len_c": 30,
+        "len_nc": 30,
+        "same_len": true,
+        "ratio": 0.9666666666666667
+    },
+    {
+        "file": "MAZ_corr/401-500/Moreau465-ii_MAZ.json",
+        "how_many": 29,
+        "len_c": 30,
+        "len_nc": 30,
+        "same_len": true,
+        "ratio": 0.9666666666666667
+    },
+    {
+        "file": "MAZ_corr/401-500/Moreau465-iii_MAZ.json",
+        "how_many": 30,
+        "len_c": 31,
+        "len_nc": 31,
+        "same_len": true,
+        "ratio": 0.967741935483871
+    },
+    {
+        "file": "MAZ_corr/401-500/Moreau467_MAZ.json",
+        "how_many": 30,
+        "len_c": 30,
+        "len_nc": 30,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/401-500/Moreau473_MAZ.json",
+        "how_many": 5,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/401-500/Moreau489_MAZ.json",
+        "how_many": 1,
+        "len_c": 1,
+        "len_nc": 1,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/501-600/Moreau514_MAZ.json",
+        "how_many": 4,
+        "len_c": 11,
+        "len_nc": 12,
+        "same_len": false,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/501-600/Moreau555_MAZ.json",
+        "how_many": 30,
+        "len_c": 31,
+        "len_nc": 31,
+        "same_len": true,
+        "ratio": 0.967741935483871
+    },
+    {
+        "file": "MAZ_corr/501-600/Moreau562_GALL.json",
+        "how_many": 3,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/501-600/Moreau563_GALL.json",
+        "how_many": 3,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/501-600/Moreau564_GALL.json",
+        "how_many": 1,
+        "len_c": 1,
+        "len_nc": 1,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/501-600/Moreau565_GALL.json",
+        "how_many": 5,
+        "len_c": 4,
+        "len_nc": 5,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/501-600/Moreau566_GALL.json",
+        "how_many": 2,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/501-600/Moreau567_MAZ.json",
+        "how_many": 1,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/501-600/Moreau568_GALL.json",
+        "how_many": 9,
+        "len_c": 8,
+        "len_nc": 10,
+        "same_len": false,
+        "ratio": 0.9
+    },
+    {
+        "file": "MAZ_corr/501-600/Moreau569_GALL.json",
+        "how_many": 4,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/501-600/Moreau570_GALL.json",
+        "how_many": 3,
+        "len_c": 11,
+        "len_nc": 12,
+        "same_len": false,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/501-600/Moreau572_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 10,
+        "len_nc": 11,
+        "same_len": false,
+        "ratio": 0.45454545454545453
+    },
+    {
+        "file": "MAZ_corr/601-700/Moreau612_MAZ.json",
+        "how_many": 1,
+        "len_c": 68,
+        "len_nc": 68,
+        "same_len": true,
+        "ratio": 0.014705882352941176
+    },
+    {
+        "file": "MAZ_corr/601-700/Moreau616_MAZ.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/601-700/Moreau617_MAZ.json",
+        "how_many": 31,
+        "len_c": 31,
+        "len_nc": 31,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/601-700/Moreau638_GALL.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/601-700/Moreau648_MAZ.json",
+        "how_many": 1,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 0.09090909090909091
+    },
+    {
+        "file": "MAZ_corr/601-700/Moreau652_MAZ.json",
+        "how_many": 14,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 0.9333333333333333
+    },
+    {
+        "file": "MAZ_corr/601-700/Moreau659_MAZ.json",
+        "how_many": 21,
+        "len_c": 22,
+        "len_nc": 22,
+        "same_len": true,
+        "ratio": 0.9545454545454546
+    },
+    {
+        "file": "MAZ_corr/601-700/Moreau665_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/601-700/Moreau672_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 0.18181818181818182
+    },
+    {
+        "file": "MAZ_corr/601-700/Moreau684_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 8,
+        "len_nc": 9,
+        "same_len": false,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/701-800/Moreau705_MAZ.json",
+        "how_many": 11,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/701-800/Moreau729_MAZ.json",
+        "how_many": 20,
+        "len_c": 21,
+        "len_nc": 21,
+        "same_len": true,
+        "ratio": 0.9523809523809523
+    },
+    {
+        "file": "MAZ_corr/701-800/Moreau738_MAZ.json",
+        "how_many": 15,
+        "len_c": 16,
+        "len_nc": 16,
+        "same_len": true,
+        "ratio": 0.9375
+    },
+    {
+        "file": "MAZ_corr/701-800/Moreau782_MAZ.json",
+        "how_many": 7,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.875
+    },
+    {
+        "file": "MAZ_corr/701-800/Moreau783_MAZ.json",
+        "how_many": 15,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/701-800/Moreau786_MAZ.json",
+        "how_many": 15,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/701-800/Moreau790_MAZ.json",
+        "how_many": 7,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.875
+    },
+    {
+        "file": "MAZ_corr/701-800/Moreau797_GALL.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/701-800/Moreau800_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau802_MAZ.json",
+        "how_many": 31,
+        "len_c": 31,
+        "len_nc": 31,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau803_GBOOKS.json",
+        "how_many": 16,
+        "len_c": 17,
+        "len_nc": 17,
+        "same_len": true,
+        "ratio": 0.9411764705882353
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau804_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau805_MAZ.json",
+        "how_many": 1,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau806_MAZ.json",
+        "how_many": 20,
+        "len_c": 20,
+        "len_nc": 20,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau808_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.7142857142857143
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau809_GBOOKS.json",
+        "how_many": 8,
+        "len_c": 9,
+        "len_nc": 9,
+        "same_len": true,
+        "ratio": 0.8888888888888888
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau819_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.7142857142857143
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau820_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau821_GALL.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.375
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau822_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau823_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 0.4
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau824_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau825_GBOOKS.json",
+        "how_many": 31,
+        "len_c": 31,
+        "len_nc": 31,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau826_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau827_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau829_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 10,
+        "len_nc": 10,
+        "same_len": true,
+        "ratio": 0.2
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau830_GBOOKS.json",
+        "how_many": 79,
+        "len_c": 82,
+        "len_nc": 82,
+        "same_len": true,
+        "ratio": 0.9634146341463414
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau831_GALL.json",
+        "how_many": 3,
+        "len_c": 13,
+        "len_nc": 13,
+        "same_len": true,
+        "ratio": 0.23076923076923078
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau834_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau837_MAZ.json",
+        "how_many": 4,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau856_MAZ.json",
+        "how_many": 1,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.16666666666666666
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau866_MAZ.json",
+        "how_many": 15,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/801-900/Moreau871_MAZ.json",
+        "how_many": 14,
+        "len_c": 15,
+        "len_nc": 15,
+        "same_len": true,
+        "ratio": 0.9333333333333333
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau902_GBOOKS.json",
+        "how_many": 11,
+        "len_c": 12,
+        "len_nc": 12,
+        "same_len": true,
+        "ratio": 0.9166666666666666
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau906_GBOOKS.json",
+        "how_many": 34,
+        "len_c": 35,
+        "len_nc": 35,
+        "same_len": true,
+        "ratio": 0.9714285714285714
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau907_GBOOKS.json",
+        "how_many": 12,
+        "len_c": 14,
+        "len_nc": 14,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau908_GBOOKS.json",
+        "how_many": 7,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau909_MAZ.json",
+        "how_many": 11,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau911_MAZ.json",
+        "how_many": 21,
+        "len_c": 22,
+        "len_nc": 22,
+        "same_len": true,
+        "ratio": 0.9545454545454546
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau912_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau915_MAZ.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.8333333333333334
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau917_GBOOKS.json",
+        "how_many": 7,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.875
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau918_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau919_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau921_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 0.8
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau925_MAZ.json",
+        "how_many": 12,
+        "len_c": 12,
+        "len_nc": 12,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau928_GBOOKS.json",
+        "how_many": 26,
+        "len_c": 26,
+        "len_nc": 26,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau929_GBOOKS.json",
+        "how_many": 13,
+        "len_c": 14,
+        "len_nc": 14,
+        "same_len": true,
+        "ratio": 0.9285714285714286
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau930_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau936_MAZ.json",
+        "how_many": 16,
+        "len_c": 17,
+        "len_nc": 17,
+        "same_len": true,
+        "ratio": 0.9411764705882353
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau937_GBOOKS.json",
+        "how_many": 9,
+        "len_c": 10,
+        "len_nc": 10,
+        "same_len": true,
+        "ratio": 0.9
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau941_GBOOKS.json",
+        "how_many": 8,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau944_MAZ.json",
+        "how_many": 14,
+        "len_c": 14,
+        "len_nc": 14,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau947_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.8333333333333334
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau950_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau954_MAZ.json",
+        "how_many": 2,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau955_GBOOKS.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.8333333333333334
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau956_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau958_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau960_GBOOKS.json",
+        "how_many": 7,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau961_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau962_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau963_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau972_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.14285714285714285
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau977_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau978_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau981_GBOOKS.json",
+        "how_many": 3,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.42857142857142855
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau988_MAZ.json",
+        "how_many": 4,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 0.8
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau989_GBOOKS.json",
+        "how_many": 8,
+        "len_c": 10,
+        "len_nc": 10,
+        "same_len": true,
+        "ratio": 0.8
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau997_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/901-1000/Moreau999_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM48896_MAZ.json",
+        "how_many": 3,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 0.75
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM49066_MAZ.json",
+        "how_many": 1,
+        "len_c": 1,
+        "len_nc": 1,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM49193_MAZ.json",
+        "how_many": 12,
+        "len_c": 12,
+        "len_nc": 12,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM49206_MAZ.json",
+        "how_many": 4,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 0.8
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM49257_MAZ.json",
+        "how_many": 2,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM49258_MAZ.json",
+        "how_many": 2,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 0.6666666666666666
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM49260_MAZ.json",
+        "how_many": 3,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 0.75
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM49261_MAZ.json",
+        "how_many": 3,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 0.75
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM49276_MAZ.json",
+        "how_many": 3,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 0.75
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM49283_MAZ.json",
+        "how_many": 7,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.875
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM49285_MAZ.json",
+        "how_many": 4,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM49286_MAZ.json",
+        "how_many": 4,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM49287_MAZ.json",
+        "how_many": 4,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM49295_MAZ.json",
+        "how_many": 4,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM49296_MAZ.json",
+        "how_many": 6,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.8571428571428571
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM49386_MAZ.json",
+        "how_many": 159,
+        "len_c": 178,
+        "len_nc": 178,
+        "same_len": true,
+        "ratio": 0.8932584269662921
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM49794_MAZ.json",
+        "how_many": 4,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 0.8
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM49797_MAZ.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.8333333333333334
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM49827_MAZ.json",
+        "how_many": 4,
+        "len_c": 5,
+        "len_nc": 5,
+        "same_len": true,
+        "ratio": 0.8
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM49840_MAZ.json",
+        "how_many": 3,
+        "len_c": 3,
+        "len_nc": 3,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/Bibliotheque_Mazarine/BM50189_MAZ.json",
+        "how_many": 10,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 0.9090909090909091
+    },
+    {
+        "file": "MAZ_corr/Labadie/Labadie13_BOR.json",
+        "how_many": 2,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/Labadie/Labadie50_MAZ.json",
+        "how_many": 5,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 0.8333333333333334
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup1/Moreau1suppl100_MAZ.json",
+        "how_many": 28,
+        "len_c": 29,
+        "len_nc": 29,
+        "same_len": true,
+        "ratio": 0.9655172413793104
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup1/Moreau1suppl120_MAZ.json",
+        "how_many": 269,
+        "len_c": 269,
+        "len_nc": 269,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup1/Moreau1suppl143_MAZ.json",
+        "how_many": 2,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 0.5
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup1/Moreau1suppl193_MAZ.json",
+        "how_many": 22,
+        "len_c": 23,
+        "len_nc": 23,
+        "same_len": true,
+        "ratio": 0.9565217391304348
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup2/Moreau2suppl106_GBOOKS.json",
+        "how_many": 6,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup2/Moreau2suppl111_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup2/Moreau2suppl112_GBOOKS.json",
+        "how_many": 20,
+        "len_c": 20,
+        "len_nc": 20,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup2/Moreau2suppl129_GBOOKS.json",
+        "how_many": 16,
+        "len_c": 15,
+        "len_nc": 16,
+        "same_len": false,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup2/Moreau2suppl130_MAZ.json",
+        "how_many": 6,
+        "len_c": 6,
+        "len_nc": 6,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup2/Moreau2suppl132_MAZ.json",
+        "how_many": 8,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup2/Moreau2suppl134_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 5,
+        "len_nc": 6,
+        "same_len": false,
+        "ratio": 0.3333333333333333
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup2/Moreau2suppl135_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup2/Moreau2suppl176_GBOOKS.json",
+        "how_many": 4,
+        "len_c": 4,
+        "len_nc": 4,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup2/Moreau2suppl197_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup2/Moreau2suppl1_MAZ.json",
+        "how_many": 1,
+        "len_c": 1,
+        "len_nc": 1,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup2/Moreau2suppl203_GALL.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 7,
+        "same_len": true,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup2/Moreau2suppl43_GBOOKS.json",
+        "how_many": 23,
+        "len_c": 7,
+        "len_nc": 30,
+        "same_len": false,
+        "ratio": 0.7666666666666667
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup2/Moreau2suppl64_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.25
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup2/Moreau2suppl65_GBOOKS.json",
+        "how_many": 2,
+        "len_c": 6,
+        "len_nc": 7,
+        "same_len": false,
+        "ratio": 0.2857142857142857
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup2/Moreau2suppl66_GBOOKS.json",
+        "how_many": 1,
+        "len_c": 7,
+        "len_nc": 8,
+        "same_len": false,
+        "ratio": 0.125
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup2/Moreau2suppl7_MAZ.json",
+        "how_many": 8,
+        "len_c": 9,
+        "len_nc": 9,
+        "same_len": true,
+        "ratio": 0.8888888888888888
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup2/Moreau2suppl85_MAZ.json",
+        "how_many": 36,
+        "len_c": 37,
+        "len_nc": 37,
+        "same_len": true,
+        "ratio": 0.972972972972973
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup2/Moreau2suppl8_MAZ.json",
+        "how_many": 11,
+        "len_c": 11,
+        "len_nc": 11,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup3/Moreau3suppl23_GALL.json",
+        "how_many": 3,
+        "len_c": 3,
+        "len_nc": 4,
+        "same_len": false,
+        "ratio": 0.75
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup3/Moreau3suppl47_GALL.json",
+        "how_many": 79,
+        "len_c": 79,
+        "len_nc": 80,
+        "same_len": false,
+        "ratio": 0.9875
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup3/Moreau3suppl51_GALL.json",
+        "how_many": 3,
+        "len_c": 18,
+        "len_nc": 19,
+        "same_len": false,
+        "ratio": 0.15789473684210525
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup3/Moreau3suppl5_GBOOKS.json",
+        "how_many": 8,
+        "len_c": 8,
+        "len_nc": 8,
+        "same_len": true,
+        "ratio": 1.0
+    },
+    {
+        "file": "MAZ_corr/Moreau_sup3/Moreau3suppl62_MAZ.json",
+        "how_many": 29,
+        "len_c": 30,
+        "len_nc": 30,
+        "same_len": true,
+        "ratio": 0.9666666666666667
+    },
+    {
+        "file": "MAZ_corr/Socard/Socard58_MAZ.json",
+        "how_many": 22,
+        "len_c": 23,
+        "len_nc": 23,
+        "same_len": true,
+        "ratio": 0.9565217391304348
+    },
+    {
+        "file": "MAZ_corr/Socard/Socard79_MAZ.json",
+        "how_many": 9,
+        "len_c": 11,
+        "len_nc": 10,
+        "same_len": false,
+        "ratio": 0.8181818181818182
+    }
+]
