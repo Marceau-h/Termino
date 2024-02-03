@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Mazette -- MAZarinades Extended Through Text Edition</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=JetBrains+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{host + '/static/style.css'}}">
+    <link rel="icon" href="{{host + '/static/favicon.ico'}}"/>
+    <script src="{{host + '/static/script.js'}}"></script>
+    <meta name="description" content="Mazette est un outil de correction destiné aux sorties d'OCR.">
+</head>
+
+<body>
+<header>
+    <div class="row">
+        <div class="col">
+
+            <p>
+            <h2>Mazette</h2>
+            <h3>MAZarinades Extended Through Text Edition</h3></p>
+        </div>
+        <div class="col" style="align-items: center; text-align: center;">
+            <button id="page-prev" class="btn" onclick="prevPage()">Page précédente</button>
+            <button id="page-next" class="btn" onclick="nextPage()">Page suivante</button>
+            <br/><br/>
+            <button id="send" class="btn" onclick="send()">Envoyer la page corrigée</button>
+            <button id="reset" class="btn" onclick="reset()">Réinitialiser</button>
+            <br/><br/>
+            <button id="good" class="btn" onclick="good()">Bonne page</button>
+            <button id="bad" class="btn" onclick="bad()">Mauvaise page ?</button>
+        </div>
+</header>
+<main>
+    <div class="row rot">
+        <div class="col">
+            <div class="col_element img">
+                <h3>Image originale</h3>
+                <img id="original" src={{pic}} alt="Image originale" class="ocr-img" height="50vh">
+            </div>
+        </div>
+        <div class="col">
+            <div class="col_element">
+                <h3>Retranscription automatique</h3>
+                <form id="ocr-form" action="javascript:void(0);">
+                    <input type="hidden" id="page" name="page" value="{{page}}">
+                    <input type="hidden" id="page_nb" name="page_nb" value="{{page_nb}}">
+                    <input type="hidden" id="file" name="file" value="{{file}}">
+                    <input type="hidden" id="corresponding" name="corresponding">
+                    <input type="hidden" id="good_page" name="good_page">
+                    <textarea id="ocr" class="ocr" oninput="updateOcr()" placeholder="Retranscription automatique"
+                              autocomplete="off" autofocus form="ocr-form" name="ocr">
+                        {{ocr}}
+                   </textarea>
+                </form>
+            </div>
+        </div>
+    </div>
+</main>
+
+<footer>
+    <div class="row">
+        <div class="col" style="text-align: center;">
+            <p>Page {{page}} / {{page_nb}}</p>
+        </div>
+        <div class="col" style="text-align: center;">
+            <p>MAZette -- {{file_name}}</p>
+        </div>
+    </div>
+</footer>
+
+</body>
+</html>
+
+
