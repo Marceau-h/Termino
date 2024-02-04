@@ -26,13 +26,23 @@ try:
             # continue
             pass
 
-        if pdf.name in ["Moreau386pp598-609_GALL.pdf", "Moreau577_GALL.pdf"]:
+        if pdf.name in [
+            "Moreau386pp598-609_GALL.pdf",
+            "Moreau577_GALL.pdf",
+            "Moreau1638_GALL.pdf",
+            "Moreau1640_GALL.pdf",
+            "Moreau3suppl47_GALL.pdf",
+            "Moreau3suppl58_GALL.pdf",
+            "├Йtat_general_des_Affaires_January_1650.pdf"
+        ]:
             continue
 
         folder = imgs / pdf.relative_to(pdfs).with_suffix('')
-        if folder.exists():
-            for image in folder.glob('*.png'):
-                image.unlink()
+        if folder.exists() :
+            if len(list(folder.glob('*.png'))) > 0:
+                continue
+                for image in folder.glob('*.png'):
+                    image.unlink()
         else:
             folder.mkdir(parents=True)
 
