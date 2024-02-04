@@ -1,4 +1,5 @@
 import os
+import requests
 from io import StringIO
 from typing import List
 from pathlib import Path
@@ -10,7 +11,7 @@ from fastapi.responses import HTMLResponse
 from fastapi.templating import Jinja2Templates
 from fastapi import FastAPI, UploadFile, Form, File
 from fastapi.staticfiles import StaticFiles
-from fastapi.responses import StreamingResponse, HTMLResponse, FileResponse
+from fastapi.responses import StreamingResponse, HTMLResponse, FileResponse, RedirectResponse
 from starlette.templating import Jinja2Templates
 import xml.sax.saxutils as saxutils
 
@@ -110,4 +111,21 @@ async def read_root():
 
 @app.get("/imgs/{path:path}", response_class=FileResponse, tags=["main"])
 async def read_img(path: str):
-    return FileResponse(imgs / path)
+    img = imgs / path
+    url = f"https://cdn.marceau-h.fr/mazette/{path}"
+
+    if img.exists():
+        return FileResponse(img)
+
+    try:
+        # r = requests.get(url, stream=True)
+        # r.raise_for_status()
+        # return StreamingResponse(r.raw, media_type="image/png")
+        r = requests.get(url)
+        r.raise_for_status()
+        return RedirectResponse(url)
+
+    except Exception as e:
+        print(e)
+        return JSONResponse(status_code=404, content={"message": "Image not found"})
+
