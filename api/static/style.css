@@ -1,12 +1,19 @@
+.backup {
+    display: none;
+}
+
+.spawn-if {
+    display: none;
+}
+
+.meta {
+    display: none;
+}
+
 .row {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    /*column-count: 2;*/
-    /*column-gap: 5vw;*/
-    /*column-rule-style: solid;*/
-    /*column-rule-width: 1vw;*/
-    /*column-rule-color: rgba(0, 0, 0, 0.26);*/
     column-fill: balance;
     justify-content: center;
     align-items: center;
@@ -50,7 +57,8 @@
     height: 80vh;
     width: 90%;
     justify-content: center;
-    font-size: 1.8em;
+    font-size: 1.3rem;
+
 }
 
 img {
