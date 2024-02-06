@@ -11,9 +11,17 @@ from fastapi.responses import HTMLResponse
 from fastapi.templating import Jinja2Templates
 from fastapi import FastAPI, UploadFile, Form, File
 from fastapi.staticfiles import StaticFiles
-from fastapi.responses import StreamingResponse, HTMLResponse, FileResponse, RedirectResponse
+from sqlalchemy import create_engine
 from starlette.templating import Jinja2Templates
-import xml.sax.saxutils as saxutils
+
+from .type_hint import GoodPage
+from .sql_driver import Correction
+
+engine = create_engine("sqlite:///database.db")
+with engine.begin() as conn:
+    if not engine.dialect.has_table(conn, "correction"):
+        Correction.__table__.create(bind=engine)
+
 
 main_dir = Path(__file__).parent
 
