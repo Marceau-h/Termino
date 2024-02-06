@@ -21,7 +21,6 @@ with engine.begin() as conn:
     if not engine.dialect.has_table(conn, "correction"):
         Correction.__table__.create(bind=engine)
 
-
 main_dir = Path(__file__).parent
 
 app = FastAPI()
@@ -115,19 +114,19 @@ async def read_random():
     last_page = get_last_page(data)
     img = get_img_path(file, page_nb)
 
-    if not img or not img.exists():
+    if not img:
         return await read_random()
 
     print(
         f"file: {file}, page: {page}, page_nb: {page_nb}, text: {text}, img: {img}, img.exists: {img.exists()}, img.is_file: {img.is_file()}"
     )
     text = "\n".join(text)
-    return file, page, page_nb, text, img
+    return file, page, page_nb, first_page, last_page, text, img
 
 
 @app.get("/", response_class=HTMLResponse, tags=["main"])
 async def read_root():
-    file, page, page_nb, text, img = await read_random()
+    file, page, page_nb, first_page, last_page, text, img = await read_random()
     return templates.TemplateResponse(
         "index.html",
         {
@@ -140,6 +139,8 @@ async def read_root():
             "page": page,
             "page_nb": page_nb,
             "ocr": text,
+            "first_page": first_page,
+            "last_page": last_page,
         }
     )
 
