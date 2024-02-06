@@ -1,11 +1,18 @@
-pandas~=2.2.0
-plotly~=5.18.0
-pyarrow
-uvicorn
-requests~=2.31.0
-fastapi~=0.109.2
-starlette~=0.36.3
 tqdm~=4.66.1
+
+pandas~=2.2.0
+pyarrow
+plotly~=5.18.0
 
 SQLAlchemy~=2.0.25
 sqlmodel~=0.0.14
+
+
+python-multipart
+jinja2
+uvicorn
+starlette~=0.36.3
+fastapi~=0.109.2
+requests~=2.31.0
+
+pdf2image~=1.17.0
