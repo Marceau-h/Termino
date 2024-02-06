@@ -1,21 +1,20 @@
-import os
-import requests
-from io import StringIO
-from typing import List
-from pathlib import Path
-import random
 import json
+import os
+import random
+import xml.sax.saxutils as saxutils
+from pathlib import Path
+from typing import List, Annotated
+
+import requests
+from fastapi import FastAPI, Form
+from fastapi.responses import HTMLResponse, FileResponse, RedirectResponse
 from fastapi.responses import JSONResponse
-from fastapi import Request
-from fastapi.responses import HTMLResponse
-from fastapi.templating import Jinja2Templates
-from fastapi import FastAPI, UploadFile, Form, File
 from fastapi.staticfiles import StaticFiles
 from sqlalchemy import create_engine
 from starlette.templating import Jinja2Templates
 
-from .type_hint import GoodPage
 from .sql_driver import Correction
+from .type_hint import GoodPage
 
 engine = create_engine("sqlite:///database.db")
 with engine.begin() as conn:
@@ -70,8 +69,34 @@ def get_page_nb(data: dict, page: int) -> int:
     return data["pages_number"][page]
 
 
-def get_img_path(file: Path, page_nb: int) -> Path:
-    return imgs / file.parent.name / file.stem / f"{page_nb}.png"
+def get_pages_nb(data: dict) -> List[int]:
+    return data["pages_number"]
+
+
+def get_first_page(data: dict) -> int:
+    return min(data["pages_number"])  # Should be the first index of pages_number  but its safer this way
+
+
+def get_last_page(data: dict) -> int:
+    return max(data["pages_number"])  # Same as above
+
+
+def get_img_path(file: Path, page_nb: int) -> Path | str | None:
+    # return imgs / file.parent.name / file.stem / f"{page_nb}.png"
+    file = f"{file.parent.name}/{file.stem}/{page_nb}.png"
+    if (imgs / file).exists():
+        return imgs / file
+    else:
+        url = f"https://cdn.marceau-h.fr/mazette/{file}"
+
+        try:
+            r = requests.get(url)
+            r.raise_for_status()
+            return imgs / file
+        except Exception as e:
+            pass
+
+    return None
 
 
 async def read_random():
@@ -86,6 +111,8 @@ async def read_random():
     page = get_random_page(data)
     text = get_page(data, page)
     page_nb = get_page_nb(data, page)
+    first_page = get_first_page(data)
+    last_page = get_last_page(data)
     img = get_img_path(file, page_nb)
 
     if not img or not img.exists():
