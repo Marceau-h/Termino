@@ -165,3 +165,35 @@ async def read_img(path: str):
         print(e)
         return JSONResponse(status_code=404, content={"message": "Image not found"})
 
+
+@app.post("/submit", response_class=RedirectResponse, tags=["main"])
+async def submit(
+        file: Annotated[str, Form()],
+        page: Annotated[int, Form()],
+        page_nb: Annotated[int, Form()],
+        corresponding: Annotated[int, Form()],
+        good_page: Annotated[GoodPage, Form()],
+        ocr: Annotated[str, Form()],
+        corrected: Annotated[str, Form()]
+):
+    print(f"submit: {file=}, {page=}, {page_nb=}, {corresponding=}, {good_page=}, {ocr=}, {corrected=}")
+
+    json_res = {
+        "file": file,
+        "page": page,
+        "page_nb": page_nb,
+        "corresponding": corresponding,
+        "good_page": good_page,
+        "ocr": ocr,
+        "corrected": corrected,
+        "same": corrected == ocr,
+        "hash_": hash((file, page, page_nb, corresponding, good_page, ocr, corrected))
+    }
+
+    with engine.begin() as conn:
+        conn.execute(
+            Correction.__table__.insert(),
+            json_res
+        )
+
+    return JSONResponse(status_code=200, content=json_res)
