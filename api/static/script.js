@@ -1,22 +1,24 @@
 function prevPage() {
+    const first_page = parseInt(document.getElementById('first-page').value);
     const img_url = document.getElementById('original').src;
     const img_path = img_url.split('/').slice(0, -1).join('/');
     const img_suffix = img_url.split('/').pop().split('.')[1];
     let img_id = img_url.split('/').pop().split('.')[0];
     img_id = parseInt(img_id);
-    if (img_id > 1) {
+    if (img_id > first_page) {
         img_id -= 1;
         document.getElementById('original').src = img_path + '/' + img_id + '.' + img_suffix;
     }
 }
 
 function nextPage() {
+    const last_page = document.getElementById('last-page').value;
     const img_url = document.getElementById('original').src;
     const img_path = img_url.split('/').slice(0, -1).join('/');
     const img_suffix = img_url.split('/').pop().split('.')[1];
     let img_id = img_url.split('/').pop().split('.')[0];
     img_id = parseInt(img_id);
-    if (img_id < 10) {
+    if (img_id < last_page) {
         img_id += 1;
         document.getElementById('original').src = img_path + '/' + img_id + '.' + img_suffix;
     }
