@@ -19,19 +19,22 @@
     </div>
 
     <div class="row">
-        <div class="col">
-            <h2>Mazette</h2>
-            <h3>MAZarinades Extended Through Text Edition</h3>
+        <div class="col" style="align-items: center; text-align: center;">
+            <h2 class="title">Mazette</h2>
+            <h3 class="subtitle">MAZarinades Extended Through Text Edition</h3>
+            <button id="page-prev" class="btn nav" onclick="prevPage()">Page précédente</button>
+            <button id="page-next" class="btn nav" onclick="nextPage()">Page suivante</button>
+
         </div>
         <div class="col" style="align-items: center; text-align: center;">
-            <button id="page-prev" class="btn" onclick="prevPage()">Page précédente</button>
-            <button id="page-next" class="btn" onclick="nextPage()">Page suivante</button>
+<!--            <button id="page-prev" class="btn nav" onclick="prevPage()">Page précédente</button>-->
+<!--            <button id="page-next" class="btn nav" onclick="nextPage()">Page suivante</button>-->
+<!--            <br/><br/>-->
+            <button id="send" class="btn good" onclick="submitForm()">Envoyer la correction</button>
+            <button id="reset" class="btn careful" onclick="resetForm()">Réinitialiser</button>
             <br/><br/>
-            <button id="send" class="btn" onclick="submitForm()">Envoyer la page corrigée</button>
-            <button id="reset" class="btn" onclick="resetForm()">Réinitialiser</button>
-            <br/><br/>
-            <button id="good" class="btn spawn-if" onclick="good()">Bonne page</button>
-            <button id="bad" class="btn" onclick="bad()">Mauvaise page ?</button>
+            <button id="good" class="btn spawn-if good" onclick="good()">Bonne page</button>
+            <button id="bad" class="btn careful" onclick="bad()">Mauvaise page ?</button>
         </div>
     </div>
 </header>

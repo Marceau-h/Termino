@@ -87,7 +87,7 @@ function bad() {
 
     const good = document.getElementById('good');
     good.disabled = false;
-    good.style.display = "block";
+    good.style.display = "inline-block";
 
 
 
@@ -105,7 +105,7 @@ function good() {
 
     const bad = document.getElementById('bad');
     bad.disabled = false;
-    bad.style.display = "block";
+    bad.style.display = "inline-block";
 
     document.getElementById('ocr').disabled = false;
 
