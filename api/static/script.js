@@ -73,13 +73,16 @@ function submitForm() {
 
     xhr.send(data);
 
-    document.url = '/'
+    // Wait for the xhr to be sent
+    setTimeout(function () {
+        location.reload();
+    }, 1000);
 
 }
 
 function bad() {
     alert('Si vous êtes sur une image ne correspondant pas au texte actuel, veuillez naviguer jusqu\'à la bonne page.\n'
-    + 'Par la suite, vous pouvez valider la nouvelle page en cliquant sur le bouton "Bonne page".');
+        + 'Par la suite, vous pouvez valider la nouvelle page en cliquant sur le bouton "Bonne page".');
 
     const bad = document.getElementById('bad');
     bad.disabled = true;
@@ -88,7 +91,6 @@ function bad() {
     const good = document.getElementById('good');
     good.disabled = false;
     good.style.display = "inline-block";
-
 
 
     document.getElementById('ocr').disabled = true;
@@ -132,3 +134,11 @@ function passer() {
 }
 
 
+window.onbeforeunload = function () {
+    ocr = document.getElementById('ocr').value;
+    ocr_bak = document.getElementById('ocr-original').value;
+    if (ocr !== ocr_bak) {
+        return "Attention ! Vous avez des modifications non sauvegardées.";
+    }
+    return null;
+}

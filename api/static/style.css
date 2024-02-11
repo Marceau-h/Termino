@@ -58,7 +58,7 @@
     width: 90%;
     justify-content: center;
     font-size: 1.3rem;
-
+    font-family: "Courier New", monospace;
 }
 
 img {
@@ -119,4 +119,14 @@ img {
 
 html {
     background-color: rgba(219, 217, 217, 0.38);
+}
+
+h2 {
+    text-align: center;
+    font-family: "JetBrains Mono", monospace;
+}
+
+h3 {
+    text-align: center;
+    font-family: "JetBrains Mono light", monospace;
 }
