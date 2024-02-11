@@ -3,7 +3,7 @@ import os
 import random
 import xml.sax.saxutils as saxutils
 from pathlib import Path
-from typing import List, Annotated
+from typing import List, Annotated, Optional
 
 import requests
 from fastapi import FastAPI, Form
@@ -37,13 +37,24 @@ hmb = Path(os.getenv("MAZETTE_HMB", "how_many_for_b.json"))
 app.mount("/static", StaticFiles(directory=main_dir / "static"), name="static")
 templates = Jinja2Templates(directory=main_dir / "templates")
 
+files = list(maz_corr.glob("*/*.json"))  # TODO: change to maz_non_corr when pages_nb will be added
+files = [f for f in files if "to_do" not in f.as_posix()]
+files = [f for f in files if "Doublons" not in f.as_posix()]
+
+random.shuffle(files)
+i = 0
+
 
 def get_random_doc() -> Path:
-    files = list(maz_corr.glob("*/*.json"))  # TODO: change to maz_non_corr when pages_nb will be added
-    files = [f for f in files if "to_do" not in f.as_posix()]
-    files = [f for f in files if "Doublons" not in f.as_posix()]
-
-    file = random.choice(files)
+    """Getting a random document from a shuffled list of documents,
+    this prevents to have the same document twice in a row"""
+    global i
+    file = files[i]
+    if i == len(files) - 1:
+        i = 0
+        random.shuffle(files)
+    else:
+        i += 1
 
     return file
 
@@ -98,6 +109,18 @@ def get_img_path(file: Path, page_nb: int) -> Path | str | None:
     return None
 
 
+def get_img_url(file: Path, page_nb: int) -> Optional[str]:
+    file = f"{file.parent.name}/{file.stem}/{page_nb}.png"
+    url = f"https://cdn.marceau-h.fr/mazette/{file}"
+    try:
+        r = requests.get(url)
+        r.raise_for_status()
+        return url
+    except Exception as e:
+        pass
+    return None
+
+
 async def read_random():
     print("random")
 
@@ -112,13 +135,15 @@ async def read_random():
     page_nb = get_page_nb(data, page)
     first_page = get_first_page(data)
     last_page = get_last_page(data)
-    img = get_img_path(file, page_nb)
+    # img = get_img_path(file, page_nb)
+    img = get_img_url(file, page_nb)
 
     if not img:
         return await read_random()
 
     print(
-        f"file: {file}, page: {page}, page_nb: {page_nb}, text: {text}, img: {img}, img.exists: {img.exists()}, img.is_file: {img.is_file()}"
+        f"file: {file}, page: {page}, page_nb: {page_nb}, text: {text}, img: {img}, "
+        # f"img.exists: {img.exists()}, img.is_file: {img.is_file()}"
     )
     text = "\n".join(text)
     return file, page, page_nb, first_page, last_page, text, img
@@ -133,7 +158,8 @@ async def read_root():
             "request": {},
             "host": host,
             "prefix": prefix,
-            "pic": img.as_posix(),
+            # "pic": img.as_posix(),
+            "pic": img,
             "file": file,
             "file_name": file.name,
             "page": page,
