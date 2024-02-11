@@ -142,3 +142,29 @@ window.onbeforeunload = function () {
     }
     return null;
 }
+
+function getCookie() {
+    xhr = new XMLHttpRequest();
+    xhr.open("get", "/read_cookie", false);
+    xhr.send();
+    return xhr.responseText;
+
+}
+
+function setCookie(cookie) {
+    xhr = new XMLHttpRequest();
+    xhr.open("get", "/set_cookie", false);
+    xhr.send(cookie);
+}
+
+function init() {
+    cookie = JSON.parse(getCookie());
+    mazette = cookie['mazette'];
+    if (mazette === null) {
+        console.log("Empty cookie, first visit ? ");
+        setCookie();
+    }
+}
+
+init();
+

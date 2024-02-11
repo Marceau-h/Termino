@@ -1,25 +1,37 @@
 import json
 import os
 import random
+import uuid
 import xml.sax.saxutils as saxutils
 from pathlib import Path
 from typing import List, Annotated, Optional
 
 import requests
-from fastapi import FastAPI, Form
+from fastapi import FastAPI, Form, Response, Request, Cookie
 from fastapi.responses import HTMLResponse, FileResponse, RedirectResponse
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
 from sqlalchemy import create_engine
 from starlette.templating import Jinja2Templates
 
-from .sql_driver import Correction
+from .sql_driver import Correction, User, Page
 from .type_hint import GoodPage
 
 engine = create_engine("sqlite:///database.db")
 with engine.begin() as conn:
+    print(f"has_table: {engine.dialect.has_table(conn, 'Correction')}")
     if not engine.dialect.has_table(conn, "correction"):
         Correction.__table__.create(bind=engine)
+
+    print(f"has_table: {engine.dialect.has_table(conn, 'User')}")
+    if not engine.dialect.has_table(conn, "user"):
+        User.__table__.create(bind=engine)
+
+    print(f"has_table: {engine.dialect.has_table(conn, 'Page')}")
+    if not engine.dialect.has_table(conn, "page"):
+        Page.__table__.create(bind=engine)
+
+
 
 main_dir = Path(__file__).parent
 
@@ -200,7 +212,8 @@ async def submit(
         corresponding: Annotated[int, Form()],
         good_page: Annotated[GoodPage, Form()],
         ocr: Annotated[str, Form()],
-        corrected: Annotated[str, Form()]
+        corrected: Annotated[str, Form()],
+        mazette: str = Cookie(None),
 ):
     print(f"submit: {file=}, {page=}, {page_nb=}, {corresponding=}, {good_page=}, {ocr=}, {corrected=}")
 
@@ -217,9 +230,58 @@ async def submit(
     }
 
     with engine.begin() as conn:
+        # Is the user already in the database
+        user = conn.execute(User.__table__.select().where(User.UUID == mazette)).first()
+        if not user:
+            raise ValueError("User not found")
+
+        json_res["user"] = user.id
+
+        json_res["page_"] = create_page(file.__str__(), page_nb)
+
+
         conn.execute(
             Correction.__table__.insert(),
             json_res
         )
 
     return JSONResponse(status_code=200, content=json_res)
+
+@app.get("/set_cookie", response_class=JSONResponse, tags=["main"])
+def create_cookie():
+    print("cookie")
+    response = JSONResponse(content={"message": "Come to the dark side, we have cookies"})
+    response.set_cookie(
+        key="mazette",
+        value=create_user().hex,
+        secure=False,
+    )
+    print(response.body)
+    print(response.raw_headers)
+    return response
+
+@app.get("/read_cookie", response_class=JSONResponse, tags=["main"])
+async def read_cookie(mazette: str = Cookie(None)):
+    return JSONResponse(content={"mazette": mazette})
+
+
+def create_user():
+    with engine.begin() as conn:
+        while True:
+            uuid_ = uuid.uuid4()
+            user = conn.execute(User.__table__.select().where(User.UUID == uuid_)).first()
+            if not user:
+                conn.execute(User.__table__.insert(), {"UUID": uuid_})
+                return uuid_
+
+def create_page(document_id: str, page_number: int):
+    with engine.begin() as conn:
+        conn.execute(
+            Page.__table__.insert(),
+            {"document_id": document_id, "page_number": page_number}
+        )
+
+        return conn.execute(
+            Page.__table__.select().where(Page.document_id == document_id).where(Page.page_number == page_number)
+        ).first().id
+

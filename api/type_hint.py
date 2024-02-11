@@ -1,5 +1,6 @@
 from enum import Enum
 
+
 class GoodPage(str, Enum):
     NOPE = "NOPE"
     YES = "YES"
