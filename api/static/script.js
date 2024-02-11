@@ -117,4 +117,18 @@ function good() {
     document.getElementById('corresponding').value = img_id;
 }
 
+function passer() {
+    ocr = document.getElementById('ocr').value;
+    ocr_bak = document.getElementById('ocr-original').value;
+    if (ocr !== ocr_bak) {
+        really = confirm('Votre correction contient des modifications.\n'
+            + 'Êtes-vous sûr de vouloir passer à la page suivante '
+            + 'sans soumettre votre correction ?');
+        if (!really) {
+            return;
+        }
+    }
+    location.reload();
+}
+
 
