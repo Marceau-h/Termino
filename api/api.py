@@ -239,6 +239,7 @@ async def submit(
 
         json_res["page_"] = create_page(file.__str__(), page_nb)
 
+        print(json_res)
 
         conn.execute(
             Correction.__table__.insert(),
