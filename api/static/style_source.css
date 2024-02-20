@@ -64,6 +64,7 @@
 img {
     width: auto;
     height: auto;
+    min-width: 20em;
     max-width: 90%;
     max-height: 75vh;
     justify-content: center;
@@ -79,6 +80,7 @@ img {
 .btn {
     transition-duration: 0.4s;
     color: rgba(0, 0, 0, 0.67);
+    margin: 5px 2px;
     padding: 5px 8px;
     text-align: center;
     text-decoration: none;
