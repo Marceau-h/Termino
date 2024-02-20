@@ -1,13 +1,18 @@
 import contextlib
 import json
 from pathlib import Path
+# from concurrent.futures import ProcessPoolExecutor
 
 from pdf2image import convert_from_path
 from tqdm.auto import tqdm
 
-pdfs = Path('pdfs')
-imgs = Path('imgs')
+pdfs = Path('../pdfs')
+imgs = Path('../imgs2')
+webp = Path('../webp')
 done = Path('done.json')
+
+max_width = 1920
+max_height = 1080
 
 if done.exists():
     with open(done, 'r') as f:
@@ -23,7 +28,7 @@ try:
     for pdf in pbar:
         pbar.set_description(pdf.name)
         if pdf.parent.name in ['to_do', 'Doublons', "Sans_ID", "Socard", "Labadie"]:
-            # continue
+            continue
             pass
 
         if pdf.name in [
@@ -37,17 +42,33 @@ try:
         ]:
             continue
 
-        folder = imgs / pdf.relative_to(pdfs).with_suffix('')
-        if folder.exists() :
-            if len(list(folder.glob('*.png'))) > 0:
-                continue
-                for image in folder.glob('*.png'):
-                    image.unlink()
+        imgs_folder = imgs / pdf.relative_to(pdfs).with_suffix('')
+        webp_folder = webp / pdf.relative_to(pdfs).with_suffix('')
+        if imgs_folder.exists():
+            images = list(imgs_folder.glob('*.png'))
+            # if len(imgs) > 0:
+            #     # continue
+            for image in images:
+                image.unlink()
         else:
-            folder.mkdir(parents=True)
+            imgs_folder.mkdir(parents=True)
 
-        for i, image in enumerate(convert_from_path(pdf)):  # , thread_count=10)):
-            image.save(folder / f'{i}.png', 'PNG')
+        if webp_folder.exists():
+            images = list(webp_folder.glob('*.webp'))
+            for image in images:
+                image.unlink()
+        else:
+            webp_folder.mkdir(parents=True)
+
+        for i, image in enumerate(convert_from_path(pdf, thread_count=10)):
+            size = image.size
+            if size[0] > max_width:
+                size = (max_width, int(size[1] * max_width / size[0]))
+            if size[1] > max_height:
+                size = (int(size[0] * max_height / size[1]), max_height)
+            image = image.resize(size)
+            image.save(imgs_folder / f'{i}.png', 'png', optimize=True, quality=70, compress_level=9, lossless=False)
+            image.save(webp_folder / f'{i}.webp', 'webp', optimize=True, quality=70, compress_level=9, lossless=False)
 
         done_list.append(pdf.name)
 

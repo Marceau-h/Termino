@@ -31,8 +31,6 @@ with engine.begin() as conn:
     if not engine.dialect.has_table(conn, "page"):
         Page.__table__.create(bind=engine)
 
-
-
 main_dir = Path(__file__).parent
 
 app = FastAPI()
@@ -248,6 +246,7 @@ async def submit(
 
     return JSONResponse(status_code=200, content=json_res)
 
+
 @app.get("/set_cookie", response_class=JSONResponse, tags=["main"])
 def create_cookie():
     print("cookie")
@@ -260,6 +259,7 @@ def create_cookie():
     print(response.body)
     print(response.raw_headers)
     return response
+
 
 @app.get("/read_cookie", response_class=JSONResponse, tags=["main"])
 async def read_cookie(mazette: str = Cookie(None)):
@@ -275,6 +275,7 @@ def create_user():
                 conn.execute(User.__table__.insert(), {"UUID": uuid_})
                 return uuid_
 
+
 def create_page(document_id: str, page_number: int):
     with engine.begin() as conn:
         conn.execute(
@@ -285,4 +286,3 @@ def create_page(document_id: str, page_number: int):
         return conn.execute(
             Page.__table__.select().where(Page.document_id == document_id).where(Page.page_number == page_number)
         ).first().id
-
