@@ -1,17 +1,58 @@
+// function prevPage() {
+//     const prev = document.getElementById('page-prev');
+//     prev.disabled = true;
+//
+//     const first_page = parseInt(document.getElementById('first-page').value);
+//     const img_url = document.getElementById('original').src;
+//     const img_path = img_url.split('/').slice(0, -1).join('/');
+//     const img_suffix = img_url.split('/').pop().split('.')[1];
+//     let img_id = img_url.split('/').pop().split('.')[0];
+//     img_id = parseInt(img_id);
+//     if (img_id > first_page) {
+//         img_id -= 1;
+//         document.getElementById('original').src = img_path + '/' + img_id + '.' + img_suffix;
+//     }
+//
+//     prev.disabled = false;
+// }
+
 function prevPage() {
+    const prev = document.getElementById('page-prev');
+    prev.disabled = true;
+    prev.className = "btn nav loading";
+
+    var img = new Image();
+    img.onload = function() {
+        document.getElementById('original').src = img.src;
+        prev.disabled = false;
+        prev.className = "btn nav";
+    }
     const first_page = parseInt(document.getElementById('first-page').value);
     const img_url = document.getElementById('original').src;
     const img_path = img_url.split('/').slice(0, -1).join('/');
     const img_suffix = img_url.split('/').pop().split('.')[1];
     let img_id = img_url.split('/').pop().split('.')[0];
     img_id = parseInt(img_id);
+
     if (img_id > first_page) {
         img_id -= 1;
-        document.getElementById('original').src = img_path + '/' + img_id + '.' + img_suffix;
+        img.src = img_path + '/' + img_id + '.' + img_suffix;
+
     }
+    else {
+        prev.disabled = false;
+        prev.className = "btn nav";
+
+    }
+
+
+
 }
 
 function nextPage() {
+    const next = document.getElementById('page-next');
+    next.disabled = true;
+
     const last_page = document.getElementById('last-page').value;
     const img_url = document.getElementById('original').src;
     const img_path = img_url.split('/').slice(0, -1).join('/');
@@ -22,6 +63,8 @@ function nextPage() {
         img_id += 1;
         document.getElementById('original').src = img_path + '/' + img_id + '.' + img_suffix;
     }
+
+    next.disabled = false;
 }
 
 function resetForm() {

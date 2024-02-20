@@ -12,6 +12,7 @@ from fastapi.responses import HTMLResponse, FileResponse, RedirectResponse
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
 from sqlalchemy import create_engine
+from starlette.middleware.cors import CORSMiddleware
 from starlette.templating import Jinja2Templates
 
 from .sql_driver import Correction, User, Page
@@ -54,6 +55,22 @@ files = [f for f in files if "Doublons" not in f.as_posix()]
 random.shuffle(files)
 i = 0
 
+# origins = [
+#     "http://localhost",
+#     "http://localhost:8000",
+#     "http://127.0.0.1:8000",
+#     "http://0.0.0.0:8000",
+#     "https://mazette.marceau-h.fr",
+#     "https://cdn.marceau-h.fr",
+# ]
+#
+# app.add_middleware(
+#     CORSMiddleware,
+#     allow_origins=origins,
+#     allow_credentials=True,
+#     allow_methods=["*"],
+#     allow_headers=["*"],
+# )
 
 def get_random_doc() -> Path:
     """Getting a random document from a shuffled list of documents,
