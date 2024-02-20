@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Mazette - MAZarinades Extended Through Text Edition</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=JetBrains+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{host + '/static/style.css'}}">
+    <link rel="icon" href="{{host + '/static/favicon.ico'}}"/>
+    <script src="{{host + '/static/script.js'}}"></script>
+    <meta name="description" content="Mazette est un outil de correction destiné aux sorties d'OCR.">
+</head>
+
+<body>
+<header>
+    <div class="meta">
+        <input type="hidden" id="first-page" value="{{first_page}}">
+        <input type="hidden" id="last-page" value="{{last_page}}">
+    </div>
+
+    <div class="row">
+        <div class="col" style="align-items: center; text-align: center;">
+            <h2 class="title">Mazette</h2>
+            <h3 class="subtitle">MAZarinades Extended Through Text Edition</h3>
+            <button id="page-prev" class="btn nav" onclick="prevPage()">Page précédente</button>
+            <button id="page-next" class="btn nav" onclick="nextPage()">Page suivante</button>
+
+        </div>
+        <div class="col" style="align-items: center; text-align: center;">
+<!--            <button id="page-prev" class="btn nav" onclick="prevPage()">Page précédente</button>-->
+<!--            <button id="page-next" class="btn nav" onclick="nextPage()">Page suivante</button>-->
+<!--            <br/><br/>-->
+            <button id="send" class="btn good active" onclick="submitForm()">Envoyer la correction</button>
+            <button id="reset" class="btn careful active" onclick="resetForm()">Réinitialiser</button>
+            <br/><br/>
+            <!-- TODO: use class instead of style in the html -->
+            <button id="good" class="btn good active" style="display: none" onclick="good()">Bonne page</button>
+            <button id="bad" class="btn careful active" onclick="bad()">Mauvaise page ?</button>
+            <button id="pass" class="btn careful active" onclick="passer()">Passer</button>
+        </div>
+    </div>
+</header>
+<main>
+    <div class="row rot">
+        <div class="col">
+            <div class="col_element img">
+                <h3>Image originale</h3>
+<!--                <progress id="progress" value="0" max="100" style="width: 100%;"></progress>-->
+                <img id="original" src={{pic}} alt="Image originale" class="ocr-img" height="50vh">
+            </div>
+        </div>
+        <div class="col">
+            <div class="col_element">
+                <h3>Retranscription automatique</h3>
+                <form id="ocr-form" action="{{host + '/submit'}}" method="post">
+                    <input type="hidden" id="page" name="page" value="{{page}}">
+                    <input type="hidden" id="page-nb" name="page_nb" value="{{page_nb}}">
+                    <input type="hidden" id="file" name="file" value="{{file}}">
+                    <input type="hidden" id="corresponding" name="corresponding" value="-1">
+                    <input type="hidden" id="good-page" name="good_page" value="MAYBE">
+                    <textarea id="ocr" class="ocr" oninput="updateOcr()" placeholder="Retranscription automatique"
+                              autocomplete="off" autofocus form="ocr-form" name="corrected">{{ocr}}</textarea>
+                    <textarea id="ocr-original" class="ocr backup original" placeholder="Retranscription automatique"
+                              autocomplete="off" autofocus form="ocr-form" name="ocr" readonly>{{ocr}}</textarea>
+                </form>
+            </div>
+        </div>
+    </div>
+</main>
+
+<footer>
+    <div class="row">
+        <div class="col" style="text-align: center;">
+            <p>Page {{page}} / {{page_nb}}</p>
+        </div>
+        <div class="col" style="text-align: center;">
+            <p>MAZette -- {{file_name}}</p>
+        </div>
+    </div>
+</footer>
+
+</body>
+</html>
+
+

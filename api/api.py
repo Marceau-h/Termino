@@ -55,6 +55,7 @@ files = [f for f in files if "Doublons" not in f.as_posix()]
 random.shuffle(files)
 i = 0
 
+
 # origins = [
 #     "http://localhost",
 #     "http://localhost:8000",
@@ -99,7 +100,7 @@ def get_random_page(data: dict) -> int:
 
 
 def get_page(data: dict, page: int) -> List[str]:
-    return [saxutils.unescape(e) for e in data["texte"][page]]
+    return [e for e in (saxutils.unescape(e).strip() for e in data["texte"][page]) if e]
 
 
 def get_page_nb(data: dict, page: int) -> int:
@@ -174,6 +175,11 @@ async def read_random():
     )
     text = "\n".join(text)
     return file, page, page_nb, first_page, last_page, text, img
+
+
+@app.get("/favicon.ico", response_class=FileResponse, tags=["main"])
+async def favicon():
+    return FileResponse(main_dir / "static" / "favicon.ico")
 
 
 @app.get("/", response_class=HTMLResponse, tags=["main"])
