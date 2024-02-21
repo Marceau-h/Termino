@@ -48,7 +48,7 @@ hmb = Path(os.getenv("MAZETTE_HMB", "how_many_for_b.json"))
 app.mount("/static", StaticFiles(directory=main_dir / "static"), name="static")
 templates = Jinja2Templates(directory=main_dir / "templates")
 
-files = list(maz_corr.glob("*/*.json"))  # TODO: change to maz_non_corr when pages_nb will be added
+files = list(maz_non_corr.glob("*/*.json"))  # TODO: change to maz_non_corr when pages_nb will be added
 files = [f for f in files if "to_do" not in f.as_posix()]
 files = [f for f in files if "Doublons" not in f.as_posix()]
 
