@@ -1,0 +1,140 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté́",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-30",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant défenses, à tous\n          gentilshommes et autres, de faire aucunes levées de gens de guerre dans les provinces,\n          qu'en vertu de commissions du roi et attaches de ladite cour sur icelles, à peine de la\n          vie et d'être dégradés de noblesse, et, à tous receveurs et comptables, de délivrer aucuns\n          deniers ni s'en dessaisir, que par ordre de ladite cour, à peine du quadruple, et en cas\n          de contravention, enjoint, aux communes, de s'assembler à son du tocsin et de leur courir\n          sus.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-03-09",
+                "#text": "daté du 9 mars 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "Arreſt de la Cour",
+            "DE PARLEMENT.",
+            "PORTANT DEFENSES A TOVS GENTILS.",
+            "hommes &amp; autres, de faire aucune leuée de Gens",
+            "de guerre dans les Prouinces, qu’en vertu de Com¬",
+            "miſſions du Roy, &amp; Attaches de ladite Cour ſur",
+            "icelles, à peine de la vie, &amp; d’eſtre degradez de",
+            "Nobleſſe, Et à̀ tous Receueurs &amp; Comptables, de",
+            "deliurer aucuns deniers, ny ſ’en deſſaiſir que par",
+            "ordre de ladite Cour, à peine du quadruple: Et en",
+            "cas de contrauention, enjoint aux Communes de",
+            "ſ’aſſembler à ſon de tocſin &amp; leur courir ſus.",
+            "Du 9. iour de Mars 1649.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté́."
+        ],
+        [
+            "3",
+            "Extraict des Regiſtres de Parlement.",
+            "SVR ce qui a eſté́ remonſte par le",
+            "Procurenr General du Roy, Qu’ila eul",
+            "aduis que l CardihabMatrin abu.¬",
+            "ſant de l’duthoriré du Roy, a fait bail¬",
+            "ller des Commiſſions à plſieurs parti¬",
+            "euiers pour ſe tranſporter dans les",
+            "Ptouices pouileuer. destrolpesaco pouupir de",
+            "tirer; em’verti deDdomances du Sieur Mareſchal",
+            "de la Meillerayedes R çeptosgenerales &amp; particu¬",
+            "lietes, lesdeniesqui ſe roucront , pour enployer",
+            "à la leué defditas trbupes; &amp; dntr’autrs aux Sieurs",
+            "dCburcolle, Gallerandes, Lauerdin &amp; d’Amilly, és!",
+            "Prouinces d’Anjou, dui Mayne &amp; du Perche. Et dau¬",
+            "tant que par Arreſt de ladite Cour du dix ntufiémea",
+            "Ianuies derniër il a eſteé ordonné que tou les deniers",
+            "qul ſe couueroioht.deubs: parles. Femiers &amp; Com¬i",
+            "peabſs, ſeroient apportez cn cetleVille, pour eſtre",
+            "employz ainſi qu’il appartiendroir, auecc defenſes à.",
+            "tous leſdits Fermicrs &amp; Comprables de payeraucune,",
+            "choſe que par liorde delladite Cour: Et dautat que.",
+            "ladite Cour eſt bien infornée que la leuée deſdites.",
+            "troupes ſefait contre le ſeruice du ſoy &amp; du public,",
+            "auroit requis eſtre ſur ce pourueu: La maticre miſe",
+            "en deliberartion; L’aA Covr, rontes les. Chambres",
+            "aſſemblées, a fait &amp; fait tes expreſſes. inhiitions-&amp;",
+            "defenſes auſdits de Courcelles, Gallerandes, Lauer¬",
+            "din, d’Amilly &amp; tous autres, de quelque qualité &amp; co¬",
+            "dition qu’ils ſoient, de faire aucunes leueecs de gens"
+        ],
+        [
+            "dé guerre, qu’en vertu de Commiſfions du Roy,s",
+            "Attaches de ladite Cour ſur icelles, Et à tous Gentils¬",
+            "hommes &amp; autres, de prendre employ ſous eux, ny de",
+            "ſ’enroller, à̀ peine de la vie, &amp; d’eſtre degradez de no",
+            "bleſſe, éux &amp; leur poſterité; &amp;à tous les Receueurs &amp;",
+            "Comptables, de leur deliurer aucuns deniers, ny de",
+            "ſ’e deſſaiſir que par ordre de ladite Cour, à peine de",
+            "repetition du quadruple contr’eux, leurs enfans &amp;",
+            "ſueceſſeurs: Et en cas de contrauention par leſdits de",
+            "Courcelles, Gallerande, Lauerdin, d’Amilly &amp; tons",
+            "autres, Enjoint aux Communes de ſ’aſſembler à ſo",
+            "de tocſin &amp; leur courir ſus, &amp; aux troupes qu’ils au¬",
+            "roient leueées. Enjoint pareillement aux Subſtituts!",
+            "du Procureur General, de faire ſaiſiz &amp; annoter leuts.",
+            "biens; aux Preuoſts des Mareſchaux, &amp; à tous Offi¬",
+            "ciers du Roy, tenir la main à l’exeeution du preſent",
+            "Atreſt: lequel ſera, à la diligence deſdits Subſtituts,",
+            "leu en tous les Bailliages &amp; Seneſechauſſées, publié à",
+            "ſon de trompe, &amp; afficheé par tous les carrefours- des,",
+            "Villes du reſſort de ladite Cour, &amp; ſignifié auſdiſsRe.¬",
+            "ceueurs &amp; Comptables, &amp; publié par trois Diman¬",
+            "ches au Proſne de la Meſſe Parochiale de tous les Vil..",
+            "lages dudit reſſort. Et aà̀ cette fin ſeront, à̀ la diligence",
+            "dudis Procureur Geuoral du Roy, copies d’iceluy eh¬",
+            "ueyeées aà ſes Subſtituts, leſquels certifieront la Cour",
+            "auoir ce fair au mois, à peine d’en reſpoudre en leur",
+            "propre &amp; priué nom. Et ſera le preſent Arreſt exeeuté",
+            "en vertu de l’extraict d’iceluy. FAICT en Parlement",
+            "le neufieme Mars 1649. Signé, dv TILLET.",
+            "Collationné à l’original par moi Conſeiller Secretaire",
+            "du Roy&amp; de ſesi Finances."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4"
+    ]
+}

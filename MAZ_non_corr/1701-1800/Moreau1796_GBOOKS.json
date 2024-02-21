@@ -1,0 +1,44 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "Rhétorique judiciaire",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-20",
+            "@who": "AB"
+        },
+        "titre": "Justification (la) du Parlement et de la ville de Paris\n          dans la prise des armes contre l'oppression et tyrannie du cardinal Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000110444682",
+            "@xml:id": "IL_LesselinAlexandre.xml",
+            "persName": {
+                "forename": "Alexandre",
+                "surname": "Lesselin"
+            }
+        },
+        "nbPages": "19"
+    },
+    "texte": null,
+    "pages_number": null
+}

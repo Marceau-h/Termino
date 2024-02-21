@@ -1,0 +1,181 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "subject": "Beaufort, François de Bourbon-Vendôme (1616-1669 ; duc de)",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-07-15",
+            "@who": "AB"
+        },
+        "titre": "Remercîments (les) de la France à monseigneur le duc de\n          Beaufort.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "F. P. R."
+                }
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000371172953",
+            "@xml:id": "IL_BessinNicolas.xml",
+            "persName": {
+                "forename": "Nicolas",
+                "surname": "Bessin"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "LES",
+            "REMERCIMENS",
+            "DE",
+            "LA FRANCE",
+            "A",
+            "MONSEIGNEVR",
+            "LE DVC",
+            "DE BEAVFORT.",
+            "A PARIS,",
+            "Chez N. Beſſin, en l'allée S. Michel.",
+            "M. DC. L."
+        ],
+        [
+            "3",
+            "LES",
+            "REMERCIMENS",
+            "DE",
+            "LA FRANCE.",
+            "A Monſeigneur le Duc",
+            "DE BEAVFORT.",
+            "Cuee o e l leon noeneee",
+            "moinrenant que ie vous ay l’ohbligation, apres",
+            "ue e ee e ns oniunanons e de au",
+            "tpo le fais contrainte daduouer que les",
+            "ansou ont auioud’huy plus d’amout pourt",
+            "u, qusles oains n’auoientautrefoins pour"
+        ],
+        [
+            ".",
+            "2.",
+            "r¬",
+            "i",
+            "1",
+            ". v",
+            "¬4.",
+            "leu Tan;ouy, e le aoae, au",
+            "comparable, que les Francois ne toagiroas",
+            "paint, quand ils vous appelleront le Proteteur",
+            "e leurlberté, le Pere de la Parie, &amp; les deice",
+            "du genre humain.",
+            "Ayable Baavrr, vos’ pefeioi",
+            "ſont ſemblables à voſtre nom; car vous edtes",
+            "BAV, ſoit en la maieſté qui brille dans voſtre",
+            "vlſege, ſoit par vos belles actions: V ous eſtes",
+            "ORT, &amp; vous l’auez bien monſtré, quand",
+            "vous auez employé voſtre bras, pour le leruica",
+            "de on Ro y, &amp; poue nma coacenanion",
+            "quand vous- auez diſſipé mes ennemis &amp; les",
+            "voſtres.",
+            "ll et vray, grand B vroRr, que vous",
+            "uez touſiour pore les intereſs d la Fene",
+            "aintenant oute la France vous pore",
+            "c’eſt i dire, mon Peuple, equelvous ſdleue au.",
+            "ourdhuy ſur ſes eſpnule dt loye &amp;e diulegree",
+            "ſes &amp; pat ſa voi- vaua edeue auf uque a",
+            "Aſte &amp; uſques dans le Ciel emnpi i r",
+            "Crrainement, mon chert Proteteur, les",
+            "Eancois ſaraiet inſenſble auruine",
+            "PDunt du vout de ſeninment ils manquains",
+            "Jaſt doon pour v Pnnee qu lut po nun",
+            "Cmouns Vous ſne peraue doie aupun¬",
+            "d’huy",
+            ". ¬"
+        ],
+        [
+            "g",
+            "Durant que le Soleil, cette claire ame de la",
+            "terre demeure enſeuely ſous les flots de la mer",
+            "lia par vne noire &amp; odieuſe nuict, les morcelsſone",
+            "diſ dans vn triſte ſilence &amp; dans vne profonde me¬",
+            "h lancholie: Mais auſſitoſt que ce Prince des Aſ.",
+            "ſ tres ſe leue &amp; qu’il vient illuminer la terre de ſes",
+            "qul rayons dorez, vous les voyez r’entrer dans leur",
+            "mas premiere ioye &amp; gayeté́.",
+            "n l",
+            "Cher Pnnee, la meſme choſe eſt arriuée en",
+            "1",
+            "voſtre perſonne: Durant voſtre priſon &amp; vo¬",
+            "ſtre rigoureuſe abſence, nons eſtions acea¬",
+            "blés de trſteſſe, &amp; troublez par de faſcheu¬",
+            "ſes calamité́s; Mais auſſiroſt que vous eſtes ſorty",
+            "de cette obſecure demeure &amp; des flotrs de voſtre",
+            "aduerſité́, &amp; que vous eſtes venu à briller ſur",
+            "noftre hioriſon, ecomme l’Aſtre duquel nous re¬",
+            "uons tant d’agreables influences, noſtre tri¬",
+            "ſteſſe a fait place à̀ la ioye.",
+            "8",
+            "Adorable Prince, ie ne parle point de nos",
+            "nnemis, ny de leur priſon, car ie ſçay de bon¬",
+            "ne part que vous eſtes trop genereux &amp; trop",
+            "bon pour vous reſiouir de leur affliction &amp; pou",
+            "morguer leurs infortunes.",
+            "B",
+            ".",
+            "2",
+            "uy, Prince genereux, de teſmoigneren quel¬",
+            "nſaaare façon mes ſentimens."
+        ],
+        [
+            "6",
+            "Certainiement voyla vne grande bonté, Quy!",
+            "vn Prince aymé &amp; chery comme vous, ne ſe",
+            "reſiouyra pas de la punition de ſes ennemis qui",
+            "l’auoient voulu perdre? mais c’eſtoit cracherc¬s",
+            "e notre Soleil.",
+            "L’AVTHEVR,",
+            "A MONSEICNEVR",
+            "le Duc de Beaufort.",
+            "an P1e s, la’gloire des Guer¬",
+            "T iets, dele proteteur dela France, ſou¬",
+            "frez auiourd’huy que ie monſtre vn petit eſchan¬",
+            "illon de vos loüanges, leſquelles ie ne ſuispas",
+            "capable de deſcrire; Car effectiuement la France,",
+            "cette Reine d l’Vniuers, ne peue moins fair",
+            "maintenant que de vous dreſſer des tropheej,",
+            "comme à ſon conſeruateur &amp; au protecteur de;",
+            "mortels. Pourmoy, Monseie vr, ie me",
+            "glorifieray touſiours du nom de Françoi s, &amp;",
+            "eray rauy de meriter la qualité́ de voſtre tres¬",
+            "umble &amp; tres-obeiſant ſubiet &amp;efetuirenr,",
+            "F. P. R."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6"
+    ]
+}

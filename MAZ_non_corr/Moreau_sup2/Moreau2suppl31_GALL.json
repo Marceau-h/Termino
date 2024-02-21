@@ -1,0 +1,217 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subject": "Mazarin",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-15",
+            "@who": "AB"
+        },
+        "titre": "L'Avancoureur de la fin tragique du cardinal\n          Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@role": "alleged_author",
+            "persName": {
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "D. P., S. C."
+                }
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1651-03",
+                "#text": "premièe semaine de mars 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "L’AVANCOVREVR",
+            "DE LA FIN TRAGIQVE",
+            "DV CARDINAL",
+            "MAZARIN",
+            "M. DC. LI."
+        ],
+        [
+            "3",
+            "L’AVANCOVREVR DE LA",
+            "T T",
+            "fin tragique du Cardinal Mazarin.",
+            "ONSEIGNEVR,",
+            "EI",
+            "’y rû d’abord que Voſtre Alteſſe n’approu¬",
+            "ueroit pas la plus grande partie des Vers que",
+            "j’oſe luy preſenter dans ce petit Volume, non pas",
+            "tant paur la rudeſſe de leur ſtile, que pour la ven¬",
+            "geance dont leur Autheur ſemble eſtre porté contre",
+            "n homme le plus odieux de la nature. Il eſt vray,",
+            "MONSEIGNEVR, que voſtre exemple eſt tres¬",
+            "puiſſant pour molerer ceſte paßion dans les eſprits",
+            "les plus animez, puis que s’il y a homme au monde",
+            "qui doiue auoir des juſtes reſſentimens de codere &amp;",
+            "d’animoſite comtre luy: C’eſt vous, MONSE1I¬",
+            "GNEVR, qu’il a injuſtement detenu dans les pri¬",
+            "ſons de Vincennes l’eſpace de cinq ou ſix ans: &amp; ſi",
+            "le Ciel qui vous auoit deſtiné pour eſtre l’azile &amp;",
+            "le fidelle ſuport des Pariſiens ne vous eut inſperé les",
+            "moyens d’en ſortir par vn coup autant ineſpire que",
+            "hardy, peut-eſtre croupiriez-vous encore dans ces",
+            "en pe e ele e dene ae lnu"
+        ],
+        [
+            "4",
+            "la triſteſſe &amp; de la mor. Neantmoins par n traie",
+            "de generoſité qui n’a point d’exemple, vous auez ſçeu",
+            "tellement moderer voſtre eſprit, qu’apres vn affrone",
+            "ſi ſenſible, vous auez regardé voſtre ennemy, le",
+            "pouuant perdre vous l’auez laiße viure; &amp; le",
+            "pouuant iuſtement detenir, vous l’auez laiſßé ſau¬",
+            "uer. Peut-eſtre direz vous, MONSEIGNEVR,",
+            "que ie ſuis ſemblable à ces Renardeaux qui eurent",
+            "bien la hardieſſe d’entrer dans la grotte du Lyo,",
+            "lors qu’il rendoit les abois, &amp; la temerite de luy ar¬",
+            "rcher la barbe lors qu’il ne pouuoit plus ſe defſ n¬",
+            "dre: de meſme que ie declame outraguſe ment dans",
+            "nes vers contre le Mazarin, lorr qu’il ne paroiſt",
+            "plus, &amp; qu’il n’eſt plus dans la puſſance de me",
+            "nuire: mais-ie ſuplie tres humiblement vſtre",
+            "¬",
+            "lteſſe, de eroire que l’auerſion ’que i’ay touſiours",
+            "temoigné contre ſa perſonne pouir ſes mauuais de¬",
+            "porlemens, à’eſté ſi profondement grauee dans mon",
+            "tcœur, que ny l’eſclat de ſa pourpre;, ny l’eſperance",
+            "A.",
+            "d’vne plus haure ſortuné; n’ont iamais pù m’e¬",
+            "branler, ny changer ma reſoluton. Ceux qui me",
+            "D.",
+            "congnoiſſent bien, m’ont touſiours veu ux attaques,",
+            "&amp; aue priſes contre les Partiſans de ſa fortune,",
+            "qui par des menaces capubles d’eſpouuenter tout",
+            "autre eſprit que le mien m’ont ſouuent donné le nom",
+            "&amp; la qualite de ſeditieux Ani-Mazarin que ie",
+            "receuois -auec- gloire &amp; applaudiſſement. Que ſi",
+            "8",
+            "res"
+        ],
+        [
+            "5",
+            "mes Vers ſont pleins de vengeance (&amp; de cruauté,",
+            "cela ſe peut s’attribuer pluſtoſtaux tranſports de la",
+            "Poêſie quaux veritables ſentimens de l Autheur,",
+            "que ayant vn cœur veritablement rançois O Chre¬",
+            "ſtien, doit plus encliner du coſté de la compaſſion",
+            "qu aux extremitez de la rigueur; leſt neontmoins",
+            "vray que le Mazarin eſtant criminel de leze ſieſté",
+            "diuine &amp; humaine, doit ſouffrir vn chaſtiment tres¬",
+            "oxemplaire pour donner de la crainte aux Italiens, &amp;",
+            "autres de nation eſtrangere qui portent leurs mains",
+            "dangereuſes ſur le timon d vn Eſtat le plus floriſſant",
+            "du monde: noſtre ſiecle en peu de temps en a veu deux",
+            "qui ſortis de fort baſſe extraction ont ſeduit les eſprits",
+            "de nos Reynes pour s’enricbir de nos biens. Lvn a",
+            "fait ne fn tres-malheureuſe &amp; tragique: L’autre",
+            "doit iuſtement apprehender de tomber dans la meſme",
+            "infortune &amp; ſi les ſouhaits &amp; les Propheties s accỗ¬",
+            "pliſſent il n en doit pas moins eſperer (les rouges rou¬",
+            "ge, les rouges aſsome or,) Il faut que j’aduoïe icy",
+            "ingennement que le plus grand deplaiſir qui me reſte;",
+            "C eſt de voir que cét ennemy de la France, &amp;ce l’arti¬",
+            "ſin de l Eſpagne s eſt retiré chargé de nos dépoûil¬",
+            "les, de nos Louis, &amp; de nos pierreries: &amp; j aurois",
+            "ſouhaité auec paßion, que l’exemptant du feu, des",
+            "rouès, des potences, &amp; des cheualets:Le Parlement",
+            "luy euſt fait rendre conte de ſes mauuais déporte¬",
+            "mens, &amp; l’ayant depoïillé comme l oyſeau de la fable,",
+            "B"
+        ],
+        [
+            "6",
+            "Ieuſt renuoyé en exilaux Indes ou en Canada: (&amp; là,",
+            "finir le reſtede ſes iours, &amp; faire penitence de ſes pe¬",
+            "chez,) Jleſt encore aſſez de bonne heure, &amp; les puiſ¬",
+            "ſans ont les mains aſſe longues pour l ’attraper quel¬",
+            "que part qu’il puiſſe eſtre refugié: Quoy ques’en ſoit,",
+            "peut eſtre ne troublera-il plus noſtre repos, &amp; les Pa¬",
+            "ſiens viuront d’oreſnauant ſans crainte, &amp; ſous les",
+            "aiſles de voſtre protection. Pour moy i’eſpere que",
+            "voſtre bonté me permettra qu’à la qualité d’Anti¬",
+            "Maarin, ie joigne auec mes tres-humbles reſpects",
+            "celle de",
+            "MONSEIGNEVR,",
+            "Voſtre tres -humble, tres-fidelle, &amp;",
+            "tres-obeiſſant ſeruiteur, S C ſieur",
+            "D. P. &amp; l’Anti- Mazarin."
+        ],
+        [
+            "7",
+            "ADVISAV LECTEVR.",
+            "TJT7 .",
+            "A MY Lecteur, Si ta curioſité te porte de",
+            "lire ces Rimes Françoiſes, tu y verras en",
+            "ſuitte la Mazarinade compoſée à quatre parties,",
+            "lors que le Mazarin aſſiegeoit la ville de Bour¬",
+            "deaux C’eſt vn air Bachique plus propre dans le",
+            "Cabaret que dans le Palais. Pour ta ſatis faction",
+            "i’y aurois fait imprimer ces quatre parties en Mu¬",
+            "ſique, ſi ce genre d’impreſſion n’eſtoit trop rare",
+            "dans Paris, &amp; qu’il n’y a que le ſeulM. Balard à",
+            "preſent quien ait le Priuilege. On eſpere neant¬",
+            "moins que d’autres l’auront bien toſt. Si neant¬",
+            "moins tu deſires de le voir &amp; de l’ouyr à quatre",
+            "parties, ie t’aduertis qu’outre qu’il eſt dans les",
+            "mains de pluſieurs particuliers; tu le treuueras",
+            "aiſément chez quelques Chantres deNoſtre-Da¬",
+            "me, de la Saincte Chapelle, de Sainct Germain",
+            "de Lauxerois, &amp; de Sainct Innocent. Lors que",
+            "i’en eus compoſé la parole, au temps que le",
+            "Mazarin emmenoit le Roy au ſiege de Bour¬",
+            "deaux, il y eut trois Compoſiteurs de Muſi¬",
+            "que qui s’eſcriment deſſus, mais entre tous vn",
+            "fſeul a le mieux rencontré, il n’y a point de dan¬",
+            "ger de le nommer icy, c’eſt G. le Febure de"
+        ],
+        [
+            "Many, quia eſté eſleué Page dans la Muſique du",
+            "feu Roy, &amp; du depuis a ſeruy de domeſtique",
+            "aà la maiſon de Vendoſme. Tu ne dois point",
+            "craindre de le concerter dans l’abſcence de Ma¬",
+            "zarin, puis que eſtant meſme dans Paris, on",
+            "la chanté auec des lnſtrumens dans pluſieurs",
+            "bonnes compagnes. Adieu &amp; boy à mlanpé́"
+        ]
+    ],
+    "pages_number": [
+        "2",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+    ]
+}

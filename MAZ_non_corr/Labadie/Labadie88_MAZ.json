@@ -1,0 +1,125 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-04",
+            "@who": "AB"
+        },
+        "titre": "ARREST de la Cour de Parlement de Bourdeaux",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-03-24",
+                "#text": "mention de publication le 24 mars 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:6455058",
+            "#text": "Bordeaux"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121390552",
+            "@xml:id": "IL_MongironMillangesJacques.xml",
+            "persName": {
+                "forename": "Jacques",
+                "surname": "Mongiron Millanges"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE BOVRDEAVX.",
+            "Portant qu'il ſera informé contre le Cardinal Mazarin,",
+            "ſes parents &amp; domeſtiques, des divertiſſements des Fi",
+            "nances, &amp; tranſport des deniers hors le Royaume.",
+            "A BOVRDEAVX.",
+            "Par I. MONGIRON MILLANGES, Impeumeur",
+            "ordinaire du Roy. M. DC. LI."
+        ],
+        [
+            "3",
+            "Regiſtres de Parlement.",
+            "LA COVR deliberant ſur la",
+            "Lettre à elle eſcrite par le Parle.¬",
+            "ment de Paris, &amp; apres auoir veu",
+            "l’Arreſt dudit Parlement donné́",
+            "contre le Cardinal Mazarin le",
+            "11. de ce mois, &amp; l’Arreſt de la",
+            "Cour du 15. du mois de Feurier",
+            "dernier Ouy ſur ce le Procureur",
+            "general du Roy, a ordonné &amp; ordonne qu’il ſera infor¬",
+            "mé à la requeſte dudir Procureur general contre ledit",
+            "Cardinal Mazarin, &amp; ſes Parens &amp; domeſtiques des",
+            "contreuentions par eux faites audit Arreſt du is. Feurier",
+            "comme auſſi des depredations faites par les ordres du¬",
+            "dit Cardinal ſur les vaiſſeaux eſtrangers, des empeſehe¬",
+            "mens à la concluſion de la paix, des diuertiſſemens des",
+            "Finances, &amp; tranſport des deniers hors du Royaume, &amp;",
+            "mauuaiſes Impreſſions par luy données au Roy, ſera",
+            "auſſi informé contre ceux qui ont eu quelque commu¬",
+            "nication auec luy depuis &amp; au prejudice dudit Arreſt du",
+            "15. Feurier;Et pour faireladite informatiõ, ladite Cour a",
+            "commis &amp; deputé en lapreſente ville, Meffieurs Saubat",
+            "de Pommiers, &amp; Pierre de Suduiraut, &amp; hors ladite ville,",
+            "Meſfieurs Eſtienne Deſpagnet &amp; Henry de Montagne,",
+            "Conſeillers en ladite Cour: &amp; où ledit Cardinal Mara¬"
+        ],
+        [
+            "rin ſera trouué dans le Reſſort de ladite Cour, enjoint à",
+            "tous les Gouuerneurs, Capitaines, Officiers, Maires,",
+            "Eſcheuins &amp; Conſuls de ſe ſaiſir de ſa perſonne, &amp; icel¬",
+            "le conduire ſous bonne &amp; ſeure garde dans la Con¬",
+            "ciergerie de la Cour. ORDONNE auſi qu’à la Re¬",
+            "queſte dudit Procureur general, tous les biens &amp; effets",
+            "dudit Cardinal Mazarin ſeront ſaiſis &amp; arreſtez: Enjoint",
+            "à tous les Banquiers &amp; perſonnes publiques de repre¬",
+            "ſenter leurs Regiftres, &amp; à toutes perſonnes qui ont co¬",
+            "gnoiſſance deſdits effets de le declarer en Iuſtice, à̀ tel¬",
+            "les peynes que de droit: Et ſera le preſent Arreſt aff¬",
+            "ché &amp; publié aà ſon de Trompe aux lieux aecouſtumex",
+            "de la preſente ville, &amp; enuoyé ez Bailliages &amp; Seneſ¬",
+            "chauſſées du Reſſort pour y eſtre auſſi leu &amp; publié.",
+            "Enjoint aux Subſtituts dudit Procureur general de cer¬",
+            "tifier la Cour de leurs diligences, au mois. Et ſera exe¬",
+            "cuté́ en vertu due ſimple dictum, attendu ce dont a’a¬",
+            "giſt. Fait à Bourdeaux en Parlement, les Chambres",
+            "aſſembleé́es, lea2. Mars 1651.",
+            "Signé, SVAV.",
+            "E vng- quairlẽme Mars, 65 1. le preſes Arreſt a eſé lea &amp; publépa",
+            "les eaaons &amp; carreſours de l preéte ville, par ous Iean da Boſ &amp;",
+            "Lauaa, ulſies eol Coar de Parlemeney aſijſez de Chbvdler&amp; rehers",
+            "daGuet, &amp; Trompettes de la preſee ville, Sgné roc."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
+    ]
+}

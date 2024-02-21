@@ -1,0 +1,49 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-24",
+            "@who": "AB"
+        },
+        "titre": "Flambeau (le) d'Olympe, dédié à monseigneur le duc de\n          Beaufort, avec la voix et les vœux du peuple, par le sieur Barroys.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@source": "BnF",
+            "persName": {
+                "forename": "Henri",
+                "surname": "de Barroys"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121237136",
+            "@xml:id": "IL_CoulonVeuvedAntoine.xml",
+            "persName": {
+                "forename": "veuve d'Antoine",
+                "surname": "Coulon"
+            }
+        },
+        "nbPages": "8"
+    },
+    "texte": null,
+    "pages_number": null
+}

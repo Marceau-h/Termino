@@ -1,0 +1,117 @@
+{
+    "imprimatur": "Imprimé aux deſpens d’vn Particulier",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Vin",
+            "Aides (impôt)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt du parlement, donné toutes les chambres assemblées,\n          pour le rabais des entrées de vin",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1648",
+                "#text": "1648"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1648-10-16",
+                "#text": "16 octobre 1648"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000110444682",
+            "@xml:id": "IL_LesselinAlexandre.xml",
+            "persName": {
+                "forename": "Alexandre",
+                "surname": "Lesselin"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR DE PARLEMENT.",
+            "donné toutes les Chambres aſſemblées",
+            "pour le rabais des Entrées du vin.",
+            "Imprimé aux deſpens d’vn Particulier.",
+            "A PARIS,",
+            "Chez ALEXANDRE LESSELIN , ruë de la vieile",
+            "bouclerie à la ville d’Amiens.",
+            "M. DC. XLVIII."
+        ],
+        [
+            "3",
+            "EXTRAIT DS RCGISTRES",
+            "de Parlement.",
+            "CE iour la Cour tountes les",
+            "Chambres aſemblées, déli¬",
+            "berant ſur le recit fait par M",
+            "le Premier Preſident, de ce",
+            "qu’il luy a eſté dit, &amp; aà Meſ¬",
+            "ſieurs les Deputez de ladite Cour le",
+            "iour d’hier, par la RoyneMeredu Roy,",
+            "Regente en France, A FAICT. &amp; fait",
+            "tres-expreſſes inhibitions &amp; deffences",
+            "aux Fermiers des Entreées de cette ville",
+            "&amp; faux-bourgs de Paris, leurs Commis",
+            "&amp; autres, de leuer à l’aduenir aux En¬",
+            "trees &amp; Ports de cettedite ville &amp; fax¬",
+            "bourgs les Impoſitions de vingt ſoldd",
+            "Subuention mentionnées en l’Arreſt du",
+            "Conſeil du vingt-cinquieſme Feurier",
+            "ſix cens quarante-trois, Dautres vingt",
+            "ſols de Sedan, eſtablis par autre Arreſt",
+            "du Conſeil duI4 Iuillet 1õ4i. Dix ſols,"
+        ],
+        [
+            "4",
+            "appellé le droit de Maubouge:Trois ſols",
+            "d’augmentation de barrage &amp; des deux",
+            "ſols pour liure des ſuſdites ſommes, re¬",
+            "uenant le tout à cinquante-huict ſols ſix",
+            "deniers ſur chacunmuid de vin &amp; autres",
+            "breuuages àl équipolent, ſuluant leſdits",
+            "Arreſts, à peine de concuſſion: Enjoint",
+            "aux Officiers du Roy tenir lamain à l’e¬",
+            "xeeution du preſent Arreſt: Ordonne",
+            "qu’à la diligence du Procureur General",
+            "ilſera leu, publié́ &amp; affiché par tous les",
+            "carrefours de cette ville &amp; faux-bourgs",
+            "&amp; par tout ailleurs que beſoin ſera, à",
+            "ce que aucun nen pretende cauſe d’i¬",
+            "gnorance. Fait en Parlement, le quator¬",
+            "ziéme Octobre 1648 Signé, GVYET."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-07",
+            "@who": "AB"
+        },
+        "titre": "Arrest de la cour de Parlement toutes les cham bres\n          assemblées , en faveur des manans et habitans des villes , bourgs et villages , pour\n          l'éloignement des gens de guerre. Du quatorzième mars 1652.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-03-14",
+                "#text": "daté du 14 mars 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "TOVTES LES CHAMBRES ASSEMBLÉES.",
+            "En faueur des Manans &amp; Habitans",
+            "des Villes, Bourgs &amp; Villages, pour",
+            "l’éloignement des Gens de guerre.",
+            "Du quatorieme mars 1652.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires duRoy.",
+            "M. DC. LII.",
+            "Auec Priuilege de ſa Maieſté."
+        ],
+        [
+            "aaa",
+            "4",
+            "deſordres commis par les gens de guerre",
+            "en diuers lieux &amp; endroits, meſmes dans",
+            "les dix lieüs des enuirons de Paris, ou plu¬",
+            "ſieurs deſdits gens de guerre eſtoient logez",
+            "contre ce qui auoit eſté accordé par le Roy",
+            "par parolles portées par ledit Seigneur",
+            "Due d’Orleans lors de la conference de",
+            "Saint Germain de l’année ſix cens qua¬",
+            "rante-huict;Que le iour d’hyer le ſieur Ma¬",
+            "reſchal de l’Hoſpital Gouuerneur de cette",
+            "Ville en auoit parlé en la Cour; Dit qu’il",
+            "feroit tout ſon pouuoir pour le délogement",
+            "deſdits gens de guerre, &amp; empeſcher qu’il",
+            "ne vienne nouuelles Trouppes dans les dix",
+            "lieuës à̀ la ronde; ce qui auroit donné ſu¬",
+            "jet d’inuiter par ſes Deputez ledit Seigneur",
+            "Duc de venir en Parlement pour eſtre ſur ce",
+            "deliberé; Et apres que ledit Seigneur Duca",
+            "dit, qu’il auoit donné la parole de la part de",
+            "ſa Majeſt́, qu’il ne logeroit point de Gens",
+            "de guerre’ à dix lieuës à la ronde de Paris,",
+            "employera volontiers ſon pouuoir à ce",
+            "qu’elle ſoit exeutée, &amp; de faire déloger",
+            "leſdites trouppes, promettoit qu’il n’y sn",
+            "viendroit"
+        ],
+        [
+            "viendroit à l’aduenir, &amp; que ledit ſieur Ma¬",
+            "reſchal de L’hoſpital à promis d’executer la",
+            "parolle qu’il auoit donńe le iour d’hyer,",
+            "&amp; dont il auoit eſcrit au Roy; Oy ſur ce les",
+            "CGens du Roy en leurs Concluſions, eux",
+            "rez, La matiere miſe en deliberation;",
+            "LADITE CoVR a arreſté &amp; ordonné,",
+            "Que ledit Seigneur Duc d’Orleans ſera",
+            "remercié de ſes ſoings pour le bien &amp;",
+            "ſeruice du Roy, &amp; fait Regiſtre de ſa De¬",
+            "claration &amp; de celle dudit Mareſchal de",
+            "L’hoſpital, &amp; conformement à la volon¬",
+            "té du Roy, &amp; aux Declarations dudit",
+            "Seigneur Duc d’Orleans, &amp; Mareſchal",
+            "de L’hoſpital, Ordonne que tous les Gens",
+            "de guerre eſtans dans l’eſtenduë des dix",
+            "lieues à la ronde de Paris &amp; enuirons, dé¬",
+            "logeront inceſſamment; A quoy faire",
+            "ledit Sieur Mareſchal Gouuerneur de Paris",
+            "tiendra la main. Ordonne en outre que",
+            "le Procureur general du Roy aura Com¬",
+            "miſſion addreſſante à tous Iuges Royaux",
+            "pour informer deſdits deſordres &amp; violen¬",
+            "ces commiſes par leſdits Gens de guerre,",
+            "B",
+            "7l"
+        ],
+        [
+            "6",
+            "pour le tout fait &amp; rapporté communiqué",
+            "audit Procureur general eſtre ordonné ce",
+            "qu’il appartiendra. Fait en Parlement le",
+            "quatorziéme Mars mil ſix cens cinquan¬",
+            "te-deux.",
+            "L. aaa¬--oaa¬¬¬",
+            "Signé, GVYET.",
+            "7 r e¬",
+            "Collationné à l’Original par moy",
+            "Conſeiller, Secreſaire du Roy,",
+            "aiſon, Couronne de France",
+            "&amp; de ſes Finances."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "12",
+        "13",
+        "14"
+    ]
+}

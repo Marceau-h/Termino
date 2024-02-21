@@ -1,0 +1,147 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+            "Conti, Armand de Bourbon (1629-1666 ; prince de)",
+            "Longueville, Henri II (1595-1663 ; duc de)",
+            "Comminges, Gaston Jean Baptiste de (1613-1670)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-14",
+            "@who": "AB"
+        },
+        "titre": "Jeu (le) de dames que monsieur le prince de Condé joue\n          avec M. Guitault (sic).",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1650-02",
+                "#text": "février 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "LE IEV DE DAMES,",
+            "que Monſieur le Prince de",
+            "Condé à ioüé auec Mon¬",
+            "ſieur Guitault.",
+            "Monfieur Guitault parlant aà Momſieur le Prince.",
+            "VOus plaiſez vous au Ieu de Dames.",
+            "Monſieur le Prince.",
+            "Quelque fois ie m’y diuertis, &amp; ie m’y plais fort",
+            "quandi’ay le deſſus, &amp; que ie puis Damer.",
+            "Monffeur Guiaudlt.",
+            "Pour moy, il y aſi long-temps que ie n’y ayioü̂é",
+            "que ie croy auoir oublié́ lejeu.",
+            "Monſieur le Prince.",
+            "Quaad le-ſeay parfaiteme, o e peur iamais",
+            "l’oublier.",
+            "Mouſieur Guiale.",
+            "Ie oſe ioüer auec vous, i’ay peur de n’eſtre pas",
+            "aſez fort.",
+            "Monſfieur le Prince",
+            "Ie n’y ay iamais bien ioü̈é́, &amp; y ſçay aueune fineſ¬",
+            "ſe, ie ne fais que remuer toutes mes Dames l’vne a¬",
+            "pres l’autre ſans ordre, &amp; à la fin ie m’en trouse mal.",
+            "Monſeur Guitault.",
+            "e m’hazarderay daue de loervne partie, mais il",
+            "ar aa a",
+            "A"
+        ],
+        [
+            "faut que l’aye l’aduantage de Trois pions, autremens",
+            "ie ne puis ioü̈er.",
+            "Moſeur le Prinmce.",
+            "Ce que tu pouras prendre en iouant, ie te le doue.",
+            "Moſisur Guirault.",
+            "Ie m’en vais doneeommencer.",
+            "Monſieur le Prince.",
+            "Ie ne ſç̧ay deſia plus que ioü̈er.",
+            "Monſieur Guiaule.",
+            "Auance, vous eſtes en ſeureteé́.",
+            "¬",
+            "Monſieur le Prince.",
+            "1.",
+            "l’ay Trois Pions qui ſont en grand danger.4",
+            "Monfieur Guiraulr.",
+            "Ie les prenderay ſiie puis.",
+            "Monmſeu le Prince.",
+            "I fauit que ie taché à les ſauuer.’",
+            "Manfieur Guialt.",
+            "le vous en empeſcheray bien.",
+            "aaaa ae",
+            "Tune mae donneaueun quariep",
+            "4",
+            "2",
+            "foeut Gldl.",
+            "Voyla beau coup de rois que ie vais faire.",
+            "Monſieur le Prince.",
+            "Ceſt ce qui ſera aue de a pere",
+            "¬1",
+            "1",
+            "Monfſour Guinule.",
+            "Vous tez hal joeé, vous ne ſfç̧auiriez plus aller à",
+            "Dahes.",
+            "Moſleut le prince.,",
+            "eer ine ane qai t iunrr"
+        ],
+        [
+            "3",
+            "Manfieur Guitaulr.",
+            "Voſtrie Ieu ne vaur plus ien.",
+            "Monſieur le Prince.",
+            "l’ay eſté trompé, le penſois faire vn eoup de Trois.,",
+            "mais tu m’en a fairvn plus beau.",
+            "Monſieur Guitault.",
+            "Il falloit vſer de preuoyence.",
+            "Monſfeur le Prince.",
+            "Il n’eſt plus temps, ie ne puis pas reſiſter, tu as mis",
+            "trop bon ordre à ton leu.",
+            "Mnſieur Guitault.",
+            "-Vne autre-fois vous joü̈rez mieux.",
+            "Moſieur le Prince.",
+            "Si ie me fuſſe défait d’vn Pion, i’auois gaigné, mais",
+            "ie u croiois pas que le Ieu iroit de la façon.",
+            "Monſieur Guitault.",
+            "Il fau que vous quittiez.",
+            "Monſieur le Priuce.",
+            "Si tu n’eſtois point ſi fort ie pourois me Sauuer, mais",
+            "ie ſuis pris, ie n’ay plus de Dames.",
+            "Monfieur Guitault.",
+            "C’eſt aſſez joué, il eſt tard, ie vais ſerrer les Pions",
+            "de peur qu’ils ne ſe perdent.",
+            "FIN."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11"
+    ]
+}

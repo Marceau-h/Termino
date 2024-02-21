@@ -1,0 +1,146 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-07",
+            "@who": "AB"
+        },
+        "titre": "Déclaration (la) de monseigneur le prince de Conty, de\n          messieurs les généraux, etc",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": [
+            {
+                "@ref": "isni:0000000121755355",
+                "@source": "Mazarine",
+                "orgName": "Parlement de Paris"
+            },
+            {
+                "@ref": "isni:0000000119302891",
+                "@source": "Mazarine",
+                "persName": {
+                    "forename": "Armand de Bourbon",
+                    "surname": "Conti"
+                }
+            }
+        ],
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-03-20",
+                "#text": "daté du 20 mars 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2982652",
+            "#text": "Rouen"
+        },
+        "publisher": [
+            {
+                "@ref": "isni:0000000108628239",
+                "@xml:id": "IL_ViretJean.xml",
+                "persName": {
+                    "forename": "Jean",
+                    "surname": "Viret"
+                }
+            },
+            {
+                "@ref": "isni:0000000362042460",
+                "@xml:id": "IL_DuPetitValDavid.xml",
+                "persName": {
+                    "forename": "David",
+                    "surname": "Du Petit Val"
+                }
+            }
+        ],
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LA",
+            "DECLARATION",
+            "DE MONSEIGNEVR",
+            "LE PRINCE",
+            "DE CONTY",
+            "ET DE MESSIEVRS",
+            "LES GENERAVX.",
+            "Enregiſtrée es Parlement pour l’execution de l’Arreſt du",
+            "8. Ianuier dernier contre le Cardinal Mazarin.",
+            "POVR LE SOVLAGEMENT DES",
+            "Peuples &amp; de la Paix Generale,",
+            "Da Samsedy 20. Mars 1649.",
+            "Sur l’Imprimé à Paris.",
+            "Chez DAVID DV PETIT VAL, Et IEAN VIRET",
+            "Imprimeurs ordinaires du Roy, deuant la grand’Porte",
+            "&amp; au haut des degrez du Palais.",
+            "M. DC. XLIX."
+        ],
+        [
+            "3",
+            "LA DECLARATION",
+            "DE MONSEIGNEVR",
+            "LE PRINCE",
+            "DE CONTY",
+            "ET DE MESSIEVRS",
+            "LES GENERAVX",
+            "Enregiſtrée en Parlement pour l’eacecution de l’Arreſ",
+            "du . Ianuier dernmier contre le Cardinal Mazarin,",
+            "pour le ſoulagemeat des Peuples, la Paix gserale.",
+            "Du Samedy o. Mars 1649.",
+            "e E jour, la Cour toutes les Chambre;",
+            "d aſſemblées, Monſieur le Pince de",
+            "Conty, a dit, que luy &amp; Meſſieurs",
+            "ſ",
+            "les Generaux declarent qu’ils n’on",
+            "donneé leurs prerentions dont ſont",
+            "chargez leurs Deputez, que pout la",
+            "neceſſité́ où jls ſe ſont trouuez, de chercher leur ſeu¬",
+            "reré, en cas que le Cardinal Mazarin de meure dans",
+            "le Miniſtere, &amp; proreſtent de renoncer aà leurs inte¬",
+            "reſts particuliers deé́s le moment qu’il en ſera exclus;",
+            "mais en cela comme en toute autres choſes, ils ſe",
+            "A ij"
+        ],
+        [
+            "E¬",
+            "11",
+            "4",
+            "ſoubmettent aux ſentimens du Parlement, duquel",
+            "ils proeſlen de ne ſe point vouloir deſ- vnit decla¬",
+            "rant qu’ils ne ſe ſont jamais joints à cete Compagni¬",
+            "que pour la Paix generale, le ſoulagement des Peu¬",
+            "ples, &amp; la conſeruaion de la ile de Paris aue",
+            "e e, il auoit eſte dreſſé memoire, ſigné dudit ſieur",
+            "pn de Conty, lequel il a requis eſtre inceré &amp;",
+            "mis au Greffe; Ce qui a eſté fait d’vn commun",
+            "vœu, arreſté qu’il ſera deliuré autant du preſent acte.",
+            "Et a eneor ledit ſieur Prince de Conty, dit, que",
+            "ionſieur le Due de Longuevile ſera dans les meſ¬",
+            "mes ſentimens. F AIT en Parlement l’an &amp; jour",
+            "1 ¬",
+            "ſuſdit. Signeé, DV TILLEIT.",
+            "Collatiomaé par moy Conſeiller Secretaire",
+            "d Roy, Maiſon &amp; Couronne de France",
+            "b de ſes Finances."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
+    ]
+}

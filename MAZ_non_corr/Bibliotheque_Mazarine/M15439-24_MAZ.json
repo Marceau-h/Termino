@@ -1,0 +1,131 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Condé‎, Louis de Bourbon‎ (1621-1686 ; prince de‎)",
+            "Conti‎, Armand de Bourbon‎ (1629-1666 ; prince de‎)",
+            "Longueville‎ II, Henri (1595-1663‎ ; duc de)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-03",
+            "@who": "AB"
+        },
+        "titre": "Relation de ce qui s'est fait & passé à Paris, au\n          sujet de l'éloignement du cardinal Mazarin, avec la liberté & sortie des Princes hors\n          du Havre de Grace, par ordre & commandement de sa Majesté.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Mazarine",
+            "@when": "1651",
+            "#text": "1651"
+        },
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2989317",
+            "#text": "Orléans"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "RELATION DE",
+            "ce qui s’eſt fait &amp; paſſé à Paris,",
+            "au ſuiet de l’éloignement du",
+            "Cardinal Mazarin, auec la li¬",
+            "berte &amp; ſortie des Princes",
+            "hors du Haure de Grace, par",
+            "ordre &amp; commandement de",
+            "Sa Maieſté.",
+            "A Orleans ce 13, Feurier 16̃50."
+        ],
+        [
+            "De Paris l’onzoeſme Feurier 1651.",
+            "ENſuite de diverſes aſſe mblées du Par.",
+            "lement, le4 de ce moi Monſeigneur",
+            "le De d oleans y eſtant urouue, ſur or",
+            "donné que Leurs Maieſtez leroient tres¬",
+            "hublement ſupliées d’ensoyer au pluſton",
+            "Letttes de cachet pour la liberté des Prince",
+            "de Conde &amp; de Conti &amp; du Due de lLongue¬",
+            "vule, &amp; d’loigoes de la pe ſonns du Roy,",
+            "&amp; de ſes Conſes le Car dinal Mazain:en é",
+            "ſequence duquel Aireſt les Gens du Roy eu¬",
+            "rent le lendemain audiance de Leurs Maie¬",
+            "ſtez: leſquelles, pour donner ſaisfaction à",
+            "Son Alreſſe Royale qui demeuroit ferme en",
+            "ſa reſolution de ne le touver plus dans le",
+            "Conleils du Roy que ledit Caroinal n’en fuſt",
+            "élogné luyayans onne congé, il partit d’ie",
+            "lamurtdus au y. Ce iour la y, les Depue",
+            "du Parlement furent conduits à̀ l’audianee de",
+            "Leurſdites Maieſtez, pat le Grand Maiſte",
+            "&amp; le Maiſtre des ceremonies, &amp; prelentez",
+            "parle Mareſchal de L’Hoſpital, poui en oe.",
+            "eution de l’Atreſt qui auoit et donné le"
+        ],
+        [
+            "matin du meſme iour en preſence de",
+            "Alteſſe, ſupplier rres-humblemeni Leurs",
+            "de mettre en ihe é leſdits Princes &amp; le.",
+            "de Lenueville les emercierde l’éleigne n",
+            "dudii ſCar dinal, ls ier de lui con inande",
+            "qu’il ſorte le Roaume &amp; qu’elles e nuoyee",
+            "vne Declaration au Parleme nt pour excluse à",
+            "l’aueir tous eſt.angers d’entrer au Conſeil",
+            "du Roy, mieſmes les natur ilez ou auttes qui",
+            "auront ſerment à d’auties Princes.",
+            "Le 8, leſdits Gand Maſtre, &amp; Maiſtre des",
+            "céremonies eurent ordre de Leurs Majeſtez",
+            "de faire trouuer au Pallais Cardinal roos les",
+            "Princes, Ducs, Pairs, Mareſchaux de France",
+            "&amp; Grands du Royaume, pour prendre leurs",
+            "avis ſur le ſujet des àffases preſentes.",
+            "Le 9, ſur le raport fait au Parlement de la",
+            "Déclaration &amp; volonté de Leurs Maieſtez,",
+            "touchant l’éloignemene du Cardinal, il fut",
+            "ordonne que dans quiaine, luy, les parens",
+            "&amp; domeſtiques eſtrangers vuideont le Roy.",
+            "aume, ſans y pouuoir reueni: faute dequoi",
+            "ſera contr’eux pracede extaordinairement",
+            "permis auxCommunes &amp; tous autre d leur",
+            "courir ſus, &amp; defenles faires aux Gouver¬",
+            "eurs, Maires, Eſchevins &amp; avtres ſit ts du",
+            "Roy de les retirer: &amp; que l’Arreſt lera affiché"
+        ],
+        [
+            "&amp; envoyé aux Sieges e ce reſſort, poury",
+            "eſtte executé.",
+            "Hier au ſoir, Leurs Maieſtez fir ent expe¬",
+            "dier vn pouuor au Marelchal de Gtammont",
+            "&amp; au ſieur de la Vr illiere Secreraire d’Eſtat",
+            "avec les ordres neceſſaires pour la hberé deſ¬",
+            "dis Princes: &amp; ce matin, ledit ſieur de la",
+            "Vrilliere eſt parti d’ici auec le Duc de la Ro.",
+            "chefoucault, le Preſident Viole &amp; le ſieur",
+            "Arnaud Mareſchal de camp, pour le rendre",
+            "en la plus grance dilicgence qu’ils pourront",
+            "au Havre de Grace: où la Reine a auſſi en¬",
+            "voyé le ſieur de Cominges Capitaine de ſes",
+            "Gardes, pour teſmoigner auſdits Princes la.",
+            "ioye qu’elle a de leu liberé."
+        ]
+    ],
+    "pages_number": [
+        "7",
+        "8",
+        "9",
+        "10"
+    ]
+}

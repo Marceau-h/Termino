@@ -1,0 +1,149 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-07",
+            "@who": "AB"
+        },
+        "titre": "Arrest du Conseil d'Estat du Roy, donné à Saumeur, sa\n          Majesté y estant, le seiziesme fevrier 1652. pour l'asseurance du payement des rentes\n          constituées sur l'hostel de la ville de Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121754977",
+            "@source": "Mazarine",
+            "orgName": "Conseil d'État"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-02-16",
+                "#text": "daté du 16 février 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000008903969",
+            "@xml:id": "IL_RocoletPierre.xml",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Rocolet"
+            }
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DV CONSEIL D’ESTAT",
+            "DV ROY.",
+            "Donné à Saumeur, ſa Majeſté y eſtant,",
+            "le ſeizieſme Fevrier 1652. pour l’aſ¬",
+            "ſeurance du payement des Rentes",
+            "conſtituees ſur l'Hoſtel de la Vlle",
+            "de Paris.",
+            "LE ROY eſtant en ſonconſeil, voulant",
+            "teſioig nen ſa bonne vo lonmee &amp; ſonm af¬",
+            "fection a ſa bonne Ville de Paris, &amp; à",
+            "1",
+            "&amp; ceux qui ont intereſt aux Rentes conſti¬",
+            "als uir ſe eſl l di eile le qn enene11",
+            "t que par Arreſt du huictieſme Ianuier",
+            "dernier, ayt eſté ordonné que les payemens desaſſigna¬",
+            "tions leuées les anné́es p aſſeées par mandemens, reſcri¬",
+            "ptions ourocepiſſezdes Treſoriers de l’Eſpargne, ſur la",
+            "1",
+            "preſente annee&amp; ſur les precedentes ſurſoiroient, iuſ¬",
+            "ques en l’anmée ey que neanmoine ſon inrennion",
+            "touſiours eſté de pouruoir au payement deſdites Ren¬",
+            "res y&amp; à cette iu, auroit eſerit au Preuoſt des Mar¬",
+            "chands &amp; ſcheuins par ſes Lettros de Cachet, en datte",
+            "du:.",
+            "ſur la deffiance qu’ilauoit:",
+            "1",
+            "Ll"
+        ],
+        [
+            "11",
+            "1",
+            "1!",
+            "1",
+            "1",
+            "2",
+            "que les fonds deſdits Rentes ne fuſſent diuerties par la",
+            "licence des gens de guerre quitiennent la Campagne,",
+            "11",
+            "pour entrer en conferance, &amp; de deputer quelques- vns",
+            "vers ſa Majeſté, pour aduiſer auee eux ſurquels fonds,",
+            "plus ſeurs &amp; plus aſſeurez, &amp; moins ſujets aux incurſions",
+            "des Ennemis, on pourroit ſatisfaire au payement d’i¬",
+            "celles; &amp; afin de faire connoiſtre à vn chacun la ſince¬",
+            "rité de ſes intentions, touſiours eſgales pour le bien &amp;",
+            "l’aduantage de ſes Subjets. SA MAIESTE inter¬",
+            "pretant l’Arreſt duhuictieſme lanuier dernier, A or¬",
+            "donné́ &amp; ordonne, conformément à̀ la Declaration du",
+            "vingt-deuxieſme Octobre 648. Arreſts de ſon Conſeil,",
+            "des premier uin &amp; vingt-ſeptieſme Nouembre 6;o. &amp;",
+            "eſtat du recouurement du neufieſme Octre 65t que leſ¬",
+            "dites Rentes de l’Hoſtel de Ville de Paris, aſſignées ſur",
+            "les Receptes generales &amp; particulieres à Fermes, ſeront",
+            "payées par peferonce à toutes aſſignations leuées &amp; à",
+            "leuea, mofes à la-pareie de lEſarne; &amp; à ce faire,",
+            "leſdiss ReceueursGeneraux &amp; Parciculiers, Fermiers &amp;",
+            "Commis prepoſez aux Receptes’, &amp; ceux qui ont fait",
+            "des Preſt, ſecronteoaraines par les voyes ordinaires &amp;",
+            "accouſtumées; pourles denits ffaires de ſa Majeſteé:",
+            "Enjoignant ux Preuoſtdes Marchands &amp; Eſcheuins d’y",
+            "apporter toutes ſortes de diligences. AIT au Conſeil",
+            "d’Eſtat du Roy, tenu à̀ Saumeu, le Roy y eſtant, le",
+            "ſeizieſme iour de Periurmit ſioLens iuquanto-deux.",
+            "Signé ne Gatv¬",
+            "OVISpar la grace de Dieu, Roy de FPrance &amp; de",
+            ",Nauarrer lAAPronalan ndſtes Huiſſier duSergent",
+            "ſE requis, Salu Nous te mandons qu’à la requeſte",
+            "1",
+            "LA"
+        ],
+        [
+            "de nos tres-ers &amp; bien-amez les Preuoſt des Mar¬",
+            "chands &amp; Eſcheuins de noſtre bonne Ville de Pars, &amp;",
+            "tous autres nos Subijets intereſſez aux Rentes de l’Hſtel",
+            "de ladite Ville, tu ayes aà̀ mettre en execution l’Arreſt ce",
+            "jourd’huy par Nous donné en noſtre Conſeil d’Eſtat,",
+            "cy-attaché ſous le contre-ſcel de noſtre Chancellerie,",
+            "&amp; aà faire pour cét effet les exploicts &amp; les ſignifications",
+            "qui ſeront neceſſaires, ſans demander placet, ny parea¬",
+            "ts; de ce faire te donnons pouuoir, commiſſion &amp;",
+            "mandement ſpecial parces preſentes. Car tel eſt noſtre",
+            "plaiſir. DONNE à Saumeur le ſeizieſme Fevrier mil",
+            "ſix cens cinquante-deux. Et de noſtre Regne le neufieſ¬",
+            "me. Signé LOVIS. Et plus bas, par le Roy DE",
+            "GvnnGAvD. Et ſcelleé.",
+            "Collarionné.",
+            "A PARIS, De l’Imprimerie de",
+            "PIERRE ROCOLET."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11"
+    ]
+}

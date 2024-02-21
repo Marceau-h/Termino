@@ -1,0 +1,180 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": true,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-14",
+            "@who": "AB"
+        },
+        "titre": "Lettre de monseigneur le prince de Condé au cardinal\n          Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121209573",
+            "@source": "Moreau",
+            "@role": "speaker",
+            "persName": {
+                "forename": "Louis de Bourbon",
+                "surname": "Condé"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1652-01-15",
+                "#text": "mi-janvier 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DE MONSEIGNEVR",
+            "LE PRINCE",
+            "DE",
+            "CONDE",
+            "ESCRITE AV C. MAZARIN.",
+            "Ixoute la coppie Imprimée Bordeaux.",
+            "M. DC. LII."
+        ],
+        [
+            "3",
+            "LETTRE",
+            "LE PRINCE",
+            "DE",
+            "CONDE",
+            "M",
+            "que opendure de on",
+            "eile eieuee",
+            "A ij"
+        ],
+        [
+            "4",
+            "eſté touſiours deſaduantageux, pour¬",
+            "tant la tyrannie ſeule que vous auez",
+            "exercé contre tout le peuple Fran¬",
+            "çois m’a fait armer pour m’oppoſer",
+            "a voſtre retour, puis que tout ſeroit",
+            "perdu ſi vous gouuernies, &amp; ſi vous",
+            "vous faiſiez paſſer pour le pillier de",
+            "la France, comme vous auez eſté au¬",
+            "trefois. Vous voicy de retour ſous",
+            "ombre des volontez du Roy, vous",
+            "auez des troupes aguerries: mais ſou¬",
+            "uenez vous que ſi le ſang des plus fi¬",
+            "delles qui ſont auec moy, &amp; quiont",
+            "abandonné leur deſtructeur eſt reſ¬",
+            "pandu pour ſatisfaire à voſtre ambi¬",
+            "tion. Ce ſera auec gloire, &amp; il ne",
+            "vous en couſtera rien moins que",
+            "voſtre teſte. Ie ſuis marry de vous",
+            "l’annoncer, &amp; les cœurs genereux ne",
+            "ſe glorifient pas auant le combat; la",
+            "iuſtice de ma cauſe m’authoriſe de",
+            "telle façon que ie me crois victorieux",
+            "au"
+        ],
+        [
+            "5",
+            "au premier choc pourueu que vous",
+            "y ſoyez;, ie louë Dieu le Souuerain",
+            "Autheur de toutes choſes de ce qu’il",
+            "liure le Iudas des peuples à ceux qui",
+            "ont plus de ſujet de ſe plaindre, &amp; ie",
+            "me contente de mourir pourueu",
+            "que par voſtre mort i’aye reſtably la",
+            "liberté́ publique, &amp; la tranquilité",
+            "de l’Eſtat. Vous vous mocquez des",
+            "Arreſts ſouuerains, vous vous rie2",
+            "de la maiſon Royalle, vous faits",
+            "enfin voſtre iouet de toute la N¬",
+            "bleſſe: ſi vous auez quelque deſeg¬",
+            "teurs de patri, ce n’oſe que l’in¬",
+            "reſt, ouvos promeſſes qui les y por¬",
+            "tent voſtre credit eſt abattu, &amp; ie",
+            "pretends en nouueau Moyſedetra¬",
+            "euerſe les riuieres à pied ſec, fendre",
+            "depmoneagnes, &amp; vaincr ſansdon¬",
+            "det hataille, uiſque, Dieu, eſt laſsé",
+            "adoabus queoS deordon nt",
+            "oſé., Voſtre naiſsanee voſts",
+            "B"
+        ],
+        [
+            "rite, voſtre fortune, vos actions,",
+            "vosvictoires, &amp; vos ſuccez ſont, ou",
+            "illegitimes, ou vils ou temeraires:",
+            "car ſi l’on conſidere voſtre naiſsance,",
+            "elle eſt eſtrangere &amp; de fort bas lieu,",
+            "voſtre merite ne peut pas colorer",
+            "vos meſchanceez puiſque vos a¬",
+            "Ctions n’ont eſté iuſqu’à preſent in¬",
+            "iuſtes, voſtre fortune n’eſt que pour",
+            "vous accuſer d’ingratitude de nma¬",
+            "uoir pas vſé du miniſtere ſelon l’e¬",
+            "quité, &amp; vos ſuccez, &amp; vos victoires",
+            "a’ont eſts qu’au preiudice de laCou¬",
+            "Fenne. C’eſt ce qui m’obſige à̀ vous",
+            "eſcrire:car de vous represẽter voſtre",
+            "vie, vousla ſçauez aſsez, &amp; ie ne vois",
+            "que troples troubles, &amp; les malheurs",
+            "dont vous eſtes le motif, deſquels ie",
+            "ne me plains que pour le peuple que",
+            "ie cheris. Ie vous conſeille dohc de",
+            "vous retirer, il ne ſera pas temps loes",
+            "que ie ous auray entrepris, labou."
+        ],
+        [
+            "1¬",
+            "té que i’ay de vous donner cét a duis",
+            "n’eſt autre que puiſque i’ay ſeruy d’in¬",
+            "ſtrument à voſtre maintient, ie me re¬",
+            "pens de la faute, &amp; pour le ſouuenir",
+            "il me faſcheroit de ruiner vos deſseins",
+            "ſiie ne m’y voyois obligé parlaraiſon.",
+            "Si vous continuez dans vos opinia¬",
+            "ſtretez ie vous declare que ie m’aſsu¬",
+            "reray de voſtre perſonne, à celle fin",
+            "que mes ſoldats vous expoſent à̀ la",
+            "teſte des armées cõ̃me Holopherne,",
+            "&amp; ie ne perdray pas vn moment pour",
+            "le ſoulagemẽt de la Prãce, quieſt rui¬",
+            "née de tous coſtez par vos volleries.",
+            "Eſuitez cét orage autrement ie vous",
+            "feray voir que ie ſuis &amp; ſeray iuſ¬",
+            "ques à la derniere goutte de mon",
+            "ſang,",
+            "Voſtre iuſte ennemy,",
+            "Louis de Bourbon."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+    ]
+}

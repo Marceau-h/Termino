@@ -1,0 +1,110 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-30",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant injonction, à tous\n          les sujets du roi, d’obéir à la déclaration du mois de mars dernier, et aux troupes, étant\n          dans l’Anjou et autres lieux, de poser les armes, avec défense de commettre aucuns actes\n          d'hostilité, sous peine d’être déclarés perturbateurs du repos public.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-04-12",
+                "#text": "daté du 12 avril 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "Arreſt de la Cour",
+            "DE PARLEMENT,",
+            "Portant inionction à tous les Subjets du Roy d'obeïr",
+            "à la Declaration du mois de Mars dernier, Et aux",
+            "Troupes eſtans dans l’Anjou &amp; autres lieux, de",
+            "poſer les armes, auec deſenſes de commettre au¬",
+            "cuns actes d'hoſtilité, ſur peine d’eſre declarez",
+            "perturbateurs du repos public.",
+            "Du 12. Auril 1649.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordin. du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "EXTRAICT",
+            "DES REGISTRES",
+            "DE PARLEMENT.",
+            "CE iour, ſur ce que les Gens duRoy",
+            "ont remonſtre à la Cour, Qu’enco¬",
+            "&amp; re qus lu Dedinuionduir diei¬",
+            "gneur, verifiée en ladite Cour le",
+            "premier de ce mois &amp; an, ayteſté enuoyé́e, à",
+            "la diligence du Procureur General aux Bail¬",
+            "liages &amp; Sieges du reſſort, &amp; executée en plu¬",
+            "ſieurs endroits; Neantmoius en Anjou &amp;",
+            "quelques autres lieux, les Couriers chargez",
+            "des dépeſches de ladite Declaration, ont eſté.",
+            "retenus, de ſorte que pluieurs ſont encores",
+            "en armes &amp; commettent des actes d’hoſtilité",
+            "contre l’authorité du Roy; Ce qui trouble le",
+            "repos &amp; la tranquillité publique: Requerans",
+            "yeſtre pourueu Lamatiere mſe en de libera¬",
+            "tion: LADITE COVR a enjoint à tous.",
+            "les Subjets du Roy d’ober à ladite Decla¬"
+        ],
+        [
+            "4",
+            "ration &amp; Arreſt de verification; Et ſuiuant",
+            "iceux, inceſſamment poſer les armes: Fait",
+            "tres-expreſſes inhibitions &amp; defenſes à̀ toutes",
+            "perſonnes de quelque qualité́ &amp; condition",
+            "qu’ils ſoient, de comettre aucuns actes",
+            "d’hoſtilité. à peine d’eſtre declarez pertur¬",
+            "bateurs du repos public. Enjoint auſſi aur",
+            "Oſficiers du Roy, Mairé &amp; Eſcheuins des Vil¬",
+            "les, tenir là main à l’execution dé ladite De¬",
+            "claration &amp; du preſentArreſt. FAICT en",
+            "Parlement le douazieme Auril mil ſix cens",
+            "quarente-neuf. Signé, DV TILLET.",
+            "Collationné à l’original par moy Conſeiller Secre",
+            "taire du Roy &amp;de ſes Finances."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4"
+    ]
+}

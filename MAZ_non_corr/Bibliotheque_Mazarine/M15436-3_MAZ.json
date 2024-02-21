@@ -1,0 +1,160 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Léopold-Guillaume (1614-1662 ; archiduc d'Autriche)",
+            "Accords de Saint-Germain (1649)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-03",
+            "@who": "AB"
+        },
+        "titre": "Lettre du Roy, escrite a monseigneur le marquis de\n          Sourdis, gouverneur d'Orleans, &c. Touchant les particularitez de la paix concluë\n          & arrestée, & la marche de l'armée de l'archiduc Leopold.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "persName": "Louis XIV"
+        },
+        "pubDate": {
+            "@source": "Mazarine",
+            "@when": "1649-04-02",
+            "#text": "2 avril 1649"
+        },
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2989317",
+            "#text": "Orléans"
+        },
+        "publisher": {
+            "@ref": "isni:0000000364426759",
+            "@xml:id": "IL_HototGilles.xml",
+            "persName": {
+                "forename": "Gilles",
+                "surname": "Hotot"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DV ROY,",
+            "ESCRITE A MONSEIGNEVR",
+            "LE MARQVIS",
+            "DE SOVRDIS,",
+            "Gouuerneur d’Orleans, &amp;c.",
+            "Touchant les particularitez de la Paix",
+            "concluë &amp; arreſtée, &amp; la marche de",
+            "l’Armeé́e de l’Archiduc Leopold.",
+            "A ORLEANS,",
+            "Par GILLES HOTOT, Imprimeur ordinaire du Roy.",
+            "de Monſeigneur le Gouuerneur &amp; de la Ville.",
+            "Auec Permiſſion dudit Seigneur, &amp; defenſes à autres",
+            "de l’imprimer. 1649.",
+            "1"
+        ],
+        [
+            "Lettre du Roy du 2. Auril 9 eſcrite aà onſeigneurl",
+            "Marquis de Sourdis.",
+            "ONS IEVR le Marquis de Sourdis, Par na",
+            "epeſche du . Mars dernier, ie vous auois fait",
+            "ſçauor comme en ſuitte de la conferance que",
+            "lL que i’auois trouué bon eſtre ten ue à Ruel ſurla",
+            "ceſſation des mouuemens preſens, il auoit eſté",
+            "arreſte le 1. dudit mois des artieles par leſquels il eſtoie",
+            "pourueu à toutes les choſes qui auoient eſté àgitées en la¬",
+            "dire conference dés lors que ma Courde Parlſemént de Paris",
+            "ent connoiſſance dudit traitté, elle l’accepta, mais au meſ¬",
+            "e temps elle renuoya vers moy les deputez qui auoient",
+            "aſſiſte à̀ ladire conference pour me faire des remonſranmces",
+            "lur aucuns points qui-la concernoient, &amp; pour faire que les",
+            "ooles qui regardoient les Princes &amp; ceux qui auoient pris",
+            "les arme en eete oecaſon fuſent pattieulierement expni¬",
+            "quées, ſuroquoy, ayant trouué bon d’accorderà ladire Cour",
+            "rout e qui a eſté poſſible ſur les inſtances qu’elle m’a faires",
+            "pour ce qui la touche, comme auſſi d’accorder auſdits Pin¬",
+            "es tout ce qui a eſté failable pour leurs intereſts, ſans cau¬",
+            "ſer vn preiudice trop notahlé à mon Eſtat, &amp;en ayant fait",
+            "erpedier vne De clairation du mois de Mars dernier, la quei",
+            "le i’enuoiay auſieſt à madite Cour de Parlerment, ll,",
+            "fut hier leue &amp; regiſtrée du communconlenremant de to.",
+            "te la compagnie, &amp; ſans qu’aueun ait donné ſon ſoſfrage au",
+            "contraire, ma Cour de Parlement de Rouen &amp; les autres",
+            "Cours Souueraines de ma Prouince de Normandle, mon",
+            "Couſin le Prince de Conty, mon Couſn le Duc de Lon¬",
+            "gueuille &amp; les autres Chefs qui auoient pris les armes à Pa¬",
+            "ris, en Normandie &amp; ailleurs ont auſſi accepté ledit traitré:",
+            "de ſorte que ma bonne ville de Paris eſt à preſent dans a",
+            "ee",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        [
+            "11",
+            "1",
+            "1",
+            "3",
+            "11",
+            "1",
+            "1",
+            "1",
+            "1.",
+            "1",
+            "1",
+            "4.",
+            "meſme tranquilit, ſoumiſſios &amp; obeiſſance à mes conmman¬",
+            "demens qu’elle aſtoit auanece trouble, &amp; lesgendoguer",
+            "re qu auoient eſe leuer a Paris &amp; eN onmandie vont ſer¬",
+            "ura orifier notablement mes armees leſquelles ie pourey",
+            "aure maher au premier iour contre l’Achidue ſi ee net",
+            "qu’ayant deſia ecomnmence à nire retireraſen auansene l",
+            "Ponuere r’auantgaroe de ſon armée qui eſtoie eoue dan",
+            "e r ouaume ile faite reiondre ns coipn lo alil uralt",
+            "ueies le reſet dee e ae onnodenene dumuelil",
+            "ler doir e loe ons l lanule de lore uie lenn!",
+            "e eſer de unrenſ anieli e reſt bt nes c ounres pe e eie,",
+            "nel reenp onrle euleone punsreilenre oine e",
+            "po e eie e e e at ole ne doinene les nan a l pe",
+            "’enerie e ur a unelie e li ie onre len inlrn en ne",
+            "prie nune e in ee eon uir ir n lienoi le Depunre de",
+            "le e e en onne le ennouenu pour e arer Ce qnue le",
+            "i oulu pl l’a uis dle la eine egere ldadine ſo",
+            "’ere rou ſie ſepuoit par ceue lere, &amp; eſnre e",
+            "uose eonoie de ladite beiaaron fin rne oun es",
+            "pne e ie e ue le rnen oient eune ene e e",
+            "e e oie peudn dui e noun en ne inon ne eſer er",
+            "pne eu e e rne eie doie nlle de duninuer oſte aſe",
+            "un e u ie oeus &amp; nluieuee lemnn lernie le le ero",
+            "leoer ue eunnenioie e ennidunre noneſiene",
+            "e ouen le en eonlre ooueoi , e e ous ſe ir oue e oe",
+            "e e loieu uos lerſdens e ouiure onoe eonelnen ereun",
+            "elue eſrlua ou eire ilioaoeaoe e ls prelenreile ten",
+            "rle un le ſne nueueoi nnsni loien dle enre",
+            "a’ests, e ſa ainee carde eſere a s oeruuin e",
+            "Laye le deuiéme iourd’Auril49.",
+            "LOVYS.",
+            "Dsc E Av.",
+            "nulupſuul ueqa tsnousl",
+            "eel ſe ai ’es nun, Con lit det, ooamnan dt n",
+            "er es olr un u pos dcorlun, nlalui, drmi.",
+            "Vendon ois &amp; Chartrain."
+        ]
+    ],
+    "pages_number": [
+        "7",
+        "9",
+        "10"
+    ]
+}

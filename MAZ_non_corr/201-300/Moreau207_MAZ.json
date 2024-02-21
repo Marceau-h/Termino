@@ -1,0 +1,106 @@
+{
+    "imprimatur": "AVEC PRIVILEGE DE SA MAJESTÉ",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Aliments – Approvisionnement",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, les chambres assemblées,\n          le 27 23 septembre 1648",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1648",
+                "#text": "1648"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1648-09-23",
+                "#text": "daté du 23 septembre 1648"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST DE",
+            "la Cour de Parlement,",
+            "les Chambres aſſem¬",
+            "blées, le 23. Septembre",
+            "1648.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires or¬",
+            "dinaires du Roy.",
+            "M. DC. XLVIII.",
+            "AVEC PRIVILEGE DE SA MAJESTÉ."
+        ],
+        [
+            "EXTRAICT DES REGISTRES",
+            "CE jour la Cour, toutes les",
+            "Chambres aſſembes ayant",
+            "deliberé ſur l’Arreſt du Con¬",
+            "ſeil du jour d’hier, &amp; Commiſſion ſur",
+            "iceluy apportée par les Gens du Roy,",
+            "Et veu leurs concluſions:A ESTE",
+            "arreſté que tres-humbles remonſtran¬",
+            "ces par eſcrit ſeront faites au Roy &amp; à",
+            "la Reyne Régente, &amp; que la delibera¬",
+            "tion commencée le jour d’hier, ſera",
+            "continüée demain. Cependant en¬",
+            "joint aux Preuoſt des Marchans &amp;",
+            "Eſcheuins de cette Ville, donner or¬",
+            "dre à la ſeureté d’icelle: Et à tous Gou¬",
+            "verneurs, Capitaines, Maires &amp; Eſche¬",
+            "uins des Villes, Ponts, Ports &amp; paſſages"
+        ],
+        [
+            "ll",
+            "des environs, de laiſſer paſſer libre¬",
+            "ment les viures &amp; danrées qui ſeront",
+            "deſtinées pour apporter enicelle: Leur",
+            "fait tres-expreſſes inhibitions &amp; défen",
+            "ſes, &amp;à toutes perſõnes de l’empeſcher,",
+            "à peine d’en reſpondre en leurs noms.",
+            "Et ſera le preſent Arreſt à la dligence",
+            "du Procureur General, enuoyé par",
+            "toutes les Villes &amp; lieux où beſoin ſera.",
+            "Enjoint à tous Officiers du Roy de",
+            "tenir la main à l’execution d’iceluy.",
+            "e e ie l auenl inenoaiunel",
+            "Septembre 1648. Signé, GVYET.",
+            "Collationné à l’Original par moy Conſeiller,",
+            "Secreraire du Roy &amp; de ſes Financer."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
+    ]
+}

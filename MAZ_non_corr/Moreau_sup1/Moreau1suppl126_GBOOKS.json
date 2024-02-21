@@ -1,0 +1,180 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "récit",
+            "éloge"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-09",
+            "@who": "KA"
+        },
+        "titre": "Heureuse (l') et triomphante arrivée de monsieur le\n          Prince dans la ville de Paris",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Moreau",
+                "@notBefore": "1652-04-07",
+                "#text": "Après la bataille de Bléneau, le 7 avril\n            1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000360431147",
+            "@xml:id": "IL_ClementPhilippe.xml",
+            "persName": {
+                "forename": "Clement",
+                "surname": "Philippe"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "L’HEVREVSE ET",
+            "TRIOMPHANTE",
+            "ARRIVEE DE MONSIEVR",
+            "LE PRINCE",
+            "DANS LA VILLE",
+            "DE PARIS",
+            "A PARIS",
+            "Chez Philippes Clement, ruë des Foſſze.",
+            "M. DC. LII."
+        ],
+        [
+            "3",
+            "pAne",
+            "Seeie",
+            "pé",
+            "L’HEVREVSE ET",
+            "r Y",
+            "TRIOMPHANTE",
+            "ARRIVEE DE mMONSiEvR",
+            "LE PRINCE",
+            "DANS LA VILLE DE",
+            "Paris.",
+            "TE ne doubre paint que les Bourçeois de Paris,",
+            "lne ſoient ſurprins d’eſtonnement, ou pluftot",
+            "que la jeye n’occuppe d’abord toutes les facultesx",
+            "de leur ame entendant que celuy qui leur a gaigad",
+            "des Vioires, vient luy- meſme en peſonne pour",
+            "leur en faire le recir. Les ennemis de ce Eat,",
+            "auoient fait ſemé le bruit par leurs Emiſſaires, quil",
+            "n’y aoorpoin eu de Combat. Et ſi l’on ne ſcauoi",
+            "que c’eſt vne ruſe commune deCour, de couurir les",
+            ".. 2."
+        ],
+        [
+            ". ,¬ .,",
+            "? 4",
+            "deſaduaneages du parry Maea’, pluſieus ſe",
+            "ſerirpetſaadepue les ohſſaies dlaa¬",
+            "ta, - vouh fiaie eeore ’aauoter ’ dy a n",
+            "qu’vne legere eſcarmouche &amp; que du coſteé du Ma¬",
+            "arin, il n’y eſt doodeſtd-qule&amp; buit hommes",
+            "nlapçr n’eſt que ogcapeyfçpr lbl",
+            "ſueslu û dIendurs -Coarſers qu",
+            "ſont yenus les vyns apjeslyqures, E,qui ny con¬",
+            "rmélſi dedſaite dlaefehat d’oequidcour, les",
+            "pattiulatez-ea Btaille, laiſte desmors &amp;",
+            "blelſis, ledondde dprifonnersont eſtonné ſous",
+            "les Partiſans Et il ny a queles ncredesqu puiſ¬",
+            "ſent reuoquel’eni doute vne i eſelattaate Nou¬",
+            "uelle.",
+            "Monſieur le Prince ayant paru infatigable",
+            "dans toute ſa condutte, apeee auoir donné la",
+            "hiafſe à ſes Ennemis, &amp; laiſſé quatre mille Ma¬",
+            "rihs ſur’la Place, a voulu venir en perſonne",
+            "pour pattager ſa joye, ou phſtoſt pour la redou¬",
+            "bter aaee ſbn Alt. Royalſe, &amp; tous les Bourgeois",
+            "de aris. Il enuoya hier leudy vn Courrier pous",
+            "aduertlr ſon Alteſſe Royalle de ſes pproehes le.¬",
+            "quil atriua vue heure apresMidy, daas eLuxeme",
+            "Boarg. Son Alteſſe n’euſt pas plutoſt apris la",
+            "RNouuelle de: cette approche qu’il commanda",
+            "d’attre¬"
+        ],
+        [
+            "d’atreller ſon Caroſſe. Et qu’il vouſoit luy aller au",
+            "deuant. La joye parut ſi grande ſu ſon viſage qu’il’",
+            "en eſtoit tout tranſ orté d’aiſe deſlore. Son eœut",
+            "ſut ccmme dans vne inquieude. Le plaiſis de cete.",
+            "entreueuë tant deſiré c ommenca a poſſeder cete",
+            "grande me. Et ie rearquay qu qelque gra¬",
+            "uité qu’il y ait dans toutes ſes atſons, neanmoins",
+            "la joye vouloit eſtte laaiſtreſſe &amp; tous les moméẽs",
+            "luy eſtoient de-ja des longueure, &amp; preuoyant que",
+            "le mouument du Caeoſſe ne ſe onderoit pas ee¬",
+            "luy de ſoncœur, il demanda vn Cheual pour",
+            "joüyr pluſtoſt des accollades&amp; des ambraſſadasde",
+            "noſtre Peince Vitorieux. Il partit done a deux",
+            "heures, auec grand nombre de Nobleſſe, oaroiſ¬",
+            "ſat ſumſoss healolane, aue vne Mjeûlé veri¬",
+            "rablement Royalle,&amp; i vous aſſeuare que l voyanm",
+            "en certe eſquipage, ie pleuray de joye &amp; eroyois.",
+            "en le vdyant, Voir le Pere du Peuple Romain,",
+            "aſauoir Trajan, Tel que Pline nous le depaint",
+            "daus la viguenusr, &amp; foree de ſon aage faiſnt pa¬",
+            "rolſtreſur ſon Viſage toutes les vertuas qul ſont ?e¬",
+            "quifes,pour eommander. Si ſon Alteſſe eut peu",
+            "enprunser le Char duSoleil pour ſe tranſpoftor éû",
+            "moins d’vn morment, au lieu u eftoit oſtr",
+            "rionhateur, ils l’autoit ftit neantnoins dan"
+        ],
+        [
+            "peu heures, ilsarriua au deuant du Prinees vers",
+            "Lonjumeaux. De voux exprier les accollades &amp;.",
+            "les ambraſfades de ſes deux gran ls Princes. Cela",
+            "ſurpaſſe mes forces, ie ne vous diray ſinon que ce",
+            "grandes Ames parurent ſi ſatis-faites, que touto",
+            "l’aſſiſtance pleura de joye, &amp; fut rauie de leurs",
+            "contentements. Delà eſtant venus au ſoir à Paris,",
+            "dans le meſime Carroſſe. Ils furent receus d’vn",
+            "nombre infiny de Populace qui aecourut à la",
+            "nouuelle de cetrte arriuée. Paris doit teſmoigner",
+            "aujourd huy, que ce iour doit eſtre mis parmy",
+            "ſes faſtes, &amp; vn chacun de nous peut dire comrme",
+            "cétHebrieu, lequel ayant apris laderoutte des en¬",
+            "nmis du Peuple da Dieu, diſoit que c’eſtoit vn",
+            "iour de bonne uuuelt, l lne ſeroit vn",
+            "crime, hac dies boni -munty ſi tacueri mus feler",
+            "rguesur. Diſons donc que les Pariſiens doiuent",
+            "auiourd’huy remercier premierement le Deu des",
+            "Armées &amp; des Batailles, pour l’heureux ſuccez de",
+            "la Vitoire que Monſeigneur le Prince à emporté",
+            "ſue l’ennmy de l’Eſtat, qu’ils doiuent en faire des",
+            "vœuR pour la conſeruation de ſon Alteſſe Royalle",
+            "&amp; de Monſeigneur le Prince, qu’ilsdoiuent renou¬",
+            "eller; leurs yvœux &amp; faire de souuelles proteſta¬",
+            "tiosde viure &amp; de moarir put leur ſeruice. Et"
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6"
+    ]
+}

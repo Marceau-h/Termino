@@ -1,0 +1,131 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-09",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Bordeaux contre le\n          cardinal Mazarin , portant qu’il videra le royaume dans huitaine.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-02-16",
+                "#text": "mention de publication le 16 février\n            1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000367213580",
+            "@xml:id": "IL_SassierGuillaume.xml",
+            "persName": {
+                "forename": "Guillaume",
+                "surname": "Sassier"
+            }
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR DE",
+            "Parlement de Bordeaux,",
+            "contre le Cardinal Maza¬",
+            "rin, portant qu’il vuidera le",
+            "Royaume dans huictaine.",
+            "EXTRAICT DES REGISTRESDE",
+            "la Cour de Parlement.",
+            "CE jour la Ccour le Chambres aſem",
+            "blées, deliberant ſur la Lettre qui",
+            "eins n eie enun u uſ ai e ns us ue",
+            "ea&amp; leleunr de pa is, a ſou eie i p epu",
+            "ez de ladite Cour, qui ſont pres de leurs Maje¬",
+            "ſtez, lecture faite des Arreſts dudit Parlenent,",
+            "des 4 7 &amp; p. du preſent mois; Et oüys ſur ce les",
+            "anma"
+        ],
+        [
+            "2",
+            "Gens du Roy, A OR o’&amp; ordonne, Que’",
+            "le Roy &amp; la Reyne Regente ſeront tres-humble¬",
+            "ment remerciez par ſes Deputez de l’éloigne¬",
+            "mentdu Cardinal Màzarin, ſans eſperance de re¬",
+            "tour, ſuiuant la Declararion qui a eſté portéée au¬",
+            "dit Parlement de Paris. Et en conſequence, en¬",
+            "joint audit Cardinal Mazarin, à ſes Parens &amp; Do¬",
+            "meſti ques eſtrangers de vuider le Royaume dans",
+            "huiCtaie. Fit inhibitrons &amp; deffences à̀ tous les",
+            "Gouuerneurs &amp; Capitaines des Places, Maires,",
+            "Eſcheuins, Conſuls &amp; Iurats des Villes duReſort,",
+            "de leur douneraucune retraite, ayde, ny faueur;",
+            "Et apres la huictaine paſſ́e, leu perimet d’aſſem¬",
+            "let les Communes pour leur courir fus. Ordon¬",
+            "ń cn outre que par les meſmes Deputez leurs",
+            "Mae ſtez ſeront tres humblement ſupliées d e",
+            "ure à l’aduenir des Conſeils du Roy tous Eſtra¬",
+            "gers, meſmes ceux qui ſont nàruraliſez &amp; gous",
+            "utres, ayant ſerment à autre Prince qu’ax Ry,",
+            "d’en ſaire erpedier la Declaratons pour eſtre",
+            "enuoyee a ſon parlement, afin qu’elley ſoitpu¬",
+            "ulie&amp; enregpree nmme me oy nuolable,",
+            "a laquele il ne ſoit point conreuenu Et ſete le",
+            "peſent ſreltanehe, leu &amp; publiéaſonde Tte",
+            "e puan les Canmon ee oudoae de pſene",
+            "fe &amp; enuoyéaux Bailliages, Senechauſſées &amp;",
+            "I",
+            "1."
+        ],
+        [
+            ".",
+            "5",
+            "Sieges du Reſſort, pour y eſtre pareillement le,",
+            "publié &amp; executé à la Requeſte du Procureur",
+            "General du Roy, &amp; diligence de ſes Subſtituts¬",
+            "Fair à Bordeaux en Parle ment les Chambres aſ¬",
+            "ſembleées le 15. jour de Fevrier mil ſix cens cin¬",
+            "quante vn. Signé SVAV.",
+            "J E ſeiiéme Fvrier, mil ſix cens cinquante",
+            "LL&amp; vn, l’Arreſt de la Cour y deſſu a ſt́",
+            "Nous HPuiſßier en ladite Cour, aſßiſte de Maiſtre",
+            "Iean Riuiere mon Collegue, auß Huißier en ladite",
+            "Cour, du Capitaine du Guet&amp; des Archersde ladite",
+            "Ville, leu &amp; publié à ſon de Trompe par les Cantons",
+            "&amp; Carrefours accouſtumez de cette Vile, aux fins",
+            "qu’il ſoit notoire à cvn châcun, &amp; que perſonnme n’en",
+            "prerende câuſe d’ignorance. Fait à Bordeaux le jour,",
+            "mois &amp; an que deſſus. Signé, MAZERAN.",
+            "A PARIS, Ches Guillaume Saſier, Imprlmeur &amp; Libraire or",
+            "dinaire du Roy, ruë des Cordiers, proche la Sorbonne, aux",
+            "deux Tourterelles."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11"
+    ]
+}

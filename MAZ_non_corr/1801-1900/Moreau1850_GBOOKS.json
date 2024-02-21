@@ -1,0 +1,125 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "Lettre",
+            "Astrologie"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-26",
+            "@who": "AB"
+        },
+        "titre": "Lettre d'un astrologue à monseigneur le duc de\n          Longueville sur l'heureuse naissance du prince son fils, et les remercîments de\n          l'État.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1649-01-29",
+                "#text": "Le fils du duc de Longueville est né le 29\n            janvier 1649."
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "1",
+            "LETTRE D'VN ASTROLOGVE",
+            "à Monſeigneur le Duc de Longueuille,",
+            "Sur l’heureuſe naiſſance dus Prince ſon fils, &amp; les",
+            "Remuemens de l’Eſtat.",
+            "MONSEIGNEVR,",
+            "Les œuures du Tout-puiſſant ayant eu pour",
+            "meſure ſa volonté, nous obligent continuelle¬",
+            "ment à l’admiration de ſa ſageſſe: &amp; comme tou¬",
+            "tes ont leurs aduantages &amp; leurs bornes, il nefaut pas s’eſton¬",
+            "ner ſi l’homme par les lumieres qui luy ont eſté liberalement",
+            "données, taſche d’obſeruer leurs ptogrez &amp; leur décadence.",
+            "Ainſi le Medecin a trouueé la proprieté des ſimples, &amp; les acci¬",
+            "dens de la nature; le Marinier l’vſage de la bouſſole, &amp; la",
+            "cognoiſſance de la diuerſité des vents; l’Alchimiſte les ſels &amp;",
+            "les mutations metaliques, &amp; l’Aſtrologue trouue dans les",
+            "cours des Aſtres la bonne ou mauuaiſe fortune des microcoſ¬",
+            "mes, mais auec cette condition que c’eſt ſous le bon plaifir de",
+            "celuy à̀ qui tourobeït. Le grand ſainct Denys Areopagite ne",
+            "voyat point d’où pouuoit proceder cette eclipſe du Soleil qui",
+            "parut à la mort du Sauueur, refera à vne cauſe ſuprême ce que",
+            "la ſeience ne ſçauoit luy apprendre. Lesprodiges ne nous ex¬",
+            "priment pas touſiours la qualité des choſes ſurnaturelles, mais",
+            "elles nous donnent deés indices pour en coniecturer quelques",
+            "euenemens Monse c EvrR, voſtre Alteſſe ſçait que",
+            "les naiuiez des Grandsſont accompagnées des ſignes qui en",
+            ". 7"
+        ],
+        [
+            "font cognoiſtre la conduite: mais cette ſcience a eſté décredi¬",
+            "tée par vn tasde Charlatans à qul’ignorance &amp; l’effronterie",
+            "donne paſſeport à leurs impertinentes reſveries. De moy,",
+            "MosSE IGBvVR, qui né pretends ny lucre ny loüange, ie",
+            "me contente d’aſſeurer voſtre Altoſſe que le Prince Paris ſera",
+            "doüé́ de toures les graces qu’on peut ſouhaiter à vn grand",
+            "perſonnage; il ſera beau par excellence, vn eſprit plein de feu",
+            "&amp; de fermeté, vn iugement iudicieux d’vne conception",
+            "prompte, &amp; d’vne execution tres-vigoureuſe, heureux aux",
+            "armes, &amp; grandement porté́ à l’eſtude des lettress il ſera grand",
+            "Politique, aimé du peuple, &amp; recherché des pays eſloignez",
+            "pour eſtre vn Roy électif: mais l’amour qu’il aura pour ſa",
+            "chere Parrie, balancera lI’acquiſirion d’vne Couronne eſtran¬",
+            "gere. Voila, Mosicv, ce que i’ay creu deuoir",
+            "annoncer à voſtre Alteſſe auec les eſperances Françoiſes ſur",
+            "voſtre cœur genereux &amp; loyal; ie penſe auſſi que dans peu, pan",
+            "voſtre conduite, le monde changera ces triſtes exclamations",
+            "en des hants de lieſſe: ce Prince dont nous reuerons la naiſ¬",
+            "ſance, eſt vne preuue &amp; vn commencement des ſoins que",
+            "Dieu prend de ſon peuple, &amp; voſtre Alteſſe toute dans la ioye",
+            "de cette heureuſe naiſſance, procurera la paix &amp; le repos à vne",
+            "nation à domy exuerminée: il a fait vn long &amp; penible voya¬",
+            "ge à cet effect, mais l’heure n’eſtant pas venuë, nous ne deuioõs",
+            "pretendre de ioye qu’apres le plein de la voſtre. Cette belle &amp;",
+            "illuſtre Princeſſe duſng de aos Rois, comme elle eſt la che¬",
+            "re moitié́de voſtre accomplie peſonne, agira auſfi pour les",
+            "accommodemens des troubles de l’Eſtat: Dieu veut que ſa",
+            "haute vertu reçoiue en falaire la paix, où elle portera les ames",
+            "deſ. vnies, &amp; bien toſt apresles gtandeurs de cet Eſtatremiſes,",
+            "vne autre groſſeſſe nous donnesaſajet de benir cette fetondi¬",
+            "... a a¬a,a 2"
+        ],
+        [
+            "té bien aimée; iamais les cœurs des Pariſiens ne ſe deſ-vniront",
+            "des intereſts de voſtre Maiſon, &amp; Dieu vous comblera de tant",
+            "de benedictions, que voſtre Alteſſe verra que ſa vertu eſt l’a¬",
+            "gent d’vne gloire inexplicable, ie paſſeray plus auant dans",
+            "cette belle carriere, lors que ſans encourir le blaſme d’artifi¬",
+            "cieux, ie pourray me qualifier du tiltre du plus fidele &amp; paſ¬",
+            "ſionné ſeruiteur, que voſtre Alteſſe peut honorer de ſes",
+            "agreemens aduantageux &amp; fauorables."
+        ]
+    ],
+    "pages_number": [
+        "5",
+        "6",
+        "7"
+    ]
+}

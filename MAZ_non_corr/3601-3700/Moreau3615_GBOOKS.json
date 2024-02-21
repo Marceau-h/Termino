@@ -1,0 +1,141 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-06-13",
+            "@who": "ZC"
+        },
+        "titre": "Seconde lettre des députés du Parlement à nos seigneurs\n          de la cour, touchant l'audience qu'ils ont eue du roi à Saint-Denys, le 15 juillet 1652,\n          et la réponse de Sa Majesté.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1652-07-16",
+                "#text": "Signée du 16 juillet 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
+            "persName": {
+                "forename": "Jacob",
+                "surname": "Chevalier"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "SECONDE",
+            "LETTRE",
+            "DES DEPVTEZ",
+            "DV PARLEMENT",
+            "A NOSSEIGNEVRS",
+            "DE LA COVR.",
+            "TOVCHANT L'AVDIANCE QV'ILS ONT EVE",
+            "du Roy à Saint Denis, le 15. Iuillet 1652.",
+            "Et la reponſe de ſa Majeſté.",
+            "A PARIS,",
+            "Chez IACOB CHEVALIER prés Saint Iean",
+            "de Latran.",
+            "M. DC. LII."
+        ],
+        [
+            "MESSIEVRS,",
+            "Her ̀ huit heures du ſoir Monſieur le Garde des",
+            "Seaux nous conſiduiſit aupres du Roy, auquel nous fiſ¬",
+            "mes enendre les deſordres de ſon Royaume,la iler",
+            "de ſës peuples, x ſur tout Ies incommaodirez que ſa bon¬",
+            "ne ville de Paris ſouff-uoit de ceux. l̀ meſme qui de¬",
+            "uroient la deffcndre &amp; la proteger comme leur. propre",
+            "bien, &amp; le ſiege de leur grandcur, pour ne pas vuus",
+            "repeter le deral de pluſieurs raiſors preſſ nres que nous",
+            "miſmes en auant pour toucher l’homaniré d’vn bon",
+            "Roy, &amp; la compaſſion d’vne Re yne mere qui peut rou;",
+            "aupres de luy, nous filmes tous nos efforts pour faire",
+            "conneſtre à Sa Majeſté, que le remee à tant de maux,",
+            "&amp; la fin certaine de tant d’abminations ſe pouuoir iou¬",
+            "ner dans le ſeul eſloignemét du Cardinal a2iii qti",
+            "eſtant odicux à tout le monde pour’ſa inau uarſe cendit¬",
+            "re, s’eſt encore rendu inſupporabhle depuis la Dec’at a¬",
+            "tion qui le prononce crimine , &amp; qui le fais auheut",
+            "des malheurs de la Ftance, &amp; du diuorce rigoureux qui",
+            "ſe trouue entre le ſince &amp; fes ſuiets ’Nous ioan¬",
+            "dſmes ibrerrrent l’eecution de cette meſme Parnie,",
+            "&amp; les eff s des paroles Royales de Sa Majeſté ant de",
+            "fos reieté́es pour pouuoir reuünir le pere auc. ler en¬",
+            "fans, &amp; reſtablir l’obeyſſance que ces derers re luy re¬",
+            "fuſeront iaaaais quandi teſm gnera qu’ils luy ſonr plus",
+            "chers &amp; plus conſiderables qu’vn Tyran ſtranger que.",
+            "luy-meſme à̀ condamné &amp; chaſſé d fo Ryaume p",
+            "vne meure dehiberarion. Apres vne attentlr fauorable",
+            "le Roy portant la parole luy meſme nous dit en ces pro¬",
+            "pres ermes, qu’il en communiqueroit auec la Reynr",
+            "A ij"
+        ],
+        [
+            "a Mar, &amp; ſon Conſeil, &amp; qs’endiigeaoe famsp!",
+            "deemp nous feroit entendre ſa -rſolarion ſur cela.",
+            "Ces deffaites &amp; ces longueurs ne ſont que opconm",
+            "munes en cette Cour, &amp; le malade qui l’infecte par ſa",
+            "preſence, &amp; ſes mauuais conſcils, ne taſchant que d’al.¬",
+            "longer &amp; de retarder vne ſepararion qu’il ne peut euiter,",
+            "fait vn dernier effort, u pour s’enſeuclir dedans no",
+            "ruines, ou pour ce vanger de ceu qui ſplaignoen déô",
+            "ſes deſordres, &amp; qui en demandent la reparaton. Le",
+            "deſir ue nous aums que toutes choſes reiſſiſſent au",
+            "contentemeht de tant d’oppreſſez, nous fait eſperer",
+            "ere le Roy prendra reſõlution dc donner ce conteute¬",
+            "ment à ſes ſuicts, &amp; que nous ſerons aſſez heureux de",
+            "vous én porter quelques marques aſſeurées en nous",
+            "rendant aupreé́s de vous demain Dieu ay lant. Eſtant",
+            "vray que ſi le deuoir de nos Charges, &amp; l’affection qui",
+            "hous ttache au ſoulagement de l’Eſtar, n’adouciſſoient",
+            "les-ncommodités extremés que nous ſouffrons, &amp; le",
+            "maudais traittemens que nous receuons au prciudice",
+            "du droit des Gens, &amp; de la foy publique; tres aſſeure¬",
+            "ment nous abandonnerions tout, puiſque nous voyons",
+            "que hoſtre fidelité eſt accuſée de rebellion, que les ſoins",
+            "que nous apportons pour reunir le ſang Roval ſont pris",
+            "pour des ſeditions, que noſtre amour p our le repos de",
+            "la patrie eſt recompeneé de haine &amp; d’indignarion, &amp;",
+            "qu’on eſt aſſez aueugleé́ poul aous charger des troubles",
+            "&amp;des confuſions de celuy que nous condamncns,&amp;",
+            "qui fe doit attendre que des plaintes e quitables &amp; ſans",
+            "areres de",
+            "HESSIEVRS",
+            "3",
+            "Vos treshnmbles, &amp;.",
+            "Sanme a e 16.",
+            "adlet 1652."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4"
+    ]
+}

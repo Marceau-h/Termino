@@ -1,0 +1,152 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-05-16",
+            "@who": "MF"
+        },
+        "titre": "Menace (la) que fait le prince de Condé de sortir du bois\n          de Vincennes.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "MENACE",
+            "QVE FAIT LE",
+            "PRINCE DE CONDE",
+            "de ſortir du Bois de",
+            "Vincennes.",
+            "A PARIS,",
+            "M. DC. L."
+        ],
+        [
+            "peebee8",
+            "lL uaNcE QVE EAT LE PRINCE De",
+            "Condé́ de ſortr da Bois de Vincennes.",
+            "Vy i’en ſortiraymalgré &amp; mors&amp;grille,",
+            "LlVBaftions &amp; canons bien toſt ie ferai gille,",
+            "Beaufort en eſtſorty y laiſſant ſon ehapeau.",
+            "Etmoy ierompray corniche &amp; chiapiteau,",
+            "Raſes &amp; ornemens de ce fort edifice,",
+            "Deuſſe-je expoſer mon corps en ſacrifice.",
+            "Are menace",
+            "é quoi ie me tairay, A Dieu quelle appa¬",
+            "rence,",
+            "lais ſpritne fut foré comme le mien.",
+            "llfautu dénoüer, oudrompre ce lien,.",
+            "Et d’vn dernier effort tenter ma deliurance.",
+            "Ttop de diſcretion m’a mis hors d’eſperance:",
+            "Efnie veux ſç̧auoir ou mon nal ou mon bié",
+            "Etforcer cereſpet qui ne ſert plus de rié",
+            "Que d’vn ſot exerclce à ma peiſeuetanee¬",
+            "Maforce ne veut plus feruir ſilaſchement",
+            "Elleoſtera bien toft ce rode empefchement,"
+        ],
+        [
+            "Rien plus ne me ſçauroit obliger à nme taire",
+            "Quelqu’vn ſe rit d’vn mal que l’õ̃ me voit celer",
+            "Et on dit qu’enſermé ie ne ſçaurois mal faire:",
+            "Vais dans peu l’on verra mon malheur s’exaler",
+            "Autre menace.",
+            "Si i’eſtois dans vn bois pouſuiuy d’vn lyoi,",
+            "Si i’eſtois ſur la mer au fort de la rempeſte¬",
+            "Si les Dieux irritez vouloient preſſer ma teſte",
+            "Du faiſte de l’lympe &amp; dumont Pelion.",
+            "Si ie voyois le iour vit que Deucalion,",
+            "Où la mort ne cuida laiſſer homme ny beſte,",
+            "Si pour me deuorer ie voyois toute preſte",
+            "La rage des flambeaux qui bruſloit llion;",
+            "Ie verrois ces dangers auec oins d’ennuy.",
+            "Que les maux violes que ie ſouffre auiourd’hui",
+            "Pour vn mauuais regard que m’a donné mu",
+            "Ange¬",
+            "Ie voy deſia ſur moy mille foudres pleuuoir",
+            "Des pechez qu’ay permis Dieu contremojſe",
+            "vanee,.",
+            "Depus que ce gtan Roy ’eſt faleh&amp; de pj",
+            "voir,,",
+            ".",
+            "1",
+            "ne,",
+            "¬"
+        ],
+        [
+            "Auire Sonnet.",
+            "Les Parques ont le tein plus gay que mon",
+            "viſage.",
+            "Ie coy que les damnez ſont plus heureux que",
+            "moy,",
+            "Auſſi le vieux Tyran qui leur donne la loy",
+            "Des peines que ie ſens n’a iamais eu l’vſage.",
+            "Les iours les plus ſerains pour moy ſont pleins",
+            "d’orage.",
+            "Ls obes les plus beaux pour moy ne ſont",
+            "qu’effiroy.",
+            "Dudepuis que i’ay offencé ce grand Roy.",
+            "Mon eſprit inſenſé aà peu pres en enrage.",
+            "Son roo iuſſmeſprias uia ſait cetre douleur",
+            "Depuis inceſſamment ie reſue à mõ̃ malheur,",
+            "Etrien plus que la mort ne me peut faire enuie,",
+            "le crois que mõ malheur s’obſtine aà me punir,",
+            "le penſe que la mort refuſe de venir,",
+            "Pousce qu’elle n’eſt point ſi triſte que ma vie.",
+            "Sapplication dus Prince.",
+            "Eſpis qui connoiſſez le cous de la nature,",
+            "Vous ſeuls à qui le Ciel apprend ſa volonté."
+        ],
+        [
+            "Et dont lesſentimens trouuent de la clarté",
+            "Dans laplus noire nuit d’vne choſe future,",
+            "Celeſtes qui voyez mon ame a la torture,",
+            "Qui ſçauez le dedale où le ſott m’a ietté,",
+            "Quandeſt ce que ie dois auoir ma liberteé́,",
+            "Dites-moy qui de vous entend m̃ aduenture.",
+            "Ange qui que tuſois, veuüilleſonger à moy,",
+            "Et lors que tu ſeras de garde aupres le Roy",
+            "De qui le cœur deuot eſt touſiours enprierts,",
+            "Arreſte-moy le cours de ſon inimitié",
+            "Et dis-luy que s’il veutexercerſa pitié,",
+            "Il n’en trouua iamais de ſi belle matierte,",
+            "omplainte du Prince.",
+            "1",
+            "Enfin ie ſuis captit dedans vn trifte ſieu",
+            "Pour auoir offencé l’image dugrand Dieu,",
+            "Et le Soleil contraint de plaire aux deſtineées",
+            "Pour eſtendre mes maux allonge les iournées.",
+            "F I N"
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6"
+    ]
+}

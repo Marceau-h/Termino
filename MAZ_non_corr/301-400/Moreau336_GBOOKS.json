@@ -1,0 +1,150 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-31",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant que députation\n          sera faite vers Sa Majesté, pour la supplier de donner une amnistie dans les termes\n          ordinaires, vérifiée en sa cour de parlement de Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-10-03",
+                "#text": "daté du 3 octobre 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "Portant que Deputation ſera",
+            "faite vers ſa Majeſté, pour",
+            "le ſupplier de donner vne",
+            "Amniſtie dans les termes",
+            "ordinaires, vérifiée en ſa",
+            "Cour de Parlement de Paris.",
+            "Du 3. Otobre 1652.",
+            "A PARIS,",
+            "Par les Imprimeus &amp; Libraires ord. du Roy",
+            "M. DC. LII.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "Portant que Deputation ſera faite",
+            "vers ſa Majeſté, pour le ſupplier",
+            "de donner vne Amniſtie dans",
+            "les termes ordinaires, verifíe en",
+            "ſa Cour de Parlement de Paris.¬",
+            "SjEiour la Courtou¬",
+            "tes les Chambres",
+            "aſſemblées; oSur ce",
+            "que Monſieur le Duc dOr¬",
+            "A i"
+        ],
+        [
+            "leans Oncle du Roy, pre¬",
+            "ſent Bechefer, Subſtitud du",
+            "Procureur General duditSei¬",
+            "gneur Roy à repreſenté́, Que",
+            "le fieur de loyeuſe qui eſtoit",
+            "alle vers le Roy pour obtenir",
+            "des Paſſeports pour ſes Depu¬",
+            "tez eſtoit de retour ſans auoir",
+            "apporté aucüins Paſſeports,",
+            "mais ſeulement que la volon¬",
+            "té du Roy eſtoie, que- ledit",
+            "Duc d’Orleans ſignaſt ſes",
+            "paſſeports, &amp; qu’apres, il ac¬ j",
+            "corderoit leſdits Paſſeports: 5",
+            "Equepourlurilaut de e"
+        ],
+        [
+            "S.",
+            "pluſieurs fois declaré l&amp; de¬",
+            "claroit encores à preſent,",
+            "qu’il n’auoit aucunes propo¬",
+            "ſitios àfaire au Roy, ſinon:",
+            "Qu’il luypleuſt accordervne",
+            "Ambiſtie en bonne form",
+            "verifiée dans le Parlement à",
+            "Pafis: Oy edlt Subſtitud",
+            "Myretlfé, La matlere riſeenl",
+            "delbetatio, AARR ES.",
+            "TE’’Que ledit ſieur Due",
+            "Orleas ſerad remereie e ſes",
+            "ſoins &amp; bonnes intentions",
+            "pour la Paix, &amp; le bien del’E¬¬",
+            "B"
+        ],
+        [
+            "ſtpt, &amp; ſuppliéde la part dela",
+            "Cour, de continuer &amp; d’écri¬",
+            "re des aujourdy auditSei",
+            "gneupoy Que lafeule po,",
+            "polion qu’il à faire peſt,",
+            "Quil y paiſe aeger ſe",
+            "Amniſtie dans lestermes or¬",
+            "pfjé as le Parleneppà Pa¬",
+            "eone le pe ene lieaiſe",
+            "rfiche par fouus laqe",
+            "fours e la aixs",
+            "bougs de Pais. EAIIen",
+            "Parlement le troiſieme,"
+        ],
+        [
+            "7",
+            "Octobre mil ſix cens cin¬",
+            "ante-deux.",
+            "Signé, DV TILLET.",
+            "Collationné à l’Original, par moy Con¬",
+            "ſeiller Secretaire du Roy, Maiſon &amp;",
+            "Couronne de France, &amp; de ſes",
+            "Finances."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+    ]
+}

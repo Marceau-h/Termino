@@ -1,0 +1,153 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "Lamentation",
+            "Plainte"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-06-16",
+            "@who": "AB"
+        },
+        "titre": "Plainte (la) des bourgeois de Paris à messieurs du\n          Parlement pour faire advancer le procès de Jules Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01",
+                "#text": "janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LA",
+            "PLAINTE",
+            "DES",
+            "BOVRGEOIS DE PARIS.",
+            "A MRS.DE PARLEMENT,",
+            "POVR AVANCER LE PROCEZ,",
+            "DE",
+            "IVLES MAZARIN.",
+            "A PARIS",
+            "M. DC. XLIX."
+        ],
+        [
+            "2",
+            "LA PLAINTE DES SOVRGEOIS DE",
+            "Paris, à Noſſeigneurs de Parlement, pour auan¬",
+            "cer le proce de lules azarin.",
+            "VON dreſſe, Peuples, vn Autel",
+            "t &amp; ce oand oienaeut de n oen",
+            "ét Qu’on mette par tout ſon Image,",
+            "Et qu’on luy rende de l’hommage,",
+            "Comme au vray Caton de cet age;",
+            "Comme au vray Pourtraict de Themis,",
+            "Qui du Ciel fut tranſmis,",
+            "Dieu par ſa bonté nous l’enuoye",
+            "Pour ſon peuple remettre en joyes",
+            "L’a pour nous ſupporter remis,",
+            "Comme à l’ame la plûs hautaine",
+            "De la Cour la plus Souueraine,",
+            "Cme au veo y a--n d onré́",
+            "De Iuſtice, &amp; d’Integrité,",
+            "Et d’autres Vertus ſans exemple",
+            "Qui meritent chez nous vn Temple.,",
+            "Iey ſon rauail glorieux",
+            "Le met au rag des demy-Dieux,",
+            "Le faix portef ſur ſes eſpaules",
+            "De la Ville Reyne des Gaules:",
+            "Crions, crions à haute voix,",
+            "Viue BOY SSl le bon rrançois,"
+        ],
+        [
+            "Viue le Roy, le Parlement,",
+            "Nos effenſſeurs enſſemblement,",
+            "Chaſſez nous ce mauuais Miniſtre",
+            "DuClergé s’approprie Croſſes &amp; itr es",
+            "Et nos Louys d’or &amp; d’argent",
+            "Ou qu’on le pende vitement",
+            "Puiſque c’eſt luy qui trouble par ſa malice",
+            "Noſtre tres-glorieuſe Milice,",
+            "Ft que pour ſes forfaicts &amp; ſes vices",
+            "BOVSSEL faite nous en Iuſtice,",
+            "C’eſt luy qui opprime noſtre France",
+            "Qui ſeroit ſans vous languiſſante,",
+            "Qu’il meure cet impie Mazarin",
+            "Que ſon nom appelle Sarazin,",
+            "Il meu ce Sarazin, toute la Gaule",
+            "t veut eneore que l’on ſouffre ſa fraude.",
+            "ais armés ſont nos Artiſants",
+            "Pour faire la nique aux Courtiſans.",
+            "Soit de Sicile ou d’Italie,",
+            "BROVSS BL ehaſſez la Sodomie.",
+            "Nous dirons à iamais ſans aucune flaterie",
+            "Que BROVSsEL eſt le vray Pere de ſa Patrie,",
+            "Le vray ſeruiteur de ſon Roy",
+            "Le grand Deffenſſeur de la Loy,",
+            "Des François &amp; du roict Salique",
+            "Le meilleur, &amp; le plus Antique,",
+            "Et ce pour le bien de l’Eſtat",
+            "De noſtre ieune Potentat,"
+        ],
+        [
+            "Pour ſoulager en ſa ſouffrance",
+            "Noſtre pauure &amp; affligée France.",
+            "Et pour faire pendre ces voleurs",
+            "Que l’on nomme Monopoleurs,",
+            "lcumeurs d’or meſchans corſaires",
+            "Qui n’ont laiſſé que des miſeres,",
+            "Aux bons &amp; foibles Villageois",
+            "Preſque tous reduicts aux abois",
+            "Que les Maltotes, &amp; la Tailles",
+            "Font mourir de faim ſur la paille,",
+            "Pendant que les gras Mazarinis",
+            "En font de grands eſclats de ris,",
+            "Comme les rieurs à la mode",
+            "De tout ce qui nous incommode.",
+            "Ce que voyant le bon Brouſſel",
+            "Pouſſé d’vn zele nompareil,",
+            "Crie contre les œuures impies",
+            "De ces charitables Harpies,",
+            "Viue don BROVSSL a jamais",
+            "Qu’il viue, &amp; qu’il ſoit deſormais,",
+            "Parmy nous &amp; parmy nos Anges",
+            "Le ſubjet des belles Louanges,",
+            "t moins empraint ſur le papier",
+            "Que dans nos cœurs &amp; dans nos ames me.",
+            "Ou touſiours de BovssL viue la, chere fla¬",
+            "FIN."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-31",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, toutes les chambres\n          assemblées, portant que, sans s'arrêter à l’arrêt du grand conseil du 28 février dernier,\n          les arrêts de la cour de parlement, donnés contre le cardinal Mazarin, seront\n          exécutés.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-03-21",
+                "#text": "daté du 21 mars 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "TOVTES LES CHAMBRES ASSEMBLEES,",
+            "Portant que ſans s'arreſter à l'Arreſt du Grand",
+            "Conſeil du 28. Février dernier, les Arreſts de",
+            "la Cour de Parlement donnez contre le",
+            "Cardinal Mazarin ſeront executez.",
+            "Du ving-vnieme Mars 1652.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires du Roy.",
+            "M. DC. LII.",
+            "Auec Priuilege de ſa Maieſté. n=\"2\"/&gt;"
+        ],
+        [
+            "3",
+            "EXTRAIT DES REGISTRES",
+            "de Parlement.",
+            "CE iour la Cour, toutes les",
+            "Chambres aſſemblées, Mon¬.",
+            "ſieur le Duc d'Orléans y eſteir",
+            "Lecture faite preſebs les Gens",
+            "du Roy, d'vn Arreſt du grand",
+            "Conſeil dacté da ving huit",
+            "Fevrier. denier, donne ſur Requeſte du",
+            "cardnmal Maurin &amp; de la ſignifieationdu¬",
+            "at ſrrei ent au bas, faiue a ſai equeſt",
+            "lenoiſeme de ce mois s Et ouy ſur ce les",
+            "oomsuoy m leus Concdufions, eu",
+            "re, matiere miſe en delibeanion",
+            "ResreET oooE que",
+            "usameſer auditAreſt du grandConſei¬.",
+            "les Arreſts de ladite Cour donnez contre",
+            "lut Cadinaiſeronr eoeonre deſeha",
+            "A ij"
+        ],
+        [
+            "4",
+            "gé &amp; deſcharge les partieulier denaſig",
+            "ioos a eux données audit grand Cnſeil ̀",
+            "ia Requeſe dudit Cardinal. Fait deſeſes",
+            "de faire pourſuittes ailleus qu’en ladir",
+            "Cour; Et a ous Huiſſiers &amp; Sgeus de",
+            "faire aucuns exploits &amp; contraintes conus",
+            "les Fermiers &amp; redeuahbles dudit Candinal.",
+            "à peine de nullité́, amende, deſpens, don",
+            "mages &amp; intareſts; Fait en ouire deſenſa",
+            "auſdis Eermiers &amp; debiteurs de vuida",
+            "leurs mains qu’en vereu d’Arreſts de ladir",
+            "Cour a peine de payr deux fois. FAIT",
+            "en Palenment le ving-vnieme Mars mil fis",
+            "cens cinquante-deux.",
+            "Signé, GVYET",
+            "Colationné à l’Original par Moy Con",
+            "ſeiller, Secretaire du Roy, Maiſon,",
+            "Couronne de France &amp; de ſes Finances."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4"
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Fouquet, Nicolas (1615-1680)",
+            "Armements",
+            "Militaires",
+            "Impôts",
+            "Aliments – Approvisionnement",
+            "Pontcarré (Seine-et-Marne)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant qu’il sera fait\n          recherche des moyens d’avoir argent, pour l’armement et subsistance des gens de guerre,\n          avec défense, aux habitants, de payer aucunes tailles ni autres taxes ; et en cas de\n          contravention , qu’il sera procédé par voie de représailles.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-02-22",
+                "#text": "daté du 22 février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "Arreſt de la Cour",
+            "DE PARLEMENT,",
+            "PORTANT QVIL SERA FAIT",
+            "recherche des moyens d’auoir argent pour",
+            "l’Armement &amp; Subſiſtance des gens de guerre,",
+            "Auec defenſes aux habitans de payer aucunes",
+            "Tailles ny autres Taxes; Et en cas de contra¬",
+            "uention, qu’il ſera procedé par droict de re¬",
+            "preſailles.",
+            "Du 22. Février mil ſix cens quarante-neuf.",
+            "A PARIS,",
+            "Par les Imprimeur, &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "4",
+            "tre leſdies habitans de Pont-earé, iapportera en la",
+            "Cour ſa Commiſſion dans trois jours apres la ſigni¬",
+            "fieation du peſent Arreſt en ſon domicile à Paris,",
+            "à la requeſte da Proeureur General du Roy, &amp; ju¬",
+            "ques à ce, luy a intedit l’anxercice de ſa Charge, luy.",
+            "fait defenſes d’en faire auune fonction, à peine de",
+            "faux. FAIT en Parlement le vinge deuxiéme",
+            "Février mil ſix cens quarante neuf.",
+            "Sign6, DV TILLET.",
+            "Collationn&amp;’ ’l’ Origimal parmoy Conſeille",
+            "Secretare du Roy &amp; de ſes Fiaanes."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "12"
+    ]
+}

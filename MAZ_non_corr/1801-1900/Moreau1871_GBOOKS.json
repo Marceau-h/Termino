@@ -1,0 +1,188 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "Lettre",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-27",
+            "@who": "AB"
+        },
+        "titre": "Lettre d'un gentilhomme de monseigneur le duc d'Orléans,\n          écrite à un bourgeois de Paris, sur le sujet de sa sortie.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "F. D. R."
+                }
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-08-28",
+                "#text": "datée du 28 août 1651"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121408134",
+            "@xml:id": "IL_VivenayNicolas.xml",
+            "persName": {
+                "forename": "Nicolas",
+                "surname": "Vivenay"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "D’VN GENTIL-HOMME",
+            "DE MONSEIGNEVR",
+            "LE DVC",
+            "D'ORLEANS",
+            "Eſcrite à vn Bourgeois de Paris,",
+            "ſur le ſujet de ſa ſortie.",
+            "A PARIS.",
+            "Chez NICOLAS VIVENAY, en ſa",
+            "Boutique du Palais.",
+            "M. DC. LI."
+        ],
+        [
+            "3",
+            "LETTRE DVN GENTIL-HOMME",
+            "de Monſeigneur le Duc d’orleans,",
+            "eſcrite à vn Bourgeois de Paris,",
+            "ſur le ſujet de ſa ſortie.",
+            "MONSIEVR,",
+            "I’ay veu la voftre,par laquelle vous",
+            "me marquez l’eſtonnement du peuple ſur le",
+            "ſujet de la ſortie de ſon Alteſſe Royalle de",
+            "Paris, vn chacun eſtant en peine d’en ſçauoir",
+            "le morif; quoy que ce ſoit vne choſe que per¬",
+            "ſonne ne deuroit pas ignorer, apres auoir veu",
+            "le mauuais traitement que les Princes du",
+            "Sang reç̧oiuent tous les iours à̀ la Cour par",
+            "les partiſans du Cardinal Mazarin, qui yre¬",
+            "gnent encore auec plus d’authorité que ia¬",
+            "mais; lIe vous diray neantmoins que Mon¬",
+            "ſeigneur, qui deuroit y tenir le premier rang,",
+            "&amp; y donner le branle à toutes choſes ſelon"
+        ],
+        [
+            "ſon gré, a eſté contraint d’en ſortir; n’ayant",
+            "peu ſouffrir qu’en ſa preſence &amp; contre ſon",
+            "aduis on mit des perſonnes dans le Conſeil",
+            "du Roy qui ſont entierement au Cardinal,",
+            "&amp; qu’on n’a eloigné les trois perſonnes que",
+            "Monſeigneur le Prince a nommeés, que pour",
+            "y en remettre de plus dangereux, &amp; qui vien¬",
+            "nent de s’attacher par des articles ſecrets au",
+            "Cardinal Mazarin, a qui ils ont promistou¬",
+            "te ſorte de protection pour ſon retour, pour¬",
+            "ueu qu’ils ſoient admis dans le miniſtere. Son",
+            "Alteſſe Royalle ayant voulu dire ſon aduis",
+            "ſur ce ſujet a eſté rebutté de telle ſorte, qu’il",
+            "croit n’y auoir point de ſeureté pour ſa per¬",
+            "ſonne à̀ la Cour, ſi le Parlement ny met or¬",
+            "dre. C’eſt vne choſe bien etrange que tous",
+            "les Princes du Sang en ſoient preſente¬",
+            "ment banis, pour y faire regner le meſme",
+            "Miniſtre qui en a eſté chaſſé auec tant de",
+            "juſtice, &amp; qu’ils ſoient obligez de men¬",
+            "dier leur ſeureté auprés du Roy, à des per¬",
+            "ſonnes a qui ils la deuroient donner, sils",
+            "eſtoient maintenus dans le rang que leut",
+            "naiſſance &amp; leur mente leur donne dans le",
+            "Conſeil"
+        ],
+        [
+            "5",
+            "Conſeil, c’eſt encore bien plus eſtônnant",
+            "qu’ils ſe voyent ſujets aux paſſions de per¬",
+            "ſonnes qui ne deuroient auoir nulle creance",
+            "que par le pouuoir que ſon Alteſſe Royalle",
+            "leur en donneroit ſi l’on ne violoit les Loix",
+            "du Royaume en tous chef pour authoriſer le",
+            "Mzarin au meſpris des Princes du ang. En¬",
+            "fin l’on ne peut rien dire à tout cecy ſinon",
+            "que nous verrons ſans doute de grands de¬",
+            "ſordres, ſi le Pailement ny apporte prom¬",
+            "ptement du remede. Tous ces delais ſont",
+            "pour faire gagner la maiorité, quieſt la gran¬",
+            "de reſource du Cardinal, qui a les Armeées &amp;",
+            "e Conſeil duRoy à ſa deuotion Ne reſtant",
+            "aux Princes du Sang que l’amitié́ de ceux de",
+            "qui la bonne conſcjence fait conſiderer les",
+            "bonnes intentions qu’ils ont pour le bien",
+            "public, &amp; pour la perte entiere de tout ce",
+            "qui reſte en France de Mazarin. C’eſt du",
+            "peuple, pour les intereſts duquel le Sang",
+            "Royal eſt aujourd’huy oppreßé que nous de¬",
+            "uons eſpérer tout; Tout le monde doit ſç̧a¬",
+            "uoir que ſi ſon Alteſſe Royalle, &amp; Mon¬",
+            "ſeigneur le Prince auoient voulu quitter ſon"
+        ],
+        [
+            "intereft pour conſentir au retour du Cardinl",
+            "qu’il n’y auoit rien qu’on ne leur fit eſperer",
+            "au Palais. Royal; Mais ayant tous deux pre¬",
+            "feré le bien public auleur propre; c’eſt autant",
+            "de l’intereſt commun que du noſtre particu¬",
+            "lier de conſeruer nos Princes, puis qu’ils ne",
+            "ſont banis de la Cour que pour auoir deman¬",
+            "dé lerepos de la France, en s’oppoſant au re¬",
+            "tour du Mazarin, &amp; à la promotion de ſes",
+            "creatures au Conſeil du Roy, dans lequel",
+            "tous les aduis contraires au reſtabliſſement",
+            "de ce Miniſtre bany ſont eludez, &amp; ceux qui",
+            "luy ſont fauorables ſont ſuiuis. C’eſt dequoy",
+            "on deuroit informer le public, afin qu’on ne",
+            "puiſse pasmal interpreter la cõduite de ſonAl¬",
+            "teſſe Royalle, qui n’a que l’intereſt du Roy,",
+            "&amp; de ſes Subjets en recommendation; C’eſt",
+            "tout ce que ie puis vous eſcrire ſur ce ſujet:",
+            "Onparle iey de venir au Palais, ou d’y eſcrire,",
+            "pour ſçauoir ſi ces Meſſieurs veulent aban¬",
+            "donner les Princes du Sang par leurs delais",
+            "aà la vengeance des emiſſaires du Cardinal",
+            "Mazarin, eſtant bien eſtrange que des per¬",
+            "ſonnes de cette conſideration ne puiſſent"
+        ],
+        [
+            "point eſperer juſtice, &amp; qu’ils ſoient obli¬",
+            "en rendre au moindre des homes",
+            "MONSIEVR.",
+            "De Lémour ce a. Aoat é5.",
+            "Voſtre tres-humble &amp; obeïſſant",
+            "ſeruiteur, F. D. R."
+        ]
+    ],
+    "pages_number": [
+        "3",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+    ]
+}

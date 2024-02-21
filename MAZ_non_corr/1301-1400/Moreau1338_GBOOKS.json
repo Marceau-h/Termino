@@ -1,0 +1,192 @@
+{
+    "imprimatur": "Auec Permißion",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-24",
+            "@who": "AB"
+        },
+        "titre": "Extrait d’une lettre envoyée de Ruel, en date du vendredi\n          19ᵉ de ce mois de mars 1649, contenant le véritable état où sont à présent les affaires,\n          et réfutant les faux bruits qu’on a fait courir touchant la paix.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@source": "BM_Lyon",
+            "persName": "De La Canaye"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-03-19",
+                "#text": "lettre datée du 19 mars 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121237136",
+            "@xml:id": "IL_CoulonVeuvedAntoine.xml",
+            "persName": {
+                "forename": "Antoine",
+                "surname": "Coulon"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "EXTRAICT D'VNE",
+            "LETTRE",
+            "ENVOYEE DE",
+            "Ruel, en datte du Vendredy",
+            "di-neufieſme de ce mois de",
+            "Mars 1649 Contenant le veri¬",
+            "table eſtat ou ſont à preſent les",
+            "affaires; Et refutant les faux",
+            "bruits que l’on a fait courir tou¬.",
+            "chant la Paix.",
+            "A PARIS",
+            "Chez la veufue d'ANTOINE COVLON,",
+            "ruë d'Eſcoſſe, aux trois Cramailleres.",
+            "M. DC. XLIX.",
+            "Auec Permißion."
+        ],
+        [
+            "EXTRAICT D’VNE",
+            "Lettre enuoyée de Ruel, en",
+            "datte du Vendredy 1o. de ce",
+            "mois de Mars. Contenant le",
+            "veritable eſtat ou ſont à preſent",
+            "les affaires: Et refutant les faux",
+            "bruits que l’on a fait courirtou¬",
+            "chant la Paix.",
+            "ONSIEvR,",
+            "L’mcertitude où tout",
+            "le monde ſe trouue en",
+            "ces quartiersrouchant la",
+            "iverité de leſtat preſent",
+            "es aſauires me peroadaunt queas eſant",
+            "loigne commevourdol vou nn",
+            "Puuee auoir daſſenrane rraine, iay",
+            "eu deuoirnepre lamaila ome, &amp;",
+            "A1J"
+        ],
+        [
+            "4",
+            "meſeruir de l’occaſion du Courier, pour",
+            "vousleuer le ſoup̧on que vous pouue",
+            "auoir a cauſe des difſerens aduis que",
+            "Vousreeue, Crtaines peonespouſ",
+            "ſees parvn motif de malice, ou de leger¬¬",
+            "re, ſe plaſent à ſemer des but, P",
+            "hler des nouueles, dont la fuſeé eſ",
+            "dautant plus prejudiciable, qu’elle rege",
+            "de one manere importnte, &amp; que fai¬",
+            "ant inmpreſfion ſlur les eſprits, ele ls",
+            "Deutporter a des deſorcdres res grands¬",
+            "ſuiuant la diſpoſition qu’elle rencontre",
+            "en eux. Depuis la fin de la Conferense",
+            "de Ruel, dont ie vous ay mande le fuc",
+            "e&amp; les parteulartea, cdacun a pale",
+            "de la Pax mais dierſement &amp; fauſſe",
+            "ment pout la pluſpartj les vns s’en ſons",
+            "fornmevaeouoichymerique, &amp; dont",
+            "le bruit ſeul’eſtoit capable d’eſmouuir",
+            "ſedition cone œx dont les ſoinsaſi¬",
+            "dus s’omployent nous la moyenncſs",
+            "puis qu’ils en font les Articles autant in¬",
+            "dignes du Parlemunt, quedeſauantagE¬",
+            "pour",
+            "aaallſl"
+        ],
+        [
+            "OuE Paa&amp; pour toue laFrancele¬",
+            "Pres pnſaun i eonmemite donruire",
+            "oun ean fourent vne dont ls ſrties",
+            "aſeont ſealomenr pas le cCr",
+            "llaainnabseneore eordeniee",
+            "ſpour fnd de cConry u n oen lnu",
+            "peoneaure nli non leie dnune",
+            "&amp;’ pear eſteneſpereonrps voinrr",
+            "deſd ene deeiue ie eui e ouen",
+            "epis ſaie, pus quele depnd’de e",
+            "eponſe que reoaront ſdefer t",
+            "eoues qi rloeureunt ſey iinir",
+            "oui ouufuronr re eun prlon ee",
+            "Ieuies quileuplade diſdpereo onere",
+            "e de u Conſerene aulendenan1",
+            "lede lur eonue n ſi aunr ue ots",
+            "ouit peſounio ſet les preenſons de",
+            "lleſieur leu &amp;eonenuns puounr l ee",
+            "ppdon de queles rrleles duTeaine,",
+            "dſeonnee eemroun d i eiurnr ſoer",
+            "uoioooone dener nenuo oeoe",
+            "ot one cene Conſeenee, qurdoite",
+            "uit binandne aplunrr e lſ ie i",
+            "enſomouroir enon dele rnoeonipue"
+        ],
+        [
+            "72 6",
+            "A guerre e conimué Si oſt que e",
+            "n niaiedeludhe eonſereonre",
+            "an lpde oos lmundoer oe",
+            "ux auttesnouuees dont jaye eoe",
+            "eieede",
+            "noiſdanedupuis l’aruee deſdits Dep¬",
+            "o je vousdirayquelaceſliondann",
+            "uoi enpirerauiourdhyaeſté podox",
+            "gſeuleent pour quatre lours, enor",
+            "demaſon de ladiue’Confeenceseu",
+            "vous verifiera la fauſſere du bruir que",
+            "loa aſait tourir, que leſdits paſig",
+            "ſoiat boudbe. Quine cens Che",
+            "uaux &amp; quelque lnfancerie, quiſoriren",
+            "Cs iours paſdea de Saint Denys, Mou",
+            "dbn, &amp; autres lieux, poun faire quelques",
+            "courſes du coſté de Danmartin, retou",
+            "nansdereredy dernier en leurgarniſon¬",
+            "pilorent quelques poulangers, qul",
+            "rencontrerent à leurhemin: cœ qui",
+            "donné lieu à cebruit, dont le contrair?",
+            "ſe comemo par le depart coutinuol de",
+            "bled,bois, vins, &amp; autres munirions de",
+            "Snct Germain pour Paris. Voilacequ",
+            "aaaaſl"
+        ],
+        [
+            "e emps &amp; la verite me permettent de",
+            "ous mande, quandreet reſpondrna a",
+            "medeſirs &amp;aur veux de cous les vrs,",
+            "Panoois, leouannoneruy lapanr",
+            "ousaſeureray comme je ſais ai preſent",
+            "dauee quelepaionjeſouhaie mntre",
+            "la qualitéde,",
+            "A Ruel ce 19. mars 1649.",
+            "Voſtre tres-hamble ſeruiter,",
+            "DE LA CANAYE"
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+    ]
+}

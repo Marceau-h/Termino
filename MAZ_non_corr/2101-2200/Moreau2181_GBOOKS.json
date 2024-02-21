@@ -1,0 +1,104 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſté.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "Lettre",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-05-04",
+            "@who": "MF"
+        },
+        "titre": "Lettre du roy envoyée à messieurs les prévôt des marchans\n          et échevins de sa bonne ville de Paris sur le sujet de son départ de sadite ville pour\n          aller en sa province de Bourgogne, du quatrième mars 1650.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000383255772",
+            "persName": "Louis XIV"
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000008903969",
+            "@xml:id": "IL_RocoletPierre.xml",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Rocolet"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DV ROY,",
+            "enuoyée à Mſseieurs les Preuoſt",
+            "des Marchands &amp; Eſcheuins",
+            "de ſa bonne Ville de Paris,",
+            "le ſubiet de ſon depart de ſadite Ville pour",
+            "aller en ſa Prouince de Bourgongne.",
+            "Du quatrieſme Mars 1650,",
+            "A PARIS.",
+            "Chez P. ROCOLET Imprimeur &amp; Libraire ordin.",
+            "du Roy, &amp; de la Maiſon de Ville, au Palais,",
+            "aux Armes du Roy, &amp; de la Ville.",
+            "M. DC. L",
+            "Auec Priuilege de ſa Maieſté."
+        ],
+        [
+            "L . I L I.",
+            "RES-EHERS ET BIEN",
+            "Amez: Bien que vous n’ignoriez",
+            "pas la reſlution que nous auons",
+            "priſe de hous ahemimr en noſtre",
+            "Prouince de Boutrgngne, afin de",
+            "pouruoir aux affaires qui nous y ap¬",
+            "pellent; Nous n’auons pas neantmoins voulu laiſſer",
+            "de vous eſcrire cette Lettre, de l’aduis de la Reyne",
+            "egente noſtre tres-honorée Dame &amp; Mere, pour",
+            "us en donner part, &amp; vous dire que nous vou¬",
+            "ons que vous veilliez ſoigneuſement aux choſes",
+            "qui re gardent le bien de noſtre ſeruice, &amp; la tran.",
+            "qulitede noſtre bonne ville de Paris, empeſchans",
+            "uil ne s’y paſſe aucune choſe durant noſtre ab¬",
+            "lence, dont nous puiſſions auoir meſcontente¬",
+            "nnt, afin que noſtre voyage s’acheue ſans trouble",
+            "&amp; auſſi heureuſement qu’il eſt important pour le",
+            "bien vniueſel de cét Eſtat. Et comme nous n’a¬",
+            "ons rien d’auantage à vous dire, Nous vous",
+            "dſpenſons pour cee fois de nous venir rouuer:"
+        ],
+        [
+            "CR tel eſt noſtre plaiſir. Done à̀ Pais le",
+            "quatrieſme iour de Mars mil ſix cens cinquante.",
+            "LOV1S",
+            "Signé,",
+            "Et pls bas,",
+            "D GvsnoAv.",
+            "Et ſur la ſoubscription eſt eſrip.",
+            "Aotreschers &amp; bien aaez les Preuoſt des",
+            "Marchands co Eſcheuias de noſtre bae",
+            "Ville de Panis."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4"
+    ]
+}

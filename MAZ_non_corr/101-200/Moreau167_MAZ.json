@@ -1,0 +1,141 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Épernon, Bernard de Nogaret de La Valette (1592-1661 ; duc d')",
+            "Aliments – Approvisionnement – Paris (France)",
+            "Paris (France)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-09",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Bordeaux pour la traite\n          et conduite des blés dans la ville de Paris, suivant la permission et approbation de Sa\n          Majesté, qu’en ont un nommé le Bailly et autres marchands de ladite ville de Paris d’y en\n          amener; et défenses sont faites, sur peine de la vie, d’y mettre empêchement",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-10-12",
+                "#text": "mention de publication le 12 octobre 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000110444682",
+            "@xml:id": "IL_LesselinAlexandre.xml",
+            "persName": {
+                "forename": "Alexandre",
+                "surname": "Lesselin"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE BORDEAVX.",
+            "POVR LA TRAICTE ET",
+            "conduitte des bleds dans la Ville de Paris,",
+            "ſuiuant la permiſsion &amp; approbation de ſa Ma¬",
+            "jeſé qu’en ont vn nommé le Baily &amp; autres mar¬",
+            "chands de ladite Ville de Pars, d’y en amener,",
+            "&amp; deffences ſont faites ſur peine de la vie dy",
+            "mettre empeſchement.",
+            "Iouxte la coppie imprimée à Bordeaux.",
+            "A PARIS,",
+            "Chez ALEXANDRE LESSELIN, ruë de la vieille",
+            "Boucherie, proche le pont S. Michel.",
+            "M. DC. XXXXIX."
+        ],
+        [
+            "l",
+            "ailleurs., eſt empeſchée par les trouppes d¬",
+            ",",
+            "ſieur d’Eſpernon qui occupent les paſſage;,",
+            "des Riuieres &amp; empeſchent la traite ordi¬",
+            "naire deſdits bleds &amp; couduite d’iceux en la",
+            "peſente Ville: Oüy ſur ce le Procureut",
+            "Gneral du Roy, LACOVR les",
+            "Chambres aſſemblécs a enioint comme cy",
+            "deuat, aux Vi’les &amp; Coihmunatez",
+            "tout le haut pays quiſont de ſon reſſort,",
+            "d’enuoyer &amp; faire conduire inceſſamment",
+            "eu’la preſente Ve Sds’i pcio",
+            "eſtre hecéſſaires, rant potſećourir la Viſl",
+            "de Patls capirale du Royaume, que pour l",
+            "prouiſion de la preſente Ville capitale de la",
+            "Piouiinte FAI ladite COR, inhibi¬",
+            "ions &amp; deffences à toutes ſortes de perſon¬",
+            "nes de quelle qualité &amp; condition qu’ils",
+            "ſoient, meſmes aux troupey du ſieur- Dus",
+            "d’Efpernon d’empeſcher ldeſeenee &amp;on",
+            "duitte deſdits bleds enlapeſene Vill à!",
+            "pine de la vie, &amp; en cds de contrauention",
+            "eralt aaſdies Ville&amp; Cbruoaures fai¬",
+            "rolladijee leſcante &amp; ouduioede blebs aà maip",
+            "aheée &amp;cuinit ſus: auxcotruenars. En¬",
+            "joneauſſi à̀ roaOffieiers, lurarts Conſulsy",
+            "deſditesVllas e res ôdbjetslqRoyde",
+            "preſter"
+        ],
+        [
+            "S",
+            "tedetpderſdnſpſueitio",
+            "dreearſe’lnppoesgpp",
+            "los ns tfhoepſoherprte",
+            "cauſe d’ignorancee Ordonne ladite Cour que",
+            "ledit Arſtſeral peb’ié &amp; afiché és car¬",
+            "refous fAmez de la preſente",
+            "Vlle, &amp; qu’à la dligence du Procureur Ge",
+            "neral du Roy, il ſera euoyé en toutes les Se¬",
+            "neſchauſſées &amp; IunſdiCtions du reſſort de la¬",
+            "dite Cour, pour y eſtre fait pareillement le¬",
+            "ure &amp; publicauion, dont il ſera tenu ceri",
+            "fier la Cour au mois. FAIT A BOR.",
+            "DEAV X, en Parlement extraordinaire¬",
+            "ment aſſemblé le vnzieſme iour d’Octobr",
+            "mil ſix cens quarante-neuf:",
+            "Signé, DE PONTAC.",
+            "E douzieſme du ſu fdit mois &amp; an, le pro¬",
+            "LLſeus direſt de la Conr a ́ ln r p",
+            "ſ, lieax &amp; Cantons accouſtumez de la pne¬",
+            "ſute Ville, par nous Huißier en ladie Cou",
+            "ſouſigné́, aſsiſle de Maiſre lean Riuiers, aſs"
+        ],
+        [
+            "CAVSSAN."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "12",
+        "13",
+        "14"
+    ]
+}

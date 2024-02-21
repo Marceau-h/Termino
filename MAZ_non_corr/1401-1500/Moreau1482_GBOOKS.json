@@ -1,0 +1,149 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "subject": "Condé‎, Louis de Bourbon‎, prince de‎, 1621-1686",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-02",
+            "@who": "AB"
+        },
+        "titre": "Généreux (le) François.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-01-01",
+                "@notAfter": "1649-01-15",
+                "#text": "première quinzaine de\n            janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LE",
+            "GENEREVX",
+            "FRANÇOIS.",
+            "M. DC. XLIX."
+        ],
+        [
+            "3",
+            "LE",
+            "GENEREVX",
+            "FRANÇOIS.",
+            "PEuple ceſt à ce coup qu’il faut prendre",
+            "courage,",
+            "Et qui ous faut paroiſte a la poin",
+            "te du iour,",
+            "Aucombat glorieux pour empeſcher l’orage",
+            "D’n Prince furieux plus cruel qu’vn vautour.",
+            "68",
+            "Il veut des innocens en faire ſes victimes,",
+            "ll vent plonger la main dans le-milieu des",
+            "cœurs,:",
+            "De nos chers protecteurs qui puniſſent les",
+            "crimes,",
+            "our vangerl’Eſtranger qui cauſe nos malheurs"
+        ],
+        [
+            "1",
+            "8",
+            "Il veut tout emporter au peril de ſa vie,",
+            "Il viole ſa Foy, &amp; ſuppime les Loix",
+            "Pour maintenir vn moaſtre eſclos dans l’lItalie,",
+            "Qui met en gand haſard le ſceptre denos Roys.",
+            "83",
+            "Il veut du Parlement abbattre la puiſſance",
+            "Pour conſeruer l’eſclat d’vn laſche Fauory,",
+            "Et ne veut pas ſouff ir meſme que ſa prudence",
+            "Venge de noſtre Roy l’Eſtat preſque pey.",
+            "l engag ſa foy, pourueu qu’o luy accorde",
+            "De gouuerner en Roy, &amp; meſmeſon credit.",
+            "De nous faire crier bien-toſt miſericorde,",
+            "Et veut ſurprendre ainſi de la Reyael’eſprit.",
+            "ôs",
+            "Voyons doõ̃eſes motifs, &amp;ce qu’il veut pretendre,",
+            "¬ Ce"
+        ],
+        [
+            "9",
+            "Ce que l’on doit iuger de ce Prince du ſang,",
+            "Deplaire au Mazarin, d’auoir quitté la Flander",
+            "Pour perdre les François, c’eſt violer ſonrang.",
+            "d",
+            "Soneſprit agité, &amp; ſon cœurplein d’enuie",
+            "Luycauſerabi en-toſt vn funeſte accident,",
+            "SiDieu par ſa bonté ne meſnage ſa vie",
+            "Pour laſacrifier aux yeux de l’innocent.",
+            "8",
+            "Septou huict fatieux, l’Abb́ de la Riuicre,",
+            "IeCheualier de lars, le GrandMaiſtre &amp; Tellier,",
+            "LeMareſchal Deſtré, Bottru &amp; Semeterre,",
+            "Leſuiuront de bien pres auec le Chancellier.,",
+            "6",
+            "sdonc mes chersFrançois, ſoyés tousgenereux,",
+            "Cheriſtes tous les Loix, chaſſe ces Partifans,",
+            "ainitenés-vous vnis, &amp; vousſe e heuteux",
+            "Aymés tous voſtre Roy, puniſſés ces meſchans.",
+            "1",
+            "Jiitesr en la luſtice, il vous eſt bien facile",
+            "Vosy deoés penſeir pour voſie ſeureré,"
+        ],
+        [
+            "Il faut perdre ce Iule, &amp; qu’il ſorte la ville",
+            "Si vous voulés ioüir de voſtre libeté.",
+            "Chaſſons de ce pays ces Nations barbares,",
+            "Chaſſons ces Allemans ennemis des mortels,",
+            "Chaſſons ces Polonnois, ou plutoſt ces Tartares",
+            "Qui nous viennent piller iuſques ſur nos Autels.",
+            "Pour vaincre ces meſchans qui violent nos fẽmes,",
+            "N’eſpargnons noſtre ſang, ſecourons nos Ceſars,",
+            "Nous leur ferons ſentir la rigueur de nos armes,",
+            "Puis qu’ile n’õt p oint de Dieu quecelui des hazards.",
+            "Nous eſperons du Ciel vn ſecours fauorable,",
+            "Et qu’il protegera tous ces cœurs genereux,",
+            "Puis que l cauſe eſt iuſte, elle eſt ineuitable,",
+            "Nous les ferons perir malgé les enuieux.",
+            "8",
+            "Dieu, nous vous demandons voſtre ſaincte aſſi¬",
+            "ſtance,",
+            "Et c’eſt à deûx genoux que nous vous implorons,"
+        ],
+        [
+            "7",
+            "Conſeruez noſtre Roy, &amp; faites que la France",
+            "Fleuriſſe deſormais, &amp; conſerve les bons.",
+            "FIN."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+    ]
+}

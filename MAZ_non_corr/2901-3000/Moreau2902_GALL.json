@@ -1,0 +1,61 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "subject": "Emprisonnement des princes",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-06-21",
+            "@who": "AB"
+        },
+        "titre": "Promesses (les) du prince de Condé.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "#text": "Sans Date"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "1"
+    },
+    "texte": [
+        [
+            "LES",
+            "PROMESSES",
+            "DV",
+            "PRINCE DE CONDE",
+            "e qu ene neſe de en oe eu¬",
+            "depueuis ouns us eues",
+            "at u ie ferois comme à̀ Rocroy",
+            "Ruiſſeler du ſang à outrance,",
+            "Tirant de l’Eſpagne raiſon",
+            "PEeone loue te e e e one",
+            "Et par vne Paix aſſeurée",
+            "L’honneur, la Fortune, &amp; les Loix",
+            "Dans le Royaume des François",
+            "Quant à la Ville Capitale,",
+            "eu",
+            "LES",
+            "Rendrois d’eternelle durée.",
+            "Aux Frondeurs, &amp; à leur Caballe",
+            "Ie puiſſe auoir le col caſſé"
+        ]
+    ],
+    "pages_number": [
+        "1"
+    ]
+}

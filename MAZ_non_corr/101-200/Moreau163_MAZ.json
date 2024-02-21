@@ -1,0 +1,138 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Épernon, Bernard de Nogaret de La Valette (1592-1661 ; duc d')",
+            "Noblesse – Guyenne",
+            "Guyenne"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-09",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Bordeaux, portant\n          inhibitions et défenses, à tous les gentilshommes de ce ressort, de porter les armes à la\n          suite du sieur duc d'Épernon, à peine de privation de noblesse et autres plus grandes\n          peines, portées par ledit arrêt.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-08-19",
+                "#text": "édition de Bordeaux parue le 19 août\n            1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PALEMENT",
+            "DE BORDEAVX.",
+            "Portant inhibitions &amp; deffences à tous les Gentils-hommes",
+            "de ce reſſort, de porter les armes à la ſuite du ſieur Duc",
+            "d'Eſpernon, à peine de privation de Nobleſſe &amp;au¬",
+            "tres plus grandes peines portées par ledit Arreſt.",
+            "Iouxte la copie imprimée à Bordeaux.",
+            "M. DC. XLIX."
+        ],
+        [
+            "3",
+            "EXTRAICT",
+            "DES REGISTRES",
+            "du Parlement.",
+            "SVR ce qui a eſté re.",
+            "ede ee",
+            "non, a deſſein de venir",
+            "e- aſsieger la preſente Vil.",
+            "le, &amp;ruyner tous les enuirons d’icel¬",
+            "le, &amp; qu’il apour cét effet fermé tous",
+            "les paſſages des riuieres, qu’il rauage",
+            "1 iournellement les maiſons de la Ca¬",
+            "pagne, appartenantes aux Habitans"
+        ],
+        [
+            "de la preſente Vlle, fait emporter",
+            "les meubles &amp; grains, qu’il trouue en",
+            "icelles, &amp; que pour paruenir à ſon deſ¬",
+            "ſein, il aſlemble grand nombre de",
+            "gens de guerre, contraint &amp; violante",
+            "les Communautez, de luy fournir",
+            "des hommes, &amp; a conuoqué toute",
+            "la Nobleſſe de ſon Gouuernement.",
+            "Et oûy le Procureur General du",
+            "Roy, la Cour, les Chambres d’ieelle",
+            "aſſembĺes, a fait inhibitions &amp; def¬",
+            "fenſes aux Gentils hommes du reſ¬",
+            "ſort, &amp; à tous autres, de porter lesar¬",
+            "mes à la ſuite du ſieur Due d’ Eſper¬",
+            "ae dlne e dun e leeſe",
+            "d’icelle"
+        ],
+        [
+            "à peine de priuation de Nobleſſe, ra¬",
+            "zement de leurs maiſons &amp; degra",
+            "dations des bois, &amp; de reſponure en",
+            "leur nompropre &amp; priué, de tous les",
+            "degats, ruynes, rauages, deſpens,",
+            "dommages &amp; intereſts, que les par¬",
+            "ticuliers ſouffriront: Exhorte ladite",
+            "N bleſſe, de venir aſsiſter de leurs",
+            "armes la preſente Ville, contre les",
+            "oppreſsions dudit ſieur Duc d’Eſ¬",
+            "pernon. Enjoint aux Communau¬",
+            "tez du reſſort de la Cour, de four¬",
+            "nir hommes &amp; argent, ſuiuant leur",
+            "pouuoir, pour la deffenſe de la pre¬",
+            "ſente Ville, &amp; ſera le preſent Arreſt",
+            "B"
+        ],
+        [
+            "leu &amp; publie, par tout où beſoin",
+            "ſera, &amp; enuoyé par tous les Bailliages",
+            "&amp; Seneſchauſſées &amp; Iuriſdictions du",
+            "preſent reſſort, pour y eſtre fait pa¬",
+            "reille lecture, &amp; publication ,auxfins",
+            "que perſonne nen pretende cauſe",
+            "dignorance. FAITA BOVR¬",
+            "DEAVX en Parlement, les",
+            "Chambres aſſemblées, l ſeizieſme.",
+            "Aouſt, mil ſix ce quarante neuf.",
+            "lde9",
+            "ſign. DE PONTAC.",
+            "A eſté publié à Bordeaux le 19. aouſt 1649."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14"
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Beaufort, François de Bourbon-Vendôme (1616-1669 ; duc de)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-18",
+            "@who": "AB"
+        },
+        "titre": "Satyre de Mazarin envoyée à monsieur le duc de\n          Beaufort.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000122493086",
+            "@source": "Carrier",
+            "persName": {
+                "forename": "Jacques Carpentier de",
+                "surname": "Marigny"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-01",
+                "@notAfter": "1649-03",
+                "#text": "pendant le blocus de\n            Paris"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "SATYRE",
+            "DE",
+            "MAZARIN.",
+            "ENVOYE A MONSIEVR",
+            "LE DVC DE",
+            "BEAVFORT.",
+            "A PARIS.",
+            "M. DC. XLIX."
+        ],
+        [
+            "3",
+            "SATTRE DE MAZARIN, ENVOYE",
+            "A Monſieur le Duc de Beaufort.",
+            "ENFIN e il en aura, déja le foüet fait clac,,",
+            "Et le ieune frondeut auſi ferme qu’vniroe,",
+            "Sanglera la crouppiere a ce ioueur de Hoc,",
+            "Dont l’auarice a mis noſtre France au biſſae¬?",
+            "98",
+            "leoaſemer ponr lupeſt pire queleie, u",
+            "Toutes ſes actions s’obſeruent ric à ric;",
+            "Et contre le Senat ſes fourbes ſontà ſec",
+            "Il fait voir chaque iour peu de ſens &amp; deſuc,",
+            "Et moins de iugement que l’oyſeau de ſainct Luc,",
+            "Il ne peut eſuiter le Maten ceé́t eſchec.",
+            "83",
+            "Pour le faire ſortir on fait le Triquetrae,",
+            "Il conille, i a peur, ilredoute le choc,",
+            "Ilfranchira pourtant le pas ſans brin d’eſtoe,",
+            "Et paſſera bien-toſt nosRiuieres ſans bac..",
+            "é8",
+            "Il craint certain Arreſt plus que venin d’aſpie,",
+            "Il craint la Gent à crocjà crochet &amp; à pic,",
+            "Et le poltron qu’il eſt fait le ſal à Malec,",
+            "Au plus vil artiſan, comme il feroit au Duc,",
+            "Se voyant à deux doigts proche de ſon des-jue,",
+            "Il ne peut eſuiter le Mat en cét eſchec.",
+            "A ij"
+        ],
+        [
+            "Il a pqur ſon conſeil gens de eorde &amp;de ſae3",
+            "Ilfait cas de ’honneur cõmme Huguenot du Hoc,¬",
+            "Il vend l’Epiſcopat, &amp; des Mitres fait troc,",
+            "Car il n’en donne point fs elque Miquemac.",
+            "8",
+            "3",
+            "lis il ſle fet pſius &amp;t infame rafie,",
+            "4",
+            "L’lpianaeh du Palais ſfait n prpnoſtie,",
+            "Con ul paſſera toſt laphupe par le bees- n",
+            "Fut-il cent fois pluis fier qu’Vvn Flamant dans Boldue,",
+            "oui quionlne edes dus pa de oſonhart ¬",
+            "Il ne peut efuite; le Mai en cét eſche.",
+            "Enuop ſieur ſle ue de Seau&amp;.",
+            "Braue Prince, tu ſç̧ais combiepeu de eſpe",
+            "A eu ce Cardinal pour gens e ton eſtoc,",
+            "Et qu’il a employé le vert &amp; le ſeci:l oi n1",
+            "Pour mettre ta geandeur en pltoyable affoe:",
+            "Va donc le chaſtier &amp; ſa ſequelle aute;",
+            "e ſuis dans l’aduenir ſçauant comme vn Eoe,-",
+            "Il ne peut eſuiter le Mat en céteſchec."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
+    ]
+}

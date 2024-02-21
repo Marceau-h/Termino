@@ -1,0 +1,130 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-02",
+            "@who": "AB"
+        },
+        "titre": "Funeste (le) hoc de Jules Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-02-24",
+                "#text": "24 février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000003353603",
+            "@xml:id": "IL_BoissetNicolas.xml",
+            "persName": {
+                "forename": "Nicolas",
+                "surname": "Boisset"
+            }
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "1",
+            "LE FVNESTE",
+            "HOC DE",
+            "IVLES MAZARIN.",
+            "MAINTENANT que les Deſtinées",
+            "Sont laſſes de te proreger,",
+            "Veus tu encores partager",
+            "L’or de nos Iſles fortunées",
+            "Maudit des hommes &amp; des Dieux,",
+            "Que tres aveuglez ſont les yeux,",
+            "Qui pour te cherir te regardent,",
+            "Que pour te voir pendu demain,",
+            "L iour &amp; les moments nous tardent;",
+            "Mais cela ’eſt oc azarin.",
+            "C’eſt trop embraffer la fortune,",
+            "Elle coule inſenſiblement,",
+            "Et il faut infailliblement",
+            "Chaſſer ta preſence importune:",
+            "lulle, ton bon temps eſt paſé,",
+            "En fin l’œil de Dieu s’eſt laſs",
+            "A",
+            "12s8"
+        ],
+        [
+            "2",
+            "De conſiderer ta folie;",
+            "T Fay encherir noſtre grain;",
+            "Vat’en au Diable en lcalie,",
+            "Car cela t’eſt oc Mazarin,",
+            "La plus belle ville de France",
+            "Té maudit plus de mille fois,",
+            "Toy qui vauit de nuit nos Roys,",
+            "Lus imprinant- la défiance:",
+            "A1.",
+            "C’eſt ainſi que tu nous trahis,",
+            "Afin d’empoarter nos Lov1s;",
+            "Pour conjurer cette tempeſte,",
+            "Plutoſt auiourd’huy que demain,",
+            "L’on dit quil faut ayoir ta reſte,",
+            "Cela nous eſt Hoc Maaris.",
+            "Dans vn jour de réjouyſſance,",
+            "u chacun cryoit le Roy-boits",
+            "Mazarin, dans la peur, prévoit",
+            "Qu’on diminuëra ſa puiſſance,",
+            "Si bien qu’en faveur de la nuit;",
+            "Il fiſt ſortir à petit beuit",
+            "Le Roy, noſtre Reyne Regente,",
+            "Pour les mener à Saint Germain;",
+            "Mais que bien-toſt tuten répente,:",
+            "Cela nous eſt Hoc aarin.",
+            "¬ ?",
+            "Noſtre Conty, ſi voſtre frere¬",
+            "Tient le party de ce volleur. e",
+            "Nous oppoſons voſtre valer,",
+            "¬"
+        ],
+        [
+            "’ou qui toute la France eſpere.",
+            "Deaufort. Pelbeut &amp; Hodemneour,",
+            "Tout lamoade vous ſait i co.",
+            "Pour en chaſer ce monſtre d’homme.",
+            "Tous ſes Conſeilers &amp;e ſon rain",
+            "envoyez ce banny Rome,",
+            "Et le Hoc &amp; le Mazarin.?",
+            "LA COVR.",
+            "TPour chaſfer ce monſre efroyable,",
+            "uſes Conſeilrs &amp;o ſon ain,",
+            "eſt vne imaeneion du Diable,",
+            "Que le jeu du Hoc Mazarin.",
+            "A PARIS,",
+            "Chez N. BOISSET, ruë̈ Calende, à l’Image",
+            "Sainct Eſtienne.",
+            "M. DC. XLIX."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3"
+    ]
+}

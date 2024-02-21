@@ -1,0 +1,162 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-04",
+            "@who": "MF"
+        },
+        "titre": "Avis donné aux Parisiens avant leur entière désolation.\n          Jouxte l'affiche du 5 juin 1652.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "#text": "Sans Date"
+            },
+            {
+                "@source": "BM_Lyon",
+                "@when": "1652",
+                "#text": "1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "ADVIS",
+            "DONNE",
+            "AVX PARISIENS,",
+            "Auant leur entiere Deſo¬",
+            "lation",
+            "IOVXTE L’AFFICHE DV 5. Iuin 1652.",
+            "A PARIS"
+        ],
+        [
+            "ADVIS DONNE",
+            "AV X",
+            "PARISIENS.",
+            "Auant leur entiere Deſo¬",
+            "lation.",
+            "Affſiché́ ̀ Paris le;. uin 1652.",
+            "Meesevs.",
+            "e penſe que vous ſerez inſenſibles à̀ vos mi¬",
+            "l eres; juſques à ce qu’il ne ſera plus temps d’en",
+            "auoir du reſſentiment: Et que vous n’applique¬",
+            "les remedes aà̀ vos maladies, que lors qu’elles",
+            "e deſelperdes pr la deniere de io le",
+            "Calamitez."
+        ],
+        [
+            "On vous auroit il y a lonag-temps procuré la:",
+            "Paix, ſi les intrigues de voſtre Coadjuteur n’en",
+            "cuſſent empeſche le Traitté.",
+            "Le Mazarin ſeroit ſorty de l’Eſtat, ſi le meſme",
+            "Coadjuteur ne ’euſt rietenu, pour faire plus heu¬",
+            "reuſement jouër ſes intrigues. Ignorez-vous donc",
+            "ce qu’Il braſſe jour &amp; nuict, pour faire naiſtre de",
+            "nouueaux obſtacles a toute ſorte d’accommode¬:",
+            "ment? Ne ſçauez-vous pas qu’il a emprunté",
+            "Quatre milhons, pour auoir dequoy former vn",
+            "puiſſant Parrty; &amp; qu’il a fait eſperer aà ceux qui.",
+            "Iuy ont preſteé cét argent, qu’il le leur rembour.¬",
+            "ſeroit, lors qu’il le ſeroit pouſſe à la Charge de",
+            "Premier Miniſtre d’Eſtat? Ne ſç̧auez vous pas",
+            "que ſous la meſme eſperance, il a gagné qua¬",
+            "1re Ducs, ſeize Marquis, cinq Comtes, &amp; dix",
+            "Conſeillers du Parlement, dont j’eſpargne les",
+            "noms à ſa Cabale; afin d’en faire les premiers Arcs¬.",
+            "boutans de ſon Tyrannique deſſein? N’auez¬",
+            "vous point appris, qu’il a fait tout ſon poſſible",
+            "auec la Chevreuſe, pour deſbaucher les loüables",
+            "intentions de ſon Alteſſe de Lorraine; auec aſ¬",
+            "ſeurance qu’il luy donnoit, Qu’il ſe rendroit",
+            "maiſtre de l’eſprit de ſon Alteſſe Royale, pour",
+            "en faire le Chefd’vn troiſreſme Party? lgnorez¬",
+            "vous qu’il taſche de pratiquer ſecrettement l’eſ¬",
+            "prit de Mademoiſelle; pour gagner, par ſon",
+            "moyen"
+        ],
+        [
+            "moyen, eeluy de Monſieur le Duec d’Orleans?",
+            "N’auez-vous point oüy dire, qu’il a reſpondu à̀",
+            "vn de ces Amis, qui ſe plaignoit des miſeres du",
+            "Temps, Qu’il ne ſe pouſſeroit jamais au Mini¬",
+            "ſteriat, ſans aucune reſiſlance, que lors que les",
+            "Peuples ſeroient entierement deſolez? Ne ſça¬",
+            "uez-vous point qu’il traitte ſecretrement auec",
+            "les Religionnaires; Et qu’il fait eſperer aux Ian¬",
+            "ſeniſtes qu’il fera proteger toutes leurs Opinions",
+            "par l’authorité de leurs Majeſtez, pourueu qu’ils",
+            "conſpirent &amp; de forces &amp; d’argent, au deſſein",
+            "qu’il a de ſ’eſleuer dans le Miniſtere d’Eſtat!",
+            "N’auez vous point oüiy dire, Qu’il marche ac¬",
+            "compagneé́ d’vn bon nombre de Sarellites armez,",
+            "po ſllioioo p¬ la aſar-n alant la It:",
+            "Et qu’vn de ſes Auſmoniers, homme de bien, à",
+            "dit, Que la paſſion de ſ’agrandir, dominoit tel.",
+            "lement ſur l’eſprit de ce pauure Prelat, qu’elle",
+            "ne luy permet plus de dire ſon Breuiaire? Enfin",
+            "ne ſçauez-vous point qu’il ſeſt vanté, Que s’il",
+            "eſtoit jamais le Confident de ſon Roy, il affoi¬",
+            "bliroit tellement les Pariſiens,-qu’ils n’au¬",
+            "roient plus qu’autant de forces qu’il en faudroit",
+            "pour executer aueugleément toutes ſes volon¬",
+            "tez.",
+            "Nonobſtant toutes ces connoiſſances que vous"
+        ],
+        [
+            "auez de ſon eſprit intrigueur, vous ſupportez en¬",
+            "core ſa preſence ſans murmurer? Vous voyez",
+            "qu’il marche par vos ruës en ſeditieux, pluſtoſt",
+            "qu’en Prelat, ſans crier: Au boute feu. Vous",
+            "permettez qu’il prolonge les deſordres, ſans en",
+            "contre-quarrer les deſſeins. Vous voyez que tous",
+            "ſes attentats ne tendent qu’aà la des-vnion de vos",
+            "Chefs, &amp; vous luy laiſſez la liberté d’agir. Vous",
+            "connoiſſez qu’il ne peut reüſſir dans ſes inten¬",
+            "tions, qu’au deſavantage du bien Public. Et",
+            "qu’il a pour premiere maxime, de vous deſtruire",
+            "pour s’eſleuer ſur vos ruines: &amp; vous ne vous met¬",
+            "tez pas en deuoir de vous en deffaire.",
+            "MLSSIE daſhuſa-uoe. Si c’eſt vn",
+            "Prelat, qu’l agiſſe en Prelat pour ſe faire reſpecter.",
+            "Puis qu’il abandonne le ſoin de la Croix, pour",
+            "prendre celuy de l’Eſpée; il ſe ſoubſmet aux vo¬",
+            "ſtres. Il ne faut pas regarder ce qu’il eſt, mais ce",
+            "qu’il fait Il n’ya que le reſpect qui vous a per¬",
+            "dus. Perdez le reſpect, puis qu’on perd l’amour",
+            "qu’on vous doit. Ny le Coadjuteur ny la Che¬",
+            "vreuſe, ne valent rien. S’ils pretendent que vous",
+            "ſeriez criminel en les perdant, qu’ils ſe dérobent",
+            "promptement à̀ vos juſtes fureurs; Autrement",
+            "puis que voſtre repos, &amp; le retour de l’abondance"
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6"
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Joly‎, Guy‎ (16..-1678)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-04",
+            "@who": "AB"
+        },
+        "titre": "Arrest d'absolution de Me Guy Joly, conseiller du Roy\n          au Chastelet. Avec la permission de continuer son information. En Parlement le 1. février\n          1650.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": {
+            "@source": "Mazarine",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000110403338",
+            "@xml:id": "IL_LangloisDenis.xml",
+            "persName": {
+                "forename": "Denis",
+                "surname": "Langlois"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "D'ABSOLVTION",
+            "DE ME GVY IOLY,",
+            "CONSEILLE DV ROT",
+            "AV CHASTELET.",
+            "Auec la permiſſion de continuer ſon information.",
+            "En Parlement le 1. Février 1650.",
+            "A PARIS,",
+            "Chez DENYS LANGLOIS, au mont S. Hilaire,",
+            "à l’Enſeigne du Pelican.",
+            "M. DC. L."
+        ],
+        [
+            "Boiſſy, Commiſſaire &amp; Examinateur",
+            "au Chaſtelet, à la Requeſte de Me Guy",
+            "Ioly, Conſeiller du Roy audit Chaſte¬",
+            "let, demandeur contre les cy denom¬",
+            "mez: Rapport de la viſitation de la per¬",
+            "ſonne d’iceluy Ioly dudit iour &amp; dou¬",
+            "iéme enſuiuant, ſigné Moreau, Me¬",
+            "decin, Menard, Pignon, &amp; la Saulaye,",
+            "Chirurgiens. Autre Rapport de la vi¬",
+            "ſitation de ſa perſonne fait de l’ordon’¬",
+            "nance de ladite Cour par les Medecin",
+            "&amp; Chirurgiens Iurez d’icelle dudit iour",
+            "1I. Decembre,ſigne Rinſſent, Medecin,",
+            "Granger &amp; Belloy Chirurgiens. Au¬",
+            "tres informations, l’vne faite par les",
+            "Lieutenans, Ciuil &amp; Criminel de cet¬",
+            "re Ville, Preuoſté, &amp; Vicomteé́ de",
+            "Paris, coniointement: L’autre par",
+            "lre erie",
+            "ledit Lieutenant Criminel les dou¬",
+            "ziéme &amp; treizieme dudit mois de",
+            "Decembre. Arreſt de ladite Cour",
+            "cho¬"
+        ],
+        [
+            "o",
+            "choſes auroit eſté permis audit Proeu",
+            "reur General faire informer par addi¬",
+            "tion; à cette fin obtenir monition, in¬",
+            "formation, &amp; continuation d’icelle, en",
+            "execution dudit Arreſt faite par leſdits",
+            "Commiſſaires commis leſdits ioursi.",
+            "14. 16. 17. 1I8. 21. dudit mois de De¬",
+            "cembre, &amp; 18. Ianuier dernier, aà̀ la",
+            "Requeſte dudit Procureur General,",
+            "pour raiſon de l’é́motion arriueée au",
+            "Palais, &amp; Aſſemblées faites en cette",
+            "Ville ledit iour r. Decembre. Arreſt",
+            "de ladite Cour du 2o. dudit mois de",
+            "Decembre, par lequel entr’autres cho¬",
+            "ſes auroit eſté ordonné que le nommé́",
+            "Roquemont, cy-deuant Lieutenant de",
+            "la Compagnie du ſieur de la Boulaye,",
+            "ſeroit ouü̈y &amp; interrogé ſur le contenu",
+            "eſdites Informations, cependant de¬",
+            "meureroit priſonnier en la Concier¬",
+            "gerie du Palais. Interrogatoires aà̀ luy",
+            "faites par leſdits Commiſſaires com¬"
+        ],
+        [
+            "¬",
+            "mis ledit iour 2o. Decembre. Autres",
+            "Interrogaroires par eux faits les y &amp;",
+            "18. Ianuier dernier, à Maiſtres Ma:",
+            "thieu DeſMartineaux Aduocat en la¬",
+            "dite Cour, &amp; Michel Belot Aduocat",
+            "au Conſeil Priué du Roy, ſuiuant l’Ar.",
+            "reſt dudit iour Ianuier, contenants",
+            "leurs confeſſions &amp; denegations. Re¬",
+            "queſtes preſentées à la Cour par ledit",
+            "Ioly, à ce que pour les cauſes y conte¬",
+            "nuës il luy ſoit permis continuer ſo¬",
+            "Information, à cette fin obtenir M¬",
+            "nition, meſmes le renuoyer de l’Accu¬",
+            "ſation contre luy intenté́e. Conclu¬",
+            "ſions dudit Procureur General du",
+            "Roy. Tout conſidere: DIT a eſte,",
+            "Que ladite Cour a renuoyé &amp; renuoye",
+            "ledit Ioly de l’Accuſation contre luy",
+            "intentée, luy pormet continuer ſon",
+            "Information par leſdits Conſeillers",
+            "commis à cette fin, obtenir Monition",
+            "en forme de droict: Enioint à tous"
+        ],
+        [
+            "Curez, Vicaires, &amp; autres Preſtres,",
+            "icelle publier &amp; fulminer, à ce faire",
+            "contraints par ſaiſie de leur temporel,",
+            "pour le tout communiqué́ audit Pro¬",
+            "cureur General, &amp; veu eſtre fait droit",
+            "ainſi qu’il appartiendra. Fait en Par¬",
+            "lement le r. Fevrier 1650.",
+            "Signé, LE TENNEVR."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "12",
+        "13",
+        "14",
+        "15"
+    ]
+}

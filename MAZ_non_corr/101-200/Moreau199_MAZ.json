@@ -1,0 +1,164 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Le Tillier, Jacques (16..-16..)",
+            "Taille (impôt)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-09",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Dauphiné sur l’exécution\n          des déclarations de Sa Majesté, concernant le paiement des tailles , nonobstant\n          l’ordonnance faite par le sieur Le Tillier, conseiller du roi en ses conseils\n          etintendantdesfinances de France.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000106573561",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Dauphiné"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1650-03-05",
+                "#text": "daté du 5 mars 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "1",
+            "ARREST DE LA COVR DV PARLEMENT DE",
+            "Dauphiné, ſur l’execution des Declarations de ſa Maieſté con¬",
+            "cernant le payement des tailles, nonobſtant l’Ordonnance faite",
+            "par le ſieur le Tillier Conſeller du Roy en ſes Conſeils, &amp; Iu¬",
+            "tendant des Finances de France.",
+            "g VR la Requeſte verbalement faite à la Cour par le",
+            "Procureur general du Roy, contenant qu’encore",
+            "que pas la Declaration deſa Maieſté du s. du mois",
+            "e de Iuillet648. &amp; Arreſt d’enregiſtrement d’icelle,",
+            "toutes lesCommiſſions extraerdinaires ſoient reuoqué́es, &amp;or¬",
+            "donné que celles qui ſeront expedié́es aà̀ l’aduenir, ne pour¬",
+            "ront auoir lieu, ny eſtre reconnues &amp; executées qu’apres auoir",
+            "eſteé preſentées &amp; verifiées; Neantmoins il eſt venu à ſa con¬",
+            "noiſſance, &amp; eſt de notorieté publique que le 4. du mois",
+            "de Fevrier dernier pluſieurs exemplaires imprimez ont eſté",
+            "s trouuez affichez dans les carrefours, places &amp; autres lieux",
+            "plus frequentez de la Ville, d’vne Ordonnance ſous le nom",
+            "du ſieur le Tillier Conſeiller du Roy en ſes Conſeils &amp; In.",
+            "tendant des Finances de France, en qualité́ de Comiſſai.¬",
+            "re deputé par ſa Majeſté, ſans qu’aucune Commiſſion ayt",
+            "eſté preſentée, ny paru de ſa part, ny meſme qu’il en aye",
+            "donné connoiſſance aà la Cour: Mais ce qui a le plus ſur¬",
+            "pris &amp; eſtonné le public, a eſteé de voir cette Ordonnance",
+            "conceuë coniointement ſous le nom dudit ſieur le Tillier,",
+            "&amp; des Preſidens &amp; Treſoriers generaux de France en la Ge¬",
+            "neraliré́ de ce Pays, deſauoü̈ée en meſme temps par vne au¬",
+            "tre Ordonnance dudit Bureau des Finances pareillement"
+        ],
+        [
+            "2",
+            "publiée &amp; imprimée, ainſi qu’il appert par l’vne &amp; par l’au¬",
+            "tre; &amp; bien que ces circonſtances ſoient aſſez conſidera¬",
+            "bles pour obliger le Parlement de pouruoir aux impreſſions",
+            "qu’elles peuuent cauſer dans les eſprits, ſi eſt-ce qu’il eſt",
+            "beaucoup plus important de remarquer qu’encor que la",
+            "Declaration du mois d’Octobre mil ſix cens quarante-huict",
+            "en ſon ampliation du quatorzieſme Iuin dernier, ordon¬",
+            "ne expreſſément que les deſpenſes mentionnées en icelles,",
+            "ſeront priſes ſur le fonds des tailles &amp; taillons, &amp; les de¬",
+            "niers laiſſez és mains des Receueurs, l’Ordonnance dont",
+            "il s’agit, ordonne indifferemment de tous les deniers qu’ils",
+            "ſeront inceſſamment portez à l’Eſpargne; Et finalement",
+            "qu’au lieu que la Declaration veut qu’il ſoit procedé au re¬",
+            "couurement des impoſitions par les voyes ordinaires &amp;",
+            "preſcrites par les Ordonnances, l’ordonnance dudit ſieur",
+            "Intendant, porte qu’à defaut d’y ſatisfaire les contraintes",
+            "ſeront executées par logement des Gens de Guerre. Par¬",
+            "rant requeroit que pour preuenir les ſuites qui en pour¬",
+            "roient arriuer, il y ſoit pourueu ſi expreſſément, qu’il ne",
+            "reſte plus d’ohſtacle ny de pretexte qui retarde l’execution",
+            "entiere des Declarations de ſa Majeſté deſdits mois de Iuil¬",
+            "let &amp; Octobre mil ſix cens quarante-huict. Arreſts de ve¬",
+            "rification d’icelles, &amp; autres donnez en conſequence pour",
+            "eſtre le tout executé ſelon ſa forme &amp; teneur ſans aucun",
+            "retardement: LA COVR, les Chambres aſſemblées,",
+            "enterinant ladite Requeſte, declare ladite Ordonnance con",
+            "raire auſdites Declarations de ſa Majeſté, en re que ledis",
+            "ſieur le Tillier a pris la qualité de Commiſſaire deputé par",
+            "ſadite Majeſté pour le reglement des tailles de cette Prouin¬",
+            "ce, ſans que ſa Commiſſion ayt eſté preſentée à la Cour &amp;"
+        ],
+        [
+            "verifiée par elle: Et en ce qu’il eſt ordonné que les deniers",
+            "des tailles portez à̀ la recepte generale, ſeront voiturez à̀",
+            "l’Eſpargne, ſans que par vn prealable le rembourcement",
+            "&amp; impuration ordonnée par leſdites Declarations en faueur",
+            "des Communautez qui ont ſoufert les paſſages &amp; logemens",
+            "des Gens de Guerre ayent eſté faits, &amp; en outre en ce qu’il",
+            "eſt porté par ladite Ordonnance que les Communautez ſe¬",
+            "ront contraintes au payement de leurs tailles par le loge¬",
+            "ment des Gens de Guerre contre les intentions de ſa Maje¬",
+            "ſté́, exprimez eſdites Declarations, où il eſt dit que les",
+            "tailles ne ſeront leuées que par les voyes de luſtice, con¬",
+            "formement aux Ordonnances; Et en conſequence, ſans",
+            "auoir égard aà ladite Ordonnance, fait inhibitions &amp; defen¬",
+            "ſes à toutes perſonnes, ſous quelque cauſe &amp; pretexte que ce",
+            "ſoit, d’executer auecunes commiſſions extraordinaires, qu’elles",
+            "n’ayent eſté preſentées à la Cour, &amp; verifiées par elle: Or.",
+            "donne que ſon Arreſt du troiſieſme du preſent mois ſur le",
+            "ſuiet des rembourcemens &amp; imputations en faueur des Com¬",
+            "munautez, qui ont ſouffert les paſſages &amp; logemens des Gens",
+            "de Guerre, ſera executé ſelon ſa forme &amp; teneur, &amp; en ſuit.",
+            "re que conformément à iceluy leſdits rembourcement &amp;",
+            "imputations faites au profit deſdites Communautez, &amp; les",
+            "dneiene l ene ne e unu e one enrnu neneie e",
+            "l’Eſpargne: Enioint aux Receueurs des Communautez de",
+            "proceder inceſſamment à la Recepte des arterages des tail¬",
+            "les des années mil ſix cens quarante-ſept, mil ſix cens qua¬",
+            "rante-huict, &amp; mil ſix cens quarante- neuf, leur a permis",
+            "de contraindre au payement les delayans, &amp; refuſans par",
+            "toutes voyes de Iuſtice preſcrites par les Ordonnances du",
+            "Roy, Arreſts &amp; Reglemens de la Cour, &amp; ſera le preſent"
+        ],
+        [
+            "Arreſt imprimé, leu &amp; publié́ en Audiance, affiché où il",
+            "appartiendra, &amp; enuoyé aux ſieges Royaux &amp; Preſidiaux",
+            "de ce reſſort, pour y eſtre pareillement leu &amp; publié́ à la dili¬",
+            "gence des ſubſtituts du Procureur general qui en certifie¬",
+            "ront la Cour dans la quinzaine, à̀ peine de ſuſpenſion de",
+            "leurs charges. Fait à Grenoble en Parlement le cinquieſme",
+            "Mars, mil ſix cens cinquante. Signe DVPRE",
+            "Extrait des Registres de la Cour de",
+            "Parlement de Dauphiné."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11",
+        "12"
+    ]
+}

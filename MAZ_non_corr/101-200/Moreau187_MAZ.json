@@ -1,0 +1,100 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+            "Conti, Armand de Bourbon (1629-1666 ; prince de)",
+            "Longueville, Henri II (1595-1663 ; duc de)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-09",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Bordeaux pour la liberté\n          de messieurs les princes.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-02-13",
+                "#text": "daté du 13 février 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE BOVRDEAVX,",
+            "Pour la liberté de Meſsieurs",
+            "les Princes.",
+            "A PARIS.",
+            "Ioune la copple imprimee a Pourdeaux.",
+            "M. DC. LI."
+        ],
+        [
+            "Etraict des Regiſtres du",
+            "Palement.",
+            "SVR ce quiaeſté repre¬",
+            "Iente alà Courquleſt",
+            "ſ a propos de continuër",
+            "les pourſuittes quelle a",
+            "fait diuerſes fois pour la libert é de",
+            "Meſsieurs les Princes &amp; Duc de",
+            "Longuevible, comme eſtant cho¬",
+            "ſe tres-neceſſaire pour le bien de",
+            "l Eſtat. Ouis ſur ce les Gens du",
+            "Roy, LA COVRaordonń",
+            "que ſes Deputez contnuëront in¬",
+            "ceſlamment les tres-humbles ſup.",
+            "plications au Roy &amp; à la Reine re¬"
+        ],
+        [
+            "1",
+            "gente ſur la liberté́ de Mefiu",
+            "les Pnnees &amp; De de Lesut",
+            "le, &amp; aſin qu’i plaile aleirs iale¬",
+            "ſtez de commarde les expeditiõs",
+            "nece ſſaires cet eſſéc, &amp; den",
+            "uoyer à ſon lParſererta Declara¬",
+            "tion de leur innocence. Faict à",
+            "Bourdeasx ee Ptſentfe3",
+            "Chamhres aſenilslees letreiieſ",
+            "me Feburier mPſt cens qmquan¬"
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
+    ]
+}

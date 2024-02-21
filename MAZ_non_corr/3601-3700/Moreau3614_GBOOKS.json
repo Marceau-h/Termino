@@ -1,0 +1,167 @@
+{
+    "imprimatur": "AVEC PERMISSION.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-06-13",
+            "@who": "ZC"
+        },
+        "titre": "Seconde lettre de monseigneur le duc de Guise à un grand\n          seigneur de France sur sa fidélité pour mademoiselle de Pont (sic).",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:000000012131180X",
+            "persName": {
+                "forename": "Henri II de",
+                "surname": "Guise"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000110423830",
+            "@xml:id": "IL_LaVigneNicolasde.xml",
+            "persName": {
+                "forename": "Nicolas de",
+                "surname": "La Vigne"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "SECONDE",
+            "LETTRE",
+            "DE",
+            "MONSEIGNEVR",
+            "LE",
+            "DVC DE GVISE",
+            "A VN GRAND SEIGNEVR",
+            "de France, ſur ſa fidelité pour Made¬",
+            "moiſelle de Pont.",
+            "A PARIS,",
+            "Chez NICOLAS DE LA VIGNE,",
+            "prés Sainct Hilaire.",
+            "M. DC. XLIX.",
+            "AVEC PERMISSION."
+        ],
+        [
+            "SECONDE",
+            "LETTRE DE",
+            "Monſeigneurgr le Duc de",
+            "Guiſe à vn grand Seigneur",
+            "de France, ſur ſa fidelité pour",
+            "Mademoiſelle de Pont.",
+            "déonsiva,",
+            "s la paſſion que iay tou¬",
+            "ſour eue. &amp; que ie conlerue plus violente &amp;",
+            "plus fidelle que iamais pour Mademoiſelle de",
+            "le ale oene e enuen e neie eeun¬",
+            "me trouue, ie remets ſur ce qu’elle pourra ap¬",
+            "A"
+        ],
+        [
+            "prendre de Monfieur le Marquis de Fontenay;",
+            "des affaires d’icy l’entretien de mes malheurs.",
+            "C’eſt vn efſect du deſeſpoit où ie’ſuis qu’il faut",
+            "que ie ne puiſſe auoir ſentiment, pourquoy que",
+            "ce puiſſe eſtre, luy fſant vne confeſſion tres¬",
+            "veritable, que ny l’ambition, ny le deſir de m’in¬",
+            "mortaliſer par des actions extraodinaires, e",
+            "m’a embarqué́ dans vn deſſein ſi perllleux que",
+            "celuy où ie me trouue: Mais la ſeule penſée fai¬",
+            "ant quelque choſe de glorieux de nmieux meri¬",
+            "ter les bonnes graces de Mademoiſelle daPons,",
+            "&amp; d’obrenir par l’importance de mes ſeruices",
+            "que la Reyne conſiderera &amp; elle &amp; moy; le pen¬",
+            "ſois apres tant de perils &amp; de peines paſſer dou¬",
+            "cement auccelle leerete de nés iours Mes eſ¬",
+            "perances ſont bien trompeées, ie me plains auec",
+            "raiſon de me voir abandonné de la protrection",
+            "de voſtre Eminence dansle temps où i’en auois",
+            "le plus de beſoin, &amp; ie me tenois ’le plus aſſeuré,",
+            "i’ay hazardé ma vie dans le paſſage ſur la mêr.",
+            "I’ay reduit dans ce party quai toutes les Pro",
+            "uinces de ce Royaumes. I’ay maintenu la guer¬",
+            "ne quatre mois ſans poudre &amp; ſas argent, &amp;",
+            "seduit dans l’obeyſſance vn peuple erflaminmé",
+            "oſans auoirvn moment de repos, &amp; meſnes ay",
+            "afté deux iours ſans pain. l’ay cent fois eſuité la",
+            "oreparle poiſen &amp; les reuoltes. Tout le mod¬",
+            "Le"
+        ],
+        [
+            "3.",
+            "¬¬¬¬..aaaa¬¬¬",
+            "de m’a trahy, mes domeſtiques meſmes ont",
+            "eſté́ les premiers aà aſcher de me deſtruire;",
+            "l’armé́e n’a par que pour moſter la ereanoee",
+            "parmy le peuple, &amp; par conſequent le moyen",
+            "de reüſſir parmy tous ces embarras, ne ſubſi¬",
+            "ſtant que par mon cœur &amp; ma reſolurion. Au",
+            "lieu de m’enſç̧auoir gré, &amp; de me donner cou¬",
+            "rage de continuer ce que i’ay ſi heureuſement",
+            "commécé́, où ie puis dire ſans vanité, que tout",
+            "autre que moy auroit eſchoué, l’on me perſe¬",
+            "cte en ce qui m’eſt le plus ſenſible, l’on tire",
+            "auecviolence vne perſonne que i’ayme, d’vn",
+            "Couucnt ou ie l’auois priée de ſe retirer, &amp; du¬",
+            "rant le temps que i’ay hazardé ma vie l’on",
+            "m’oſte la ſeule recompenſe que ie pretendois",
+            "de tous mes trauaux. Onl’a mal traicté, &amp; l’o¬",
+            "me donme le plus grand &amp;e le plus ſenſible teſ¬",
+            "moignage de haine que l’on m’euſt peu don¬",
+            "ner Si voſtre Eminence a quelque ſentiment",
+            "de l’amitié qu’elle m’a promſe, &amp; des ſerui.",
+            "ces que ie luy ay vouë, ie la ſuplie de reraedier",
+            "à ce deplaiſir. Faites moy voir en ce point",
+            "quelle eſt ſon amití &amp; ſon eſtime pour moy,",
+            "&amp;’en toute autre ie luy ſeray, voir que iamais",
+            "homme ne luy fut ſi veritablement aquis. Sans",
+            "cela ny fortuane ny grandeur, ny meſmes la",
+            "B",
+            "i"
+        ],
+        [
+            "vie, ne me ſont pas conſiderables: Ie m’aban¬",
+            "donne tout aà̀ fait au deſeſpoir. Si ie voit qu’il",
+            "ae me reſte plus d’eſperance d’eſtre v iour",
+            "heureux renonçant à̀ tout ſentimeét, &amp; d’hon¬",
+            "neur &amp; d’ambitio. Ie n’auray de penſée au",
+            "monde que celle de parir ou de ne ſuruaiure à",
+            "vne telle afliction qai me fait perdre le tepos",
+            "&amp; la raiſon. Ioſe me pronmettre que ma con¬",
+            "ſideratian eſt aſſez chere à V. E. pour e voir",
+            "pas perir la perſonne du mode qui malgreé",
+            "les Aſtres &amp; le ſujet qu’il a de ſe plaiadre, ae",
+            "laiſſe pas d’eſtre le plus veritablement",
+            "MONSIEVR. ſ¬",
+            "De V. E."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6"
+    ]
+}

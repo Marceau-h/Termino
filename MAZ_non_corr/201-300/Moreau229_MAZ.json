@@ -1,0 +1,97 @@
+{
+    "imprimatur": "Auec Pruilege de ſa Majeſté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Militaires",
+            "Destruction et pillage"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant défenses, aux gens\n          de guerre, de commettre aucunes violences, voleries, pillages, incendies et autres actes\n          d’hostilité sur les sujets du roi et habitants des villes, bourgs, bourgades et villages\n          ès environs de Paris et ailleurs, à peine de la vie.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01-21",
+                "#text": "21 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "Arreſt de la Cour",
+            "DE PARLEMENT.",
+            "PORTANT DEFENSES AVX GENS",
+            "de guerre, de commettre aucunes violences, vole¬",
+            "ries, pillages, incendies, &amp; autres actes d’hoſtilité,",
+            "ſur les Subjets du Roy &amp; Habitans des Villes,",
+            "Bourgs, Bourgades &amp; Villages é́s enuirons de",
+            "Paris &amp; ailleurs, à peine de la vie.",
+            "Du vingtiéme Ianuier mil ſix cens quarente-neuf.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Pruilege de ſa Majeſté."
+        ],
+        [
+            "4",
+            "is Eioint ̀ eous Onieies &amp;e oubies ds oi",
+            "tenir la main à l’execution du preſent Arreſt, Le¬",
+            "quel à la diligence dudit Proeureur General, ſers",
+            "leu, publié à ſon de Trompe &amp; cry publie, &amp; affieh&amp;",
+            "par tous les Carrefouts de cette Ville &amp; Faux",
+            "Og, prtout ailleurs que beſoin ſera- opea",
+            "en Parlement le vingtiéme Ianuier mil ſix cens qua¬",
+            "rente-neuf. Signé, DV TILLET.",
+            "i Collionoé l’ariginal par eoy Conſeile-s-crerae",
+            "du Roy &amp; de ſes Finances..",
+            "E vingt-vhoiéme iour de Ianuier mil ſix cens qua",
+            "rente-neuf, l’Arreſt cy- deſſus de Noſſeigneurs de la",
+            "Cour de Parlement, a- eſté leu &amp; publié́ ̀ ſon de Trompe",
+            "&amp; cry public, par tous les Carrefours ordinaires &amp; ex¬",
+            "trordinaires de cette Ville &amp; Fauxbourgs de Paris, par",
+            "moy Iean Ioſſier, lIaré Crieur ordinaire du Roy en la Ville,",
+            "Preuoſté &amp; Vicomté́ de Parus, aſſiſté de Didier Ordin,",
+            "Iean du BPos, &amp; Iacques le Frain, Irez Trompettes du",
+            "Roy eſdits lieux. Signié, IOSSIER."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "12"
+    ]
+}

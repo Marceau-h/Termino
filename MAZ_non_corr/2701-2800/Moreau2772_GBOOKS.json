@@ -1,0 +1,187 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "Discours adressé",
+            "Placet"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-06-15",
+            "@who": "AB"
+        },
+        "titre": "Placet présenté à Son Altesse Royale par Jean Le Riche,\n          sieur de Verneuile (sic), bourgeois et habitant de Paris, sur le moyen qu'il a donné à\n          messieurs les princes de faire le dernier effort pour chasser le cardinal Mazarin sans\n          fouler les peuples.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": "Jean",
+                "surname": "Le Riche"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000077130621",
+            "@xml:id": "IL_MaretteVeuvedeClaude.xml",
+            "persName": {
+                "forename": "Veuve de Claude",
+                "surname": "Marette"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "PLACET",
+            "PRESENTE’",
+            "A SON ALTESSE",
+            "ROYALLE.",
+            "PAR IEAN LE RICHE,",
+            "Sieur de Verneuile, Bourgeois",
+            "&amp; habitant de Paris.",
+            "Sur le moyen qu’il a donné à Meſsieurs les Prin¬",
+            "ces de faire le dernier effort pour chaſſer le",
+            "Cardinal Mazarin ſans fouler",
+            "les peuples.",
+            "A PARIS,",
+            "Chez la vefue MARETTE.",
+            "M. DC. LII."
+        ],
+        [
+            "3",
+            "PLACET PRESENTE",
+            "ſon A. Roylle, par Iean le Riche,",
+            "Sieur de Varnea, Burgeis &amp;",
+            "habitant dePanis.",
+            "Laiſe aſon Alueſſe oyalule;",
+            "D’auoir eſgard en ſon con4",
+            "eilur tes quily ont eas",
+            ". faites par le nomḿ de Ver¬",
+            "neuil Bourgois de Paris, de lapart de",
+            "tous les Chambrelants &amp; Locami¬",
+            "res de cette Ville, touchantle quart",
+            "dua quartier eſheu à Paſques der¬",
+            "nier, qu’vn chacun eſt en deſſeinde",
+            "donmer volontiers; ſur l’eſperande",
+            "qu’on à d’eſtre ſoulagez à lafin de es",
+            "daſordres, depuis le temps que l",
+            "garde a commencé iuſques au iour",
+            "q’elle finira, où par l’interceſſion",
+            "d Sos Aleſſe Royalle, de Meſ¬",
+            "A ij",
+            "1b"
+        ],
+        [
+            "1",
+            "4",
+            "ſiers les Princes, &amp; des autres per¬!",
+            "ſonnes bien intentionnees pour le",
+            "bien publie, ou par la voye de ha",
+            "force ouuerte, s’ils ne le peuuent au¬",
+            "trement, veu la miſere du temps.",
+            "Ce quart dudit quartier eſtant",
+            "d’autant plus facil à̀ leuer que beau¬",
+            "coupde proprietaires y donnent dé¬",
+            "ja deuucmldnteme ivoyans-que",
+            "da omme quienproduira, donne¬",
+            "ra moyen à vos Alteſlts de termi¬",
+            "merbion-toſt; &amp; pls alſement la",
+            "guerre-par ce ſecous,pandant la¬",
+            "qelle il leur eſt impoſſible de pou¬",
+            "uoir rien eſpeter dûloage deleurs",
+            "haiſoe; Otra aeſne que cea",
+            "donneraieu de faitevn’fonds pour",
+            "aſfurer la recompenſe ptomiſe par",
+            "les Arreſs des Palemaents, à ceux",
+            "quituerõt le Cardinal Mazarin, de la",
+            "perte duquel deſpend le ſalut de lE¬",
+            "tat&amp; des peuplesy &amp;laquolle aurois",
+            "déja"
+        ],
+        [
+            "5",
+            "dé-ja eſté entrepriſe &amp; executée, ſi",
+            "bien qu’il ne s’en parleroit plus, ſi",
+            "lad. ſomme auoiteſté aſsurée àceux",
+            "qui ſe ſont dé-ja pluſieurs foispresẽ¬",
+            "tez pour ce deſsein, ſi l’on eut voulu,",
+            "ou peu mettre cette recompence",
+            "en main tierces pour eſtre deliurée",
+            "apres l’execution de cette importan¬",
+            "te action. CES RAISONS, Monſei¬",
+            "gneur, iointes au deſir qu’vn çha¬",
+            "eun à de voir bien toſt nos miſeres",
+            "finies, ſont capables d’obliger tout",
+            "le monde à ſe ſeigner iuſques à la",
+            "derniere goutte de ſon ſang, pour",
+            "voir la fin de nos ſouffrances auec",
+            "celle de noſtre tyran; cette attente",
+            "faiſant conſentir tous les proprie¬",
+            "taires à le payer, coõme le ſeul moyen",
+            "qu’il ſemble nous reſter, pour pouſ.",
+            "ſer auec vigueur &amp; promptitude",
+            "et ennemy commun, en ſecon¬",
+            "dantles, bonnes intetions de Vo¬¬",
+            "B!"
+        ],
+        [
+            "6",
+            "ſtre Alteſse Rôyalle, de Mefsieur?",
+            "les Pfinces, &amp; de toutes les autcs",
+            "perſonnës affectionné́es à noſtre",
+            "ſoulagement, m’offrant moy meſ¬",
+            "me de vendreé vne maiſon que il’ay",
+            "dans Paris, &amp; vne autre à la Cam¬",
+            "pagne, pour inuiter par mon ex¬",
+            "emple tous ceux qui ne ſeront point",
+            "partizadns. du Cardinadi Mazarin, à",
+            "s’efforcer pour l’accompliſemen",
+            "du deſsein qu’on à de chaſser ce ri¬",
+            "dicule Miniſtre pour iamais du R0¬",
+            "yaume, n’eſtimant point que d’au¬",
+            "tres que ſes emiſsaires refuſent de",
+            "eoncourir de leurs fonces. à cetre",
+            "iſtes reſolution.CEST POVR",
+            "QVOY, onſeigneur leſuphan!",
+            "uttend auiousd’huy. la derniére der",
+            "iſishde sAlreſcs ſui certe prm¬",
+            "poſition, &amp; le pouuoir d’en fairt",
+            "duy meſme la leuée, ur les afsurmn¬",
+            "ces on’l dohhe ’er endrbexa¬"
+        ],
+        [
+            "ctement compte chaque iour auec",
+            "fidelité, &amp; ſans autre intereſt que",
+            "de ſeruir dans cette rencontre vos",
+            "Alteſses &amp; le public, à celuy qui",
+            "par elles ſera aſsigné pour en faire",
+            "la recepte generalle.",
+            "Signé́ DE VERNEVIL."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+    ]
+}

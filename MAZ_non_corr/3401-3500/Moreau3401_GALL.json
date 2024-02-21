@@ -1,0 +1,181 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "Réponse",
+        "subject": "Clergé",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-07-18",
+            "@who": "AB"
+        },
+        "titre": "Réponse (la) de monseigneur l'archevêque et prince\n          d'Ambrun, président de l'assemblée du clergé, faite à monsieur le comte de Fiesque et\n          autres gentils hommes envoyés à ladite assemblée de la part de messieurs de la noblesse,\n          le mercredi 15 mars 1651.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000100694610",
+            "persName": {
+                "forename": "George d'",
+                "surname": "Aubusson de la Feuillade"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-03-15",
+                "#text": "datée du 15 mars 1651"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": {
+                "forename": "Georges",
+                "surname": "Le Rond"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "RESPONCE",
+            "DE MONSEIGNEVR",
+            "L'ARSCHEVEQVE",
+            "ET PRINCE D’AMBRVN,",
+            "PRESIDENT DE L’ASSEMBLEE DV CLERGE,",
+            "faite à Monſieur le Comte de Fieſque, &amp; autres",
+            "Gentils hommes, enuoyez à ladite Aſſemblée,",
+            "de la part de Meſſieus de la Nobleſſe.",
+            "Le Mercredy 15. Mars 1651.",
+            "A PARIS,",
+            "Chez GEORGE LE ROND, ruë S. Iean de La¬",
+            "tran, deuant le College des trois Eueſques.",
+            "M. DC. LI."
+        ],
+        [
+            "3",
+            "RESPONSE DC MONSEIGNEVR",
+            "l’Archeueſque &amp; Prince d’Ambrun, Preſident",
+            "de l’Aſſemblée du Clergé, faite à Monſieur le",
+            "Comte de Fieſque, &amp; autres Gentils-hommes: en¬",
+            "uoyez à ladite Aſſemblée, de la part de Meſsieurs",
+            "dsla Nobleſe.",
+            "Le Mecredy 15. Mars 165.",
+            "MESSIEVRS,",
+            "Bien que Ieſu-Chrſt, lors qu’il a ietté",
+            "Ples fondemens deſon Egliſe, n’ait fait nul¬",
+            "lei diſtinctiondes qualitez de a naiſſance, ou de celles",
+            "de la fortune; Soit pour le choix de ſes Miniſtres, ſoit",
+            "pour la conuerſion des peuples à la Foy de l’Euangile: Il",
+            "a fait ſeruir toutesfois dans le progrez les richeſſes, la",
+            "nobleſſe, &amp; les ſelences à l’édifice celeſte qu’il eſtoit ve¬",
+            "nu éleuer en terre, voulant qe toutes les creaturés de¬",
+            "inſent lesinſtruments de ſes conqueſtes. De ſorte que",
+            "fainct Auguſtin remarque en vn de ſes Sermons, qu’il",
+            "u’a pas reietté les Roys; mais qu’il a differé leur voca¬",
+            "A ij"
+        ],
+        [
+            "4",
+            "o;, an Ge de meſne temps qu’il employoit-pour.",
+            "l’aggrandiſſement de l’Egliſe, l’authorité qué l’Empire",
+            "leur donnoit ſur le reſte des hommes, il pût monſtrer",
+            "par cét éloignenient la vertu du ſcandale de la Croix;",
+            "&amp; qu’il fit cognoiſtre à toutle monde que la -Redem¬",
+            "tion des Grands du ſiecle ne pouuoit eſtre attribuée,",
+            "ny aux richeſſes, ny à la puiſſance. Vous ne deuez done",
+            "pas douter, Meſſieurs, que l’Aſſemblée du Clergé, ſui¬",
+            "uant les mouuemens de l’eſprit ſainct qui l’anime, n’ait",
+            "touſiours conſerué le deſr d’entretenir l’ancienne ami.",
+            "tié de ſon Ordre auec le voſtre; puis qu’en toutes oc¬",
+            "caſions vous auez concouru auec nous à la deffenſe de",
+            "la Religion, à la gloire du Prince, &amp; à la grandeur de",
+            "cette Monarchie. Le lien de la naiſſance eſt vn motif",
+            "aſſez preſſant pour nous attacher auxintereſts d’vn corps",
+            "où nous recognoiſſons nos proches &amp; nos freres; &amp; ſi",
+            "cette conſideration tirée de la chair &amp; du ſang pôuuoir",
+            "toucher les eſprits des Eccleſiaſtiques ſeparéz de tou¬",
+            "res les affections terreſtres, elle ſeroit ſansdoute tres¬",
+            "efficace envn remps où les premieres Prelatlures de ce",
+            "Royaume ſont remplies de perſonnes de contion re",
+            "leuée. Ne ſç̧auonsnous pas auſſique nos Roys par maxi¬",
+            "me politique ont eupourbut de nourrirvne fidele co¬",
+            "reſpondance entre les Eueſques, &amp; les Gentils-hommes",
+            "qualifiez des Prouinces, Vt: ccnſeatientes ſiut Comites",
+            "aoftni cum Epiſcopis dans les Capitulaires de Chalema",
+            "gne. Mais l’inelination nmturelle que nous auons à ho¬",
+            "norervoſtre valeur, qui vous rend redoutables à toutes",
+            "les nations de la rerre, la ſoûmiſſion-religieuſe que’vous",
+            "rendez à la puiſſance ſpuituele de noſtre charaere,",
+            "la re¬"
+        ],
+        [
+            "5",
+            "2.e¬",
+            "ſi recoeoiſſanee de la protedtion que l’E glſe reçoit",
+            "dans ſes,ieps temporels de os armes, ne nous obli¬",
+            "grent pas ſeulement dans la paix &amp; dans le calme à en¬",
+            "trer dans vos ſentimens: Ces meſimes raiſons nus pouſ¬",
+            "ſênt aquſſi auec vous dans les perils, puis qu tandis que,",
+            "vous epoſez genereuſement vos, vies pous le ſeruice",
+            "del’Egliſe &amp; de l Eſtat, nous éleuons nos nains vers le",
+            "Ciel à la façon de Moyſe, ou pour parler aux termes de",
+            "l’Eſcriture, l’Ange du Seigneur combat auec vous par",
+            "neis re ne re eie ni nono s ſauo me de",
+            "vos ames heroiques, qui n’eſt pas enſeuelie dans les",
+            "tombeaux de vos anceſtres, mais qui reuit dans la ſuir¬",
+            "te devos actions genereuſes, qui vous a inſpiré la pen¬",
+            "ſée de vous aſſembler pour la conſeruation de vos pri¬",
+            "uileges; c’eſt cette vieille gloire, pour vſer des termes",
+            "de ſainct Hieroſme, qui n’a pû ſouffrir plus long- temps",
+            "qu’on decidaſt ſans vos ſuffrages toutes les affaires d’vn",
+            "Eſtat qui eſt militaire dans ſa fondation, &amp; dont vous",
+            "compoſez la plus éelatante &amp; la plus floriſſante partie:",
+            "c’eſt enfincette vertu ancienne qui eſt le plus bel orne¬",
+            "ment de la Nobleſſe, qui vous fait demander la refor¬",
+            "mation des defordres de l’Eſtat, qui dépend de la con¬",
+            "ſpiration de toutes ſes parties au bien publie, ſans la¬",
+            "quelle ce grand corps politique eſt ſur le panchant de",
+            "ſa ruine.",
+            "I’ay ſuiet de craindre, Meſſieurs, que le champ de",
+            "voſtre gloire qui me fourniroit vne matiere infinie de",
+            "diſcours, ne m’ouuure vne plus longue courſe que cei¬",
+            "le que les reigles de cette Compagnie me permettent.",
+            "B",
+            "2"
+        ],
+        [
+            "Pour obeyr done ponctuelement à ſes oree; elle m’",
+            "corirdadé de vois adſferer qu'elle tiendra touſiours à",
+            "honneûr particuliér lai cormieatiofl’qu’ plifa",
+            "luy donierde vos intereſts, qu’elle fera toûté la fefléxion",
+            "qu’elle oit ſur les propoſitios que vous Vedee de luy",
+            "faire qu elle les mecrà pteſenehlet en- elibleitstiloa",
+            "ſelon fes foimes &amp; qu’ellé e anquera pái",
+            "matin de vous faire ſçauoir ſa reſoluion par ſes dé¬",
+            "putez."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6"
+    ]
+}

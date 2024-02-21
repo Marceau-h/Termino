@@ -1,0 +1,121 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-31",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant qu'il sera fait\n          assemblée, en l'hôtel de cette ville, pour aviser les (sic) moyens d'entretenir et\n          augmenter les troupes levées contre le cardinal Mazarin, liberté du commerce et des\n          passages, et pour le payement des rentes, dues par Sa Majesté.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-07-24",
+                "#text": "daté du 24 juillet 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
+            "persName": {
+                "forename": "Veuve de Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT.",
+            "PORTANT QV’IL SERA FAIT",
+            "Aſſembleé́e en l’Hoſtel de cette Ville, pour ad¬",
+            "uiſer les moyens d’entretenir &amp; augmenter les",
+            "Troupes leueées contre le Cardinal Mazarin,",
+            "liberté́ du commerce &amp; des paſſages, &amp; pour le",
+            "payement des Rentes deuës par ſa Majeſté́.",
+            "Du Mercredy vingt-quatrieſime Iuillet 1652.",
+            "A PARIS,",
+            "De l’Imprimerie de la Veufue I. GVILLEMOT. Imprimeuſe ordi¬",
+            "naire de ſon Alteſſe Royale, ruë des Marmouzets,",
+            "proche l’Egliſe de la Magdeleine.",
+            "M. DC. LII."
+        ],
+        [
+            "3",
+            "EXTRAICT DES REGSTRES",
+            "de Parlememt.",
+            "CE iour la Cour, toutes les Chambres aſ¬",
+            "ſemblees, Monfieur le Duc d’Orleans",
+            "oncle du Roy, &amp;e le ſieur Prince de Con¬",
+            "dé y eſtans; Apres auoir oû̈y Beſchefert",
+            "Subsitut pour le procureur General du Roy, &amp;",
+            "ayant deliberé ſur l’eſtat des affaires preſentes, &amp; exe¬",
+            "cution de l’Arreſt de ladite Cour du o. de ce mois &amp;",
+            "an; A OrRbo n ’&amp; ordonne, qu’il ſera fait in¬",
+            "ceſſamment vne Aſſemblée generale en l’Hoſtel de",
+            "cette Ville, en la maniere accouſtumée, pour aduiſer",
+            "aux moyens les plus prompts &amp; conuenables, afin",
+            "d’auoir des deniers pous employer aux neceſſitez pre¬",
+            "ſentes, libertez des paſfages, &amp; du commerce, ſeureté",
+            "&amp; defenſe de ladite Ville de Paris, &amp; éloignement du",
+            "Cardinal Mazarin, ſuiuant la Declaration du Roy, &amp;",
+            "Arreſt de ladite Cour; &amp; que les deniers prouenans",
+            "des Fermes des Gabelles, Aydes, cinqgroſſes Fermes,",
+            "Tailles, &amp; autres eſtans entre les mains des Compta¬",
+            "bles, Fermiers &amp; Redeuables, &amp; qui ſeront à l’adue¬",
+            "nir, ſeront apportez inceſſamment en ladite Ville de",
+            "Paris, pour eſtre employez au payement des Rentes",
+            "conſtituées ſur icelle, à la décharge de ſa Majeſté, &amp;¬",
+            "autres neceſſitez; nonobſtant tqus ordres &amp; empeſ¬",
+            "A ij"
+        ],
+        [
+            "chemefs fatrs ou àfaire: Fait deffenſes aaſditsCorms",
+            "ptables, Fermiers, Redevable, &amp; aà̀ toutes autres pee¬",
+            "lonnes de diuertir leſdis deniers à̀ peine du quadru¬",
+            "ple, aute puniioa Ejoimt au Ooiciers du Roy",
+            "lelaeie",
+            "des lieux, Maires, &amp; Eſeheuns des Villes d’y cenir la.",
+            "main. Et ſeront le preſent A rreſt, &amp; celuy du ao. de",
+            "ce mois enuoyez au utrps arlemens, qui ſeron",
+            "oint s Subſticuts dudit Proeureur enerl en cer¬",
+            "tr a pur u mqi. Fit en Parlemont la a2 lu¬",
+            "let654.",
+            "Signé DV TILLET.",
+            "Clolqaé́ ̀ Orgil, pae aoy Caaſeilla,",
+            "Srotauue u Qs, Majſn, (ouraae &amp;",
+            "ar de ſesFiaua."
+        ]
+    ],
+    "pages_number": [
+        "2",
+        "4",
+        "5"
+    ]
+}

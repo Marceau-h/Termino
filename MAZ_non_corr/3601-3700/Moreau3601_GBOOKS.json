@@ -1,0 +1,171 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-06-14",
+            "@who": "ZC"
+        },
+        "titre": "Second (sic) affiche affiché dans la ville de Compiègne\n          pour courir sur le perturbateur du repos public, le cardinal Mazarin étant à présent au\n          château de Bouillon, affiché le 3ᵉ jour de septembre 1652, avec la lettre de Son Eminence\n          écrite à Sa Majesté, de Bouillon le 2ᵉ jour de septembre 1652.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1652-09-03",
+                "#text": "mention du 3 septembre 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "SECOND",
+            "AFFICHE",
+            "Affiché dans la Ville de Com¬",
+            "piegne, pour courrir ſur le per¬",
+            "turbateur du repos public, le",
+            "Cardinal Mazarin, eſtant à",
+            "preſent au Chaſteau de",
+            "Boüillon.",
+            "Affiché le troiſiéme iour de Septembre, 1652.",
+            "AVEC LA LETTRE DE SON EMNENCE",
+            "eſcritte à Sa Maieſté.",
+            "De Boüillon ce 2. iour de Septembre, 1652.",
+            "A PARIS,",
+            "M. DC. LII."
+        ],
+        [
+            "Second Affiche, Affiché",
+            "dans la Ville de Compie¬",
+            "gnepour courrirſur le per¬",
+            "turbateur du repos public,",
+            "leCardinal Mazarin, eſtant",
+            "à̀ preſent au Chaſteau de",
+            "Boillon.",
+            "fihé ;. Sptembre, 65e.",
+            "Auec la Lettre de ſon Eminence eſcritte à",
+            "Sa Maieſte..",
+            "Mssv¬",
+            "C’eſt pourt la ſeconde fois que nous faiſons",
+            "aicher, pour dire à nous meſmes que e",
+            "iuoau eguenes de coœur, que d’auoit laiſſé"
+        ],
+        [
+            "4!",
+            "ſortir celuy qui eſt la cauſe de tant de deſaſtres,",
+            "&amp; qui par ſes trahiſons a mis pluſieurs Villes",
+            "au deſeſpoir, preſque à ſe reuolter-conere Sa",
+            "Maieſté. Nous ne ſerjons pas bops François,",
+            "ſi nous ne prenions que noſtre intefeſtpad.",
+            "culier. A la verité il fautque aousdiſons, ces",
+            "paroles. Ie penſe que nous erons irſenſbles",
+            "a aos miſeres; juſques àee, qu’ilne ſaplus",
+            "temps d’en auoir du reſſentimént: Et qae",
+            "vous ’appliquerez les remelés à vos mla¬",
+            "dies, que lors qu’elles ſeront deſeſpereées par",
+            "par la derniere-de toutes les calamitez.¬¬",
+            "On vous auroit il ya longetemps dj, qjil",
+            "4 2",
+            "falloit prendre les armes, &amp; aller de viue force",
+            "exterminer celuy que Paris deuoit auoir mis à",
+            "mort il y a long temps, &amp; c’eſt aà ce coup qu’il",
+            "faut aller ſur le Mazarin, &amp; y mettre main baſſe",
+            "en de pit de ceux qui en voudrontempeſcher.",
+            "Quoy auons nous pris les arnes ſur le dos",
+            "pour les remettre, eſt-ce qu’il ne faut pas aller",
+            "plus auant dans les affaires: Il y faut aller auec",
+            "courage, &amp; il faut que nous allons querir no¬",
+            "ſtre pain au fil de l’épé́e, conrre vn miſerable",
+            "Sicilien: vomie par Lucifer peſte des enfen,",
+            "Allons braues compatriottes, ſuiuons l’endor¬",
+            "my réueillé de Paris, qui dit,. qu’il n’eſt plu.",
+            "tant"
+        ],
+        [
+            "5j",
+            "tant de ſecourir des Alliez, &amp; qu’il faut tuër",
+            "cetre peſte d’italie, allons à grands pas mar¬",
+            "chons viſte, nous l’ataraperons ſur le chemin¬",
+            "de Boüillon, &amp; nous luy ferons reſſetir l’effet",
+            "de noſtre rage. Allons, nous auonsi auertis Sa",
+            "Maieſté nous luy auons dit, que Sa Maieſteé,",
+            "nous fauoriſaſt tant que de luy donner vn lieu",
+            "de retraitte, ou bien qu’il nous permit de met¬",
+            "re main baſſe ſur luy.",
+            "Le Maarin ſeroitſoreypluſtoſt de l’Eſtat,",
+            "ſivnautre qui eſt tantoſt Frondeur,; &amp; tantoſt",
+            "Mazarin ne l’euſt retenu, pour faire plus heu¬",
+            "teuſement iouër ſes nrrigues Ignorez vous",
+            "donc ce qu’il braſſe iour &amp; nauict, pour faire",
+            "uaiſtre de nouueaux obſtacles à toutes ſortes",
+            "d’accommodement? Ne ſçauez vous pas que",
+            "bon Frondeur, &amp; fidelle Mazarin a emprunté",
+            "trois millions pour luy enuoyer, afin de renfor¬",
+            "cer les Trouppes, pour ſe tenir en ſeurete au",
+            "Chaſteau deBoü̈illon; it fait eſperer à ceux qui",
+            "ley ont preſté́ ceé́t argent qui’il les renbourſera.",
+            "Neſç̧auez vous pas que ſous la meſme eſpe¬",
+            "rance, il a gaigné quantité de perſonnes, &amp;",
+            "meſmes que lques Conſeillers du Parlement",
+            "dont ie laiſſe les noms à ſa Cabale; afin d’en",
+            "faire les premiers Arcs-bourans de ſon Ty¬",
+            "ranuique deſſein."
+        ],
+        [
+            "6",
+            "Il dit qu’il publira que toutes les graces&amp;",
+            "les faueurs qu’il reç̧oit de Voſtre Maieſte, ne",
+            "font qu’vne partie de la recompence qui luy .1",
+            "appartient, quoy qu’il ne vous ſerue de choſe",
+            "quelconque, ſinon d’vn abiſme, ou ſe perdent",
+            "les liebralitez infinis que Voſtre Maieſté y ie¬",
+            "te inceſſament. Sire voyla que nous auons re¬!",
+            "çus des Lettres, des memoires que le voleurde",
+            "voſtre authorite enuoye par tout, voylà con¬",
+            "me il fait pour vous tromper, &amp; en vous trait¬l",
+            "tant de la ſorte que peut on dire de voſte",
+            "perſonne..",
+            "Allons braues Comprtriottes, allons a¬",
+            "ſaillir l’Autheur, de nos ruynes, allons dechirer",
+            "à morceaux celuy qui eſt la perte de nos fam¬",
+            "milles, alſons voir le vomiſſement de Lucifer,",
+            "celuy quia mis toute la France en trouble, afin",
+            "d’en faire vne proye pour les Corbeaux.",
+            "Vos tres fidelles Suiets Vos bons",
+            "Pourgeois de Voſtre bonne ville",
+            "de Compiegne."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6"
+    ]
+}

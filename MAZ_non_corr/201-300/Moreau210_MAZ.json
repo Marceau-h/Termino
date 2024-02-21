@@ -1,0 +1,112 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Vin",
+            "Aides (impôt)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, les chambres assemblées,\n          contre les jurés vendeurs de vins de cette ville de Paris",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1648",
+                "#text": "1648"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1648-10-16",
+                "#text": "16 octobre 1648"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE PARLEMENT",
+            "Les Chambres Aſſemblées.",
+            "Contre les Iurez, Vendeurs de Vins de cette",
+            "Ville de Paris.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLVIII.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "cauſe du droit de Treillis: ce qui augmente notablement le prix dudit Vin;",
+            "Et ce qui ſair vn notable preiudice aux Supplians, eſt la dureté auec laquelle",
+            "ils ſont traittez par les Vendeurs, Courtiers &amp; laugeurs. Car encores que",
+            "par les Edits de creation deſdits Offices, le malheur du ſiecle a produit, il",
+            "ſoit en la liberté des Supplians &amp; des Bourgeois, de ſe ſeruir ou non du mi¬",
+            "niſtere deſdits Vendeurs, Courtiers &amp; Iaugeurs. Neantmoins ils ont ren¬",
+            "du leur fonction neceſſaire, en ſorte que de tous les Vins qui ſont amenez",
+            "en cete Ville par les Supplians, leſdits Vendeurs exigent vingt deniers",
+            "pour chacune liure, &amp; cormptent vingt- vn muid pour vingr, qui eſt vne",
+            "condition contraire à leurt eſtabliſſement: les Courtiers prennent huitſols",
+            "pour chacune piece de Vin, tant groſſe que petite, &amp; les Iaugeurs prennent",
+            "auſſi cinq ſols pour chacune piece. Toutes leſquelles impoſitions jointes",
+            "enſemble, encheriſſent ſi hautement le prix deſdits Vins, qu’il eſt impoſſi¬",
+            "ble qu’il puiſſe eſtre à prix raiſonnable. A CES CAVSES, réque¬",
+            "roient leur eſtre ſur ce pourueu, ce faiſant qu’il leur fut permis de faire aſſi¬",
+            "gner en la Cour tous les Fermiers &amp; autres qui leuent les droicts cy¬",
+            "deſſus, ſut les ’orts ou paſſent les batteaux des Supplians chargez de Vins",
+            "&amp; à l’entrée de Paris, pour rapporter les riltres en vertu deſquels ils perçoi¬",
+            "uent leſdits droicts. Et cependant attendu l’excez des impoſitions qui",
+            "ont accouſtumé d’eſtre leuées aà l’entrée de certedite Vlle de Paris; Faire",
+            "deffences aux Fermiers deſdits droits d’entré́e, d’exiger aucuns des nou¬",
+            "ueaux droits attribuez, depuis le decaeds du deffunt Roy Henry I V. aux Ven¬",
+            "deurs, Iaugeurs &amp; Courtiers de leuer aucun droict des Supplians, ſinon de",
+            "ceux qui ſe ſeruiront actuellement de leur miniſtere, &amp; reduire ledit droit",
+            "de Vendeurs, Courtiers &amp; Iaugeurs ſur le pied des Edicts de leur creation.",
+            "VEV auſſi les Edicts, Declarations &amp; autres’pieces atrtaché́es à̀ ladite Re¬",
+            "queſte. Et ouiy ſur ce les Gens du Roy, Tout conſideré:LADITE",
+            "C O V Ra ordonné &amp; ordonne, que leſdits Supplians auront Cormamiſſion",
+            "pour faire aſſigner en icelle qui bon leur ſemblera, aux fins de leur Re¬",
+            "queſte, &amp; repreſenter les tilnies en vertu deſquelsils perçoiuent des droicts",
+            "ſur les Vins. Cependant par maniere de prouiſion, fait res expreſſes inhi¬",
+            "bitrions &amp; defenſes auſdits Vendeurs, Controlleurs de Vins, de receuoir",
+            "&amp; prendre plus grands droits que les deux tiers de ce dont ils jouiiſſent à",
+            "preſent, ce faiſant ne prendront plus de trente ſols par chacun Muid de Vin,",
+            "de quelque prix qu’il ſoit, &amp; ſeront au ſurplus les Arreſts &amp; Reglemens",
+            "execurez, iuſques à ce qu’autrement par la Cour en ait eſté ordonné. Falt",
+            "en Parlement le quatorzieſme Octobre 1648.",
+            "Signé́,",
+            "GUYET."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "12"
+    ]
+}

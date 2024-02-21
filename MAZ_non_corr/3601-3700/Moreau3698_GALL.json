@@ -1,0 +1,137 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-06-03",
+            "@who": "ZC"
+        },
+        "titre": "Soufflet (le) de la fortune, donué au prince de\n          Condé.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "LE",
+            "SOVFLET",
+            "DE LA",
+            "FORTVNE,",
+            "Donné au Prince de Condé.",
+            "M. DC. L."
+        ],
+        [
+            "LE",
+            "SOVFLET",
+            "DE LA",
+            "FORTVNE,",
+            "Donné au Prince de Condé.",
+            "JA! Prince de Condé, vous eſtes vn Factieux,",
+            "I IU Vous vouliez Furibond preſque eſcheller les",
+            "Cieux,",
+            "C’eurquoy ous aue n reuers deForne,",
+            "Touarant qu’eſtiez haut vous voila abaiſſé,",
+            "nei eun eon eue l no e en rna",
+            "aSé3",
+            "Vous auez laiſſé Dieu, eſtant pis qu’vn Ath́e,",
+            "Et vous auez veſcu d’vne vie hebetée,",
+            "Viuant en In-Chreſtien, bien plus mal que les Iuifs,",
+            "Souffrant des cruautez, &amp; les faiſant conmettre,",
+            "Que de faire eſeorcher, &amp; de bruſler tous vifs",
+            "Des pauures Innocens, des Vieillards, &amp; des Preſtres.",
+            "8¬.",
+            "L , ¬s -a aaas a",
+            "A i"
+        ],
+        [
+            "4",
+            "Venant à y penſer mon iugement S’eſgare,",
+            "Voir qu’ín prince Erançois aie elſté ſi Batbadre",
+            "Que de faire des maux indignes à recitere",
+            "Combien de filles a-t’onviolées, maſſacrées?",
+            "Combienluy &amp; ſes gens ont ils oſé porter",
+            "Leurs ſacrileges mains ſur les chopſes ſacrées.",
+            "oee",
+            "Ha! combien de lieux faincts, &amp; d’Eſouillées,",
+            "Dans icelles on voyoit les filles violées",
+            "Par le commandement de ce voluptueux,",
+            "Qui faiſoient de grands maux de minutes en minutes,",
+            "-",
+            "Les Turcs auroient eſté bien plus reſpectueux,",
+            "Et n’auroient iamais fait ce que faiſoient ces brutes.",
+            "e4",
+            "Vous braues Orateuirs dõnt la langue faconde",
+            "L’auez tant autrefois vanté par tout le monde,",
+            "Et aux plus grnds Heros vous l’auez comPal",
+            "Ne l’eſtimaſit pas moins qu’Hereules &amp; Alexfre;",
+            "Que de palmes &amp; lauriers luy a-t’on preparé,",
+            "Mais il faut à preſent bien le faire deſcendre.",
+            "ée.",
+            "Qu’il ſonge à Bazajet, Richard &amp; Ptolomée,",
+            "Dont autrefois eſt dit grande la renommée,",
+            "Dé combien de malheurs ne furent palonnez,",
+            "Et plus que Balthanar il a fait d’inſolences;",
+            "Car lesvaſes ſacrez il a tant prophanez,",
+            "Et fait faire par tout de grandes violences.",
+            "Ha!"
+        ],
+        [
+            "5",
+            "4a! Prnee malheureux, plain d’vn eſpritinique,",
+            "Vousous eſtes monſtré cruel &amp; tyrannique,",
+            "Car vous auez bien fait pis que ce Roy Payen,",
+            "Dauoir tant enduré d’execrables malices,",
+            "D’autant que l’on a veu par voſtre ſeul moyen",
+            "Soüiller par- tant de fois nos precieux Calices.",
+            "ti4e",
+            "Qui auroit iamais eru qu’vn Prince Catholique",
+            "Eaſſe eſté le Chef d’vne Armée ſninique,",
+            "Qui ont en pluſieurs lieu tant de maux effectuel,",
+            "Tuant &amp; violanttant de Religieuſes,",
+            "Et en diuers endroits les Temples pnlus,",
+            "Enfin faiſanit patous des choſes odieuſes,.",
+            "ee",
+            "Vous penſiez bien Condé ruiner noſtre ville,",
+            "Mais on voit à preſent voſtre enuie inutile,",
+            "Et le deſſein qu’auiez meſchamment conſpiré,",
+            "Vous penſiez tout gaigner par vne haute lute:;",
+            "Songez a Abiron, Dathan &amp; à Choré,",
+            "Qui pour trop s’eſleuer firent vne grande cheute¬",
+            "es",
+            "Veneoneoeoe r ane ne e l on eti",
+            "Et qu’il ſ̧ait du meſchant le deſſein renuerſer:",
+            "Vous voila bien trompé l’affaire eſt eſuentée,",
+            "C’eſt pourquoy il vous faut de beaucoup rabaiſſer,,",
+            "Vous voulez faire vn vol de trop haute portée."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "4",
+        "5",
+        "6"
+    ]
+}

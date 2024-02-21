@@ -1,0 +1,132 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-17",
+            "@who": "AB"
+        },
+        "titre": "Recueil de plusieurs pièces curieuses contre le cardinal\n          Mazarin, imprimées depuis l'enlèvement qu'il fit de la personne du roi, le 6 janvier 1649,\n          jusques à la paix qui fut publiée le 2ᵉ jour d'avril de la même année, et autres choses\n          remarquables arrivées durant les trois mois que ce ministre étranger a allumé la guerre\n          contre le Parlement, le peuple de Paris et autres bons François.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-05",
+                "#text": "à partir de mai ou de juin 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "1"
+    },
+    "texte": [
+        [
+            "RECVEIL",
+            "DE",
+            "PLVSIEVRS PIECES",
+            "CVRIEVSES",
+            "CONTRE LE",
+            "CARDINAL",
+            "MAZARIN",
+            "Imprimées depuis l’enleuement qu'il fit",
+            "de la perſonne du Roy, le 6. Ianuier",
+            "1649. iuſques à la Paix qui fut publiée",
+            "le 2. iour d’Avril de la meſme année.",
+            "ET autres choſes remarquables arriuées durant les trois",
+            "mois que e Miniſtre Eſtranger a allumé la guerre contre",
+            "le Parlement, &amp; le Peuple de Paris, &amp; aures bons",
+            "Francois.",
+            "M. DC. XLIX."
+        ],
+        [
+            "PREFACE SERVANT",
+            "D’AVERTISSEMENT AV LECTEVR.",
+            "E OV dt llr, Tn uemupr la laure des pieres qu",
+            "compoſmt ce Reueil, que la Pieié&amp; ls laſtce ſone des V",
+            "nur preferables à rous les rpſorr du monde, &amp; que la bonme Renonn.",
+            "ée elsgloire que cene qui domiment s’aequieroue par ſleur moyn,",
+            "nt les plu douces recompenſes qu’ls puiſſeut ſouhairer, L’l",
+            "lur roſes, de lar Poiopre d de ſlurauelonte ſe fane e e per",
+            "miement los qu’ils ne le metrent point e praeique, Er nran,",
+            "uit ue les plansſperbes lbsſtimen de lorgrn dlonr qut ne ſoeur pan",
+            "ſouſlenupar ces colomnes &amp; appuyées par les autres enl ei,",
+            "enmes e&amp; Vormle, ſont be ſtrenuereZ &amp; lur funeſdle dle.",
+            "lpe danm ſes mnes nur qu nt dlur lur ſnane f ſee",
+            "ls fondemens, ſl e &amp;o Sſal mon domand à eu qu’llu, dounde",
+            "raonde ſa ſapienee pout ſe mainemir das la ſfe leire e dn",
+            "leire d ure ieonpnſdins u lr aunes nnar que qupue r",
+            "pdensauarle anunr pa ſnhaner, lne domul palr",
+            "de largur, l pmſlios dupluſiunrs ouuns n, ee",
+            "pn ſn nnepal cnrmot dons lanurſeſdiei dnuſu",
+            "e out cela ti faplec punſudle, &amp; que nue qu y u",
+            "oinr aue ae rp doe cup dire, s’arruienrplai ſlranuel.",
+            "lendes dnus pn un oel ene ereu lerun ee",
+            "ode fouhanr l ſpime &amp;r de prſferer e nr ſfs de e",
+            "leſele ledli dhir nes pſa e nnnneu eur e .",
+            "e er e ſ’olnpnr laie e buer aue pu de rauep ſel",
+            "de ſlne e ſne ſennunus dn lnnuli ulenrn lle",
+            "in dl ſn ſedlan co lp dnnuar d ſin u leede ll",
+            "aut pau dmandes a helu laplu panrt des Giaud d",
+            "ele ie fonpn deouons d nrsn eou du Sequere ſl neur p",
+            "faſe mge de Pee, ls foulmruur piads la ſſlu, e ool pu"
+        ],
+        [
+            "l i leſus els lenediſioms du Cuelns laus nmannuov iana,",
+            "lrs uſls auronr mqſe dles de les lmes t ſur one ap",
+            "nelſoue d ſaagenreoemdat lesparlesorpeſanus de lspmn",
+            "aoairrtn dre plu ſouples &amp; plus beiſſans pareerte dabobque ma¬",
+            "ue les nedlnent d on diſipoir enreane, &amp;s’annon leurhane",
+            "lus nure le dligemt i nurmunr eae foaluer or fle",
+            "llu nndlnailqui arrue àcompuleas gr iſanls dntes",
+            "’ſqeils orrme l luame ls iniuer eo lanuadadſins de unule",
+            "uenle oe qu’il, ſanur m eorpanmo ou le gns de bieFſat",
+            "eudle que onmm lbommer c&amp; la bone oommée fnrles pla",
+            "preienſorempnſe de laPa &amp; quelonnnpunune lere",
+            "en u ls nrtſeans du nunde iliony aufie la loenrl",
+            "lineles impeearons ſont les pluscuels &amp; leaspluuſans a¬",
+            "urn qion peſie dnrt an le Fr ae dainpoin re enr",
+            "onure leſqueſe ruues es piees inauſrauen lelus nfuu es",
+            "d dr densun nadloqrbreor dms mne ft muſolualudeti",
+            "oe qe il nameſra pnuur dre ls plus ſe le poeenlede",
+            "Raunme que dennude que dhan lepadleo le fpdae",
+            "o onire ſe omneles fyuns, lSoure feun, la ſfoa",
+            "le o neireou ſs lun crns dl e elne te ſenne",
+            "I’ae e le rpas de la e il neoren de mlems ern ſontianee",
+            "uuquenlnrſdn unne l’nu ſtpnaele de laonnasſinen",
+            "lus lbarhae, laur eſt temedlemeur deuant les yeur, lis ne",
+            "ſeut d an on aqnredlnadlt l deaſtnnrn prn e ſrned",
+            "lſdius ieelar urſeinune dſes din de de dle ret",
+            "i le lunrue dl e dnduqunreoumlarhpsdlar me",
+            "u oe ſe ſenrune nſna daun a nonou rore learnuinut",
+            "douunut pus qeneaieeefiſon qurpufmneles lanttpne",
+            "un ſet dle ur dſoſre et dle leaur edaihemat quas mouen",
+            "u ad, puis que tou leurs deſſeins ne ſont appu eZ que d’njuſlre,",
+            "d’orgueit et de barbarie."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
+    ]
+}

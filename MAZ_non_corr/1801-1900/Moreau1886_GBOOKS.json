@@ -1,0 +1,52 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "Lettre",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-28",
+            "@who": "AB"
+        },
+        "titre": "Lettre d'un milord d'Angleterre, écrite à la reine\n          régente, à Saint-Germain-en-Laye, sur les affaires de France et d'Angleterre, traduite par\n          le sieur Du Pelletier.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000073678147",
+            "@source": "Moreau",
+            "@role": "alleged_author",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Du Pelletier"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649-01",
+            "#text": "janvier 1649"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000140388204",
+            "@xml:id": "IL_MusnierFrancois.xml",
+            "persName": {
+                "forename": "François",
+                "surname": "Musnier"
+            }
+        },
+        "nbPages": "8"
+    },
+    "texte": null,
+    "pages_number": null
+}

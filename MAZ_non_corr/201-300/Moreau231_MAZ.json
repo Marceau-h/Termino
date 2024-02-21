@@ -1,0 +1,100 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Rentes de l'Hôtel de ville de Paris",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement pour le payement des rentes\n          de l’Hôtel de Ville de Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01-26",
+                "#text": "26 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121202363",
+            "@xml:id": "IL_AlliotGervais.xml",
+            "persName": {
+                "forename": "Gervais",
+                "surname": "Alliot"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR DE",
+            "PARLEMENT,",
+            "Pour le payement des Rentes de l’Hoſtel",
+            "de Ville de Paris.",
+            "A PARIS,",
+            "Chez GERVAIS ALLIOT, au Palais, proche la",
+            "Chappelle S. Michel.",
+            "M. DC. XIXL."
+        ],
+        [
+            "3",
+            "EXTRAICT TDES",
+            "Regiſtres de Parlement.",
+            "LA Cour, toutes lea Cham¬",
+            "bres aſſemblées, deliberant",
+            "ſur les affaires preſentes pour",
+            "é́uiter aux deſordres qui ſe pour:",
+            "roient commettre au payement",
+            "des rentes de l’Hoſtel de cette",
+            "Ville de Paris, &amp; attendu la ne¬",
+            "ceſſité preſente; A ordonné &amp;",
+            "ordonne aux Payeurs deſdites",
+            "rentes payer les arrerages d’icel¬",
+            "les deubs, eſcheus, &amp; a eſchoir",
+            "aux rentiers qui ſont preſents en",
+            "cette Ville, à l'excluſion des ab¬"
+        ],
+        [
+            "4",
+            "ſens hors cette Ville, fait defen¬",
+            "ces auſdits Receueurs d’en vſer",
+            "autrement &amp; de contreuenir au",
+            "preſent Arreſt, ſans neantmoins",
+            "tirer à conſequence pour l’adue",
+            "nir. Fait en Parlement le ving",
+            "cinquieſme Ianuier 6̃49.",
+            "Siń, GVIET,"
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
+    ]
+}

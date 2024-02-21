@@ -1,0 +1,216 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "lettre",
+        "subject": [
+            "Louis XIV",
+            "Montbazon, duc de"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-20",
+            "@who": "KA"
+        },
+        "titre": "Lettre du roy escrite à monseigneur le duc de Mont-bazon,\n          pair et grand veneur de France, gouverneur et lieutenant général pour le roy à Paris et\n          Isle-de-France",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": [
+            {
+                "@ref": "isni:0000000383255772",
+                "persName": "Louis XIV"
+            },
+            {
+                "@ref": "isni:0000000080154149",
+                "persName": {
+                    "forename": "Henri-Auguste de",
+                    "surname": "Loménie de Brienne"
+                }
+            }
+        ],
+        "pubDate": {
+            "@source": "Antonomaz",
+            "@when": "1651-10-17",
+            "#text": "17 octobre 1651"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": {
+                "@ref": "isni:0000000077717481",
+                "@xml:id": "IL_RibotveuvedeClaude.xml",
+                "forename": "Claude, Veuve de",
+                "surname": "Ribot"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DV ROY",
+            "A MONSEIGNEVR",
+            "LE DVC",
+            "DE MONTBAZON",
+            "PAIR ET GRAND VENEVR DE FRANCE",
+            "Gouuerneur &amp; Lieutenant general pour le Roy",
+            "en la Prouince de l’Iſle de France.",
+            "Contenant le ſuccez, du voyage du Roy en ſa Pro¬",
+            "uince de Berry, &amp; quelques Particularitez",
+            "de la conduite de Monſieur le Prince.",
+            "A PARIS,",
+            "Chez la Vefve de CLAVDE RIBOT, au Marché aux",
+            "Poirees, a la Sercine, proche es Saincts lnnocens.",
+            "M. DC. LI."
+        ],
+        [
+            "MOn Couſin, Encore",
+            "É que ie vous aye déa",
+            "J ’aſſez fait connoiſtre",
+            "les ſuiets de mécon¬",
+            "tentement que i’ay de",
+            "e la conduite de mon",
+            "couſn le pne de corde pat o",
+            "éloignement d’aupres de moy ſans",
+            "aucun fondement, &amp; ſon voyage en",
+            "Guyemne ſane mee or dree &amp; ma per¬",
+            "miſſion, &amp; depuis par les leuées qu’il",
+            "fait &amp; fait faire de toutes parts dhom¬",
+            "mes &amp; d’argent, pourformer vnparty",
+            "dans mon oyaume contre moy, &amp;",
+            "que ie ne doure pas que vous n’ayez",
+            "fait ce qui a eſte en voſtre pouuoir"
+        ],
+        [
+            "4",
+            "pourempeſcher toute pratique &amp; en¬",
+            "trepriſe preiudiciable à mon leruice",
+            "&amp; aurepos de mes Sujets dans l’eéten¬",
+            "duë de voſtre Charge: Neantmns",
+            "ayant aduis de diuers endroits que leſ¬",
+            "dites leué́es cõtinuent; que l’on prend",
+            "les deniers de mes rereptes des Tai¬",
+            "les, Taillon, Gabelles &amp; auires droits",
+            "au nom dudit Prince-de Condeé; que",
+            "l’on met ſurpied vn gtand pombre de",
+            "gens de guaerre ſur ſes Commiſſlons;",
+            "que le Cõte du Daugnon mon ieu",
+            "tenant Generalauiouuerhement de",
+            "Broüage, &amp; Lieutenant General en",
+            "la Marine, apres auoir receuvn infi¬",
+            "nité de graces &amp;z de bin faaodle rma opy,",
+            "a eſté ſi inconſideré &amp; ſi temeralre,",
+            "que de ſe jetter danscé party, &amp; qu’il.!",
+            "fait des armemens parmer &amp; parrte",
+            "contre mon autorité &amp; mon ſeruice,",
+            "abuſant de la confiamce que iay euë",
+            "en la fidelité à̀ laquelle ſa naiſfance",
+            "&amp;"
+        ],
+        [
+            "5",
+            "&amp; mesbien-faits l’obligeoit, luy ayant",
+            "donné leſdites Charges, &amp; le com¬",
+            "mandement dans vne place ſi impor¬",
+            "tante que celle de Broüage; que beau¬",
+            "coupde gensparfoibleſſe, plûtoſt que",
+            "par mauuais deſſein, ſe iettent dans",
+            "cette faction à̀ fauted’eneſtre diuertis",
+            "ou d’eſtre appuyez: l’ay bien voulu",
+            "vous faire cette Lettre pour vous dire",
+            "que vous ayez à redoubler vos ſoins",
+            "pour empeſcher qu’aucun de mes u¬",
+            "jets ne prenne les armesny aucunen¬",
+            "gagement pour ce party; &amp; que ſi",
+            "quelqu’vn eſt ſi oſé que de contreue¬",
+            "niraux defẽſes que vous auez deu faire",
+            "pourcette hn ſuiuantles ordres que ie",
+            "vous enayadreſſez, vous les fa ſſiezar¬",
+            "reſter &amp; punir exemplairement ſelon",
+            "la rigueur des Ordonnances: Que s’il",
+            "ſe faiſoit quelque leué́e de denersou",
+            "quelque aſlemblée de gens ſans mes",
+            "Commiſſions &amp; Ordres, vous ayez",
+            "B"
+        ],
+        [
+            "6",
+            "auſſi à vous y oppoſer, &amp; employer",
+            "la force de la Nobleſſe &amp; des commu¬",
+            "nes, &amp; les Preuoſts des Mareſchaux,",
+            "pour diſſiper toutesaſſemblé́es, &amp; en",
+            "faire punir les coupables: Et i’eſpere",
+            "(Dieu aidant) que par mesſoins, &amp; de",
+            "ceux qui commandent pour moy dis",
+            "mes Prouinces, chacun connoiſſant",
+            "les pernicieuſes entrepriſes que l’on",
+            "fait contre moy &amp; mon ſeruice, elles",
+            "n’auront aucun progreés. Surquoy ie",
+            "deſire que vous faſſiez ſç̧auoir, cõ̃me",
+            "dans cette Prouince. &amp; dans celles qui",
+            "en ſont voiſines que toute laNoleſſe;",
+            "&amp; le peuple ſont dans vne parfaite",
+            "obeiſſance, &amp; me rendent tous les",
+            "iours des preuues de leur fidelité: Que",
+            "depuis que ie ſuis de pardeça, le Prince",
+            "de Conty, la Ducheſſe de Lõgueville,",
+            "le Duc de Nemours, &amp; la Caualerie",
+            "qu’ils auoient auec eux dans Mour¬",
+            "rond, s’enſontretirez de nuit, &amp; ſont"
+        ],
+        [
+            ".",
+            "alez vers Bordeaux ou ils pretendent",
+            "vnir leurs forces: Que cependant ie",
+            "fais eſtat de me porter par tut-où be¬",
+            "ſoinſera pour aſſeurerle repos de mes",
+            "Prouinces; Et que vers mes frontieres",
+            "de Picardie, de Flandres, d’Artois,",
+            "mon Couſin le Sieur d’Aumont Ma¬",
+            "reſchal de France,s’oppoſe aux princi¬",
+            "pales forces des ennemis, en ſorte",
+            "qu’ils n’y peuuent rien entreprendre",
+            "de conſiderable; &amp; mon Couſin le",
+            "Sieur de la Ferté-Seneterre Mareſ¬",
+            "chal de France, en celles de Champa¬",
+            "gne &amp; de Luxembourg, où il a pouſſeé",
+            "iuſques dans le Comte de Namur, les",
+            "troupes Eſpagnoles &amp; celles du rince",
+            "de Condé qui eſtoient iointes, leur",
+            "ayant fait paſſerquatre Riuieres auec",
+            "vne exrréme eépouuante &amp; perte; ſi",
+            "bien qu’ils ſont à preſent hors d’eſtat",
+            "de nuire de cecoſteéla C’eſt ce que ie",
+            "vous diray par cette Lettre, priant"
+        ],
+        [
+            "8",
+            "Diequ’ilvous ait, mon Couſin, en ſa",
+            "ſainte garde. Eſcrit à̀ Bourges le iy.",
+            "Octohraa6̃5.",
+            "1",
+            "f roe",
+            "LOVIS. uus",
+            "DE LOMENIE."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+    ]
+}

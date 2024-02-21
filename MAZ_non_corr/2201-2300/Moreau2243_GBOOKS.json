@@ -1,0 +1,186 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "Lettre",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-29",
+            "@who": "AB"
+        },
+        "titre": "Lettre interceptée du sieur Cohon, ci-devant évêque de\n          Dol, contenant son intelligence et cabale secrète avec Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000061237731",
+            "persName": {
+                "forename": "Anthyme Denis",
+                "surname": "Cohon",
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "C. E. D. D."
+                }
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-02-06",
+                "#text": "datée du 6 février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "INTERCEPTE",
+            "DV SIEVR",
+            "COHON",
+            "CY-DEVANT EVESQVE DE DoL,",
+            "CONTENANT",
+            "SON INTELLIGENCE,",
+            "ET CABALE",
+            "SECRETTE AVEC MAZARIN.",
+            "A PARIS.",
+            "M. DC. XLIX."
+        ],
+        [
+            "3",
+            "LETTRE",
+            "INTERCEPTEE",
+            "Du ſieene Cohon y domnr",
+            "Eueſque le Dol, qnſenale",
+            "rſon nelligoncd &amp; cabaloſo¬",
+            "nnouo opnon",
+            "eiee ierereirei ur",
+            "Ts doquo pdſet ̀ lſoſiſpis",
+            "ipme, fftonſieur",
+            "A-l’Archeueſque de Tholo, Sbſpmi¬",
+            "nence lj’a reçe,, ylle ſcaj. aiptenant",
+            "come, le emengs, de Eai, ſont p;,",
+            "s pt eLçPagqnrgrdjalalp;",
+            "qujluy ſee donnée, ’e ay p tejplation",
+            "par la bouche despefs, qji Qlen bien",
+            "qu’elle ſoiſaccepme eqpunique à",
+            "Monſeigneg. Et ie Ja luy 4eſceupe auec"
+        ],
+        [
+            ".",
+            "vn pdaiſir eatees, e ſouaitant ier",
+            "au mnde auec tepe, de paſfip, que de",
+            "voir ſes cnnems abbajus a, ſes pieds,&amp;",
+            "conuaincus de la grandeu de ſon courage",
+            "’tes fét- de ſtlemenée. Hdut po¬",
+            "vne bopnpefois gyr d’athri&amp; la ju¬",
+            "riſdiction de ces gens de’chiicande, pour",
+            "ecpmmeeron pqooe grssoM",
+            "gloire &amp; la loye, ſoiqne iamais incer¬",
+            "rbfbePeoein ’ofſ &amp;nour¬",
+            "raylſatiblqud jnrgyllsfoſni¬",
+            "nence couronné, de l ain de ſes perſe¬",
+            "cuteurs. Ie eS&amp;e re",
+            "les Generaux euy de; plus fideles en a.",
+            "paireneelehetetélés puod;",
+            "renidtAP’aſpfefſſereltefftélui e4",
+            "dee eoSololToh nplouo A’1-¬",
+            "Tes feſlepee’Normaniee tu",
+            "tetit yl éel ectofp eotraiet?.",
+            "Ele fitl es or netpes da peul, e pue",
+            "e fp",
+            "de lbyſé,lpot ſtehtérV",
+            "meee e ebde é Celeſei",
+            "ly p&amp;ſ a’cSpfP o éêpeeheprete",
+            "due plbiqude ’iédese dele",
+            "gueuille"
+        ],
+        [
+            "gueuille afeei abbir genmereuſamone es",
+            "filſſé́, l’eſpéode Chnneſtable; prbmet à ce",
+            "Party ’de ne l’abahddnnet iamasi, &amp; d",
+            "uy menar dou mill-eontilsbbmmes",
+            "deut chillei cheuaail ſolddyéz, &amp; di mills",
+            "hommes depiadi, le out dans le vingieſ¬",
+            "me de ce nmos.i lD’atres aduis qe ie slens",
+            "lus fidles, poroeo pue Monſleur de Lon¬,",
+            "gueuille fuiiura bien coſt Monfieur de Ma¬",
+            "tignon, de Lizieux &amp; déi Chnizy, qm ont",
+            "enuoyé à la Reyne pour l’aſſeurer de leur",
+            "fidelité, &amp; luylofſlr des eouppes..",
+            "Monſieur l’Eueſque d’Aire, qui ſe ren¬",
+            "dra dans peu de iours prés de ſon Emi¬",
+            "nence, l’informera des ſentimens de Mon¬",
+            "ſiéun deChxreuſe, -s aheue de viue",
+            "voux le! diſeou: qe: luy: fit le Duac de",
+            "uuyoqas ’touohah. Monſiur de Lorraine,",
+            "auptes! duquel. eDud. d’orc a veu Ma¬",
+            "dmhdehevreuf en paſfant à Btuxe l¬",
+            "les Elle:merite vne ſecdrette &amp; longue",
+            "oonlfédne, Monfiut de Laulne ſert Mon¬",
+            "ſeigaeur fdellemin’ardemment entou¬",
+            "es! ls negooiaods. i ſe pceſentent à"
+        ],
+        [
+            "6",
+            "fabre pour ſ cauſe. Mais ux ont en 9",
+            "qui regarde la Maiſon de Chevreuiſe, de",
+            "laquolle il nous tire des luaieres &amp; des ad¬",
+            "uis qui ſddt rés-importans. Aecfeuons",
+            "eette paix, teſtabliſſans ’auhorité dua Roy",
+            "&amp; la Regence de moſtre Reyne incompa¬",
+            "rable: Apres celaſon Emainence, comblée",
+            "d’honneur &amp; de ſatisfaction, verra ſon re¬",
+            "pos affermy pour iamais, auec la gloire &amp;",
+            "la fortune de l’Eſtat.",
+            "Sgne, e. i. D",
+            "Les Martyres du Genordl eeleſiai¬",
+            "que ſoufflettent impunbment les. Con¬",
+            "ſeillers de la Cour, qui parlen de Deputa¬",
+            "tion &amp; du traicteé de Paix. ’eſt. choſe",
+            "horrible aà raconter de la furëur! de oes",
+            "gens- là;: On fait e procez au domḿ",
+            "Marigny, commenſal&amp; adherant do Mon¬",
+            "ſieur le Coadjureur, quia dônné vn ſouf¬",
+            "let au Conſeiller Boiſleve pour auoir teſ¬"
+        ],
+        [
+            "7",
+            "moigné un deſir raiſonnable de voir la",
+            "Reyne ſatisfaite, &amp; la guerre finie. On",
+            "traicte cette affaire deuant le Lieutenant",
+            "Criminel, par la crainte qu’on a euë de la¬",
+            "voir eſtouffée, ſi la ligue des Frondeurs",
+            "demeuroit la plus forte. A Paris ce ſei¬",
+            "ieſme Fevrier mil ſix cens quarante¬",
+            "neuf."
+        ]
+    ],
+    "pages_number": [
+        "5",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+    ]
+}

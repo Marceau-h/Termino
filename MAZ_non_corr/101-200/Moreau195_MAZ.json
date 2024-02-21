@@ -1,0 +1,229 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+            "Bordeaux (Gironde) -- 1652-1653 (Soulèvement)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-09",
+            "@who": "AB"
+        },
+        "titre": "Arrêt d’union du parlement de Bordeaux, portant\n          ratification du serment, fait en faveur de monseigneur le prince de Condé, gouverneur,\n          pour le roi, dans ladite province, et résolution des quatre autres chefs, contenus dans\n          ledit arrêt; ensemble l’ordonnance de monseigneur le prince de Conty pour faire cesser\n          tout ce qui nuit à l’autorité publique, rendus le 15 juin 1652.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": [
+            {
+                "@ref": "isni:0000000119302891",
+                "@source": "Mazarine",
+                "persName": {
+                    "forename": "Armand de Bourbon",
+                    "surname": "Conti"
+                }
+            },
+            {
+                "@ref": "isni:0000000119572170",
+                "@source": "Mazarine",
+                "orgName": "Parlement de Bordeaux"
+            }
+        ],
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1652-06-15",
+                "#text": "mention du 15 juin 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121408134",
+            "@xml:id": "IL_VivenayNicolas.xml",
+            "persName": {
+                "forename": "Nicolas",
+                "surname": "Vivenay"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "ARREST D'VNION",
+            "DE LA COVR",
+            "DE PARLEMENTL",
+            "DE BORDEAVX",
+            "Portant ratification du Serment fait en faueur de",
+            "Monſeigneur le Prince de Condé, Gouuerneur",
+            "pour le Roy dans ladite Prouince: Et reſolution",
+            "de quatre autres Chefs contenus dans ledit Ar¬",
+            "reſt.",
+            "Enſemble l'Ordonnance de Monſeigneur le Prince de Conty,",
+            "pour faire ceſſer tout ce qui nuit à la tranquilité publique.",
+            "Rendus le 15. Iuin. 1652.",
+            "A PARIS,",
+            "Chez NICOLAS VIVENAY, Imprimeur ordinaire",
+            "de Son Alteſſe de Condé.",
+            "M. DC. LII."
+        ],
+        [
+            "Extraict des Regiſtres",
+            "de Parlement.",
+            "SVR la Relation faite à",
+            "E la our, les Chambres aſ¬",
+            "lemlolée, pa les Cenmiſ",
+            "3",
+            "Vſ nne Pnie e de iſ",
+            "ſter à l’Aſ mblee de lHo",
+            "e",
+            "el de ville faite le trei¬",
+            "-e-",
+            "ieſme du preſent mois, OVY, les Iurats",
+            "de a prelente ville qui ont dit le reſulat",
+            "de la deliberation quia eſté tenue le leudy",
+            "treizeſme Iuin mil ſix cens cinquente deux,",
+            "cn l’AIemblée des cens &amp; trente, a eſté re¬",
+            "duit a cinq chefs: Le premier eſt que pour",
+            "faire ceſe les partialite, ialouſies, &amp; diui¬",
+            "ſios qui ce ſont formée puis quelque enps",
+            "ans la Vlle &amp; ont beaucoup alteré les eſ¬",
+            "paits des Habitans, au preiudiee du repos de",
+            "l Vlle, &amp; de la tranquilite publique, il a",
+            "o2"
+        ],
+        [
+            "eſté trouué à̀ propos de renouueller le ſer.",
+            "ment d’Vnion entre tous les Bourgeois &amp;",
+            "Habitans de la Ville pour agir conioinre¬",
+            "ment &amp; de concert &amp; aucc bonne intelli¬",
+            "gence pour les interreſts de Monſieur le",
+            "Prince, comme inſeparable du ſeruice du",
+            "Roy&amp; du bien de l’Eſtat, &amp; pour la conſer¬",
+            "uation &amp; ſeureté commune de la Ville &amp;",
+            "qu’à ces fins pour y apporrter vne meilleure",
+            "diſipoſition prieres publiques ſeront faites",
+            "en Proceſſion Generalle pour implorer l’aſ¬",
+            "ſiſtance du Ciel: Le deuxieſme eſt de ren¬",
+            "dre vne ſoubmiſsion &amp; obeiſſance parfaite,",
+            "aux ordres, &amp; a la valonté de Monſieur le",
+            "Prince Noſtre Gouuerneur, coneenu en les",
+            "Lettres ponté́e de ſ parr par lé Sieur deCha¬",
+            "uognac, &amp; addreſſées au corps deVille &amp; de",
+            "la Bourgeoiſie &amp; par meſme conſequence",
+            "de faire ceſſer &amp; empeſcher toure ſorte",
+            "d’Aſſemblées autres que celles qui ſeront.",
+            "indittes legetimement par authorité publi¬",
+            "que &amp; celles des Magiſtrats: La troiſieſ¬",
+            "me de ſupplier la Cour de rendre ſes iuſti¬",
+            "ce au public, que d’obliger tous ceux qui",
+            "ont manié les deniers publics &amp; ſonc com¬",
+            "ptables de renlre compt deé leur admini¬",
+            "ſtration"
+        ],
+        [
+            "tration &amp; employ pardeuq le Cmi,",
+            "ſaires qui ſeront pris de touſdmsde",
+            "Ville: Le quatjelme de ſupplie auſſi, l",
+            "Cour d’eſteindre la memoire de ce qui s’ eſt",
+            "paſſé, &amp; qui luy pourroit auoir deſpleu çom¬",
+            "me fait çonere ln autaorité.e Le ecinquieſ¬",
+            "me déreſeruer à̀ Monſieur lePrince e Con.",
+            "y, la connoiſſance de l’intereſt pareaiculier,",
+            "concernant ſà Vefu &amp;-enfaias de feu",
+            "Moleauſus le ſoiet 4ea po &amp; aşident",
+            "malheureux ſufuenu ſa fuit de Dimaniche",
+            "dornier p faire laiuſice e StAlfeſſe",
+            "aduiſera: OVY Sur ce les Gens du Roy,",
+            "LA CO VRe Charnbeembdes, aux",
+            "fins de reſtablir le reps &amp; le calme das la",
+            "Ville, a Ordonhé &amp; Ordonne que tobtes",
+            "les actions. &amp; violehces comſſes eontre",
+            "toute ngauthorité, &amp; cauſées par das Aſ",
+            "ſembléé llieieés qi ſe-ſont faites jufques",
+            "à preſ emeyrpont qboliées ſan qu’il",
+            "en puiſſe eſtre fait aucuné rechercheà l’ad¬",
+            "nenir pour raiſon dequoy elle impoſe ſlen..",
+            "ce perpetuel au Procureur General da Roy,",
+            "ordonne que l’Vnion ſera renouuellé, auee",
+            "la Pourgeoiſie, &amp; que tous ceux quiiont",
+            "adminiſtré́ les deniers pubhcs rendront leur",
+            "o3"
+        ],
+        [
+            "6,",
+            "eompté pdrdeairt les doiſſaires ’qui ſe!",
+            "font nomtfes par’tus les corps Fal à",
+            "Jourdeaiut n Patleret las Chanm̂res",
+            "Aſembſees, le quinſieſmei, mi ſſ cer",
+            "cinquante deü",
+            "dſoeſuiur Drr rroufrpoel",
+            ".",
+            "21A",
+            "2 1",
+            "e Prince de Coneu, Prin,",
+            "e P",
+            "r ieql lJipqpli,i",
+            "ce du Sfgl Par de",
+            "ranco ouuerneur &amp;",
+            "¬",
+            "Lieuteniait General",
+            "pour le Ry ’enſes Pr¬",
+            "uinces de Champagne",
+            "Q¬",
+            "&amp; Brie, &amp; Cenéraliſſime",
+            "l des Armées de ſa Maje¬",
+            "5",
+            "- r",
+            "ſté.",
+            "oI",
+            "J2",
+            "RES-&amp;rpeſes ahibitiops &amp; deſen¬",
+            "ces ſon faites cous Bomgeois &amp;H¬",
+            "bitaus de la Ville de Boardeaux, le quelle"
+        ],
+        [
+            "qualité &amp; condition qu’ils ſoient, de s’aſ¬",
+            "ſembler &amp; attrouper, ſous quel que pretexte",
+            "que ce puiſſec eſtre, ſans noſtre expres Com¬",
+            "mandement, ou les ordres des Magiſtrats:",
+            "ny meſme de porter eſpées ou autres armes",
+            "par ladite V ille, s’ils ne ſont actuellement",
+            "de Garde, à peine d’eſtre punis des peines",
+            "portées par les Ordonnances de Sa Maieſté.",
+            "MANDONS aux Maire, Iurats &amp; Procu¬",
+            "reur Sindic de ladite Ville, de tenir la",
+            "main aà l’execution de noſtre Ordonnance,",
+            "laquelle ſera affichée par tous les Cantons",
+            "&amp; Carrefours de cette Ville, à ce qu’aucun",
+            "n’en pretende cauſe d’ignorance. Fait à",
+            "Bourdeaux le 5 Iuin 16. Signé AR¬",
+            "MAND DE BOVRBON. Et plus bas:",
+            "Par Monſeigneur, MVRTET DE LA",
+            "TOVR."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+    ]
+}

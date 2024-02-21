@@ -1,0 +1,197 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Forces armées – Intendance",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Commission envoyée par monseigneur le duc d'Orléans aux\n          trésoriers de France à Caen, pour l’établissement de la subsistance des gens de guerre\n          pour le service du roi.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121336441",
+            "@source": "Mazarine",
+            "persName": {
+                "forename": "Gaston",
+                "surname": "Orléans"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1652-02-12",
+                "#text": "12 février 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
+            "persName": {
+                "forename": "Jacob",
+                "surname": "Chevalier"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "COMMISSION",
+            "ENVOYE",
+            "PAR MONSEIGNEVR",
+            "LE DVC DORLEANS",
+            "Aux Treſoriers de France à Caën,",
+            "pour l’eſtabliſſement de la Subſi¬",
+            "ſtance des Gens de Guerre pour",
+            "le ſeruice du Roy.",
+            "A PARIS,",
+            "Chez IACOB CHEVALIER, proche Sainct",
+            "Iean de Latran.",
+            "M. DC. LII.."
+        ],
+        [
+            "COMISSION ENVOYEE PAR",
+            "Monſeigneur le Duc d’Orleans aux Threſoriers",
+            "de France à aen, pour l’Eſtabliſſemene de l",
+            "ſubſiſtance des gens de guerre pour le ſeruice",
+            "du Roy.",
+            "GASTON FILS",
+            "DE FRANCE, ON¬",
+            "CLE DV ROY,",
+            "DVC D'ORLEANS, A",
+            "nos amez &amp; feaux Coſeillers",
+            "les ſieurs Talon &amp; le Secq Treſoriers de ran¬",
+            "ce à Caën, ſalut, Le bien de l’Eſtar, les inſtan¬",
+            "es de la Cour de Parlement de Paris, &amp; les",
+            "vœux de tous les bons François, Nous ayans",
+            "ranuiez d’interpoſer l’authorité du Roy no¬",
+            "I e ne lonouſ eepuenr &amp; peueu l n",
+            "ſtre, pour l’éloignement du Cardinal Maza¬",
+            "in, Nous auons eſtéobligez pour y paruenir",
+            "d’aſſembler vn corps d’armée, dont Nous",
+            "auons donneé la conduite à noſtre tres- cher",
+            "Neueu le Duc de Beaufort, mais comme il eſt",
+            "mportant de pouruoir en toute diligence à la¬",
+            "ſubſiſtance des Trouppes qui la compoſeroar,",
+            "fſfuru"
+        ],
+        [
+            "4",
+            "&amp; de les faire viure dans rel ordre &amp; diſciplin",
+            "que les ſubjets de ſa Majeſté n’en puiſſent re¬",
+            "ceuoir aucune foulle ny oppreſſion, &amp; que",
+            "nous ne pouuons pour cét effet faire vn meil¬",
+            "leur choix que de vous, qui auez en diuerſes",
+            "oecaſions donné des preuues ſuffiſantes de",
+            "voſtre affection, fidelité &amp; capacité au ſer¬",
+            "uice de ſa Majeſté. A CEs cAvss, Nous",
+            "vous auons Commis &amp; Deputé, comme¬",
+            "ons &amp; deputons par ces preſentes fignées ds",
+            "noſtre main, pour vous tranſporter inceſſam",
+            "ment ou ſeparement, ainſi qu’il vous ſera o",
+            "donné par noſtredit tres cher &amp; tres-amé",
+            "Neueu le Due de Beaufort’en tous les lieu",
+            "qu’ileſtimera à propos, pour empeſcher que",
+            "leſdites Troupes le ladite Armée nefaſſe aui¬",
+            "eun deſordre, &amp; pour trauailler à l’eſtabliſſe.",
+            "ment deſdites ſubſiſtances; Voulans qu’à oét",
+            "effet il vous ſoit donneé par noſtredit Neueu",
+            "le Duc de Beaufott vn Controolle de toures",
+            "les Trouppes dont lſera compoſé ladite Armét,",
+            "enſemble des logemens d’icelle, pour ſur ic¬",
+            "uy eſtre par vous coniointement ou ſeps¬",
+            "rement auſsi dreſſeé vn Eſtat de ce que les",
+            "Villes, Bourgs, Villages &amp; Hancaux es plus",
+            "proches des garniſons auroat à̀ contribuer",
+            "en argent ou en eſpees pour la ſubſiſtarz",
+            "de chacunedeſdites gaaniſons,ſur lequeleſtat",
+            "ainſi"
+        ],
+        [
+            "5",
+            "aûi parVos arreſté, Volonsauſsl que vou",
+            "enuoyevos Ordonnauces en chacune des",
+            "mmunautez que vous aurez eſtimé́ de¬",
+            "uir ſtre coeniſées pour ladite ſubſiſtance,",
+            "Pour eſtre par leſdites Communautezplain¬",
+            "maeat &amp; entieement executez ſelon leur for¬",
+            "me &amp;enmeut, &amp;eaux termes pore par ieeles",
+            "punlogemeni de gens de guerre ſurles plaln",
+            "Es ou er ſeron pa vou faites à notredis",
+            "uea le Due de Beaufot, en cas de efus",
+            "ou retardement deſdites Communaurezs",
+            "d’autant que la perception &amp; diſtributio",
+            "de deniers ou eſpeces qui ſeront fourmis pour",
+            "Iadie ſubſiſtance doit coumer à la dedchar",
+            "ge des lieux &amp; Communautez que porreron",
+            "J imlogeaens ou qui payeroitleſdiesſub¬",
+            "Amaa, at les Eſtats &amp; Ordonnanoes qu¬",
+            "vous deliurerez en execu non ceus vou¬",
+            "ordonnerez à̀ chacune des Communauez",
+            "onmituables de porer leſdiu denin ou",
+            "pes auſqueles lles auront eſté par vou",
+            "aſdes, és mains des Maires, Eſcheuins,",
+            "onſuis bu Scindiea deſdis lieux de garni¬",
+            "n: Et auſdits Maire, Eſcheuins, Conluls ou",
+            "seindics d’en donne leus quittances à cha¬",
+            "eune deſditeés Communautez, pour leur eſtre",
+            "renu compte par les Receueus des Tailles,",
+            "conformement aux Reiglemens de ſadite"
+        ],
+        [
+            "6",
+            "Majeſté, dece qu’olles auront efſectiuenene",
+            "fourny ſur ce que chacune d’icelles doit por¬",
+            "rer de Tailles, &amp; de diſtribuer leſdits deniers &amp;",
+            "eſpeces aux Troupes deſdites garniſons, ſui¬",
+            "uant les meſmes Reiglemens deſadite Maie¬",
+            "ſté. De ce faire vous donnons plain pouuoir,",
+            "mandement &amp; Commiſſion; Promertant de.",
+            "faire validier &amp; authoriſer par ſa Maieſté tout;",
+            "ce qui aura eſté par vous fait, comme eſtant",
+            "pour le bien de ſon ſeruice; Mandons aux",
+            "Gouuerneurs &amp; Lieutenans Generaux des",
+            "Prouinces, Gouuerneurs des Villes, Places,",
+            "Baillifs, Preueſts, Seneſchaux, Lieutenans,",
+            "Maires &amp; Eſcheuins des villes, &amp; autres qu’il",
+            "appartiendra, de vous reconnoiſtre, &amp; faire",
+            "réconnoiſtre &amp; obeiïr en toutes les choſes con¬",
+            "éernans l’execution dee pr-ſ-¬a- V-ue ſei",
+            "ſfter &amp; preſter main forte, à peîne de deſo",
+            "beyſſance à ce qui eſt du ſeruice de ſa Maie¬",
+            "té. En teſmoing dequoy Nous auons fai",
+            "nettre noſtre Sel aà̀ ceſdites preſentes. Donné",
+            "A Paris le ſeptieſme iour de Fevrier mil ſix",
+            "eens cinquante-deux. Signé GASTON.",
+            "e au deſſous eſeri",
+            "Par ſon Alteſſe Royalle, Aa",
+            "DE FROMONT. Et ſcellé."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14"
+    ]
+}

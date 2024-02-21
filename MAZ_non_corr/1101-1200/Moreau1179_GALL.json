@@ -1,0 +1,44 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "écho",
+            "alexandrins",
+            "quatrains"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-07-06",
+            "@who": "KA"
+        },
+        "titre": "Écho (l') du temps, touchant les divers changements de la\n          fortune de Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "15"
+    },
+    "texte": null,
+    "pages_number": null
+}

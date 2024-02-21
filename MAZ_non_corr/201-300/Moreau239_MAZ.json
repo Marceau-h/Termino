@@ -1,0 +1,110 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "France. Trésor royal",
+            "IImpôts – Champagne (France)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant que les deniers de\n          la recette générale de Reims seront apportés en cette ville et mis ès coffres de l’hôtel\n          d’icelle.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01-31",
+                "#text": "31 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT.",
+            "Portant que les deniers de la recepte gene¬",
+            "rale de Reims ſeront apportez en cette",
+            "Ville, &amp; mis és coffres de l’Hoſtel d’icelle.",
+            "Du trentieſme Ianuier mil ſix cens quarante-neuf.",
+            "A PARIS,",
+            "Par les Imprimeur &amp; Libraires ordinaires du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "3",
+            "de Parlement.",
+            "A Cour toutes les Chambres aſemblées,",
+            "al deliberant ſur l’execution de l’Arreſt d’i",
+            "&amp;l celle du dix- neufieſme de ce mois &amp; an:",
+            "Ql Et ſur l’aduis qui a eſte donné quil y a",
+            "ne ſomme de deniers aſſez notable pro¬",
+            "uenant de la recepte generale de Chaalons en Cham¬",
+            "pagne, dont la conduite ſe fait pour porter à l’Eſ¬",
+            "pargne, paſſant par la ville de Reims. AARRESTE",
+            "T oRDonNn que ladite ſomme ſera à la Re¬",
+            "queſte du Procureur general du Roy &amp; diligence de",
+            "ſon Subſiſtud audit Reims, apportée &amp; conduite en",
+            "cette Ville de Paris &amp; miſe es coffres de l’Hoſtel d’i¬",
+            "celle, ſuiuant ledit Arreſt du dix-neufieſme du mois",
+            "&amp; an, ou par lettre de change ſi faire ſe peut. En¬",
+            "joint au Lieutenant general dudit Reims &amp; autres",
+            "Offieiers des lieux, Et à tous les ſujets du Roy de la¬",
+            "dite ville &amp; autres lieux tenir la main à l’execution",
+            "du preſent Arreſt, y donner renfort &amp; eſcorte ſi be¬",
+            "ſoin eſt: Et à ce faire ſeront ceux qui font la condui¬",
+            "te deſdits deniers, contraints par toute voye deuë &amp;",
+            "raiſonnable, nonobſtant tous empeſchemens, oppo¬",
+            "A ij"
+        ],
+        [
+            "4",
+            "ſitions &amp; appellations quelconques faites &amp; à̀ faire,",
+            "en vertu du preſent Arreſt, lequel ſera executé en ver¬",
+            "tu de l’Extraict. Fait en Parlement le trentieſme lan¬",
+            "vier mil ſix cens quarante-neuf.",
+            "T T E ¬",
+            "Signé, DV TILLET.",
+            "Collationneé à̀ l’original par moy Conſeiller",
+            "Secretaire du Roy &amp; de ſes Finances."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
+    ]
+}

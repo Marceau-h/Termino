@@ -1,0 +1,127 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-07",
+            "@who": "AB"
+        },
+        "titre": "Arrest de la cour de Parlement. Du septiesme septembre\n          mil six cens quarante-huict. Portant deffences à tous baillifs, seneschaux, leurs\n          lieutenans, & autres juges du ressort de ladite Cour, d'appliquer aucunes amendes aux\n          reparations de leur Palais, beuvettes, & autres neceβités, et ordonné qu'ils\n          prononceront leurs amendes envers le Roy, suivant les ordonnances. Et deffenses aux\n          condamnez de payer en vertu des sentences desdits juges, à peine de payer deux\n          fois.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1648",
+                "#text": "1648"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1648-07-09",
+                "#text": "daté du 7 septembre 1648"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000008903969",
+            "@xml:id": "IL_RocoletPierre.xml",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Rocolet"
+            }
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "I",
+            "ARREST DE LA COVR",
+            "DE PARLEMENT",
+            "Du ſeptieſme Septembre mil ſix cens quarante-huit.",
+            "Portant deffences à tous Baillifs, Seneſchaux, leurs Lieute¬",
+            "nans, &amp; autres Iuges du reſſort de ladie Cour, d’app’iquer",
+            "aucunes Amendes aux reparations de leur Palais, Beu¬",
+            "uettes, &amp; autres neceßités, Et ordonné qu’ils prononceront",
+            "leurs Amendes enuers le Roy, ſuiuant les Ordonnances.",
+            "Bt deffenſes aue Condamnez de payer en vertu des Sen¬",
+            "ences deſdits Iuges, à peine de payer deux fois.",
+            "VEU PAR LA COVR L A",
+            "Requeſte preſentée par le Procureur",
+            "General du Roy, Contenant que les",
+            "l&amp; ainſis eneſedaus &amp; aures luge",
+            "Subalternes du reſſort de la Cour, contre",
+            "&amp; au preiudice des Ordonnances, Arreſts &amp; Regle¬",
+            "mens, condamnent les Partieuliers en des amendes",
+            "qu’ils applicquent aux reparations de leurs Palais, Beu¬",
+            "uettes &amp; autres neceſfitez de leurs iuriſdictions, quoy",
+            "qu’ils nayét autre pouuoir que de condamner leſd. Par¬",
+            "teuliers en amende enuers le Roy, qui eſt vne manifeſte"
+        ],
+        [
+            "2",
+            "contrauention auſdites Ordonnances, Arreſts &amp; Re¬",
+            "glemens, &amp; vne entrepriſe à l’auctorité de la Cour.",
+            "A CES CAVSES, requeroit que inhibitious &amp;",
+            "deffences feuſſent faites aà̀ tous Baillifs, Seneſchaux, leurs",
+            "Lieutenans &amp; autres Iuges du reſſort de la Cour, d’aplic¬",
+            "quer aucunes amandes aux reparations de leurs Palais,",
+            "Beuuettes &amp;autres neceſſitez particulieres, qu’il leur fuſt",
+            "enjoinct de prononcer par amende enuers le Roy, ſui¬",
+            "uant les Ordonnances, Arreſts &amp; Reglemens, ſur peine",
+            "d’en eſtre tenus en leurs priuez noms, &amp; que pareille in¬",
+            "hibitions &amp; deffences fuſſent faites aux condamnez de",
+            "payer en vertu des Sentences deſdits Iuges, ſur peine de",
+            "payer deux fois: Et aà̀ tous Huiſſiers, Sergens &amp; Archers,",
+            "de faire aucunes contraintes ſur peine d’interdicton de",
+            "leurs charges: Et que l’Arreſt qui interuiendroit fut leu",
+            "&amp; publié l’Audiance tenant, és Bailliages &amp; Seneſchauſ¬",
+            "ſeées de ce reſſort. VEVauſſi les pieces attachees à ladite",
+            "Requeſte: tout conſide-. LADITE R",
+            "ayant eſgard a ladite Requeſte, A faict &amp; faict inhibi¬",
+            "tions &amp; deffences aà tous leſdits Iuges du reſſort d’ap¬",
+            "pliquer aucunes amendes: Leur enjoint de prononcer",
+            "par amende enuers le Roy ſuiuant les Ordonnances,",
+            "Arreſts &amp; Reglemens, à peine d’en reſpondre en leurs",
+            "noms: Faict parelles deffences aux condamnez de",
+            "payer en vertu des Sentences deſdits Iuges à peine de",
+            "payer deux fois: Et à tous Huiſſiers &amp; Sergens d’exe¬",
+            "cuter les contrainctes à peine d’interdiction de leuis",
+            "charges: Ordonne que le preſent Arreſt ſera leu &amp;"
+        ],
+        [
+            "3",
+            "ublie l Audianee enant &amp; Pailiag &amp; Seneſehauſ",
+            "fee dudt reſſort, à la diligence des Subſtiruds dudit",
+            "proeureurt cenerail. E en palement le ſepieſ;",
+            "me septembre mil ſix cens quaraute-huit.",
+            "7 ,",
+            "Signé RADIGVE.",
+            "Collationmé à l’Original par moy Conſeiller",
+            "Secretaire da Roy, &amp; de ſes Finane.",
+            "Del’Imprimerie de P. RoeoLer Impt. &amp;",
+            "ibr. ordin. du Roy. au Pa lais."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11"
+    ]
+}

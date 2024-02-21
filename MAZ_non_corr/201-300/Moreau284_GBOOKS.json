@@ -1,0 +1,133 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": true,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-30",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de nosseigneurs de la cour de parlement, toutes les\n          chambres assemblées, portant remontrance être faite au roi et à la reine sur\n          l’emprisonnement et liberté de messieurs les princes de Condé, de Conty et duc de\n          Longueville.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Députés du Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1650-12-30",
+                "#text": "daté du 30 décembre 1650"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
+            "persName": {
+                "forename": "Jacob",
+                "surname": "Chevalier"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE",
+            "NOSSEIGNEVRS",
+            "DE",
+            "LA COVR",
+            "DE PARLEMENT.",
+            "TOVTES LES CHAMBRES ASSEM¬",
+            "blé́es, Portant remonſtrance eſtre faite au Roy",
+            "&amp; à la Royne ſur l’Empriſonnement &amp; li¬",
+            "berte de Meſſieurs les Princes de Con¬",
+            "dé, de Conty, &amp; Duc de Longuevile.",
+            "Du Vendedy trantieſme Decembre, 1650.",
+            "A PARIS.",
+            "Chez lacob Cheuallier, ruë̈ Sainct Iean de Latran",
+            "deuant le College Royal.",
+            "M. DC. LI."
+        ],
+        [
+            "3",
+            "ARREST DE NOSSEIGNEVRS",
+            "de la Cour de Parlement toures les Chambres",
+            "aſſemblees portant remonſtrance eſlre faiteau Roy",
+            "&amp; à la Royne ſur l’Empriſonnement &amp; liberté",
+            "de Meſfieurs les Princes, de Condé, de Conty,",
+            "&amp; Duc de Longueuille.",
+            "Du Vendredy trentieſme Decembre, 1650.",
+            "CE iour la Cour, toutes les Cham¬",
+            "bres aſſemblées, apres auoir veu",
+            "les deus equeſſes, l’ne par",
+            "Dame Clere Clemenee de",
+            "Maillé, Princeſſe de Condé, à",
+            "ce qu’il fuſt pourueu à la liberté du ſieur Prin¬",
+            "ce de Condé ſon mary, &amp; des ſieurs Prince de",
+            "Conty &amp; Longueville; L’autre par Damoi¬",
+            "ſelle Marie d’Orleans, fille dudit Duc de Lon¬",
+            "gueville, tendante à̀ meſme fins; Et cepen¬",
+            "dant qui luy fuſt permis de deme urer en ecrre",
+            "ville, pourrendre aà ſon pere les ſeruices &amp; aſ¬",
+            "ſiſtancesaà̀ quoy la narure &amp; ſa naiſſance l’o¬",
+            "bligent: veu auſſi la lettre miſſiue deſdits",
+            "Princes &amp; Duc de Longueville, auec le recit",
+            "a oue eſienr enſnnoenun ene lele ne",
+            "contenu aux regiſtres, des ſept &amp; dix de ce",
+            "A ii"
+        ],
+        [
+            "4",
+            "mois &amp; n la matiere miſe en deliberatioi",
+            "par pluſieurs matinées.",
+            "A arreſté &amp; ordonne, que tres- humbles",
+            "remonftrances ſeront faittes au Roy &amp; à la",
+            "Reyne Regente, ſur lempriſonnement de¬.",
+            "ditsPrinces du lang &amp; Duc de Longue ville,",
+            "pour demander leur liberté, &amp; ſuppllier ledit",
+            "Seigneur Roy &amp; ladite Dame Reyne, de per¬",
+            "mettre à ladite Damoiſelle de Longueville de",
+            "demeures à Parrs; Et que Monſieur le Duc",
+            "d’Orleans oncle du Roy, ſera prie de la part",
+            "de ladite Cour d’employer ſon credit &amp; au¬",
+            "thorite, pour obtenir ce que l’on demande",
+            "auec tant deiuſticc: &amp; qu’a cette fin vn des",
+            "Priſidents &amp; deux Conſeillers de ladite Cour",
+            "ſeront de putes vers luy.",
+            "Et outre a eſté arreſté de s’aſſembler ſur la re¬",
+            "ponce, &amp; à̀ l’inſtant les gens du Roy man¬",
+            "dez. Monſieur le premier Preſident leur a",
+            "fait eutendre leurs ſuſdits arreſte, &amp; ont eſté",
+            "chargées de ſçauoir le iour &amp; heure que ledit",
+            "Seigneur Roy &amp; ladite Dame Reyne, au¬",
+            "ront la commodicé d’entendre eſdites remo¬",
+            "ſtrances. Fait en Parlement le 30. Decembre",
+            "1650.",
+            "Signé́ Guyet."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4"
+    ]
+}

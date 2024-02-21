@@ -1,0 +1,161 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-19",
+            "@who": "AB"
+        },
+        "titre": "Les Souhaits de la France accomplis et la réjouissance\n          des François sur la naissance d'un prince tant désiré.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000000278564",
+            "@xml:id": "IL_PeleDenis.xml",
+            "persName": {
+                "forename": "Denis",
+                "surname": "Pelé"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "LES",
+            "SOVHAITS",
+            "DE LA",
+            "FRANCE",
+            "ACCOMPLIS.",
+            "ET LA RESIOVYSSANCE DES",
+            "François, ſur la Naiſſance d’vn Prince",
+            "tant deſiré.",
+            "1650"
+        ],
+        [
+            "3",
+            "LES SOVHAITS",
+            "DE LA FRANCE",
+            "ACCOMPLIS.",
+            "Et la reſioüyſſance des François ſur la Naiſſance d’vm",
+            "Prince tant deſiré.",
+            "FRance, reſiouys-toy, puis qu’vne grand’Du",
+            "d",
+            "cheſſe,",
+            "Nous fera auiourd’huy calmer noſtre triſteſſe,",
+            "pn mous donnnant vn fils qu’eſloit rant deſiŕ",
+            "Beniſſons mille fois l’heure de ſa Naiſſance,",
+            "Puis que nous auons tous le bien tant aſpiré",
+            "Qui ſera pour le bien &amp; bon heur de. la France",
+            "Enfin nous poſſedons vne forte colomne",
+            "Que nous a porté vne Dame ſi bonne,",
+            "Qui a faict accomplir tant de Predictions,",
+            "Le Ciel a exaucé noſtre juſte priere,",
+            "Sur elle ayant verſé ſes benedictons",
+            "La faiſant auiord’huy d’vn grand Printe là Mere"
+        ],
+        [
+            "Bref à ce bruict tonnant &amp; heureuſe nouuelle",
+            "Cela pourra tenir l’ennemy en ceuelle",
+            "Ce Prince nouueau-né le fera paſſier,",
+            "De beaucoup il verra ſa fonrce eſtre amoindeie,",
+            "Sçachant que nous auons vn rampart &amp; pilier,",
+            "Par qui nous reuerrons la France refleurie",
+            "Bref, il n’y a celuy qui ne s’en reſioüyſſent,",
+            "Et generalement tous les François beniſſent",
+            "Le iour &amp; le grand bien de cet acouchement",
+            "Enfin nous ſouhaitrons que tout bon heur ſuccede,",
+            "A ce grand de Bourbon, à ce Royal enfant,",
+            "Qui peut à noſtre mal apporter du remede.",
+            "Lorage eſtant paſſé, nous aurons la bonnace,",
+            "Le Ciel nous fera voir vne riante face,",
+            "En nous faiſant ioüyr d’vn temps beau &amp; ſerain,",
+            "Et puis qu’aſſeurément la ioye ſuit la triſteſſe,",
+            "La Naiſſance auiourd’huy d’vn Prince ſouuerain,",
+            "Cauſe à tous les François vne grande allegreſſe.",
+            "Vn bien tant attendu eſt beaucoup eſtimable,",
+            "Ayant done à ce iour ce Prince tant aymable,",
+            "Nous portons vers le Ciel mille remerciemens",
+            "L’ennemy ſous ſes pieds verra l’herbe coupée,",
+            "Nous verrons de la paix le reſtabliſſement",
+            "Et luy il ſe verra la force diſſipée.",
+            "C"
+        ],
+        [
+            "5",
+            "Ce nous eſt vn appuy, qui eſt inébranlable",
+            "C’eſt vn fort bouclier, dont la fermeté ſtable,",
+            "Tous les ennemis fuſſent ils des Geans,",
+            "Ne pouuans pas aſſez luy donner d’excellences,",
+            "C’eſt tout dire, en diſant, fils du Due d’Orleans,",
+            "On renferme en ce mot toutes les circonſtances.",
+            "Noſtre Roy en aura vne joye indiſcible,",
+            "Son Royaume en ſera plus contant &amp; paifible:",
+            "Car les Princes ſe ſont des Eſtats les appuis,",
+            "Tous d’vn commun accotd, enſemble il nous faut dire",
+            "Qu’on verra quelque jour le COVsI de Lov1s",
+            "Eſtre le parangon de ce fameux Empire.",
+            "Ces nouuelles par tout vont eſtre répanduës,",
+            "On les ira porter aux terres inconnuës,",
+            "On va ſçauoir par tout qu’vn fils nous eſt donné:",
+            "Meſime les Nations, Sauuages &amp; Eftrangeres,",
+            "¬",
+            "Tous benirons le jour dans lequel il eſt né,",
+            "Chcun en a des joyes toutes extraordinaires.",
+            "Bref nous luy ſouhaitons que tout bien luy proſpere,",
+            "Imitans les vertus du pere &amp; de la mere,",
+            "Mere qui eſt doiuïée de grand perfection,",
+            "Que l’on peut à bon droict la nommer le modelle",
+            "Des plus hautes vertus, &amp; de deuotion,",
+            "En voyant ſa ferveur, ſon amour &amp; ſon zelle.",
+            "B"
+        ],
+        [
+            "6",
+            "Car pour bien exalter MARGVERITE DE LORRAINE,",
+            "Il faudroit vn eſprit, non de nature humaine:",
+            "Car vn Ange il faudroit pour en bien diſcourir,",
+            "Elle nous a produict aujourd’huy vn grand Prince,",
+            "Qui ſe fera de tous honorer &amp; cherir,",
+            "On ſ’en réjoüira dedans chaque Province.",
+            "Réjoüy-toy Paris; auſſi toute autre ville:",
+            "Le Ciel nous a donné vn tres-puiſſant azille,",
+            "On en eſt ſi joyeux au Palais d’Orleans,",
+            "Que leur joye en effect eſt toute inexprimable,",
+            "lls ſont ſi ſatisfaits, ſi rauis &amp; contans,",
+            "Nous de noſtre coſté en auons le ſemblable.",
+            "FIN.",
+            "A PARIS,",
+            "Chez DENYS PELLE’, ruë de la vieille Bouelerie",
+            "au gros Tournois.",
+            "M. DC. L."
+        ]
+    ],
+    "pages_number": [
+        "2",
+        "4",
+        "5",
+        "6",
+        "7"
+    ]
+}

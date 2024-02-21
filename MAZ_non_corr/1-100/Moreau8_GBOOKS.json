@@ -1,0 +1,205 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-28",
+            "@who": "AB"
+        },
+        "titre": "À qui aime la vérité",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": [
+            {
+                "@source": "Baillet",
+                "@role": "alleged_author",
+                "persName": {
+                    "forename": "Jean-Louis",
+                    "surname": "La Valette de"
+                }
+            },
+            {
+                "@source": "Moreau",
+                "@role": "alleged_author",
+                "@ref": "isni:0000000061237731",
+                "persName": {
+                    "forename": "Anthyme Denis",
+                    "surname": "Cohon"
+                }
+            }
+        ],
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-02-11",
+                "#text": "11 février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "A qui aime la vérité.",
+            "LE Parlement veut deſpouiller le Roy de ſon authorité́ pout",
+            "s’en reueſtir, les Princes qui ſe ſonte vnis au Parlement vou¬",
+            "droient bien s’accommoder de ſon bien &amp; de ſes Places.",
+            "Et vous pauures Bourgeois de Paris ſacrifiez voſtrérepos, hazar¬",
+            "dez voſtre vie, videz le fonds de vos bourſes, vous reduiſezà la faim,",
+            "prenez les armes cõtre voſtre roy, &amp; ne trauaillez qu’à voſtre ruine,",
+            "pour appuyer, ſans le ſçauoir, les iniuſtes pretentions des vns &amp; des",
+            "autres; c’eſt bien ſe tourmenter pour ſe rendre criminels &amp; malheu¬",
+            "reux toute voſtre vie, quoy qu’il arriue. Car, où̀ le Roy demeurera le",
+            "maiſtre, comme il y a grande apparence, &amp; ſi auant cela vous ne re..",
+            "parez voſtre crime, &amp; ne regaignez ſon affection par quelque mar¬",
+            "que de la voſtre, il vous fera ſeruir, vous &amp; vos familles, d’exemple à",
+            "la poſterité, par vn chaſtiment memorable de la rebellion que vous",
+            "commettez: où le Parlement &amp; les Princes auront le deſſus(ce qui",
+            "fait horreur ſeulement à le penſer à tout bon François ) &amp; au lieu",
+            "d’vn Roy, d’vn legitime Souuerain qui vous cheriroit auec tendreſ¬",
+            "ſe, &amp; ne ſongeroit qu’à voſtre ſoulagement &amp; à vous rendre heu¬",
+            "reux, vous aurez quatre cens tyranneaux, qui vous deſchireront &amp;",
+            "vous opprimeront de mille taxes, comme ils ont deſia commencé́, &amp;",
+            "voſtre opiniaſtreté n’aura ſeruy qu’à allumer &amp; nouprir vne guerre",
+            "ciuille, qui rendra la France la proye de ſes ennemis, &amp; changera",
+            "voſtre ville la plus belle du monde &amp; la plus heureuſe, en vn theatre",
+            "d’horreur &amp; de miſeres.",
+            "Le Cardinal eſt vn meſchant homme, parce qu’il n’a pas voulu",
+            "conſentir à la deſtruétion de la Royauté, ou auacuns du Parlement",
+            "viſent pour gouuerner eux-meſmes: C’eſt vn perturbarur du repos",
+            "public, parce qu’il n’eſt pas tombeé d’accord de contenter Nouion,",
+            "Blancmeſnil, Viole, Brouſſei, &amp; autres, ny les Princes dans ce qui",
+            "leur eſftoit venu à la teſte de prerendre: Il trouble le Royaume, luy",
+            "qui a inceſſamment crauailé &amp; auec ſuccez à le conſeruer en tran¬",
+            "quilicé́ pendant toute la Regence &amp; à la procurer au dehors. Il n’a",
+            "ny luy, ny aucun de ſes pareus, place, ny charge, ny gouuernement,"
+        ],
+        [
+            "ny eſtblſſſement, ’c’eſt vn ambitieux, vn intereſſé, vn’perfide:",
+            "Les autres prerendans n’ont -rien contribué comme luy aux con¬",
+            "queſtes qui ont eſté faites, &amp; ne laiſſent pas de demander les meil¬",
+            "leuress places du Royaume &amp; des graces qu’ils n’ont point meritées.",
+            "Le Cardinal s’entend auec les Eſpagnols pour trahir l’Eſtat, pour",
+            "les en rendre maiſtres: ll faut qu’il ſoit bien habile, &amp; qu’il les dupe",
+            "bien fiaement, de conſeruer ainſi leurs bonnes graces, lors que le",
+            "Royaume s’accroiſt coures les années, de Places, &amp; par fois de Pro¬",
+            "uinces entieres à leurs deſpens. Si le bon Dieu nous aſſiſte d’auoit",
+            "touſiours des iniſtres ſi meſchans, nous mettrons bien-toſt en cho¬",
+            "miſe le Roy d’Eſpagne de ſon conſentement",
+            "Le Cardinal eſt vn cruel, vn violent, vn ſanguinaire: cependan;",
+            "on void la Baſtille remplie depuis quinze iours de plus d’Officiers &amp;",
+            "ſerniteurs du Roy, qu’elle n’a eſté de meſchans &amp; de criminels dans",
+            "les ſix années de la Regence: ou ie ne ſçay pas qu’il y ait eu autre",
+            "ſangreſpandu que celuy d’vn Icalien qui donnoit des aduis aux Eſ¬",
+            "pagnols.",
+            "Le Cardinal eſt vn Creſus, vn voleur de deniers publics, il aen¬",
+            "glouty tout l’argent de France: cependant nous apprenons qu’il n’a",
+            "pas dequoy viure, &amp; que ſa maiſon eſt tous les iours ſur le poinct de",
+            "renuerſer. Il faut qu’il ſoit bien cruel à ſoy-meſme de ne mettre pas",
+            "ſes treſors au iour, dans cette occaſion ou il y va du tout pour luy, &amp;",
+            "ou il ne luy ſeruiroit de rien de les auoir ſauuez, s’il ſe perdoit.",
+            "Enfin, les autres mettent tout s’en deſſus deſſons, font prendre",
+            "les armes au peuple contre leur Roy: cepedant ils ne ſont ny per¬",
+            "ubaturs ny meſchans, ny gens qui ſe remuent pour autre interet",
+            "que pour le bien public. Pauure peuple deſſille tes yeux, permet¬",
+            "tras-tu d’eſtre ſacrifié pour des intereſts particuliers de nuſle cõſide¬",
+            "aition, &amp; de plus pour des gens qui ſe mocquẽr de toy danms le temps",
+            "meſme que tu fſers à leurs fins? Ne ſç̧ais ru pas que as braues Princes",
+            "paſſementez &amp; brodez à tes deſpens, boiuenc tous les iours l’vn à",
+            "l’autre à la ſanté des badaus de Paris? L’vn d’eux, diſoit-il y a quel¬ J",
+            "ques iours, qu’il faloit prier Dieu qu’ils fuſſenit long-tempsdupes:",
+            "l’autre, que c’et faire vne guerre bien commode, d’auoir beaucoup",
+            "d’argent, coucher dans de bons draps, &amp; ne ſe battre point. Où ſontc",
+            "ces deux cens mil hommes qui doiuent ſortir pour engloutir d’vn",
+            "mocceau les troupes qui t’affamẽ̃?Pour toutes les taxes qu’on a fai¬"
+        ],
+        [
+            "tos ſar ty, dott le Roy auroit pûleuer ehmil aoinmes, q’as-ts",
+            "encore que deux mil mefchans fantaſſins, &amp; huict cens cbeuaus de",
+            "meſme qui n’oſent nonſteer le ez hors la ville, ſans fe recognr",
+            "auſſi- toſt dans tes portes, teſmoin la belle eſquipée de Corbeil? i",
+            "tu ne m’en crois pas pour le ombre, donne toy la pelne deles cortſ¬",
+            "pter aux reueuës, &amp; ne t’eſtn pas apres cela ſi touslurs usploies",
+            "ne vont qu’à faire cuire quelque pain aux fauxbourgs &amp; à l’eſcotsc",
+            "à la halle, pour perſuader aux hiais qu’Ils l’ont conquls à la poiate de",
+            "l’eſpée en raſe campagne.",
+            "Tes Generaux &amp; autres chiefs, n’ont pas laiſſeé de touchor qatre",
+            "à cinq cens mille eſcus; Jl eſt vray que l pluſpart d’ontr’eux clin¬,",
+            "quaatez comme ile ſont valent bien pour le nmoins les troupes qu’lls",
+            "s’eſtoient chargez de leuer On controle les aétione u Roy quanc",
+            "il donne-mille eſcus à des Officiers qui vont répandre leur ſangà la",
+            "campagne contre les ennemis de l’Eſtat: c’oſt Vvn podigue, vn diſſt.",
+            "pateur: Les Finances ſont mal draiaſtres quand en donne deux",
+            "mille eſcus pour leuer vne compagnie de cheuaux legers qui va en",
+            "des pays éloignez pour le feroice de ſa patrie: &amp; c’ot eſtre fort mo¬",
+            "ger des deniets publics quan",
+            "deré, grand œconeme bon -néa",
+            "on donne icy des cinquante mille francs en pure gratificat ion à des",
+            "particuliers qui ont pris party contre leur Souuerain, qud on paye",
+            "des quinze mil francs pour leuer vne compagnie ſeule: Tu peux fa¬",
+            "cilement t’eſclaircir de ces veritez, &amp; ſi tu en doutes tant ſoit peu, la",
+            "ſeconde touche qu’on ſe prepare de donner à ta bourſe ne t’en ren¬",
+            "dra que trop ccrtain, comme la troiſiéme &amp; la quatriéme, qui ſui¬",
+            "uront bien.toſt les autres, acheueront de te mettre aux abois ſi tu",
+            "ne prens auant cela quelque reſolution genereuſe pour rompre les",
+            "fers-de la tyrannie qu’on t’impoſe. Pourquoy ſouffrir ſi long-temps",
+            "vn ioug ſi rude qu’il ne nous ſoit pas ſeulement permis de parler,",
+            "parce que ceux que nous faiſions volontairement nos Maiſtres ne",
+            "trouuent pas bon que nous le puiſſions faire que eomme il nous ſi¬",
+            "flent. Ils en veulent au Cardinal: Cependant, qui ne ſçait que s’il",
+            "euſt voulu ſarisfaire les chefs de part du Parlement que ie t’ay nom¬",
+            "mez, &amp; conſeiller qu’on donnaſt Sedan, le Havre, Montreuil, &amp;",
+            "autres choſes de pareille nature, le bien publicſe fuſt bien porté, il",
+            "n’en ſeroit pas le perturbateur, il auroit eſté le meilleur Miniſtre",
+            "qui fut iamais, il faudroit le canoniſer."
+        ],
+        [
+            "Eſt-il poſfibleapres cela que ſois encore dupe, &amp; que u laifſe ſf",
+            "long-temps abuſar de ta bonteé? Vange plutoſt tôn Roy deſobey,",
+            "maſtraicté, offenſe, attaqué́, vange toy toy-meſme des maux que",
+            "ru ſouffres, &amp; de ceux où l’on ne ſe ſoucie guere de ce plonger à l’ad¬",
+            "uenir. Qand tu n’aurois autre choſe à craindre que de perdre pour",
+            "touſiours la preſence de ton Roy, ee qui t’eſt infaillibie ſi tu t’opi¬",
+            "niatre en ta rebellion, ne conſideres-tu point quelle ſeroit pourtoy",
+            "la grdeur de cetteperte, &amp; que cette preſence eſt ce qui t’enrichit,",
+            "&amp; te donne la ſplendeur &amp; l’opulence par deſſus les aurres villesO",
+            "irois-tu chercher le payement de tant d’argent que la Cour te doit?",
+            "Ne t’aperçois tu-point que ſi elle faiſoit ſon ſejour en quelqu’autre",
+            "ville tous tes artiſans ſeroient à la faim, &amp; qu’il ſe depenſeroit à Pa¬",
+            "ris moins de douze millions de liures par an qu’on ne fait?",
+            "Declare-coy ſeulement, &amp; tu ſeras le maiſtre de ces factieux cri¬",
+            "minels quit’ont armé contte ta pattie s tu autas les benedictions du",
+            "Ciel, les graces de ton Roy, &amp; l’applaudiſſermaent de tous les bons",
+            "François: Oblige le Parlement à̀ ſortir de Paris, &amp; eu obligeras ton",
+            "Roy à y rerourner, &amp; auec luy le bon.heur, l’abondance, le com¬",
+            "merce, la cranquillité, la ſeureté, &amp; enfin touce ſorte d’opulence,",
+            "de felicité &amp; contentement.",
+            "Le defnteneſé ̀ Paris."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ]
+}

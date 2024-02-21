@@ -1,0 +1,177 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Aliments – Approvisionnement – Paris (France)",
+            "Paris (France)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-09",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Bordeaux, portant\n          injonction à tous les marchands du haut pays de faire descendre, par la Garonne, des bleds\n          sur le port et havre de la présente ville, pour subvenir à la nécessité de Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-10-15",
+                "#text": "daté du 15 octobre 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000367213580",
+            "@xml:id": "IL_SassierGuillaume.xml",
+            "persName": {
+                "forename": "Guillaume",
+                "surname": "Sassier"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMFNT",
+            "DE BOVRDEAVX.",
+            "Portant enjonction à tous les Marchands du haut-pays, de fai¬",
+            "re deſcendre par la Garonne, des bleds, ſur le Port &amp; Haure",
+            "de la preſente Ville, pour ſubuenir à la neceßité de Paris.",
+            "Ixoute la copie imprimée à Bourdeaux.",
+            "A PARIS,",
+            "Chez GVUILLAVME SASSIER, Imprimeur &amp; Libraire",
+            "ordinaire du Roy, rüe des Cordiers, proche",
+            "Sorbonne, aux deurs Touterelles.",
+            "M. DC. XXXXIX."
+        ],
+        [
+            "EXTRAICT",
+            "DES",
+            "REGISTRES",
+            "DV",
+            "PARLEMENT.",
+            "SVR ce qui a eſté repreſen¬",
+            "té à la cour, qu’elle a don¬",
+            "né julques icy diuers Ar¬",
+            "ûé reſts, four la liberté de la",
+            "deſcente des bleds &amp; tranſ¬",
+            "port d’iceux, ſuiuant les paſſe-ports accor¬",
+            "dezpar le Roy, ſans que juſques à̀ preſent",
+            "ceux qui ont entrepris la ruyne de cette",
+            "A ij"
+        ],
+        [
+            "’prouinee y ayent volu defferer, ny fai¬",
+            "re ceſſer les empeſchemens qu’ls ont ſ",
+            "porté à ce Commerce, quoy qu’il ne s’a",
+            "giſt pas tant de l’intereſt de la preſente",
+            "ville, où ptr la grace de Dieu, le bled",
+            "n’a jamais augmenté de prix pendant ces",
+            "guerres, que de celuy du haut-pays, &amp;",
+            "autres lieux de la Guyenne, qui ſe trou¬",
+            "uans ſurchargez de bleds, pourroient re¬",
+            "tirer de norables ſommes de la vente de",
+            "cette denrée, &amp; pouruoir pr ce moyen",
+            "à leur ſubſiſtance, &amp; au payement des de¬",
+            "niers Royaux. Ceux meſme qui empeſ¬",
+            "chent à preſent cette liberté, lors que le",
+            "Roy la donne, ayant voulu prendre cy¬",
+            "deuant occaſion de ſoûleuer le meſme",
+            "pays de haut, contre l’autlorité de Ia",
+            "Cour, pource qu’elle empeſchoit la cat¬",
+            "gaiſon des bleds, en vn temps auquel ſa",
+            "Majeſteé́ l’auoit deſfenduë, &amp; noſtre pro¬",
+            "pre neceſſité ne la pouuoit fouffriur: Ils",
+            "vuloient en retirer des gains &amp; profits",
+            "illicites &amp; honteux. Et d’autant qu’outre",
+            "cet intereſt de coute la Prouince, la pluſ¬",
+            "pare de celles du oraume ouuen",
+            "at preſentengagées, part la cherté &amp; diſet¬"
+        ],
+        [
+            "te qu’elles ſouffrent, &amp; particuliererment la",
+            "ville de Paris, pour le ſoulagement de",
+            "laquelle principalement, ces paſſe-ports",
+            "auoient eſté accordez, en ſorte que les",
+            "Deputez de la Cour, qui ſont prez de leurs",
+            "Majeſtez, y ont ſouffert diuers reproches",
+            "de la rerention des bleds deſtinez pour",
+            "Paris, &amp; de ’empeſchement qu’on por¬",
+            "toit de deça, à l’execution des meſmes",
+            "paſſe-ports, au grand prejudice de cette vil¬",
+            "le Capitale du Royaume, à quoy eſtant im¬",
+            "portant de pouruoir, LACOVR, Oüy",
+            "ſur ce le Procureur General du Roy, con¬",
+            "formement aux Arreſts precedens; En¬",
+            "joint à tous les Marchands du haut-pays,",
+            "&amp; autres trafiquants en bleds, d’en faire",
+            "deſcendre inconinent &amp; ſans delay, par",
+            "la riuiene de Gronne &amp; autres, ſur le",
+            "Port &amp; Haure de la preſente ville, pour",
+            "en eſtre fait eatgaiſon, ſuiuant la volonté",
+            "du Roy, &amp; eſtre pourneu par ce moyen",
+            "à la neceſſité́ preſente de la ville de Pa¬",
+            "ris, &amp; autres hieux du Royaume. Enjoint",
+            "à tou les Iuges, Maires &amp; Conſuls, &amp; au¬",
+            "tres Officiers des villes, eſemble à tous",
+            "Gouuerneurs des Places &amp; Chefs des trou¬"
+        ],
+        [
+            "ſages pour cet éffet, à̀ peine d’en reſpon¬",
+            "dre en leur propre &amp; priué nom. Fait",
+            "tres-expreſſes inhibitions &amp; deffences à",
+            "toures perſonnes, der quelque qualité &amp;!",
+            "condijtion qu’ils ſoient, d’y porter aucun",
+            "obſtacle ou empeſchenent, aà̀ peine d’e¬",
+            "ſtre procedé çontr’eux comme perturba¬.",
+            "teurs, du repps public; &amp; en cas de con¬",
+            "trauentiat, rdonne qu’il leur ſera cou¬",
+            "u ſus, &amp; aà ces fins permet aux Officiers",
+            "d’aſſembler les Communautez. Et aux fins",
+            "que la choſe ſoit notoire à tous, Ordon",
+            "ne que le preſent Arreſt ſera leu &amp; publié.",
+            "eés villes du haut pays, &amp; autres lieux du.",
+            "reſſort que beſoin ſera, aà cry publie, &amp;",
+            "ſon de trompe es jours de Marcheé́, &amp; af¬",
+            "fiçhé és lieux accouſtumez, le tout en!",
+            "vertu du ſimple Dictum, attendu la matie¬",
+            "re dont s’agiſt. Fait à BOVRDE AVX,",
+            "en, ’arlement, extraordinairement aſſem¬",
+            "blé, le quinzieſme d’Octobre, mil ſix cens",
+            "quarante-neuf.",
+            "Signe, DE PONTAC."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14"
+    ]
+}

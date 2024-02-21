@@ -1,0 +1,106 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-13",
+            "@who": "ZC"
+        },
+        "titre": "Vers sur l'effigie ou image de la justice qui étoit au\n          haut du feu d'artifice fait en la place de Grève, le 5 septembre 1649, en présence du roi,\n          le cardinal Mazarin étant près de Sa Majesté.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1649-09-05",
+                "#text": "mention du 5 septembre 1649 dans le\n            document"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "VERS",
+            "SVR L’EFFIGIE OV IMAGE",
+            "de la Iuſtice qui eſtoit au haut du Feu",
+            "d’Artifice fait en la Place",
+            "de Gréve,",
+            "Le 5. Septembre 1649.",
+            "En preſence du Roy, le Cardinal Mazarin",
+            "eſtant prés de ſa Majeſté.",
+            "A PARIS,",
+            "M. DC. XLIX."
+        ],
+        [
+            "9",
+            "SVRL’EFFIGIE OV IMAGE",
+            "de la Iuſtice qui eſtoit au haut du Feu",
+            "d’Artifice fait en la Place",
+            "de Gréve.",
+            "Le5. Septembre 1i649.",
+            "En preſence du Roy le Cardinal Mazarin eſtant",
+            "prés ſa Majeſté.",
+            "EPIGRAMME.",
+            "Ette Image qu’on voit là haut",
+            "De celle qui punit le vice,",
+            "Monſeigneur, n’eſt pas comme il faut,",
+            "S ivous eſtiez ſur l’échaffaut,",
+            "Ce ſeroit vrayment la Iuſtice.",
+            "d ij"
+        ],
+        [
+            "4",
+            "AVTRE",
+            "L’On s’en va brûler la Iuſtice,",
+            "Vous ne ſçauez pas fourquoy c’eſt,",
+            "C’eſt qu’elle a reuoqué l’Arreſt",
+            "Qui vous condamnoit au ſupplice.",
+            "AVTRE.",
+            "Puiſque l’on brîle, Cher Amy,",
+            "La Iuſtice au mois de Septemhre,",
+            "Les Traitans à la S. Remy",
+            "Auront bon marché de ſa Chambre.",
+            "AVTRE.",
+            "Ie ne puis dire bonnement,",
+            "Pourquoy ſi furieuſement",
+            "Auiourd huy la Iuſtice pette,",
+            "Sinon parce que cy-deunit,",
+            "Durant la Guerre, la pauurette",
+            "Ne ſe repaiſſoit que de vens.",
+            "FIN."
+        ],
+        [
+            "1"
+        ]
+    ],
+    "pages_number": [
+        "3",
+        "5",
+        "6",
+        "7"
+    ]
+}

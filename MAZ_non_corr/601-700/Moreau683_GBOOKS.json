@@ -1,0 +1,113 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "Chansons",
+        "subject": "Blocus de Paris",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-16",
+            "@who": "AB"
+        },
+        "titre": "Chant royal du siége de Paris, dédié à monseigneur de\n          Beaufort",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-06-03",
+            "#text": "3 juin 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000061693956",
+            "persName": {
+                "forename": "H.",
+                "surname": "Barrois de"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-02-26",
+                "#text": "permission de faire imprimer du 26 février\n            1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:000000038598758X",
+            "@xml:id": "IL_SevestreLouis.xml",
+            "persName": {
+                "forename": "Louis",
+                "surname": "Sevestre"
+            }
+        },
+        "nbPages": "11"
+    },
+    "texte": [
+        [
+            "7",
+            "CHANT ROYAL",
+            "DV SIEGE DE PARIS.",
+            "DEDIE",
+            "A MONSEIGNEVR",
+            "DE",
+            "BEAVFORT.",
+            "ARGVMENT",
+            "Pline au troiſieſme Liure qu’il a fait des Ele¬",
+            "tnts, dit qu’n fleuue noinmé Braſilis, porte",
+            "es eaues daus la mer ſans les meſler aueeelile",
+            "CHANT ROYAL",
+            "Ce ſujet émouſſe ma peine",
+            "Y trouuant tant d'obſcurité",
+            "Qu'en-vain ie trauaille ma veine",
+            "Pour en tirer quelque clarté,",
+            "Dans cette curioſité,",
+            "Ma raiſon demeure eſbranlee",
+            "Voyant auec difficulté",
+            "L'eau douce dans la mer ſalée."
+        ],
+        [
+            "8",
+            "Vn Fleuue dans la moitte pleine,",
+            "Roule ſon cyſtal argente,",
+            "Son eau dans l’eſcume prochaine",
+            "ſoiille point fa metere.¬",
+            "Et dans ete proximité,",
+            "Qioy qu’ele deuſt eſrre meſtée.",
+            "le eſt far conrariete",
+            "L’eau doce dans la mer ſalée.",
+            "l. l..4.",
+            "C’et vne choſe bien eertaine",
+            "Qu’on ne voit point d’afſniteé,",
+            "a l’eaerre -courserafne",
+            "i cin’eſt en l’midiré!",
+            ".",
+            "Sar pour changer de qualié,",
+            "Ou pour voir ſon omde rronbſee;",
+            "C’eſt e qui n’a imais eſlé",
+            "’eau douce dans l’ mer ſale.",
+            "Paris dais l’immorité,",
+            "En mes vers ſois tuappellee,",
+            "Segee par imporuni",
+            "L’ean douce dms la er ſalee.",
+            "FIN.",
+            "ll eſt permis au Sieur Barois de faire imprimer les",
+            "deſſus, ar ee defenſes à autres lans la pem¬",
+            "ſion t ce 6 erier"
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "2"
+    ]
+}

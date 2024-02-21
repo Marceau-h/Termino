@@ -1,0 +1,157 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "Lettre",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-27",
+            "@who": "MF"
+        },
+        "titre": "Lettre du duc de Lorraine, envoyée à S. A. Royale madame\n          la duchesse d 'Orléans, sur la diligence qu 'il fait pour le secours de la ville de\n          Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121428928",
+            "persName": "Charles IV, duc de Lorraine"
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
+            "persName": {
+                "forename": "veuve de Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DV DVC",
+            "DE LORRAINE,",
+            "ENVOYEE A S. A. ROYALE",
+            "MADAME",
+            "LA DVCHESSE",
+            "D’ORLEANS,",
+            "Sur la marche de ſon Armée pour",
+            "le ſecours de la Ville de Paris.",
+            "A PARIS,",
+            "DE L'IMPRIMERIE de la Veuſve I. GUILLEMOT, ruë des",
+            "Marmouzets, proche de l'Egliſe de la Magdeleine",
+            "M. DC. LII."
+        ],
+        [
+            "3",
+            "LETTREDVDVC",
+            "DE LORRAINE,",
+            "ENVOYEE ASA ROYALE",
+            "LA DVCHESSE",
+            "D’ORLEANS.",
+            "Sur la marche de ſon Armée",
+            "Poug le ſecours de la Vile",
+            "de Paris.",
+            "lapu",
+            "Ileſt bien difficile d’éluder les con¬",
+            "tinuelles fourberies du Cardinal",
+            "A ij"
+        ],
+        [
+            "4",
+            "Mazarin, &amp; de ſes diuers Partiſans,",
+            "&amp; quelque precaution que l’on pren¬",
+            "ne pour s’en garantir, leurs intrigues",
+            "ſont ſi delicates, qu’il eſt preſque im¬",
+            "poſſible de les apperceuoir qu’apres",
+            "en auoir eſté tpompé́: l’ay ſcç̧eu que",
+            "Meſſieurs les Princes &amp; toutes les",
+            "Compagnies Souueraines de la bon¬",
+            "ne ville de Paris n’ont pû̂ eſuiter les",
+            "artifices de la Cour, &amp; que l’on s’eſt",
+            "ſeruy à cét effet de l’inclination que",
+            "Monſieur a touſiours eu pour la Paix,",
+            "de la deference que les bons Fran¬",
+            "çois doiuent auoir pour les volontez",
+            "du Roy, &amp; du ſpecieux pretexte d’vn",
+            "accommodement pour les obliger à",
+            "vne ſolemnelle deputation, afin de",
+            "les tromper auec plus d’apparence,",
+            "&amp; tâcher par ce moyen de les mettre",
+            "dans la meffiance les vns des autres,",
+            "ou pour le moins donner quelquel",
+            "ombrage au peuple de leur procedé:",
+            "Ie vous aduoüe aufſi, Madame, que",
+            "ie"
+        ],
+        [
+            "5",
+            "ie n’ay pû me garantir des effects de",
+            "certe fourberie, par les diuers aduis",
+            "que l’on m’a donné, tant de la Cour,",
+            "que de pluſieurs autres endroits, de la",
+            "verité &amp; de la certitude de cé́t ac¬",
+            "commodement, &amp; quelque reſolu¬",
+            "tion que i’euſſe priſe de n’adjouſter",
+            "foy qu’aux ſeuls aduis qui me vien¬",
+            "droient de voſre part: Le bruit de",
+            "cet accord a eſté ſi grand, que ie n’ay",
+            "pû eſuiter d’en eſtre trompé auec",
+            "tout le monde; ce qui me donnoit à la",
+            "verit́ quelque deſplaiſir, pour n’a¬",
+            "uoir pas teſmoigné́ par effect mes",
+            "bonnes intentions à toute da France,",
+            "&amp; de voir que cette guerre ſe fuſt",
+            "terminée autrement que par vne Paix",
+            "generale, qui eſt l’auerſion du Cardi¬",
+            "nal Mazarin. Mais puis que vos Let¬",
+            "tres m’aſſeurent du contraire, ie vous",
+            "promets, Madame, que ſans aucun",
+            "delay, ie vais faire aduancer mes",
+            "Troupes auec le meſme ordre &amp; la",
+            "B"
+        ],
+        [
+            "meſme diſcipline qu’elles ont obſer¬",
+            "uées iuſqu’à preſent, afin de ſoulager,",
+            "nosamis autant qu’il nous ſera poſſi¬j",
+            "ble, &amp; tâcher de renuoyer les four¬",
+            "beries ſur les teſtes de leurs Au",
+            "theurs: I’eſpere, Madame, d’eſtre",
+            "Lundy ou Mardy prochain au plus",
+            "tard aà Paris, pour vous teſmoigner, &amp;",
+            "à toute la France, que vos ennemis",
+            "ſont les miens, &amp; que ie ſuis verita¬",
+            "blement,",
+            "MADAME,",
+            "Voſtre tres-hunble e tres-obeyſſan",
+            "frere &amp; ſeruiteur,1",
+            "CHARLEs Dvc E Loa",
+            "DuCaspd’Aaeayce. May1é6j."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6"
+    ]
+}

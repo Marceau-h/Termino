@@ -1,0 +1,103 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Militaires – Paris",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, donné, toutes les chambres\n          assemblées , le 10 janvier 1649, par lequel il est défendu, à tous gouverneurs des villes\n          frontières ou autres places, de laisser sortir aucuns canons, armes et munitions de guerre\n          de leurs dites places, et enjoint, à tous capitaines, soldats et gens de guerre, qui sont\n          proches de Paris, de s’en éloigner de vingt lieues ; à faute de ce, permis aux habitants\n          des villes, bourgs et villages, de s’armer et leur courir sus",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01-11",
+                "#text": "11 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DONNE TOVTES LES",
+            "Chambres aſſemblées le 10.iour",
+            "de Ianuier. 149.",
+            "PAR LEQVEL IL EST DEFENDV",
+            "à tous Gouuerneurs des Villes frontieres, ou au¬",
+            "tres places, de laſſer ſortir aucuns Canons, ar¬",
+            "mes, &amp; munitions de guerre, de leurſdites places.",
+            "Et enioint à tous Capitaines, Soldats, &amp; gens de",
+            "guerre qui ſont proches de Paris, de s’en eſloigner",
+            "de vingt lieüs; A faute de ce, permis aux Ha¬",
+            "bitants des Villes, Bourgs, &amp; Villages, des’armer,",
+            "&amp; leur courir ſus.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordi¬",
+            "naires du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Maieſté."
+        ],
+        [
+            "4",
+            "&amp; munitions; &amp; à tous Capitaines &amp; Gouuerneurs",
+            "de laiſer ſortir aucunes garniſons, canons &amp; muni¬",
+            "aons, à peins contre tous les conereuenans de con¬",
+            "aſeaeion de corp, &amp;bieas E ſer le preſent ret,",
+            "leau, publie, &amp;aſlache par tous le carrefouns decore",
+            "le &amp; Faux bourgs de Paris, &amp; enuoye aux autres",
+            "Vviles, nourg, &amp; Vilages , pour yetre paeilemens",
+            "publie &amp;anene ala digenee daroeureur qeneral",
+            "Eait en Parlement le dixieme Ianuier mil ſix cens",
+            "quarante-neuf.",
+            "Signé, DV TILLET.",
+            "T E Lan&amp;y vnilenme ’ia d laonmir iſre ent",
+            "lLurameuſ, lareſt o dſas de ſinn",
+            "TTcaarde Palemen,aeſe lu e&amp;r puldilafade npe",
+            "e cCo pedie aue se peanr &amp;r Fandendegn pr",
+            "Faudatrgs de’ Pans, queau- Cerrefurs &amp;r Plaes pubi¬",
+            "us dardie Vuie&amp;r paombarg pglelfe",
+            "Feolus oneinoirt dunlalepſt",
+            "ul d pmi, rompgu de Dodir ords diChoaom¬",
+            "pagne, leuandupas, atqas leprain, lurex Tromprs de",
+            "R̃y, &amp; affhé ou bſoeinaefi",
+            "JOSSIER."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "12"
+    ]
+}

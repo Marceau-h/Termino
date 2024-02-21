@@ -1,0 +1,114 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Aides (impôt) – France",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-02-04",
+            "@who": "AB"
+        },
+        "titre": "Arrest de la cour de Parlement. Portant deffences au\n          [sic] fermiers des aydes, leurs commis qu'autres, de faire à l'advenir aucunes levées,\n          tant sur le bestail à pied fourché, qu'autres danrées : mentionnez au tarif du 26. jenvier\n          1641. Du deuxiesme octobre, mil six cens quarante huict.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-01-31",
+            "#text": "31 janvier 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": {
+            "@source": "Mazarine",
+            "@when": "1648",
+            "#text": "1648"
+        },
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000011194155",
+            "@xml:id": "IL_MusnierVeuvedAndre.xml",
+            "persName": {
+                "forename": "Veuve d'André",
+                "surname": "Musnier"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST DE LA",
+            "COVR DE PARLEMENT",
+            "Portant deffences au Fermiers des Aydes, leurs Com¬",
+            "mis qu'autres, de faire à l'aduenir aucunes levées ;",
+            "tant ſur le Beſtail à pied fourché, qu'autre dan¬",
+            "rées : mentionnez au Tarif du 26. Ianvier 1641.",
+            "Du deuxieſme Octobre, mil ſis cens quarante huict.",
+            "A PARIS",
+            "Chez la vefue A. MVSNIER, au Mont sainct Hilaire,",
+            "en la Cour d'Albret.",
+            "M. DC. XLVIII."
+        ],
+        [
+            "Extraict des Reiſtres de",
+            "Parlement.",
+            "CE jour la Cour, toutes les Chambres",
+            "aſſenmblées, apres auoir ouy lerappor",
+            "de deux Conſeillers d’icelle, Commis",
+            "pour l’execution de l’Arreſt du vingt¬",
+            "tieſre Iuillet dernier, concernant la",
+            "aearre S’Tarif ordonné eſtre fait pat iceluy: Et",
+            "veu les Edicts, Declarations, &amp; Arreſts donnez ſur le",
+            "ſujeét des leúes, rant ſur le Beſtail à pied fourche,",
+            "qu’autres Danré́es; Enſemble la Requeſte preſentée",
+            "par la Communauté des Marchands Bouchers de cette",
+            "Ville &amp; Fouboutrgs, Concluſions du Procureur ge¬",
+            "neral du Roy ſur ladite Re queſte, la matiere miſe en",
+            "deliberation. LADITE COVR, executant ledit",
+            "Arreſt du 2o. Iuillet, a fait &amp; fait tres expreſſs inhibi¬",
+            "tions, &amp; deffences aux Fermiers des A ydes leurs Com¬",
+            "mis, &amp; autres, de leuer à l’aduenir, aux Entré́es de",
+            "cette Ville &amp; Faux-bourgs de Paris, les impoſitions de",
+            "quarante ſols ſur chacun Bœuf, cinq ſols ſur chacun",
+            "Veau &amp; Mouton, de vingt ſols pour Vache, &amp; dou¬",
+            "ze ſols pour Porc, mentionnez au Tarifdu 26. ranuier",
+            "1641. à peine de coneuſſion: Enioint aux Officiers du",
+            "Roy, tenir la main à l’execution du preſent Arreſt: Or¬"
+        ],
+        [
+            "1",
+            "4",
+            "donme qu’la dillgeue du Proeuruut gnermals ſen¬",
+            "leu, publie &amp; affiché́ par tous les Carrefours de cette¬ J",
+            "dite Ville &amp; Faux-bourgs, &amp; par tout ailleurs ou be¬ J",
+            "ſoin ſera, à ce que nul ’on pretende cauſe d’ignorance.",
+            "Faict en Parlement le i. Octobre is 48.",
+            "Signé,",
+            "eeeeel",
+            "2 V I . ..",
+            "D",
+            "T",
+            "LLeſt́ leu &amp; pablié à ſoi de Trompe &amp;? cry public, ant",
+            "par toutes les Portes que Carrefours de ceete Ville de Paris,",
+            "par moy ean Ioier, uré Crjeur orlinaire du oy, en la Vil¬",
+            "le, Preuoſte &amp; icomté de Paris, aßiſt de Maiſtre Iean",
+            "Saptste Caſault, Huißier en ladite Cour, fait auec trois¬",
+            "Trompettes, Iean du Bos, &amp; Iacques le Frain, Iurez Trom¬",
+            "pettes, l d’vn aure Trompette, Commis de Didier Ordi,",
+            "dit Champagne, auſit Iuré Trompette du Roy, eſduts lleur,",
+            "laffichéoù beſoin a eſté. Signé losss."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "12"
+    ]
+}

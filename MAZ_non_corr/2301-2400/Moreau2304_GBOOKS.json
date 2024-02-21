@@ -1,0 +1,122 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-05-05",
+            "@who": "AB"
+        },
+        "titre": "Lis et fais.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000061237731",
+            "@source": "Mazarine",
+            "@role": "alleged_author",
+            "persName": {
+                "forename": "Anthyme Denis",
+                "surname": "Cohon"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01-29",
+                "#text": "29 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "1",
+            "Lis &amp; fait.",
+            "Auure peuple de Paris que ie plains ta ſissplicité &amp; ron auen¬",
+            "glement, dis-moy les ſubjets de plainte que eu as de-’adrmini¬",
+            "tration de la Reyne, a-on diminue le payement des rent,",
+            "depuis la Regence, c’a-t’on chargé de nouueaux impoſts, il me",
+            "ſemble pluſtoſt que tu as eu des deſcharges de maillions à la fois",
+            "&amp; des graces &amp; des ſoulagemens au delaà de ce que la neceſſité de",
+            "ſouſtenit deux peſanes guerres pouuoit permetee, cependãt quel¬",
+            "le rage te poſſede de prendre les armes contre ton Roy, vn Roy mi¬",
+            "neur, vn Roy innoeent, donné de Dieu, vn Roy touſiours triom¬",
+            "phant de ſes ennemis, à qui ta rebellion ſi elle duroit va rauir des",
+            "mains l’aduancage de conclure la paix la plus glorieuſe que la Fra¬",
+            "ceait faie deuis l’origine de la monarehie, on veut luy voler le plu.",
+            "beau fleuron de ſa Couronne, on attaque directemet ſon authorite",
+            "qui eſt ee quile diſtingue du eſte deſes ſubijecs; le Parlemene em¬",
+            "porteépar les fatieux veur baſtir vne puiſance nmouuele &amp;e iuſqu?",
+            "preſent incognue dans ce Royaume ſur les ruines de la Royaute,",
+            "il veut de l’eſtat du monde le plus monarchique en compoſer",
+            "gouuermement monſtreux de deux cens teſtes. Et tu n’adheres pas",
+            "ſeulement à ce deteſtable projet, tu le ſouſtiens au peril de to,re¬",
+            "nos, au hazard de tes biens, de l’honneur de ces familles, de leur ſub¬",
+            "ſiſtance &amp; de ea propre vie; quelle fin peuſt auoir cette affaire ſi rtu",
+            "t’opiniaſtres à la ſouſtenir qu’vn gouffre de miſeres &amp; de calamitez,",
+            "que l’horreur des guerres ciuiles, que l’efſaſion de beaucoup de ſan;",
+            "François &amp; l’aduantage des ennemis de l’eſtat, car enfin quelle ra¬",
+            "ſon peuſt donner la ſouueraine puiſſance à des gens ordinaires qui",
+            "n’ont rien par deſſus les autres que la fortune d’auoir pû achepter",
+            "des charges bien cherement, &amp; crois-tu quand Dieu ne prendroit",
+            "pas en main la cauſe d’vn Roy mineur qu’on veut opprimer, quand",
+            "Ie Roy n’auroit pas pour te ranger en ſon deuoir toutes ces braues",
+            "rupes qui ont mis ſi bas noſtre ennemy anparauant ſi formidable,",
+            "crois-tu, dis-ie, que le Duc d’Orleans, le Prince de Condé, tant de",
+            "Princes &amp; gtrands du Royaume, tout l’Ordre Eccleſiaſtique, &amp;"
+        ],
+        [
+            "A 1",
+            "4",
+            "ple abuſé delſfilletes yex, ceux qui ont le principal intaret au biei",
+            "de l’Eſtat te aonſûtrent aſſez ce que tu dois faire, cu ne ſçaurois fail¬",
+            "lir de marcçer danis le chemin où tu vois le Duc d’Orledas ſi auane",
+            "engagé, ſi conſtant &amp;eſi zelé, où eu vois le Peince de Condé le ſe¬",
+            "conder de touetſon poauoir. Il faut bien que les Goſeils du Cardi¬",
+            "nal ſoient bos, puſſque ces deux perſonnes là les approuuent,",
+            "arois eu quand le Cardinl ſeroic eſloigné que le Duc d’Orleans &amp;",
+            "le Prince de Condeé, qui ons expoſé ſi gayement leur vie pour rele¬",
+            "uer l’authorité Royale &amp; la glſoire de nos armes, vouluſſent iamais",
+            "donner les mains à la ruine de l’Eſtar, &amp; receuoir la loy de quatre",
+            "hommes du Parlemeut, qui pour ſe rendre los maiſtres pretendenc",
+            "dle renuserſer tous les fondermens de la monarchie. Conſidere com¬",
+            "bien l’eſtat où tu te trouues eſt different de cete opulence qui t’a",
+            "renduë la ville du monde la plus heureuſe. Peends garde à ce qu’eſt",
+            "deuenu ton cõmeree, que tu es à la vueille de crier à la faim, qu’il n’y",
+            "aura plus de tentes payées, que tu vas tomber en vné entiere deſola¬",
+            "ion, que ua grandeur eſt ta foibleſſe, que tu es deſia expoſée à la",
+            "mercy &amp; au pillage de la canaille &amp; des vagabons, qu’on teſaignera",
+            "de tous coſtez iuſqu’à l’agonie, que tu entretiendras les deux partis",
+            "àces deſpens, que les troupes dont tu pretends cirer ea deffence te",
+            "ongeront elles-meſnes iſqu’aux entrailles,, umais conſidere plu",
+            "qae tout cela quepours pblaireaas faieux duParlement uorue ieos",
+            "dans la rebellion, que tu prends les armes contre le Souaerain que",
+            "Dieu t’a donné, &amp; que tu cours riſque de perdre ſon amout, &amp; peut",
+            "oſtre tobon-heur.",
+            "Le deſaeraſſeé à Panis."
+        ]
+    ],
+    "pages_number": [
+        "2",
+        "4"
+    ]
+}

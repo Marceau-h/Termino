@@ -1,0 +1,123 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Épernon, Bernard de Nogaret de La Valette (1592-1661 ; duc d')",
+            "Tartas (sénéchaussée)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-04",
+            "@who": "AB"
+        },
+        "titre": "ARREST de la Cour de Parlement de Bourdeaux",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": {
+            "@source": "Mazarine",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:6455058",
+            "#text": "Bordeaux"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121390552",
+            "@xml:id": "IL_MongironMillangesJacques.xml",
+            "persName": {
+                "forename": "Jacques",
+                "surname": "Mongiron Millanges"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE BOVRDEAVX.",
+            "Portant inhibitions &amp; deffences aux Commiſſaires",
+            "du ſieur Duc d’Eſpernon, de leuer aucuns deniers",
+            "des Tailles, dans la Seneſchauſſeée de Tartas,&amp; de¬",
+            "fence aux habitas dud. lieu de les payer auſd. Com.",
+            "A BOVRDEAVX.",
+            "Pa I. MONGIRON MILLANGES, Imprimeur",
+            "orinaire du Roy. 1649."
+        ],
+        [
+            "3",
+            "EXTRAICT",
+            "des Regiſtres de",
+            "Parlement.",
+            "SVR ce qui aeſté epne lenéa la Ccour,",
+            "Pe que le ſieu Due d’Eſueroon, co tre les",
+            "e ordonnances u Roy, &amp; Arreſts de la",
+            "A",
+            "¬",
+            "Pl Cout, a eſet au re cepueur des Taille:",
+            "de Lannes, &amp; enuoyé diuerſes commi¬",
+            "A Ia",
+            "ſioss, taut à luy qu’àM. Pierre Cham.",
+            "bre, -ieurenant genera! de Tatas, pou",
+            "faire mpoler &amp; leuer ſur le peuple, &amp; les Parroiſſes de la.",
+            "dire Seneſchauſſée de Tartas, la ſomme de deux mille liures,",
+            "en deduction de la Taille du Roy, qu’il a comman dé audi",
+            "recepueur &amp; Iurats deſdites Parroiſſes, de payer à H lie Du¬",
+            "martin, par luy commis à la recepte deſdits deniers, pour",
+            "l’employer au payement des gens de guerre, qu’il a és eui¬",
+            "rons de la preſente Ville, pout la ruynet, &amp; rauager tour le",
+            "plat pays, &amp; les maiſos des Officiers &amp; habitans de ladite",
+            "preſente Villes &amp; qu’il aenuoyé́ de ſemblables commiſſions",
+            ",.. a .,aaaa aa,a,,,oa,. ,a,,aan¬¬.¬"
+        ],
+        [
+            "1",
+            "dans tout le pays des Lannes, pour y faire de pareilles leuées",
+            "d’aurres ſommes notables, qu’il entend prendre &amp; exiger,",
+            "contre la ſeruice du Roy, &amp; le repos de la preſente Ville &amp;",
+            "de toute la Prouince, à quoy il conuient remedier prompte¬",
+            "nent: Oüy ſut ce le Pocureut General du Roy, &amp; veu leſ¬",
+            "ies lettres, eommiſſions &amp; départements, faits par le Lieu¬",
+            "renant general de Tattas, en datte des a8. &amp; o. Aouſt der¬",
+            "nier, &amp; premier du preſent mois, LA COV, ſans auoit",
+            "eſgard auſites letres, commiſſious &amp; ópatremens con",
+            "faits &amp; donnez contre les Ordonnar ces du Roy, &amp; lesA1¬",
+            "es y- deuant donnez, a fit &amp; fait is hibitions &amp; deffeuces",
+            "Formelles tant audit Lances, recepueur des Tailles, qu’aux",
+            "Iurats deſditres Parroiſſes, de payet au it Dumartin aucuns",
+            "deniers deſdites Tailles, ny autres contenus auſdires com¬",
+            "leieue e lei euenene leu e enenr ueuinr nene",
+            "ne de quatre nle linres, &amp; de payer deux fois, &amp; Ordon¬",
+            "ne que ledi Chambe, Lieutenant general, comparoiſta",
+            "en perſonne au premier iour, pour e ſpondre aux fins &amp;",
+            "coeluſios, que ledir Procureur general, entend contre",
+            "iuoy pende, &amp; cependant l’a inierdi en l’eeeiee de ſ¬",
+            "harge, luy faitihibiions &amp; defnces, de inmiſer e",
+            "jeeiie, a peine de faux. FAITABOVRDEAVX",
+            ", Parlement, extraordinairement aſſemblé, le quatorzi¬",
+            "eſme Septembre, mil ſix cens quarante-neuſiE",
+            "ſigné, DE PONTAC."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
+    ]
+}

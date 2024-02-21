@@ -1,0 +1,197 @@
+{
+    "imprimatur": null,
+    "corrector": true,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "dialogue",
+            "burlesque",
+            "satirique"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "00-00-0000",
+        "change": {
+            "@status": "corrected",
+            "@when": "2021-11-08",
+            "@who": "AB"
+        },
+        "titre": "Débauche (la) de quatre monopoleurs, et leurs entretiens\n          sur les affaires présentes, en vers burlesques, par monsieur Scaron (sic).",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-19",
+                "#text": "19 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-14",
+                "#text": "14 avril 2021"
+            }
+        ],
+        "author": {
+            "@ref": "isni:0000000120990126",
+            "persName": {
+                "forename": "Paul",
+                "surname": "Scarron"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1652",
+            "#text": "1652"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@xml:id": "IL_DumontPhilippe.xml",
+            "persName": {
+                "forename": "Philippes",
+                "surname": "Dumont"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "La",
+            "DEBAVCHE",
+            "DE QVATRE",
+            "MONOPOLEVRS",
+            "Et leurs Entretiens, ſur les",
+            "affaires preſentes,",
+            "En Vers burleſques.",
+            "Par Monſieur Scaron.",
+            "A PARIS,",
+            "Chez PHILIPPES DV MONT, au Mont",
+            "Sainct Hilaire.",
+            "M. DC. LII."
+        ],
+        [
+            "3",
+            "LA DEBAVCHE",
+            "de quatre Monopo",
+            "leurs &amp; leurs entre",
+            "tiens ſur les affaires",
+            "preſentes.",
+            "En Vers Burleſques.",
+            "Par Monſieur Scaron.",
+            "D’AVTRE IOVR entre deux &amp; trois",
+            "Quatorzieſme du preſent mois,",
+            "Ie pris ma Chaire &amp; mes porteurs,",
+            "Pour ioindre de fort bons pileurs,",
+            "Qui mattendoient chez Racheteaux",
+            "Le preſident des Macreaux",
+            "En en trant quantité de mets",
+            "Comme bon vin, biſque &amp; Poulets"
+        ],
+        [
+            "4",
+            "Longe de veau, Chappons, Vanneaux,",
+            "Et pluſieurs bons morceaux",
+            "Nous furent fort bien ſeruis",
+            "(Quand ie dis cela, ie me ris)",
+            "Puiſque ce ridicule trompeur",
+            "Que l'on nomme Amelot le manteur,",
+            "Se fit paroiſtre en peu de mots",
+            "De la maiſon des Amelors.",
+            "Si vous voulez ſçauoir l'Hiſtoire",
+            "Du petit Lamorieierre",
+            "De ce bon &amp; villain Cheuau",
+            "Qu nous nommons le gros bunau,",
+            "Du Sieur Amelot l'Aumoy",
+            "Qui ſe dit Comte d'Eſpernay",
+            "C'eſt bien le plus plaiſant Godnot",
+            "Et le moins complaiſant falot",
+            "De ceux qui s'appellent Amelot",
+            "Qui vallent moins que du Camelot.",
+            "Cette race d'Apotycaire",
+            "Eſt vn eſclaue volontaire,",
+            "Il eſt martyre des Enfers",
+            "Et c'eſt vn monſtre enlumineur",
+            "Il eſt meſchant, il eſt trompeur,",
+            "Il eſt intrigue, il eſt manteur.",
+            "Ses baiſez ſont baiſez de traiſtre",
+            "Il n'eſt iamais ce qu'il feint d'eſtre",
+            "Son"
+        ],
+        [
+            "5",
+            "Son ame prand toutte figure",
+            "Hormis celle d'vne ame pure.",
+            "Sans maſque il eſt touſiours maſqué,",
+            "Turlupin n'a point pratiqué",
+            "Tant de tours ny tant de ſuppleſſe",
+            "Tant de tours n'y tant d'adreſſe",
+            "Que ce petit mouſque verollé",
+            "Qui cependant deux ou trois anné",
+            "Chez luy Monſieur Robin",
+            "Ce perſonnage ſi diuin",
+            "Le traitoit non pas en feſtin",
+            "Mais bien comme vn puant dain.",
+            "Ie ſuis d'auis d'vne choſe",
+            "De faire vne metamorphoſe",
+            "Et changer ce foutu badin",
+            "Auec le Comte de Quelin",
+            "Quoy que prudant &amp; bien ſage.",
+            "Ie trouuay extremmemant mauuais",
+            "Le procedé de ce niais",
+            "Qui prit la boutaille &amp; le verre",
+            "D'vne façon mercenaire",
+            "Et d'vn viſage furibond",
+            "Vint à ſe facher tout de bon",
+            "Parce que Latour ce poli",
+            "Et de Nobleſſe ſon beau fils",
+            "Sans en auoir eſté prié",
+            "B"
+        ],
+        [
+            "6",
+            "Effrontement eſtoit entrés",
+            "Et gaillards eſtoient à la table",
+            "Comme tous ceux de la Caballe",
+            "Puis apres vn grand remumant",
+            "De ce gros brutal inſolant",
+            "Et de ce gros vilain puant",
+            "Et de ce ridicule Mars loutre",
+            "Qui tenoit autre fois boutre",
+            "Tout proche de ſaint Mederic",
+            "Et deſſus le Pont Noſtre.Dame",
+            "Vandans des Maſques à toutes les Dames",
+            "Ce fout &amp; fat du temps jadis",
+            "Pour qui le monde de Paris",
+            "Diſoit cette belle Chanſon",
+            "Que Buno n'auoit au manton",
+            "Ny poil ny barbe ny mouſtache",
+            "Et pourtant ce vilain gauache",
+            "(Ie parle du ſieur ſon fils)",
+            "Lequel eſtant tout eſbauby",
+            "Des gourmades qu'il reſſent",
+            "Deſſus ſon ventre &amp; ſur ſon cul",
+            "Interompit ce grand Feſtin",
+            "Voulant creuer tous les boudins",
+            "Du Compte du Pleſis Qu'elin,",
+            "Quoqui l'ayme le Genetin",
+            "Il fut neantmoins bien ſage"
+        ],
+        [
+            "7",
+            "Et meſpriſa ce perſonnage.",
+            "Auſſi n'eſtoit-il pas eſgal",
+            "A ce gros vilain animal.",
+            "FIN."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "Dialogue",
+            "Dialogue des morts"
+        ],
+        "subject": [
+            "Châtillon‎, Gaspard de Coligny‎, duc de, 1620-1649",
+            "Clenleu, Bertrand d'Ostove de, 1...-1649",
+            "Condé‎, Louis de Bourbon‎, prince de‎, 1621-1686",
+            "Combat de Charenton (1649)"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-07-26",
+            "@who": "MF"
+        },
+        "titre": "Rencontre (la) des esprits du duc de Châtillon et du\n          baron (marquis) de Clanleu après leur mort, arrivée à Charenton.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-02-10",
+                "#text": "après le 10 février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "@ref": "isni:000000000076698X",
+            "@xml:id": "IL_SaraHenri.xml",
+            "persName": {
+                "forename": "Henry",
+                "surname": "Sara"
+            }
+        },
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "LA RENCONTRE",
+            "DES ESPRITS",
+            "DV DVC DE CHASTILLON",
+            "ET DV BARON DE CLANLEU,",
+            "APRES LEUR MORT",
+            "arrivée à Charenton"
+        ],
+        [
+            "3",
+            "LA RENCONTRE DES ESPR1TS",
+            "du Duc de Chaſtilon &amp; du Baron de Clanleu.",
+            "apres leur mort arriuee à Charenton..",
+            "DIALOGVE..",
+            "Le Dvc nE Cnast1 LLo.",
+            "ELAs que ’erange aueuglement m’a conduit ences",
+            "lieux &amp; m’a fait rencontrer la mort au plus bel aage de",
+            "lavie",
+            "LEe Baron C LaLEV.",
+            "iſeſes. vous, qui augmentez l’horreur de ce ſejour par vos ac¬",
+            "cens triſtes &amp; funebres?",
+            "Cn. Vous-meſmes qui eſtes-vous;, qui vous eſtonnez d’entendre",
+            "des plaintes dans vn lieu de triſteſſe &amp; de pleurs?:",
+            "C. La mort, quelque affreuſe qu’elle ſoit, ne peur abbaiſſer vn",
+            "grand courage, qui la ſçait meſpriſer auſſi bien que la vle : ear com¬",
+            "me il n’eſtise eelle- cy que pour faire de belles actions, il ne craint",
+            "pas l’autre lors qu’il eſt neceſſaire de ſexpoſer pour la defenle de ſa",
+            "patrie.",
+            "C Si j’auois perdu la vie dans vne ſi loüable occaſion, ie n’ae¬",
+            "euſerois pas la rigueur de mon ſort; mais helas! j’ay pluſtoſt eſté ſon",
+            "perſecuteur que ſon defenſeur.",
+            "CL. A ce que ie puis iuger de vos paroles, vous auez perdu le iour",
+            "àl’attaque d’vn lieu dont la defenſe m’a couſté la vie, &amp; qui a eſté:",
+            "plus funeſte aux vainqueurs qu’aux vaincus.",
+            "Cu Vous dites vray, &amp; c’eſt dans cette honteuſe action que j’ay",
+            "térny toutes ’celles de ma vie, &amp; meſmes la gloire de mes anceſtres;",
+            "par vne mort autant ignominieuſe à l’égard de ſa cauſe, &amp; du lieu",
+            "où elle eſt arriuée, que ma naiſſance eſtoit illuſtre &amp; glorieuſe.",
+            "C. Puiſque toures les inimitiez terreſtres ſont bannies de ces",
+            "lIieux, apprenez-moy voſtre nom &amp; voſtre fortune; &amp; pour vous",
+            "obliger de m’accorder cette faueur, ie veux vous declarér aupar¬",
+            "auant la mienne: l’ay ſeruy la France ſous le nom de Clanleu en"
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3"
+    ]
+}

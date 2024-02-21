@@ -1,0 +1,129 @@
+{
+    "imprimatur": "AVEC PRIVILEGE DV ROY",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Aides (impôt)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement pour le rabais du pied\n          fourché, avec défense, aux fermiers et leurs commis, de lever ledit droit",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1648",
+                "#text": "1648"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1648-10-05",
+                "#text": "5 octobre 1648"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000366954336",
+            "@xml:id": "IL_MettayerMichel.xml",
+            "persName": {
+                "forename": "Michel",
+                "surname": "Mettayer"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT.",
+            "Pour le Rabais du Pied Four¬",
+            "che, anec defences aux Fermier &amp; leurs Com¬",
+            "ns de leuer ledt Droict.",
+            "A PARIS,",
+            "Chez MICHEL METTAYER. Impri¬",
+            "meur ordinaire du Roy, demeurant en l’Iſle",
+            "Noſtre Dame à l\"Image S. Iean",
+            "M. DC. XLVIII.",
+            "AVEC PRIVILEGE DV ROY."
+        ],
+        [
+            "3",
+            "EXTRAICT DES REGI¬",
+            "ſtres de ’arlement.",
+            "E jour la Cour, toutes les Chanm¬",
+            "bres aſemblees, apres auoir ouy",
+            "’Qi",
+            "ie lerpons &amp;e deun e oniſeileus d",
+            "e celle, Commis pour l’erecution",
+            "de l’Arreſt du o. Iuillet dernier,",
+            "concernant la Pancharte &amp; Tarif ordonné́ eſtre",
+            "fait par iceluy. Et veu les Edicts, Declarations",
+            "&amp; Arreſts donnez ſur le lujet des leucs, tant ſur",
+            "le Beſtail a pied fourché, qu’autres Danrees;",
+            "Enſemble la R queſte preſentee par la Com¬",
+            "munauté́ des Marchand Bouchers de cete Vi¬",
+            "le &amp; Fauxbourgs: Conclnſions du Pocurur",
+            "general du Royſur ladite Requeſte; la mariere",
+            "miſeen deliberauon LADITECO R,",
+            "executant ledir Atrſt duo Iuillet, a tai &amp; fait",
+            "tres-expreſſes inlnbitions &amp; deſfnces aux Fer¬",
+            "miers des Aydes, leus on ms &amp; autrs, de",
+            "leuer a l’aduenir, aux Enrces de ccte Ville &amp;",
+            "Fauxbourgs de l’aris, les lmpolitions de qua¬",
+            "1"
+        ],
+        [
+            "4",
+            "ante ſols ſûr chaoua Pus, de ia ſol ſur",
+            "clucun Veau &amp; Mouton, de vingt ſois po",
+            "Va he, &amp; doue ſols pous Pore, nenio n",
+            "au Tarifdu a6. lanuier 64r à peine de onu¬",
+            "ſion Eniont aux Otfices du Roy reni la man",
+            "lexeeuion da lPeſent Arreſt Ondonne qus",
+            "la d ig-nee du ſ’rocureurg-meralil ſera leu p¬",
+            "blé &amp; aſfiché par tous les Carrefeurs de ee",
+            "Vile&amp; Fauubourgs de ’ais, &amp; partout iles",
+            "aebeſoinſer, à ce que uln eu preende cu¬",
+            "d’gnorance. Fait en ’arlemen le deuaiſme",
+            "eobe milfit ecerns quaranyoe",
+            "Signé, GVIET.",
+            "CE Samedy iourd’Oto’A",
+            "Aſt deſus a eſté leu &amp; publié à ſon d¬",
+            "roupe &amp;y poblic tant par toures ler paoe",
+            "7u Carefours decette Ville de arie, panmroy",
+            "an Ieſser, Iuré C eur ordinauire da Roy, ¬",
+            "la ille, Preuoſte gy Vicomé de Pa, aſoi",
+            "de Maiſtre ean aptifte Caſauls, Huſer",
+            "eladte Cour fat auec lrois Trompetre, lea",
+            "dai Bos, &amp; lacqes le Fraun, ſarez Trompr¬",
+            "es d’ vnautre Irompette, Comm de Di¬",
+            "er Ordi, du Champagme, aaſ lare Tron¬¬",
+            "peae da Reyſadus leue, &amp; fad́ou lbeſaui",
+            "aſté. Sgne, JOSSIER."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
+    ]
+}

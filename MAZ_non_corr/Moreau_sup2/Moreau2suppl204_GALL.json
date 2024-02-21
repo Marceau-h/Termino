@@ -1,0 +1,206 @@
+{
+    "imprimatur": "Permiſſion. ",
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "poésie",
+            "éloge"
+        ],
+        "subject": [
+            "Guerre de Trente ans",
+            "Journées des barricades"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-19",
+            "@who": "AB"
+        },
+        "titre": "Les Trophées de Monseigneur le prince de Condé remportez\n          à Lens en Flandres. Poëme.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000117975435",
+            "persName": {
+                "forename": "François",
+                "surname": "Colletet"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1648",
+                "#text": "1648"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1648-08-29",
+                "#text": "29 août 1648"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000371384884",
+            "@xml:id": "IL_BessinJean.xml",
+            "persName": {
+                "forename": "Jean",
+                "surname": "Bessin"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LES TROPHEES DE MONSEIGNEUR",
+            "le Prince de Condé remportez à Lens en Flandres",
+            "POËME",
+            "APRES ce grãd ſuccez que le Ciel nous enuoye",
+            "Puis-je paſſer ce iour ſans témoigner ma ioye?",
+            "Et dois je voir mon Prince au milieu des",
+            "combats",
+            "Choquer nos ennemis &amp; les ietter à bas,",
+            "Sans publier par tout cette inſigne victoire,",
+            "Et grauer dans mes vers ſon merite &amp; ſa gloire?",
+            "Non, Muſe ma Deeſſe, il te faut auiourd’huy",
+            "Emprunter vne voix qui ſoit digne de luy,",
+            "Car comme ſes exploits ſont aurant de merueilles,",
+            "Tu les dois faire entendre à toutes les oreilles.",
+            "Dedans ſi peu de temps ie ſçay qu’on ne peut pas",
+            "Produire vn nouueau chant plein de nouueaux appas",
+            "Mais pourueu qu’vn beau feu le ſouſtienne &amp; l’anime,",
+            "Chacun excuſera ſa foibleſſe &amp; ſa rime,",
+            "Et comme on l’aura veu paroiſtre des premiers",
+            "On ne le croira pas indigne des Lauriers.",
+            "Ie ſçay que le recit de ces choſes eſtranges",
+            "Ne devroit eſtre eſcrit que de la main des Anges,",
+            "Puiſque celle d’vn homme a de trop fſoibles traits",
+            "Pour peindre dignement de ſi nobles portraits.",
+            "Mais comme les mortels habitent ſur la terre,",
+            "Et qu’on voit ces Eſprits au deſſus du tonnerre,",
+            "Ne m’aduoüera-t’on pas qu’il faut que les mortels",
+            "Dreſſent à leurs Heros des Temples, des Autels."
+        ],
+        [
+            "Afin de rendre icy leur memoire eternelle3",
+            "Et les eterniſant, d’eterniſer leur zele.",
+            "Encor que cette ardeur dont ie te vois épris",
+            "Eſclate aſſez par tout ſans nos foibles éerits,",
+            "Puiſque la belle Nymphe en bouches ſi féconde",
+            "L’annonce auec plaiſir ſur la terre &amp; ſur l’onde.",
+            "Grand Prince, ie ne puis m’empeſcher dans ces vers",
+            "D’en publier par tout les miracles diuers.",
+            "Ainſi flambeau des Cieux qui répands ta lumiere",
+            "Sur les riches metaux comme ſur la pouſſiere,.",
+            "Quoy qu’on n’ignore point ce que peut ton ardeur,",
+            "Qu’on cognoiſſe par tout ta force &amp; ta ſplendeur,",
+            "Les enfans d’Apollon dans leurs diuers langages",
+            "Ne peuuent s’empeſcher d’exalter tes ouurages.",
+            "Mais la confuſion de tes faits glorieux",
+            "8",
+            "Tient ſi fort en ſuſpends mon eſprit &amp; mes yeux,",
+            "Grand Prince, qu’en voyant ces choſes nompareilles",
+            "Ie ne ſçay par quels yers commencer tes merueilles.",
+            "Toutefois puis qu’on oittant de grands Eſcriuains",
+            "Te conſacrer leurs voix, te conſaerer leurs mains,",
+            "Pour chanter &amp; tracer tes actes heroïques;",
+            "Que l’on doit buriner dans nos places publiques,",
+            "Ie me contenteray ſeulement auiourd’huy",
+            "Noble &amp; fameux Heros, noſtre erernel appuy,",
+            "De marquer dans ces vers la deffaite ſanglante",
+            "Qu’on t’a veu faire auxyeux de l’Eſpagne tremblante;",
+            "Deffaite que l’on doit à ta haute valeur",
+            "Que ſuit de toutes parts le ſupréme bon-heur.",
+            "Ces Lyons dont tu viens d’exterminer la race",
+            "Faiſoient dedans la Flandre éclatter leur audacei",
+            "Et déja LEooLD publioit hautement",
+            "Que le champ du combat ſeroit ton monument;"
+        ],
+        [
+            "7",
+            "Ie verray, diſoit-il, toutes ces nobles teſtes",
+            "Succomber ſous l’effert de nos rouges tempeſtes,",
+            "Nous ſommes plus puiſſans, &amp; meſme nos ſoldats",
+            "Les ont cent fois vaincus dans ces derniers combats,",
+            "Leurs petits eſcadrons à la moindre furie",
+            "Viendront iuſqu’à nos pieds nous demander la vie.",
+            "Pendant qu’il conceuoit ce funeſte deſſein,",
+            "Sans découurir l’ardeur qui couuoit dans ton ſein,",
+            "Tu t’approchas du camp ſuiuy de tes gensdarmes",
+            "Qui ſemerent l’effroy par le bruit de leurs armes,",
+            "Et qui firent cognoiſtre à ces ſuperbes cœurs",
+            "Que déja ſans frapper ils en eſtoient vainqueurs¬",
+            "Mais ſi toſt que ton bras puiſſant &amp; redoutable",
+            "Eut donné le ſignal à ton peuple indomptable,",
+            "Il porta courageux la mort en tant de parts",
+            "Que des corps ennemis il ſe fit des ramparts.",
+            "Ceux qui pour euiter ce dangereux orage",
+            "Se lançoient dans les flots pour les fendre à la nage,",
+            "Penſant fuïr ainſi l’horreur du monument,",
+            "Rencontroient leur tombeau dans ce froid Element.",
+            "Ce fut en ce combat, ô Prince magnanime!",
+            "Qui de toute la France és l’amour &amp; l’eſtime,",
+            "Qu’on te vid par tes ſoins nobles &amp; vigilans",
+            "Affermir les eſprits foibles &amp; chancelans;",
+            "Ce fut lors qu’onte vid faire tant de merueilles,",
+            "Que Ceſar en ſontemps n’en fit point de pareilles",
+            "Où la iuſte fureur précipitoit tes pas",
+            "Ton fermesoit luy ſeul plus d’ennemis à bas",
+            "Que le feu des mouſquets, que l’horrible tonnerre",
+            "De tes canons vangeurs n’en renuerſoit par terre.",
+            "Apres auoir jonché la campagne de morts,",
+            "L’Eſpagnol ne pouuant ſouſtenir tes efforts,"
+        ],
+        [
+            "3",
+            "Fut contraint pour ſa honte, &amp; pour eombler ta gloirẽ",
+            "D’auoüer que CNE remportoit la victoire.",
+            "On ſonna la retraite, &amp; tes nobles guerriers",
+            "Furent lors de tes mains couronnez de lauriers,",
+            "Tu loüas hautement leur courage inuincible",
+            "Qui dans cette entrepriſe auoit fait l’impoſſible;",
+            "GRAMMONT, qui dans ſes rangs n’auoit iamais plié",
+            "Dans cetre occaſion ne fut pas oublié,",
+            "Tu repetas ſouuent le nom de ce grand Homme",
+            "Que la Flandreredoute, &amp; la France renomme.",
+            "LEOPOLD cependant enflé d’vn fier dépit",
+            "De n’auoir pas vaincu comme il l’auoit prédit,",
+            "Faiſant vn petit corps du reſte de ſa ſuite",
+            "Mit comme elle auſſi toſt ſon ſalut en ſa fuite.",
+            "Mais dés que tes ſoldats enfin eurent appris",
+            "Qu’excepté L E ooL tout eſtoit mort ou pris,",
+            "Tu fus chercher par tout ce Prince temeraire",
+            "Pour luy faire ſentir les traits de ta cholere.",
+            "O que tu fus rauy quand tu le vis loger",
+            "Dans vn fort eſcarté que tu vas aſſieger,",
+            "Afin que dans l’eſpoir de t’en rendre le maiſtre",
+            "Tu faſſes deſormais qu’il n’oſe plus paraiſtre.",
+            "Pourſuy, Prince, pourſuy ces Tytans furieux,",
+            "Et purge ce pais de ces ſeditieux,",
+            "Qui s’eſtans reſolus d’enuahir noſtre terre",
+            "Preferent à la paix vne eternelle guerre;",
+            "Et pendant que ton bras foroera l’Vniuers",
+            "Permets-moy d’en tracer les miracledſue6",
+            "FR. COLLETET, fils de G. C.",
+            "Permiſſion.",
+            "Il eſt permis a IEAN BESSIN Maiſtre Imprimeur-Libraire à Paris,",
+            "d'imprimer le Poëme intitulé Les trophées de M. le Prince de Condé. Fait",
+            "ce 29, Aout 1648. DAVBRAY."
+        ]
+    ],
+    "pages_number": [
+        "4",
+        "5",
+        "6",
+        "7"
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "dialogue",
+            "prose satirique"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-19",
+            "@who": "AB"
+        },
+        "titre": "Jeu (le) du dé, ou la Rafle de la Cour.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LE IEV",
+            "DV DE",
+            "Ou la Raphle de la Cour."
+        ],
+        [
+            "LE IEV DV DE",
+            "Ou la Raphle de la Cour.",
+            "LE ROY.",
+            "La primauté emporte tout.",
+            "LA REYNE.",
+            "- Mpje ’Qleae:",
+            "l’ayiöé à depeſche cmpagſa ,",
+            "Monſieur de Vedoſoaa",
+            "l’ay touſiourcsaineflod roi;",
+            "Muſud Mebana",
+            "le veux ioetieuat pfaaaalaé",
+            "beraoni"
+        ],
+        [
+            "e¬",
+            "Monſieur le Cardinal..",
+            "l’ayout gagnéuſques à preſnt, i’ay fait iis,",
+            "le de quatre.",
+            "i",
+            "J Monſeur de oaufole",
+            "Siie ponaois fairevn point de plus e4 raphle",
+            "mon ieſeroit plus pepu que le otre..",
+            "conſieur le ÇCoadjateu.",
+            "7",
+            "Si ie n’euſſe melnagé́ non ieu, ſ’autoispardi",
+            "iuſquesà ma Croſſe.",
+            "1e",
+            "i",
+            "onſieurde rouſie¬",
+            "l",
+            "eu qal penſoinus loueur la pls oui",
+            "moy, ie les fetay ioüer à l’oion..",
+            "Monfiut lP̂aee de ̂ondé́,",
+            "Toute ma chace eſt tournea.",
+            "onſier de Lngaevilleé?",
+            "Voulant piper, li’ay eſtédſ le Ail’’",
+            "Monſieale Priedotonr?",
+            "dua ſes ue pal de dejed",
+            "doaſie"
+        ],
+        [
+            "3",
+            "’ronſieut Perot Preſident.",
+            "py pedu par-tout , on a faie rafe e du",
+            "hui ſur noſtre ieu.",
+            "Le Atarelehal de Grandmont.",
+            "la2 rafle me deſplaiſt, ieu de ſepe &amp; le N",
+            "neſeloit plûs agreable.",
+            "L’Abbé ds la Riuie",
+            "Tout le unde eroit que ie iche!",
+            "mab¬¬ ¬ a",
+            "Madame d’Oleans",
+            "Moaſier touſioun padu, ii uuei",
+            "nait l a bea ieui.",
+            "Madamoiſelle,",
+            "Il y a long-aps que igpeds a l.",
+            "¬ o¬..¬",
+            "aa",
+            "Maaile de Cheurule,",
+            "Ie oiſie lieus que ie ne iou,",
+            "Madame d Monbagol:",
+            "H piue que e ei ie Eeiy",
+            "E",
+            "gagets"
+        ],
+        [
+            "1",
+            "Monſieur le Comte d’Haureou",
+            "’ , is gisneny plus au",
+            "die qu’à Paris.",
+            "Meſſieurs de Bouillon , de Turaiae",
+            "&amp; de la Mouſſaie.",
+            "Nous aſpirons cous à vae bonne rafle, o",
+            "oouaſommes contraints de maſſer à la poſte.",
+            "Monſieur le Chancelier.",
+            "le m’entretienscouſiours au hazard du ie",
+            "Monſieur Dauau.",
+            "„ondis qu’ò ramaſſe le ieuiene perds peiue",
+            "de temps.",
+            "Monſieur de Chaſteau-neuf.!",
+            "llyà -longtemps que le regarde les ioueur:",
+            "Le premier Preſiden.",
+            "l’inenoie dln e ne ſdſiuaus le nneio, ui",
+            "ichenie reuient ouious i ſoa maap",
+            "Monſieur d’Eſmery.",
+            "’ee deuois tenirà̀ ongauua, ie nerepû"
+        ],
+        [
+            "auoir t’entté au ieu.",
+            "Monſieur d’Alligre.!",
+            "Machance n’a guere duré.",
+            "Monſieur Thubeuf.",
+            "le me iens de iouer, car ily a fort peude choſe",
+            "ieu.",
+            "M. DC. L."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Guyenne",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-09",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Bordeaux pour la paix\n          générale de la province, avec ordre de chanter le Te Deum par toute ladite\n          province.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1650-01-15",
+                "#text": "mi-janvier 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000367213580",
+            "@xml:id": "IL_SassierGuillaume.xml",
+            "persName": {
+                "forename": "Guillaume",
+                "surname": "Sassier"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARRESTS",
+            "DE LA COVR DE",
+            "PARLEMENT DE",
+            "BOVRDEAVX POVR LA PAIX",
+            "generalle de la Prouince.",
+            "Auec ordre de chanter le Te Deum par toute",
+            "ladite Prouince.",
+            "A PARIS,",
+            "Chez Guillaume Saſſier, Imprimeur &amp; Libraire",
+            "ordinaire du Roy, rue des Cordeliers, proche",
+            "Sorbonne, aux deux Tourterelles.",
+            "M DC. L."
+        ],
+        [
+            "3",
+            "EXTRAICT DES",
+            "REGISTRES DE",
+            "PARLEMENT.",
+            "SVR la lecture des Lettres paten¬",
+            "tes &amp; Arricles, enuoyez par le",
+            "Roy pour la pacification des pre¬",
+            "ſens mouuemens, en datte du 2;.",
+            "Decembre dernier, a eſté arreſte,",
+            "qu’il ſera tenu Vendredy prochain",
+            "vne Audience extraordinaire pour la publication",
+            "de la Paix, &amp; que la Cour ira en Robbes rouges",
+            "au TE DEVM qui ſera chanté en action de",
+            "Graces, auquel aſſiſteront tous les autres Corps",
+            "de la Ville, &amp; que le Roy &amp; la Reyne Regente ſa",
+            "Mere, ſeront tres-humblement remerciez de la",
+            "paix qu’il leur a pleu donner à cette Prouince",
+            "Et à ces fins ſera enuoyé ordre aux Deputez de la",
+            "Cour qui ſont prez de leurs Majeſtez, leſquels fe¬",
+            "ront auſſi les tres humbles Remonſtrances por¬",
+            "tées par leſdites Lettres &amp; Articles, &amp; inſtances",
+            "particulieres pour les intereſts des Generaux; Et",
+            "ſeront les Iurats &amp; Corps de Ville aduertis de de¬",
+            "A ij"
+        ],
+        [
+            "puter de leur part vers leurs Majeſtez, pour témoi¬",
+            "gner leurs reſpects &amp; obeiſſances, &amp; les remercier",
+            "auſi tres humblement des graces qu’il lenr a pleu",
+            "leur accorder. Signé, DE PONTAC.",
+            "EYTRAICT DES REGISTRES",
+            "de Parlenent.",
+            "1PRES que lecture a eſté judiciairement faire des",
+            "Lettres Patentes du Roy en forme de Dec laration;",
+            "données aà Paris le2;. Decembre dernier, Sgneées Lovis,",
+            "&amp; plus bas, Par le Roy, la Reine Regente ſa Mere preſen¬",
+            "te, Phelipeaux, ſcellées du grand Seel de France en cire",
+            "jaune, onſemble les Articles accor dez par ſa Majeſté́ pour",
+            "la pacification des troubles de Guyenne, auſſi ſignez",
+            "Lovs, &amp; plus bas, Phelipeaux, datteées du 2s;. dudit",
+            "mois: Ouy ſur ce Duſault pour le Procureur Ge: eral du",
+            "Roy; LA COVR a ordonné &amp; ordonne, Qe ſur le re¬",
+            "ply des Lettres, dont a eſté fait preſentement leture, atuſ¬",
+            "queſles les autres Articles ſecront atachez. ſson nmls ces",
+            "mots, Leuës, publiées &amp; regſtré́es; Ouiy &amp; ce requera nt",
+            "le Procureur eneral du oy, pour eſtre le tout obſerué",
+            "&amp; executé ſelonſa forme &amp; reneur, &amp; que Coppie, tant",
+            "deſdites Lettres, que Articles deuëment collation ées",
+            "aux Ori ginaux ſeront enuoyées par le Procureur Ge neral",
+            "aux Sieges &amp; Bailliages de ce Reſſort, pout y eſtre fait pa¬",
+            "reille lecture, publicaton &amp; enregiſtremenat ,̀ la reqſi¬",
+            "tion &amp; dligence des Subſtituts du dit Proenreu Gereral",
+            "eſdits Sieges auſquels enjoi:t de ce faire, &amp; d’e certifie¬",
+            "la Cour dans le mois. Fait à Bourdeaux en Pirlmet,",
+            "l’Audiance de la grand’Chambre, le 5. Ianuier 1650.",
+            "Signé, DE PONTAC."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
+    ]
+}

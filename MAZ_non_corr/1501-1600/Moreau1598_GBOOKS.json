@@ -1,0 +1,222 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "Discours adressé",
+            "Harangue"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-22",
+            "@who": "MF"
+        },
+        "titre": "Harangue faite au roi par monsieur Talon, son avocat\n          général au Parlement de Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000108628124",
+            "persName": {
+                "forename": "Omer",
+                "surname": "Talon"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@when": "1649-01-15",
+                "#text": "15 janvier 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000506791357",
+            "@xml:id": "IL_NoelFrancois.xml",
+            "persName": {
+                "forename": "François",
+                "surname": "Noël"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "HARANGVE",
+            "FAITE",
+            "AV ROY",
+            "PAR",
+            "MONSIEVR TALON",
+            "SON ADVOCAT GENERAL",
+            "AV PARLEMENT DE PARIS.",
+            "A PARIS,",
+            "Chez FRANCOIS NOEL, ruë Sainct Jacques,",
+            "aux Colomnes d'Hercules.",
+            "M. DC. XLIX."
+        ],
+        [
+            "Aens ne oae o ¬",
+            "oſi eſon dduea dunut ai p e’ pl p",
+            "aaaraae seeade; aae pommleqe due Roy",
+            "3"
+        ],
+        [
+            "aaéeé",
+            "3",
+            "HARANGVE",
+            "FAITE AVROY.",
+            "PAR MONSIEVR TALON",
+            "ſon Aduocat general au Parlement",
+            "de Paris.",
+            "i",
+            "t Les féances des Roys en",
+            "Ieur Parlemene eſtoient aurefois las",
+            "ions de grandeus, de laieſé, &amp; de",
+            "ereonle dilenontumaeneende",
+            "pee lons ani ſe quunonde ſire le",
+            "eoeeaa n ldodard Due ds ouiene",
+            "n eue une edaeud̀ let dn",
+            "une dila doiut ne npuele",
+            "ls, urnodues, deſinfas ale",
+            "peule paeeque lea Ronunrvenoia",
+            "aiail",
+            "¬",
+            ". 7"
+        ],
+        [
+            "1",
+            "que pour delibeee ane ce Ses",
+            "pe ie ou iqua oinoinr on",
+            "pne euſe el enl iſi unain e",
+            "ne ne eoene ui oneani l l ſee",
+            "ane en ei iſirepe eeee",
+            "ee en peue le lneleinenr e ne",
+            "e e enens ouiunae dhns unel,",
+            "peul ee n ane ſeis aiaene",
+            "ne ereunt u ſandleonpane lune",
+            "oue nre neun eunie an enerloone",
+            "en ene nn i er e uidornnen",
+            "aoune une e ne pes iſen llie",
+            "leunrnne lu un deſer de dauns lne",
+            "ne ue onl iuiſion duin lipolpie",
+            "renei e nre dn enie ou eſe le",
+            "on oiuen ienoui de l eſieen",
+            "enese dlnes uſiroe aaſe e",
+            "e eil u noy einnqia leaue",
+            "eue e nenue le ediaunsle",
+            "ſlei o iue er ſoapeneue ul eſ!",
+            "V ouloe e e e l ſoſe ideaniue ſilnid",
+            "meſmes pendae ſa miuoror",
+            "mne e neu dlnr eduieule",
+            "las eais",
+            "l depscluiella paiciadh",
+            "uapuu doleaſpmayaad",
+            "mes"
+        ],
+        [
+            "es qveles ſurmonet par laraiſon, qu’i1",
+            "eſt aduantageux ̀ ’Eſtat dene pasman¬",
+            "ue aux proegrez des victoires &amp; oon¬",
+            "queſtes du Roy, quipneaugmenté no,",
+            "tontieres de nouuelles Prouinmee de",
+            "oraumes entiern, ſoit que ces prup¬",
+            "itions ſoiens vrayes ou ſimulees a",
+            "que nous pouuons dire à Voſtre",
+            "Majeſteé que çes victoiros ne diminuent",
+            "nien de la miſeres de ſes peoples quily",
+            "a des Prouinces entieres où l’on ne ſ.",
+            "nourrit que d’vn peu de paiu d’auoine",
+            "&amp; de ſon, que ſes palmes &amp; les lauriers",
+            "pour leſquels aceroiſtre, l’on trauaille",
+            "tant de peuples, ne ſone poinct com¬",
+            "ptées parmy les bonnes plantes, puis",
+            "qu’elles e poreét aueé fruit qui ſoit bon",
+            "pour la-vie, en effer toures les Prouin¬",
+            "ces ſont appauuries &amp; eſpuifé́es pour",
+            "fournir au luxe de Paris, ou pluſtoſt de",
+            "quelques parricaliers: l’on a mis impoſi¬",
+            "ion &amp; fait desleuées lur toutes les clro¬",
+            "ſes dont on s’eſt peu imaginer, il ne re¬",
+            "ſte plus,Sr, aà̀ vos ſujets-que leurs ames,.",
+            "eſquels ſi elles euſſent eſté venales, il y",
+            "B",
+            "¬-¬",
+            "1"
+        ],
+        [
+            "ee e ei",
+            ".",
+            "pa",
+            "ll",
+            "o",
+            "il",
+            "y i",
+            "ou umup quou uaiuilr?",
+            "6¬",
+            ". 1..",
+            "eeaeoeeeree",
+            "J’encand",
+            "ere eee",
+            "e eene ee eieieees.",
+            "eſe e e ei",
+            "’e elieiuie",
+            "eaeiereeie",
+            "erere ree",
+            "eieiun d ee e e",
+            "eieieeie",
+            "enie lei eileree",
+            "eieire oe eeie",
+            "lie eeieſie",
+            "Ei neeaeie en ee",
+            "e le iue de eieee",
+            "eiue eieſiue",
+            "Ce onien teeee",
+            "ae li ee eneee",
+            "leieioe ſe ie a nirenedi",
+            "ie e dlenie eie",
+            "ei iea ede e eie",
+            "e en enſue e eie",
+            "e e eieeee",
+            "e ons enr oleunier nur",
+            "Ee",
+            "L ûe"
+        ],
+        [
+            "pour l’entretien de la guerre il y a tant",
+            "d’ames qui gemiſſent dans les Prouinces.",
+            "Faites Mapas, que la bonté, la dou¬",
+            "ceur &amp; l’humanité puiſſent deſormais",
+            "auoir des lettres de naturalité dans le",
+            "Louure, Toutes-fois conſiderant les",
+            "vrgentes neceſſitez de l’Eſtat qu’on vous",
+            "viont de repreſenter; Nous n’empeſ¬",
+            "chons point pour le Roy que les nou¬",
+            "ueaux Edits propoſez ne ſoient enregi¬",
+            "ſtrez &amp; verifiez,"
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+    ]
+}

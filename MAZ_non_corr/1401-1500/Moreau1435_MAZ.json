@@ -1,0 +1,121 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Orléans, Gaston (1608-1660 ; duc d')",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-14",
+            "@who": "AB"
+        },
+        "titre": "France (la) parlant à monsieur le duc d’Orléans\n          endormi.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-01-15",
+                "@notAfter": "1649-02-28",
+                "#text": "entre le 15 janvier et\n            fin février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "viaf:55150565624606251190",
+            "@xml:id": "IL_GueffierFrancois.xml",
+            "persName": {
+                "forename": "François",
+                "surname": "Gueffier"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LA",
+            "FRANCE",
+            "A MONSIEVR",
+            "LE DVC",
+            "D'ORLEANS.",
+            "ENDORMY.",
+            "A PARIS."
+        ],
+        [
+            "3",
+            "LA FRANCE",
+            "parlant à Monſieur le Duc",
+            "d’Orleans, endormy.",
+            "GASTON, GASToN, reſueille-toy,",
+            "I Entends mes cris, aßiſte-moy,",
+            "Contre ces trois Tyraos, dont ie ſuis deſchirée:",
+            "es trois Monſtres cruels ont ma perte urée;",
+            "Fay pour m’en garentir de ſemblables efforts.",
+            "Je dort.",
+            "Fils d’vn Pere ſi glorieux,",
+            "Qui, par des onſeils genereux,",
+            "Me gouurna vingt ann ſans- compagon nyajſtre1",
+            "Dous-je pas eſperer que tu feras paroſfre,",
+            "Des ſentimens parels à ceux qu’il eut pour lors,",
+            "Je dors.",
+            "Soi toucbé des ers dauloureue,",
+            "De tant de peuples malheureux,",
+            "Le pillage, le fer, le feu, la faim, ls rage!",
+            "Changent tous en deſerts, ſouffro cee outrage?",
+            "Ieux-tu point arreſter ces barbares eforts.",
+            "Je dors.",
+            "A ij"
+        ],
+        [
+            "4",
+            "asl mon anereſt eſt le pieis",
+            "Nous nons preſtonis ſal ſouſtiei;",
+            "Ja eandeur ſe pendh, ſs l’an me peur deſtruire.",
+            "Peile u ped lh yeuirer ſoilage mon mnrre,",
+            "Ou ie vy ſucomber ſous de ’gtands orr¬",
+            "fe dors.",
+            "JIn Prince ndighe de ceRau.",
+            "eut par le fer &amp;’par le ſang,",
+            "Seſleuer au ſommet où ſon orgueil pire",
+            "ons obſfaule eſt ſaſdeoux a ui ueut un enmple",
+            "ll ny ſmuruit naoner ſan re neure diT¬",
+            "Je dors.",
+            "Ces raiſons ne te touchent pas,",
+            "Quoyl s’il me edui au treſpas,",
+            "Qs duiendra ton nom, ta grander, ta puiſſance?",
+            "l e ten reſtera qu’vne vaune apparente.:",
+            "Tu ſeras ſon jouet, que deuundrae u ar?",
+            "A",
+            "Je dors.",
+            "P’a, Frane, lhin de moy gemir. ſpe",
+            "a",
+            "Luy dit Gas roN, ie veuz dormir:",
+            "eſrns ee adbmmt, y vue paſer ma ie,",
+            "Iamais de m’eſueidler il ne me prit euie;",
+            "Toy, ma Femme, &amp; ma File y perdez vor efonts.",
+            "Ie dors.",
+            "FIN"
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
+    ]
+}

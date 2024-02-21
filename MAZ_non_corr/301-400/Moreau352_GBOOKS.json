@@ -1,0 +1,158 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": true,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-01",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Toulouse, donné contre\n          le duc d’Épenon et ses adhérents.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000122905175",
+            "orgName": "Parlement de Toulouse"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1651-02-01",
+                "#text": "daté du 1er février 1651"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE TOVLOVSE,",
+            "Donné contre le Duc d’Eſpernon, &amp; ſes",
+            "Adherans.",
+            "Du premier Feburier 1651.",
+            "A PARIS,",
+            "Iouxte la coppie imprimee a Thoulouſe.",
+            "M. DC. LI."
+        ],
+        [
+            "ARREST",
+            "de la Cour de Parlement",
+            "de Toulouſe.",
+            "EXTRAICT DES REGISTRES",
+            "de Parlement.",
+            "SVR ce qui a eſté epreſente a la",
+            "Cour, que ores par ſon Atreſt don¬",
+            "ne uies einles eniel",
+            "premier Aouſt dernier, euſt eſté",
+            "ordonne que eres hunmbles monſtnnes ſe¬",
+            "nr les cauſes",
+            "dr puis ſa Majeſté par ſa Declaration du pre¬",
+            "A"
+        ],
+        [
+            "4",
+            "ier Octobre auſſi dernier l’euſt reuoqué du¬",
+            "dit Gouvernement, apres laquelle tous ſes",
+            "ſubjets ont eſteé́ en paix dans ladite Province:",
+            "Neantmoins quelques eſprits factieux font en",
+            "icelle dans le Reſſort de la Cour des brigues,",
+            "monopoles &amp; aſſemblees tresprejudiciables",
+            "au public, meſmes ont capté des deliberations",
+            "ſecrettes contre la volonté du Roy, contraires",
+            "à ladite Declaration &amp; ſuſdit Arreſt, concernant",
+            "le reſtablſſement dudit ſieur Duc d’Eſpernon",
+            "dans ledit CGouvernement: ce qui pourroit cau,",
+            "ſer du prejudice au ſeruice du Roy, repos &amp; tran¬",
+            "quilité de ſes ſubjets ſi par elle n’y eſtoit",
+            "promptement pourveu. LA COVR, les",
+            "Chambres aſſemblces, A ordonné &amp; ordonne,",
+            "qu’a la dligence du Procureur General du",
+            "Ioy, leſdites dehiberations ſeront remiſes de¬",
+            "uers le Greffe d’icelle, pour eſtre ordonné ce",
+            "qu’il appartiendra; Et cependant a fait &amp; fait",
+            "inhibinons &amp; defenſes à roue leeſuhjers du Roy",
+            "de ladite Province de Guyenne au reſſort de la",
+            "Cour, de -quelque qualité́ &amp; condition qu’ils",
+            "ſoient, d’executer icelles, à̀ peine d’eſtre decla¬",
+            "rez nfracteurs de ladite Declaration, &amp; pertur¬",
+            "bateur",
+            "„. ¬¬",
+            "¬¬¬",
+            "¬S¬¬"
+        ],
+        [
+            "3",
+            "3",
+            "bateut du epos public Eaiſanos uſl arilas",
+            "inihibiciou. .&amp; deffenſes à omleſdis fubijet",
+            "du Roy faire telles &amp; ſemblables. briguas, no",
+            "nopoles &amp; aſſemblees, ny prendre aucunes de¬",
+            "liberations coucernant le reſt o! ſlenaent du¬",
+            "dit Duc d’Eſperoh dad lodit Gouerne¬",
+            "ment de ladite Province de Guyenne, aà peine",
+            "de nullité́, caſſation d’icelles, &amp; d’eſtre pro¬",
+            "cedé contre eux ſur les ſuſdires peines. A en¬",
+            "ijaint &amp; enjoint au Procureur General du Roy",
+            "de inceſſamment informer contre ceux qui one",
+            "fait les ſuſdtes brigues &amp; monopoles, pratti¬",
+            "qué leſdites deliberations &amp; aſſembĺes, &amp; aſſi¬",
+            "ſteé en icelles: Enſemble des contreventions",
+            "qui pourroient eſtre faites aus preſent Arreſt,",
+            "pour l’informatron rapportee eſtre ordonné",
+            "contre les coupables tel decret que de raiſon.",
+            "Ordonne en outre ladire Cour qu’extraict",
+            "du preſent Arreſt deü̈ement vidimé &amp; colla¬",
+            "tionne, ſera enuoyé par toutes les Seneſchauſ¬",
+            "ſees, Bailliaes &amp; ludicatures Roysles dudit reſ¬",
+            "ſort dea Cour, pour y proceder aà la pubi’iction",
+            "&amp; l cture d’iceluy à la diligence des Suſtituts",
+            "dudit Procureur General, qui ſeront tenus en",
+            "B",
+            ",",
+            "4"
+        ],
+        [
+            "aiduercir la Car au mois Fait à Toloſe",
+            "Palement le premier ious de Febvies ail ſix",
+            "cens cinquante va.",
+            "Siguae DEMALENFANT."
+        ],
+        [
+            "Loys P PO u o nd cqdi rnnedſonap",
+            "ler Pair etrandaluiſtre de Franee Due ddn quian, Chiie qurous",
+            "Montmorency lbreteronſae Goutuer e t L’ennt qenmerulpo",
+            "le Roy n Guenne etr Berry.",
+            "Pre he B. oaor-m-t uae priulaye du Roy"
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "10"
+    ]
+}

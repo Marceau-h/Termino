@@ -1,0 +1,135 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "Dialogue",
+            "Entretien"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-06-17",
+            "@who": "AB"
+        },
+        "titre": "Plaisant entretien de deux femmes de Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "I",
+            "Plaiſant entretien de deux femmes de Paris.",
+            "SCAVEZ-VOVS bien, ma voiſine, que ie viens",
+            "d’apprendre vne nouuelle qui me cauſe bien",
+            "de la ioye au cœur? ô que Madame noſtre",
+            "Reine eſt bonne, &amp; qu’ils ſont bien miſera¬",
+            "bles, tous ces gens qui diſent qu’elle n’ayme",
+            "pas ſa ville de Paris! Voire, voila bien rencontrer. Monſei¬",
+            "gneur le Duc d’Orleans eſt venu de la part de leurs Majeſtez",
+            "en cette ville, &amp; Monſieur le Preuoſt &amp; Eſcheuins l’eſtant",
+            "allez ſalüer ſelon la couſtume, ſon Alceſſe Royale leur a dit",
+            "que tous ceux qui nous veulent icy donner de la peur, ſont",
+            "des meſchans &amp; malicieux, &amp; ennemis de l’Eſtat, &amp; que la",
+            "Voyez-vous bien, elle n’aura iamais patience qu’elle ne",
+            "nous ait donné la paix, &amp; i’ay entendu dire à des gens de",
+            "bien qu’elle a tres-bien pleuré tout le mal qui nous a eſté",
+            "fait. En verité, ma commere, ie ſuis de voſtre aduis: car quand",
+            "ie me ſouuiens que i’ay veu Madame la Reyne prier Dieu",
+            "auec tant de deuotion, &amp; que toutes les fois qu’elle alloit à",
+            "Noſtre Dame, elle nous ſalüoit de ſi bon cœur, que ie iure¬",
+            "rois bien qu’elle ſeroit marrie de conſentir qu’on nous fiſt",
+            "du mal. Voyez-vous, ma voiſine, ces Meſſieurs prirent trop",
+            "toſt la mouche au nez, mais quoy? ils ont eu tout loiſir de ſen",
+            "repentir: car n’eſt-il pas vray qu’vne mere eſt obligée de con¬",
+            "ſeruer l’honneur &amp; le bien de ſes enfans? &amp; que patience de",
+            "ma vie, nous vendrions iuſques à nos demy ceints, &amp; nos",
+            "7",
+            "1",
+            "c A VE -vous bien, ma voiſine, que ie viens",
+            "3?"
+        ],
+        [
+            "2",
+            "chaperons, pour empeſcher ceux qui voudroient faire tort",
+            "aux noſtres. Vous dites vray, &amp; auſſi les gens de bien n’ont",
+            "iamais blaſmé la Reine, ny ſon bon bon Conſeil; car on ſç̧a¬",
+            "uot bien qu’elle n’en vouloit pas à Paris, mais c’eſtot à ceux",
+            "qui en vouloient troubler le repos. O benit ſoit Dieu, ma",
+            "voiſine, qui nous l’a donne, mais ce n’eſt pas tout encore,",
+            "qui nous le conſerue. Auſſi vray que voila le iour, apres Dieu",
+            "ie ſçay bien à qui il faut auoir recours pour cet effet, il fau¬",
+            "droit que les femmes fiſſent ce que n’ont pas fait les hom¬",
+            "mes, &amp; ie voudrois que nous allaſſions par grande deputa¬",
+            "tion trouuer Monſieur le Cardinal à Compiegne, &amp; le prier",
+            "de ramener noſtre bon Roy à Paris; Ma foy, e gage contre",
+            "qui voudra, qu’il le feroit tout auſſitoſt, car i’ay touſiours",
+            "ouy dire que les Grands ne veulent qu’eſtre priez;&amp; moy qui",
+            "vous parle, vne fois que ie vis paſſer ce Cardinal ſur le Pont",
+            "neuf, i’eus le loiſir de le regarder ſi à mon aiſe, que ie reco¬",
+            "gneus bien en ſon viſage qu’il n’eſt point malicieux. Et icy",
+            "entre nous, qui elt ce qui nous peut dé mentir, car il n’a ia¬",
+            "mais fait mourir perſonne, &amp; depuis qu’il gouuerne les affai¬",
+            "res de l’Eſtat, nous n’auons point ouy parler qu’on aye en¬",
+            "uoyé en l’autre monde ceux qui eſtoient priſonniers à la Ba¬",
+            "ſtlle, ou au bois de Vincennes; ce qui ſe faiſoit auparauant",
+            "aſſez ſouuent, &amp; ie ne ſçay croyez moy) pas pourquoy l’on",
+            "crie tant contre luy. Ma commere, ie ne ſçay pas non plus",
+            "ſr quelles raiſons ils ſe fondent, ſi ce n’eſt à cauſe qu’ils di¬",
+            "ſent qu’il eſt Eſtranger, &amp; que la Reine ſe pourroit bien ſer¬",
+            "uir d’vn Franç̧ois. Et mercy Dieu, le Roy Loüſs ſon ma y luy",
+            "a commandé de le faire? Et nous trouuons dans nos heures",
+            "que quand le Cardinal de Richelieu fut mort, le Roy defunct",
+            "dit au Carnal Mazarin qu’il vouloit qu’il tinſt la place de"
+        ],
+        [
+            "3",
+            "l’autre. La femme peut-elle faire quelque choſe contre la",
+            "volonté de ſon mary? On a beau dire, ils ſont nos Seigneurs",
+            "&amp; nos Maiſtres, &amp; tout ce qu’ils commandent en mourant",
+            "doit eſtre fait ſans y manquer. lIl n’y a rien à redire, ma com¬",
+            "mere, &amp; c’eſt dommage que ie n’aye voix en Chapitre, tous",
+            "ces beaux conteurs &amp; mal contens ſeroient bien toſt chaſſez",
+            "de Paris; vrayement vrayement, ils n’y gagneroent gueres",
+            "de nous vouloir expoſer vne autrefois pour faire leurs affai¬",
+            "res. Nenny, nenny, ma commere, les Pariſiens ayment leur",
+            "Roy, &amp; comme dit noſtre homme, ils ne veulent pas perdre",
+            "l’honneur qu’ils ont d’eſtre appellez dans les Hiſtoires, le",
+            "peuple fidele; &amp; i’ay ouy dire à mon pere grand, qu’il n’y a",
+            "que d’eſtre logé à l’eſcu de France, manger en repos du pain",
+            "de Gonneſſe, &amp; faire rouler ſa marchandiſe; &amp; pour moy,",
+            "ma commere, ie ſuis comme ceux qui diſent que les Grands",
+            "ſe ſeruent des petits, tout de meſme que les ſinges de la pate",
+            "du chat pour tirer les marrons du feu, &amp; ma foy le peuple ſe¬",
+            "roit bien ſot &amp; eſtourdy de bailler à rire à ſes deſpens aux",
+            "meſcontens; qu’ils faſſent, ſ’ils veulent, leurs affaires ſans",
+            "nous, les noſtres, Dieu mercy, vont aſſez bien, en attendant",
+            "que le Roy reuienne à Paris."
+        ]
+    ],
+    "pages_number": [
+        "2",
+        "2",
+        "3"
+    ]
+}

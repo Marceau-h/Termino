@@ -1,0 +1,215 @@
+{
+    "imprimatur": null,
+    "corrector": true,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "poésie",
+            "burlesque",
+            "satirique"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-30",
+        "change": {
+            "@status": "corrected",
+            "@when": "2021-11-08",
+            "@who": "AB"
+        },
+        "titre": "Terme (le) de Pâques sans trébuchet, en vers burlesque,\n          suivant l'arrêt du 14 avril 1649.",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-17",
+                "#text": "17 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-27",
+                "#text": "27 avril 2021"
+            }
+        ],
+        "author": {
+            "@ref": "isni:0000000063037063",
+            "persName": {
+                "forename": "Laurent",
+                "surname": "Laffemas, de"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000109088537",
+            "@xml:id": "IL_JacquardNicolas.xml",
+            "persName": {
+                "forename": "Nicolas",
+                "surname": "Jacquard"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "LE TERME",
+            "DE PASQVES",
+            "SANS TREBVCHET,",
+            "EN VERS BVRLESQVE.",
+            "SVIVANT L'ARREST DV 14 D'AVRIL",
+            "mil ſix quarante-neuf.",
+            "A PARIS,",
+            "DE L'Imprimerie de NICOLAS IACQVARD, ruë",
+            "Chartiére prés le Puits-Certain, au Treillis-vert.",
+            "M. DC. XLIX."
+        ],
+        [
+            "3",
+            "LE",
+            "TERME DE PASQVES",
+            "SANS TREBVCHET,",
+            "EN VERS BVRLESQVE.",
+            "Suivant l'Arreſt du 14 iour d'Avril, 1649.",
+            "RICHES Creſus, ames dorées",
+            "Qui faites d'or les empirées,",
+            "Et mettez le Souverain bien",
+            "A prendre tout ne donnant rien:",
+            "Qui diſiez pendant que la guerre",
+            "Tenoit ſon Trône en noſtre terre,",
+            "Que vous aviez mal au cerveau,",
+            "Ou que l'on vous ordonnoit L'eau,",
+            "Que vous aviez les dents rompuës,",
+            "Et les gencives corrompuës,",
+            "Que vous ne pouviez plus manger,",
+            "Qu'il ſe falloit vn peu ranger,",
+            "Que la gagne eſtoit trop petite",
+            "Pour auoir la farine cuitte,",
+            "Qui craignant qu'on fit coffres nets,",
+            "Baptiſiez le vin des Valets,",
+            "A ij"
+        ],
+        [
+            "4",
+            "Et les renvoyez chez leur pere,",
+            "Ne gardant qu'vne chambriere,",
+            "Qui ne gouſtoit point de boiſſon",
+            "Que celle qui ſert à l'Oyſon,",
+            "Qui ne faiſiez point de largeſſes,",
+            "Et qui déguiſiez vos richeſſes,",
+            "Diſant qu'on ne meurt pas de faim",
+            "Quand on a de l'eau &amp; du pain:",
+            "Vous qui craigniez que la Fortune,",
+            "Ne vous fiſt dénicher la Lune,",
+            "Qui dans vn ordre ſans pareil",
+            "Vous couchiez avec le Soleil,",
+            "Le lard dans vne telle affaire,",
+            "Vous eſtoit bien plus ordinaire,",
+            "Que la Caille &amp; que la perdrix,",
+            "Qui valoit vn aſſez bon prix,",
+            "N'en eſtant pas en abondance",
+            "Vn peu devant la Conférence.",
+            "Mais, taiſez vous c'eſt trop pleuré,",
+            "A preſent on eſt aſſeuré",
+            "Qu'à la vailée de miſere",
+            "L'on treuve à faire bonne chere;",
+            "Ne vous mettez plus en ſoucy,",
+            "La paix eſt faite Dieu mercy:",
+            "Allez recevoir voſtre Ferme;",
+            "Mais, que dis-je, on donne le terme,",
+            "Et on dit que de voſtre bien",
+            "Vous n'en recevrez encor rien.",
+            "Grand Dieu, c'eſt bien fâcher vn homme,",
+            "Que de défournir vne ſomme,",
+            "Que depuis plus d'vn an &amp; jour.",
+            "Eſt privée de voir le jour:",
+            "N'y ſongez plus, c'eſt choſe faite,",
+            "Fermez (puis que la paix eſt faite)",
+            "La"
+        ],
+        [
+            "5",
+            "La porte au Temple de Ianus,",
+            "Ou vous mettiez vos revenus,",
+            "Et ouvrez aux captifs la porte,",
+            "Afin que cette troupe ſorte,",
+            "C'eſt vn oeuvre de charité,",
+            "Que de laiſſer voir la clarté,",
+            "A ceux qui ſont en ſi grand nombre,",
+            "Dans vne priſon auſſi ſombre,",
+            "Que la priſon d'vn cabinet,",
+            "Quoy que l'on le tienne aſſez net:",
+            "N'avez vous point d'autre allegreſſe,",
+            "Que de voir repoſer ſans ceſſe",
+            "Ces petits ronds, d'argent, ou d'or,",
+            "Qui compoſent voſtre treſor,",
+            "Rendez grace à la deſtinée,",
+            "Faut les dérouïller cette année,",
+            "Et les prendre apres tant de ſoin,",
+            "Afin d'en vſer au beſoin,",
+            "Faut qu'ils revoyent la lumiére,",
+            "Puis qu'apres trois mois ſans rien faire,",
+            "On met ce qu'on pouvoit avoir,",
+            "Dans les fins de non recevoir.",
+            "Mais, ſi le Fermier eſt bon homme,",
+            "Vous ne perdrez pas voſtre ſomme,",
+            "Il vous la payera ſans frais,",
+            "L'année mil ſix cens jamais;",
+            "Priez Dieu, prenez patience,",
+            "Faites derouïller la balance,",
+            "Et gardez la pour cét effet,",
+            "Et les poids &amp; le trébuchet:",
+            "S'il demeure vn peu ſans rien faire,",
+            "Quand il vous ſera neceſſaire,",
+            "Il marchera plus juſtement,",
+            "Que non pas au commancement:",
+            "B"
+        ],
+        [
+            "6",
+            "Toutes choſes repos déſient,",
+            "Le repos fait qu'elles reſpirent,",
+            "Et auiourd'huy l'homme de bien,",
+            "Repoſe s'il ne paye rien,",
+            "Il reſpire, il reprend haleine,",
+            "Et encor auec peu de peine,",
+            "S'imaginant en Paradis,",
+            "Entendant crier ces Edits.",
+            "N'en faite point tant mine griſe,",
+            "Car pour vn, cent on favoriſe,",
+            "Et il vaut mieux pour tous reſors,",
+            "Prendre le party des plus forts.",
+            "Conſolez-vous ie vous en prie,",
+            "Fermez l'oreille quand on crie,",
+            "L'Edit qui dans ſa probité,",
+            "N'aura iamais d'égalité:",
+            "Ne penſez plus à voſtre Ferme,",
+            "Et encor bien moins à ce terme,",
+            "Que vous nommerez en ſecret,",
+            "Le ſeul Terme ſans Trébuchet.",
+            "Voſtre Serviteur,",
+            "NICOLAS LE DRV.",
+            "SCAZON."
+        ],
+        [
+            "SCAZON.",
+            "Si christiana, denegat fides, legis,",
+            "Inferre amicis damna, non vetat dictum",
+            "Sit prima noſtri cura, jura ſic poſcunt."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+    ]
+}

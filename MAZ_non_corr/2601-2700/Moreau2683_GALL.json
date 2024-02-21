@@ -1,0 +1,162 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-06-01",
+            "@who": "AB"
+        },
+        "titre": "Paranymphe (le) aromatique, dédié à monseigneur le duc de\n          Beaufort.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121237136",
+            "@xml:id": "IL_CoulonVeuvedAntoine.xml",
+            "persName": {
+                "forename": "Veuve d'Antoine",
+                "surname": "Coulon"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "LE",
+            "PARANYMPHE",
+            "AROMATIQVE",
+            "DEDIE",
+            "A MONSEIGNEVR",
+            "LE DVC",
+            "DE BEAVFORT",
+            "A PARIS.",
+            "Chez la vefue d’ANTOINE COVLLON.",
+            "ruë d’Eſcoſſe, aux trois Cramaillieres.",
+            "M. DC. L."
+        ],
+        [
+            "ae",
+            "¬1¬¬",
+            "ai",
+            "é¬",
+            "uf",
+            "LE PARANIMPHE",
+            "IT DA",
+            "T",
+            "AROMATIQVE",
+            "DEDI",
+            "A MONSEIGNEVR LE vC",
+            "DE BE AVFORT.",
+            "Sicut cinnamomum, &amp; balſamum aromatiſans",
+            "odorem dedi. Eccleſiaſt. 24.",
+            "CHANT ROYAL",
+            "e",
+            "3ae ee ien eofe en den en",
+            "l, D’vn gae d’or rouſe a cheuelure,",
+            "Fronce ton voile, et vole dãs les cieux,",
+            "Sur les cerceaux des ephirs gracieux",
+            "Monte dans l’air, abyſme toy dans l’onde,",
+            "Porte ma voix aux deux Toles du monde,",
+            "A ij"
+        ],
+        [
+            "Que l’Arimaſpe, en ſes plus chauds deſerts,",
+            "Le Colopode &amp; Latome Libique",
+            "Gouſtent rauis dans mes doctes concerts",
+            "D’vn Sang Royal Beaufort arromatique.",
+            "Neveu d’Atlas, Alchimiſte Mercure,",
+            "Le grand Demon des eſprits curieux,",
+            "Tu fis premier d’vn grand œuure ouuerture,",
+            "Tu as cent fois changé laborieux",
+            "L’opaque Lune &amp; Soleil radieux,",
+            "Lié Prothée, oſté ſa forme ronde,",
+            "Euaporé ſon ame vagabonde,",
+            "Blanchy enus, jetté Mars à l’enuers,",
+            "Et fondu l’or en liqueur Balſamique,",
+            "erras-tu bien dans ſes labeurs diuers",
+            "D’vn Sang Royal Beaufort arromatique?",
+            "êg0",
+            "Ct toy reſueur, dont la doctrine obſcure",
+            "Fait perdre terre aux plus preſomptueux,",
+            "Eſt-ce pas toy qui d’vne maſſe impure",
+            "De vegetaux, te vantes fastueux,",
+            "Faire vn extraict celeſte &amp; vertueux?",
+            "Cetrai"
+        ],
+        [
+            "5",
+            "Extraict fermiant à nos larmes la bonde,",
+            "Cn conſeruant nostre ieuneſſe blonde",
+            "Contre le tempsſ faucheur de nos Hyuers",
+            "Inuention chimique &amp; chimerique,",
+            "Mieux inſpiré ie celebre en mes ers",
+            "D’vn Sang Royal Beaufort aromatique.",
+            "ae",
+            "Loin l’arbriſſeau dont la fraiſche entameure",
+            "Pleure le bauſme au Perou chaleureux,",
+            "Mon argument eſt la fleur qui demeure",
+            "Dedans PARIS, que le Prince des feux",
+            "Change au Leuant en vn muſc odoreuux,",
+            "Et en voyauc certe roe ſi blonde,",
+            "Ce Sang Royal, ſur vn grand cœur ſe fonde;",
+            "Le mal ſe paſſe, &amp; ſur les gaons vers",
+            "Les fleurs s’épandent, alors le grand Chimique",
+            "Circule, fie, &amp; donne à l’Vniuers,",
+            "D’vn Sang Royal Beaufort arromatique..",
+            "s",
+            "Quel ſel, quel ſoulfre, amalgame ou teinture,",
+            "Quel Eliir, quel Aigle arpente-cieux",
+            "QuelAthanor, ou quel feu de Nature?",
+            "B"
+        ],
+        [
+            "3",
+            "Quel Perſe, ou Mage, &amp; Barde ingenieus",
+            "Fit voir iamais tel miracle à nos yeux?",
+            "Grand Aleman, ton Homoncule immonde,",
+            "Ton ſang humain, ta Mumie où abonde",
+            "Tant de vertu, ton Phœnix Roy des airs,",
+            "Ct tes dragons ſentent leur art magique:",
+            "Mais Dieu reſerue à ſes ſecrets couuerts",
+            "D’vn Sang Royal Beaufort aromatique.",
+            "e",
+            "DVC DE BEVFORT, ma parlante peinture",
+            "Te feint, te peint, ton ſang ſi genereux:",
+            "Et vs LOI celeſte creature,",
+            "Estes-vous pas le muſc delicieux,",
+            "t le parfum des Prnces glorieux?",
+            "Ouy, mais aaſſi, ’PRINC ſans ſecond",
+            "Pis qu’inſpiré dans Paris ſi fecond,",
+            "Vous pouuez, ò grand RInous exepter des fers",
+            "t du uenin du ſerpenme Plutonique,",
+            "Quand Dieu vous fait épandre en l’niuers",
+            "D’vn Sang Royal Beaufort aromſiqu",
+            "FIN."
+        ]
+    ],
+    "pages_number": [
+        "2",
+        "4",
+        "5",
+        "6",
+        "7"
+    ]
+}

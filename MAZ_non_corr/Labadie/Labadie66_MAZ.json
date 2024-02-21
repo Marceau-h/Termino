@@ -1,0 +1,113 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Épernon, Bernard de Nogaret de La Valette (1592-1661 ; duc d')",
+            "Théobon, marquis de"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-04",
+            "@who": "AB"
+        },
+        "titre": "ARREST de la Cour de Parlement de Bourdeaux",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": {
+            "@source": "Mazarine",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:6455058",
+            "#text": "Bordeaux"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121390552",
+            "@xml:id": "IL_MongironMillangesJacques.xml",
+            "persName": {
+                "forename": "Jacques",
+                "surname": "Mongiron Millanges"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE BOVRDEAVX",
+            "Portant inhibitions &amp; deffences au duc d'Eſpernon, &amp; à tous ſes",
+            "capitaines, officiers &amp; soldats, de faire aucuns ravages, ruynese",
+            "ny pillages, sur les terres &amp; maisons appartenantes au marquis de",
+            "Theobon.",
+            "A BOVRDEAUX",
+            "Par I. MONGIRON MILLANGES, Imprimeur",
+            "ordinaire du Roy. 1649."
+        ],
+        [
+            "3",
+            "EXTRAICT",
+            "des Regiſtres",
+            "du Parlement.",
+            "SVR a olaite fite à la Cour, pas",
+            "le ſic us Maroqus de Theobo, que",
+            "le ſieur Duc d’Eſpernon a enuoyé",
+            "des gens d guerre, vers les teires",
+            "&amp; lonſditons de Mo fllanquin,",
+            "&amp; auttes appartenantes audit ſieur",
+            "de dheobon, &amp; autres Gentils¬",
+            "hon. mes qui l’ont ſuiuy, p out truy¬",
+            "ner, rauager &amp; tazer leurs maiſons, en haine de ce que",
+            "le t ſieur ue Theobon &amp; ſes an.i,, ſot venus en la pre¬",
+            "ſente Vlle, pour la ſecourir contre les oppr ſſions &amp; a¬",
+            "ctes d’hoſtlié, que ledit ſieu Duc d’Eſpernon fait faire",
+            "daos cette Piouince, &amp; aue unous ee cette Ville: Oüy",
+            "¬"
+        ],
+        [
+            "fur c le Proeureur General uu Roy, LACOVR,a ſaie 7 4",
+            "&amp; fai inhibitiors &amp; deffences audi Duc d’Eſperaon &amp;",
+            "à tous Capiraines, Lieutenants, Officiers &amp; Soldats de",
+            "ſes ttouppes, de faire auecuns rauages, ruynes, nillages,",
+            "rzeens ou bruſlemens des maiſons du dis Mr quis de",
+            "Th obon, &amp; des Gentils hommes, Capiraines &amp; ſol dats",
+            "qui lont vec us à ſa ſuite, ou qui viendront cy-apres,",
+            "pour le ſecours de la preſente Ville, à peie de ci quante",
+            "mlle liures, &amp; d’eſtre ptocedé contr’eux, comme per¬",
+            "turbateurs du repos publie, &amp; en cas de contraue ntiou",
+            "a permis &amp; permet audit de Theobon, &amp; aux Gentils¬.",
+            "ommes, Capitaines &amp; Sol lats de ſaſuite, &amp; aux habi¬",
+            "tans deſdts leux, de fre ſonner le bffoy &amp; aſſembler",
+            "é",
+            "le peu ple, pour couir ſus auſlites trouppes, &amp; gens de",
+            "guerre dudit Duc d’Eſperaon, &amp; de reouſſer la force",
+            "par la force. Fait à Burdeaux en Pa: le net exrraor inai¬",
+            "rement aſſemblé, le vingt-cin quieſme Septembse mil ſix",
+            "cens quarante-neuſ.",
+            "SSé?",
+            "ſigné,",
+            "DE PONTAC."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
+    ]
+}

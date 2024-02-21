@@ -1,0 +1,177 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subject": [
+            "Parlement de Paris",
+            "Paris (France), Bois de Vincennes"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-09-06",
+            "@who": "AB"
+        },
+        "titre": "Adieu (l’) de Jules Mazarin à la France, à Paris et à\n          messieurs du Parlement.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "forename": "Francese",
+                "surname": "Cornelio"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01",
+                "#text": "début du blocus de Paris (janvier 1649)"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@xml:id": "IL_HenaultMathurin.xml",
+            "@ref": "isni:0000000066473952",
+            "persName": {
+                "forename": "Mathurin",
+                "surname": "Henault"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "L'ADIEV",
+            "DE IVLES",
+            "MAZARIN",
+            "A LA FRANCE,",
+            "A PARIS,",
+            "ET",
+            "A MESSIEVRS",
+            "DV PARLEMENT.",
+            "A PARIS,",
+            "Chez MATHVRIN HENAVLT.",
+            "M. DC. XLIX."
+        ],
+        [
+            "L’ADIEV",
+            "DE IVLES",
+            "r7",
+            "MALARIN",
+            "A LA FRANCE,",
+            "A PARIS, ET",
+            "A MESSIEVRS",
+            "DV PARLEMENT.",
+            "aé, iſque c’eſt vn faire le faut,",
+            "E&amp;d Et qus l udli, &amp; i cu¬",
+            "8",
+            "3 raut",
+            "ee e ſoauroien ſouſfrir ma pre¬",
+            "ſence",
+            "Dans l’amable pays de France:",
+            "Puiſque on oe force de partir,"
+        ],
+        [
+            "Toutes les viles eu fureur.",
+            "A 4.",
+            "n",
+            "Pour me cauſer vn grand mal-heiur",
+            "Adieu France bele, &amp; iolle,",
+            "Ie m’en reirourne an lalde.",
+            "Mes larcins qui ſont infiis,",
+            "3",
+            "Par mon déart ſeont fin2 1.",
+            "Ie ne te pounrray plaus rien preudre;",
+            "Mais vne choſe ay-ie aà̀ t’apprendre,",
+            "Ie garderay de quei hyis,",
+            "C’eſt à dire, tes beaux ouis;",
+            "Puis tes moult aymables piſtoles.",
+            "Vtilitez bieu peu faiiuoleV",
+            "Eles me feront receuoir,",
+            "Et de bon œilme feroht oir",
+            "Dans tous lesendroiti de de terre..",
+            "Aupres de l’or tout eſt de uerre,",
+            "Tout ſe caſſe comnmé cryſtal.",
+            "Aupres de ce diuin metaa,",
+            "Metal, agreable modoay,..",
+            "Qui bride ſouuent come my, o’i",
+            "Ou plutoſt comme des Qyos",
+            "es gens des oeieareaaaiſs,",
+            "¬",
+            "eaucoup"
+        ],
+        [
+            "3",
+            "Beaucoup en ditomt des’nouuelles?",
+            "Qui m’auroient donné des plus beldes",
+            "Si ie n’euſſe ſçeau dextremsent,",
+            "Les arreſter par de l’argent.",
+            "A Dieu, Paris puiſſante ville,",
+            "Pour moy maintenant peu ciuille,",
+            "De me chaſſer comme vn coquin:",
+            "Me mal-traitter comme vn faquin.",
+            "S’il me tenoif, me voudoir pendre,",
+            "Faire venir toute la Flandre",
+            "Contre vn miſerable mortel,",
+            "Dont on n’en vit iamais detel,",
+            "Au commencement de ſa vies.",
+            "Contre vn malotr tant d’enie",
+            "Contre moy tant d’inimitie",
+            "Qui ſuis ſi digne de piié1",
+            "Et bé̂en Adieu, ie noo reire,..",
+            "le quitte ce puiſſant Empire,",
+            "le quitte la Cour de ton Roy3",
+            "Mais ie la quitte ſans effroy.",
+            "Car en quittant c6 peit Prince,",
+            "Ie treuueray dans ma Prouince,",
+            "De ſes leux fits ſar’de or,"
+        ],
+        [
+            "Dont i’ay fait vn tres grand threſor.",
+            "Vne infinité de copies,",
+            "Qui m’attendeut en Italie,",
+            "Me remettront l’original",
+            "Cn mon eſprit de Cardinal.",
+            "Adieu Meſsieurs de la Iuſtice,",
+            "Adieu Maiſtres de la Police,",
+            "Adies Meßieurs du Parlement,",
+            "Qui aue fait bien prudemment",
+            "De me contraindre à faire gildle,",
+            "Car ſans ce, voſtre pauure vile",
+            "Euſt efteé́ reduiete aux abois,",
+            "Ainſi qu’vn Cerf dedans les boûs.",
+            "Adieu, ſans parler dauantage,",
+            "Qu’on accommode mon bagage,",
+            "2",
+            "Que tout ſoit appreſté demai,",
+            "Pour m’en aler dle ſainct Germsain",
+            "Et pour paſſer en Italie",
+            "Conſommer le cours de ma vie.",
+            "FIN.",
+            "FRANCESE CORNELIO"
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "1",
+        "2",
+        "3",
+        "4"
+    ]
+}

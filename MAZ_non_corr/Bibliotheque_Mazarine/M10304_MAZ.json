@@ -1,0 +1,125 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-07",
+            "@who": "AB"
+        },
+        "titre": "A monseigneur le Prince, sur son glorieux retour.\n          Stances.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121259263",
+            "@source": "Mazarine",
+            "persName": {
+                "forename": "François Le Métel de",
+                "surname": "Boisrobert"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1651-02-15",
+                "@notAfter": "1651-02-28",
+                "#text": "deuxième quinzaine de\n            février"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": [
+            {
+                "@ref": "isni:0000000122796968",
+                "@xml:id": "IL_LePetitPierre.xml",
+                "persName": {
+                    "forename": "Pierre",
+                    "surname": "Le Petit"
+                }
+            },
+            {
+                "@ref": "isni:0000000000279794",
+                "@xml:id": "IL_CamusatVeuvedeJean.xml",
+                "persName": {
+                    "forename": "Veuve de Jean",
+                    "surname": "Camusat"
+                }
+            }
+        ],
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "I",
+            "A",
+            "MONSEIGNEVR",
+            "LE PRINCE",
+            "Sur ſon glorieux retour.",
+            "STANCES.",
+            "QVE ton deſtin eſt grand, Miracle de nos",
+            "iours,",
+            "Qu'il afranchy d'eſcueils, qu'il a vaincu d'obſtacles,",
+            "Nos maux avec les tiens enfin ont pris leur cours ;",
+            "Et ce dernier bon-heur paſſe tous les Miracles.",
+            "A"
+        ],
+        [
+            "Que ces bruits incertains, que cét eſpoir douteux",
+            "Ont fait languir la France en vne peine extreſme;",
+            "Si ta priſon pour toy n’a rien eu de honteux,",
+            "Tu vois que pour l’Eſtat il n’en eſt pas de meſme.",
+            "La gloire qui te ſuit, ne t’a iamais quitté,",
+            "Elle a dans les fers meſme eſté digne d’enuie,",
+            "Et les huit derniers iours de ta captiuité",
+            "Ont peut-eſtre paru les plus beaux de ta vie.",
+            "Ouy, Prince, en ton repos tu parus plus diuain",
+            "Que paſant comme vn foudreaaus cœur des Alemagnos,",
+            "Voicy qui vaut Norlingue, &amp;l le Havre à la fin",
+            "Se pourra mettre au rang de tes belles campagnes.",
+            "Tu reuiens en triomphe, &amp; le Cielapermis,",
+            "Qu’apres’ tant de deſordre, apres tant de licence,",
+            "Tu viſſes à tes pieds pleurer tes ennemis,",
+            "Et tes accuſateurs preſcher ton innocence."
+        ],
+        [
+            "Voir d’vn œil de pitié ceux qui t’ont fait laloy,",
+            "2",
+            "C’eſt gagner ſur toy-meſme vne grande Victoire,",
+            "Et quiconque peut vaincre vn tel vainqueur que ftoy,.",
+            "Peut atteindre au ſommet de la plus haute gloire.",
+            "BOIS-ROBERT Abbeé de Chaſtillon."
+        ],
+        [
+            "A PARIS,",
+            "-La Veuue I aA CavsaAr ue S. Iaeu.",
+            "E T",
+            "a la Toiſod’Or,",
+            "Che .1 PT, Imprimeur,&amp;",
+            "ET",
+            "Libraire ordinairé du Roy.à la Croix o.",
+            "M. D. i"
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11",
+        "12"
+    ]
+}

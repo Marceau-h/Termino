@@ -1,0 +1,131 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-01",
+            "@who": "AB"
+        },
+        "titre": "Arrêt du conseil d’État du roi, portant réglement du\n          paiement des rentes, assignées sur les gabelles, qui seront payées, en l'hôtel de cette\n          ville de Paris.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121754977",
+            "orgName": "Conseil d'État"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-11-13",
+                "#text": "daté du 13 novembre 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000008903969",
+            "@xml:id": "IL_RocoletPierre.xml",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Rocolet"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DV CONSEIL",
+            "D'ESTAT DV ROY.",
+            "Portant Reglement du payement",
+            "des Rentes aſsignées ſur les Gabel¬",
+            "les, qui ſeront payées en l’Hoſtel",
+            "de cette Vile de Paris.",
+            "Du 13. Nouembre 1649.",
+            "A PARIS.",
+            "Chez P. ROCOLET Imprimeur &amp; Libraire ordinaire du",
+            "Roy, au Palais, aux Armes du Roy, &amp; de la Ville.",
+            "M. DC. XLI X.",
+            "Auec Priuilege de ſa Maieſté."
+        ],
+        [
+            "3",
+            "Extraict des Regiſſres du Conſeil d’Eſtat.",
+            "LE ROY ayant fait publier la Ferme",
+            "eSel¬",
+            "ledſeld e unel dere iu seu ennr puns",
+            "eſtre adiugée en ſon Conſeil en preſence",
+            "le oue eue rene oe e eoene",
+            "d gnres Souueraines au plus offrant &amp; der¬",
+            "ier encheriſſeur, pour en iouyr par les",
+            "Adjudicanires, à commancer du premier Ianuier pro¬",
+            "chain: Et voulant ſa Maieſté pendant le reſte de la pre¬",
+            "ſente année pourueoir au payement entier de la ſomme de",
+            "Quatre-vingts huict mil huict cens douze liures douze",
+            "l ſols par ſepmaine, pour eſtre employée au payement des",
+            "Rentes tant anciennes que nouuelles, aſſignées ſur leſdites",
+            "Gabelles, apres s’eſtre fair repreſenter l’Arreſft donné au",
+            "Parlement le premier Octobre dernier, &amp; les ſubmiſſions",
+            "faites en conſequence parles Intereſſez en la Eerme gene¬",
+            "ralle des Gabelles de payer la ſomme de Soixante-quatre",
+            "mil quatre cens cinquures ſeize ſols par ſemaine és mains",
+            "des l!’ayeurs deſdites Rentes: Au moyen de quoy il ſe",
+            "trouue manque de fonds de la ſomme de Vingt-quatre",
+            "mil quatre cens cinqliures dix ſols par ſepmaine, laquelle",
+            "ſa Majeſté ant reſolu de remplacer des deniers de ſon¬",
+            "Eſpgne, affin de teſmoigner d’autant plus ſon affe ction",
+            "à ſes Subjets de la honne Ville de Paris, en atrendant que",
+            "par le nouueau Pail qui ſe fera deſdites Gabelles il aye eſté",
+            "enre lne e e ienei e ne ue e eone ene",
+            "MAIESTEESTANT EN SON CONSEIL,.",
+            "1"
+        ],
+        [
+            "La Reyne Regente ſa Mere preſente, A oRDoE’Er",
+            "ORDONNE au Treſoricr de l’Eſpargne en exercice, de",
+            "payer comptant du fonds qui luy ſera ordonné à cét ffeet¬",
+            "cs mains de celuy qui ſera Comis par les Freuoſt des Mar¬",
+            "chands &amp; Eſcheuins de ladite Ville, la ſomme de Vingt¬",
+            "quatre mil quatre cens cinq liures dix ſols de ſepmainc en",
+            "ſepmane durant le reſte de la preſente année, pour auec",
+            "les Soixante quatre mil quatre cens cinq liures ſeize ſols",
+            "qui ſeront payez par les Adjudicataires des Gabelles ſuiuãt",
+            "leurs ſubmiſſions, parfaire Quatre-vingts huict mil huict",
+            "cens vnze liures douze ſols par ſepmaine, &amp; ladite ſomme",
+            "eſtre miſe és mains des Payeurs des Rentes, tant anciennes",
+            "que nouuelles, aſſignées ſur leſdites Gabelles, &amp; pareux",
+            "employée au payement deſd. Rentes, ſuuant les Ordon¬",
+            "nances deſdits Preuoſt des Marchans &amp; Eſcheuins, &amp; pour",
+            "le remplacement du fonds qui manquera pour ſatisfaire au",
+            "payement des Rentes, ſuiuant les Arreſts du Conſeil des",
+            "o &amp; 24 Iuillet dernier, à cauſe de la reduction par ſemaine",
+            "à commencer du 19. Septembre dernier à Soixante quatre,",
+            "mil quatre cens cinq liures ſeize ſols ſeulement, il y ſera",
+            "eou eileole ie iede eoneſdile de ne euene",
+            "rnone ſ e n e nue er io le e e neeron",
+            "Collationnmé à l’Original par moy Conſeiller",
+            "Secretaire du Roy, &amp; de ſes Finances."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4"
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "Lettre",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-27",
+            "@who": "AB"
+        },
+        "titre": "Lettre d'un habitant de la ville de Blois, écrite à un\n          sien ami sur les désordres, pilleries, sacriléges et violements que le cardinal Mazarin a\n          fait faire, tant dans ladite ville de Blois que dans tous les villages aux\n          environs.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "N. P."
+                }
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-04-01",
+                "#text": "datée du 1er avril 1652"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
+            "persName": {
+                "forename": "Veuve de Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "D’VN HABITANT",
+            "DE LA VILLE",
+            "DE BLOIS",
+            "ESCRITE A VN SIEN AMY,",
+            "ſur les deſordres, pilleries, ſacrileges",
+            "&amp; violemens que le Cardinal Maza¬",
+            "rin a fait faire, tant dans ladite Ville",
+            "de Blois, que dans tous les Villages",
+            "aux enuirons.",
+            "A PARIS",
+            "De L'IMPRIMERIE de la Veufue I. GVILLEMOT, rue des",
+            "Marmouzets, proche l’Egliſe de la Magdeleine.",
+            "M. DC. LII."
+        ],
+        [
+            "3",
+            "LETTRE DVN HABITANT",
+            "de la V’ille de Blois, eſcrite à vn ſien Amy, ſur.",
+            "les deſordres, pilleries, ſacrileges &amp; violemens",
+            "que le Cardinal Mazarin a fais faire, tane",
+            "dans ladite Ville &amp; Faux-bourgs de Blois,",
+            "que dans tous les Villagesaue enuirons.",
+            "SJosV,",
+            "Maintenant que nous auons laliberté de reſpirer, qui",
+            "eſt la ſeule choſe que la Cour nous a laiſſée en partant de",
+            "de cette Ville; l’ay creu, dans la connoiſſance que i’ay",
+            "de l’affection que vous auez pour elle, &amp; de celle que",
+            "vous m’auez touſiours teſmoignée en mon particulier,",
+            "deuoir vous informer de tout le mauuais trairrement",
+            "que luy a fait reſſentir le Cardinal Mazarin, &amp; des der¬",
+            "uieres deſolations, qui ont eſté́ cauſées par ſon ordre en",
+            "tous les Villages des enuirons; m’aſſeurant que vous en",
+            "ferez part à vos amis, &amp; que les autres Villes du Royau¬",
+            "me, ſçachant quelle eſt noſtre malheureuſe condition",
+            "pour auoir ſouffert ſon entreée dans noſtre Ville, ſe fe¬",
+            "ront ſages par noſtre exemple, &amp; qu’elles ſe garderont"
+        ],
+        [
+            "4",
+            "bien de tombet dans la meſime diſgrace que nois, en re",
+            "ceuant chez elles cét Ennemy de l’Eſtat, qui a conjuré la",
+            "riiede tout le Royaume; Ie vous diray donc que no",
+            "’- avant eu ordre de ſon A lteſſe Royale d’y rece¬",
+            "liciſtez auiec tous les réſpects &amp; les ſubmiſ¬",
+            "let !nt deuës, nous fiſmes tout noſtre poſſi¬",
+            ". .¬",
+            "ſios,",
+            "r nou en acquitter, mais ledit Cardinal ayant",
+            "llep",
+            "u’eu Cnrps de la Ville ny meſme aucun pari¬",
+            "r n l’auoit eſté ſaluü̈er, &amp; qu’il y eſtoit traitté com¬",
+            "1ve nhomme condamń par les Declarations du Roy",
+            "&amp; les Arreſts de rous les Parlemens de France, en fut ¬i",
+            "fort indigné contre nous, qu’il ſe reſolut de s’en vanger",
+            "pendant le ſejour que leurs Majeſtez auroient agreable",
+            "de faire en noſtre Ville. Ie puis vous aſſeurer qu’il n’ys",
+            "point du tout manqué, &amp; qu’il n’a obmis aucuns des",
+            "maux qu’il pouuoit nous faire ſouffrir; Il s’eſt ſeruy",
+            "pour ce deſſein du pretexte de faire aſſembler les Trou¬",
+            "pes, auſquelles il a fait commerrre dans les Faux.bour",
+            "de nô̂tre-dite Ville &amp; aux enuirons tous les deſordres qui",
+            "ſe peuuent imaginer contre toutes ſortes de perſonnes,",
+            "tous ̀̂ges &amp; de tous ſexes; elles ont forcé &amp; pillé nos",
+            "maiſons à la Campagne, enleué́ ce qui eſtoit dedans, &amp;",
+            "en ont incendié la plus grande partie; elles ont mis à",
+            "nud nos Fermiers, violé́ leurs femmes &amp; leurs filles, &amp;",
+            "commis tous les autres actes d’hoſtilité, que la derniere",
+            "rage peut inuenter dans la guerre. Ouy, Monſieur, elles",
+            "ont veſcu dans nos Fermes &amp; dans nos Faux-bourg,",
+            "comme dans les lieux ennemis; bien que ſuiuant la vo¬",
+            "lonté́ de ſon Alteſſe Royale, nous ayons receu leurs",
+            "Majeſtez"
+        ],
+        [
+            "Majeſtez auee vn eſtat ſi ſoûmis, qu’il ne ſe peut",
+            "rien adioaſter, à nos deferances. Le ſaccagement des.",
+            "maiſons ſeculieres n’a pas eſté́ la borne de l’appetit deſ¬",
+            "reglé, &amp; de la licence effrenée du ſoldat; il a bien eu",
+            "lIinſolence de porter (par la ſuſciration dudit Cardinal",
+            "Mazarin à̀ la face du Roy ſon eſpeée ſanglante ſur les",
+            "Autels, de renuerſer les Sainéts Cyboites, &amp; de fouler",
+            "aux pieds les Sainctes Hoſties, que les Preſftres ont eſté",
+            "obligez de r’achepter de leurs mains ſaerileges inſques",
+            "à quarante ſols chacune, afin d’arreſter par ce prix la",
+            "profanatiõ du Corps &amp; du Sang de Ieſus-Chriſt, &amp; les",
+            "pillages des Egliſes de la Vrilliere, Mulſaint, Villebaron,",
+            "S. Victor, S. Geuais, Coulangos, &amp; meſme du Preuré",
+            "de S. Lazare, à l’entrée du Faux-bourg de Bourneuſ",
+            "ſont des conuictions trop notoires de cette veriteé.",
+            "Nois auons eſteé diuerſes fois, Monſieur, ous jetter",
+            "aux pieds de leurs Maieſtez. poue leur fair-a loires &amp;",
+            "demander iuſtce de toutes ces violences, &amp; nous auons",
+            "oſiours receu de leurs bouches des paroles de dou¬",
+            "ceut &amp; de corfipaſſion. Mais bien eſloignez de receuois",
+            "des effets deé leéurs bontez, nous reſſentlons enmeſme",
+            "temps par des ordres ſecretes dudit Cardinal Mazarin,",
+            "des marqhes de la rage des ſoldats, par vn traitement",
+            "plusrudeé, &amp; des cruautez plus ſenſibles qu’auparauans1",
+            "uſſi la Prouince eſt-elle auiourd’huy daas vn eſtat ſi",
+            "deplorable &amp; ſl pleine de deſolarion, qu’il n’y a pas vne",
+            "rerre quine ſoit deſérted le Blaiſpis. Les laboureurs,",
+            "quiont perdu leitfs febbles &amp; leus cheumux, y ſont",
+            "edeits à laumoſne, &amp; il leſt reſté, Monſiour, que le:"
+        ],
+        [
+            "6",
+            "dedans de la Ville exempt, non de deſordre, maisdu",
+            "dernier pillage Paur comble de ſa niſere, &amp; de la",
+            "engiance du dit Catdinal, il a fait auant ſen depart,",
+            "donnei les ondtres pour rompre noſtrée Pont Et quoy",
+            "que nous ayons fait pluſieurs Remoaſtrã̃ces ſur -ce ſujet",
+            "à leurs Majeſteés, que Nous leurayons repreſenté que",
+            "naoſtte Ville nepouuoit ſubſiſter que par le commerce",
+            "de la, Sologne &amp; de la Beauce, dont l’interruption",
+            "acheueroitndſtremalheur, &amp; que leurs Majeſtez, at¬",
+            "tendries par aos raiſons reſpectueuſes, ſemblaſſent in¬",
+            "clner a nous accorder nos ſupplications, neantmoins",
+            "quelqes eſperances qe nousayons euës en leur bon¬",
+            "té; la malicede ceét e emy de l’El’t a pteualu ſur nos",
+            "larmes, &amp; quoy que nous ayons peu faire, la Cour",
+            "n’a pas eſté ſi-toſt parie, que noſtre Pont n’ait eſté",
+            "rompu, &amp; que les aiſons qui eſtoient deſſus n’ayent",
+            "lauteé par l’effet d’vne mine, que ce Cardinal y auoit fait",
+            "preparer; Vola, Monſieur , l eltat auquel ous a re.",
+            "duit le ſejour en noſtre Ville du plus meſchant de tous",
+            "les honmmes, &amp; nous n’auons d’aurre conſolarion dans",
+            "le mal qu’il nous a fait ſouffrir, que celle d’eſtre aſſeurez",
+            "qu’il ſeruira d’exemple aà̀ toutes les autres Villes du",
+            "Royaume, pour ne le point rceuoir, &amp; que luy en refu.",
+            "ant l’entrée, elles profiteront de noſtredommage, &amp; ſe",
+            "feront ſages à nosdeſpens. C’eſt le moyen le plus aſſeureé",
+            "qu’elles ayent pour ſe garantir des outrages de ce Per.¬",
+            "turbateur du repos public, &amp; pour ſe conſeruer la tran¬",
+            "quillité qu’il ne manquera pas de leur oſter, lors qu’il",
+            "pourra s’en rendre le Maiſtre. Ie ſouhaitte que le Ciel"
+        ],
+        [
+            "5",
+            "vous preſerue de tomber en vne pareiſle diſgrace que",
+            "acun de nous; Et le vous ſupplie auſſi de me faire",
+            "lhonneur de croire que ie ſuis plus que perſonne du",
+            "monde,",
+            "MONSIEVR,",
+            "A Blois ee. d’Avrile5.",
+            "Voſtre tres-obeiſſant &amp; tres¬",
+            "affectionne ſeruiteur N. P."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "imprimatur": "AVEC PERMISSION",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "Lettre",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-25",
+            "@who": "AB"
+        },
+        "titre": "Lettre circulaire et véritable de l'archiduc Léopold\n          envoyée à tous les gouverneurs, prévôts et échevins des villes et bourgs de France situés\n          sur le chemin et la route de son armée.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121391096",
+            "persName": {
+                "forename": "Léopold-Guillaume de",
+                "surname": "Habsbourg"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-03-20",
+                "#text": "datée du 20 mars 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000063027789",
+            "@xml:id": "IL_MorlotClaude.xml",
+            "persName": {
+                "forename": "Claude",
+                "surname": "Morlot"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LETTRE CIRCVLAIRE",
+            "ET VERITABLE",
+            "DE L’ARCHIDVC",
+            "LEOPOLD",
+            "ENVOYEE A TOVS",
+            "LES GOVVERNEVRS, PREVOSTS",
+            "ET ESCHEVINS DES VILLES ET BOVRGS",
+            "De France, ſituez ſur le chemin &amp; la",
+            "route de ſon armée.",
+            "A PARIS,",
+            "Chez CLAVDE MORLOT, ruë de la Bucherie,",
+            "aux vieilles Eſtuues.",
+            "M. DC. XLIX.",
+            "AVEC PERMISSION."
+        ],
+        [
+            "3",
+            "LETFRE CIRCVLAIRE ET VERITABLE,",
+            "ET L’ARCHIDVC LEOPOLD.",
+            "Enuoýé à tous les Gouuereurs, Preuoſts &amp; Eſche¬",
+            "uins des Villes &amp; onrgs de Irance, ſituez ſur le..",
+            "chemin &amp; la route de ſon armée¬",
+            "MESSIEVRS,",
+            "Celle- cy vousreleuera de la c’ain¬",
+            "S te legitie, que vous pourie auoir",
+            "de la grandeur de mes troupes; &amp; le bon orde dé",
+            "leur marche exempte de tous les actes d’hoſtilité,",
+            "vous oftera le ſoupçon que vous deuriez conce¬",
+            "uoirde mes’eſſeins, ſur l’approche de mon ar¬",
+            "ée: Le reſpbqu’on a portéa vos murailles, auz",
+            "Villageois, à̀ leurs maiſons, &amp; à leurs beſtiaux,",
+            "vous aſſeure de -la parole certaine qu’vn Archi¬",
+            "Duc vous donne, que ſes troupesns’âuancent",
+            "dans la France, que pour auancer voſtre bon- heur;",
+            "parcequevoue ne l’attt ndez que de la Paix ge¬",
+            "neralle, &amp; de l’exil de Maaatin, qui voidroitencor"
+        ],
+        [
+            "4",
+            "fomenter la guerte dans la Chreſtienteé, pour con¬.",
+            "tinuer ſes brigandagés: Ie ne viens auec ces for¬",
+            "ces, que pour la conclure ſelon les deſirs de leurs",
+            "Majeſtez; ou tourner mes armes pour leur ſeruice,",
+            "&amp; le bon-heur de leurs Subjets, contre ceux qui les",
+            "ont priſes pour l’empeſcher. Ne refuſez pas donc¬",
+            "ques les choſes neceſſaires à vos amis, en payant,",
+            "pour leur ſubſiſtance, qui n’ont des armes que",
+            "pour vous conſeruer; Les vols, &amp; les violences",
+            "leurs ſont deffendus, ſur peine de la mort; le me",
+            "promets beaucoup plus de voſtre ciuilité, que de",
+            "mes forces. La liberté du paſſage, &amp; d’autant plr",
+            "que celle-cy vous mettra à couuert de tout crinmae,",
+            "auec autant de droict &amp; de raiſon, que le grand",
+            "¬¬,",
+            "nomhre de mes ſoldats enuers leurs Majeſteés, qu",
+            "vous obligerez infiniment, puiſque ie leurfo",
+            "comme à vous,",
+            "-.",
+            "¬",
+            "Le tres-humble &amp; tres¬",
+            "affectionné́ ſeruiteur.1",
+            "LEOPOLD- GVILLAVME.",
+            "¬",
+            "e noſtre Camp le20.",
+            "Mars69.",
+            ".",
+            ",!",
+            "Et plus bas, e Tevvocss, Seeretairede ſon",
+            "¬",
+            "Alteſſe Imperiale."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4"
+    ]
+}

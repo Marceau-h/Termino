@@ -1,0 +1,167 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+            "Conti, Armand de Bourbon (1629-1666 ; prince de)",
+            "Longueville, Henri II (1595-1663 ; duc de)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-14",
+            "@who": "AB"
+        },
+        "titre": "Harangue faite à madame la duchesse de Longue ville sur\n          la liberté des princes de Condé, de Conty et duc de Longueville, princes du sang de\n          France, prononcée par le sieur de Sommerance, lieutenant général civil et criminel de\n          Stenay, et député des trois estats de la province d'Argonne.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "viaf:336148389281410710543",
+            "@source": "Mazarine",
+            "persName": {
+                "forename": "Robert Henriet de La Vallée",
+                "surname": "Sommerance"
+            }
+        },
+        "pubDate": {
+            "@source": "Mazarine",
+            "@when": "1651",
+            "#text": "1651"
+        },
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000371172953",
+            "@xml:id": "IL_BessinNicolas.xml",
+            "persName": {
+                "forename": "Nicolas",
+                "surname": "Bessin"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "HARANGVE",
+            "FAITE",
+            "A MADAME",
+            "LA DVCHESSE",
+            "DE",
+            "LONGVEVILLE",
+            "Sur la liberté des Princes de Condé, de Conty, &amp; Duc de",
+            "Longueuille, Princes du Sang de France.",
+            "Prononcée par le ſieur DE SOMMERANCE, Lieutenant",
+            "general, civil &amp; criminel de Sternay, &amp; Deputé des trois",
+            "Eſtats de la Prouince d'Argonne.",
+            "A PARIS,",
+            "Chez N. Beſſin, en l'allée S. Michel.",
+            "M. DC. LI."
+        ],
+        [
+            "4",
+            "eſprouuant la perfidie &amp; l’ingratirude d Cardinal",
+            "’Mazarin, perdirent leut liberté; Er qu’au meſme in¬",
+            "Itant elle benſt &amp; loue la meſme journée, qui fauo¬",
+            "tiſa la voſtre pour ſolliciter &amp; obtenir du Roy celle de",
+            "ces trois grands Princes, vos Freres &amp; voſtre Eſpoux.",
+            "Voyla, ADAM, comme la riſteſſe &amp; la joye par¬",
+            "agent nos ames, qui ne reſpirent que la deliurance de",
+            "nos Princes, &amp; de leur donner dans leur captiuité des",
+            "marques &amp; des preuues d’vne affe ction &amp; d’vne fide¬",
+            "lité toute entiere. Cette Prouince, MADAME, a",
+            "deſia employé ſes biens pour la ſubſiſtance des troup¬",
+            "pes enuoyées pour leur deliurance, la voyla encores",
+            "toute preſte à eſpancher &amp; verſer le ſang qui luy reſte",
+            "pour leur liberté́. Cet empriſonnement, ua me,",
+            "donne maticre d’eſtonnement à tout le monde, &amp;",
+            "particulierement aà̀ ceux qui depuis peu one veu ce",
+            "grand Prince de Condé, ou plutoſt cette viuante",
+            "image d’Alexandre &amp; de Ceſar, gaigner tant de ba¬",
+            "tailles, &amp; conſeruer le Royaume auec vne ſi incroya¬",
+            "ble hardieſſe. On l’a veu vainqueur aà Rocroy, fou¬",
+            "droyant à Ftibourg &amp; Norlinguen, triomphant à",
+            "Lens, &amp; par tout où il a porté ſon Eſpeée. Cela ſur¬",
+            "prend ceux qui ont veu ce grand Duc de Longueville,",
+            "digne ſucceſſeur, &amp; des vertus, &amp; de la reputation de",
+            "ces grands Oomtes de Dunois, hazarder tant de fois",
+            "ſa vie pour le ſeruice du Roy, &amp; employer ſon bien",
+            "auec vne profuſion ſi granda, pour donner la paix",
+            "gene."
+        ],
+        [
+            "generalle que ce Cardinal arefuſée à toute la Chreſ¬",
+            "tientré́. Et toutes ces hautes Actions, par la ſeulle",
+            "gloire deſquelles ces grands Princes ſe ſont rendus",
+            "i chers &amp; ſi recommandables à l’Hſtat &amp; à la poſte¬",
+            "rité, ſont payées du prix, &amp; de priſon &amp; d’ingraui¬",
+            "tude. Mais il ſemble, MADA ME, que le ciel n’ait",
+            "conſenty à voſtre liberté que pour faire cognoiſtre",
+            "à tout le monde que ſi quelqu’vn debuoit affran¬",
+            "chir ces Grands Piinces de leur captiuité, ils ne le",
+            "deuoient eſperer que de Voſtre Alteſſe; &amp; que cet¬",
+            "te gloire n’eſtoit deü̈e qu’à voſtre Generoſité. Vs",
+            "actions toutes heroiques, MADME, font bien",
+            "veoir que vous eſtes la ſœur de ce grand Prince de",
+            "Condé, puis qu’en meſpriſant les auantages que",
+            "voſtre naiſſance vous a donné, &amp; ſurmontant par",
+            "vn courage maſle la foibleſſe &amp; la delicateſſe qui ac¬",
+            "compagnent ordinairement voſtré ſexe, vous vous",
+            "eſtes expoſeée à̀ l’orage &amp; des vagues &amp; des flots, en",
+            "trauerſant les mers. Vous auez percé les foreſts,",
+            "franchy les montagnes, eſſuyé́ tous les perils &amp; les",
+            "dangers qui ſe ſont oppoſez à vos genereux deſ¬",
+            "ſeins, &amp; fait teſte comme vn rocher inesbranſlable,",
+            "à toute les atteintes de la mauuaiſe fortune. De ſor.",
+            "te que ſans flatterie ie puis dire, &amp; la poſterité le",
+            "publiera vn iour, que la generoſiteé de la belle, chaſte",
+            "&amp; guerriere Taleſtris Reyne des Amazonnes, tant",
+            "vantee par les Romans, n’a eſteé́ que l’ombre &amp; la",
+            "B"
+        ],
+        [
+            "l. figure de la voſtre, qui ternit auiourd’huy, &amp; ſon",
+            "ue pour ſa luſtre, &amp; ſa gloire. Que nous reſte-t’il plus, A¬",
+            "geueroſité, &amp;",
+            "u e DAME, ſinon de faire vne ſupplication tres hum¬",
+            "ble a Voſtte Alteſſe de receuoir nos excuſes, que",
+            "P? nous eſtabliſſons dans la miſere &amp; dans la calamit́",
+            "Autheus, &amp;",
+            "parieuliere du temps. Si Voſtre Alteſſe n’eſt pas receü̈e auec les",
+            "ment dans la",
+            "cure, ceremonies, les pompes &amp; les appareils qui ſont",
+            "chaſtet é n’e1",
+            "t deus à vn Princeſſe du Sang de France, non moins",
+            "conſiderable",
+            "conſiderable par ſa vertu que par ſa naiſſance, &amp; aà",
+            "que ſa geoe¬",
+            "roité.",
+            "laquelle la nature a ſi liberalement departy tous les",
+            "aduantages qu’elle eſtoit capable de luy donner;",
+            "Puis donc, M AD AmME, que nous ſommes reduits",
+            "&amp; mis au nombre de ceux qui ont les mains trop",
+            "courtes pour paruenir aux effets, nous immolerons",
+            "ſur l’autel de vos incomparables vertus, non pas vne",
+            "victime materielle, mais les plus pures &amp; les plus ſin¬",
+            "ceres de nos afections, que nous ſupplions tres¬",
+            "humblement Voſtre Alteſſe d’accepter d’auſſi bon",
+            "cœur, que nous ſommes ſes tres-humbles, tres-fi¬",
+            "dels &amp; tes-obeiſſans ſeruiteurs."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "12",
+        "13",
+        "14"
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Normandie (France)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Congé de l’armée normande.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121174331",
+            "@source": "Mazarine",
+            "@role": "alleged_author",
+            "persName": {
+                "forename": "David",
+                "surname": "Ferrand"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-04-01",
+                "@notAfter": "1649-04-15",
+                "#text": "première quinzaine\n            d'avril 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000109284925",
+            "@xml:id": "IL_BesongneCardin.xml",
+            "persName": {
+                "forename": "Cardin",
+                "surname": "Besongne"
+            }
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LE",
+            "CONGE",
+            "DE L’ARMEE",
+            "NORMANDE",
+            "A PARIS,",
+            "Chez CARDIN BESONGNE, rue d’Eſcoſſe",
+            "proche S. Hilaire, à l’Etuy de Chapeau.",
+            "M. DC. XLIX."
+        ],
+        [
+            "4",
+            "Adieu tant Maiſtres que Valets,",
+            "A dieu canapſas &amp; bougettes,",
+            "Adieu chariots &amp; charettes,",
+            "dieu tout ce grand appareil",
+            "Qui n eut iamais rien de pareil,",
+            "ieu l’honneur de Normandie,",
+            "Son Alteſſe vous congedie;",
+            "Et vous donne licence à tous",
+            "D’aller boire du ſildre doux.",
+            "Sus donc partez, pliez bagage,",
+            "Chacun retourne en ſon village,",
+            "Défilez &amp; quittez vos rangs,",
+            "R etirez-vous. chez vos paronts,",
+            "Où ſi vous regrettez la guerre,",
+            "Allez conquerir l’Angleterre,",
+            "Et ſi l’on vous dit, Qui va là,",
+            "De grace, amis, OemeureZ l.",
+            "Vous mignons de Dame Bellonne,",
+            "Seul appuy de cette Couronne,",
+            "Plus nobles de cœur que de ſang,",
+            "Pour tenir touſiours voſtre rang,",
+            "Sortez les premiers ie vous prie,",
+            "Et d’auoit ſeruy la patrie",
+            "Allez vous vanter au logis,",
+            "Dites que les chaps ſont rougis",
+            "Du ſang verſé par vos eſpées",
+            "Que les Ceſars ny les Pompées",
+            "Nont rien eu d’égal à vos bras,",
+            "Que ce qu’on eſcrit de Goutras,",
+            "D’Yury,"
+        ],
+        [
+            "D’Yvry, d’Arques &amp; Ceriſoles,",
+            "Ne ſont que des diſcours friuoles,",
+            "Et que vous paroiſſiez plus beaux",
+            "Quand vous fuſtes aà̀ Moulineaux:",
+            "Vantez-vous d’auoir fait merueilles,",
+            "Et d’auoir rompu nos oreilles",
+            "Par la bouche de vos canons,",
+            "Que vos qualitez &amp; vos noms",
+            "Seron bien auant dans l’Hiſtoire,",
+            "Que le papier &amp; l’écritoire",
+            "Vont doreſnauant rencherir",
+            "Pour vous empeſcher de mourir.",
+            "Cadets, enfans de la débauche,",
+            "Qui tourniez aà droit &amp;aà gauche",
+            "Auec la pique &amp; le mouſquet,",
+            "Que chacun faſſe ſon paquet,",
+            "Ie ſuis las d’aller aux reueues",
+            "Et de vous heurter par les ruës,",
+            "Vous auez pour le dire net,",
+            "La teſte trop pres du bonnet,",
+            "Vos Commandeurs vous licentient,",
+            "Tous nos Fauxbourgs vous remercient,",
+            "Et n’ont iamais veu ſans railler,",
+            "Iardiniersſi bien trauailler,",
+            "Ny d’inſtrumens de tant de ſortes",
+            "Pour abattre &amp; rompre des portes,",
+            "Drles, vays morpions de Mars,",
+            "Ignorans de tousautres Arts,",
+            "Vieilles reliques de baraille,",
+            "B",
+            "96"
+        ],
+        [
+            "1",
+            "6",
+            "&amp;vous ne fiſtes rien qui vaille,",
+            "Allez eé́plucher au Soleil",
+            "Vos poux ennemis du ſommeil,",
+            "Et que la vous chauffant la tripe,",
+            "Auec vn petit bout de pipe",
+            "On vous voye embaûmer les fens",
+            "De cette herbe, qu’au lieu d’encens",
+            "Iadis Vrgande &amp; Meluſine",
+            "Offroient aà Dame Proſerpine.",
+            "Sergents, iadis ſimples Records,",
+            "Qui preniez les hommes au corps,",
+            "Où ſi vous n’eſtiez de pratique,",
+            "Qui trauailliez à la boutique,",
+            "Chacun retourne aà̀ ſon meſtier",
+            "De Chincher ou de Sauetier,",
+            "Où, ſans vous artendre à la poule,",
+            "Allez ioüer vn tour de boule,",
+            "Et de laà, drot au cabaret,",
+            "Non de vin blanc ou de clairet,",
+            "C’eſt trop pour voſtre gibbeciere,",
+            "Mais faites gogaille à la biere,",
+            "Et vous battez à̀ coups de pot",
+            "Pour vn denier de ſureſcot.",
+            "Vous Tambours, Fiffres &amp; Trompettes,",
+            "Attendez les Marionnettes",
+            "Ou le retour de l’Elephant:",
+            "Laiſſez en repos le Marchand,",
+            "Ceſſez vos baons &amp; bouteſelles,",
+            "Remettez le cul ſur vos ſelles,"
+        ],
+        [
+            "I’entends ſelles de Cordonniei",
+            "Faites de vray cœur de pommier",
+            "Enfin pour chnger tous de notes",
+            "A",
+            "Retournez ſiffler la linotte,,",
+            "a",
+            "Ou ſi vous mépnſez ce ſoing, ſt.",
+            "e Ai",
+            "Allez faire du bruit plus loing.",
+            "FIN"
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "12",
+        "13",
+        "14",
+        "15"
+    ]
+}

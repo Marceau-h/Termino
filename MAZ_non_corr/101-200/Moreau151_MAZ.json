@@ -1,0 +1,127 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majefté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Louis XIV (1638-1715 ; roi de France)",
+            "Anne d'Autriche (1601-1666 ; reine de France)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-09",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour des Aydes, portant vérification de la\n          déclaration de Sa Majesté, donné pour faire cesser les mouvements et pour rétablir le\n          repos et la tranquillité en son royaume.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000115476931",
+            "@source": "Mazarine",
+            "orgName": "Cour des aides"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-04-04",
+                "#text": "4 avril 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
+        "nbPages": "3"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE LA COVR",
+            "DES AYDES.",
+            "PORTANT VERIFICATION DE LA",
+            "Declaration de ſa Majeſteé́, donnée pour faire",
+            "ceſſer les mouuemens &amp; pour reſtablir le repos",
+            "&amp; la tranquillité en ſon Royaume.",
+            "Du 3. Auril 1649.",
+            "A PARIS,",
+            "Parles Imprimeus &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majefté."
+        ],
+        [
+            "3",
+            "EXTRAICT",
+            "DES REGISTRES",
+            "DE LA COVR DES AYDES.",
+            "VEV par la Cour les Chambres aſſem¬",
+            "a, blées, les Lettres Patentes du Roy en;",
+            "Aé forme de Declaration, données à̀",
+            "S. Germain en Laye au mois de Mars",
+            "eſe",
+            "a dernier, SignéLOVIS, Et plus bas.",
+            "Par le Roy, DE Gve EGaAv, &amp; ſeellées en lacqs",
+            "de ſoye du grand Seau de cire verte, expedié́es ſur les",
+            "mouuemens prefſens &amp; pour les faire ceſſer, ain¬i",
+            "qu’il eſt plus au long contenu eſdites Lettres aà̀ ladite",
+            "Cour adreſſantes; Concluſions du Procureur Ge¬",
+            "neral du Roy; Tout conſidereé, LA CovR A oR¬",
+            "DonEET oRDONnN E, leſdites Lettres en forme",
+            "de Declaration eſtre regiſtreé́es au Greffe d’icelle,",
+            "pour eſtre executées: enſemble les autres Decla¬",
+            "rations y enoncées ſuiuant &amp; conformément aux an¬",
+            "ciennes Ordonnances, &amp; modifications portées par",
+            "les Arreſts de verification d’icelles; &amp; que copies",
+            "collationnées à l’original deſdites Lettres, ſeront in¬",
+            "ceſſamment enuoyées en tous les Sieges des Eſle."
+        ],
+        [
+            "i",
+            "!",
+            "ions &amp; renlers à Sel de ſon reſſort, pour y eftre",
+            "leues &amp; publées à la diligence des Subſtirors da Pro¬",
+            "eur General du Roy, qui ſeront tenus d’en cer¬",
+            "’fier la Cour au mois. fait à Paris emladite Cour des",
+            "vle le troiſeine our erelnil ſi ens quarenn",
+            "meuf",
+            "J Coura arreſté qu’il ſera rendu graces a Dieu, Ee",
+            "le Roy &amp; la Reypne regene renereiee, de e",
+            "qu’il leur a pleu donner la Paix à leur Puple, Quà",
+            "cette fin ſeront députez des Preſidens &amp; Conſeilles",
+            "de ladire Cour pour faire ledir remereiemene, Etſup¬",
+            "pher ledit Seigneur Roy &amp; ladite Dame Reyne e!",
+            "retourner en ladite Ville de Paris, l’honorer de leur",
+            "preſence, Et pouruoir au ſoulagement des Villes,",
+            "Pourgs &amp; Paroiſſes dependantes d’autres Eſlections",
+            "que celle de Paris, quions ſouffert des petes à cauſe¬",
+            "des paſages &amp; logemens des Gens de guerre, apres",
+            "informarion &amp; verification faite deſdites perte",
+            "Sgne, BOVCHER.",
+            "Collationń à l’original par moy Conſeille",
+            "Secretaire du Roy &amp;e.",
+            "ſes Finances."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
+    ]
+}

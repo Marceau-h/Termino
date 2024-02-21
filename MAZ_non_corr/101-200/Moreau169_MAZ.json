@@ -1,0 +1,220 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Guyenne",
+            "Épernon, Bernard de Nogaret de La Valette (1592-1661 ; duc d')",
+            "Libourne (Gironde)",
+            "Rions (Gironde)",
+            "Cadillac (Gironde)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-09",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Bordeaux, portant que\n          les forteresses, construites par le duc d’Épernon sur les rivières de Garonne et de\n          Dordogne, seront rasées , comme faites contre le service du roi et à la ruine du\n          commerce.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": [
+            {
+                "@ref": "isni:0000000119572170",
+                "@source": "Mazarine",
+                "orgName": "Parlement de Bordeaux"
+            },
+            {
+                "@ref": "isni:0000000119572170",
+                "@source": "Mazarine",
+                "orgName": "Parlement de Bordeaux"
+            }
+        ],
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-11-05",
+                "#text": "daté du 5 novembre 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": [
+            {
+                "persName": "Sans Nom"
+            },
+            {
+                "@ref": "isni:0000000367213580",
+                "@xml:id": "IL_SassierGuillaume.xml",
+                "persName": {
+                    "forename": "Guillaume",
+                    "surname": "Sassier"
+                }
+            }
+        ],
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "ARRSET",
+            "DE LA COVR",
+            "DE PARLEMENT.",
+            "DE BOVRDEAVX.",
+            "Portant que les fortereſſes conſtruittes par le",
+            "Duc d'Eſpernon ſur les riuieres de la Garonne",
+            "&amp; Dordoigne ſeront raſées, comme faites",
+            "contre le ſeruice du Roy &amp; à la ruine du",
+            "commerce.",
+            "louxte la coppie imprimé́e à Bourdeaux.",
+            "M. DC. XLIX."
+        ],
+        [
+            "Arreſt de la Cour de Parlement",
+            "de Bourdeaux.",
+            "Portant que les fortereſſes conſtruites parle",
+            "Duc d’Eſpernon ſûr les ruieres de Ga¬",
+            "ronne &amp; Dordoigne ſeront raſees, com¬",
+            "e faites contre le ſerauice du Roy &amp; àla",
+            "ruine du comamerce.",
+            "Eetrait des Regiſtres de Parlement.",
+            "V ce quia eſte repreſentéa la Cour, que les",
+            "duerſes violences &amp;e oppre ſlions eereeee dame",
+            "la Ptouince pare le ſieur bue d’Eſpernon, par¬",
+            "culieremens puis huict mois contre cette vle capi¬",
+            "alle de ladite Prouince, &amp; les habitans dicelle,",
+            "cntinuent auee la meſme hoſtilité dans les choſes",
+            "le plu imporantes au ſeruice du Roy, &amp; qui",
+            "oquent le plus ſon auhorite, qu’il empeſche le",
+            "anſport des ble ds &amp; autres viuresneeeſſairespour",
+            "laſubſiſtance dela vuile &amp;pays dirconuoiſins,quu",
+            "¬¬¬¬¬"
+        ],
+        [
+            "4¬",
+            "tient les paſſages des riuieres, occupe ceux de Dor¬",
+            "dogne à la faueur de la citadelle qu’il a eſleuee ſans",
+            "pouuoir dans Libourne, &amp; des garniſons qu’il a",
+            "mis en diuers lieux, &amp; ceux de Garonne, par les",
+            "fortifications qu’il a faites contre les ordonnances",
+            "Royaux à Rons, Cadillac, Poudenſac, &amp; autres",
+            "places &amp; chaſteaux qu’il a en domaine ſur ladite ri¬",
+            "uiere, abuſant en ces lieux des armées du Roy, &amp;",
+            "les employant pour priuer ſes ſubijets de cette Pro¬",
+            "uince de la liberté du commerce, non moins ne¬",
+            "ceſſaire pour le ſeruice du Roy, que pour le bien",
+            "de ſes peuples, puis qu’outre les dommages qu’en",
+            "reçoiuent les ſubjets de ſa Majeſté, meſme ceux",
+            "du haut pays, qui ne peuuent debter leurs den¬",
+            "reées pour ſatisfaire aux deniers Royaux, les eſtran¬",
+            "gers qui ſous la foy publique abordent à ce port",
+            "ſouffriront des incommoditez ſi notables que le",
+            "negce ſera entierement ruiné, &amp; le oy priueé de",
+            "ſes droicts &amp; d’vne ſubuention bien conſiderable",
+            "à l’Eſtat, laquelle ſubuention eſt irreparablement",
+            "diminuee par les deſolations generales que ledit",
+            "Duc d’Eſpernon a fait faire nouuellement dans",
+            "l’entre-deux mers &amp; autres eidroicts de la Pro¬",
+            "uince, renuerſant les tonneaux plains de vin, &amp;",
+            "faiſant couler dans les chais celuy qui eſtoit dans",
+            "les barriques, oſtant aux particuliers le meilleur",
+            ".-.",
+            "de",
+            "l",
+            "¬¬¬¬ ¬"
+        ],
+        [
+            "de leur reuenu, &amp; au Roy les droicts qu’il en euſt",
+            "retireé, en telle ſorte que le bien de ſon ſeruice &amp; le",
+            "ſoulagement de ſes ſubjets requiert de s’oppoſer",
+            "à toutes ſes violences, leſquelles continuent auec",
+            "impierez, ſacrileges, incendies, violemens, raſe¬",
+            "mens de maiſons des particuliers, enleuemens de",
+            "leurs biens, &amp; autres actes d’hoſtilité, qui attire¬",
+            "roient la ruine entiere de la Pr ouince s’il n’y eſtoit",
+            "pourueu, &amp; à c que les Arreſts de la Cour pour la",
+            "liberté́ du commerce ſoient executez, &amp; que les",
+            "ſubjets du Roy de ceſte Prouince ioüiſſent de ’ad¬",
+            "uantage qu’il a pleu à Dieu leur donner, d’auoir",
+            "abondance de bleds, &amp; ayent le moyen d’en pou¬",
+            "uoir ſecourir les autres Prouinces, &amp; particuliere¬",
+            "ment en la ville de Paris, capitale du Royaume,",
+            "laquelle ſe trouue dans vne telle neceſſité́ de bleds",
+            "que les Preuoſts des archands &amp; Eſcheuins d’i¬",
+            "celle ont enuoý à la Cour &amp; aux Iurats de cette",
+            "ville, pour faciliter le tranſport deſdits bleds, &amp; le",
+            "ſecours qu’ils attendent de cette Prouince: Ouy",
+            "ſur ce le Procureur General du Roy. LA COVR",
+            "a ordonné &amp; ordonne que le Roy ſera informé́ de",
+            "Ia continuation deſdites violences &amp; du prejudice",
+            "fait à ſon ſeruice par le ſieur uc d’Eſpernon; &amp;",
+            "neantmoins que toutes les fortifications faites ez",
+            "villes de Rions, Cadillac, Poudenſac, &amp; autres ter",
+            "¬.4.¬",
+            "2"
+        ],
+        [
+            "res &amp; chaſteaux aippattenans audit ſieur d’Eſper¬",
+            "non, ſeront raſées, comme contraires aux Ordon¬",
+            "nanuces Royaux, &amp; faites au prejudice de l’authori¬",
+            "té́ du Roy &amp; du bien de ſes ſubjets, &amp; que les trou¬",
+            "pes otrdonnées pour le ſeruice du Roy &amp; la defenſe",
+            "de la Ville, ſeront employées à l’execution des Ar¬",
+            "reſts de la Cour, à reſtablir la liberté du commerce;",
+            "ouurir les paſſges, &amp; fire deſmolir leſdites fortifi¬",
+            "cations, &amp; arreſter les deſolations publiques &amp; les",
+            "actes d’hoſtilité practiquées auee impieté́s &amp; ſacri¬",
+            "leges contre les loix diuines &amp; humaines. Enjoint",
+            "ladte Cour à tous Seigneurs, Gentils hommes,",
+            "Gouuerneurs des places, Offi iers, Conſuls des",
+            "villes, habitans d’icelles, &amp; autres ſubiets du Roy",
+            "de tenir la mn ài la liberté des paſſages &amp; à l’execu¬",
+            "tion deſdits Arteſts, &amp; à ces fins d’obeir aux ordres",
+            "qui leur ſeront donnez pour raiſon de ce par les",
+            "Chefs commandns leſdites troupes, &amp; de les co¬",
+            "gnoiſtce en la dite qualité, aà peine d’en reſpondre en",
+            "leut propre &amp; priue non. Et à̀ tous Mrchands de",
+            "bleds en cette Ville pour l’entrerien d’icelle, &amp; de",
+            "pouuoir ſecourir les autres Prouinces, &amp; particu¬",
+            "lierenment la ville de Paris, Fait tres-expreſſes inhi¬",
+            "bitions à toutes perſoanes de quelque qualiteé &amp;",
+            "condtioa qu’elles ſoient d’empeſcher ledit tranſ¬",
+            "po, &amp; le soppoſer à l’erecutiou deſdits Arreſts,"
+        ],
+        [
+            "aà peine d’eſtre traittez comme perturbateurs dure¬",
+            "pos publie, ennemis du Roy &amp; de ſon Eſtat. Per",
+            "mert ladite Cour de courir ſus aux contreuenans,",
+            "aux Officiers d’aſſembler pour cet effet les commu¬",
+            "nes. Et aux fins qu’il ſoit notoire, ſera le preſent",
+            "Arreſt leu, publié &amp; affiché ez villes du hault pays",
+            "&amp; autres lieux du reſſort qu’il appartiendra, le tout",
+            "en vertu du ſimple bictum, attendu la matiere dont",
+            "il s’agiſt. Fait à Bourdeaux en Parlement extraor¬",
+            "dinairement aſſemblé, le cinquieſme iour du mois",
+            "de Nouembre mil ſix cens quarante-neuf.",
+            "Signé, DE PONTAC."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+    ]
+}

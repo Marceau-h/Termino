@@ -1,0 +1,148 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": [
+            "vers",
+            "prose"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Charles I (1600-1649 ; roi d'Angleterre, d'Écosse et\n            d'Irlande)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-16",
+            "@who": "AB"
+        },
+        "titre": "Nations (les) barbares à la reine d'Angleterre.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@source": "Mazarine",
+            "@role": "dubious_author",
+            "persName": "L. L."
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-02-19",
+                "#text": "après le 19 février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:000000000183047X",
+            "@xml:id": "IL_TargaPierre.xml",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Targa"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LES",
+            "NATIONS",
+            "BARBARES",
+            "A LA",
+            "REINE D'ANGLETERRE",
+            "A PARIS,",
+            "Chez PIERRE TARGA, Imprimeur ordinaire",
+            "de l'Archeueſché de Paris, ruë sainct Victor,",
+            "au Soleil d'Or.",
+            "M. DC. XLIX."
+        ],
+        [
+            "SVR LA MORT TRAGIQVE",
+            "DV ROY ANGLETERRE.",
+            "SONNET.",
+            "Ecroirezi vous vn jour ſage poſterité,",
+            "L’attentat le plus noir, &amp; le plus deteſtable",
+            "Dont l’extreſme fureur &amp; l’inhumanité",
+            "Puiſſent rendre jamais vn Royaume coupable?",
+            "VnPrince Cieux ! vn Roy dont le trop de bonté",
+            "Fut de ſes qualiteZ, la ſeule reprochable",
+            "Deuenu le jouet d’vn peuple reuolté",
+            "Laiſſe aux mains d’vn bourreau ſa teſte inuiolable.",
+            "Barbare Nation que tu le payras cher!",
+            "Chaque goutte du ſang que tu viens d’épancbher",
+            "Eœigera du ien vn fleuue en récompence:",
+            "Mais que le Cielte ſoit à jamais ennemis",
+            "Et qu’il vſe ſur toy les fleaux de ſa vangence,",
+            "Ce neſera fpuuur lonrime qu’a demi.",
+            "L. L."
+        ],
+        [
+            "3",
+            "LES NATIONS BARBARES",
+            "à la Reyne d’Angleterre.",
+            "MADAME,",
+            "La conſolation que nous voudrions donner à voſtre",
+            "Majeſté, ne ſe peut exprimer que par nos ſouſpirs, &amp;",
+            "par nos larmes, &amp; par nos gemiſſemens qui ſeront à ia¬",
+            "mais eternels dans nos ames; Le bruit &amp; la relation eſ¬",
+            "pouuenrable du ſujet qui vous rend inconfolable, nous",
+            "oolige à vous venir offrir nos ſeruices, pour venger vne",
+            "Mort la plus tyranique &amp; la plus inouyë qui ait paru",
+            "aux yeux des humains, depuis que les Monarchies ont",
+            "eſté eſtablies dans l’Vniuers. La Nature en fremit, &amp;",
+            "nous qui viuons dans le ſang, dans l’horreur &amp; dans",
+            "le carnage, trouuons nos actions ſupportables dans la",
+            "conſiderarion de celle qui vient de faire le maſſacre, par",
+            "des mains inhumaines, de l’vn des plus adorable M.",
+            "narque de la terre. Ouy, MADAME, comme vous",
+            "ſerez à jamais l’objet de la douleur, vous &amp; voſtre cher",
+            "Epoux ſerez ceux de la ſeurete des teſtes Couronnées;",
+            "Vous ſerez vengée, &amp;nous ſerons les premiers àporter",
+            "s armes &amp; nos bras foudroyans, ſur les chefs des dete¬",
+            "ftables boureaux d’vne ſi belle vie: nos enfans, nos fem.",
+            "mes, &amp; nos voiſins, ne reſpirent déjaque de ſe raſſaſier de",
+            "leurs corps infames, &amp; de ſe baigner auec plaiſir dans le"
+        ],
+        [
+            "4",
+            "ſangdes enfans de leurs enfans Nounſeros les premie",
+            "a blaſphemer contre les Porentars &amp; les Souuerains ils",
+            "’one le meſme deſſein que nous, à̀ quoy ils ſont obli¬",
+            "ge, pour empeſeher la chete &amp; le preeipice de leur¬",
+            "¬6ſnaes &amp; de leurs ſacrezDiadeſmes, &amp; leur ferons con¬",
+            "noiſtre que nous auons intereſt pour céte vengeanc;,",
+            "puiſque ces eyrans nous deliurentdu nirre de crueu&amp; de",
+            "barbares, nous oblgeron les Naions les plus eſognées",
+            "à lancer ſur leurs teſtes leurs foudres &amp; leun tonner¬",
+            "es, &amp; à reduire en cendres les lieux de cét affreux ſpetta¬",
+            "ede, &amp; qui ne deuront plus ſeruirs que pourt la paſture",
+            "des tigres &amp; des monſtres, deſquels ils ont en prunté",
+            "es furies pour erercer leurs fureurs abominables.",
+            "Conſolez vous donc, MA DAmME, &amp; vous aſſeurez",
+            "qu’auaunt que la Nature fera naiſte des cours aurant",
+            "erormena rei de mauſole &amp; de tombeaut qui ſeront",
+            "animez à plaindre ccenellement vn ſi gand Prinee.",
+            "quin’a eſte eyraniſe que parce qu’ileſtoi ſeul ne",
+            "ent puaumy ee inpiopibles hnſieaeun le de!",
+            "ieous aſſiſfera de ſes lumieros pour voſtre conſo¬",
+            "ation, &amp; nous donnera les moyens d’executer nos",
+            "bonnes intentions."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11",
+        "12"
+    ]
+}

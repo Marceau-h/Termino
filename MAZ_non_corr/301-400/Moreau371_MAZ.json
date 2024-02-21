@@ -1,0 +1,140 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt du conseil d’État du roi donné en faveur du\n          cardinal Mazarin.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121754977",
+            "@source": "Mazarine",
+            "orgName": "Conseil d'État"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1652-02-01",
+                "#text": "1er février 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DV CONSEIL",
+            "D'ESTAT DV ROY",
+            "DONNE EN FAVEVR",
+            "DV",
+            "CARDINAL MAZARIN.",
+            "Ixoute la Coppie imprimée à Poitiers.",
+            "De l'Imprimerie de IVLIEN THOREAV,",
+            "Imprimeur ordinaire du Roy, &amp;",
+            "de l'Vniuerſité.",
+            "M. DC. LII."
+        ],
+        [
+            "1",
+            "ARREST DV CONSEIL",
+            "DESTAT DV RoOY,",
+            "DONNE EN FAVEVR",
+            "DV CARDINAL MA ZARIN.",
+            "E ROY s’eſtant fait repreſenter en ſon",
+            "Conleil l’Arreſt de ſa Cour de Parlement",
+            "-de Paris du vingt-neufiéme Decembre der¬",
+            "nier, portant entr’autres choles que ſur la Biblio¬",
+            "heque &amp; meubles du Sieur Cardinal Mazarini",
+            "qui ſeront vendus, &amp; autres biens qui ſe-trouue¬",
+            "ront luy appartenir en France, il ſera pris par pre¬",
+            "ference la ſomme de cent cinquante mil liures,",
+            "A ij"
+        ],
+        [
+            "pour eſtre donnez à celuy ou ceux qui repreſen¬¬",
+            "eront ledit Sieur Cardinal à Iuſtice mort ou vif;",
+            "qu à leurs heritiers: Veu auſſi les Arreſts de ladite",
+            "Cour de Parlement des treiziéme &amp; vingtiéme",
+            "dudit mois de Decembre dernier, par leſquels i",
+            "eſt ordonné entr’autres choſes, que par l’vn des",
+            "Preſidens &amp; aucuns des Conſeillers de ladite Cour",
+            "qui ſeront Deputez, le Roy ſera aduerty des bruits",
+            "qui courent du retour dudit Sieur Cardial Maza¬",
+            "ini, &amp; ſa Majeſté tres-humblement ſuppliée de",
+            "la part de ladite Cour d’en vouloir donner ſa pa¬",
+            "role Royale, pour l’entretenement &amp; execution",
+            "de ſa Declaration verifieée le 6. Septembre dernier.",
+            "Sa MAsTE conſiderant que ledit Sieur",
+            "Cardinal n’eſt entré dans le Royaume qu’en con¬",
+            "ſequence des Ordtes de a Majeſté, pour amener",
+            "vn grand Corps de Trouppes leuées à ſes deſpens,",
+            "pour la ſeruir dans l’occaſion des preſens mouue¬",
+            "mens, dont ladite Cour eut eſté informé́e, ſi elle",
+            "eut ſurcis ſes deliberations ſur oe ſujet, juſquesau",
+            "retour des Commiſſaires par Elle Depuez vers ſa",
+            "Majeſté, ſuiuant leſdits Arreſts des treize &amp; o.",
+            "Decembre dernier: Que ledit Arreſt du vingt-neu¬",
+            "fome Decembre, eſt non feulement ontne l’in¬",
+            "rention de ſa Majeſté́, mais auſſi ’contre les formes",
+            "de la Iuſtice, &amp; contre l’vſage du Royaame, &amp;",
+            "de 1"
+        ],
+        [
+            "de tres- pernleluſe oonſequence; meſme qu’il bleſſe",
+            "le College des Cardinaux, &amp; le Chef de lEgliſe,",
+            "dont ils ſont les principaux Membres, &amp; le Saint",
+            "Siege Apoſtolque, pour lequel ſa Majieſté veut à̀",
+            "l’exemple des Roys ſes Predeceſſeurs garder en",
+            "toutes oceurences vne deuotion &amp; reuerence filiale..",
+            "SA MAIEST E eſtant en ſon Conſeil, a",
+            "caſſeé &amp; annullé, caſſe &amp; annulle ledit Arreſt du",
+            "vinge neufiéme Decembre dernier: A fait &amp; fait",
+            "es expreſſes inhibitions &amp; defenſes à toutes per¬",
+            "onnes, de quelque qualiré &amp; condition qu’eles",
+            "ſoient, de l’exeeuter, ny d’entreprendre ou atten¬",
+            "rter aucune choſe contre la perſonne dudit Sieur",
+            "Cardinal Mazarini, à peine de lavie, S M1EsrE’",
+            "l’ayant pns &amp; le prenant en ſa prorection &amp; ſaune¬",
+            "garde ſpecdale: Fait en outre ſa Majeſté tres ex¬",
+            "preſes defenſes à ladite Cour, &amp; aux Commiſaire",
+            "pa Elle Deputez pour la vente des biens dudit",
+            "Sioaur Cardnal, de proceder à ladite vente, meſme¬",
+            "des liures de ſa bloeque, &amp;a rounes padonnes",
+            "de s’en rendre Adqudiearuires, directement ou in¬",
+            "direfrement,s pene de neſtiunon deſus iure,",
+            "&amp; de pete de ce quils en auront paye, enſembl",
+            "de de onil lures damene l lemeonnme unr dr",
+            "dis Ccommſauirea que des Adu dernire, ſoida.",
+            "ement Et ſea le preſent Areſt leu &amp; publié par"
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13"
+    ]
+}

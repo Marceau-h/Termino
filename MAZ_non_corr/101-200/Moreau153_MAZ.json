@@ -1,0 +1,183 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Maieſté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Louis XIV (1638-1715 ; roi de France)",
+            "Taille (impôt)"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-09",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour des Aydes, obtenu par monsieur le\n          procureur général par lequel défenses sont faites d'exécuter des prétendus mandements,\n          donnés à Stenay au préjudice des commissions des tailles et ordres du roi.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000115476931",
+            "@source": "Mazarine",
+            "orgName": "Cour des aides"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1650-02-06",
+                "#text": "6 février 1650"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "I",
+            "ARREST DE LA COVR",
+            "des Aydes,",
+            "Obtenu par Monſieur le Procureur General.",
+            "PAR LEQVEL DEFFENSES",
+            "ſont faites d’execurer des pretendus Mande¬",
+            "mens donnez à Stenay, au preiudice des Com¬",
+            "mißions des Tailles, &amp; Ordres du Roy.",
+            "VEV PAR LA COVR la Requeſte à elle",
+            "preſentée par le Procurear G eneral du Roy,",
+            "Contenant que contre &amp; au preiudice de",
+            "l’authorité du Roy &amp; de Iadite Cour, cer¬",
+            "tains factieux ennems de l’Eſtat &amp; du repos",
+            "publie, ſoy diſans teruiteurs &amp; amis de Meſ¬",
+            "ſieurs les Princes, auroient fait publier en pluſieurs Parroiſſes",
+            "des Eſlections &amp; Generalitez du reſſort de ladite Cour, de",
+            "pretendus Mandemens faits à Stenay le 2. Ianuiet dernier,",
+            "Porrant deffences aux Habitans &amp; Collecteurs deſdit es Par¬",
+            "roiſſes de porter les deniers des Tailles és Bureaux ordinai¬",
+            "res des Receptes, ains de les retenir en leurs mains, iuſques",
+            "à ce qu’il ait pleu à ſa Maieſté d’accorder la liberté auſdits",
+            "ſieurs Princes, &amp; en cas de contrauention que les garniſons",
+            "dudt Stenay &amp; autres places, enſemble les trouppes em¬",
+            "ployees pourt leur liberté, leur coureroient ſus, &amp; ſeroiẽ̃t trai¬",
+            "tez comme ennemis, ainſi qu’il appert par la coppie colla¬",
+            "tionnée de l’vn deſdits Mandemens, addreſſant au lieu dela",
+            "21"
+        ],
+        [
+            "Neufuille au Pont, ſigné de par Meſſieurs, H urot, ce qui peur",
+            "Appotter grand preiudice aux intereſts du Roy &amp; du public, &amp;",
+            "cauſer vne reuolre &amp; deſ-obeïſſance des peuples, s’il n’y eſt",
+            "ptomptement poutueu. A CES CAVSES: Requeroit",
+            "qu’il pleuſt à ladite Cour caſſer, reuoquer, &amp; annuller leſ¬",
+            "dits pretendus Mandemens, comme donnez par perſonnes",
+            "ſans pouuoir, &amp; par attentat à l’authorité du Roy &amp; de ladi¬",
+            "te Cour, faire tres-expreſſes inhbitions &amp; deffences à tous",
+            "Oficiers &amp; Sujets de ſa Maieſté d’y deferer, à peine d’eſtre",
+            "declarez deſobeiſſans &amp; rebelles, &amp; à toutes perſonnes de",
+            "quelque qualité &amp; condition qu’elles ſoent, de s’en char¬",
+            "ger, publier, &amp; afficher, a peine de la vie. Enioindre à tous",
+            "Maires, Eſcheuins &amp; Scindies des Villes &amp; Commuuautez",
+            "&amp; Sujets da Roy de courre ſus aux porteurs de tels &amp; ſem¬",
+            "blables billets en forme de Mandemens, les prendre &amp; ap¬",
+            "prehender, repreſenter à Iuſtice pour eſtre leur procez",
+            "fait &amp; parfait, &amp; iceux punis comme rebelles, ſeditieux, &amp;",
+            "Perturbateurs du repos publie, ſuiuant la rigueur des Or¬",
+            "donnances. Ordonner que le nommé Hurot &amp; tous autres",
+            "qui ſe trouueront auoir ſigné leſdits prerendus mandemens",
+            "ſeroiẽt pris &amp; apprehendez au corps, menez &amp; conduits en la",
+            "Conciergerie du Palais, pour eſtre ouys &amp; mterrogez ſur",
+            "les faits,ſur leſquels ledit PocureurGeneral les voudroit fai¬",
+            "re ouyr &amp; entendre, ſinon adiournez a trois briefs iours à",
+            "ſon de trompe &amp; cry public, leurs biens ſaſis &amp; annotez en",
+            "la maniere accouſtumée: &amp; cependant enioindre aux habi¬",
+            "tans Aſſéeurs &amp; Collecteurs deſdites Parroiſſes de porter in¬",
+            "ceſſamment les deniers des Tailles, &amp; autres impoſitions aux",
+            "Bureaux ordinaire; des Receptes, en la manere accouſtu¬",
+            "mée, auec deffences de les porter ailleurs, &amp; d’obeyr auſ¬",
+            "dits mandemens, à peine d’eſtre declarez complices, &amp; que",
+            "l’Arreſt qui interuiendroit ſur la pres éte equeſte, ſeroit leu,",
+            "publié aux ſieges des Eſle ctions &amp; Greniers a ſel, l’Au dianee",
+            "enant, &amp; aux Ptoſnes des Parroiſſes, meſmes affie hé aux",
+            "carrefours &amp; places publiques, tant aà la diligence des Sub¬",
+            "!",
+            "1"
+        ],
+        [
+            "ſſituds dudit Procureur General, que des Maires, Eſcheuins",
+            "Procureurs &amp; Sindcs des Villes, Cõmunautez &amp; Parroiſſes",
+            "à ce qu’aueun n’en pretendiſt cauſe d’ignorãce. V V aufſi le¬",
+            "dit Mandement fait à Stenay le vingt-troiſiénelanuier 1éõ5o.",
+            "&amp; tout conſidete. L A COV R, ayant eſgard à ladite",
+            "Requeſte, A Caſſé, Reuocqué &amp; annulleé, Caſſe, Reuocque",
+            "&amp; annolle leſdits pretendus Mandemens comme donnez par",
+            "perſonnes ſans pouuoir, &amp; par attentat à l’authorité du Roy",
+            "&amp; de ladite Cour: A fait &amp; fait tres- expreſſes inhibitions &amp;",
+            "deffences aà tous Officiers &amp; Subiets de ſa Maieſté d’y defe¬",
+            "rer, à peine d’eſtre declarez deſobeiſſans &amp; rebelles, Et à",
+            "toutes perſonnes de quelque qualiré &amp; condition qu’elles",
+            "ſoient de s’en charger, publier &amp; afficher à peine de la vie.",
+            "Enioint à tous Maires, Eſcheuins &amp; Procureurs Scindics des",
+            "Villes &amp; Communautez, &amp; Subiets du Roy de courre ſus",
+            "aux Porteurs de ſemblables; billets en forme de Mandemés,",
+            "les prendre &amp; apprehender &amp; repreſenter à iuſtice pour eſtre",
+            "leur proces fait &amp; parfait, &amp; iceux punis comme rebelles,",
+            "ſeditieux &amp; Perturbateurs du repos public, ſuiuãt la rigueur",
+            "des Oudonnances: A Ordonné &amp; Ordonne que le nommé",
+            "Hurot, &amp; tous autres qui ſe trouueront auoir ſigné leſdits",
+            "pretendus Mandemens ſeront pris &amp; apprehendez au corps",
+            "menez &amp; conduirs en la Conciergerie du Palais, pour eſtre",
+            "ouys &amp; interrcgez ſur les faits ſur leſquels ledit Procureur",
+            "General les voudra fare ou yr &amp; entendre ſi pris &amp; appre¬",
+            "hendez peuuent eſtre, ſinon adiournez à trois briefs iours à",
+            "ſon de trompe &amp; cry public, leurs biens ſaiſis &amp; annottez",
+            "en la maniere accouſtumee, Et cependant enjoint aux Ha¬",
+            "buans Aſſeeus &amp; Collecteurs de porter inceſſamment les",
+            "deniers des Tailles &amp; autres impoſitions aux Bureaux ordi¬",
+            "naires des receptes en la naniere accouſtumée. Leur fait",
+            "inhibitiõs &amp; deffences de les poter ailleurs &amp; d’obeyr auſd.",
+            "mandeme ns à peine d eſtre declarez complices. A Ordonné",
+            "&amp; ordonne que le preſent A rreſt ſera leu &amp; publié aux Sieges",
+            "des Eſlecuons &amp; Greier a Sel, l’Audiance tenant, &amp; aux",
+            "22"
+        ],
+        [
+            "¬2¬",
+            "proſnes des parroiſſes, meſmes affiché aux carrefours &amp;",
+            "places publiques. tant aà la diligence des Subſtituds ddict",
+            "Procureur General, que des Maires &amp; Eſcheuins, Procu¬",
+            "reurs, Scindics &amp; Mar guilliers des Ville, Commonatez &amp;",
+            "parroiſes, à ce qu’aucun n’en pretende cauſe d’ignorance,",
+            "auſquels la Cour enjoint de preter main forte pur l’exe¬",
+            "cution du preſent Arreſt, &amp; auſdts Subttituds d’en certifier",
+            "la Cour a mois. Prononcé le cinquieme iour de Feurier mil",
+            "ſx cens cinquante. Signé BOVCHER.",
+            "Collationné à l’Original par moy Conſeiller",
+            "Secretaire du Roy, &amp; de ſes Finances.",
+            "Par les Inprimeurs &amp; Libraires",
+            "ordinaires du Roy.",
+            "Auec Priuilege de ſa Maieſté."
+        ]
+    ],
+    "pages_number": [
+        "8",
+        "9",
+        "10",
+        "11"
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "non renseigné",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-05-16",
+            "@who": "ZC"
+        },
+        "titre": "Troisième affiche apposée à Paris, le 19 juillet\n          1651.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "#text": "Sans Date"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1651-07-19",
+                "#text": "mention du 19 juillet 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "TROISIEME",
+            "AFFICHE",
+            "POSEE A PARIS",
+            "le 19. Iuillet 1651."
+        ],
+        [
+            "Troiſieſmé Affiche,",
+            "Poſée à Paris, le 19. Iuillet",
+            "1 651.",
+            "TE par les vrais &amp; bons",
+            "lLV François, Fdeles &amp;",
+            "obeiſſans ſeruiteurs &amp; ſubjets de",
+            "la ſacrée Perſonne duROY, Pere",
+            "des Peuples, ſidelles ſeruiteurs auf¬",
+            "ſi des Princes du ſang ſes Enfans,",
+            "&amp; conſeruateurs de ſa Couronne,",
+            "&amp; autres bons &amp; fidelles ffî¬",
+            "ciers &amp; Iuſticiers, Aydes &amp; con¬",
+            "fort’icelle, Rnnemis mortels de",
+            "Ifpie, Celerat, Traitre, Voleur,"
+        ],
+        [
+            "Tyran, Sacrilege, Perturbateur,",
+            "du Publie, Sorcier, Magleien, Pi¬",
+            "peur, Monopoleur, Bardache, &amp;",
+            "Monſtre eſpouuantable &amp; abo¬;",
+            "minablelde Iullio Mazarini, Ita¬",
+            "lien, Renegat, Porte-enſeigne de",
+            "l’Anti- Chriſt, &amp; des y-apres nom¬",
+            "mez, Complices, Adherans &amp; Fau¬",
+            "teurs d’iceluy.",
+            "¬",
+            "JL eſt enjoint à Servient, Lyoh¬",
+            "r",
+            "leene e lnie euonene",
+            "vuider la ville de Paris dans vingt",
+            "quatre hieurs e ia- ioaira n¬",
+            "pres du Royaume; Afin que do¬",
+            "eſoauants ieu ſoit ſeruy, adore",
+            "&amp; honoré, en y reſtabliſſant par",
+            "tout la Religion Chreſtienne: L’v¬",
+            "nion eternelle de leurs Maieſtez",
+            "auee leſdits Princes du ſafſ,",
+            "Paix"
+        ],
+        [
+            "Paix generale, tant deſirée des Prin¬",
+            "ces &amp;du povre Peuple, (empeſchée",
+            "par leſdits Servient, le Tellier &amp;",
+            "de Lyonne) leut ſoulagement &amp;",
+            "Fé̂pose &amp; finalemeat que leſo¬",
+            "leil de la Iuſtice puiſſe reluire, que",
+            "depuis ſi long-temps a efté preſs",
+            "que tout. à̀ fait. éclypſe; Le tonut",
+            "par la-tyrannie &amp; vollerie deſdirts",
+            "Mazarin, Servient, de Lyome",
+            "e elier, qui ae deſiréne qe",
+            "le Trouble, la perte des Princes,",
+            "&amp; du Royaume; Et à faute de ce",
+            "faire, Leur eſt declaré par leſdits",
+            "bons &amp; fidelles François, qu’ils y",
+            "employeront le peu de bien qu’il",
+            "Ieur reſte, joinct à leurs forces",
+            "naturelles, eſperant &amp; s’aſſeurant",
+            "de la Bonté Diuine, des forces",
+            "ſurnaturelles pour vanger ſa que¬",
+            "relle; auec l’ayde, confort &amp; bon"
+        ],
+        [
+            "conſeil deſdits Princes du ſang.",
+            "pour purger l’Eſtat, &amp; couper la",
+            "racine à tous ces Monſtres infer¬",
+            "naux ey-deſſus, &amp; autres Faction¬",
+            "naires dudit impie, celerat, traî̂¬",
+            "tre, voleur, tyran, ſacrilege, per¬",
+            "turbateur, ennemy du Roy &amp; de",
+            "’Eſtat, Magicien, ſorcier, pipeur,",
+            "monopoleur, ſeducteur, barda¬",
+            "che, bougeron, renegat &amp; men¬",
+            "ſtre inferhal Mazarin."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6"
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Épernon, Bernard de Nogaret de La Valette (1592-1661 ; duc d')",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-09",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement de Bordeaux, portant\n          inhibitions et défenses, à toutes personnes, de quelque qualité et condition qu’elles\n          soient, de reconnoître le sieur duc d’Épernon pour gouverneur de la province, suivant la\n          dernière déclaration du roi, ensemble, à ses gardes, de porter la livrée.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Bordeaux"
+        },
+        "pubDate": {
+            "@source": "Mazarine",
+            "@when": "1651",
+            "#text": "1651"
+        },
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "¬ .",
+            "ARREST",
+            "DE LA COVR",
+            "DE PARLEMENT",
+            "DE BOVRDEAVX.",
+            "Portant inhbitions &amp; defenſes à toutes perſonnes de",
+            "quelque qualité &amp; condition qu'elles ſoient, de re¬",
+            "connoiſtre le ſieur Duc d'Eſpernon pour Gouuerneur",
+            "de la Prouince, ſuiuant la derniere Declaration du",
+            "Roy ; enſemble à ſes Gardes de porter la livrée.",
+            "A PARIS.",
+            "Iouxte la coppie impriḿe à Bourdeaux par I. M. Milanges,",
+            "lmprimeur ordinaire du Roy.",
+            "M. DC. LI."
+        ],
+        [
+            "Extraict",
+            "des Regiſtres de",
+            "Parlement.",
+            "VR ce qui a eſté reprefenté’à",
+            "la Cour part le Protuteur Ge¬",
+            "neral du Roy, Que jaç̧oir que",
+            "le Roy par ſa Detlaration du",
+            "premier du mois d’Octobre dernier; aye",
+            "revoqué́ le ſieur Duc d’Eſpernon de ce",
+            "Gouvernement, &amp; promis en metrre vn",
+            "autre à ſa place, &amp; que ladite Declara¬",
+            "tion aye eſté deuement publiée &amp; enre¬",
+            "giſtrée au Grefe de la Cour, &amp; envoyée",
+            "en toutes les Seneſchauſſeées du Reſſort",
+            "Pout en faire le mefme, il eſt neante¬",
+            "A E"
+        ],
+        [
+            "1",
+            "moins adrerty- que l’on fait pluſieurs",
+            "complots &amp; monopoles en pluſieurs en¬",
+            "droits de la Province, pour faire recon¬",
+            "noiſtre ledit ſieur d’Eſpernon pour",
+            "Gouverneur; meſmes que ſes Gardes",
+            "portent lha eaſaque &amp; livrée, font di¬",
+            "verſes courſes dans ladite Province,",
+            "pour eſmouoir les eſprits contre le ſr¬",
+            "vice du Roy &amp; la paix enregiſtée &amp; pu¬",
+            "blieée; à̀ quoy il eſt neceſſaire de pour¬",
+            "voir promptement, pour en eſviter les",
+            "conſequences &amp; les ſuttes qui en pour¬",
+            "roint provenir. A tant requiert de¬",
+            "fenſes eſtte faires par la Cour à toutes",
+            "les Villes du reſſort, &amp; tous les Subjets",
+            "du Roy, de quelque qualité &amp; condi¬",
+            "tion qu’ils ſoient, de reconnoiſtre ledie",
+            "ſieur Due d’Eſpernon pour Gouverneur,",
+            "luy obeyr, ny tecevoir ſes Gardes, &amp;",
+            "auſdts Gardes de porter leurs caſaques",
+            "&amp; hvrées de Gouverneur, à peine d’eſ¬",
+            "tre procedé contre eux comme pertur¬",
+            "bateurs du repos publie.",
+            "6 21",
+            "L2"
+        ],
+        [
+            "5",
+            "LA COV Rayanr eſgard aux con",
+            "cluſons. dudt, Proureu Geaeral du",
+            "Roy, cpnormé́mene aà la volonteé d",
+            "Roy, A fmt nhibitions &amp; defenſes à",
+            "outes, perſonnes Ae quelque qu teé e",
+            "conditian qu’elle oient, &amp; à ous Mai¬",
+            "re, lurats &amp; Conluls des Vlles , de e¬",
+            "çoanoiſtre led Duc d’Eſperao pour",
+            "p ueneur de la Proinca, retevoit fes",
+            "Gardes, nay d eres à ſes odres en eet¬",
+            "te qualite; &amp; auſdits Gardes de porter la",
+            "caſa que, à peine de quatre mil hures, &amp;",
+            "d’eſtte punis. comme infracters de la",
+            "paix, &amp; perturbateurs du repos public.",
+            "Et ordonne que le preſent Arreſt ſera",
+            "leu &amp; pub'ié́ par toutes les Seneſ hauſ¬",
+            "ſees &amp; Vlles du preſent reſſort, à la di¬",
+            "ligence du lit Procureur General &amp; de",
+            "ſes Subſtiruts, &amp; ſignifie auſdits Maire,",
+            "Iurats &amp; Conſuls a la meſne diligence;",
+            "auſquels Subſtiruts, Mare, lurats &amp;",
+            "Conſuls deſdites Viles, enjoint ladite",
+            "Cour de tenir la main à l’execution du",
+            "B"
+        ],
+        [
+            "peſenit Amet , &amp; auſodits Sbnin",
+            "enir l cout aduerie de lus dligeu",
+            "dau luieoaine, ape l rerepio",
+            "pur u faie dudi dirreſt , l peane",
+            "n cens liure, &amp; de teſponde en len",
+            "Piuen aoms deu connevenions au ot",
+            "meſt, lequel ſea ereeute en veru d",
+            "ſmple Diétum dieeluy, atna ee dn.",
+            "ſ oqunſduon t l dourdeons r",
+            "llonen dls upuſne paenht pui",
+            "cens cinquane.",
+            "amaa,",
+            "Signe, Svav."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14"
+    ]
+}

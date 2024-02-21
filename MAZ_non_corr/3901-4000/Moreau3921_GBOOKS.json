@@ -1,0 +1,115 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſte.",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "Texte officiel",
+            "parodie"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-05-09",
+            "@who": "ZC"
+        },
+        "titre": "Véritable (le) arrêt de la cour de Parlement en faveur de\n          monsieur le maréchal de Turenne.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@role": "speaker",
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "LE VERITABLE",
+            "Arreſt de la Cour",
+            "DE PARLEMENT.",
+            "EN FAVEVR DE MONSIEVR LE",
+            "MARESCHAL DE TVRENNE.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſte."
+        ],
+        [
+            "EXTRAICT DES REGISTRES",
+            "de Parlement.!",
+            "E",
+            "E jour, la Cour toutes les Cham¬",
+            "bres aſſemblées, Le Sieur Prince de",
+            "Conty a dit, Que le Sieur Due de",
+            "Bouillon eſtant ’indiſpoſé, l’auoit",
+            "prie de faire entendre à la Cour, qu’il",
+            "auoit receu Lettres du ſieur Vicomte de Turenne",
+            "ſon frere, par leſquelles il luy donnoit aduis qu’en",
+            "continuant ſon affection &amp; fidelité́ ordinaire, il",
+            "amenoit ſes Trouppes en France, pour le ſeruice",
+            "du Roy, de la Cu &amp; du Puibli, &amp; deuoit ſe join¬",
+            "dre aux intereſts de ladite Cour; Le Sieur Coadju¬",
+            "teur à l’Archeueſché de Paris, a auſſi dit, Que pour",
+            "trauerſer le juſte &amp; genereux deſſein dudit ſieur de",
+            "Turenne, on auoit fait defenſes aux Gouuerneurs",
+            "&amp; Habitans des Villes &amp; Places par où̀ il deuoit paſ¬",
+            "ſer, de le receuoir en icelles &amp; de le reconnoiſtre,",
+            "meſme enuoyé́ de l’argent au ſieur d’Erlac, pour",
+            "débaucher ſes Trouppes, auec ordre exprés de ſe",
+            "ſaiſir de ſa Perſonne; La matiere miſe en delibera¬",
+            "tio: LADITE COVR a ordonné &amp; ordonne,",
+            "que Lettres de remerciement ſeront eſcrites de la",
+            "Part de ladite Cour audit ſieur de Turenne, Et que",
+            "ſans auoir eſgard auſdites defenſes, il aura tous paſ¬",
+            "ſages lihres pour entrer auec ſes Trouppes en ce"
+        ],
+        [
+            "4.",
+            "oyaime Pour le ſemie da oi, dfenſe deli",
+            "Cour, de cette Ville &amp; du Publie; Enjoint à tous",
+            "Officiers &amp; Subjets du Roy de leur obeir, leur fait",
+            "defenſes ’de l’empeſcher en quelque ſorte &amp; ma¬",
+            "niere que ce ſoit. Ordonne en outre qu’il ſera joint",
+            "aux intereſts de ladite Cour, &amp; ladite Ville, &amp; ſes",
+            "Trouppes qui le ſuiuront auſſi: Cepehdant ſera in¬",
+            "ceſſamment fait fonds pour fournir &amp; ayder à la",
+            "Subſiſtance deſdites Trouppes; Et luy permet pren",
+            "dre les deniers des Receptes des lieux où il paſſera,",
+            "pour la Subſiſtance deſdites Trouppes; dont ſera",
+            "donné aduis au Sieur Duc de Longueville, &amp; à tous",
+            "qu’il appartiendra. FAI Ten Parlement le huictié¬",
+            "me Mars mil ſix cens quarante-neuf.",
+            "g,TSv r1ET",
+            "Colationǹ l’Originalparmoy Conſeiller",
+            "Secretaire du Roy &amp;’de ſes Finances."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4"
+    ]
+}

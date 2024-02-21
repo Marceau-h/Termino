@@ -1,0 +1,151 @@
+{
+    "imprimatur": "AVEC PERMISSION",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": "Lettre",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-29",
+            "@who": "AB"
+        },
+        "titre": "Lettre familière envoyée de Saint-Germain à madame de\n          Montbazon, touchant les articles de la paix.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "persName": {
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "P. D. B. L."
+                }
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000121237136",
+            "@xml:id": "IL_CoulonVeuvedAntoine.xml",
+            "persName": {
+                "forename": "Veuve d'Antoine",
+                "surname": "Coulon"
+            }
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "FAMILIERE",
+            "ENVOYEE DE S. GERMAIN,",
+            "A MADAME",
+            "DE MONTBASON.",
+            "Touchant les Articles",
+            "de la Paix.",
+            "A PARIS.",
+            "Chez la vefue d'ANTHOINE COVLON, ruë",
+            "d’Eſcoſſe, aur trois Cramaillere.",
+            "M. DC. XLIX.",
+            "AVEC PERMISSION."
+        ],
+        [
+            "3",
+            "¬",
+            "LETTRE FAMILIERE,",
+            "Enuoyée de Sainct Germain,",
+            "à Madame de Mont-Baſon,",
+            "touchant les Articles de la",
+            "Paix.",
+            "ADAME,",
+            "Apres auoirrendu mes",
+            "reſpects, &amp; auoir remercié voſtre bon¬",
+            "té de toutes les obligations que i’ay à",
+            "voſtre Grandeur; ie vous diray, MA¬",
+            "A ij"
+        ],
+        [
+            "4",
+            "DAME, que nous ſommes icy dans de",
+            "continuelles apprehenſions que laguer¬",
+            "re ne confu; &amp; que les Princes in¬",
+            "rereſſez, ou pour leur Roy, ou pour",
+            "leur honneur particulier, ne nous don¬",
+            "nent encore de la peine. Neantmoins,",
+            "MAD A ME, ie vous puis aſſeurer",
+            "que la Reyne n’a plus d’autres ſenti¬",
+            "mens que pour la Paix; &amp; que les predi¬",
+            "cations continuelles de Monſieur de",
+            "Mont-auban l’ait tellement changée,",
+            "qu’elle ne reſpire plus que la deuotion",
+            "&amp; lerepos de ſon peuple affligé. En vn",
+            "mot, MADAME, mal-gré les pet¬",
+            "ſuaſions de Monſieur le Prince de Con¬",
+            "dé, elle a conclu la Paix auec les condi¬",
+            "tions que ie vous enuoye, ſelon l’ordre",
+            "que vous m’en auezpreſcrit, &amp; les com¬",
+            "mandemens que vous men’auez faits.",
+            "Vous ſçaurez donc, s’il vousplaiſt, que",
+            "Monſeigneur le Due dOrleans eſt Ge¬",
+            "neraliſſime"
+        ],
+        [
+            "3",
+            "neraliſſime des armées de ſa Majefté́,",
+            "commoon doit cela à ſes merites &amp; à ſ¬",
+            "naiſſance. Et Monſieur de Beau-fors",
+            "ſon Lieutenant eneral, à qui meſme",
+            "l’o promet de grans untages dans",
+            "l’acçonodement des affaires, Mon¬",
+            "ſieur le Prince de Condé ſe retirera en",
+            "ſon Gouuernement de Bourgongne,",
+            "pour le ſeruice du Roy &amp; del’Eſtat. Le",
+            "Prince de Conty ſon frere, demeurera",
+            "Gouuerneur de Champagne &amp; de Brie.",
+            "Monſieur le Duc de Longue-ville, de¬",
+            "meurera auſſidans ſon ouuernement",
+            "de Normandie. Les autres Generaux",
+            "d’Armée ſeront reſtablis dans leurs",
+            "biens; &amp; Monfieur de Boüllon aura",
+            "Sedan. L’Archiduc Leopold, qui eſt",
+            "proche de Noyon, a ordre deſe retirer",
+            "auecſes troupes. Et le Cardinal Mazarin",
+            "a commandement de ſortir de France.",
+            "Pour ce quieſt des Villages qui ont eſt́",
+            "B"
+        ],
+        [
+            "3",
+            "uinmez aux enuirons de Paris, Commiſ¬",
+            "ſaires deſputez yront ſur les lieux,’ui",
+            "sihformeront exactement des degiſts",
+            "faits par les ſoldats, &amp; ſelon l’eſtimation",
+            "diceux ſerontremboutſez Voila MA",
+            "DAME, le reſultat del’Aſſemblée, e",
+            "attendant d’autres particularitez; p¬",
+            "mettez que iedemeure,",
+            "MADAME,",
+            "Voſtre treshmble:",
+            "ſeruiteur P.D. B. L."
+        ]
+    ],
+    "pages_number": [
+        "5",
+        "7",
+        "8",
+        "9",
+        "10"
+    ]
+}

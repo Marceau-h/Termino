@@ -1,0 +1,135 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "Pamphlet",
+        "subject": "Anne d'Autriche",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-06-23",
+            "@who": "AB"
+        },
+        "titre": "Pure (la) vérité cachée.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "#text": "Sans Date"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "LA PVRE",
+            "VERITE",
+            "CACHEE"
+        ],
+        [
+            "3",
+            "LA PVRE",
+            "VERITE",
+            "CACHEE",
+            "REyne la plus grande du monde",
+            "Si uous àviez le cul moins chaud,",
+            "nafes ce Cardinal ribauld,",
+            "Croyés moy tout le monde en gronde.",
+            "Apprehendés cette rumeur,",
+            "Il n’a nyl’eſprit!, ny le cœur",
+            "De rompre un accident ſiniſtre,",
+            "Ce Politique n’eſt qu’un fat,",
+            "ureu ei eſioeneſi lſe",
+            "Princeſſe en faveur de nos Lys;",
+            "eiee ei"
+        ],
+        [
+            "4",
+            "Vn ſang impur l’ait aſſailly,",
+            "Hé quoy pour en eſtre f.....",
+            "Tout uoſtre peuple eſt indigent.",
+            "Neſouffrez plus qu’il en ſoupire,",
+            "Puis que trouvez dans uoſtre Empire",
+            "Tant de v.. &amp; ſi peu d’argent,",
+            "Souverainement il ordonne,",
+            "Chacun maudit ſon appuy",
+            "Et tout l’Eſtat branſle ſoubs luy",
+            "Enuoſtre Royalle perſonne.",
+            "On ne ceſſe de murmurer,",
+            "Pas un ne le peut endurer,",
+            "Les moins experimentez croyent,s",
+            "Que le Roy doit eſrre ialoux,",
+            "Parce que l’ayant mis ſur uous",
+            "Vous le mettés bienſur le troſne.",
+            "Il vous met un Sceptre à la main",
+            "Qui marque mal uoſtre puiſſance",
+            "Et Langin de ſon eminence",
+            "Dreſſe pour autre deſſein.",
+            "Mais puis que uous le rendez maiſtre,",
+            "Prene"
+        ],
+        [
+            "5",
+            "Prenez garde au moings que ce traiſtre",
+            "Ne faſſe quelque aſſaſſinat,",
+            "u’il ne ſangle mal ſa monture,",
+            "E ne choque le choix de Nature",
+            "Ainſi que celle de l’Eſltat.",
+            "Prenez garde que cet Atée",
+            "Quittant ce C..,. pour ſon uoiſin",
+            "Ce Bougre ne faſſe à la fin",
+            "Du Troſne une chaire perſée,",
+            "Pour authoriſer ſon forfait",
+            "Il penſe qu’il doit en effect",
+            "S’attacher à uoſtre derriere,",
+            "Vous laiſser ruyner du devant",
+            "Et qu’eſtant uenu ſi avant",
+            "Il faut qu’il tourne en arriere.",
+            "Du revers il eſt convaincu",
+            "at d’une Sacrilege flame",
+            "M ais touche d’une amour imfame",
+            "Vous ne luy tournez que le cul,",
+            "O la pitoiable ſotize",
+            "Innocemment l’on ne s’eſpuiſse,",
+            "1"
+        ],
+        [
+            "6",
+            "Pour ſe rendre fils de Putain",
+            "Il charge vne honteuſe miſere",
+            "Car pour faire FE...... ſa mere",
+            "Il a deſia manque de pain.",
+            "Chaſlez donc cet inſatiable",
+            "Pendant qu’en voſtre appartement",
+            "Vous ſupportez ſi doucement",
+            "Il nous paroiſt inſupotable,",
+            "Son orgueil lui doit auiour-d’huy",
+            "Que le ſainct pere eſt moins que lu",
+            "Et ſans mantir gra-e à priappe lnee",
+            "Cela n’eſt pas lans fondement le ee",
+            "A vne d’Autriche aſseurement v",
+            "Vaut mieux que la Mule du Pape. e",
+            "FIN."
+        ]
+    ],
+    "pages_number": [
+        "2",
+        "4",
+        "5",
+        "6",
+        "7"
+    ]
+}

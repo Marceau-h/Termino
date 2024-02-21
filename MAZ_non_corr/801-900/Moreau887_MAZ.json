@@ -1,0 +1,144 @@
+{
+    "imprimatur": "Auec Permißion",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Orléans, Gaston (1608-1660 ; duc d')",
+            "France. Assemblée de la noblesse de Paris",
+            "France. États généraux"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Déclaration de monseigneur le Prince, faite en personne,\n          et délivrée par écrit, signé de sa main, à messieurs de l'assemblée de la noblesse,\n          portant parole et assurance, de la part de Leurs Majestés, pour la convocation et tenue\n          des États généraux au 8ᵉ jour du mois de septembre prochain, avec les promesses,\n          conditions et sûretés requises et nécessaires, tant pour le général que pour les\n          particuliers, en cas de retardement ou d’inexécution.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121209573",
+            "@source": "Mazarine",
+            "persName": {
+                "forename": "Louis de Bourbon",
+                "surname": "Condé"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1651-03-26",
+                "#text": "26 mars 1651"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
+            "persName": {
+                "forename": "Veuve de Jean",
+                "surname": "Guillemot"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "DECLARATION",
+            "DE MONSEICNEVR",
+            "LE PRINCE,",
+            "FAITE EN PERSONNE",
+            "ET DELIVREE PAR ESCRIT,",
+            "ſigné de ſa main, à Meſſieurs de l’Aſ¬",
+            "ſemblée de la Nobleſſe, portant parole",
+            "&amp; aſſeurance de la part de leurs Maje¬",
+            "ſtez, pour la conuocation &amp; tenuë des",
+            "Eſtats generaux au 8. iour du mois de",
+            "Septembre prochain, auec les promeſ¬",
+            "ſes, conditions &amp; ſeuretez requiſes &amp;",
+            "neceſſaires, tant pour le general que",
+            "pour les particuliers, en cas de retarde¬",
+            "ment ou d’inexecution.",
+            "A PARIS,",
+            "De l'Imprimerie de la Veufue I. GVILLEMOT, ruë",
+            "des Marmouzets, proche l’Egliſe de la Magdeleine.",
+            "M. DC. LI.",
+            "Auec Permißion"
+        ],
+        [
+            "NOUS Louis de Pourbon, Prince de",
+            "Condé, Prince du Sang premier Pair",
+            "&amp; Grand Maiſtre de France, Duc",
+            "d’Anguien, Chaſteauroux, Montmorency,",
+            "Albret &amp; Fronſac, Gouuerneur &amp; Lieute¬",
+            "ant general pour le Roy en ſes Prouinces de",
+            "Bourgongne, Breſſe &amp; Berry, promettons à",
+            "l’Aſſemblee de la Nobleſſe, eſant de preſent",
+            "en cette ville de Paris, enſuite de ce qu’il a pleu",
+            "au Roy d’accorder, à la tres humble ſupplica¬",
+            "tion que Monſieur le Duc d’Orleans &amp; nous,",
+            "en auons faite à leurs aieſtez, la conuoca¬",
+            "tion des trois Eſtats de ce Royaume, au hui¬",
+            "ctieſme du mois de Septembre prochain,",
+            "conformement auſſi à l’eſcrit que leurs Maie¬",
+            "ſtez en ont donné à ſon A. R. ſigné d’Elles, &amp;",
+            "contre ſigne des quatre Secretaires d’Eſtat,",
+            "pour aſſeurance de ladite conuocation audit",
+            "iour, pPar nouuelles lettres de ſa Maieſté, por¬",
+            "tant ordre de faire vne nouuelle deputation,",
+            "aue permiſſion expreſſe à ladite Nobleſſe, en",
+            "a qu’ele ne ſe fiſt preciſement audit temp,",
+            "de s’aſſembler &amp; ſe ioindre auec ſadite A R",
+            "&amp; nous pouraduiſer enſemblement a tout ce",
+            "qui ſera iugé neceſſaire pour le bien &amp; le ſe¬"
+        ],
+        [
+            "uicee de ſa Maieſté, &amp; à l’efrect de la tenüe de¬",
+            "dits Eſtats, ainſi que leurſdites Maieſtez ont",
+            "eu egreable de nous le permettre, ſans que foh",
+            "Alteſſe Royale, nous &amp; ladite Nobleſse, en",
+            "puiſſions eſtre blaſmez, ny eſtre impute ̀",
+            "aucune faute ou manquement de ce que nous",
+            "deuons à leurs Maieſtez, meſme quelques or¬",
+            "dres ou commandemens, que nous puiſſions",
+            "lors en receuoir au contraire, c’eſt ce que nous",
+            "promettons a ladire Aſsemblee, &amp; de tenir la",
+            "main de tout noſtre pouuoir, à ce que conioin¬",
+            "tement auecſon Alteſſe Royale, ladite conuo¬",
+            "catin &amp; aſſemblee deſdits Eſtats ſe faſſe in¬",
+            "ceſſa mment &amp; ſans aucun delay audit iour,",
+            "conformement audit eſcrit de leurs Maieſtez,",
+            "&amp; aà la promeſſe particuliere que ſadite Alteſe",
+            "Royale en a faite à̀ ladite Aſsemblee, en foy",
+            "dequoy nous luy auons fait deliurer le presé̃t",
+            "eſcrit apres l’auoir ſigné́ de noſtre main, &amp;T",
+            "iceluy fait contreſigner par noſtre Conſeiller",
+            "&amp; Secretaire de nos commandemens. Fair a",
+            "Paris le 2;. iour de Mars 165 Signé, LOV1S",
+            "DE BOVRBON; &amp; plus bas par Monſeigneur,",
+            "CAILLET.",
+            "Collasiomé́ ſar l’original, de l’ordre exprés de l’Aemblé, par ous",
+            "ſes Secresaires ſous-ſignez, à̀ Paris ce 25, mars 1651."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
+    ]
+}

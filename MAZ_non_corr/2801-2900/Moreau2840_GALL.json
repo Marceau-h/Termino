@@ -1,0 +1,115 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "Textes prophétiques",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-07-05",
+            "@who": "MF"
+        },
+        "titre": "Prédiction de l'année 1649 sur l'emprisonnement du prince\n          du sang surnommé la Cuirasse.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1650",
+            "#text": "1650"
+        },
+        "pubPlace": {
+            "@source": "Moreau",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "7"
+    },
+    "texte": [
+        [
+            "PREDICTION",
+            "De l’Année 1649.",
+            "SVR L’EMPRISONNEMENT,",
+            "DV PRINCE DV SANG.",
+            "Surnommé",
+            "LA CVIRASSE",
+            "M. DC. L."
+        ],
+        [
+            "PREDICTION",
+            "DE",
+            "DE ’ANNEE 1649",
+            "Sur l’Empriſonnement",
+            "du Prince du Sang",
+            "SVRNOMME",
+            "LA CVIRASSE.",
+            "TT",
+            "D Rne que tn nomme du ans",
+            "IHN’ipuiſe pat elu, du NeE",
+            "Sous vn pretete de vengeance,",
+            "Ou bien tu y perdras tan Ran.",
+            "Toy ſur tout, Prince de Condé́",
+            "Qi n’en a pas en abondance,",
+            "Et qu’vne goutte à ta Naiſſance",
+            "SOISSONS neuſt jamais accordé",
+            "A"
+        ],
+        [
+            "43",
+            "Ne viens point forcer les FErancoi",
+            "A ’écrier auec outrage,",
+            "Voyant ta Fureur &amp; ta Rage:",
+            "Que tu n’eſt point du Sang des Roys",
+            "Dé-ja t’auoient-ils adopté;",
+            "Et tu paſſois pour vn des Princes.",
+            "Mais ſi tu ruine leurs Prouinces,",
+            "Je crains pour ta Poſterité!",
+            "Tu ſçais ce qu’il en a couſté",
+            "A ce Charles, vray fils de fFrance,",
+            "Qoy que certain de ſa Naiſſance,",
+            "Pour auoir peu moins attenté.",
+            "Ne coy pas jamais que pour toy,",
+            "Ce Peuple qui toûjours fidele,",
+            "Ait plus d’amour &amp; plus de Zele",
+            "Qu’il en eut alors pour ſon Roy."
+        ],
+        [
+            "1",
+            "5",
+            "Il adore qui le cherit,",
+            "Et deteſte qui l’abandonne,",
+            "Et les Enfans de la Couronne,",
+            "Ne ſont reconnus qu’à ce pris.",
+            "Si tu es donc ſon Ennemy,",
+            "Comme ce Prince de Lorraine",
+            "Qui de tous s’attire la haine,",
+            "Tus ſeras trait té comme luy.",
+            "L’on étouffera ta Maiſon,",
+            "Que l’on noiroira d’infamie",
+            "Et ſi l’on te laiſſe la vie,",
+            "Tu ſeras toûjours en priſon",
+            "8",
+            "2",
+            "Mdeſme ta Femme &amp; tes Cnfans,",
+            "Encouront pareille fortune,",
+            "Et pour aſſouuir ta Rancune,",
+            "periront, quoy qu’innocens.",
+            "2"
+        ]
+    ],
+    "pages_number": [
+        "2",
+        "4",
+        "5",
+        "6"
+    ]
+}

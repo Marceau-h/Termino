@@ -1,0 +1,201 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "genre": [
+            "Périodique",
+            "Récit",
+            "Courrier"
+        ],
+        "subject": "Ormée",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-08-29",
+            "@who": "AB"
+        },
+        "titre": "COURRIER (Le) extraordinaire apportant les nouvelles de\n          Bordeaux, Bourg, Libourne, Tallemon, la Bastide et autres lieux",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Labadie",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Mazarine",
+                "@when": "1652-06",
+                "#text": "fin juin 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Labadie",
+            "#text": "Sans Lieu"
+        },
+        "publisher": {
+            "@xml:id": "IL_ChevalierJacob.xml",
+            "@ref": "isni:0000000385986464",
+            "persName": {
+                "forename": "Jacob",
+                "surname": "Chevalier"
+            }
+        },
+        "nbPages": "8"
+    },
+    "texte": [
+        [
+            "LE COVRRIER EXTRAOR¬",
+            "dinaire apportant les nouuelles de Bor¬",
+            "deaux, Bourg, Libourne, Tallemond,",
+            "la Baſtide, &amp; autres particularitez.",
+            "AVEC L'ESTAT des TROVPES",
+            "ESPAGNOLES.",
+            "MESSIEVRS, Vous prendrez la",
+            "peine de lire les Nouuelles que ce",
+            "Courrier vous apporte, vous appren¬",
+            "drez les particularitez de l’Armée de Mon¬",
+            "ſieur le Prince qui eſt en Guyenne, &amp; aux",
+            "pays circonuoiſins.",
+            "Vous ſçaurez que l’on a eſté en Guyen¬",
+            "ne ( ſur tout à Bordeaux ) dans vne grande",
+            "affliction de l’abſence de Monſieur le Prin¬",
+            "ce, ne ſçachant ce qu'il eſtoit deuenu de¬",
+            "puis ſon départ, ny quelle route il auoit"
+        ],
+        [
+            ".",
+            "4",
+            "pris, car pendant plus de huict iours on n’a",
+            "eu aucune connoiſſance de ſon voyage.",
+            "Depuis ſon déparr ſes troupes ſe ſont",
+            "preſque toutes retirées à Bordeaux, exce¬",
+            "pteé quinte cens hommes de Caualerie &amp;",
+            "huiét cens hommes de pied, commandez",
+            "par Meſſieurs Baltazard, &amp; de Marſin, qui",
+            "tiennent la campagne vers Libourne, pour",
+            "S’oppoſer aà̀ l’entrepriſe du Comre d’Har¬",
+            "cour, lequel à deſſein de mettre le ſiege",
+            "audit Libourne, mais cette ville eſt ſi bien",
+            "fortifiée. &amp; ſi bien reſoluë de ſe defendre.",
+            "qu’il n’y a pas apparence que ledit Comte",
+            "d’Harcourt aye beaucoup d’auantage.",
+            "Monſieur le Prince de Conty partit le",
+            "huitiéme de ce mois de Bordeaux pour al¬",
+            "ler mettre ordre à Libourne, &amp; la diſpo¬",
+            "ſer au ſouſtenement d’vn ſiege au cas qu’il",
+            "arriue; de faç̧on qu’ils ſont reſolus de faire",
+            "beaucoup plus de reſiſtance que les Xain¬",
+            "tongeois, &amp; que les Taillebourdinois, puis",
+            "qu’ils ſe ſont battus en lâches poltrons, &amp;",
+            "qu’ils"
+        ],
+        [
+            "qu’ils deſirent de ſouffrir la dénſolition en¬",
+            "tiere des fondemens de leur ville auant que",
+            "de la rendre audit Comte.",
+            "Les Troupes Eſpagnolles qui ſont de",
+            "preſent à Bourg, &amp; à Tallemond, n’atten¬",
+            "dent que le Comte d’Harcourt pour ſe",
+            "bien defendre, &amp; monſtrer l’affection qu’ils",
+            "nt pour le Roy, &amp; les Princes, &amp; parti¬",
+            "culierement pour la Paix generale; Elles",
+            "ſont muies de poudre, plomb, vin, bled,",
+            "&amp; de tout ce qui eſt neceſſaire pour leur en¬",
+            "retien..",
+            "Bourg maintenant s’eſt ſi bien fortifié,",
+            "qu’il eſt beaucoup plus difficile de prendre",
+            "que Blaye, les Habitans ont cent pieces de",
+            "Sanon qu’ils ont pointées ſur les murailles;",
+            "mais auant que de ſuiüre mon difcours, ie",
+            "oudrois te dé́peindre auec quel ſoin",
+            "&amp;e vigilance ils ont terraſſé toute la Ville,",
+            "&amp; conſtruit des fortifications à peine ima¬",
+            "gables: Ce qui fait que les murailles ſone",
+            "épaiſfes de terre de plus: de 8o pas. Ils",
+            "B"
+        ],
+        [
+            "font trauailler continuellement par les pau¬ ai",
+            "ures paiſans qui ſont ruinez, à celle fin de",
+            "defendre leur place: Ils ont vne armée na¬",
+            "ualle compoſée de vingt-deux vaiſſeaux qui",
+            "ſont deuant la Ville, pour ſouſtenir, ſi be¬",
+            "ſoin eſt, contre les troupes qui ſe voudront",
+            "oppoſer aà eux. Ils attendent encore douze",
+            "Nauires, &amp; quatre Gallions, qui leur vien¬ l",
+            "nent bien munitionnez de viures, &amp; autres :",
+            "choſes. Ils ont huit cens mil piaſtres pour",
+            "payer les manœuures, &amp; ſouldoyer les Sol¬.",
+            "dats: Enfin ils ont le plus beau trauail &amp;:",
+            "la piece la mieux compoſée de l’Europe; &amp;l",
+            "ce qui eſt plus à̀ admirer, c’eſt la prompi¬",
+            "tude de cette fortereſſe.",
+            "Le Samedy feprié́me, on enuoya de Bor¬",
+            "deaux ſept pettes fregates appartenantes.",
+            "aux Habitans de Bourg, leſquelles eſtoient",
+            "chargées de bœufs, moutons, vins, &amp; au¬",
+            "tres viures. Bref leſdites troupes Eſpagnol¬",
+            "les ſont ſi bien -reſoluës à faire merueélles.",
+            "ſoubs la conduite des François, pour par¬"
+        ],
+        [
+            "7",
+            "uenir à la Paix generale tant ſouhaité́e des",
+            "Peuples, qu’ils ſe mocquent de la garniſon",
+            "qui ſortit de Xaintes, &amp; de Taillebourg,",
+            "les appellant poltronmache, &amp; tratore al",
+            "Prince, de ſe rendre comme des poltrons,",
+            "&amp; de ne ſe defendre que pendant deûx ou",
+            "trois iours.",
+            "Le lendemain Dimanche, 8. de ce mois,",
+            "ſur la nuict, les Bourgeois de la Ville de",
+            "Bordeaux ont commencé de faire garde à",
+            "cauſe des traiſtres qui ſe rencontrent aà̀ cou¬",
+            "te heure.",
+            "La Baſtide eſt fortifiée plus que iamais,s",
+            "&amp; l’on traualle continuellement aux for¬",
+            "tifications de la ville, iuſques aux petits en¬",
+            "fans, filles &amp; femmes, qui ne peuuent s’en",
+            "empêcher.",
+            "Ilnconrinent que les Troupes de Mon¬",
+            "ſieur le Prnce le ſcront encore vn peu ra¬",
+            "fraichies, elles ſe doiuent raſſ mbler, &amp; ſe",
+            "mettre en campagne, pour tacher d’en¬",
+            "fermer le Conte de Harcoure a qelque.",
+            "¬"
+        ],
+        [
+            "ſiege, ou donner combat, car les Soldats",
+            "ſont tous diſpoſez à mourir, ou aà̀ vaincre.",
+            "Voila, mon cher Lecteur, toutes les",
+            "nouuelles que ie te puis apprendre pour le",
+            "preſent de la Guyenne, deux Cahiers que",
+            "ie te donneray de temps en temps t’en don¬",
+            "neront d’autres certaines, ils t’inſtruiront",
+            "de tout: Et ſans m’engager à diremon ſen¬",
+            "timent touchant tous cés troubles, ie me",
+            "contenteray de fairo vne veritable Relation",
+            "de tout ce qui ſe paſſera. Tu dois auoir le",
+            "iugement de connoiſtre la Iuſtice d’vn par¬",
+            "; ouſon iniuſtice, reigle toy ſelon le droit.",
+            "&amp; moy ie me regleray par la verité. Adieu",
+            "iuſques au premier iour."
+        ]
+    ],
+    "pages_number": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+    ]
+}

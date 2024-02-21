@@ -1,0 +1,125 @@
+{
+    "imprimatur": null,
+    "corrector": true,
+    "entête": {
+        "form": "vers",
+        "genre": [
+            "Chanson",
+            "burlesque",
+            "satirique"
+        ],
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "creation": "1649-03-11",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-18",
+            "@who": "KA"
+        },
+        "titre": "Sur la conférence de Ruel en mars, vers burlesques du\n          sieur S.",
+        "dates": [
+            {
+                "@type": "file_creation",
+                "@when": "2021-02-11",
+                "#text": "11 février 2021"
+            },
+            {
+                "@type": "correction",
+                "@when": "2021-04-23",
+                "#text": "23 avril 2021"
+            }
+        ],
+        "author": {
+            "@ref": "isni:0000000120990126",
+            "persName": {
+                "forename": "Paul",
+                "surname": "Scarron"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notAfter": "1649-03-31",
+                "#text": "vers la paix de Saint-Germain, fin mars\n            1649"
+            }
+        ],
+        "pubPlace": "Sans Lieu",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "SVR LA CONFERENCE",
+            "DE RVEL",
+            "EN MARS.",
+            "VERS BVRLESQVES",
+            "du ſieur S.",
+            "M. DC. XLIX."
+        ],
+        [
+            "3",
+            "SVR LA CONFERENCE DE RVEL",
+            "en Mars. En Vers Burleſques du ſieur S.",
+            "MA foy nous en auons dans l'aile,",
+            "Les frondeurs nous la baillent belle,",
+            "Male peſte de l'Vnion:",
+            "Le Bled ne vient plus qu'en charette,",
+            "Confeſſion, Communion,",
+            "Nous allons mourir de diſette.",
+            "Qu'en dites vous, troupe Frondeuſe,",
+            "Moitié chauue, moitié morueuſe,",
+            "Où ſont donc tous vos gens demain ?",
+            "Auec vos quatree cens mille hommes,",
+            "A peine trouuons nous du pain,",
+            "Pauures affamez que nous ſommes.",
+            "Dans toute la France on s'eſtonne,",
+            "Que voſtre intention ſi bonne",
+            "Vous ſuccede ſi pauurement:",
+            "On y trouue beaucoup à mordre;",
+            "Six ſemaines de Reglement",
+            "Font pis que vingt ans de deſordre.",
+            "Dés les premieres Baricades,",
+            "Sans recommencer les Frondades,"
+        ],
+        [
+            "4",
+            "Il falloit mieux prendre ſon temps,",
+            "Et non pas comme des iocriſſes,",
+            "En ſoudrilles &amp; Capitans,",
+            "Deſpenſer toutes vos eſpices.",
+            "Tandis que le Prince nous bloque,",
+            "Et prend bicoque ſur bicoque,",
+            "Et la Riuiere haut &amp; bas,",
+            "Nous ne nous occupons qu'à faire,",
+            "Au lieu de ſieges &amp; combats,",
+            "Des chanſons ſur Iere lanlere.",
+            "Nos Chefs &amp; nos braues Cohortes",
+            "N'ont pas plutoſt paſſé les portes,",
+            "Qu'ils les repaſſent viſtement,",
+            "Nous mettons nos gens en bataille,",
+            "Le Polonois, &amp; l'Allemand",
+            "Croquent cependant la volaille.",
+            "Vſons bien de la Conference,",
+            "Remettons la Paix dans la France",
+            "Où tout eſt, vous m'entendés bien:",
+            "Finiſſons la guerre Ciuile,",
+            "Et que le pain quotidien",
+            "Reuienne à Paris la grand Ville.",
+            "FIN."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4"
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-14",
+            "@who": "AB"
+        },
+        "titre": "Lettre du cardinal Mazarin écrite à Son Altesse Royale\n          sur son retour en France.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121223121",
+            "@source": "Carrier",
+            "@role": "speaker",
+            "persName": {
+                "forename": "Jules",
+                "surname": "Mazarin"
+            }
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1652-01-10",
+                "#text": "10 janvier 1652"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "6"
+    },
+    "texte": [
+        [
+            "LETTRE",
+            "DV CARDINAL",
+            "MAZARIN",
+            "ESCRITE",
+            "A SON ALTESSE",
+            "ROYALLE",
+            "SVR SON RETOVR",
+            "en France.",
+            "A PARIS,",
+            "M. DC. LII."
+        ],
+        [
+            "3",
+            "LETTRE",
+            "DV CARDINAL",
+            "MAZARIN",
+            "ESCRITE A SON ALTESSE",
+            "ROYALLE,",
+            "SVR SON RETOVR EN FRANCE.",
+            "MONSEIGNEVR,",
+            "Comme voſtre Aleſſe Royalle eſt a",
+            "troiſiéme perſonne de l’Eſtat, &amp; qui ſeule",
+            "aujour’huy doit eſtre l’arbitre des mouue¬",
+            "ments qui agitent ce grandcorps de la Mo¬",
+            "narchie Françoiſe: l’ay creu eſtre obligé de",
+            "l’informer du deſſein qui ma porté d’entrer",
+            "en France, qui n’eſt pasſi pernicieux que ſans",
+            "doute mes ennemis auromt fait entendre à"
+        ],
+        [
+            "voſtre Alteſſe Royalle; Puiſque ſa in n’a",
+            "pour viſee que le reſtabliſſement de l’autori¬",
+            "té Royalle &amp; la tranquilité de l’Eſtat, qui",
+            "s’en iroit infailliblement vers le penchant de",
+            "ſa ruine, s’ilny eſtoit pourueu d’vn prompt",
+            "ſecours, a la faueur duquel l’on puiſſe redui¬",
+            "re les factieux dans leu deuoir: Et par ce que",
+            "ie ſuis plainement informé de ce qui s’eſt paſ¬",
+            "ſé depuis le départ de leurs Majeſtez de la",
+            "ville de Paris &amp; que le ſuccez de leurs armes,",
+            "quoy qu’il ait toûjours eſté avantageux, n’a",
+            "pas pu encores diſſiper les nüages de toutes",
+            "ſes broiiilleries, qui ont pour pretexte mon",
+            "rotour: Il ma ſemblé qu’il eſtoit de mon de¬",
+            "voir, apres tant de témoignages d’amour",
+            "&amp; de bien-veillance que i’ay receuz de leurſ¬",
+            "dites Majeſtez pendant mon Miniſteriat, &amp;",
+            "l’entier maniement des affaires de l’Eſtat,",
+            "auquel i’eus l’honneur d’eſtre eſtably dés le",
+            "viuant du feu Roy Louis treiziéme, d’heu¬",
+            "reuſe &amp; triomphante memoire, &amp; coni¬",
+            "nué dans la regence de la Reyne: De faire",
+            "parroiſtre que leuſdites Majeſtez n’ont pas",
+            "oblige vn ingrat ny verſé les roaees de leur?",
+            "beni¬"
+        ],
+        [
+            ".5",
+            "benignes influences &amp; faueurs furvne terte",
+            "infertille; En employant nonſeulement vne",
+            "patie des deniers que i’ay receuz de leurs",
+            "mains liberalles, pour recompenſe des ſer¬",
+            "uices que i’ay rendus à̀ l’Eſtat, pour en com¬",
+            "poſer vne armée: mais encores ma prope",
+            "vie que i’expoſeray librement à la teſte de",
+            "mes troupes pour le maintien de leur ſacrée",
+            "Couronne, par le moyen dequoy auec l’ay¬",
+            "de du tout puiſſant &amp; le concours que ie",
+            "promets de voſtre Alteſſe Roy alle &amp; de tous",
+            "les idelles François; que i’eſtime que dans",
+            "de ſi iuſtes deſſeins ne le refuſeont pas, pout",
+            "par ſac &amp;e accomplir le bon-heur de l’Eſtat;",
+            "I’eſpere que les rebelles ſeront obligez de re¬",
+            "courir en peu detemps à la clemence de leur",
+            "Souuerain Monarque, Voila en effect,",
+            "MONSEIGNEVR, les veritables",
+            "motifs de l’armement que i’ay fait &amp; de",
+            "mon entré́e dans le Royaume, ou apres le",
+            "ſeruice que ie me prepare de faire au Roy,",
+            "ie n’auray point de plus forte paſſion que"
+        ],
+        [
+            "6",
+            "ſeruice que je me prepare de faire au Roy,",
+            "ie n'auray point de plus forte paſſion que",
+            "celle de rendre à voſtre Alteſſe Royale mes",
+            "ſubmiſſions accouſtumées en qualité,",
+            "MONSEIGNEVR,",
+            "De voſtre Alteſſe Royale,",
+            "Le tres-humble, tres-obeiſſant &amp;",
+            "tres-affectionné ſeruiteur,",
+            "IVLLES Card. MAZARIN",
+            "D'Eſpernay, ce 5.",
+            "Ianuier 1652."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14"
+    ]
+}

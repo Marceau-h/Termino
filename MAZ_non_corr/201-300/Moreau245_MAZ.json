@@ -1,0 +1,82 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Impôts",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement portant que les arrêts de\n          ladite cour et ordonnances des commissaires, commis pour les taxes, seront exécutés, et\n          les gens d’affaires et traitants contraints au payement desdites taxes par\n          emprisonnement.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-02-13",
+                "#text": "daté du 13 février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "Arreſt de la Cour",
+            "DE PARLEMENT,",
+            "PORTANT QVE LES ARRESTS",
+            "de ladite Cour, &amp; Ordonnances des Com¬",
+            "miſſaires commis pour les taxes, ſeront execu¬",
+            "tez, &amp; les Gens d’affaires &amp; Traictans con¬",
+            "traint au payement deſdites Taxes par empri¬",
+            "ſonnement.",
+            "Du treiziéme Fevrier mil ſix cens quarente-neuf.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinai¬",
+            "res du Roy.",
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "4",
+            "le treleſme Fevrier mil ſix cens",
+            "quarente-neuf.",
+            "Signé,",
+            "DV TILLET.",
+            "Collationneé l’Original par moy",
+            "Conſeiller Secretaire du Roy &amp;",
+            "de ſes Finances."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "12"
+    ]
+}

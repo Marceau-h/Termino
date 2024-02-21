@@ -1,0 +1,128 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſte",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-30",
+            "@who": "AB"
+        },
+        "titre": "Arrêts de la cour de parlement, pour l’ouverture de la\n          conférence et passage des vivres et autres choses nécessaires en cette ville de Paris,\n          avec députation d’ancuns présidents en ladite cour et autres y dénommés, pour traiter et\n          résoudre de tout ce qui sera utile et nécessaire à cet effet en ladite conférence, pour la\n          paix générale et soulagement des peuples.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-03-01",
+                "#text": "daté du 1er mars 1649"
+            }
+        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "Arreſt de la Cour",
+            "DE PARLEMENT,",
+            "POVR L'OVVERTVRE DE LA",
+            "Conference, &amp; Paſſages de Viures &amp; autres",
+            "choſes neceſſaires en cette Ville de Paris ; Auec",
+            "Deputation d'aucuns des Preſidens de ladite",
+            "Cour, &amp; autres y dénommez, pour traiter et re",
+            "ſoudre de tout ce qui ſera vtile &amp; neceſſaire à cet",
+            "effet en ladite Conference, pour la Paix generale",
+            "&amp; ſoulagement des Peuples.",
+            "Du dernier Février &amp; premier Mars mil ſic",
+            "cens quarante-neuf.",
+            "A PARIS.",
+            "Par les Imprimeurs &amp; Libraires ordinaires",
+            "du Roy.",
+            "M. DC. XLIX",
+            "Auec Priuilege de ſa Majeſte."
+        ],
+        [
+            "3",
+            "Du Dimaamche vingt-baicfieme éorier",
+            "mil ſix cens quarante-neuf.",
+            "CE jour, la Cour teoutes les Chambre",
+            "aſſembĺes, Ayant deliberé ſur le recit",
+            "fait le jour d’hier par Monſieur le Premier",
+            "Preſident, de ce quit’eſt paſet S. Germain",
+            "en Laye, en la Deputation faite vers le Roy",
+            "&amp; la eine Regente, en exoeution de l’Arreſté du 19. de",
+            "e mais &amp; an, &amp; de la Propoſition faite de tenir vna",
+            "Coaference. pour aduilſer à’ee qui eſt naceſſaire pous",
+            "lahien de la Pat generale &amp; ſoulagement des Peu¬",
+            "ples; Et oü̈yſus ce les Gens du Roy; A ARRESTE’ &amp;",
+            "ordonné, que ladite Conference ſera tenuë en lieu ſeur,",
+            "tel qu’il laia an Roy &amp; à̀ la Reine Regente, qu’à",
+            "eette finy aſſiſteront quatre Preſidens de ladite Cour,",
+            "Va ou deux des Generaux, Deux Conſeillers de la",
+            "Gand’ Chambse, vn Confeillaer de chacune Chambre",
+            "das Eaqueſtes, &amp; vn des Requeftes, comme auſſi vn",
+            "Mait des Rqueſtes, Deux de chaeune des Compa¬",
+            "gnies Souueraines de cette Ville, Et le Preuoſt des",
+            "Marchands, ou en ſos abſence l’vn des Eſcheuins; Leſ¬",
+            "uels auront plain pouuoir de taiter &amp; reſoudre ee",
+            "quils jugeroat par leur prudenes, &amp; qui ſera rouué",
+            "plus propre, vtile &amp; conuenable pour le bien de IEſta,"
+        ],
+        [
+            "4",
+            "ſoulagement des Peuples &amp; particulierement de laVille",
+            "de Paris, authorité́ desCompagnies &amp; conſeruatio des",
+            "intereſts de ceux quiont témoigné fidelité &amp; affebion",
+            "en cette occaſion ſi importante, dont ſera donné ad¬",
+            "uis au ſieur Duc de Longueuille, auſdites Compa¬",
+            "gnies Souerines de Patis, ux Deputez d Paule¬",
+            "mens de Rouen &amp; d’Aix en Prouence, &amp; auſdiPre",
+            "uoſt des Marchands &amp; Eſcheuins: Et ſeront les Gens",
+            "du Roy deputez, pour aller voir ledit Seignero1",
+            "Iadies ame Reie Regente, pous leur faire entend",
+            "le preſent arteſte, &amp; les ſuppliar de la part de ladu",
+            "Cour, Que ſuiuant la parole donnee, les paſa¬",
+            "foient ouurs pour la diborté des choſes neceſſaira",
+            "eete Vſ, dt ont eſté deputez Meſiurs leas",
+            "mier pedenrt, de ieſne ſacodoreſdent be",
+            "meue &amp; de Nenmon, auſi pefidene Delonoua",
+            "&amp;e Menardeau, Conſelers’de la nnd’’hamb;",
+            "De la Nuuu, de Coe, bitult, n. Vole &amp;edluu.",
+            "des Enqueſtes, Et le Févré des Requeſtes",
+            "Du Lundy promier jour de Mars 1649.",
+            "CE jour, la Cour toutes les Chambres aſſemblée,",
+            "Maiſtre Guillauime Briſſonhe Conſeiller &amp; Mai¬",
+            "des Requeſtes, a eu depue poui lerecunioſ",
+            "l’ameſté du jour d’hie. Signe, DvTILLEI."
+        ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4"
+    ]
+}

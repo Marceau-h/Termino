@@ -1,0 +1,93 @@
+{
+    "imprimatur": "Auec Priuilege de ſa Majeſté",
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": "Orléans (Loiret)",
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant défenses, aux\n          officiers du présidial , prévôté, maire et échevins d'Orléans, de connaître et juger\n          d’autres matières que de celles à eux attribuées par les édits du roi, vérifiés en ladite\n          cour.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-02-09",
+                "#text": "9 février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "Arreſt de la Cour",
+            "DE PARLEMENT",
+            "PORTANT DEFENSES AVX",
+            "Officiers du Preſidial, Preuoſté, Maire &amp; Eſ¬",
+            "cheuins d’Orleans, de cognoiſtre &amp; juger",
+            "d’autres matieres que de celles aà̀ eux attri¬",
+            "buées par les Edicts du Roy, verifiez en ladite",
+            "Cour.",
+            "Du huictieme Féurier mil six cens quarente-neuf.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordinai¬",
+            "res du Roy.",
+            "M. DC. XLI.",
+            "Auec Priuilege de ſa Majeſté."
+        ],
+        [
+            "joint de les receuoir, faire regiſtrer &amp; executer",
+            "inceſſamment à peine d’interdiction; Leur fait",
+            "tres-expreſſes inhibitions &amp; defenſes de rece¬",
+            "uoir, deferer &amp; recognoiſtre autres ordres con¬",
+            "traires à ladite Cour, donnez pour maintenir",
+            "l’authorité du Roy &amp; la tranquilité publique.",
+            "Leur fait en outre defenſes de cognoiſtre &amp;",
+            "juger d’autres matieres que de celles a eux at¬",
+            "tribuées par les Edicts du Roy verifiez en ladite",
+            "Cour. ENIOINT au Gouuerneur &amp; ſubjects",
+            "dudit Seigneur Roy de ladite Ville, tenir la",
+            "main à l’execution, à peine d’eſtre declarez",
+            "perturbateurs durepos public. FAITen Parle¬",
+            "ment le huictiéme Fevrier mil ſix cens quaren¬",
+            "te-neuf.",
+            "Signé,",
+            "Collationné à l’Original parmoy",
+            "Conſeiller Secretaire du Roy&amp;",
+            "de ſes Finances."
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "12"
+    ]
+}

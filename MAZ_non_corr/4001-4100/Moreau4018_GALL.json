@@ -1,0 +1,82 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "vers",
+        "genre": "non renseigné",
+        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-04-13",
+            "@who": "ZC"
+        },
+        "titre": "Vers présentés à monseigneur le duc de Beaufort, pair de\n          france.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2021-11-02",
+            "#text": "2 novembre 2021"
+        },
+        "author": {
+            "@source": "BnF",
+            "@ref": "isni:0000000073678147",
+            "persName": {
+                "forename": "Pierre",
+                "surname": "Du Pelletier"
+            }
+        },
+        "pubDate": {
+            "@source": "Moreau",
+            "@when": "1649",
+            "#text": "1649"
+        },
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000110444682",
+            "@xml:id": "IL_LesselinAlexandre.xml",
+            "persName": {
+                "forename": "Alexandre",
+                "surname": "Lesselin"
+            }
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "4",
+            "A&amp;A e l, d d , ,u, tV &amp; ,",
+            "ospoooenoee s",
+            "g&amp;eſ eos",
+            "LA-ACL.",
+            "de d e e ie ſd e ee e e os e e e",
+            "A MONSEIGNEVR LE DVC",
+            "de Beaufort, Pair de France.",
+            "SONNET.",
+            "¬",
+            "Rand Heros couronne des mains de la victoite",
+            "I L’amour des vrays François, &amp; leur plus cherſoucy",
+            "De plus ſçauantes mains trauaillent à ta gloire,",
+            "Mais auec moins de zele on y trauaille auſſi.",
+            "Eſt-il donc quelque place aſſez belle en l’hiſtoire",
+            "Pour conſeruer tes faits que l’on admire icy?",
+            "Des Ceſars qu’on a mis au Temple de memoire",
+            "Le nom, par tes exploits ſera preſque obſcurcy.",
+            "Pour moy, ie ſuis rauy quand par la voix publique",
+            "Paris qui te benit fait ton Panegirique,",
+            "Ses cris font ton Eloge, ô genereux vainqueur.",
+            "Ce triomphe n’eſt pas vn triomphe ordinaine",
+            "De cette grande ville ayant gagné le cœur",
+            "Il ne te reſte plus de conqueſtes à faire.",
+            "D PELLETIER Pariſien."
+        ]
+    ],
+    "pages_number": [
+        "1"
+    ]
+}

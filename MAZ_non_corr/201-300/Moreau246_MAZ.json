@@ -1,0 +1,118 @@
+{
+    "imprimatur": null,
+    "corrector": false,
+    "entête": {
+        "form": "prose",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Naudé, Gabriel (1600-1653)",
+            "Mazarin, Jules (1602-1661)",
+            "Vente aux enchères"
+        ],
+        "change": {
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
+        },
+        "titre": "Arrêt de la cour de parlement, portant que les meubles,\n          étans (sic) en la maison du cardinal Mazarin, seront vendus.",
+        "dates": {
+            "@type": "file_creation",
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
+        },
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "@source": "Mazarine",
+            "orgName": "Parlement de Paris"
+        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-02-16",
+                "#text": "daté du 16 février 1649"
+            }
+        ],
+        "pubPlace": {
+            "@source": "Mazarine",
+            "@ref": "geonames:2988507",
+            "#text": "Paris"
+        },
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
+        "nbPages": "4"
+    },
+    "texte": [
+        [
+            "ARREST",
+            "DE",
+            "LA",
+            "COVR",
+            "DE PARLEMENT:",
+            "Portant que tous les meubles eſtans en",
+            "la maiſon du Cardinal Mazarin, ſe¬",
+            "ront vendus.",
+            "Du ſeizieſme Feurier 1649.",
+            "A PARIS,",
+            "Par les Imprimeurs &amp; Libraires ordi¬",
+            "naires du Roy.",
+            "M. DC. XLIX.",
+            "AVEC PRIVILEGE DE SA MAIESTE’."
+        ],
+        [
+            "3",
+            "EXTRAICT DES REGISTRES",
+            "de Parlement.",
+            "CE iour la Cour, toutes les",
+            "Chambres aſſemblées, a ar¬",
+            "reſté &amp; ordonné, que à la re¬",
+            "queſte du Procureur gene¬",
+            "ral du Roy, tous les meubles eſtans en",
+            "la maiſon du Cardinal Mazarin de cet¬",
+            "te ville de Paris, ſeront vendus au plus",
+            "offrant &amp; dernier encheriſſeur, par les",
+            "Huiſſiers Cazault, Cheron, Herbinot",
+            "&amp; Binot, tous les Creanciers &amp; oppo¬",
+            "ſans preſens ou deuëment appellez, en",
+            "preſence de M Iean Douiat, Eſtienne",
+            "Sainctot, Pierre Catinat, &amp; Charles de",
+            "la Nauue, Conſeillers du Roy en ladi¬",
+            "te Cour, ou l’vn d’eux; &amp; les deniers",
+            "tenus en Iuſtice, iuſques à ce que leſ¬",
+            "dits Creanciers &amp; oppoſans ouys en ait",
+            "eſté par ladite Cour ordonné: A lare¬",
+            "A ij"
+        ],
+        [
+            "ſerue toutefois de la Bibliotheque, pour",
+            "la vente de laquelle ſera ſurſis iuſques",
+            "à ce qu’autrement y ait eſté pourueu",
+            "par ladite Cour; cependant elle demeu¬",
+            "rera en la garde de Gabriel Naudé, le¬",
+            "quel s’en chargera, &amp; de ce en fera le",
+            "ſerment &amp; ſoumiſſions pardeuant leſ¬",
+            "dits Conſeillers qui y pouruoiront; à ce",
+            "que ladite Bibliotheque ſoit conſeruée",
+            "en ſon entier. Fait en Parlement le 16.",
+            "Feurier 16̃49.",
+            "Signé, DV TILLET.",
+            "Collationné aà l’Original par moy Conſeiller,",
+            "Secretaire du Roy, Maiſon, Couronne de",
+            "France, &amp; de ſes Finances"
+        ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
+    ]
+}
