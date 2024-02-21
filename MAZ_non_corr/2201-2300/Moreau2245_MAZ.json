@@ -1,5 +1,5 @@
 {
-    "imprimatur": null,
+    "imprimatur": "AVEC PERMISSION.",
     "corrector": false,
     "entête": {
         "form": "vers",
@@ -47,6 +47,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000120985669",
+            "@xml:id": "IL_MartinSebastien.xml",
             "persName": {
                 "forename": "Sébastien",
                 "surname": "Martin"
@@ -446,5 +447,20 @@
             "Moitié farine, moitié ſon.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "4",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
     ]
 }

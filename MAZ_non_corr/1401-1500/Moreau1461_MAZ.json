@@ -2,7 +2,10 @@
     "imprimatur": null,
     "corrector": false,
     "entête": {
-        "form": "vers/prose",
+        "form": [
+            "vers",
+            "prose"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
@@ -47,6 +50,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121226728",
+            "@xml:id": "IL_LeGentilJacques.xml",
             "persName": {
                 "forename": "Jacques",
                 "surname": "Le Gentil"
@@ -335,5 +339,13 @@
             "Par ce moyen ſera vangé.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

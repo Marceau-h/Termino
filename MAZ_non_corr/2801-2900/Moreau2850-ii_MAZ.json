@@ -24,7 +24,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -42,7 +42,9 @@
             "@source": "Mazarine",
             "#text": "Sans Lieu"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
@@ -282,5 +284,15 @@
             "En doit falre vn reci expres.",
             "FIN"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

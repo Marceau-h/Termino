@@ -1,17 +1,18 @@
 {
-    "imprimatur": null,
+    "imprimatur": "AVEC PERMISSION.",
     "corrector": false,
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-14",
+            "@who": "AB"
         },
         "titre": "Arrivée (l’) des ambassadeurs du royaume de Patagoce et\n          de la Nouvelle-France; ensemble ce qui s’est passé à leur voyage, avec des remarques\n          curieuses, traduit par le sieur J. R.",
         "dates": {
@@ -19,7 +20,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -32,9 +33,10 @@
         },
         "publisher": {
             "@ref": "isni:0000000002569584",
+            "@xml:id": "IL_RemyVeuvedeJean.xml",
             "persName": {
                 "forename": "Veuve de Jean",
-                "surname": "Remy"
+                "surname": "Rémy"
             }
         },
         "nbPages": "8"
@@ -42,22 +44,26 @@
     "texte": [
         [
             "L’ARRIVEE",
+            "DES",
             "AMBASSADEVRS",
             "DV ROYAVME",
+            "DE",
             "PATAGOCE",
+            "ET",
+            "DE LA NOVVELLE",
             "FRANCE",
-            "Enſemble ce qui ’eſt paſſe à leur vyage, auec de",
-            "e l ede aule i li ese le",
-            "i oie e lie nua",
-            "re ge ree",
-            "VEC PER1SS1oN"
+            "Enſemble ce qui s’eſt paſſe à leur vyage, auec des",
+            "remarques curieuſes.",
+            "Traduit par le Sieur I. R.",
+            "A PARIS,",
+            "Chez la vefue IEAN REMY, ruë S. Iacques à",
+            "l'Image S. Remy, prés le College du Pleſſis.",
+            "M. DC. XLIX.",
+            "AVEC PERMISSION."
         ],
         [
-            "t ebbbb",
-            "&amp;ss",
-            "VP’ee?",
-            "L’ARRIVEE DES ABSSADEVRS",
-            "1",
+            "3",
+            "L’ARRIVEE DES AMBASSADEVRS",
             "Du Royaume de Patagoce &amp; de la Nouuelle France.",
             "AnRs mon pays de Patagoce, c’eſt vn",
             "Aa&amp;iraoeileneir oilunuera dele auadie",
@@ -230,10 +236,16 @@
             "de penetrer.Nous pourrons dire à̀ noſtre retour auoir",
             "veu le plus beau Royaume, &amp; le plus deſoleé, &amp; par",
             "rant l’Autheur de ſa perte eſt le plus grand Tyran.",
-            "1",
-            ",",
-            "FIN.",
-            ". aaa.¬"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

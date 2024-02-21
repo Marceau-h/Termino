@@ -22,7 +22,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Mazarine",
             "@when": "1652",
@@ -35,6 +35,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000078045947",
+            "@xml:id": "IL_DamesmeNicolas.xml",
             "persName": {
                 "forename": "Nicolas",
                 "surname": "Damesme"
@@ -494,5 +495,14 @@
             "nd aool oo iê ol uai1 D url lbnes el ! 0",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

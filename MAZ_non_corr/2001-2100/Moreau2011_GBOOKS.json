@@ -2,13 +2,15 @@
     "imprimatur": null,
     "corrector": false,
     "entête": {
-        "form": "vers/prose",
-        "genre": "lettre",
-        "subgenre": [
-            null,
-            null
+        "form": [
+            "vers",
+            "prose"
         ],
+        "genre": "lettre",
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-04-07",
         "change": {
             "@status": "not_corrected"
@@ -23,8 +25,7 @@
             "@ref": "isni:0000000121209573",
             "persName": {
                 "forename": "Louis",
-                "surname": "Bourbon-Condé (De)",
-                "name": "Louis II"
+                "surname": "Bourbon-Condé de"
             }
         },
         "pubDate": {
@@ -39,6 +40,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
             "persName": {
                 "forename": "Jacob",
                 "surname": "Chevalier"
@@ -192,5 +194,13 @@
             "ſa couleur viue, la chaleur de vos ſoldats la con¬",
             "uertira en pourriture, &amp; ie ne ſeray pas moins"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
     ]
 }

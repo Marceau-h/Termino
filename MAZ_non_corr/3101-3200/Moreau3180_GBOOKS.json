@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-02-27",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "AB"
         },
         "titre": "Relation véritabie contenant la chasse donnée au comte\n          d'Harcourt devant Bordeaux, avec la défaite de son arrière-garde et l'arrivée du courrier\n          du duc de Lorraine.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000001831368 ",
+            "@xml:id": "IL_BrunetJean.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Brunet"
@@ -41,32 +46,19 @@
     },
     "texte": [
         [
-            "3o29",
-            "T",
-            "ſRELATION",
-            "H 1",
+            "RELATION",
             "VERITABLE,",
-            "Cntenant la chaſſe donnee au",
+            "Contenant la chaſſe donnee au",
             "Comte d’Harcourt deuant",
             "Bordeaux.",
             "Auec la deffaite de ſon arriere-garde.",
-            "l’arriuée du Courriar du Dauc de Larains.",
-            "s",
+            "Et l’arriuée du Courrier du Duc de Loraine.",
             "A PARIS,",
-            "Chez lean Brvnr, rué Saincte Anne.",
-            "M. DC. LI I."
-        ],
-        [
-            "a",
-            "e lALL",
-            "ûa E",
-            "1",
-            "21"
+            "Chez IEAN BRVNET, ruë Saincte Anne.",
+            "M. DC. LII."
         ],
         [
             "3",
-            "t h i, &amp; i 2 &amp;u d, ,e:",
-            "gge ; St e:",
             "Relation veritable, contenant",
             "la chaſſe donné́e au Comte",
             "d’Harcourt deuant Bordeaux,",
@@ -244,7 +236,16 @@
             "que ce Baſteleur faiſoit ainſi ioüer, ce qui les obligea",
             "de ſe retirer, &amp; s’en reuenir auſſi ſçauans commeils",
             "eſtoient allez.",
-            "E I N."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

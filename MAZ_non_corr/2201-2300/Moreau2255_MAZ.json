@@ -18,7 +18,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -39,6 +39,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000060006122",
+            "@xml:id": "IL_GuilleryJacques.xml",
             "persName": {
                 "forename": "Jacques",
                 "surname": "Guillery"
@@ -362,5 +363,14 @@
             "En ce cas, faittes vn Pont D’o.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

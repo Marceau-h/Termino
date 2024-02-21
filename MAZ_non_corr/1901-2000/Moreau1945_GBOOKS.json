@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
             "@status": "not_corrected"
@@ -23,7 +22,7 @@
             "@ref": "isni:0000000112298199",
             "persName": {
                 "forename": "Christine",
-                "surname": "Suède (De)"
+                "surname": "Suède de"
             }
         },
         "pubDate": {
@@ -38,6 +37,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
             "persName": {
                 "forename": "Jacob",
                 "surname": "Chevalier"
@@ -212,5 +212,14 @@
             "qui eſt Senecque.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

@@ -17,7 +17,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -38,6 +38,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000001831368",
+            "@xml:id": "IL_BrunetJean.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Brunet"
@@ -360,5 +361,16 @@
             "de toute la Chreſtient2¬¬",
             "A Pare, Ce Ie a Brmoet, e neovs S. Lat, an Gon A"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
     ]
 }

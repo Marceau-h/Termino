@@ -17,7 +17,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -38,6 +38,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000366954336",
+            "@xml:id": "IL_MettayerMichel.xml",
             "persName": {
                 "forename": "Michel",
                 "surname": "Mettayer"
@@ -185,5 +186,12 @@
             "arin.",
             "FIN"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14"
     ]
 }

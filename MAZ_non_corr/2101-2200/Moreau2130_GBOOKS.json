@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-01-18",
         "change": {
             "@status": "not_corrected"
@@ -19,11 +18,7 @@
             "@when": "2021-06-08",
             "#text": "8 juin 2021"
         },
-        "author": {
-            "persName": {
-                "name": "Le prince généreux"
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -36,6 +31,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000108647130",
+            "@xml:id": "IL_BoudevilleClaude.xml",
             "persName": {
                 "forename": "Claude",
                 "surname": "Boudeville"
@@ -137,5 +133,11 @@
             "&amp; tres-affectionné ſeruiteur,",
             "L Prine ns."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4"
     ]
 }

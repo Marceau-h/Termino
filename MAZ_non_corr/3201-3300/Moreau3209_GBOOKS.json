@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
         "titre": "Relation véritable de ce qui s'est passé à Compiègne\n          depuis le premier de ce mois jusques à présent: I. l'expédition des députés du Languedoc;\n          II. les ordres donnés à M. le duc de Mercœur (sic) pour tenir les Ètats de ladite\n          province; III. et les ordres envoyés au maréchal de Turenne par Sa Majesté.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -30,30 +34,25 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "16"
     },
     "texte": [
         [
-            ",, oss",
             "RELATION",
             "VERITABLE.",
             "DE CE QVI S’EST PASSE",
-            "a Compiegne, depuis le premier",
-            "de ce mois iuſques à pre ſe nt.",
-            ". L’expedition des Deputez de Languedoc.",
+            "à Compiegne, depuis le premier",
+            "de ce mois iuſques à preſent.",
+            "I. L’expedition des Deputez de Languedoc.",
+            "II. Les Ordres données à Monſieur le Duc de Mer¬",
             "cœure, pour tenir les Eſtats de ladite Prouince.",
-            "par ſa Mj ſte.",
-            "A PARI S,",
+            "III. Et les Ordres enuoyées au Mareſchal de Turenne",
+            "par ſa Majeſte.",
+            "A PARIS,",
             "M DC. LII."
-        ],
-        [
-            "1",
-            "1",
-            ".",
-            "4",
-            ". 1.",
-            "onaaa"
         ],
         [
             "1",
@@ -146,12 +145,6 @@
             "1¬"
         ],
         [
-            "1",
-            "1",
-            "1",
-            "1",
-            "l",
-            ".",
             "6",
             "humains que les Soſdats Mazarins ont commis és en",
             "uironslde Saumur, de Tours de Blois ſans eſpargner",
@@ -285,20 +278,6 @@
             "ilafaiallé en Cour, le meſme Due deolillon lu7"
         ],
         [
-            "1",
-            ".",
-            "1",
-            "1",
-            "!",
-            "!",
-            "1",
-            "!",
-            "1",
-            ".",
-            "3",
-            "1",
-            "1",
-            "3",
             ". aoaa, -s",
             "10",
             "à fait donner la, oharge de Conſeiller d’Eſtat, &amp;",
@@ -365,18 +344,6 @@
             "."
         ],
         [
-            "11",
-            "11",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1",
-            "3",
-            "!",
-            "1",
-            "1",
-            ".",
             ".....¬. A a¬ -",
             "5",
             "s",
@@ -449,19 +416,6 @@
             "¬.."
         ],
         [
-            "1l",
-            "?",
-            "1",
-            "1",
-            "!",
-            "t",
-            "3",
-            "3",
-            "l",
-            "1",
-            ".",
-            "..",
-            "i",
             "eſtoit poſtée prés de Lorris en Gaſtinois, ieſtendet",
             "à preſent iuſques aà Montargis pours’oppoſer aux M",
             ".",
@@ -522,14 +476,9 @@
             "rent en Cour: Mais au lieu ’ſtre eſcoutez &amp; d’es",
             "endre leurs raiſons. On les a fait arreſter &amp; pour ſe",
             "vanger de ce reffus, ils enuoyerent quelques cormpae",
-            "gies de Cauaeeaux uirons dalville da Sonßs.",
-            "!1",
-            "¬"
+            "gies de Cauaeeaux uirons dalville da Sonßs."
         ],
         [
-            ".",
-            "3",
-            "6.",
             "ilscornmencerent a pſlſe &amp; à bruſter,; &amp; euſſent fait",
             "lemeſe aux faux- bourgs, ſans l’ordre que ceux de",
             "Sens y donnerent.",
@@ -558,8 +507,24 @@
             "&amp; quelques priſonniers qu’ils emeneret en ladite vil",
             "leauec tout le butm, ce qui reſioïit grandement.",
             "anſtr Bourgeoſib de ſe voilt ainſi deſliure.e",
-            "FIN.",
-            "..¬r¬,."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

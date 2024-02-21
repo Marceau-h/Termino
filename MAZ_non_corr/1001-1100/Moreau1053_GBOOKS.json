@@ -17,18 +17,13 @@
             "@when": "2021-11-10",
             "@who": "AB"
         },
-        "titre": "Désaveu du libelle intitulé : Apologie\n                    particulière de M. le duc de Longueville par un gentilhomme breton.",
+        "titre": "Désaveu du libelle intitulé : Apologie particulière de M.\n          le duc de Longueville par un gentilhomme breton.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1651",
@@ -39,10 +34,7 @@
             "#text": "Sans Lieu"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "42"
     },
@@ -1400,5 +1392,49 @@
             "peuuent acquerir qu’en rendant au Roy le ſeruice auquel",
             "la naiſſance les oblige."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
     ]
 }

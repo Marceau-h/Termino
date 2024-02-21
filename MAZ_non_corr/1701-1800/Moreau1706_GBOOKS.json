@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "Epitaphe"
         ],
-        "subject": null,
+        "subject": "Mancini",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-07-13",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-13",
+            "@who": "AB"
         },
         "titre": "Instantes (les) remontrances et prières de Mancini au\n          cardinal Mazarin, son oncle, sur la nécessité qui le presse de sortir hors de France, lui\n          représentant les périls auxquels sa personne reste exposée, après les grandes pertes qu'il\n          a faites à la bataille du faubourg Saint-Antoine, où il fut frappé pour lui d'un coup\n          mortel.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-26",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -29,25 +33,26 @@
             "@source": "Moreau",
             "#text": "Sans Lieu"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
         [
-            "LES iNSTATES",
-            "V Y T",
-            "DE MANCIN I",
-            "I",
-            "1 1",
+            "LES INSTANTES",
+            "REMONSTRANCES",
+            "ET PRIERES",
+            "DE MANCINI",
             "AV CARDINAL MAZARIN",
-            "S ON ONCLE.",
-            "Sur la neceſſité qui le preſſe de fortir hors",
+            "SON ONCLE.",
+            "Sur la neceſſité qui le preſſe de ſortir hors",
             "de France.",
-            "luy repreſentant les perils aaſquels ſa perſonne reſſe",
-            "xposée apres les grandes perties qu’il a faites à̀ la",
-            "bamle du Fux-bourg ſainct Anthoine, oi",
-            "il fut frappé́ pour luy d’vn oup mortel.",
-            "As l’horreur &amp; l’effroy des eternelles nuits,",
+            "Luy repreſentant les perils auſquels ſa perſonne reſte",
+            "exposée apres les grandes pertes qu’il a faites à̀ la",
+            "bataille du Faux-bourg ſainct Anthoine, où",
+            "il fut frappé́ pour luy d’vn coup mortel.",
+            "DANS l’horreur &amp; l’effroy des eternelles nuits,",
             "De tes ſanglants mal-heuns Pentens oncor les.",
             "bruits;",
             "Et du ſfdeuue d’oubly, l’onde fangeuſe &amp; noire,",
@@ -347,7 +352,17 @@
             "AL Son ́on homme d’Omcle en enrage",
             "Por ou ſauuer tous de chegr!",
             "Q aore aehbeue ton ouurage.",
-            "F N."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

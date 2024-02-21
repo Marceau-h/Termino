@@ -4,14 +4,15 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1650-07-04",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-22",
+            "@who": "AB"
         },
         "titre": "Suite de la relation portée par le courrier bordelois,\n          contenant ce qui s'est passé à Bordeaux depuis le vingt-unième juillet 1650 jusques à\n          présent.",
         "dates": {
@@ -19,43 +20,42 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1650",
-            "#text": "1650"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1650-07",
+                "#text": "après le 20 juillet 1650"
+            }
+        ],
         "pubPlace": {
             "@source": "Moreau",
             "#text": "Sans Lieu"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
         [
-            "7l",
             "SVITTE",
+            "DE",
             "LA RELATION",
-            "PARLECOVRIER",
+            "PAR LE COVRIER",
             "BORDELOIS.",
             "CONTENANT",
-            "c quu ssr se ope",
-            "ri le eieo epel",
-            "s"
+            "CE QVI S'EST PASSE A BORDVEAVX",
+            "depuis le vingt-vnieſme Iuillet 1650.",
+            "iuſques à préſent."
         ],
         [
-            "a.",
-            ".s",
-            "A",
-            "1"
-        ],
-        [
-            ":",
-            "’&amp;eed",
-            "h",
-            "ô",
-            "y e",
+            "3",
             "SVITTE DE LA RELATION",
             "portée par le Courier Bordelois, contenant ce qui",
             "s’eſt paſſé aà Bordeaux depuis le vingt vnieſme luil",
@@ -63,7 +63,7 @@
             "’y Ous auez ſceu comme en ſuitte de la deliberation",
             "priſe &amp; arreſtée dans l Aſſemblee tenuë dans l’Hoſtel",
             "e Ville de Bordeaux le vingtieſme de Iuillet, le Par",
-            "lement les Cha mbres aſſembles, ordonna le lendemain, que",
+            "lement les Chambres aſſembles, ordonna le lendemain, que",
             "Madame la Princeſſe, Monſieur le Due d’Enguien &amp; tous",
             "ceux qui les aſſiſteroient ſeroient mis ſous la protectiondaRtoy",
             "&amp; de la Cour, que la ville. armeroit en execurion de l’Arreſt",
@@ -284,9 +284,16 @@
             "Paris, &amp; de la compafſion qu’ont pour nous tous les bons bour.",
             "geois &amp; habitans de la capitalle du Royaume, &amp; tous lesbons",
             "&amp;e vrais François.",
-            "s i",
-            "IN.",
-            "ues"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

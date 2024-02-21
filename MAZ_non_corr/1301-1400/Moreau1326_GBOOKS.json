@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "burlesque"
         ],
-        "subject": null,
+        "subject": "Gouvernement",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-08",
+            "@who": "AB"
         },
         "titre": "Les exemples politiques.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -33,13 +37,15 @@
         "publisher": [
             {
                 "@ref": "isni:0000000001965841",
+                "@xml:id": "IL_PepingueVeuvedeTheodore.xml",
                 "persName": {
                     "forename": "Veuve de Théodore",
-                    "surname": "Pepingué"
+                    "surname": "Pépingué"
                 }
             },
             {
                 "@ref": "isni:0000000108959687",
+                "@xml:id": "IL_MaucroyEtienne.xml",
                 "persName": {
                     "forename": "Etienne",
                     "surname": "Maucroy"
@@ -50,23 +56,21 @@
     },
     "texte": [
         [
-            "EXE MPLES",
-            "POLITIQVES",
-            "u oe n eruin le.",
-            "euere¬"
+            "LES",
+            "EXEMPLES",
+            "POLITIQVES.",
+            "A PARIS,",
+            "Chez la Veufve THEOD. PEPINGVE, &amp; EST.",
+            "MAVCROY, ruë de la Harpe vis à vis",
+            "la ruë des Mathurins.",
+            "M. DC. XLIX."
         ],
         [
+            "3",
             "LES",
-            "ID",
-            "R",
-            "J",
-            "H",
-            "l À. LL AV",
-            "POLITI Q",
-            "T T r",
-            "IE S",
-            "9",
-            "J’Obri demande eſt tropcie poaur nepas ſa",
+            "EXEMPLES",
+            "POLITIQVES",
+            "VOSTRE demande eſt tropcie poaur nepas ſa",
             "isfaire à voſtre urioſlé, ſur la priere que vous",
             "m’auez faite de vousdire ce que l’on penſoit de",
             ". aontemps, que la eonfiace que la deſfunte Reine",
@@ -413,7 +417,20 @@
             "iaandon des! ltrangers e qu’il trounaſt ſi raiſomable.",
             "quu luae alat eus qi upatauant les gouuernoien.",
             "pres leuns ſraats de ſdîité.",
-            "n h"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
     ]
 }

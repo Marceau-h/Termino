@@ -2,15 +2,22 @@
     "imprimatur": null,
     "corrector": false,
     "entête": {
-        "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "form": [
+            "prose",
+            "récit"
+        ],
+        "genre": [
+            "narration",
+            "relation"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-20",
+            "@who": "AB"
         },
         "titre": "Véritable (la) relation de tout ce qui s'est fait et\n          passé au Parlement, toutes les chambres assemblées, en présence de Son Altesse Royale et\n          de messieurs les les princes, le mardi 25? jour de juin 1652, ensemble la teneur de\n          l'arrêt dudit jour.",
         "dates": {
@@ -18,12 +25,19 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1652",
-            "#text": "1652"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-06",
+                "#text": "daté de juin 1652"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -31,6 +45,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
             "persName": {
                 "forename": "Veuve de Jean",
                 "surname": "Guillemot"
@@ -42,53 +57,35 @@
         [
             "LA VERITABLE",
             "RELATION",
-            "T",
             "DE TOVT CE QVI",
             "s’eſt fait &amp; paſſé au Parlement",
             "toutes les Chambres aſſem",
             "blées, en preſence de ſon Al",
             "reſſe Royale &amp; de Meſsieurs",
             "les Princes, le Mardy 25. iour",
-            "de Iuin 165. E nſemble la te",
+            "de Iuin 1652. Enſemble la te",
             "neur de l’Arreſt dudit iour.",
-            "Ae.",
-            "8",
-            "P AR",
-            "rnee epeiſl ie s in ueet lre",
-            "e ooinane deratreſe oale ue des ua",
-            "nnne eede g e i i nreluon¬"
-        ],
-        [
-            ",",
-            "i",
-            "1",
-            "J",
-            "1",
-            "1",
-            "m¬¬"
+            "A PARIS,",
+            "De l'Imprimerie de la Veufue I. GVILLEMOT, Impri¬",
+            "meuſe ordinaire de ſon Alteſſe Royale, ruë des Mar¬",
+            "mouzets, proche l'Egliſe de la Magdeleine.",
+            "M. DC. LII."
         ],
         [
             "3",
-            "AAAAsss",
-            "3éé s éaéA éy",
-            "Apſpp Ptſa y &amp; t",
-            "LA VERTAB E",
-            "r",
-            "r",
-            "I",
-            "ZH 1",
-            "I L I ALI N",
+            "LA VERITABLE",
+            "RELATION",
             "DE TOVT CE QVI",
-            "E r 7 r",
-            "’eſt fait &amp; paſsé au Parlement, tou",
-            "tes les Chambres aſſemblé́es, en pre",
-            "ſence de ſon Alteſſe Royale &amp; de",
-            "Mefſieurs les Princes, le Mardy 25.",
-            "iour de Iuin 1652. Enſemple la teneur",
-            "del’Arreſt dudit iour.",
-            "V commencœment de l’Aſſembleé́e on a",
+            "s’eſt fait &amp; paſſé au Parlement",
+            "toutes les Chambres aſſem",
+            "blées, en preſence de ſon Al",
+            "reſſe Royale &amp; de Meſsieurs",
+            "les Princes, le Mardy 25. iour",
+            "de Iuin 1652. Enſemble la te",
+            "neur de l’Arreſt dudit iour.",
+            "AV commencœment de l’Aſſembleé́e on a",
             "anreſeneleene",
-            "8 culierement des deſordres arriuez Ven",
+            "culierement des deſordres arriuez Ven",
             "à dredy lenier,à quoy Meſſieursles Pre",
             "ſidens ont voulu adiouſter ce qui s’eſtoit",
             "ſeau Faux-bourg S. Germain, c’eſt à dire en la per",
@@ -191,13 +188,15 @@
             "t tacitement faite;, le peuple eſtant bien reſolu de",
             "ne le point ſouffrjr, ny de plus eſcouter auecune re",
             "nle.",
-            "vo j",
-            "u?",
-            "PIN."
-        ],
-        [
-            "-",
-            "atode¬"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

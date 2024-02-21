@@ -3,92 +3,77 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+            "Miradoux (Gers) – 1652 (Siège)"
         ],
-        "subject": null,
-        "creation": "1652-02-27",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-03-18",
+            "@who": "AB"
         },
-        "titre": "Relation de tout ce qui s'est fait et passé dans la levée du\n          siege de Miradoux. Par monsieur le Prince.",
+        "titre": "Relation de tout ce qui s'est fait et passé dans la levée\n          du siège de Miradoux par monsieur le Prince.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-05-25",
-            "#text": "25 mai 2021"
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
-            "@source": "Moreau",
+            "@source": "Mazarine",
             "@when": "1652",
             "#text": "1652"
         },
         "pubPlace": {
+            "@source": "Mazarine",
             "@ref": "geonames:2988507",
-            "@source": "Moreau",
             "#text": "Paris"
         },
         "publisher": {
             "@ref": "isni:0000000077130621",
-            "@source": "Antonomaz",
+            "@xml:id": "IL_MaretteVeuvedeClaude.xml",
             "persName": {
-                "forename": null,
-                "surname": "Marette (veuve de)"
+                "forename": "Veuve de Claude",
+                "surname": "Marette"
             }
         },
         "nbPages": "7"
     },
     "texte": [
         [
-            "RELATION lAl",
-            "Tovc ov1l",
-            "Sesr le lose",
-            "oe inmnors,",
-            "sl",
-            "?"
+            "RELATION",
+            "DE",
+            "TOVT CE QUI",
+            "S'EST FAIT ET PASSÉ",
+            "dans la Leuée du Siege",
+            "DE MIRAVDOVX.",
+            "Par Monſieur le Prince.",
+            "Iouxte la coppie imprimée à Bourdeaux.",
+            "A PARIS,",
+            "Chez la Vefue MARETTE, en la grande Salle",
+            "du Pallais.",
+            "M. DC. LII."
         ],
         [
-            "RELATIO",
-            "I",
-            "de tout ce qui s’eſt ft &amp;",
-            "paſlé dans la Leuée du",
-            "1",
-            "Siege de Miradoux.",
-            "QVIS que toute la Franea aujour",
-            "d’huy tegarde Monſieut de Piinde",
-            "auec des yeux differents, &amp; qu les’",
-            "’ Peuples donnent de diuerſes cou",
-            "leurs aà ſa conduite, ſuiuantles paſ.",
-            "ſions qui les animent: Il eſt importat de iuſfiei",
-            "ſes deſſeins, &amp; de rendre compee de toutes les dea",
-            "marches qu’il faict, ou pouryremarquer ſa pruden",
-            "ce, ou pour y admirer ſa valeut. Il montra dernie",
-            "rement ſa valeur quand il vainquit les-ermeis,",
-            "&amp; il fait voir aujourd’huy ſa pradenceſqiaad il",
-            "differe de les vaincre, nayant interromp ſon",
-            "ptemier deſſein que pour mieux diſpoſer ſon A¬"
-        ],
-        [
-            "11",
-            "84",
-            "mée à remporter vne autre Victoire plus auantâ",
+            "mée à remporter vne autre Victoire plus auantâ¬",
             "geuſe au bien public, &amp; à la gloire deſes Armes.",
             "Apres la Deffaite du Marquis de Saint Lue, par",
             "a generoſité de Son Alteſſe, &amp; de Monſieur le",
             "Prince de Conty, les reſtes de cette Armée ſe re¬.",
-            "irerent dans Miradoux, auec les Principaux Of",
-            "ficiers des Regimens de Champagne &amp; de Lor",
-            "rancp o poeur ne pariſtre pas entierement vaiu",
+            "irerent dans Miradoux, auec les Principaux Of¬",
+            "ficiers des Regimens de Champagne &amp; de Lor¬",
+            "rancp o poeur ne pariſtre pas entierement vaiu¬",
             "cils eſoluree dejopiiaſtrer la deſfene",
             "Ce qui obligea Son Aleſe de les adler aſieger,",
-            "afin dacheuer de les vainere pluſtoſt par la dou",
+            "afin dacheuer de les vainere pluſtoſt par la dou¬",
             "ceur quepar les armes;, &amp; en leut oſtant le moyen",
             "de nuire à ſoni patty; les empeſcher de ſe perdre",
             "eux-meſme",
-            "Ce n’eſt pas que la forcede cette place, qui n’e",
-            "ſtait conſiderble que par le courage, ou par le de",
+            "Ce n’eſt pas que la forcede cette place, qui n’e¬",
+            "ſtait conſiderble que par le courage, ou par le de¬",
             "ſoſpoirdes aſſiegez, euſt peu lang-temps arreſtes",
             "la y aillanee &amp; le bon-heur de ce Prince. Mais ſa",
             "honté́ voalant d’vn coſté meſnager ſon Armée, &amp;",
@@ -103,8 +88,8 @@
             "aſſez long-temps ſur le bord de la Riuiere de l’Iſle."
         ],
         [
-            "Il auoit pris la marche de ce coſlé́ auec les meil",
-            "leures Troupes de ſon Armeée, pour joindre cel",
+            "Il auoit pris la marche de ce coſlé́ auec les meil¬",
+            "leures Troupes de ſon Armeée, pour joindre cel¬",
             "les du Marquis de Saint Lucs mais eſtant arriué",
             "vn peu trop tard, &amp; apres la dé́route de cette",
             "Armée, il ſe reſolut de faire quelque effort,",
@@ -112,42 +97,37 @@
             "ſembler pas auo entrepris inutilementvn ſilong",
             "&amp; penble voyage.",
             "En effet, le Mardy cinquiéme du mois de Mars,",
-            "il commença à faire paſſer la Riuiere à̀ ſes Trou",
+            "il commença à faire paſſer la Riuiere à̀ ſes Trou¬",
             "pes du coſté d’Auuilar, &amp; deſlors Monſieur le",
             "Prince ſe fut oppoſe à ſa marche, s’il euſt eu toutes",
             "ſes forces enſemble. Mais comme il n’eſtoit pas",
             "en eſtat de pouuoir diuiſer ſon Armée, pour en",
             "laiſſer vne partie dans les tranchées de Miradoux,",
             "&amp; mener l’autre au deuant du Comte; Et voyant",
-            "d’ailleurs qu’il eſtoit incomparablement plus im",
-            "portant de combattre ce General, que de prer",
+            "d’ailleurs qu’il eſtoit incomparablement plus im¬",
+            "portant de combattre ce General, que de prer¬",
             "dre cette petite Vlle, ſa prudence a fait dans",
-            "etté conjoncture ce que font tous les ſages Capi",
+            "etté conjoncture ce que font tous les ſages Capi¬",
             "taines. Ne pouuant executer à̀ meſne temps ees",
             "deux deſſeins, il a creu deuoir abandonner le",
             "moins important, pour aller chercher auec plus",
             "d’aſſeuranee vne plus gloricuſe occaſion; &amp; qu’l",
             "falloit laiſſer le reſte de ces deux Regimens à demy",
             "vaincus, pour eſſayer de vaincre vne Armee toute",
-            "entiere.",
-            "1",
-            "1",
-            "1",
-            "1"
+            "entiere."
         ],
         [
             "6",
-            "5",
             "C’eſt pourquoy le ſoir du meſme iour, &amp; auant",
-            "que les ennemis euſient acheué de paſſer la Ri",
+            "que les ennemis euſient acheué de paſſer la Ri¬",
             "iicre, Son Alteſſe fit marcher ſon Armée en",
             "fort bon ordre du coſté de Staffort, pour y aller",
-            "attendre quelques autres Troupes qui luy vien",
-            "nent de duers endroits, ne pouuant les aſſem",
+            "attendre quelques autres Troupes qui luy vien¬",
+            "nent de duers endroits, ne pouuant les aſſem¬",
             "bler deuant Miradoux, aà cauſe de la neceſſité du",
             "fourage.",
             "Deia le Sieur de Marchin eſtoir arriueé́ au",
-            "Camp auec des forces conſiderables, le Re",
+            "Camp auec des forces conſiderables, le Re¬",
             "giment de Luſignan s’y eſtt auſſi rendu deſ",
             "puis qelques iours: Et quand les Regimens de",
             "Conry, de Bourdeaux, &amp; de Montpouillan, qu’on",
@@ -159,22 +139,29 @@
             "Infanterie, iointe enſemble, ne ſçauroit faire",
             "douze cens hommes, auec ceux de Miradoux,",
             "que la faim a mis en eſtat de ne pouuoir preſque",
-            "plus ſe deffendre, bien loing de nous venir at",
+            "plus ſe deffendre, bien loing de nous venir at¬",
             "taquer.",
-            "Il y a bien de l’apparence que ces deux Ar",
+            "Il y a bien de l’apparence que ces deux Ar¬",
             "mées eſtant i proches ne ſe retireront pas ſans",
             "Combat, &amp; que l’euenement reü̈ſſira à la gloire",
             "de Monſieur le Prince, &amp; au bien des Peuples"
         ],
         [
-            "qu’il deffend. Ce que nous pouuons raiſonna",
-            "blement eſperer de la valeur de ce grand Prin",
+            "qu’il deffend. Ce que nous pouuons raiſonna¬",
+            "blement eſperer de la valeur de ce grand Prin¬",
             "ce, du courage &amp; de la fideliré de ſes Troupes;",
             "mais ſur tout de la Iuſtice de ſa cauſe, &amp; des",
-            "vœux que font inceſſamment tous les Peu",
+            "vœux que font inceſſamment tous les Peu¬",
             "ples de cette Prouince pour la proſperité de ſes",
-            "Armes..",
-            "1 IN."
+            "Armes.",
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

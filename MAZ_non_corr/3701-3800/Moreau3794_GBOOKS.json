@@ -3,15 +3,16 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "chantable",
-        "subgenre": [
-            null,
-            null
-        ],
+        "genre": "Chanson",
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-03-04",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-05-06",
+            "@who": "KA"
         },
         "titre": "Trahisons (les) découvertes, ou le Peuple vendu.",
         "dates": {
@@ -19,39 +20,28 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
             "#text": "1649"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "7"
     },
     "texte": [
         [
-            "¬",
-            ".",
-            "1.",
-            "..",
-            "11.",
-            ".",
-            "-¬¬¬",
-            "Et",
-            "-",
-            "..",
-            "oonaoogle"
-        ],
-        [
-            "ſllllllillllilstteldſepetleſle",
-            "LES TRAHISONS DESCOVVERTEs",
-            "e",
-            "ou lePeuple Vendu.",
-            "Q rons, eprits ba&amp; crains,",
-            "L&amp; Vousauez doncperdu courage,",
-            "Quoy tous nos grands preparaifs,",
-            "Nonr point auancé vore ouurage,",
+            "LES TRAHISONS DESCOVVERTES",
+            "ou",
+            "le Pevple",
+            "Vendv.",
+            "Poltrons, eprits bas&amp; craintifs,",
+            "L&amp; Vous auez donc perdu courage,",
+            "Quoy tous nos grands preparatifs,",
+            "Non point auancé vore ouurage,",
             "Pourquoy donc impoſteurs auez vous proteſté",
             "De ſoulager votre patrie,",
             "Pour quitter en fin la partie:.",
@@ -256,8 +246,15 @@
             "Ermbraſſant la cauſe Commune,",
             "Pour faire triompher le plus gtand de nos Roys,",
             "Si toſt qu’vn Dieu vengeantnotre iuſte querelle,",
-            "Aur mis en leurs mains vn Fauory rebelle.",
+            "Aura mis en leurs mains vn Fauory rebelle.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

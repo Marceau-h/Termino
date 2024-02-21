@@ -28,7 +28,7 @@
             },
             {
                 "@ref": "isni:0000000121755355",
-                "persName": "France. Parlement de Paris"
+                "orgName": "Parlement de Paris"
             }
         ],
         "pubDate": [
@@ -50,6 +50,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121209450",
+            "@xml:id": "IL_EstienneAntoine.xml",
             "persName": {
                 "forename": "Antoine",
                 "surname": "Estienne"
@@ -571,5 +572,24 @@
             "Collationné à̀ l’Original par moy Conſeiller",
             "Secretaire du Roy &amp; de ſes Finances."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27"
     ]
 }

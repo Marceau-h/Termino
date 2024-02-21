@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": true,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1650-07-04",
         "change": {
             "@status": "not_corrected"
@@ -19,12 +18,22 @@
             "@when": "2021-06-08",
             "#text": "8 juin 2021"
         },
-        "author": "Parlement de Bordeaux",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1650",
-            "#text": "1650"
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "orgName": "Parlement de Bordeaux"
         },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1650-08-06",
+                "#text": "datée du 6 août 1650"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -32,6 +41,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000367213580",
+            "@xml:id": "IL_SassierGuillaume.xml",
             "persName": {
                 "forename": "Guillaume",
                 "surname": "Sassier"
@@ -296,5 +306,14 @@
             "che la Sorbonne, aux deux Tourterelles.",
             "2"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

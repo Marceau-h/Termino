@@ -20,7 +20,7 @@
         },
         "author": {
             "@ref": "isni:0000000123225884",
-            "persName": "France. Parlement de Bretagne"
+            "orgName": "Parlement de Bretagne"
         },
         "pubDate": [
             {
@@ -40,7 +40,11 @@
             "@ref": "geonames:2988507",
             "#text": "Paris"
         },
-        "publisher": "Imprimeurs et libraires ordinaires du roi",
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
         "nbPages": "4"
     },
     "texte": [
@@ -87,5 +91,9 @@
             "Iouxte la coppie imprimee à̀ Rennes, par FAnco 1s",
             "H aRaN Imprimeur ordinaire du Roy."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "12"
     ]
 }

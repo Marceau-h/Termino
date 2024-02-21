@@ -38,7 +38,9 @@
             "@source": "Mazarine",
             "#text": "Sans Lieu"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "2"
     },
     "texte": [
@@ -83,5 +85,9 @@
             "A mon Cousin le Cardinal Ma¬",
             "arin."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "10"
     ]
 }

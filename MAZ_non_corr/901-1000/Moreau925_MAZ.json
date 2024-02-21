@@ -24,7 +24,7 @@
             },
             {
                 "@ref": "isni:0000000121755355",
-                "persName": "France. Parlement de Paris"
+                "orgName": "Parlement de Paris"
             }
         ],
         "pubDate": [
@@ -45,9 +45,14 @@
             "#text": "Paris"
         },
         "publisher": [
-            "Imprimeurs et libraires ordinaires du roi",
+            {
+                "@ref": "isni:0000000123698534",
+                "@xml:id": "IL_ImprimerieRoyale.xml",
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            },
             {
                 "@ref": "isni:0000000121209450",
+                "@xml:id": "IL_EstienneAntoine.xml",
                 "persName": {
                     "forename": "Antoine",
                     "surname": "Estienne"
@@ -334,5 +339,19 @@
             "Secretaire du Roy, Maiſon &amp; Couronne",
             "de France."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
     ]
 }

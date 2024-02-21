@@ -1,17 +1,18 @@
 {
-    "imprimatur": null,
+    "imprimatur": "AVEC PERMISSION.",
     "corrector": false,
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-02-19",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-14",
+            "@who": "AB"
         },
         "titre": "Arrivée (l') du courrier extraordinaire des François, qui\n          apporte bonnes nouvelles (sic), et une harangue par écrit, faite par un grand seigneur à\n          MM. les prévôt, échevins et bourgeois de Paris; ensemble ce qui c'est (sic) passé à Paris\n          dans ce grand convoi, par le sieur Rozard.",
         "dates": {
@@ -20,9 +21,10 @@
             "#text": "26 avril 2021"
         },
         "author": {
+            "@ref": "isni:0000000391335916",
             "persName": {
-                "forename": null,
-                "surname": null
+                "forename": "N.",
+                "surname": "Rozard"
             }
         },
         "pubDate": {
@@ -36,10 +38,11 @@
             "#text": "Paris"
         },
         "publisher": {
-            "@ref": "isni:000000038974880X",
+            "@ref": "isni:0000000002569584",
+            "@xml:id": "IL_RemyVeuvedeJean.xml",
             "persName": {
-                "forename": null,
-                "surname": "Rozard"
+                "forename": "Veuve de Jean",
+                "surname": "Rémy"
             }
         },
         "nbPages": "8"
@@ -47,35 +50,27 @@
     "texte": [
         [
             "L’ARRIVEE",
-            "NTDTD",
-            "LVIIIE I",
+            "DV",
+            "COVRRIER",
             "EXTRAORDINAIRE",
+            "DES",
             "PRANCOIS.",
-            "ou A o r ones ovurls.",
-            "re pnir",
-            "iei us e e euede eden",
-            "o uule e de er o",
-            "is dans ce grand onuoy.",
-            "pel4",
-            "eeee",
-            "de e ei l eueil ne i ea",
-            "neee ine ree eoune",
-            "AVEC PERISSION."
+            "QVI APPORTE BONNES NOVVELLES,",
+            "&amp; vne Harangue par eſcrit, faite par vn grand Sei",
+            "gneur, à Meſſieurs les Preuoſts, Eſcheuins &amp;",
+            "Bourgeois de Paris.",
+            "ENSEMBLE CE QVI C'EST PASSÉ",
+            "à Paris dans ce grand Conuoy.",
+            "Par le ſieur Rozard.",
+            "A PARIS,",
+            "Chez la vefue IEAN REMY, ruë S. Iacques à",
+            "l'Image S. Remy, prés le College du Pleſſis.",
+            "M. DC. XLIX.",
+            "AVEC PERMISSION."
         ],
         [
             "2",
-            "An,esAA",
-            "i Seleooſags rene eis deieioeone",
-            "P-PPSdeee ee e",
             "LARRIVEE",
-            "D T",
-            "D’v",
-            "T",
-            "1",
-            "UUV IIE I",
-            "een",
-            "DES",
-            "¬ 1",
             "QVI APPORTE BONNES NOVVELLES,",
             "&amp; vne Harangue par eſcrit, faite par vn grand",
             "-Seigneut, aMeſſieurs les ’reuolts Eſehe",
@@ -277,7 +272,17 @@
             "pi le eneueiene eine onee euennlenuenen!",
             "en fera partiipant té ſeront choſes bien remarqua",
             "bles, &amp; dignes de voſtre lecture.",
-            "FI N."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

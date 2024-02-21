@@ -18,7 +18,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Mazarine",
             "@when": "1649",
@@ -31,6 +31,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000011194155",
+            "@xml:id": "IL_MusnierVeuvedAndre.xml",
             "persName": {
                 "forename": "Veuve d'André",
                 "surname": "Musnier"
@@ -184,5 +185,13 @@
             "ſieurde Bouillon, &amp; en trente heures l’ont ex¬",
             "pedié. Dieu veille auoir ſon ame."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

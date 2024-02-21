@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
             "@status": "not_corrected"
@@ -31,7 +30,7 @@
                 "persName": {
                     "forename": "Philippe",
                     "surname": [
-                        "Torcy (De)",
+                        "Torcy de",
                         "Comte de la Tour"
                     ]
                 }
@@ -47,7 +46,9 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "4"
     },
     "texte": [
@@ -131,5 +132,11 @@
             "p La TovR.",
             "D’As ce i7. Ianajer1é649."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4"
     ]
 }

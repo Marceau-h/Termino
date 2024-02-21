@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "lettre",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "lettre",
+            "parodie"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-01-26",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "KA"
         },
         "titre": "Lettre de La Raillère, prisonnier en la Conciergerie, à\n          Catelan, à Saint-Germain-en-Laye.",
         "dates": {
@@ -20,8 +24,10 @@
             "#text": "8 juin 2021"
         },
         "author": {
+            "@role": "speaker",
+            "@ref": "viaf:118157883028860442880",
             "persName": {
-                "name": "La Raillère"
+                "surname": "La Raillère"
             }
         },
         "pubDate": {
@@ -36,6 +42,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000056700197",
+            "@xml:id": "IL_ColombelMathieu.xml",
             "persName": {
                 "forename": "Mathieu",
                 "surname": "Colombel"
@@ -46,20 +53,20 @@
     "texte": [
         [
             "LETTRE",
-            "RAIlRE",
-            "se",
-            "CATLAN",
-            "le ieſeiee eie"
+            "DE LA",
+            "RAILLERE",
+            "Prisoner enla Conciergerie",
+            "escrite",
+            "A",
+            "CATELAN",
+            "A Saint Germain en Laye",
+            "A PARIS",
+            "Chez Mathieu COLOMBEL, rue neufve S.",
+            "Anne du Palais, à la colombe royale",
+            "M. DC. XLIX",
+            "-tea"
         ],
         [
-            "e ¬ :",
-            "e as",
-            ". E A",
-            ".",
-            "5 . .",
-            "e",
-            "-tea",
-            ".",
             "i!",
             ",",
             "e u!",
@@ -296,5 +303,17 @@
             "lA iLLeE.",
             "5"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
     ]
 }

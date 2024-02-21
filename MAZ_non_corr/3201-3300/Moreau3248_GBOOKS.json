@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
         "titre": "Relation véritable de tout ce qui s'est fait et passé à\n          la prise des châteaux de Linchamp et Château Regnault, proche Charleville, par le marquis\n          de Noir-montier (sic), et la prise du sieur de Saint- Etienne fils, gouverneur, avec le\n          nombre de ceux qui ont été tués et blessés.",
         "dates": {
@@ -20,11 +24,11 @@
             "#text": "26 avril 2021"
         },
         "author": {
-            "@role": "attributed_author",
+            "@role": "alleged_author",
             "@source": "BL",
             "persName": {
-                "forename": "Louis",
-                "surname": "La Trémoille (de)"
+                "forename": "Louis de",
+                "surname": "La Trémoille"
             }
         },
         "pubDate": {
@@ -36,29 +40,31 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "@xml:id": "IL_SassierGuillaume.xml",
+            "@ref": "isni:0000000367213580",
+            "persName": {
+                "forename": "Guillayme",
+                "surname": "Sassier"
+            }
+        },
         "nbPages": "6"
     },
     "texte": [
         [
-            "A¬ -",
-            "1",
             "RELATION",
-            "E 1",
-            "J",
-            "re r y r",
             "VERITABLE DETOVT",
-            "ce qui s’eſt fait &amp; paſſé àA",
+            "ce qui s’eſt fait &amp; paſſé à",
             "la priſe des Chaſteaux de",
             "Linchamp &amp; Chaſteau-Re",
             "gnault, proche Charleuille,",
-            "par le Marquis de oir",
+            "par le Marquis de Noir¬",
             "montier, &amp; lapriſe du Sieur",
             "de Saint Eſtienne, fils, Gou",
             "uerneur, auec le nombre de",
             "ceux qui ont eſté tuez &amp;",
             "bleſſez.",
-            "t Roy ayant donné deux ordres pour",
+            "Le Roy ayant donné deux ordres pour",
             ", ſe ſaiſir des perſohnes de Meſieurs",
             "i desaine e enne pee &amp; fl Son",
             "ueeneurs des Chaſteaux Regnaule &amp;",
@@ -67,10 +73,7 @@
             "tegu, ilfur’ vefolu que l’on acberoit de ſe ſaiſe"
         ],
         [
-            "ſ ’",
-            ".",
-            "1",
-            "5.",
+            "3",
             "de la perſohe du fils, lequel faiſoit ſa demere",
             "ordiaire dans le village de Chaſteau Regnauld,",
             "&amp; qu’à cauſe qu’il alloit quelquefoiscoacheraiu1",
@@ -212,5 +215,13 @@
             ". opranaar de ’uri deorasapeoe",
             "Sorboans, as dea Toucetelle2."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
     ]
 }

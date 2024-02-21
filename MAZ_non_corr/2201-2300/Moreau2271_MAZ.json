@@ -2,7 +2,10 @@
     "imprimatur": null,
     "corrector": false,
     "entête": {
-        "form": "vers/prose",
+        "form": [
+            "vers",
+            "prose"
+        ],
         "handwritten_note": true,
         "table_of_content": false,
         "illustration": false,
@@ -44,6 +47,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121408134",
+            "@xml:id": "IL_VivenayNicolas.xml",
             "persName": {
                 "forename": "Nicolas",
                 "surname": "Vivenay"
@@ -649,5 +653,22 @@
             "que vous fait Monſieur le Prince ſoubs le",
             "hon plaiſir de S.A.R."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "17",
+        "18",
+        "19",
+        "21",
+        "22",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
     ]
 }

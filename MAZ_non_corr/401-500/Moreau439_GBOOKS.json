@@ -1,17 +1,18 @@
 {
-    "imprimatur": null,
+    "imprimatur": "AVEC PERMISSION.",
     "corrector": false,
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-06",
+            "@who": "AB"
         },
         "titre": "Avant courrier céleste (l'). Je suis avant courrier,\n          député dela Divinité, pour publier dans le ciel, témoigner à lamer et justifier à la terre\n          les énormités que la mer etle ciel produisent.",
         "dates": {
@@ -19,7 +20,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -32,9 +33,10 @@
         },
         "publisher": {
             "@ref": "isni:0000000110423830",
+            "@xml:id": "IL_LaVigneNicolasde.xml",
             "persName": {
-                "forename": "Nicolas",
-                "surname": "La Vigne, De"
+                "forename": "Nicolas de",
+                "surname": "La Vigne"
             }
         },
         "nbPages": "8"
@@ -42,24 +44,22 @@
     "texte": [
         [
             "L’AVANT.",
-            "DD D",
-            "VE",
+            "COVRRIER",
             "CELESTE.",
             "IE SVIS AVANT.",
-            "CORRIERDEPVTE DE",
+            "CORRIER, DEPVTE DE",
             "la diuinité pour publier dans le",
             "Ciel, teſmoigner à la Mer, &amp; iuſti¬",
             "fier à̀ la terre les enormitez que",
             "la Mer &amp; le Ciel produiſent.",
             "A PARIS,",
-            "mea eouAs E LA v1.",
-            "e s erre",
-            "Aee Raiss1o"
+            "Chez NICOLAS DE LA VIGNE,",
+            "prés Sainct Hilaire.",
+            "M. DC. XLIX.",
+            "AVEC PERMISSION."
         ],
         [
-            "2",
-            "oAAe ,ua ea uuql",
-            "e nrD 1",
+            "3",
             "L’AVANT COVRRIER",
             "CELESTE,",
             "c s",
@@ -243,7 +243,16 @@
             "Et chacun poſſeder les oreilles du Roy,",
             "Ce qu’ils diſent &amp; font ſa Maieſté le eroit,",
             "Et par tout ce n’eſt nen que foudre &amp; tempeſte.",
-            "FIN.."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

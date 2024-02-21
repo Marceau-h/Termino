@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-04-01",
         "change": {
             "@status": "not_corrected"
@@ -38,9 +37,10 @@
         },
         "publisher": {
             "@ref": "isni:0000000367182999",
+            "@xml:id": "IL_LeRoyClaude.xml",
             "persName": {
                 "forename": "Claude",
-                "surname": "Leroy"
+                "surname": "Le Roy"
             }
         },
         "nbPages": "7"
@@ -201,5 +201,14 @@
             "M iE o Bo v a o,",
             "11"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

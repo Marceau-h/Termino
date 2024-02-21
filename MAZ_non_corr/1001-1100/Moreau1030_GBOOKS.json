@@ -1,17 +1,18 @@
 {
-    "imprimatur": null,
+    "imprimatur": "AVEC PERMISSION.",
     "corrector": false,
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": true,
         "creation": "1649-03-22",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-07",
+            "@who": "AB"
         },
         "titre": "Dernières (les) actions et paroles de monsieur le\n          président de Barillon, décédé à Pignerol, le 30 août 1645, par le R. P. Antoine Rivière,\n          docteur de Paris, prieur et vicaire général du couvent de Saint-Augustin de Pignerol,\n          dédiées à monsieur l'Esné (sic), conseiller du roi et auditeur en sa chambre des comptes à\n          Paris.",
         "dates": {
@@ -19,12 +20,19 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1649",
-            "#text": "1649"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-04-07",
+                "#text": "achevé d'imprimer le 7 avril 1649"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -32,6 +40,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000120985669",
+            "@xml:id": "IL_MartinSebastien.xml",
             "persName": {
                 "forename": "Sebastien",
                 "surname": "Martin"
@@ -41,43 +50,30 @@
     },
     "texte": [
         [
-            "LE S",
-            "DERNIERES ACTIONS9",
+            "LES",
+            "DERNIERES ACTIONS",
             "ET PAROLES DE",
             "MONSIEVR LE PRESIDENT",
-            "1",
+            "DE",
             "BARILLON",
-            "I T",
             "DECEDE’A PIGNEROL",
             "LE TRENTIESME AOVST",
             "mil ſix cens quarante-cinq.",
-            "ARLE RPANTOINE RIPIERE.",
-            "Docteur de Paris, Prieur &amp; Vicaire Gener.l",
+            "PAR LE R. P. ANTOINE RIPIERE.",
+            "Docteur de Paris, Prieur &amp; Vicaire General",
             "au Conuent de S. Auguſtin, à Pignerol.",
-            "DED3 MSIEVEESNE",
-            "oi u n e e e ieairnu e i e eie",
-            "des Compres à̀ Paris.",
-            "ee",
-            "asas",
-            "PARIS,",
-            "Chez SBASTIE MATI, ré S. Iean de Latran,",
+            "DEDIEES A MONSIEVR L'ESNE,",
+            "Conſeiller du Roy, &amp; Auditeur en ſa Chambre",
+            "des Comptes à̀ Paris.",
+            "A PARIS,",
+            "Chez SEBASTIEN MARTIN, ruë S. Iean de Latran,",
             "prés le College Royal.",
             "M. DC. XLIX.",
-            "AVEC PE RISSION."
+            "AVEC PERMISSION."
         ],
         [
-            "dle ue lai o e Faii l en enſr t",
-            "ſuln en e le en ſe e il iſle e pee eoeſele",
-            "lru edeidre dus F ur d pe ſene reiſln",
-            "a Anermnt aeude, e pu",
-            "9"
-        ],
-        [
-            "&amp;s",
-            "epA",
-            "ss",
+            "3",
             "LES DERNIERES ACTIONS",
-            "r",
             "&amp; Paroles de Monſieur le Preſident de Baril",
             "lon, decedé à Pignerol, le trentieſme Aouſt mil",
             "ſix cens quaarante-cinq.",
@@ -1029,5 +1025,38 @@
             "le 7. Auril 1649.",
             "¬¬"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32"
     ]
 }

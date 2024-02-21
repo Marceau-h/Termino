@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-07-20",
         "change": {
             "@status": "not_corrected"
@@ -23,7 +22,7 @@
             "@ref": "isni:0000000061512983",
             "persName": {
                 "forename": "Jean-François",
-                "surname": "Gondi (De)"
+                "surname": "Gondi de"
             }
         },
         "pubDate": {
@@ -37,6 +36,7 @@
             "#text": "Paris"
         },
         "publisher": {
+            "@xml:id": "IL_VaillantNicolas.xml",
             "@ref": "isni:0000000122510296",
             "persName": {
                 "forename": "Nicolas",
@@ -574,5 +574,15 @@
             "l vn¬",
             "NE"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

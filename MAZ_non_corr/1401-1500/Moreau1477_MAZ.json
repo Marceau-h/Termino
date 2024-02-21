@@ -48,6 +48,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000110472958",
+            "@xml:id": "IL_CharlesNoel.xml",
             "persName": {
                 "forename": "Noël",
                 "surname": "Charles"
@@ -258,5 +259,13 @@
             "de ſaint Hilaire.",
             "M DC. L."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
     ]
 }

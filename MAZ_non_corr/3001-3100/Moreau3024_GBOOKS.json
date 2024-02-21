@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-10-13",
         "change": {
             "@status": "not_corrected"
@@ -19,7 +18,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -31,6 +30,8 @@
             "#text": "Paris"
         },
         "publisher": {
+            "@ref": "viaf:120750791",
+            "@xml:id": "IL_ToussaintLaurent.xml",
             "persName": {
                 "forename": "Laurent",
                 "surname": "Toussaint"
@@ -183,5 +184,13 @@
             "ais l’Aſſemblée aà̀ Samedy proachai.",
             "."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
     ]
 }

@@ -32,7 +32,7 @@
             },
             {
                 "@ref": "isni:0000000119572170",
-                "persName": "France. Parlement de Bordeaux"
+                "orgName": "Parlement de Bordeaux"
             }
         ],
         "pubDate": {
@@ -47,6 +47,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000364426759",
+            "@xml:id": "IL_HototGilles.xml",
             "persName": {
                 "forename": "Gilles",
                 "surname": "Hotot"
@@ -143,5 +144,10 @@
             "uosſigné cespreſenues-ourdeauleeroas",
             "Signe Agençan. Hamnt."
         ]
+    ],
+    "pages_number": [
+        "7",
+        "9",
+        "10"
     ]
 }

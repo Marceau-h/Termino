@@ -24,7 +24,7 @@
         },
         "author": {
             "@ref": "isni:0000000123225884",
-            "persName": "France. Parlement de Bretagne"
+            "orgName": "Parlement de Bretagne"
         },
         "pubDate": [
             {
@@ -45,6 +45,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121259642",
+            "@xml:id": "IL_PreuverayFrancois.xml",
             "persName": {
                 "forename": "François",
                 "surname": "Preuveray"
@@ -176,5 +177,12 @@
             "Signé,",
             "MONNERAYE."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

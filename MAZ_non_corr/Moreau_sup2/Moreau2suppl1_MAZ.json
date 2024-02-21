@@ -11,13 +11,13 @@
             "@when": "2022-02-04",
             "@who": "AB"
         },
-        "titre": "À Mazarin, sonnet.",
+        "titre": "A Mazarin, sonnet.",
         "dates": {
             "@type": "file_creation",
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -28,14 +28,16 @@
                 "@source": "Carrier",
                 "@notBefore": "1649-03-15",
                 "@notAfter": "1649-03-31",
-                "#text": "deuxième quinzaine de mars 1649"
+                "#text": "deuxième quinzaine de\n            mars 1649"
             }
         ],
         "pubPlace": {
             "@source": "Mazarine",
             "#text": "Sans Lieu"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "1"
     },
     "texte": [
@@ -59,5 +61,8 @@
             "Pour aſſeurer la Paix que vous croyez donner,",
             "Faites en plein Senat vn Ceſar de ce Iules."
         ]
+    ],
+    "pages_number": [
+        "10"
     ]
 }

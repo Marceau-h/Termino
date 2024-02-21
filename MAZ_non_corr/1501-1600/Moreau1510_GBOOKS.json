@@ -4,23 +4,32 @@
     "entête": {
         "form": "vers",
         "genre": "burlesque",
-        "subgenre": [
-            null,
-            null
+        "subject": [
+            "Beaufort, François de Bourbon-Vendôme, duc de, 1616-1669",
+            "Palais des Tuileries, Paris, France"
         ],
-        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-06-18",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-12",
+            "@who": "AB"
         },
-        "titre": "Le grand Gersay battu, ou La canne de monsieur de Beaufort au\n          festin du renard aux Thuilleries. En vers burlesques.",
+        "titre": "Le grand Gersay battu, ou La canne de monsieur de\n          Beaufort au festin du renard aux Thuilleries. En vers burlesques.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-05-25",
             "#text": "25 mai 2021"
         },
         "author": {
-            "persName": "T.N.Q.A"
+            "persName": {
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "T.N.Q.A"
+                }
+            }
         },
         "pubDate": {
             "@source": "Moreau",
@@ -32,24 +41,24 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "15"
     },
     "texte": [
         [
             "3",
-            "A",
             "LE GRAND GERSAY",
-            "E D",
             "battu, ou la Canne de Mon¬",
             "ſieur de Beaufort au Feſtin",
             "du Renard aux Thuilleries",
             "En vers Burleſques.",
-            "à u Muſe reveille-toy,",
-            "4 Viens vn peu jaſer aue moy;",
-            "H Il faut malgre noſtre Rouge-ae,",
-            "l Que ie caquete &amp; que ie jaſe.",
-            "raoe p-il encore pus meſchant,",
+            "HOLA Muſe reveille-toy,",
+            "Viens vn peu jaſer aue moy;",
+            "Il faut malgre noſtre Rouge-ae,",
+            "Que ie caquete &amp; que ie jaſe.",
+            "Fut-il encore plus meſchant,",
             "Plus rude &amp; de pied &amp; de dent:",
             "Parbieu n’importe, i’en veux dire;",
             "e ne puis m’empeſcher de rire",
@@ -417,11 +426,22 @@
             "Si tu deſire de le voir;",
             "De faire encor agir la canne",
             "Adieu Gerſay, TN. QA.",
-            "FIN.",
-            ".",
-            "s",
-            "1",
-            "l"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

@@ -3,23 +3,27 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
-        "subject": null,
+        "subject": "Princes de sang",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1651-02-28",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
-        "titre": "Relation de ce qui s'est passé à Bordeaux le mars 1651\n          sur la liberté de messieurs les princes.",
+        "titre": "Relation de ce qui s'est passé à Bordeaux le jour mars\n          1651 sur la liberté de messieurs les princes.",
         "dates": {
             "@type": "file_creation",
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1651",
@@ -29,23 +33,19 @@
             "@source": "Moreau",
             "#text": "Sans Lieu"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "4"
     },
     "texte": [
         [
-            "85",
-            "o Ao",
-            "r T",
-            "RELATIO",
             "I",
-            "T DA",
-            "DE CE QVI SES",
-            "¬ 85",
-            "lL LLO IL AOO",
-            "à Bordeaux le iour de Mars i6.",
-            "ſur laliberté deMeſsieurs les Princes",
-            "A iuſtification que l’innoceuce perſe",
+            "RELATION",
+            "DE CE QVI S'EST PASSE",
+            "à Bordeaux le iour de Mars 1651.",
+            "ſur laliberté de Meſsieurs les Princes",
+            "LA iuſtification que l’innoceuce perſe",
             "curée pour l’amour des peuples, ire de",
             "d Eeoee e oune eue e nen e e e i ee",
             "e ſi haut, que les plus mlins lont con",
@@ -172,9 +172,13 @@
             "deſcharge de leurs piſtolets, donnerent les eſperons aà̀",
             "jeni den e e ue edein r eruoine e ſene",
             "leurs cheuaux pour le ſuire ſur ces voyes, &amp; crois-je",
-            "frontieres.",
-            "1",
-            "aa,"
+            "frontieres."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4"
     ]
 }

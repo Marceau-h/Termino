@@ -4,29 +4,30 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-04-28",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Lettre d'avis à monseigneur le\n                                        duc de Beaufort sur l'importance de sa réunion avec monsieur\n                                        le coadjuteur contre le rétablissement du cardinal\n                                        Mazarin.",
+        "titre": "Lettre d'avis à monseigneur le duc de Beaufort sur\n          l'importance de sa réunion avec monsieur le coadjuteur contre le rétablissement du\n          cardinal Mazarin.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-06-08",
             "#text": "8 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
             "#text": "1652"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "38"
     },
     "texte": [
@@ -73,8 +74,7 @@
             "1648. &amp; de la violer dans les deux pnncipaux aricles",
             "qui tegardent la ſeureué publique, &amp; leyiopohuu¬",
             "es entas, comme ils ons adaaesaot pourinſtlt)",
-            "a violence &amp; l’oppreſſion dans l’Eſtat, &amp;e ne fait",
-            "pasſeu¬",
+            "a violence &amp; l’oppreſſion dans l’Eſtat, &amp;e ne fait pasſeu¬",
             "lement perre aux peuples les eſperaaces qu’iluoient",
             "conceu, &amp; fondoien dans ecete vaion que leueeoadi¬",
             "ion deuiendroitencor meilleure par l’Aſemblés ds",
@@ -165,12 +165,10 @@
             "aaaall"
         ],
         [
-            "uernement, &amp; de la iuſtice daas les leuées &amp;",
-            "impoſitions",
+            "uernement, &amp; de la iuſtice daas les leuées &amp; impoſitions",
             "pat la mort du deffunt Cardnal de Richelieu, elle auoit",
             "commencé à reſpirer apres vne ſi longue &amp; faſcheuſe",
-            "oppreſſion, &amp;e à iouir de ſa libesté, &amp; s’eſtoit",
-            "principa¬",
+            "oppreſſion, &amp;e à iouir de ſa libesté, &amp; s’eſtoit principa¬",
             "leent ûſattée que ſa mort apporteroit la fin de la guer¬",
             "e, que ſa ſeule ambition &amp; auarice ons allamé dans",
             "touae la Chreſtienté: mais le Cardial Mazarim auquel",
@@ -337,8 +335,7 @@
             "a vie poar le ſalat de ſon troupea, ll fceut que cette",
             "ylle eſtoit extraordinarement émeuë par cet horrible",
             "attentat contre la liberté de leurs Magiſtrats, qui luy",
-            "etoient chers &amp;c precieux oor leur vertu &amp; integrité",
-            "in.",
+            "etoient chers &amp;c precieux oor leur vertu &amp; integrité in.",
             "eorruptible, &amp; n’auoient polnt d’autre crime que d’auoir",
             "reſiſté fortement à l’oppreſſion de tous les peuples, ſou¬",
             "ſtenu auec vigueur leurs lntereſts, &amp; derandé l’execu¬",
@@ -949,8 +946,7 @@
             "ſouerain aec ſeſujets,laquelle le rend eõmévrrpan",
             "inexpugnable, &amp; auſſi fort ue ce f’aiſeau deſete quon",
             "ne peut rompre, &amp; que dans ſa diuiſiô il tromte ſatuyfle,",
-            "ononme regrnans i ſe diui fms dr ſ la ’rur &amp; domus ſapra",
-            "de¬",
+            "ononme regrnans i ſe diui fms dr ſ la ’rur &amp; domus ſapra de¬",
             "mum lidir, ode meſme vne ſocieté n’eſt fone que",
             "dans l’vnion parfte- des aſſocie, &amp; venant à ſe diuiſet",
             "elle ſe perd, ne pouu ant plusſupporter les attaques qu’ou",
@@ -1304,5 +1300,45 @@
             "11",
             ".¬¬¬Al"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38"
     ]
 }

@@ -4,28 +4,22 @@
     "entête": {
         "form": "prose",
         "genre": "non renseigné",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
             "@status": "corrected",
             "@when": "2021-11-08",
             "@who": "GL"
         },
-        "titre": "Départ (le) de messieurs les députés des six\n                    corps de marchands de cette ville de Paris, hors la ville de Pontoise, dans\n                    lequel, outre la réception que le roi leur a faite, est la réponse qu’il a faite\n                    par écrit aux sieurs Le Vieux et Piètre, procureur du roi en l’hôtel-de-ville,\n                    la déclaration du roi en faveur des bourgeois, et un sommaire de sa réponse par\n                    écrit aux députés des six corps de marchands.",
+        "titre": "Départ (le) de messieurs les députés des six corps de\n          marchands de cette ville de Paris, hors la ville de Pontoise, dans lequel, outre la\n          réception que le roi leur a faite, est la réponse qu’il a faite par écrit aux sieurs Le\n          Vieux et Piètre, procureur du roi en l’hôtel-de-ville, la déclaration du roi en faveur des\n          bourgeois, et un sommaire de sa réponse par écrit aux députés des six corps de\n          marchands.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -38,6 +32,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000001599095",
+            "@xml:id": "IL_ChrestienAntoine.xml",
             "persName": {
                 "forename": "Antoine",
                 "surname": "Chrétien"
@@ -270,8 +265,18 @@
             "ne de ſa ajeſté, à qui i’ay ouy dire depuis le depart de",
             "ces Meſſieurs, qu’il eſtoit tres-ſarisfais d’eux, qu’il fal¬",
             "loit auſſi taſcher de les ſatisfaire, en les garentiſſant de",
-            "l’oppreſſion en laquelle ils eſtoient. FI N.",
-            "al"
+            "l’oppreſſion en laquelle ils eſtoient.",
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

@@ -4,22 +4,21 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-08-07",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Le recit veritable de tout ce qui s'est fait & passé à la\n          prise du pont de Charenton, par les troupes de son Altesse Royale, sous la conduite de\n          monsieur de Briolle mareschal de camp, où tous ceux qui y estoient ont esté faits\n          prisonniers.",
+        "titre": "Le recit veritable de tout ce qui s'est fait &\n          passé à la prise du pont de Charenton, par les troupes de son Altesse Royale, sous la\n          conduite de monsieur de Briolle mareschal de camp, où tous ceux qui y estoient ont esté\n          faits prisonniers.",
         "dates": {
             "@type": "file_creation",
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -31,6 +30,7 @@
             "#text": "Paris"
         },
         "publisher": {
+            "@xml:id": "IL_LefevrePhilippe.xml",
             "persName": {
                 "forename": "Philippe",
                 "surname": "Le Fèvre"
@@ -257,5 +257,13 @@
             "1",
             "EIN..."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
     ]
 }

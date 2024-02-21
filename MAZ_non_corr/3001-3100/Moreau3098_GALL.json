@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-04-11",
         "change": {
             "@status": "not_corrected"
@@ -19,7 +18,7 @@
             "@when": "2021-04-20",
             "#text": "20 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -31,9 +30,11 @@
             "#text": "Paris"
         },
         "publisher": {
+            "@xml:id": "IL_BelleyJacques.xml",
+            "@ref": "viaf:216249560",
             "persName": {
                 "forename": "Jacques",
-                "surname": "Bellay"
+                "surname": "Belley"
             }
         },
         "nbPages": "8"
@@ -278,5 +279,15 @@
             "conſerteez que celle cy.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

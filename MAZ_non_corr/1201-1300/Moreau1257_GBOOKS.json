@@ -12,18 +12,13 @@
             "@when": "2021-11-15",
             "@who": "AB"
         },
-        "titre": "Entretiens (les) sérieux de Jodelet et de Gilles\n                    le niais, retourné de Flandre, sur le temps présent.",
+        "titre": "Entretiens (les) sérieux de Jodelet et de Gilles le\n          niais, retourné de Flandre, sur le temps présent.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": [
             {
                 "@source": "Moreau",
@@ -42,10 +37,7 @@
             "#text": "Paris"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "8"
     },
@@ -217,5 +209,14 @@
             "tures.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

@@ -13,23 +13,25 @@
             "@when": "2021-11-10",
             "@who": "AB"
         },
-        "titre": "Dernière (la) réponse du roi, faite par le garde\n                    des sceaux, à messieurs les députés du parlement de Paris en la ville de Melun,\n                    le 3 juin 1652.",
+        "titre": "Dernière (la) réponse du roi, faite par le garde des\n          sceaux, à messieurs les députés du parlement de Paris en la ville de Melun, le 3 juin\n          1652.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-06-03",
+                "#text": "3 juin 1652"
             }
-        },
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1652-06-03",
-            "#text": "3 juin 1652"
-        },
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -55,7 +57,7 @@
             "DV PARLEMENT DE PARIS.",
             "En la Ville de Melun le 3. Iuin 1652.",
             "A PARIS",
-            "Chez ANTOINE LE NOBLEs ruë́ S/ Iacques",
+            "Chez ANTOINE LE NOBLEs ruë́ S. Iacques",
             "M. DC. LII."
         ],
         [
@@ -243,5 +245,13 @@
             "ne voulant entendre à aucune proſition de Paix,",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

@@ -17,7 +17,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -38,6 +38,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000063027789",
+            "@xml:id": "IL_MorlotClaude.xml",
             "persName": {
                 "forename": "Claude",
                 "surname": "Morlot"
@@ -195,5 +196,11 @@
             "Chez CLAVDE MORLOT, ruë de la",
             "Bretonneie. 1649."
         ]
+    ],
+    "pages_number": [
+        "7",
+        "8",
+        "9",
+        "10"
     ]
 }

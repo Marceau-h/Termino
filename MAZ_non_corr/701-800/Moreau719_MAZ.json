@@ -17,7 +17,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -37,6 +37,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000110423830",
+            "@xml:id": "IL_LaVigneNicolasde.xml",
             "persName": {
                 "forename": "Nicolas de",
                 "surname": "La Vigne"
@@ -242,5 +243,13 @@
             "Malgré moy ae m’ent poiat chaſſé. A",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

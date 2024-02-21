@@ -4,10 +4,6 @@
     "entête": {
         "form": "prose",
         "genre": "non renseigné",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
@@ -40,11 +36,7 @@
             "#text": "Sans Lieu"
         },
         "publisher": {
-            "@ref": "isni:0000000",
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "4"
     },
@@ -182,5 +174,11 @@
             "Ville de paris, l’obeiſſance &amp; l’amour de ſes Peuples.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4"
     ]
 }

@@ -3,14 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit",
+            "liste"
         ],
-        "subject": null,
+        "subject": "Venise",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "AB"
         },
         "titre": "Relation de la victoire obtenue par les armées de la\n          sérénissime république de Venise sous le commandement de l'illustrissime et\n          excellentissime seigneur Jacques de Riva, capitaine des vaisseaux, contre l'armée\n          turquesque en Asie au port de Foquie, traduit d'italien en françois par N. D. F., et par\n          lui donnée à l'illurissime et excellentissime seigneur Michel Morosini, ambassadeur\n          ordinaire de ladite sérénissime république de Venise auprès du roi très-chrétien.",
         "dates": {
@@ -18,7 +23,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -32,6 +37,7 @@
         "publisher": {
             "@ref": "isni:0000000121209450",
             "@source": "BMLyon",
+            "@xml:id": "IL_EstienneAntoine.xml",
             "persName": {
                 "forename": "Antoine",
                 "surname": "Estienne"
@@ -41,25 +47,12 @@
     },
     "texte": [
         [
-            "Q",
-            "3",
-            "2",
-            "rQo",
-            "s",
-            "ps",
-            "as",
-            "pee&amp;e",
-            "e1",
-            "SEo, Ee",
-            "s",
-            "ePedlſres",
-            "L",
             "RELATION DE LA VICTOIRE",
             "obtenuë̈ par les armes de la Sereniſſime Republique de",
             "Veniſe ſous le commanmdement de l’Iluſtriſſme &amp;",
             "Excellentiſſme Seigneur Iacques de Riue, Capitaine en",
             "ſon Armée nauale, contre l’armée Turqueſque en Aſie",
-            "prés du Port Foquie, le 12. ay 16 49.",
+            "prés du Port Foquie, le 12. May 1649.",
             "E",
             "’In v sSr 1 c des armes Ottomanes contre",
             "la Republique de Veniſe, n’ayant eu pour ſa",
@@ -251,71 +244,14 @@
             "gn de la goire &amp;dcFhonneur",
             "ue laeques de Riue Capiraine peincipal, &amp; Bertuci Ciu",
             "na ſeoondiu oommandemee, i ouit eoeote le Oneies",
-            "Sue dun iunnrauneiue l ſeſinenuſs ie",
-            "¬.",
-            "1",
-            "11",
-            "l",
-            "li",
-            "i",
-            "8",
-            "1",
-            "E",
-            "1",
-            "e"
-        ],
-        [
-            "Gerome Battaglia. Iacques Bolani.",
-            "François Moroſni. George Polani.",
-            "François ragade.",
-            "Louis Querimi.",
-            "Z.Anthoine Mmaze. André Grity.",
-            "Mehe! Calergi.",
-            "ll y a long-temps qu’on n’a rermport de pareil aduanrag",
-            "ſur les aommuns ennemis de la hreſtienté, on onrendit gr",
-            "ces ſolermnellemonc à la diuine Bont6, de qui ſoula dopendu",
-            "I’heuraux ſuocez d’vns ſi menmorable &amp; miraouleux Exploit,",
-            "ſans que de noſtre coſtéil y ait eu que quinze ſoldats tuez, &amp;",
-            "enuiron 9o. hleſez..",
-            "Noſtre arméo fus obligée à ſejouner troisiours entiers,",
-            "apres ſa vittoire on veuë du meſme Port, pour ſa refaire das",
-            "choſes nsceſſaires, &amp; ſe remettre en haloins de la fatigu",
-            "paſſoe.",
-            "Les piſonners one rapporté, qu’il y auoit dix- ſept vaiſ",
-            "ſeaux Anglois on l’Iſle de Smyrne, que les Tures faiſoient deſ",
-            "ſein des eharger de ſoldats pour les onduirs en Candia, le",
-            "aitaino Riue tres- vigouroux &amp; tres-vigilt s’y raendit apres",
-            "ſa victoire, &amp; fit tant par ſss remonſtransas qas les Anglois",
-            "’en retourneront, apres luy auoir donné oe atiereſourei",
-            "dene plas ſeruir à l’interot des Turos.."
-        ],
-        [
-            "ſſâ"
-        ],
-        [
-            "Gerome Battagli. Iacques Bolani.",
-            "François Moroſiai. George Polani.",
-            "Francois Bragadi.",
-            "Louis Querini.",
-            "Z. Anthoine Muaze. André Griy.",
-            "Michel Calergi.",
-            "Il y a long-temps qu’on n’a remportié de pareil aduanrage",
-            "ſur les oommuns ennemis de la hreſtienté, on onrendit gr",
-            "ces ſolernellemont à la diuine Bonté, de qui ſeule a dopendu",
-            "l’heuroux ſuocez d’va ſi memsorable miraauleux Exploit,",
-            "ſans que de notrs coſtéily ait eu que quinze ſoldats ruez, &amp;",
-            "enuiron 9o. bleſez.",
-            "Noſtre armés fut obligée à ſejournet trois iours entiers,",
-            "apres ſa vittoire on veuë du meſae Port, pour ſe refaire des",
-            "ehoſes naceſſaires, &amp; ſe remettre en haloine de la fatigue",
-            "paſſée.",
-            "Les priſonniers on rapporté, qu’il y-auoir dix- ſepe vaiſ",
-            "ſeaux Anglois on l’Ile do Snyrne, que les Tures faiſoiene deſ",
-            "ſein de charger de ſoldats pour les eonduire en Candia, le",
-            "Gapitaine Riue tres- vigoureux &amp; tras-vigilx s’y rendit apres",
-            "ſa victoire, &amp; fit cant par ſes remonſtranses qoo les Anglos",
-            "’en rerourneront, apres luy auoir donné vn entiareſosei",
-            "dena plas ſeruair à l’interet des Tures.,.."
+            "Sue dun iunnrauneiue l ſeſinenuſs ie"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
     ]
 }

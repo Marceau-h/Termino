@@ -47,7 +47,9 @@
             "@source": "Mazarine",
             "#text": "Sans Lieu"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "16"
     },
     "texte": [
@@ -627,5 +629,22 @@
             "ne perdront rien quand ils l’auront perdü.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
     ]
 }

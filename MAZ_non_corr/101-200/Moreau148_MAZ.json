@@ -42,9 +42,10 @@
         },
         "publisher": {
             "@ref": "isni:0000000108989536",
+            "@xml:id": "IL_HenaultJean.xml",
             "persName": {
                 "forename": "Jean",
-                "surname": "Henault"
+                "surname": "Hénault"
             }
         },
         "nbPages": "7"
@@ -164,5 +165,12 @@
             "MERIGOT.",
             "FINIS."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

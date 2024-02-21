@@ -4,11 +4,10 @@
     "entête": {
         "form": "vers",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-04-30",
         "change": {
             "@status": "not_corrected"
@@ -37,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000110403338",
+            "@xml:id": "IL_LangloisDenis.xml",
             "persName": {
                 "forename": "Denys",
                 "surname": "Langlois"
@@ -386,5 +386,18 @@
             "Vous payerez la debte entiere.",
             "2"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
     ]
 }

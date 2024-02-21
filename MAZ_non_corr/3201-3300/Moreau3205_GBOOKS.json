@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-10-13",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
         "titre": "Relation véritable de ce qui s'est fait et passé en\n          Parlement, le lundi 14 octobre 1652, en présence de Son Altesse Royale et de plusieurs\n          ducs et pairs de France, avec la déclaration de Son Altesse Royale et de M. le duc de\n          Beaufort pour l'éloignement sans retour des gens de guerre.",
         "dates": {
@@ -19,20 +23,30 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1652",
-            "#text": "1652"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-10",
+                "#text": "octobre 1652"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
             "#text": "Paris"
         },
         "publisher": {
-            "@source": "BEB",
+            "@role": "dubious",
+            "@ref": "viaf:120750791",
+            "@xml:id": "IL_ToussaintLaurent.xml",
             "persName": {
+                "forename": "Laurent",
                 "surname": "Toussaint"
             }
         },
@@ -41,26 +55,19 @@
     "texte": [
         [
             "RELATION",
-            "H",
-            "T",
-            "oies elan",
+            "VERITABLE",
+            "DE TOVT CE QVI",
+            "S'EST FAIT ET PASSÉ",
             "EN PARLEMENT,",
-            "le Landy 14 Otobre ia",
+            "le Lundy 14 Octobre 1652.",
             "En preſence de ſon Alt. Royale,",
             "&amp; pluſieurs Duc &amp; Pairs de France.",
-            "e.Eeeeee",
-            "de ſon . R. &amp; de ſonſieur le ue de eufort, pour",
-            "l’eloignement, ſans retour, des gens de guerre."
-        ],
-        [
-            "e",
-            "J i",
-            ",..",
-            "T aaue",
-            "’.",
-            "1",
-            "L",
-            "nnoo Gogle"
+            "AVEC LES DECLARATIONS",
+            "de ſon 1. R. &amp; de Monſieur le Duc de Beaufort, pour",
+            "l’eloignement, ſans retour, des gens de guerre.",
+            "A PARIS,",
+            "Chez LAVRENT TOVSSAINT.",
+            "M. DC. LII."
         ],
         [
             "8",
@@ -184,5 +191,19 @@
         [
             "a"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "10",
+        "12",
+        "14",
+        "15",
+        "16"
     ]
 }

@@ -3,23 +3,27 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "burlesque",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "burlesque",
+            "pamphlet"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-03-15",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-08",
+            "@who": "AB"
         },
-        "titre": "Le festin de la paix et de la guerre interrompu. En vers\n          burlesques.",
+        "titre": "Le festin de la paix et de la guerre interrompu. En\n          vers burlesques.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-05-25",
             "#text": "25 mai 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -32,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000120985669",
+            "@xml:id": "IL_MartinSebastien.xml",
             "persName": {
                 "forename": "Sébastien",
                 "surname": "Martin"
@@ -41,17 +46,11 @@
     },
     "texte": [
         [
-            "1",
-            "dbas",
-            "e!",
-            "7",
-            "c 7 7",
-            "LE FESTIN DE LA PAIX E",
-            "7",
-            ".",
+            "3",
+            "LE FESTIN DE LA PAIX ET",
             "de la Guerre iterrompu.",
             "En vers Burleſques.",
-            "A gue rre &amp; la paixbons amis,",
+            "LA guerre &amp; la paixbons amis,",
             "é Se trouuerentau lieu promis,",
             "E C’eſtoit au fond d’vne cui ſine",
             "Pour enſemble y boire chopine,",
@@ -566,7 +565,22 @@
             "Ris-toy de m’auor attrapée",
             "Mais craint qus cu ae ſois dompté",
             "Adieu.",
-            "1 N."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

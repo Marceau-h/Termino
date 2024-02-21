@@ -1,17 +1,22 @@
 {
-    "imprimatur": null,
+    "imprimatur": "AVEC PERMISSION.",
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "courrier",
+            "harangue"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": true,
         "creation": "1649-02-19",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-19",
+            "@who": "AB"
         },
         "titre": "Courrier (le) étranger, contenant la lettre decréance que\n          l'archiduc Léopold a envoyée à messieurs de la cour du parlement de Paris, ensemble ce qui\n          s’est passé en ladite cour sur le même sujet, et la harangue faite par messieurs les gens\n          du roi à Saint-Germain-en- Laye.",
         "dates": {
@@ -19,12 +24,25 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1649",
-            "#text": "1649"
+        "author": {
+            "@ref": "isni:0000000121391096",
+            "persName": {
+                "forename": "Léopold-Guillaume de",
+                "surname": "Habsbourg"
+            }
         },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-02",
+                "#text": "février 1649"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -33,12 +51,14 @@
         "publisher": [
             {
                 "@ref": "isni:0000000121202363",
+                "@xml:id": "IL_AlliotGervais.xml",
                 "persName": {
                     "forename": "Gervais",
                     "surname": "Alliot"
                 }
             },
             {
+                "@xml:id": "IL_LangloisJacques.xml",
                 "@ref": "isni:0000000121179650",
                 "persName": {
                     "forename": "Jacques",
@@ -50,42 +70,31 @@
     },
     "texte": [
         [
-            "r",
-            "II",
-            "1 H H",
-            "LE CVIILI",
-            "1",
+            "LE COVRRIER",
             "ESTRANGER,",
             "CONTENANT",
             "LA LETTRE DE CREANCE",
             "QVE L’ARCHIDVC",
             "LEOPOLDE",
-            "A ENVOY EE",
+            "A ENVOYEE",
             "A Meſſieurs de la Cour du Parlement",
             "de Paris.",
-            "Cnſemdle e qui ’eſt paſi en ladite Cour ſur le eſie",
-            "er &amp;rl Hlauanue fain par dafurs les",
+            "Enſemble ce qui s’eſt paßé en ladite Cour ſur le meſme",
+            "ſujet : &amp; la Harangue faite par Meßieurs les",
             "gens du Roy à S. Germain en Laye.",
-            "l",
             "A PARIS,",
-            "ruvs Au o, Marehanl libnie proene l",
-            "ans la Cour du Palais; &amp; en ſa",
-            "Capele S lMichl,",
-            "., moaſon rue S lean de laran à l Arore Veoyant",
-            "l eous l neu ols, lnormont du l e usl",
-            "e ponreine ſin oe Cceueui fue, dlaRene de aiu",
-            "AM c XxxX",
-            "AEC PERMISS I O N.",
-            "L.. .a¬.....2."
+            "Chez GERVAIS ALLIOT, Marchand Libraire, proche",
+            "la Chappelle S. Michel, dans la Cour du Palais; &amp; en ſa",
+            "maiſon ruë S. Iean de Latran, à l Arbre Verdoyant.",
+            "ET",
+            "IACQVES LANGLOIS, Imprimeur du Roy, vis à vis la",
+            "Fonteine ſaincte Geneuiefue, à la Reyne de Paix.",
+            "M. DC. XXXXIX.",
+            "AVEC PERMISSION."
         ],
         [
-            "L E",
-            "TE",
+            "LE",
             "COVRIER ESTRANGER.",
-            "¬TD T D",
-            "H",
-            "¬ l",
-            "H",
             "Contcenant la Lettre de Creance que l’Archidu Leo",
             "1",
             "pold a enuoýe a Meſieurs de la Cour du Palement de",
@@ -341,5 +350,14 @@
             "rendre reſponſe",
             "pour la faire à mo Maiſtre, Signé Dom loſepb dellleſca &amp; Arnolfny."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

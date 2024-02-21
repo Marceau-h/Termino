@@ -67,6 +67,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000364426759",
+            "@xml:id": "IL_HototGilles.xml",
             "persName": {
                 "forename": "Gilles",
                 "surname": "Hotot"
@@ -339,8 +340,9 @@
             "ſeroit d’ tant plus conſidere peur le beſoin qu’on aureit de luy; Ca ſte alors",
             "qu’il eſt derenu hberal de careſſes, plus qu’à ſn ordi re, &amp; qu’l a fait des re¬",
             "caerches coninuielles à tous les Gouveueuo de laces, &amp; à rous ceux qui p oſ¬",
-            "ſeden des chargrs de qu lquc conſu quence, ou qui ſons alleurez par des luiai¬¬ <pb",
-            "n=\"12\"/>",
+            "ſeden des chargrs de qu lquc conſu quence, ou qui ſons alleurez par des luiai¬¬"
+        ],
+        [
             "a",
             "1",
             ".¬",
@@ -401,8 +403,9 @@
             "route meſ-intellgencele fit pteſſer de s’expliquer nettement de ce qu’il deſiroie",
             "pourviure en repos &amp; dans ſon devoir: Surquoy a yant declarc qu’il a voit con¬",
             "ceu de l’ombtage de quelques aliances,( auſquelles neantmous il avoit non",
-            "ſeulement des las premiers jours qu’il en fui parlé, donné ſon conſeatemt, mais <pb",
-            "n=\"13\"/>",
+            "ſeulement des las premiers jours qu’il en fui parlé, donné ſon conſeatemt, mais"
+        ],
+        [
             "es avoit eoaſeillées lay meſme ſix mois du rant, eomme’les eSyant fort vûiles",
             "E ayant en pureeſmoigné ſouhaier que la Reine luy promſt vne ſineere &amp;",
             "enete affection, Comme auſſi de faire grande conſideration des peſonnmes quil",
@@ -460,8 +463,9 @@
             "a aniere d’agir im pe ueuſe e ruers les Minſtres qui ont l’honneur d’y aner,",
             "dont preſque aucun o’eſtoit plus exen p de menaets en particnlier, ou ’Lf",
             "n publie &amp; en noſtre preſence meſne, qand lcu ccnſcence &amp; leur devoir les",
-            "obligeoient a embraſſcr quelque aduis qui ne ſe trouuoit pas canfora.e a cele <pb",
-            "n=\"14\"/>",
+            "obligeoient a embraſſcr quelque aduis qui ne ſe trouuoit pas canfora.e a cele"
+        ],
+        [
             "1",
             "u",
             "p",
@@ -874,5 +878,19 @@
             "nſr Conſa. Fait a Paris, leao deſues i &amp; n, Sigm 2o s",
             "plas has D Gvs n 1 .."
         ]
+    ],
+    "pages_number": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
     ]
 }

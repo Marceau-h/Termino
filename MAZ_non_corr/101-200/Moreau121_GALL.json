@@ -16,18 +16,13 @@
             "@when": "2021-11-12",
             "@who": "AB"
         },
-        "titre": "Apologie pour la défense du cardinal\n                    Mazarin.",
+        "titre": "Apologie pour la défense du cardinal Mazarin.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": [
             {
                 "@source": "Moreau",
@@ -45,10 +40,7 @@
             "#text": "Sans Lieu"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "10"
     },
@@ -295,5 +287,16 @@
             "’eft pourquoy non diſcours ne vous doit pas d’eplaire",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "2",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
     ]
 }

@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-08-18",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
         "titre": "Relation de Bordeaux contenant ce qui s'est passé, depuis\n          la sortie de nos chaloupes, entre l'armée du Parlement et celle du duc d'Épernon jusques\n          au 23 août.",
         "dates": {
@@ -19,61 +23,40 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1649",
-            "#text": "1649"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1649-08",
+                "#text": "pas avant août 1649"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:3031582",
             "@source": "Moreau",
             "#text": "Bordeaux"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "12"
     },
     "texte": [
         [
             "RELATION",
             "DE BORDEAVX.",
-            "e e e",
+            "CONTENANT CE QVI S'EST",
+            "paſſé depuis la ſortie de nos Chalou",
+            "pes entre l'Armée du Parlement",
             "&amp; celle du Duc d’Eſpernon",
-            "iuſques au 23;. Aouſt.",
-            "Vun",
+            "iuſques au 23. Aouſt.",
             "Imprimé́e à Bordeaux.",
-            "M. DC. XLIX.¬"
-        ],
-        [
-            "2",
-            "aaa,",
-            "l",
-            "e",
-            "¬2 .",
-            "l",
-            "e L . ¬",
-            "afa",
-            "¬, p ¬ sr.",
-            ".",
-            "’ e",
-            "lp",
-            "¬..",
-            "¬ 2i.",
-            "¬ e..",
-            "...!",
-            "-",
-            ".",
-            "..",
-            ".",
-            ". a¬:.:",
-            "¬......",
-            ".",
-            ".1.",
-            "¬",
-            "Aé",
-            "2",
-            "oaaGoogle",
-            "1"
+            "M. DC. XLIX."
         ],
         [
             "ig&amp;y",
@@ -356,8 +339,20 @@
             "pelé le Marquis de Luſignan, par l’eſperente",
             "qu’il ade la ionction prochaine de ſes deux Ar",
             "mées.",
-            "l on",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
     ]
 }

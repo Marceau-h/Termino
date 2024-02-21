@@ -43,7 +43,9 @@
             "@ref": "geonames:2988507",
             "#text": "Paris"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "22"
     },
     "texte": [
@@ -255,8 +257,9 @@
             "ifui ſoigreuſement ſa piee, le vous ay dit ces veruez de la pat du Cler",
             "ge de voſtre Royaume, ie me ſens forcé par vn nſtint ſecret de les repetc!",
             "ncore auiourd’uy à voſtre Maieſté́ de la part de Dieu, non pour vouse¬",
-            "horter à̀ l’obeiſſance que vous luy deuez, de laquelle l’auguſte Sang qui cou¬ <pb",
-            "n=\"15\"/>",
+            "horter à̀ l’obeiſſance que vous luy deuez, de laquelle l’auguſte Sang qui cou¬"
+        ],
+        [
             "le dans vos vaines, &amp; ce beau naturel que l’Eurepe admire dans les com¬",
             "mencemens de voſttevie, nevous permettront iamais de vous en diſpen¬",
             "ſer, mais pour prendre ſur ce fond vn iuſte ſuict de vous expliquer en peu de",
@@ -609,5 +612,18 @@
             "a",
             "er-e¬"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
     ]
 }

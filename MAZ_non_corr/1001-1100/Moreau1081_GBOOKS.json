@@ -12,7 +12,7 @@
             "@when": "2021-11-12",
             "@who": "AB"
         },
-        "titre": "Dialogue (le) de la fortune et des habitants du\n                    collège des trésoriers, fait par Georges Pileur.",
+        "titre": "Dialogue (le) de la fortune et des habitants du collège\n          des trésoriers, fait par Georges Pileur.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
@@ -35,10 +35,7 @@
             "#text": "Sans Lieu"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "10"
     },
@@ -272,5 +269,16 @@
             "grande, &amp; qu’elle oous enuoye aà̀ tous jamais a pa¬",
             "trs, où vous couduiſe."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
     ]
 }

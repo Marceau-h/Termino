@@ -3,14 +3,18 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
         "titre": "Relation véritable de tout ce qui s'est passé à la marche\n          de l'armée de monseigneur le duc de Beaufort et les avantages qu'il a déjà remportés sur\n          les Mazarins.",
         "dates": {
@@ -18,7 +22,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "#text": "Sans Date"
@@ -30,6 +34,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000106549641",
+            "@xml:id": "IL_LalemantPierre.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "L'Allemant"
@@ -42,25 +47,20 @@
             "RELATION",
             "VERITABLE.",
             "DE TOVT CE QVI SEST PASSE",
-            "ALAMARCHE DE L’ARMEE",
+            "A LA MARCHE DE L’ARMEE",
+            "DE",
             "MONSEICGNEVR",
             "LE DVC",
+            "DE",
             "BEAVFORT",
             "Et les aduantages qu’il a deſia",
             "remportez ſur les Mazarins.",
-            "oma einan e ean neinr lin"
+            "A PARIS,",
+            "Chez Iean l'Allemant, à la Montagne ſainte",
+            "Geneuieue, au Paon Royal."
         ],
         [
-            ".",
-            ".",
-            "¬",
-            "’",
-            ":,",
-            "l"
-        ],
-        [
-            "u&amp;, , &amp;, ,&amp;",
-            "Qg&amp;leupdp’q",
+            "3",
             "RELTIO VERITASLE,",
             "de ce qui s’eft paſsé à la marche de l’armée de",
             "Manſeigneur le Duc de eaafort, &amp; les",
@@ -212,5 +212,13 @@
             "principalement de Paris par vne paix generale.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

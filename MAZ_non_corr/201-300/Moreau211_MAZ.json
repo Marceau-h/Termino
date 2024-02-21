@@ -23,7 +23,7 @@
         },
         "author": {
             "@ref": "isni:0000000121755355",
-            "persName": "France. Parlement de Paris"
+            "orgName": "Parlement de Paris"
         },
         "pubDate": [
             {
@@ -44,6 +44,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Guillemot"
@@ -164,5 +165,11 @@
             "l’Egliſe Sainte Magdeleine,",
             "M. DC. XLVIII."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11",
+        "12"
     ]
 }

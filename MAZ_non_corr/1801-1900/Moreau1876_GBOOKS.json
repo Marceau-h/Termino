@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-02-11",
         "change": {
             "@status": "not_corrected"
@@ -20,7 +19,12 @@
             "#text": "8 juin 2021"
         },
         "author": {
-            "name": "V.V."
+            "persName": {
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "V. V."
+                }
+            }
         },
         "pubDate": {
             "@source": "Moreau",
@@ -34,6 +38,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000109126804",
+            "@xml:id": "IL_CotinetArnoul.xml",
             "persName": {
                 "forename": "Arnould",
                 "surname": "Cotinet"
@@ -424,5 +429,18 @@
             "ſe donne voftre Alteſſe, nous fa",
             "ſoas fort boane chere."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
     ]
 }

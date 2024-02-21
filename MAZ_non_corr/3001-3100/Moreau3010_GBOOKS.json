@@ -4,22 +4,21 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Recit veritable de ce qui c'est passé de plus considerable au\n          parlement de Paris, & ce qui a esté fait par son ordre, pour le service du Roy, depuis\n          l'enlevement de sa Majesté, fait le 6. janvier 1649.",
+        "titre": "Recit veritable de ce qui c'est passé de plus\n          considerable au parlement de Paris, & ce qui a esté fait par son ordre, pour le\n          service du Roy, depuis l'enlevement de sa Majesté, fait le 6. janvier 1649.",
         "dates": {
             "@type": "file_creation",
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -30,7 +29,9 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "7"
     },
     "texte": [
@@ -215,5 +216,15 @@
             "ſe joindroit volontiers aux intereſts duPar",
             "lement de Paris."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

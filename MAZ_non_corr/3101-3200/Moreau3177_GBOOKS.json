@@ -3,15 +3,22 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
-        "subject": null,
+        "subject": [
+            "Prince de Condé",
+            "Parlement de Paris"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-04-11",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "AB"
         },
         "titre": "Relation sommaire et véritable de tout ce qui s'est passé\n          au Parlement dans les deux dernières assemblées tenues les vendredi et samedi 12 et 13\n          d'avril, en présence et avec les suffrages de messeigneurs les duc d'Orléans et prince de\n          Condé.",
         "dates": {
@@ -19,12 +26,19 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1652",
-            "#text": "1652"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1652-04",
+                "#text": "pas avant avril 1652"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -32,6 +46,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000359773502 ",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
             "persName": {
                 "forename": "Veuve de Jean",
                 "surname": "Guillemot"
@@ -42,70 +57,24 @@
     "texte": [
         [
             "RELATION",
-            "T",
             "S OMMAIRE",
             "ET VERITABLE",
             "DE TOVT CE QVI",
             "s’eſt paſſé au Parlement dans",
             "les deux dernieres Aſſemblées,",
             "tenuës les Vendredy &amp; Same",
-            "dy12. &amp; 13, d’Auril, en preſence",
+            "dy 12. &amp; 13, d’Auril, en preſence",
             "&amp; auec les ſuffrages de Meſſei",
             "gneurs les Ducs d’Orleans, &amp;",
             "Prince de Condé",
-            "u uat d vuae i co n ruue rd",
-            "Marnmo",
-            "oaune r e enree"
+            "A PARIS,",
+            "DE L'IMPRIMERIE de la Veufue I. GVILLEMOT, ruë des",
+            "Marmouzets, proche l'Egliſe de la Magdeleine.",
+            "M. DC. LII."
         ],
         [
-            "a. .",
-            "1",
-            "a!",
-            "E1",
-            "’ e",
-            "e",
-            "a.’",
-            ".3.",
-            ".",
-            ".¬.",
-            "1",
-            ".",
-            ",",
-            "11 1",
-            ".",
-            "1",
-            ".¬.",
-            "n",
-            "1!",
-            "all",
-            ".",
-            "!’",
-            "i",
-            "ht’",
-            "22:",
-            "hfs.",
-            ".",
-            "1¬1",
-            "ſi.iai",
-            ",",
-            ".A",
-            "1",
-            "a al n",
-            "Pads.:.",
-            "7..",
-            "dda¬ ?",
-            "l ae ’ !’",
-            "e ea¬.",
-            "omt",
-            "ATT,",
-            "L-",
-            ", Ja",
-            "!..",
-            "nnoGoogle"
-        ],
-        [
-            "0",
-            "RELATION SoO.",
+            "3",
+            "RELATION SOM",
             "maire &amp; veritable de tout",
             "ce qui s’eſt paſſé au Parle",
             "ment dans les deux der",
@@ -523,5 +492,22 @@
             "e lvoe",
             "2"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

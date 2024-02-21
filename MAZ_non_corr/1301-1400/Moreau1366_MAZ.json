@@ -17,7 +17,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -34,7 +34,9 @@
             "@source": "Mazarine",
             "#text": "Sans Lieu"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "12"
     },
     "texte": [
@@ -517,5 +519,19 @@
             "mm¬",
             "3"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
     ]
 }

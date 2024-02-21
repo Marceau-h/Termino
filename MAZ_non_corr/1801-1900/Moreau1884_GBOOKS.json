@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1651-07-20",
         "change": {
             "@status": "not_corrected"
@@ -32,7 +31,9 @@
             "#text": "1651"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "11"
     },
     "texte": [
@@ -365,5 +366,18 @@
             "dans Paris, que i’auray ſoin de leurs fortunes.",
             "F I N."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
     ]
 }

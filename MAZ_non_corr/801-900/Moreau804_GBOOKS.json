@@ -12,18 +12,13 @@
             "@when": "2021-11-18",
             "@who": "AB"
         },
-        "titre": "Coup (le) d’État ou le Vrai manifeste de\n                    monseigneur de Longueville, envoyé à Son Altesse Royale, sur le retour du\n                    cardinal Mazarin au conseil de Sa Majesté.",
+        "titre": "Coup (le) d’État ou le Vrai manifeste de monseigneur de\n          Longueville, envoyé à Son Altesse Royale, sur le retour du cardinal Mazarin au conseil de\n          Sa Majesté.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -36,6 +31,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000066450734",
+            "@xml:id": "IL_CailloueJacques.xml",
             "persName": {
                 "forename": "Jacques",
                 "surname": "Cailloué"
@@ -239,5 +235,13 @@
             "quoy qu’il ſemble que la Vertu d’vn l’rince éclatte",
             "moins lors que les Sceptres luy ſont deus pat le ſeul"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
     ]
 }

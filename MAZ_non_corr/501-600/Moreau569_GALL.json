@@ -3,14 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Poésie à forme fixe",
+            "Ballade"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-08-26",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-15",
+            "@who": "AB"
         },
         "titre": "Ballades servant à l’histoire des troubles advenus en\n          Berry.",
         "dates": {
@@ -18,7 +23,7 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -29,73 +34,31 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
         [
-            "T",
-            "1 !",
-            "lA!",
-            "HALHA D",
-            "25.",
+            "BALADES",
             "SERVANT A L’HISTOIRE",
             "DES TROVBLES ADVENVS",
-            "E",
-            "9",
-            "¬",
-            "7.",
-            "641",
+            "EN",
             "BERRY.",
-            "8",
-            "PARIS,",
-            ". C. L11.",
-            "&amp;"
-        ],
-        [
-            "¬. a",
-            "r",
-            "-",
-            "¬.",
-            "¬ ¬",
-            ".¬",
-            "¬..",
-            "n.",
-            ", -",
-            "g",
-            "¬",
-            "l",
-            "e",
-            "¬",
-            "1",
-            "2¬.... .¬",
-            "as.?",
-            "a",
-            "S",
-            "o0"
+            "APARIS,",
+            "M. DC. LII."
         ],
         [
             "3",
-            "ogr epſe u e edr dp",
-            "2S2.",
-            "6.",
-            "e ſqo ldep ſdeetleleee l??",
-            ". A",
-            "e¬",
-            "E",
-            "II CTTD",
-            "7 re A",
-            "D7T A",
+            "BALADES",
             "SERVANT A L’HISTOIRE",
             "DES TROVBLES ADVENVS",
-            "T D D7",
-            "LNADL L L.",
-            ", - ¬",
+            "EN BERRY",
             "SVR L’ARRIVE’E DE MONSIEVR",
             "le Prince à Bourges, au mois",
-            "de Septembre16;1.",
-            "ORS que le Grand onde de Paris s’alſCnta,",
-            "T",
+            "de Septembre 1651.",
+            "LORS que le Grand onde de Paris s’abſenta,",
             "Et ne oulut pas ſre à la Majorité,",
             "Iaignit iuſlement d’eſtre encore arreſté",
             "Et ſa prudence, ainſi, ce malheur éuita.",
@@ -253,9 +216,16 @@
             "S’il ut vn peu pluſloſt quelque ſecours receu,",
             "Palluau ne l’eut iamais obligé de ſe rendre,",
             "Enfim le temps à fait ce que Mar n’axroit peu.",
-            "FIN",
-            "leee",
-            "!"
+            "FIN"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

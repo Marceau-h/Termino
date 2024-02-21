@@ -4,13 +4,14 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-14",
+            "@who": "AB"
         },
         "titre": "Arrivée (l’) du septième courrier Bourdelois, apportant\n          le journal du siége de Bordeaux depuis son commencement jusqu’à la trève.",
         "dates": {
@@ -18,14 +19,16 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1650",
             "#text": "1650"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "16"
     },
     "texte": [
@@ -35,22 +38,17 @@
             "COVRIER",
             "BORDELOIS.",
             "APPORTANT",
-            "LE IOVRNA L",
-            "du ſiege de Pordeau depuis ſon",
+            "LE IOVRNAL",
+            "du ſiege de Bordeaux, depuis ſon",
             "commencement iuſques à",
             "la treve.",
-            "M. DC. L.",
-            "I8082-E",
-            "91"
+            "M. DC. L."
         ],
         [
-            "An,",
-            "ée ee à aHee- oeea ga3e",
-            "eiedé detſielattee’tedeeeateoé",
-            "’arriuée dau ſeptieſme Courier Bordelois,",
+            "L'arriuée du ſeptieſme Courier Bordelois,",
             "apportant le lournal du ſiege, depuis le",
-            "ommencement iuſaues à la treve.",
-            "’y O vs eſtes trop raiſonnables pour vous",
+            "commencement iuſaues à la treve.",
+            "VOVS eſtes trop raiſonnables pour vous",
             "ſ plaindre de moy, &amp; de m’aceuſer d’auoir",
             "retardeé ſi long temps la ſatisfaction que",
             "vous receuez maintenant de ſçauoir le ſuccez veri",
@@ -506,7 +504,7 @@
             "qu’il én eſtoit couuere, eſtant preſſe de ſe trouuet dans",
             "ſe Couſeil e uerre, ſe rendit eo eet eſtat qae canp",
             "ltiſoldis qui levitept enir plusolaioe qus vi oiulauen",
-            "ſe’mi ent a crier, h voyl Mazrin deeu Iean farine.,",
+            "ſe’mi ent a crier, h voyl Mazarin deuuenu Iean farine.,",
             "l’acheue en vous diſant que le ſeizieſme les Deputez.",
             "du Parlement de Paris &amp; eux dui Parlemeat de poreau",
             "arrietet dé la Cout a or deaux, &amp; firent publjet fon",
@@ -518,9 +516,25 @@
             "ureel Siu ferme &amp; plus ſtabſle qie ’ooi ee le precſq",
             "ees ’oa hous d el-deuaht aecotdeei , puii qe ſ eauſe,",
             "des aux de a Poüice &amp; ’obiet de l hadine des peupes,",
-            "deueue poſr ppdis eſeipt dus ſſiout delipuyenuer",
-            "..",
-            "."
+            "demeure pour iamais eſloigné du ſejour de la Guyenne.",
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

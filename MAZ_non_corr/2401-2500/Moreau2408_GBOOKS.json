@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-01-09",
         "change": {
             "@status": "not_corrected"
@@ -19,7 +18,7 @@
             "@when": "2026-04-26",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -29,7 +28,9 @@
             "@source": "Moreau",
             "#text": "Sans Lieu"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "15"
     },
     "texte": [
@@ -405,5 +406,20 @@
             "ele queeés Aagute Palenens a touſours",
             "naotnépourlebien de l’Eſtat.n1"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
     ]
 }

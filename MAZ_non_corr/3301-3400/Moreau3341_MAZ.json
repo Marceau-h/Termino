@@ -26,7 +26,7 @@
         },
         "author": {
             "@ref": "isni:0000000121755355",
-            "persName": "France. Parlement de Paris"
+            "orgName": "Parlement de Paris"
         },
         "pubDate": [
             {
@@ -47,6 +47,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
             "persName": {
                 "forename": "Jacob",
                 "surname": "Chevalier"
@@ -200,5 +201,13 @@
             "ſon Pere les deuoirs de pieteé, à quoy ſa naiſſance",
             "l’oblige"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

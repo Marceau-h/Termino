@@ -3,14 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Poésie à forme fixe",
+            "Ballade"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-07-20",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-15",
+            "@who": "AB"
         },
         "titre": "Ballades (les) servant à l’histoire, revues et\n          augmentées.",
         "dates": {
@@ -18,12 +23,27 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
+        "author": {
             "@source": "Moreau",
-            "@when": "1652",
-            "#text": "1652"
+            "@ref": "isni:0000000122493086",
+            "@role": "alleged_author",
+            "persName": {
+                "forename": "Jacques",
+                "surname": "Carpentier de Marigny"
+            }
         },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-07",
+                "#text": "publié en juillet 1652 selon la note de\n            Moreau"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -31,6 +51,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121408134",
+            "@xml:id": "IL_VivenayNicolas.xml",
             "persName": {
                 "forename": "Nicolas",
                 "surname": "Vivenay"
@@ -41,17 +62,10 @@
     "texte": [
         [
             "LES",
-            "TV 7",
-            "ES",
-            "¬",
-            "¬",
+            "BALADES",
             "SERVANT",
             "A",
-            "TTI T T",
-            "1 HH 1",
-            "93",
-            "H.",
-            "L D L LA LL",
+            "L'HISTOIRE",
             "Reueues &amp; Augmentées.",
             "A PARIS,",
             "Chez NICOLAS VIVENAY, Imprimeur ordinaire",
@@ -59,77 +73,13 @@
             "M. DC. LII."
         ],
         [
-            ".¬",
-            "2¬ ¬",
-            "¬",
-            "!",
-            "¬¬",
-            "1",
-            ", a¬",
-            ".¬",
-            "¬.",
-            "¬",
-            ",",
-            "5.",
-            ". 2.",
-            "¬e",
             "3",
-            "2.",
-            "a¬",
-            "¬.3",
-            ".",
-            "¬",
-            "’A",
-            ".",
-            "..",
-            "¬ 4.",
-            "3 A",
-            "g¬4,",
-            ".¬.;",
-            "¬2",
-            ".....",
-            "..",
-            ".¬",
-            "2. . a",
-            "a",
-            ",",
-            "¬",
-            "4",
-            "1.",
-            "¬",
-            ".",
-            "¬",
-            "1",
-            "5..",
-            "¬.",
-            "J s.",
-            "¬",
-            "1„",
-            "i.",
-            "¬",
-            ".",
-            "2 p",
-            "¬¬",
-            ",",
-            "¬",
-            ", 1",
-            "2"
-        ],
-        [
-            "Aſ &amp;&amp;&amp;ePſſ&amp;ſſup",
-            "A A",
-            "T",
-            "H",
-            "D A",
             "PREMIERE",
-            "¬",
-            "SVRLA NAISSANCE",
-            "1",
-            "L",
+            "BALADE",
+            "SVR LA NAISSANCE",
             "DE LA FRONDE",
             "contre le Mazarin.",
-            "2 ,",
-            "Nfin il en aura deſia le foüet fait clac,",
+            "ENfin il en aura deſia le foüet fait clac,",
             "LLEt le jeune Frondeur auſſi ferme qu’vn roc",
             "Sanglera la croupiere à ce joüeur de Hoc,",
             "Dont l’auarice a mis noſtre France au biſſac;",
@@ -391,5 +341,18 @@
             "I’entens deſia Coulon qui fait dire à lanot,",
             "Tout beau, tout beau Vilain, la Frõde r’entre en Rut."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
     ]
 }

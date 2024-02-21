@@ -3,35 +3,45 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Bordeaux (Gironde)",
+            "Bourg (Gironde)"
         ],
-        "subject": null,
-        "creation": "1650-09-02",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-03-18",
+            "@who": "AB"
         },
-        "titre": "Le veritable courier, envoyé par messieurs les deputez du\n          parlement de Paris ; de tout ce qui s'est fait & passé depuis le 16. septembre jusques\n          à present, tant en la ville de Bordeaux, que dans la ville de Bourg : arrivé le\n          25.",
+        "titre": "Véritable (le) courrier, envoyé par messieurs les députés\n          du Parlement de Paris, de tout ce qui s'est fait et passé, depuis le 16 septembre jusqu'à\n          présent, tant en la ville de Bordeaux que dans la ville de Bourg, arrivé le 25.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-05-25",
-            "#text": "25 mai 2021"
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1650",
-            "#text": "1650"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1650-09-26",
+                "#text": "26 septembre 1650"
+            }
+        ],
         "pubPlace": {
+            "@source": "Mazarine",
             "@ref": "geonames:2988507",
-            "@source": "Moreau",
             "#text": "Paris"
         },
         "publisher": {
             "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
             "persName": {
                 "forename": "Jacob",
                 "surname": "Chevalier"
@@ -41,21 +51,22 @@
     },
     "texte": [
         [
-            "Enuoyé par Meſieurs les De",
+            "LE VERITABLE",
+            "COVRRIER.",
+            "Enuoyé par Meſieurs les De¬",
             "putez du Parlement de Paris;",
-            "detout ce qui s’eſt fait &amp; paſſé",
-            "depuis le 16. Septembre iuſ",
+            "de tout ce qui s’eſt fait &amp; paſſé",
+            "depuis le 16. Septembre iuſ¬",
             "ques à preſent, tant en la ville",
             "de Bordeaux, que dans la ville",
-            "de Bourg: Arriué le25.",
+            "de Bourg: Arriué le 25.",
             "A PARIS,",
-            "Che2 I co C E VAL1E , mé s. Iean de Lauran,",
+            "Chez IACOB CHEVALIER , ruë s. Iean de Latran,",
             "deuant le College Royal.",
-            "M. DC. 1L"
+            "M. DC. L."
         ],
         [
-            "r r e7",
-            "AA",
+            "3",
             "LE VERITABLE COVRIER,",
             "enuoyé par Meßieurs les Deputez du Parlement",
             "de Paris; de tout ce qui s’ eſt fait &amp; paſſé depuis le",
@@ -63,21 +74,21 @@
             "de ordeaux, que dans la ville de BourgArriueé",
             "le 25.",
             "Ei6. de ce mois en execution de ce qui",
-            "auoit eſtéarreſtéledit iour enlaConfe",
-            "ſ rencetenuë àBourg, Meſſieurs le Muſ",
+            "auoit eſtéarreſtéledit iour enlaConfe¬",
+            "ſ rencetenuë àBourg, Meſſieurs le Muſ¬",
             "a",
             "a nier&amp; Bitault, Deputez du Parlement,",
             "partirent pourBordeaux, &amp;furent conduits par vne",
             "partie des Deputez du Parlement de Bordeaux,",
-            "qui eſtoient venus aà Dourg pour ſaluë̈r leurs Ma",
+            "qui eſtoient venus aà Dourg pour ſaluë̈r leurs Ma¬",
             "e",
-            "jeſtez, &amp; par leſieur de Saintot Maiſtre des Cere",
+            "jeſtez, &amp; par leſieur de Saintot Maiſtre des Cere¬",
             "monies, auec vn Trompette du Roy.",
             "Ils s’embarquerent preciſement à deux heures",
-            "apres midy, où ayant trouué l’eau &amp; le vent fauo",
+            "apres midy, où ayant trouué l’eau &amp; le vent fauo¬",
             "rables, ils apperceurent en paſſant aà coſté du Béc",
             "l’Armée Nauale du Roy, compoſée de pluſieurs",
-            "gros vaiſſeaux, multitude de bruûleaux, &amp; plu",
+            "gros vaiſſeaux, multitude de bruûleaux, &amp; plu¬",
             "ſieurs pinaſſes &amp; galiottes, &amp; l’Amiral monté de",
             "vingt-quatre pieces de canon.",
             "dls virent auſſi l’Armée Nauale Bordeloiſe, qui",
@@ -85,13 +96,15 @@
         ],
         [
             "4Z.",
+            "¬",
+            "3",
             "paroiſſoit belle, &amp; eompoſée de pluſieurs gros",
             "vaiſſeaux, de quelques galiottes &amp; autres vaiſſeaux",
             "de mer, laquelle eſtoit diſtante de celle du Roy",
             "d’vne lieuë.",
             "Meſſieurs les Deputez arriuerent de auit à",
             "Bordeaux, où̀ tout le peuple les attendoit auec",
-            "des acclamations de ioye incroyables: les Com",
+            "des acclamations de ioye incroyables: les Com¬",
             "pagnies des Bourgeois qui gardoient la porte",
             "du Chapeau ouge, furent mis en haye iuſques au",
             "logis de Monſ de Marant Conſeiller de la Cour,",
@@ -106,12 +119,12 @@
             "diſpoſez à la Paix, qu’ils leur vouloient procurer",
             "par leurs bons Conſeils.",
             "Le lendemain au matin 17. du mois, ſur les ſix",
-            "heures du matin, Meſſieurs les Deputez furent eſ",
+            "heures du matin, Meſſieurs les Deputez furent eſ¬",
             "ueillez au bruit des canonades &amp; mouſquetades que",
-            "les deux partis ſe tiroient. Auſſi-toſt ils ſe tranſpor",
+            "les deux partis ſe tiroient. Auſſi-toſt ils ſe tranſpor¬",
             "terent à la porte Dyſeaux, où les Bordelois ont fait",
-            "vne demie lune de terre, auec quelques petits de",
-            "hors, entre la porte &amp; le Faux-bourg S. Surin; au",
+            "vne demie lune de terre, auec quelques petits de¬",
+            "hors, entre la porte &amp; le Faux-bourg S. Surin; au¬",
             "quel"
         ],
         [
@@ -122,7 +135,7 @@
             "à celuy qui les tmmàdoit la ſuenſionllAfms",
             "accondée par l Roy tiou precdentqcequil",
             "Auoit au eſme emps rereuude faiieancune entreo",
-            "priſe, &amp; auroicntrendutout ſotndaldofe n",
+            "priſe, &amp; auroicntrendutout ſotndaldofe n¬",
             "&amp; d’obeyſſance aux Ordres dtpan Meſfieurs",
             "leſits Depat́l",
             "at enu 2A",
@@ -132,7 +145,7 @@
             "que de lai doune lune ou loViqite de Mona",
             "qui cormahloi, ayant ſçeu qucMeſſiansi lex",
             "Deputreſtqientla, ilſenmonſtra,adir qull eftoit",
-            "leurrs pumbleſeruiteur, &amp; au mdrnarenlpr",
+            "leurrs pumbleſeruiteur, &amp; au mdrnarenlpr¬",
             "donnaaduis aMomuſieur le Mareſedaldnla dplei",
             "aye, &amp; autres Sulgneursde l’apmée lu Ro les",
             "deux partis firent piiblier laſuſpefionl d’annes",
@@ -151,15 +164,15 @@
             "2",
             "6",
             "Monſieur le Marefchalde la Meilleraye, ayant",
-            "fſçeu que Meſſieurs les Deputez entroient au quar",
+            "fſçeu que Meſſieurs les Deputez entroient au quar¬",
             "tier du Roy, vint au deuant d’eux, auec Meſſieurs",
             "de Pallüau, Roquelaure, Montbas &amp; autres leur",
-            "faire complimen; Monſieur de la Rochefou",
+            "faire complimen; Monſieur de la Rochefou¬",
             "caut y vint auſſi, &amp; embraſſa ledit ſieur Mareſchal",
             "de la Meilleraye comme firent pluſieurs autress",
             "qui eſtoient enſaCompagie.",
-            "Apres toutes ces entreueües, leſdits ſieurs De",
-            "putez ſe retirerent dans laVille, &amp; furent trou",
+            "Apres toutes ces entreueües, leſdits ſieurs De¬",
+            "putez ſe retirerent dans laVille, &amp; furent trou¬",
             "uer Monſieux de Bouiillon, qui eſtoit malade, ſur",
             "quelques mouy mal entendus portez par ladité",
             "ſsſpanſion, oi apresx auoir donné toute ſnrte d’é",
@@ -168,9 +181,9 @@
             "aux dé́pens de la Ville, qui ne têmoigna en ſà",
             "ſumpruoſité, nyſiege, ny incommodite.1",
             "Durant le temps de leur diſner, Madame la",
-            "Princeſſe &amp; Monſieur ſon fils, les enuoyerent vi",
-            "ſiter &amp; complimenter par Monſieurld’Aiſné: Ma",
-            "dame l Princeſſe s’ eſtant trouuée indifpoſée,plu",
+            "Princeſſe &amp; Monſieur ſon fils, les enuoyerent vi¬",
+            "ſiter &amp; complimenter par Monſieurld’Aiſné: Ma¬",
+            "dame l Princeſſe s’ eſtant trouuée indifpoſée,plu¬",
             "fieurs des Meſſieurs du Parlenent les viſiterent",
             "auſſi, &amp; quelques vns diſnerent aue .",
             "L’apreſdiné, le Palement s’aſſembla, Meſſieurs",
@@ -189,14 +202,14 @@
             "Madame la Princeſſe ſe fiſt porterà leur logis, où",
             "elle leur rendit tous les témoignages d’amitié, &amp;",
             "de reconnoiſſance.",
-            "Le Dimanche à̀ trois heures du matin, Meſ",
-            "ſieurs les Deputez partirent de Bordeaux pour re",
+            "Le Dimanche à̀ trois heures du matin, Meſ¬",
+            "ſieurs les Deputez partirent de Bordeaux pour re¬",
             "tourner à Bourg auec leſdits ſieurs Deputez de",
-            "Bordeaux, leſdits ſieurs de Saintot &amp; le Trom",
+            "Bordeaux, leſdits ſieurs de Saintot &amp; le Trom¬",
             "pette du Roy; &amp; quoy qu’il fuſt bien matin, les",
             "principaux de la Vlle, pluſieurs Seigneurs &amp;",
             "Gentils-hommes les vindrent accompagner au",
-            "batreau, leur témoignant par toutes les recon",
+            "batreau, leur témoignant par toutes les recon¬",
             "noiſſances imaginables les obligations qu’ils leurs",
             "auoient de leurs ſoings, &amp; de leurs peines.",
             "Ils ariuerent à huit heures du matin aà Bourg,",
@@ -205,19 +218,16 @@
             "eſtoient attendus auec beautoup d’impatience,",
             "auquel lieu vne partie du iour ſe paſſa à rendre",
             "compte à leurs Majeſtez de leur negotiation, &amp;",
-            "l’autre trauailler auſdits articles de l’acco6mode",
+            "l’autre trauailler auſdits articles de l’acco6mode¬",
             "ment, ce qui a continué le di-neufieſrme de ce"
-        ],
-        [
-            "emienlimafalené8",
-            "uoyar la paix qu’ilahroglnnaiaudemàf.",
-            "Villed ord, aui",
-            "netee àlauadta",
-            "ffbambaM",
-            "oddlh Majaſôédlellſtét",
-            "io oI aeohin ol euoiloMh anv-eouplup",
-            "3",
-            "1"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

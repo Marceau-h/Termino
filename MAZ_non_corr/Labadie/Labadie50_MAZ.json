@@ -24,7 +24,7 @@
         },
         "author": {
             "@ref": "isni:0000000119572170",
-            "persName": "France. Parlement de Bordeaux"
+            "orgName": "Parlement de Bordeaux"
         },
         "pubDate": [
             {
@@ -43,7 +43,9 @@
             "@ref": "geonames:2988507",
             "#text": "Paris"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "7"
     },
     "texte": [
@@ -229,5 +231,13 @@
             "n’en puiſſe gnorer.",
             "Signe, CAVAILLE."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

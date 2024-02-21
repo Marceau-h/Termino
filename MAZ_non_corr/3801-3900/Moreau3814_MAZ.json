@@ -43,7 +43,11 @@
             "@ref": "geonames:2988507",
             "#text": "Paris"
         },
-        "publisher": "Imprimeurs et libraires ordinaires du roi",
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
         "nbPages": "16"
     },
     "texte": [
@@ -684,5 +688,21 @@
             "en Parlement le . Ianuie1649. Signe, DV TILLET,",
             "Greffier en chef de ladite Cour."
         ]
+    ],
+    "pages_number": [
+        "11",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
     ]
 }

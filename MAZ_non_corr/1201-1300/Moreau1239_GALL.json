@@ -12,18 +12,13 @@
             "@when": "2021-11-15",
             "@who": "AB"
         },
-        "titre": "Entretien (l') des Muses, à monseigneur le prince\n                    de Condé, sur ses victoires et son retour à Paris.",
+        "titre": "Entretien (l') des Muses, à monseigneur le prince de\n          Condé, sur ses victoires et son retour à Paris.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -36,6 +31,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000079149967",
+            "@xml:id": "IL_PolletierPoulletierLePoultierNoel.xml",
             "persName": {
                 "forename": "Noel",
                 "surname": "Poulletie"
@@ -182,5 +178,13 @@
             "Mais ie ſçay qu’à Paris le Prince eſt de retour.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "2",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

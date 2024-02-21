@@ -4,49 +4,55 @@
     "entête": {
         "form": "vers",
         "genre": "burlesque",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-01-28",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-09",
+            "@who": "AB"
         },
-        "titre": "Galimatias burlesque sur la vie du cardinal Mazarin.",
+        "titre": "Galimatias burlesque sur la vie du cardinal\n          Mazarin.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-05-25",
             "#text": "25 mai 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1652",
-            "#text": "1652"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1652-02",
+                "#text": "deuxième semaine de février 1652"
+            }
+        ],
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "18"
     },
     "texte": [
         [
-            "IALIMATIAS",
+            "GALIMATIAS",
             "BVRLESQVE",
+            "SVR LA VIE",
             "DV CARDINAL",
             "MAZARIN.",
-            "M. DC. L1I."
+            "M. DC. LII."
         ],
         [
-            ".o¬",
-            "ggs",
-            "5",
-            "Hoéot&amp;aeg",
-            "GALIMATAS BVRLES QVE",
-            "A e j",
-            "y",
-            "ſur l vie dus Cardinal Maarin.",
-            "g chante par cette rimaille,",
+            "3",
+            "GALIMATAS BVRLESQVE",
+            "ſur l vie dus Cardinal Mazarin.",
+            "Ie chante par cette rimaille,",
             "Choſe quin’et choſe quai vaille,",
             "Choſe qui vaut moins qu’vn filet,",
             "ſoins qu’vn zeſte, moins qu’vn niquet,",
@@ -1319,9 +1325,26 @@
             "Car enoore qu’i euſt le train des Cardinaux,",
             "E ce grand &amp; pompeux appareil de cheuaux,,",
             "Chaeun ſçait toutesfois qu’il cheuauchoit en Aſne.",
-            "FIN.",
-            "N",
-            "E"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
     ]
 }

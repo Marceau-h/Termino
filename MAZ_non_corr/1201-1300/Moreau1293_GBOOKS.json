@@ -12,18 +12,13 @@
             "@when": "2021-11-15",
             "@who": "AB"
         },
-        "titre": "État (l') déplorable des femmes d’amour de Paris,\n                    la harangue de leur ambassadeur envoyé au cardinal Mazarin, et son\n                    succès.",
+        "titre": "État (l') déplorable des femmes d’amour de Paris, la\n          harangue de leur ambassadeur envoyé au cardinal Mazarin, et son succès.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -35,10 +30,7 @@
             "#text": "Paris"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "7"
     },
@@ -236,5 +228,13 @@
             "ſouuient point des faueurs qu’il a receus &amp; ſans ployer la toi¬",
             "lete ne laiſſe pas de voler le bordel."
         ]
+    ],
+    "pages_number": [
+        "5",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
     ]
 }

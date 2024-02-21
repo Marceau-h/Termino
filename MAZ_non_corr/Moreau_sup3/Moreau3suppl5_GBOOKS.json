@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
             "@status": "not_corrected"
         },
@@ -18,7 +17,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649-03-18",
@@ -37,6 +36,7 @@
             }
         ],
         "publisher": {
+            "@xml:id": "IL_XXX.xml",
             "@ref": "isni:0000000000579981",
             "persName": {
                 "forename": "Francesco",
@@ -288,5 +288,15 @@
             "¬",
             "EL"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

@@ -12,18 +12,13 @@
             "@when": "2021-11-18",
             "@who": "AB"
         },
-        "titre": "Décret infernal contre Jules Mazarin et tous les\n                    partisans de France.",
+        "titre": "Décret infernal contre Jules Mazarin et tous les\n          partisans de France.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -35,7 +30,8 @@
             "#text": "Paris"
         },
         "publisher": {
-            "@ref": "isni:000000007728855X",
+            "@ref": "isni:0000000506791357",
+            "@xml:id": "IL_NoelFrancois.xml",
             "persName": {
                 "forename": "François",
                 "surname": "Noël"
@@ -251,5 +247,14 @@
             "Paas q’il ne ly reſle e lair.",
             "TR."
         ]
+    ],
+    "pages_number": [
+        "7",
+        "9",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

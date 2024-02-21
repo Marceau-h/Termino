@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-01-26",
         "change": {
             "@status": "not_corrected"
@@ -21,7 +20,10 @@
         },
         "author": {
             "persName": {
-                "name": "S.D.N."
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "S. D. N."
+                }
             }
         },
         "pubDate": {
@@ -36,6 +38,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000367213580",
+            "@xml:id": "IL_SassierGuillaume.xml",
             "persName": {
                 "forename": "Guillaume",
                 "surname": "Sassier"
@@ -231,5 +234,14 @@
             "bles ſeruantes",
             "S. D.N."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

@@ -2,7 +2,10 @@
     "imprimatur": null,
     "corrector": false,
     "entête": {
-        "form": "vers/prose",
+        "form": [
+            "vers",
+            "prose"
+        ],
         "genre": "non renseigné",
         "subject": "France (1643-1715, Louis XIV)",
         "handwritten_note": false,
@@ -13,18 +16,13 @@
             "@when": "2021-11-12",
             "@who": "AB"
         },
-        "titre": "Entrée (l’) magnifique et triomphante de Mardi\n                    Gras dans toutes les villes de son royaume, avec les réjouissances de toutes les\n                    harangères de Paris, et les arrêts donnés tant contre les critiques, rabatjoies,\n                    mauplaisants et troublefêtes, ensemble les privilèges octroyés à tous bons\n                    frippelippes, patelins, rabelistes et enfants sans souci.",
+        "titre": "Entrée (l’) magnifique et triomphante de Mardi Gras dans\n          toutes les villes de son royaume, avec les réjouissances de toutes les harangères de\n          Paris, et les arrêts donnés tant contre les critiques, rabatjoies, mauplaisants et\n          troublefêtes, ensemble les privilèges octroyés à tous bons frippelippes, patelins,\n          rabelistes et enfants sans souci.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1650",
@@ -36,11 +34,7 @@
             "#text": "Paris"
         },
         "publisher": {
-            "@ref": "isni:0000000",
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "11"
     },
@@ -382,5 +376,17 @@
             "-",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
     ]
 }

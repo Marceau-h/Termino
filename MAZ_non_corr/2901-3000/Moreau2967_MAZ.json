@@ -3,6 +3,7 @@
     "corrector": false,
     "entête": {
         "form": "prose",
+        "genre": "pamphlet",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
@@ -17,7 +18,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -37,6 +38,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121259642",
+            "@xml:id": "IL_PreuverayFrancois.xml",
             "persName": {
                 "forename": "François",
                 "surname": "Preuveray"
@@ -1093,5 +1095,32 @@
             "honneurs &amp; priuileges, &amp; rappellé toutes les anciennes",
             "Loix de l’Eſtat."
         ]
+    ],
+    "pages_number": [
+        "11",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36"
     ]
 }

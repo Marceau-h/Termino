@@ -1,17 +1,22 @@
 {
-    "imprimatur": null,
+    "imprimatur": "AVEC PERMISSION.",
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit",
+            "liste"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-03-04",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
         "titre": "Relation véritable de ce qui s'est passé à la prise de la\n          ville de Harfleur près le Havre par l'armée de monseigneur le duc de Longueville, ensemble\n          la liste de tous les officiers de son armée.",
         "dates": {
@@ -19,7 +24,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -32,9 +37,10 @@
         },
         "publisher": {
             "@ref": "isni:0000000110423830",
+            "@xml:id": "IL_LaVigneNicolasde.xml",
             "persName": {
-                "forename": "Nicolas",
-                "surname": "La Vigne (De)"
+                "forename": "Nicolas de",
+                "surname": "La Vigne"
             }
         },
         "nbPages": "8"
@@ -43,34 +49,23 @@
         [
             "RELATION",
             "VERITABLE",
-            "pe oi est pse",
-            "HAREV",
-            "es l l V a",
-            "ouiio e illn.",
-            "se l.",
+            "DE CE QVI S'EST PASSÉ",
+            "A LA PRISE DE LA VILLE DE",
+            "HARFLEVR",
+            "PRES LE HAVRE PAR",
+            "l'Armée de Monſeigneur le Duc de",
+            "LONGVEVILLE.",
+            "ENSEMBLE LA LISTE DE",
+            "tous les Officiers de ſon armée.",
+            "A PARIS,",
+            "Chez NICOLAS DE LA VIGNE,",
+            "prés Sainct Hilaire.",
+            "M. DC. XLIX.",
+            "AVEC PERMISSION."
+        ],
+        [
             "3",
-            "i i e oiu iele le",
-            "te dero"
-        ],
-        [
-            "1",
-            "la",
-            "s",
-            "ue.",
-            "i E",
-            "Fle",
-            "l",
-            "1",
-            ".",
-            "ooe"
-        ],
-        [
-            "5",
-            "â : b&amp;A8",
-            "T T",
-            "a ¬ T",
-            "RELATIO8",
-            "1",
+            "RELATION",
             "paſſe à la priſe de la ville de Harfleur pres le",
             "Haure par l’Armée de Monſeigneur le Duc",
             "de Longueuille.",
@@ -91,11 +86,7 @@
             "de Liſle &amp; Preboys Lieutenant &amp; Enſeigne, &amp;"
         ],
         [
-            "1",
             "4",
-            "1",
-            "l",
-            "¬!",
             "des nommez Leſpine &amp; des Sauoyrs Sergents.",
             "On croyoit que les Bourgeois de Harfleur ſou",
             "ſtiendroient &amp; empeſcheroient l’entrée du",
@@ -307,5 +298,14 @@
             "FI N.",
             "2"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

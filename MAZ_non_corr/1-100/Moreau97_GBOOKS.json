@@ -3,28 +3,27 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "non renseigné",
-        "subject": "Joseph‎, patriarche biblique",
+        "genre": "pamphlet",
+        "subject": [
+            "Joseph‎, patriarche biblique",
+            "comparaison",
+            "antithèse"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
         "change": {
             "@status": "corrected",
-            "@when": "2021-11-18",
-            "@who": "AB"
+            "@when": "2021-09-18",
+            "@who": "KA"
         },
-        "titre": "Antithèze du bon et du mauvais ministre\n                    d’État.",
+        "titre": "Antithèze du bon et du mauvais ministre d’État.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": [
             {
                 "@source": "Moreau",
@@ -35,7 +34,7 @@
                 "@source": "Carrier",
                 "@notBefore": "1649-01-07",
                 "@notAfter": "1649-01-14",
-                "#text": "deuxième\n                        semaine de janvier"
+                "#text": "deuxième semaine de\n            janvier"
             }
         ],
         "pubPlace": {
@@ -46,13 +45,15 @@
         "publisher": [
             {
                 "@ref": "isni:0000000001965841",
+                "@xml:id": "IL_PepingueVeuvedeTheodore.xml",
                 "persName": {
                     "forename": "(veuve de Théodore)",
-                    "surname": "Pepingué"
+                    "surname": "Pépingué"
                 }
             },
             {
                 "@ref": "isni:0000000108959687",
+                "@xml:id": "IL_MaucroyEtienne.xml",
                 "persName": {
                     "forename": "Étienne",
                     "surname": "Maucroy"
@@ -254,5 +255,14 @@
             "L’Arreſt en aeſté donneé:’Pourquoy: doncques ne le",
             "pas executer?"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

@@ -2,7 +2,10 @@
     "imprimatur": null,
     "corrector": false,
     "entête": {
-        "form": "vers/prose",
+        "form": [
+            "vers",
+            "prose"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
@@ -44,6 +47,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000110423283",
+            "@xml:id": "IL_LaHayeRolinde.xml",
             "persName": {
                 "forename": "Rolin de",
                 "surname": "La Haye"
@@ -207,8 +211,9 @@
             "ſa ſubſiſtance. Et cet eſprit mercenaire &amp; de trafie luy eſt tellement natu¬",
             "rel qu’a pre ſent qu’ileſt Cardinal, gorge de biens, &amp; ſuſfoqué preſques de",
             "routes les richeſſes de l’Eſtat,il ne ſcauroit ſe retenir d’en vſer. Car l’on",
-            "ſcçait qu’il fournit à la maiſon du Roy &amp; de la Reine, toudé ſorte d’eſtofes, <pb",
-            "n=\"14\"/>",
+            "ſcçait qu’il fournit à la maiſon du Roy &amp; de la Reine, toudé ſorte d’eſtofes,"
+        ],
+        [
             "1",
             "6",
             "de tapiſſeries, de vaiſſelle, de pierreries, par l’entremiſe de l’via de ſes petits",
@@ -494,5 +499,17 @@
             "monde.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
     ]
 }

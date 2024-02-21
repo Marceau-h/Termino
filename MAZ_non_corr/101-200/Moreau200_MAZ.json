@@ -19,7 +19,7 @@
         },
         "author": {
             "@ref": "isni:0000000119579284",
-            "persName": "France. Parlement de Dijon"
+            "orgName": "Parlement de Dijon"
         },
         "pubDate": [
             {
@@ -40,6 +40,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
             "persName": {
                 "forename": "Veuve de Jean",
                 "surname": "Guillemot"
@@ -202,5 +203,14 @@
             "A Dijon, le 8 de Mars 1651.",
             "-¬"
         ]
+    ],
+    "pages_number": [
+        "7",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
     ]
 }

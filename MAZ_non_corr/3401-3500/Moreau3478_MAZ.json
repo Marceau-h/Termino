@@ -47,7 +47,9 @@
             "@ref": "geonames:2989317",
             "#text": "Orléans"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "4"
     },
     "texte": [
@@ -153,5 +155,11 @@
             "Cour &amp; vous ferez bien.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "7",
+        "8",
+        "9",
+        "10"
     ]
 }

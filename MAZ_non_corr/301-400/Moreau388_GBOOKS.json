@@ -1,17 +1,18 @@
 {
-    "imprimatur": null,
+    "imprimatur": "Auec Permißion de Son Alteße Royale.",
     "corrector": false,
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-03-23",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-14",
+            "@who": "AB"
         },
         "titre": "Arrivée (l') de monsieur le duc de Beaufort dans la ville\n          d’Orléans, et la sortie du marquis de Sourdis hors ladite ville.",
         "dates": {
@@ -19,7 +20,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -40,25 +41,25 @@
     },
     "texte": [
         [
-            "LAIHR",
-            "DE MONSIEVR LE DV",
-            "EE AVFORT",
-            "DAsell",
+            "L'ARRIVÉE",
+            "DE MONSIEVR LE DVC",
+            "DE BEAUFORT",
+            "DANS LA VILLE",
             "d’Orleans.",
-            "rL oTlE E, ar1s",
-            "ſ comdu hors ladie Vile.",
+            "ET LA SORTIE DV MARQVIS",
+            "de Sourdis hors ladite Ville.",
             "A PARIS,",
-            "en aooun a me peaeounCeoai",
+            "Chez ANTOINE MATIAS, prés le puits Certain.",
             "M. DC. LII.",
-            "uee Permißion de Sn Alee Royal.¬"
+            "Auec Permißion de Son Alteße Royale."
         ],
         [
-            "ltttttetttt",
+            "3",
             "L’ENTRE’E",
             "DE MONSEGNEVR",
             "LE DVC",
             "DE BEAVFORT",
-            "DANS VIIE",
+            "DANS LA VILLE",
             "d’Orleans.",
             "Pres le retour des Deputez de la",
             "A ue doleauns, tout lemonde ſut",
@@ -171,5 +172,13 @@
             "lamée, auec l’ordre de ſon Alteſſe Royale.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

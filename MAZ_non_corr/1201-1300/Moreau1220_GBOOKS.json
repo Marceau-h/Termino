@@ -12,18 +12,13 @@
             "@when": "2021-11-12",
             "@who": "AB"
         },
-        "titre": "Enigmes sur le Te Deum qu’on a chanté pour la\n                    paix.",
+        "titre": "Enigmes sur le Te Deum qu’on a chanté pour la\n          paix.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -34,10 +29,7 @@
             "#text": "Sans Lieu"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "7"
     },
@@ -215,5 +207,12 @@
             "gloire.",
             "FIN"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
     ]
 }

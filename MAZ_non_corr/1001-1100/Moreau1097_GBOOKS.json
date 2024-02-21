@@ -2,7 +2,10 @@
     "imprimatur": null,
     "corrector": false,
     "entête": {
-        "form": "vers/prose",
+        "form": [
+            "vers",
+            "prose"
+        ],
         "genre": "non renseigné",
         "handwritten_note": false,
         "table_of_content": false,
@@ -12,18 +15,13 @@
             "@when": "2021-11-12",
             "@who": "AB"
         },
-        "titre": "Diogène (le) françois ou l’'Homme d’Ètat à la\n                    France soupirante.",
+        "titre": "Diogène (le) françois ou l’'Homme d’Ètat à la France\n          soupirante.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -35,6 +33,7 @@
             "#text": "Paris"
         },
         "publisher": {
+            "@xml:id": "IL_XXX.xml",
             "@ref": "isni:0000000077489802",
             "persName": {
                 "forename": "Jacques",
@@ -483,5 +482,22 @@
             "Ce deſſaut me vient faure d’hommes.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

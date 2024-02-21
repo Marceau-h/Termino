@@ -4,22 +4,21 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-02-11",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Lettre envoyée à Dom Francisco Maria del Monacho,\n                    sicilien, supérieur des Théatins, prédicateur et confesseur du cardinal Mazarin,\n                    où il est sommairement répondu aux libelles diffamatoires jettés à Paris par les\n                    ennemis de l'État.",
+        "titre": "Lettre envoyée à Dom Francisco Maria del Monacho,\n          sicilien, supérieur des Théatins, prédicateur et confesseur du cardinal Mazarin, où il est\n          sommairement répondu aux libelles diffamatoires jettés à Paris par les ennemis de\n          l'État.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-06-08",
             "#text": "8 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -32,9 +31,10 @@
         },
         "publisher": {
             "@ref": "isni:0000000001796013",
+            "@xml:id": "IL_DuPontPierre.xml",
             "persName": {
                 "forename": "Pierre",
-                "surname": "Dupont"
+                "surname": "Du Pont"
             }
         },
         "nbPages": "8"
@@ -348,8 +348,7 @@
             "aux vents &amp; aux deluges. Helas, quel accident en peut il arriuer! Il fait",
             "comme vn meſchant tu eur, lequel apres auoit conſommé́ ou deſrobé le",
             "bien de ſon pnplle, &amp; craignant que quelque iour, quand i ſera venu",
-            "en a ge, il ne iuy ſace re ndre compe; n’oſant le tuer, il le traite ſi mal,",
-            "qu’il",
+            "en a ge, il ne iuy ſace re ndre compe; n’oſant le tuer, il le traite ſi mal, qu’il",
             "le fr petir ou de malade, ou de fam, ou de frod. Et vous eſtes ſon",
             "Conf ſſeur? &amp; vous palhiez ſes meſchancetez? Vous faites des vertus de",
             "ſes vices, &amp; vous penſeaz que nous vous eſtimions pieux; Nous ſommes",
@@ -363,9 +362,18 @@
             "lerez des aftaires d’vn Eſtat, où vous,ny voſtre Maiſtre, ne doit auoit au¬",
             "eun inereſt, ſinon, reitrez.vous, s’l n’y apas encor aſſez de monſûtres en",
             "Sicle vote paiie, &amp; vous plaez aupés de ces eſcueils dangereux de",
-            "Seylle &amp; de Carybde, &amp; croyez que nous éuiter ons bien vos coſtes,",
-            "&amp;",
+            "Seylle &amp; de Carybde, &amp; croyez que nous éuiter ons bien vos coſtes, &amp;",
             "que la France ſe peu mieux paſſlaous ne faites d’elle."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

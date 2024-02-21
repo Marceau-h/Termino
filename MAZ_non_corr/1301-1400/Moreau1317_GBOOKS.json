@@ -1,16 +1,20 @@
 {
-    "imprimatur": null,
+    "imprimatur": "Auec Approbation & Permißion. ",
     "corrector": false,
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "subject": [
+            "Juifs",
+            "Antisémitisme"
         ],
-        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-08",
+            "@who": "AB"
         },
         "titre": "Examen de la vie des juifs, de leur religion, commerce et\n          trafic dans leur synagogue.",
         "dates": {
@@ -18,7 +22,7 @@
             "@when": "2021-06-02",
             "#text": "02 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -31,6 +35,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121259642",
+            "@xml:id": "IL_PreuverayFrancois.xml",
             "persName": {
                 "forename": "François",
                 "surname": "Preuveray"
@@ -40,20 +45,25 @@
     },
     "texte": [
         [
-            "LEXAMEN DELAVIE TTT7 T DES IVI9 DE LEVR RELIGION, coui E E TAEC DANS LEVR",
-            "SYNAooGVE l¬ Ar, ue Saint Iacques¬. ane oei¬ dliei eee reudee¬ uee Approbanio &amp;",
-            "Permiſion."
+            "L'EXAMEN",
+            "DE LA VIE",
+            "DES IUVFS,",
+            "DE LEVR RELIGION,",
+            "COMMERCE ET TRAFIC",
+            "DANS LEVR",
+            "SYNAGOGVE.",
+            "A PARIS,",
+            "Chez FRANCOIS PREVVERAY, ruë Sainct Iacques,",
+            "au Croiſſant d'argent, proche la porte.",
+            "M. DC. LII.",
+            "Auec Approbation &amp; Permißion."
         ],
         [
             "2",
-            "tetepteiiei ipiépes",
-            "’prpeiePPPpi",
-            "J E v",
-            "E AMENDE LAVIE DEs",
-            "Juifs, &amp; de leur commerce dansleurSpnagoguee",
-            "’¬ .",
-            "J",
-            "é L n’y a perſonne gqui oe ſçathe queles Iuifs ſone l’opprb",
+            "2",
+            "L'EXAMEN DE LA VIE DES",
+            "Juifs, &amp; de leur commerce dans leur Synagogue",
+            "IL n’y a perſonne gqui oe ſçathe queles Iuifs ſone l’opprb",
             "l bre de oures les Nanom de la rere depais plas é’leiae",
             "cens ans : Etil ne faut pas eſtre Chreſtien, pour eniga",
             "ûlſ rer la cauſe. C’eft vne choſe certaine qu’elle prouiende",
@@ -427,9 +437,17 @@
             "ànnonceront juſques en la conſommation &amp; en l’ire de la conſohmation:",
             "Ie prie Dieu que la terreur de ces Paroles leur puiſſe touchple cœur, o",
             "que la France ne ſoit plus ſouillée de leuras impietez.",
-            "I N.",
-            "von",
-            "uu2?"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

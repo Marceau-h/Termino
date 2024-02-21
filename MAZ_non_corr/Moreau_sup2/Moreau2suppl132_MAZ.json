@@ -21,7 +21,7 @@
         "author": [
             {
                 "@ref": "isni:0000000119572170",
-                "persName": "France. Parlement de Bordeaux"
+                "orgName": "Parlement de Bordeaux"
             },
             {
                 "@ref": "isni:0000000055360231 ",
@@ -51,6 +51,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121209450",
+            "@xml:id": "IL_EstienneAntoine.xml",
             "persName": {
                 "forename": "Antoine",
                 "surname": "Estienne"
@@ -487,5 +488,15 @@
             "e e s p , orulequ en Prdlement, en l udinmee de la Grand Cham¬",
             "bre, le 7. ianuier 1650. Signé, DE PONTAC"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

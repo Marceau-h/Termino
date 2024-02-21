@@ -1,17 +1,21 @@
 {
-    "imprimatur": null,
+    "imprimatur": "Auec Permißion de Son Alteße Royale.",
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-04-01",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "AB"
         },
         "titre": "Relation de tout ce qui s'est fait et passé en l'armée de\n          monsieur le prince de Condé depuis son départ de Guyenne, avec la déclaration de la ville\n          de Toulouse pour le service des princes.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
             "persName": {
                 "forename": "Jacob",
                 "surname": "Chevalier"
@@ -41,29 +46,21 @@
     },
     "texte": [
         [
-            "ATT T uin",
-            "1",
-            "A AALZ I I U1 lN",
-            "DE TOVT CE QVI SEST",
+            "RELATION",
+            "DE TOVT CE QVI S'EST",
             "fait &amp; paſſé en l’armée de Monſieur le",
             "Prince de Condé depuis ſon depart",
             "de Guyenne.",
-            "ue la Dedlaoniouns de la vile de Tolouepor.",
+            "Auec la Declaration de la ville de Tholouze pour le",
             "ſeruice des Princes.",
             "A PARIS,",
-            "hez IACo CEVA LIER, pres Saint",
-            "u e u11",
-            "Auec Peio l:"
-        ],
-        [
-            "2",
-            "i l",
-            "1",
-            "1"
+            "Chez IACOB CHEVALIER, prés Saint",
+            "Iean de Latran.",
+            "M. DC. LII.",
+            "Auec Permißion de Son Alteße Royale."
         ],
         [
             "3",
-            "A b â ’aâ âAâaa",
             "DECLARATION DV",
             "Parlement de Thouloue en faueur",
             "des Princes.",
@@ -190,11 +187,15 @@
             "cela eſt, la Guyenne reſpirera, &amp; quel",
             "qu’autre Prouince ſouſpirera de tant de",
             "malheurs qui nous accablent.",
-            "FIN.",
-            "1",
-            "!",
-            "1",
-            "."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

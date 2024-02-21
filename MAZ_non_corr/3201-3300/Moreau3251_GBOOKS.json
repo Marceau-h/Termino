@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
-        "subject": null,
+        "subject": "Barricades",
+        "handwritten_note": true,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1648-04",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
         "titre": "Relation véritable de tout ce qui s'est fait et passé aux\n          barricades de Paris, le vingt-sixième, le vingt-septième et vingt-huitième d'août mil six\n          cent quarante- huit.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "#text": "Sans Date"
@@ -29,25 +33,19 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
         [
-            ",,,,,, , ,,,,,",
-            "e’e’eeeote:eo",
-            "r",
-            "RELATION VERITABLE.",
-            "s",
-            "4 de tout ce qui s’eſt fait &amp; paſé́ aux Barie",
-            "7",
-            "3",
-            "cades de Paris, les vingt- ſixiéme, vingt.",
-            "ſeptieéme &amp; vingt-huiriéme d’Aouſt mil",
-            "2,",
+            "RELATION VERITABLE",
+            "de tout ce qui s’eſt fait &amp; paſé́ aux Bari¬",
+            "cades de Paris, les vingt- ſixiéme, vingt-",
+            "ſeptiéme &amp; vingt-huitiéme d’Aouſt mil",
             "ſix cens quarante-huit.",
-            "4",
-            "E Morcredy vingt-ſixi eſme iour d’Aouſt, le Roy",
+            "LE Morcredy vingt-ſixi eſme iour d’Aouſt, le Roy",
             "aecompagne de la Reyne Regente ſa Mere, alla",
             "-e",
             "ſé ſur les dix heures du matin à Noſtre-Dame faire",
@@ -366,5 +364,15 @@
             "apaaineaniffelaeapeale éafaa e Caaace.",
             "Oos4 oo2"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

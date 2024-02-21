@@ -25,7 +25,7 @@
         "author": [
             {
                 "@ref": "isni:0000000121755355",
-                "persName": "France. Parlement de Paris"
+                "orgName": "Parlement de Paris"
             },
             {
                 "@ref": "isni:0000000121223121",
@@ -57,6 +57,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000140388204",
+            "@xml:id": "IL_MusnierFrancois.xml",
             "persName": {
                 "forename": "François",
                 "surname": "Musnier"
@@ -75,7 +76,8 @@
             "en ſon Cabinet, datté du",
             "29. Aouſt 1648",
             "Auec l'aduertiſſement de la vente de ſes biens &amp;c. suiuant",
-            "l’Arreſt de la Cour du mois precedant .",
+            "l’Arreſt de la Cour du mois precedant",
+            ".",
             "A PARIS,",
             "Chez FRANCOIS MUSNIER , au mont ſainct",
             "Hilaire pré́s le puys Certain.",
@@ -558,5 +560,22 @@
             "ſfofrnlsliEir",
             "qae ai ’ea igire¬"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
     ]
 }

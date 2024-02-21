@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
-        "subject": null,
+        "subject": "Parlement de Paris",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-07-11",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
         "titre": "Relation (la) de ce qui s'est passé à la cour en la\n          réception de messieurs les députés du Parlement de Paris.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -30,35 +34,27 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "7"
     },
     "texte": [
         [
             "RELATION",
-            "DECEQVI CEST PASSE",
-            "A LACOVR.",
-            "ENL QECEPTION 2",
-            "Meſieurs ls Deputez du Parlemens de Paris.",
-            "A PARIS",
-            "C. LI"
-        ],
-        [
-            "n:",
-            ". u t",
-            "1.",
-            "-du au",
-            "4"
+            "DE CE QVI CEST PASSE",
+            "A LA COVR.",
+            "EN LA RECEPTION DE",
+            "Meſieurs les Deputez du Parlement de Paris.",
+            "A PARIS,",
+            "M. DC. LII."
         ],
         [
             "3",
-            "Auee8",
-            "eAee&amp; r4e",
-            "L RELATION DECE QVI S’ES2",
-            "e¬s",
+            "LA RELATION DECE QVI S’EST",
             "paſſé la Cour, en la Receprion des Peputez du Par",
             "lemen de Paris.",
-            "ELVY qui a dit que les Loix eſtoient",
+            "CELVY qui a dit que les Loix eſtoient",
             "ſemblables aux toiles d’Aragńes qui",
             "n’arreſtent que les petites Mouches, au",
             "lieu que les frelons paſſent hardiment",
@@ -204,7 +200,15 @@
             "tdra cette querelle comme res aduantageuſe pour",
             "uy, quand meſme elle auroit deſſein de ne ſe point de",
             "Clarer pour nous.",
-            "E N."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

@@ -3,23 +3,30 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
-        "subject": null,
+        "subject": [
+            "Louis XIV",
+            "Voyage"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1651-10-01",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "AB"
         },
-        "titre": "Relation du voyage du roi depuis son départ de Paris\n          jusques à cejourd'huy 6? octobre 1651, arrivé à Aubigny.",
+        "titre": "Relation du voyage du roi depuis son départ de Paris\n          jusques à cejourd'huy 6 octobre 1651, arrivé à Aubigny.",
         "dates": {
             "@type": "file_creation",
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1651",
@@ -30,7 +37,9 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "7"
     },
     "texte": [
@@ -40,28 +49,15 @@
             "Dv ROY.",
             "Depuis ſon depart de Paris, iuſ",
             "ques à ce iourd’huy ſixiéme",
-            "Octobre 165. arriué à Au",
+            "Octobre 1651. arriué à Au",
             "bigny.",
             "A PARIS.",
-            ".¬¬,",
-            "M. DE L1"
-        ],
-        [
-            "a",
-            "A",
-            "ai1",
-            "ûi",
-            ".",
-            "u",
-            "aſ"
+            "M. DC. LI."
         ],
         [
             "3",
-            "7",
             "RELATION.",
-            "D E 7",
-            "¬ 7",
-            "DV VOAGE",
+            "DV VOYAGE",
             "DV ROY,",
             "Depuis ſon depart de Panis, iuſques",
             "ad ce iourd’buy ſixieme Octobre",
@@ -166,5 +162,13 @@
             "donnera point vne ſi iuſte cauſe, que",
             "celle de ſa Maieſté."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

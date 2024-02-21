@@ -3,15 +3,21 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "courrier",
+            "périodique",
+            "lettre"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-01-09",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-19",
+            "@who": "AB"
         },
         "titre": "Courrier (le) général, portant les nouvelles de tout ce\n          qui se passe aujourd’hui dans l’État.",
         "dates": {
@@ -19,7 +25,7 @@
             "@when": "2021-04-20",
             "#text": "20 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -29,45 +35,29 @@
             "@source": "Moreau",
             "#text": "Sans Lieu"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "16"
     },
     "texte": [
         [
             "LE",
-            "DDD",
-            "H H",
-            "LVIIIE",
+            "COVRRIER",
             "GENERA L.",
-            "PORTANTLESNOVVELLES",
-            "de tout ce qui ſe paſſe aui ourdhuy",
+            "PORTANT LES NOVVELLES",
+            "de tout ce qui ſe paſſe auiourdhuy",
             "dans l’Eſtat.",
             "M. DC LII."
         ],
         [
-            "E ubA Aueuul &amp;,le",
-            "re",
-            "epqiepſsps e t g glise",
-            "l &amp;leQ p d les",
-            "etep’ieddedeeſ je",
-            "L",
-            "7¬ T D",
-            "1 H H",
-            "1 H",
-            "V L . I",
-            "GENERA L,",
-            "J H",
-            "2 e",
-            "ete Iae",
-            "Il",
-            "portant es nouuees e tout",
+            "3",
+            "LE",
+            "COVRRIER",
+            "GENERAL,",
+            "portant es nouuelles de tout",
             "ce qui ſe paſſe aujourd’huy",
-            "0 1",
-            "i n ſl",
-            ".1",
-            "19",
             "dans l’Eſtat.",
-            "4¬",
             "agE Corrier quelque pareſſeux qu’il ſoit, arriue",
             "neanmoins bien à̀ propos pourentretenir leslPa",
             "tiſiens de la verité de tout cé qui ſe paſſe dans",
@@ -400,35 +390,26 @@
             "le ſurprit, il ne laiſſa pas moins d’Audteurs que d’eſton¬"
         ],
         [
-            "1",
-            "i",
-            "1",
-            "l",
-            "1",
-            "l4",
-            "1",
-            "1",
-            "1",
-            "l",
-            "l",
-            "1",
-            "76",
             "né quil s’eſerlerent toutes d’vne voix qu’il falloit eſtablir",
             "quelque penitence publiqu dans cette Chappelle pour",
             "l’explation des pechez de toute la France. Nous atten",
             "dons ce quil s’en enſuiuit à la premſere comodtté",
-            "A",
-            "FIN.",
-            ", e",
-            "I",
-            ". )",
-            "u",
-            "4",
-            "3",
-            ".",
-            ",",
-            "9.",
-            "0"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
     ]
 }

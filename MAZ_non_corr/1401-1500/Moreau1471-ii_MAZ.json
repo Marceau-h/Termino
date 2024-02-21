@@ -45,7 +45,9 @@
             "@source": "Mazarine",
             "#text": "Sans Lieu"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "7"
     },
     "texte": [
@@ -360,5 +362,13 @@
             "ſ’ay ſans y penſet fait la faute, Que i’aye part à̀ l’Amniſtie.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

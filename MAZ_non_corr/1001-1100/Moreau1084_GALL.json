@@ -12,7 +12,7 @@
             "@when": "2021-11-12",
             "@who": "AB"
         },
-        "titre": "Dialogue (le) de Saint-Germain en Laye en forme\n                    de tragédie, par lequel on remarquera la fidélité des Parisiens au roi, dédié à\n                    monseigneur le duc de Beaufort, par le S. D. B. P. C. D. S. M. Première\n                    partie.",
+        "titre": "Dialogue (le) de Saint-Germain en Laye en forme de\n          tragédie, par lequel on remarquera la fidélité des Parisiens au roi, dédié à monseigneur\n          le duc de Beaufort, par le S. D. B. P. C. D. S. M. Première partie.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
@@ -20,10 +20,11 @@
         },
         "author": {
             "@source": "BnF",
-            "@ref": "isni:0000000121002759 ",
+            "@ref": "isni:0000000121002759",
+            "@role": "alleged_author",
             "persName": {
                 "forename": "Claude",
-                "surname": "Dubosc de Montandré"
+                "surname": "Du Bosc de Montandré"
             }
         },
         "pubDate": {
@@ -38,6 +39,7 @@
         },
         "publisher": {
             "@ref": "isni:000000038598758X",
+            "@xml:id": "IL_SevestreLouis.xml",
             "persName": {
                 "forename": "Louis",
                 "surname": "Sevestre"
@@ -299,5 +301,17 @@
             "Qu’il chafſe Mazari qui jouo de ſon caprice.",
             "Fin de la prémiere partie"
         ]
+    ],
+    "pages_number": [
+        "2",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
     ]
 }

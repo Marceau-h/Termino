@@ -3,7 +3,7 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "non renseigné",
+        "genre": "lettre",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
@@ -12,15 +12,15 @@
             "@when": "2021-11-10",
             "@who": "AB"
         },
-        "titre": "Dernière (la) lettre de cachet de messieurs les\n                    députés , ouverte en parlement , en présence de messieurs les princes, sur le\n                    sujet de leur retardement, du 16 juillet 1652.",
+        "titre": "Dernière (la) lettre de cachet de messieurs les députés ,\n          ouverte en parlement , en présence de messieurs les princes, sur le sujet de leur\n          retardement, du 16 juillet 1652.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
         "author": {
-            "@isni": "0000000121755355",
-            "#text": "Députés du Parlement de Paris"
+            "@ref": "isni:0000000121755355",
+            "orgName": "Députés du Parlement de Paris"
         },
         "pubDate": {
             "@source": "Moreau",
@@ -34,9 +34,10 @@
         },
         "publisher": {
             "@ref": "isni:0000000070440942",
+            "@xml:id": "IL_LafossedeSalomon.xml",
             "persName": {
-                "forename": "Salomon",
-                "surname": "De la Fosse"
+                "forename": "Salomon de",
+                "surname": "Lafosse"
             }
         },
         "nbPages": "4"
@@ -113,5 +114,10 @@
             "Lafuſeriptionaeſſieees delai Cour de",
             "Parlement de Paris."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "4",
+        "5"
     ]
 }

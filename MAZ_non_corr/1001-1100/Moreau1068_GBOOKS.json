@@ -12,18 +12,27 @@
             "@when": "2021-11-10",
             "@who": "AB"
         },
-        "titre": "Deuxième et dernière requête présentée à Son\n                    Altesse Royale, dimanche dernier, 30 juin 1652, par les bourgeois et habitants\n                    de la ville et faubourgs de Paris, sur le sujet des affaires pressantes\n                    (sic).",
+        "titre": "Deuxième et dernière requête présentée à Son Altesse\n          Royale, dimanche dernier, 30 juin 1652, par les bourgeois et habitants de la ville et\n          faubourgs de Paris, sur le sujet des affaires pressantes (sic).",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": "Bourgeois et habitants de Paris et ses faubourgs",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1652-06-30",
-            "#text": "30 juin 1652"
+        "author": {
+            "orgName": "Bourgeois et habitants de Paris et ses faubourgs"
         },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-06-30",
+                "#text": "30 juin 1652"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -31,6 +40,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000001761072",
+            "@xml:id": "IL_HardouinLouis.xml",
             "persName": {
                 "forename": "Louis",
                 "surname": "Hardouin"
@@ -191,5 +201,13 @@
             "VILLE ET FAVX-BOURGS",
             "DE PARIS."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

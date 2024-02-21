@@ -24,7 +24,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -45,6 +45,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000001796013",
+            "@xml:id": "IL_DuPontPierre.xml",
             "persName": {
                 "forename": "Pierre",
                 "surname": "Du Pont"
@@ -377,5 +378,15 @@
             "complimens, qu’ils faſoient pour m’inuiter a cctte desbauche.",
             "FIN"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

@@ -13,7 +13,7 @@
             "@when": "2021-11-10",
             "@who": "AB"
         },
-        "titre": "Dernières (les) paroles du roi d’Angleterre, avec\n                    son adieu aux prince et princesse ses enfants.",
+        "titre": "Dernières (les) paroles du roi d’Angleterre, avec son\n          adieu aux prince et princesse ses enfants.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
@@ -35,6 +35,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121259642",
+            "@xml:id": "IL_PreuverayFrancois.xml",
             "persName": {
                 "forename": "François",
                 "surname": "Preuveray"
@@ -227,5 +228,14 @@
             "puis dire le reſte, le cœur me ſaigne, &amp; la main",
             "me tremble."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

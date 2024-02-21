@@ -1,17 +1,18 @@
 {
-    "imprimatur": null,
+    "imprimatur": "Auec Permiſsion.",
     "corrector": false,
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-02-19",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-23",
+            "@who": "AB"
         },
         "titre": "Signalé ( le ) combat et siège de la table emportée\n          d'assaut par les Parisiens, au mardi gras, pour faire micque (sic) à Mazarin.",
         "dates": {
@@ -19,7 +20,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -32,6 +33,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000011194155",
+            "@xml:id": "IL_MusnierVeuvedAndre.xml",
             "persName": {
                 "forename": "Veuve d'André",
                 "surname": "Musnier"
@@ -41,61 +43,23 @@
     },
     "texte": [
         [
-            "LE SIGNAL E",
-            "r",
+            "LE SIGNALE",
             "COMBAT ET",
             "SIEGE DE LATABLE",
-            "EMPORTE’E D’ASSAVT, PAR LES",
+            "EMPORTEE D’ASSAVT, PAR LES",
             "PARISIENS",
             "AV MARDY-GRAS.",
-            "POVRHAIRE MICQVE A MAZARIN.",
-            "Seu",
-            "E",
-            "u8",
-            "s",
-            ".",
-            "m nnsau mone",
-            "AnD",
-            "e aeiie",
-            "eere e llen"
+            "POVR FAIRE MICQVE A MAZARIN.",
+            "A PARIS,",
+            "Chez la veufue d'ANDRE MVSNIER, au mont",
+            "ſainct Hilaire en la Cour d'Albret.",
+            "M. DC. XLIX.",
+            "Auec Permiſsion."
         ],
         [
-            "pt",
-            "eerey",
-            "eie i l&amp;e",
-            "ao ee",
-            "A",
-            "es V6",
-            "5",
-            "-",
-            "ei",
-            "te?",
-            "A",
-            "v",
-            ",",
-            "¬ r’",
-            ",",
-            "RZ1",
-            "LESIN ALL D 1L",
-            "4J",
-            ",’ rn",
-            "-ge .",
+            "LE SIGNALE COMBAT.",
             "&amp; Siege de la Tabe. ermpo tee",
-            "R ere d",
-            "„ſſ,lr nar les Par",
-            ". 1",
-            "daſſault par les ’anens, a",
-            "2",
-            "a s e n;ye",
             "Mardy-gras, pour fare nmcque a",
-            "p",
-            "e-",
-            "1",
-            "-r",
-            "Ldd1.¬.",
-            "e",
-            ".",
-            ".",
             "Ee rigoureule &amp; impitoyable Reyne de r",
             "re., dbeiliatriee du genré huoain. &amp; protei",
             "e des rois de l’autte monde qu’on ippelle la",
@@ -123,30 +87,6 @@
             "A. ij"
         ],
         [
-            "2l",
-            "J",
-            "1",
-            "21",
-            "a",
-            "Atl",
-            "els l",
-            "a",
-            "e",
-            "q",
-            "ll",
-            "ina ſ",
-            "ue",
-            "qde",
-            "ilel",
-            ".",
-            "j",
-            "l",
-            "j",
-            "d",
-            "j",
-            "1",
-            "J",
-            ",",
             "EPremlerementſon Excellence le Gouſts, perſonnaage d’vn grand ſens,",
             "fut eſleu General auec pouuoir de iuger deffinitiuement, &amp; de donner",
             "ſesordses abſolus, ſçachant que ſa vigilance &amp; actiuite le rendot tres.",
@@ -472,7 +412,17 @@
             "&amp; confederez la lIouialite &amp; le Ris qui nous font eſperer la continua",
             "tion d leur aſſiſtance auec laquelle nous n’auons rien à craindre",
             "Dieu",
-            "mercy, ’iar."
+            "mercy, Viuat."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

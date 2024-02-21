@@ -3,7 +3,7 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "non renseigné",
+        "genre": "remontrance",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
@@ -12,20 +12,20 @@
             "@when": "2021-11-10",
             "@who": "AB"
         },
-        "titre": "Dernière remontrance faite au roi par messieurs\n                    les députés du parlement.",
+        "titre": "Dernière remontrance faite au roi par messieurs les\n          députés du parlement.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
         "author": {
-            "@isni": "0000000121755355",
-            "#text": "Députés du Parlement de Paris"
+            "@ref": "isni:0000000121755355",
+            "orgName": "Députés du Parlement de Paris"
         },
         "pubDate": {
             "@source": "Moreau",
-            "@when": "1652-07-15",
-            "#text": "15 juillet 1652"
+            "@when": "1652",
+            "#text": "1652"
         },
         "pubPlace": {
             "@ref": "geonames:2988507",
@@ -33,7 +33,8 @@
             "#text": "Paris"
         },
         "publisher": {
-            "@ref": "viaf: 107054346",
+            "@ref": "viaf:107054346",
+            "@xml:id": "IL_VaillantNicolas.xml",
             "persName": {
                 "forename": "Nicolas",
                 "surname": "Vaillant"
@@ -557,5 +558,21 @@
             "Preſenea R par Meeles Deptoz ds Parlemens, le15.",
             "juillet 1652."
         ]
+    ],
+    "pages_number": [
+        "5",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
     ]
 }

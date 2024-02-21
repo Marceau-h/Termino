@@ -21,7 +21,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -41,7 +41,8 @@
             "#text": "Paris"
         },
         "publisher": {
-            "@ref": "isni:000000007728855X",
+            "@ref": "isni:0000000506791357",
+            "@xml:id": "IL_NoelFrancois.xml",
             "persName": {
                 "forename": "François",
                 "surname": "Noël"
@@ -218,5 +219,13 @@
             "nous en faſſe la grace.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

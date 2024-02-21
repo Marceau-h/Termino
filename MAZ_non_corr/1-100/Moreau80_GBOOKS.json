@@ -16,7 +16,7 @@
             "@when": "2021-11-18",
             "@who": "AB"
         },
-        "titre": "Anagrammes sur l'auguste nom de sa majesté\n                    très-chrétienne Louis quatorzième du nom, roi de France et de Navarre, dédiées à\n                    la reine par le sieur Douet , écuyer, sieur de Rom Croissant.",
+        "titre": "Anagrammes sur l'auguste nom de sa majesté\n          très-chrétienne Louis quatorzième du nom, roi de France et de Navarre, dédiées à la reine\n          par le sieur Douet , écuyer, sieur de Rom Croissant.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
@@ -40,7 +40,8 @@
             "#text": "Paris"
         },
         "publisher": {
-            "@ref": "isni:000000007728855X",
+            "@ref": "isni:0000000506791357",
+            "@xml:id": "IL_NoelFrancois.xml",
             "persName": {
                 "forename": "François",
                 "surname": "Noël"
@@ -181,5 +182,13 @@
             "M. D C. L.",
             "Auec Permißion"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
     ]
 }

@@ -3,15 +3,20 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "chantable",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Chanson",
+            "triolet",
+            "prophétie"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1650-07-04",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-21",
+            "@who": "AB"
         },
         "titre": "Triolets prophétiques sur la naissance du prince duc de\n          Valois.",
         "dates": {
@@ -19,7 +24,7 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1650",
@@ -32,9 +37,10 @@
         },
         "publisher": {
             "@ref": "isni:0000000001796013",
+            "@xml:id": "IL_DuPontPierre.xml",
             "persName": {
                 "forename": "Pierre",
-                "surname": "Pont (Du)"
+                "surname": "Du Pont"
             }
         },
         "nbPages": "1"
@@ -43,28 +49,18 @@
         [
             "TRIOLETS",
             "PROPHETIOVES",
-            "SVRLANAISSANCE",
+            "SVR LA NAISSANCE",
             "DV PRINCE",
-            "DVCDE",
-            "VALOIS"
+            "DVC DE",
+            "VALOIS."
         ],
         [
-            "1"
-        ],
-        [
-            "eonen enre’a ean- nmamemfnpn",
-            "SS’’ e e d q i q s¬",
-            "FRI",
-            "T¬¬",
-            "FS",
-            "8",
-            "¬",
+            "3",
+            "TRIOLETS",
             "PROPHETIQVES SVR LA",
-            "DIJ",
             "Naiſſance de Monſeigneur le",
             "Prince, Duc de Valois.",
-            "AA",
-            "A, ca, qu’on ayt des Triolets¬",
+            "CA, ca, qu’on ayt des Triolets¬",
             ", Les plus accomplis du Parnaſſe:",
             "Z Il en faut choiſir des couplets,",
             "Cà, ca, qu’on ayt des Triolets,",
@@ -320,11 +316,21 @@
             "FIN."
         ],
         [
-            "PARIS,",
-            "Chez PIERRE DVPONr, ruë des ſept-Voyes,",
+            "A PARIS,",
+            "Chez PIERRE DVPONT, ruë des ſept-Voyes,",
             "deuant Sainct Hilaire.",
-            "¬¬¬ ¬-¬",
-            "M.D.C. 1.."
+            "M. DC. L."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
     ]
 }

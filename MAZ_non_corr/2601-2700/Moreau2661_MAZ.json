@@ -18,7 +18,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Mazarine",
             "@when": "1650",
@@ -30,6 +30,7 @@
             "#text": "Orléans"
         },
         "publisher": {
+            "@xml:id": "IL_ParisMaria.xml",
             "@ref": "FRBNF:17146624",
             "persName": {
                 "forename": "Maria",
@@ -188,5 +189,11 @@
             "Vous allez triomphant dans la plus chaude alarme",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "7",
+        "8",
+        "9",
+        "10"
     ]
 }

@@ -12,7 +12,7 @@
             "@when": "2021-11-16",
             "@who": "AB"
         },
-        "titre": "Déclaration du roi, du 3 février 1649, par\n                    laquelle sont donnés six jours aux habitants de Paris pour rentrer dans leur\n                    devoir.",
+        "titre": "Déclaration du roi, du 3 février 1649, par laquelle sont\n          donnés six jours aux habitants de Paris pour rentrer dans leur devoir.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
@@ -36,10 +36,7 @@
             "#text": "Saint-Germain-En-Laye"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "4"
     },
@@ -151,5 +148,11 @@
             "Imprimé à Saint Germain en Laye, 1694.",
             "Avec Privlége du Roy."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4"
     ]
 }

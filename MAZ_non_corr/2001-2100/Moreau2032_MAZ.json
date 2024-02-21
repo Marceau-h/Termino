@@ -50,6 +50,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121408134",
+            "@xml:id": "IL_VivenayNicolas.xml",
             "persName": {
                 "forename": "Nicolas",
                 "surname": "Vivenay"
@@ -235,5 +236,14 @@
             "LOVIS DE BOVRON",
             "De Nojan le premier Avril 1652."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

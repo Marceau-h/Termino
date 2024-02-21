@@ -18,7 +18,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -36,7 +36,9 @@
             "@ref": "geonames:2989317",
             "#text": "Orléans"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "4"
     },
     "texte": [
@@ -159,5 +161,11 @@
             "Viue LOVIS ce grandfrondeur,",
             "Qui doit tout vaincreauec ſa fronde."
         ]
+    ],
+    "pages_number": [
+        "7",
+        "8",
+        "9",
+        "10"
     ]
 }

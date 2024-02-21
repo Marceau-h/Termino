@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-02-11",
         "change": {
             "@status": "not_corrected"
@@ -19,7 +18,7 @@
             "@when": "2021-06-08",
             "#text": "8 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -32,6 +31,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121259642",
+            "@xml:id": "IL_PreuverayFrancois.xml",
             "persName": {
                 "forename": "François",
                 "surname": "Preuveray"
@@ -230,5 +230,14 @@
             "peſcher vne guerre Ciuile, dont Mazarin veut jetter",
             "Ies fondemens au milieu de voſtre pais."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

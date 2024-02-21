@@ -4,16 +4,15 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-08-26",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Lettre de son Altesse Royale escrite au Roy, sur l'estat des\n          affaires presentes. Ensemble la response de M. le duc Dampville à son Altesse Royale. Avec\n          la Declaration de S. A. R. sur l'esloignement du C. M.",
+        "titre": "Lettre de son Altesse Royale escrite au Roy, sur\n          l'estat des affaires presentes. Ensemble la response de M. le duc Dampville à son Altesse\n          Royale. Avec la Declaration de S. A. R. sur l'esloignement du C. M.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-06-08",
@@ -24,13 +23,13 @@
                 "@ref": "isni:0000000121336441",
                 "persName": {
                     "forename": "Gaston",
-                    "surname": "France (De)"
+                    "surname": "France de"
                 }
             },
             {
                 "persName": {
                     "forename": "François-Christophe",
-                    "surname": "Lévis (De)"
+                    "surname": "Lévis de"
                 }
             },
             {
@@ -38,7 +37,7 @@
                 "persName": {
                     "forename": "Louis II",
                     "surname": [
-                        "Bourbon (De)",
+                        "Bourbon de",
                         "Prince de Condé"
                     ]
                 }
@@ -56,6 +55,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
             "persName": {
                 "forename": "Veuve de Jean",
                 "surname": "Guillemot"
@@ -246,5 +246,15 @@
             "du ſens commun.",
             "FIN"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

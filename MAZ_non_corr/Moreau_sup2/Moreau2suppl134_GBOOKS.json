@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
             "@status": "not_corrected"
         },
@@ -18,7 +17,9 @@
             "@when": "2021-06-08",
             "#text": "8 juin 2021"
         },
-        "author": "Diocèse de Paris",
+        "author": {
+            "orgName": "Diocèse de Paris"
+        },
         "pubDate": {
             "@when": "1651",
             "@source": "Moreau",
@@ -29,7 +30,11 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Les imprimeurs & libraires ordinaires du Roy",
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
         "nbPages": "6"
     },
     "texte": [
@@ -155,5 +160,13 @@
             "i ro",
             "n!"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
     ]
 }

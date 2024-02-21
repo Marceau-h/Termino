@@ -2,7 +2,10 @@
     "imprimatur": null,
     "corrector": false,
     "entête": {
-        "form": "vers/prose",
+        "form": [
+            "vers",
+            "prose"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
@@ -51,6 +54,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000367182999",
+            "@xml:id": "IL_LeRoyClaude.xml",
             "persName": {
                 "forename": "Claude",
                 "surname": "Le Roy"
@@ -352,5 +356,15 @@
             "Le lendemain du iour S. Lue.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

@@ -3,14 +3,18 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "chantable",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Chanson",
+            "triolet"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-21",
+            "@who": "AB"
         },
         "titre": "Triolets nouveaux sur la paix, faits dans la Pomme de\n          pin, pour l'heureux retour du roy.",
         "dates": {
@@ -18,7 +22,7 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -29,20 +33,22 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "@ref": "isni:0000000110403338",
+            "@xml:id": "IL_LangloisDenis.xml",
+            "persName": {
+                "forename": "Denis",
+                "surname": "Langlois"
+            }
+        },
         "nbPages": "7"
     },
     "texte": [
         [
-            "e Ee &amp;e A e e e ee 3",
-            "rr",
-            "r D",
-            "TRIOLEIS",
-            "1 1",
+            "3",
+            "TRIOLETS",
             "A LA MODE",
             "SVR",
-            "T",
-            "D A",
             "LA PAIX",
             "FAITS DANS LA POMME DE PIN.",
             "SVR L’HEVREVX RETOVR DV ROY",
@@ -287,9 +293,18 @@
             "Puiſque nous ſommes hors de peine;",
             "Diſons cent fois Viue le Roy,",
             "Viue la Reyne.",
-            "FIN.",
-            "Eie",
-            "-7"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
     ]
 }

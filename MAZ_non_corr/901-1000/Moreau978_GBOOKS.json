@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-05-04",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-20",
+            "@who": "AB"
         },
         "titre": "Défaite (la) des troupes mazarines, à l’attaque du\n          château du Plessis, par les paysans réfugies dans le même château, et les désordres commis\n          dans le château de Villebon près Palaiseau, appartenant à M. le président de Novion, avec\n          la route de Sa Majesté.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121226728",
+            "@xml:id": "IL_LeGentilJacques.xml",
             "persName": {
                 "forename": "Jacques",
                 "surname": "Le Gentil"
@@ -41,20 +46,21 @@
     },
     "texte": [
         [
-            "DES TROVPES MAA",
-            "nes à l’attaque du Chaſteau du",
+            "LA",
+            "DEFAITE",
+            "DES TROVPES MAZA¬",
+            "rines à l’attaque du Chaſteau du",
             "Pleſſis, par les Payſans refugiez dans",
             "le meſme Chaſteau.",
             "Et les deſordres commis dans le Cha",
             "ſteau de Villebon, prés Palaizeau,",
-            "appartenant à M le Preſident de",
+            "appartenant à Mr le Preſident de",
             "Nouion.",
-            "Aues la route de Sa Majee.",
-            "A PARIS",
-            "Che IaACQVES LE GENTIL, ue dE",
+            "Auec la route de Sa Majete.",
+            "A PARIS,",
+            "Che IACQVES LE GENTIL, ruë d'Eſ¬",
             "coſſe, à̀ l’enſeigne S. Ierôme, preés Saint Hilaire.",
-            "5r5",
-            "M. DC. LII."
+            ">M. DC. LII."
         ],
         [
             "3",
@@ -218,7 +224,16 @@
             "les nuicts ſont à cheual, &amp; voligent aux enuitons",
             "de Paris, pour obſeruer les embuſches qui dreſſent: j",
             "les Mazarins.",
-            "PIN."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

@@ -1,17 +1,21 @@
 {
-    "imprimatur": null,
+    "imprimatur": "Auec Permiſßion de ſon Alteſſe Royale.",
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-01-28",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
         "titre": "Relation véritable de la réduction de la ville de\n          Caudecoste, et la capitulation faite avec monseigneur le prince de Conty.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,50 +36,30 @@
         },
         "publisher": {
             "@ref": "isni:0000000070440942",
+            "@xml:id": "IL_LafossedeSalomon.xml",
             "persName": {
-                "forename": "Salomon",
-                "surname": "La Fosse (De)"
+                "forename": "Salomon de",
+                "surname": "La Fosse"
             }
         },
         "nbPages": "8"
     },
     "texte": [
         [
-            "9.",
             "RELATION",
-            "I",
             "VERITABLE DE LA",
             "reduction de la Ville de Cau",
             "decoſte, &amp; la Capitulation",
-            "faite auee Monſeigneur le",
+            "faite auec Monſeigneur le",
             "Prince de Conty.",
-            "oute la Copie imprimée à Bourdeau",
+            "Iouxte la Copie imprimée à Bourdeaux.",
             "A PARIS,",
-            "eeSoon p i ros",
+            "Chez SALOMON DE LA FOSSE.",
             "M. DC. LII.",
-            "Auec Permiſßion de ſon Alteſſe Royale.",
-            "1"
+            "Auec Permiſßion de ſon Alteſſe Royale."
         ],
         [
-            "-,",
-            "2",
-            "¬.",
-            "1",
-            "4 .",
-            ".",
-            "¬ .",
-            ".",
-            "’",
             "3",
-            ".",
-            ",,,",
-            "e.",
-            ".",
-            "4",
-            "o"
-        ],
-        [
-            "eoeeppoelpeepppeeebe8",
             "RELATION VERITABLE DE L",
             "pedution de l -ville de Caudccaſte, &amp; l capitula",
             "eo faue auec Monſoigneur le Prince de Coy.",
@@ -279,5 +263,14 @@
             "Ele uCuiPdeuae adete le i Fuio",
             "... --.¬"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

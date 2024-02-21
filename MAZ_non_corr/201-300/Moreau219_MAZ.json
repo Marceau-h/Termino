@@ -20,7 +20,7 @@
         },
         "author": {
             "@ref": "isni:0000000121755355",
-            "persName": "France. Parlement de Paris"
+            "orgName": "Parlement de Paris"
         },
         "pubDate": [
             {
@@ -39,7 +39,11 @@
             "@ref": "geonames:2988507",
             "#text": "Paris"
         },
-        "publisher": "Imprimeurs et libraires ordinaires du roi",
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
         "nbPages": "4"
     },
     "texte": [
@@ -108,5 +112,10 @@
             "Celationné à̀ l’Original, par moy Conſeille",
             "Secretaire du Roy &amp;de ſes Finances."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
     ]
 }

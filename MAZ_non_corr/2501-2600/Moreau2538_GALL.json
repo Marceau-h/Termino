@@ -3,15 +3,20 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "chantable",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Chansons",
+            "recueil",
+            "poésie satirique"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": true,
         "creation": "1652-08-19",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-03-22",
+            "@who": "KA"
         },
         "titre": "Nouveau recueil général contenant toutes les chansons\n          mazarinistes, et plusieurs qui n'ont point estées (sic) chantées depuis la sortie de\n          messieurs les princes, avec les tricotets et triolets de Mazarin depuis sa sortie.",
         "dates": {
@@ -19,7 +24,7 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -31,87 +36,44 @@
             "#text": "Paris"
         },
         "publisher": {
+            "@ref": "isni:0000000063027789",
+            "@xml:id": "IL_MorlotClaude.xml",
             "persName": {
-                "forename": "Marignon",
-                "surname": "Jacquet"
+                "forename": "Claude",
+                "surname": "Morlot, atelier de"
             }
         },
-        "nbPages": "39"
+        "nbPages": "35"
     },
     "texte": [
         [
-            "T",
-            "L.",
-            "NOVVE",
-            "T 7",
-            "4",
-            "E V",
-            "GENER",
-            "AV",
-            "TT",
-            "1",
-            "L A",
-            "A L.",
+            "NOVVEAV",
+            "RECVEIL",
+            "GENERAL",
             "CONTENANT TOVTES LES",
-            "CHANSONS AAZARINISTES, ET",
+            "CHANSONS MAZARINISTES, ET",
             "pluſieurs qui n’ont point eſtées Chantées, de¬",
             "puis la ſorties de Meſſieurs les Princes.",
-            "AVEC LES TCOTETS ET TRIOLETS",
+            "AVEC LES TRICOTETS ET TRIOLETS",
             "de Mazarin, depuis ſa ſortie.",
-            "eee",
-            "alees",
-            "edeas",
-            "e",
-            "aeeee ades",
-            "ea",
             "A PARIS,",
             "Chez Marignon Iacquet, ruë de la Boucherie",
             "aux trois Oyſons.",
-            "eaaereeee-ee¬¬¬",
-            "M DC. LI¬"
+            "M DC. LII"
         ],
         [
             "QVATRAIN",
-            "A t J",
-            "71",
-            "SVRLES RODOMONTADE DE MAZARIN.",
-            ",",
+            "SVR LES RODOMONTADE DE MAZARIN.",
             "aA",
-            "a.",
-            "aeea",
-            "a",
-            "elu",
-            "Sl",
-            "Aeſs",
-            "de¬",
-            "dd eaſeedl",
-            "ae dſdiſ",
-            "eſedaal",
-            "leeſeei",
-            "?",
-            "aaaeaaeas",
-            "aa",
-            "V",
-            "eee",
-            "leaaa",
-            ".",
             "lules, vous menitez que l’on vous donne",
-            "De l’a loïange, &amp; de l’onneur,",
-            "Alors que evous ne yoye perſonne",
-            "ous pous haute ’yu retgran cu",
-            ",. ors v o b¬ ?¬"
+            "De la louange, &amp; de l’onneur,",
+            "Alors que vous ne voyez perſonne",
+            "Vous vous battez d'vn tres-grand coeur"
         ],
         [
-            "7",
-            "Au,AAAu tuh",
-            "e e",
-            "l4 4",
-            "1",
-            ". A. .",
-            "¬",
-            "A A",
-            "MAZARI N.",
-            "Eſſieurs il vo’aut faire aceueil Mazarin cauſe du mal-hour",
+            "LE TRIOLET",
+            "MAZARIN.",
+            "Meſſieurs il vo’faut faire aceueil Mazarin cauſe du mal-hour",
             "VA tant de joliesChanſonnettes, Et de la perte de la France,",
             "Tu n’eſt rien qu’vn nerturbateur",
             "Qui ſont miſes dans ce Recueil,",
@@ -559,7 +521,7 @@
             "Et a toute ſa Cour",
             "C’eſt où ie fais pareſtre",
             "Mon aymable ſeiour.",
-            "E IN."
+            "FIN."
         ],
         [
             "de Maarin.",
@@ -3010,7 +2972,48 @@
             "Sera au bout d’vne potence;",
             "Ce coup il eſt en dêconfort,",
             "A peu qui perde patience.",
-            "FN."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
     ]
 }

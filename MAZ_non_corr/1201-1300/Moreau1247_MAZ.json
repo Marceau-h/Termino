@@ -45,6 +45,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000011194155",
+            "@xml:id": "IL_MusnierVeuvedAndre.xml",
             "persName": {
                 "forename": "Veuve d'André",
                 "surname": "Musnier"
@@ -251,5 +252,14 @@
             "Mais pour finir ie dis o.i",
             "FIN"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

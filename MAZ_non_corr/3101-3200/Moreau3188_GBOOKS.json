@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-05-04",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "AB"
         },
         "titre": "Relation véritable contenant le grand combat donné entre\n          les troupes de Son Altesse Royale et celle du C. M. à l'attaque d'Ètampe.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000001831368",
+            "@xml:id": "IL_BrunetJean.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Brunet"
@@ -41,43 +46,19 @@
     },
     "texte": [
         [
-            "L A",
+            "LA",
             "RELATION",
             "VERITABLE,",
             "Contenant le grand combat donné́",
             "entre les troupes de Son Alteſſe",
-            "Royale, &amp;celles du C. M.",
-            "à l’attaque d’ſtampes.",
-            "APAI",
-            "&amp;elue pui iei e uodoeee"
+            "Royale, &amp; celles du C. M.",
+            "à l’attaque d’Eſtampes.",
+            "A PARIS,",
+            "Chez IEAN BRVNET, ruë Saincte Anne.",
+            "M. DC. LII."
         ],
         [
-            "u",
-            ".",
-            ".",
-            ".. h i",
-            ".’. A",
-            "a",
-            "aa.",
-            "dafl aà-",
-            "l.",
-            "a Q nae",
-            "e :",
-            "mla",
-            ".",
-            "qL",
-            ".",
-            "e’",
-            "aa",
-            "1",
-            "2..3",
-            "l",
             "3",
-            "2.."
-        ],
-        [
-            "tt,",
-            "tp’pPſ e’e",
             "La Relation veritable, conte",
             "nant le grand combat donné",
             "entre les troupes de Son Al",
@@ -247,12 +228,16 @@
             "Alteſſe Royale ont lemeſme ſentiment, le temps",
             "ſeul decidera cette queſtion, cependant Dieu",
             "vaille ayder aux mieux intentionnez.",
-            "aa, a , a¬ aaaaas",
-            "IN",
-            "e",
-            "e.",
-            "2",
-            "."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

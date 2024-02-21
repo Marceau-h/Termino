@@ -2,7 +2,10 @@
     "imprimatur": null,
     "corrector": false,
     "entête": {
-        "form": "vers/prose",
+        "form": [
+            "vers",
+            "prose"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
@@ -25,18 +28,27 @@
                 "surname": "Du Bos"
             }
         },
-        "pubDate": {
-            "@source": "Mazarine",
-            "@when": "1649",
-            "#text": "1649"
-        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-01",
+                "#text": "10 ou 11 janvier 1649"
+            }
+        ],
         "pubPlace": {
             "@source": "Mazarine",
             "@ref": "geonames:2988507",
             "#text": "Paris"
         },
-        "publisher": "Anonyme",
-        "nbPages": "1"
+        "publisher": {
+            "persName": "Sans Nom"
+        },
+        "nbPages": "18"
     },
     "texte": [
         [
@@ -421,5 +433,23 @@
             "Cete haute vertu que ſa pourpre cruelle,",
             "Ne t’a iamas permis de montrer contre atruy."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
     ]
 }

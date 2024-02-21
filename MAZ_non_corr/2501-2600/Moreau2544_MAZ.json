@@ -1,37 +1,48 @@
 {
-    "imprimatur": null,
+    "imprimatur": "Auec Permißion de son Al. Royale",
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Turenne, Henri de La Tour d'Auvergne (1611-1675 ; vicomte de)",
+            "Tavannes, Jacques de Saulx (1620-1683 ; comte de)",
+            "Étampes (Essonne) – 1652 (Siège)"
         ],
-        "subject": null,
-        "creation": "1652-05-25",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-03-16",
+            "@who": "AB"
         },
-        "titre": "La nouvelle deffaite de l'infanterie du mareschal de Turenne\n          devant Estampes. Par Mr le comte de Tavannes. Le mercredy cinquiéme juin 1652.",
+        "titre": "Nouvelle ( la) défaite de l'infanterie du mareschal de\n          Turenne devant Estampes par monsieur le comte de Tavannes, le mercredi cinquiesme juin\n          1652.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-05-25",
-            "#text": "25 mai 2021"
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1652",
-            "#text": "1652"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1652-06-07",
+                "#text": "à partir du 7 juin 1652"
+            }
+        ],
         "pubPlace": {
+            "@source": "Mazarine",
             "@ref": "geonames:2988507",
-            "@source": "Moreau",
             "#text": "Paris"
         },
         "publisher": {
             "@ref": "isni:0000000364435102",
+            "@xml:id": "IL_ChouqueuxAndre.xml",
             "persName": {
                 "forename": "André",
                 "surname": "Chouqueux"
@@ -41,28 +52,25 @@
     },
     "texte": [
         [
-            "9",
             "LA NOVVELLE",
-            "¬!",
-            "DEEEATE",
+            "DEFAITE",
             "DE L’INFANTERIE",
-            "D MAREScaL",
+            "DV MARESCHAL",
             "DE TVRENNE",
-            "DeVvr sas",
-            "Par M le Core de Tauannes.",
-            "C A",
-            "ae lenue rgeruiaeue",
-            "ue uud u n,."
+            "DEVANT ESTAMPES",
+            "Par M le COMTE de Tauannes.",
+            "Le Mercredy cinquiéme Iuin 1652.",
+            "A PARIS,",
+            "Chez ANDRE CHOVQVEVX, ruë S. André",
+            "M. DC. LII.",
+            "Auec Permißion de son Al. Royale."
         ],
         [
-            ",âdt:a",
-            "Veie siyj gyppjegjes ee eet",
-            "oEE DEFTE",
-            "de l’ſnanerie dau Marleſchal du Taren",
-            "a doua Eftampes, e 5 Iauiin s",
-            "e eſi Ieo",
-            ",",
-            "’Eſt vhelveiteé́ certaine &amp; ue l’expé",
+            "I",
+            "LA NOVVELLE DEFAITE",
+            "de l’infanterie dau Marleſchal du Taren",
+            "ne deuant Eftampes, ce 5. Iuin 1652.",
+            "C’Eſt vhelveiteé́ certaine &amp; ue l’expé",
             "tience fait aſe cogoiſtre qu’v mé",
             "-chant auquel l’amſtantobĺe",
             "bouluerſe ſans ceſſe, &amp; ne luy donde aucuâ",
@@ -73,12 +81,12 @@
             "nis..",
             "Il en eſt ainſi du Cardinal Mazarin, leque?",
             "comme autheur de tant de maux qu’il à fai?",
-            "ouffrir dans la Ftance, ſent enſu ne con",
+            "ouffrir dans la Ftance, ſent enſu ne con¬",
             "ſtomatio ſigrande en ſon eſprit, qu’eſle né",
             "luy permet aucune douceurs Nottamment",
             "depuis qu’il à ſceu que le Due de Lorraine",
-            "eſtoit arriueé uec ſon anmé́e en tres-botl e",
-            "ſtat pour ayder à Meſſieurs les Princes à rui",
+            "eſtoit arriueé uec ſon anmé́e en tres-botl e¬",
+            "ſtat pour ayder à Meſſieurs les Princes à rui¬",
             "ner ſes mauuais deſſeins, &amp; luy donner la",
             "chaſſe, comme auſſi à touy es adheraas gl",
             "2..."
@@ -86,8 +94,8 @@
         [
             "n grend nobre patoueleReyum;",
             "’ayairſt efté adveréy que teſte atmée alloit",
-            "afer ajoiere deeifar les Pons’deB",
-            "teauxquiſqu fais rpres, leſquels ſont par",
+            "afer ajoiere deeifar les Pons’deB¬",
+            "teauxquiſqu fais rpres, leſquels ſont par¬",
             "s d Ss eetſurcatsiioa au",
             "Port à Langlois &amp; entrer au pais Gaſtinois,",
             "eeeoluioo daller ye Eampes, pos",
@@ -98,18 +106,19 @@
             "Le ardinal Mazarins luyanuoyé ofa",
             "Srſur courietiduycommandesldorpuedt",
             "dux ilcochaeuaux desmileutsde:ſohnlar",
-            "meée, &amp; les enuoyeren diligence verslariaie",
-            "pe deeine, pur’oppaſoau paſſage de cet",
+            "meée, &amp; les enuoyeren diligence verslariaie¬",
+            "pe deeine, pur’oppaſoau paſſage de cet¬",
             "eme,n",
             "’ e que le Maſchal d Taohe a faie",
-            "Merredy dernier uiquiémeIuin pourdon",
+            "Merredy dernier uiquiémeIuin pourdon¬",
             "ner ce cocetement à l’ennom communlel",
             "a4tdia Maarin qui pretenddi quedou",
             "mjlle cheuqu ſcrone; ſufftſanspour deffaite",
             "nq afmée-de huict mille onmoſess",
             "l 5 mte,deTaſnts quir tommnd",
             "&amp;p ilod gqueſu dans bampe",
-            "eſtant"
+            "eſtant",
+            "¬¬"
         ],
         [
             "5 ?",
@@ -118,24 +127,23 @@
             "aunée pour les enuoyer eontre les Lorrains,",
             "&amp; quil reſtoit au camp fot peu caualerie",
             "auc l’infanterie, ll ne voulue laiſſer éculér",
-            "e elle oceaſion ſans sen preualoir com",
-            "me il ft:",
-            "de ait ayféehoiſi troſs fhſſſe hob",
+            "e elle oceaſion ſans sen preualoir com¬",
+            "me il ft: de ait ayféehoiſi troſs fhſſſe hob",
             "mos des plusvillants de ceux qui ſont dans",
-            "la Ville, ſousles ceommandemens des Capitai",
+            "la Ville, ſousles ceommandemens des Capitai¬",
             "neparluy choiſis; il dſonha lesordres pcar b",
             "ſortie ſur les dix heures duſoir, du Merered?",
             "cnquíme Iuin au capennemy, leſquels ne",
             "attedpienopas queoceux de la villed’Eta",
             "pes ſoitiroionit dereche -d’autmt qllé e¬!",
             "ſtoient ſortis la nuict precedente;dodnt ils i?",
-            "auienamprné l’honner ſut Iesda",
+            "auienamprné l’honner ſut Iesda¬",
             "1:1",
             "rns¬ l.",
             "beuoprſſe eſavneſlte altaeal?",
             "ca, defore’queles erlenis héſret pus?",
             "mſme lteps d’advertir tdus les qudrhiers,!",
-            "ſioiqu as pluieproches e eurent llſat",
+            "ſioiqu as pluieproches e eurent llſat¬",
             "l ypaeoosaeill aſeut gran ma ieu?",
             "clsfdnthageſſe Vvigorelſthment, &amp; ſ!",
             "B"
@@ -152,7 +160,7 @@
             "non ſur les aſſaillans, qui ont deffait plus de",
             "mlle hmes-dSeneis, &amp; enleé deux",
             "qaities de leurs camp, outte la perte de",
-            "quantité d’Officiers, deſquels on n’a peuen",
+            "quantité d’Officiers, deſquels on n’a peuen¬",
             "core apprendre lnomasi ny ſçayoit les pa",
             "ticularitez.",
             "9.",
@@ -160,7 +168,7 @@
             "du ſoin dudie, Mercredy, &amp; dura iuſquesſur",
             "les du persapre ſinuict duIeudyin¬;",
             "qujeémeinn",
-            "Cette deffaite affoiblit grandoment lan",
+            "Cette deffaite affoiblit grandoment lan¬",
             "mée du Mareſchal de Turenne, lequel ena",
             "e vn telreſſenmen qil a iuré dpeadto la",
             "vie pluſtoſt &amp; çelle de ous lesſinh ppn2",
@@ -177,18 +185,26 @@
             "ſept mille hommes, tous gens de guerre, pour",
             "le ſeruice du Roy.",
             "Le Regiment de Languedoc, qui eſt de",
-            "dix-huict cens hommes, s’eſt ſignalé en cet",
+            "dix-huict cens hommes, s’eſt ſignalé en cet¬",
             "te deffaite, meſme à on eu peine de retirer les",
-            "ſoldats, tant ils eſtoient eſchauffez &amp; anni",
+            "ſoldats, tant ils eſtoient eſchauffez &amp; anni¬",
             "mez à tuer leurs ennemis, lequel Regiment",
             "oſt redouté ſur tous autres.",
-            "Cette nouuelle a eſté apportée à̀ ſon Al",
-            "teſſe Royale &amp; à Monſieur le Prince de Con",
-            "dé, ſur les dix aà̀ vnze heures du matin du leu",
-            "dy ſixieme de Iuin, par deux Cauaiers en",
+            "Cette nouuelle a eſté apportée à̀ ſon Al¬",
+            "teſſe Royale &amp; à Monſieur le Prince de Con¬",
+            "dé, ſur les dix aà̀ vnze heures du matin du leu¬",
+            "dy ſixieme de Iuin, par deux Cauaiers en¬",
             "uoyez expres à ſadite Alteſſe Royale, par le",
             "Comte de Tavannes, qui eſt la plus aſſeurée.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

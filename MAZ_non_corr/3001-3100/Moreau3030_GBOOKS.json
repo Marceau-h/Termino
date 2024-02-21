@@ -4,35 +4,34 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Recit veritable des discours tenus entre les trois figures\n          qui sont sur le Pont au Change, sur les affaires de ce temps.",
+        "titre": "Recit veritable des discours tenus entre les trois\n          figures qui sont sur le Pont au Change, sur les affaires de ce temps.",
         "dates": {
             "@type": "file_creation",
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
             "#text": "1649"
         },
         "pubPlace": {
-            "@ref": "geonames:2988507",
             "@source": "BMLyon",
             "#text": "Sans Lieu"
         },
         "publisher": {
             "@ref": "isni:000000000183047X",
             "@source": "BMLyon",
+            "@xml:id": "IL_TargaPierre.xml",
             "persName": {
                 "forename": "Pierre",
                 "surname": "Targa"
@@ -444,5 +443,14 @@
             "Cla Pr T a c A, uë Saimt Victor aas Solei! d’Or,",
             "M. DC. X I1 X."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

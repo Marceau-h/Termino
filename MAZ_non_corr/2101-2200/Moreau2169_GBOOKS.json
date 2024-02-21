@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-03-30",
         "change": {
             "@status": "not_corrected"
@@ -21,11 +20,7 @@
         },
         "author": {
             "@ref": "isni:0000000383255772",
-            "persName": {
-                "forename": "Louis",
-                "surname": "Bourbon (De)",
-                "name": "Louis XIV"
-            }
+            "persName": "Louis XIV"
         },
         "pubDate": {
             "@source": "Moreau",
@@ -39,6 +34,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000008903969",
+            "@xml:id": "IL_RocoletPierre.xml",
             "persName": {
                 "forename": "Pierre",
                 "surname": "Rocolet"
@@ -139,5 +135,10 @@
             "&amp; fſaue ls gms uans naſbe Cour de",
             "Aydes de Pars,"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4"
     ]
 }

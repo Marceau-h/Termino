@@ -24,7 +24,7 @@
         "author": [
             {
                 "@ref": "isni:0000000480502587",
-                "persName": "France. Parlement de Rouen"
+                "orgName": "France. Parlement de Rouen"
             },
             {
                 "@ref": "isni:0000000383255772",
@@ -51,13 +51,15 @@
         "publisher": [
             {
                 "@ref": "isni:0000000362042460",
+                "@xml:id": "IL_DuPetitValDavid.xml",
                 "persName": {
                     "forename": "David",
-                    "surname": "Du Petitval"
+                    "surname": "Du Petit Val"
                 }
             },
             {
                 "@ref": "isni:0000000108628239",
+                "@xml:id": "IL_ViretJean.xml",
                 "persName": {
                     "forename": "Jean",
                     "surname": "Viret"
@@ -792,5 +794,29 @@
             "J Sope,Xa oNEVA",
             "LE PIONNER, &amp; BéASSiE"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31"
     ]
 }

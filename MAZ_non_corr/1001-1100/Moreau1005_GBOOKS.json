@@ -1,12 +1,11 @@
 {
-    "imprimatur": "Avec\n                    Privilége",
+    "imprimatur": "Avec Privilége",
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "non renseigné",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
         "handwritten_note": false,
@@ -17,33 +16,39 @@
             "@when": "2021-11-09",
             "@who": "AB"
         },
-        "titre": "Déplorable mort (la) de Charles 1er, roi dela\n                    Grande- Bretagne.",
+        "titre": "Déplorable mort (la) de Charles 1er, roi dela Grande-\n          Bretagne.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
         "author": {
+            "@source": "Moreau",
+            "@ref": "isni:000000012141565X",
             "persName": {
-                "forename": null,
-                "surname": null
+                "forename": "Théophraste",
+                "surname": "Renaudot"
             }
         },
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1649-03-08",
-            "#text": "8 mars 1649"
-        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-03-18",
+                "#text": "18 mars 1649"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2979783",
             "@source": "Moreau",
             "#text": "Saint-Germain-En-Laye"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "8"
     },
@@ -393,8 +398,17 @@
             "grand’Bretagne &amp; d’Irlande, ſous le n m de Charles II, par",
             "les Etats d’Elcoſſe lors aſſemblez à Edimbourg a exrémement",
             "indignez d’vne telle batbarie, qu’ils s’appreſtent à veneer.",
-            "A S. Germain en Laye, le 8 mars 16̃49. Avec",
-            "Privilége."
+            "A S. Germain en Laye, le 18 mars 16̃49. Avec Privilége."
         ]
+    ],
+    "pages_number": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
     ]
 }

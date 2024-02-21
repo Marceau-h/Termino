@@ -4,22 +4,21 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-02-08",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Lettre du sieur La Fleur, escrite au sieur De L'Espine a S.\n          Germain en Laye, le neufiesme février 1649. Contenant le grand nombre des pieces imprimées\n          contre Julles Mazarin.",
+        "titre": "Lettre du sieur La Fleur, escrite au sieur De L'Espine\n          a S. Germain en Laye, le neufiesme février 1649. Contenant le grand nombre des pieces\n          imprimées contre Julles Mazarin.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-06-08",
             "#text": "8 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -32,6 +31,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000001831368",
+            "@xml:id": "IL_BrunetJean.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Brunet"
@@ -417,5 +417,17 @@
             "Var6eré-mbléſeruitéar,",
             "LA EvR."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
     ]
 }

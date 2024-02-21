@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-04-11",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-20",
+            "@who": "AB"
         },
         "titre": "Défaite (la) du maréchal de Seneterre par les troupes de\n          Son A. R., commandées par le comte de Tavannes en l'absence de M. le prince de\n          Condé.",
         "dates": {
@@ -19,17 +23,19 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-04",
+                "#text": "avril 1652"
             }
-        },
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1652",
-            "#text": "1652"
-        },
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -37,6 +43,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000364435102",
+            "@xml:id": "IL_ChouqueuxAndre.xml",
             "persName": {
                 "forename": "André",
                 "surname": "Chouqueux"
@@ -46,23 +53,22 @@
     },
     "texte": [
         [
-            "S A",
-            "DEFAIT",
-            "D V",
+            "LA",
+            "DEFAITE",
+            "DV",
             "MARESCHAL",
             "DE SENETERRE",
             "Par les trouppes de ſon A. R:",
-            "Commandées par le Conte de",
-            "Tauannie n l’apſeenes de i",
+            "Commandées par le Comte de",
+            "Tauanne, en l’abſencs de Mr le",
             "Prince de Condé.",
-            "A PAR",
-            "n Dne evivx, ue aln",
-            "r nerir¬"
+            "A PARIS,",
+            "Chez ANDRE CHOVQVEVX, ruë Sainct",
+            "André des Arts.",
+            "M. DC. LII."
         ],
         [
-            "E",
-            "te &amp;&amp;ee tſeit ſe edleleed",
-            "é esé’re ee ?:5",
+            "3",
             "DEFAAITE DV MARESCH.",
             "de Sensterre par les trouppes de ſs A",
             "Royalle commandee: par. l Comte de",
@@ -213,7 +219,16 @@
             "à la guerre auec grande reſolution de pourſui",
             "ure viuement les Mazarins, comme ennems",
             "de la France, &amp; les ſiens en particulier.",
-            "FIN. l"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

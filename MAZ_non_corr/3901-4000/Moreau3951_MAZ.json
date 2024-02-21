@@ -37,6 +37,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
             "persName": {
                 "forename": "Jacob",
                 "surname": "Chevalier"
@@ -212,5 +213,13 @@
             "promet de donner la libert́ à Meſſieurs les Princes.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

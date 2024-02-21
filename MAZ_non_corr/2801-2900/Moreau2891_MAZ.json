@@ -60,6 +60,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000108647130",
+            "@xml:id": "IL_BoudevilleClaude.xml",
             "persName": {
                 "forename": "Claude",
                 "surname": "Boudeville"
@@ -335,8 +336,9 @@
             "l’emportent à la fin par leur trahiſon.",
             "Certainement il n’eſt pas beſoin de faire icy vne longue deduction de ſes",
             "maximes, puiſque tous les François ſonttémoins oculaires de cette eminé¬",
-            "te grandeur de courage, qui luy a fait mépriſer ſi genereuſement la baſſeſſe <pb",
-            "n=\"15\"/>",
+            "te grandeur de courage, qui luy a fait mépriſer ſi genereuſement la baſſeſſe"
+        ],
+        [
             "des verus que le vulgaire adore, pour éleuer ſon genie à̀ eette magnificen¬",
             "ce des crimes, qui ſont les vertus des grands, &amp; les illuſtres qualite de,",
             "home d Eſtat Peut on luy reprocher qu’il ait iamais humlie ſon eſprir",
@@ -588,5 +590,18 @@
             "poſts,les ſubſides, deſquels ls’et ſeruſ pour ieter la diſete dals lespronince.",
             "les plos abondantes pour ruiner les Havr es &amp; les Ports les plus fqente"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
     ]
 }

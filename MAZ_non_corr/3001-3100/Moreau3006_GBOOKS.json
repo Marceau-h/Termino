@@ -4,22 +4,21 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-02-18",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Recit veritable, de ce qui s'est passé au Mont de Mersan,\n          contre les troupes du marquis de Poyanne.",
+        "titre": "Recit veritable, de ce qui s'est passé au Mont de\n          Mersan, contre les troupes du marquis de Poyanne.",
         "dates": {
             "@type": "file_creation",
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Carrier",
             "@when": "1652-03-06",
@@ -32,9 +31,10 @@
         },
         "publisher": {
             "@ref": "isni:0000000121408134",
+            "@xml:id": "IL_VivenayNicolas.xml",
             "persName": {
                 "forename": "Nicolas",
-                "surname": "Vivenet"
+                "surname": "Vivenay"
             }
         },
         "nbPages": "7"
@@ -242,5 +242,14 @@
             "Roy &amp; Monſeigneur le Prince.",
             "FE I N."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

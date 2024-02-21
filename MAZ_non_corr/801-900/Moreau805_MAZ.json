@@ -3,6 +3,7 @@
     "corrector": false,
     "entête": {
         "form": "vers",
+        "genre": "Chanson",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
@@ -17,13 +18,13 @@
             "@when": "2022-02-10",
             "@who": "AB"
         },
-        "titre": "Coup (le) de foudre ou l’Écho du bois de\n          Vincennes.",
+        "titre": "Coup (le) de fronde ou l’Écho du bois de\n          Vincennes.",
         "dates": {
             "@type": "file_creation",
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -42,7 +43,9 @@
             "@ref": "geonames:2989317",
             "#text": "Orléans"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "4"
     },
     "texte": [
@@ -56,8 +59,8 @@
         [
             "LE COVP DE FRONDE",
             "Où l’Echo du Bois de Vincenne,",
-            "Sur le chant des Fron leur5.",
-            "Leſteertain depuis quineaine,",
+            "Sur le chant des Frondeurs.",
+            "Il est certain depuis quinzaine,",
             "Qu’on entend que gemiſſemens,",
             "u Studſlous du lou de meeaue",
             "Que ſbut Candô &amp;ſs parens,",
@@ -190,5 +193,11 @@
             "Du Boſſu, du Preux, &amp; du Fin.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "7",
+        "8",
+        "9",
+        "10"
     ]
 }

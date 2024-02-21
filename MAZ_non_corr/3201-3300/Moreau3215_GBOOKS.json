@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-01-09",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
         "titre": "Relation véritable de ce qui s'est passé à la prise du\n          Pont de Cé par les troupes de monsieur le Prince, commandées par M. le duc de Rohan, le 15\n          du mois présent (janvier 1652)",
         "dates": {
@@ -19,44 +23,46 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "#text": "Sans Date"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-01",
+                "#text": "janvier 1652"
+            }
+        ],
         "pubPlace": {
             "@source": "Moreau",
             "#text": "Sans Lieu"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
         [
-            "RE LATION",
-            "VAnl1",
-            "n e or s",
-            "PoNT DE CE",
-            "PARLES TovPPES",
+            "RELATION",
+            "VERITABLE",
+            "DE CE QVI S'EST PASSÉ",
+            "A LA PRISE DV",
+            "PONT DE CE",
+            "PAR LES TROVPPES",
+            "DE M. LE",
             "PRINCE",
-            "eounpegns pA",
-            "p",
-            "ROHA N",
-            "le1s. du mois preſent."
-        ],
-        [
-            "1",
-            "1",
-            "1¬2",
-            "2",
-            "8¬!",
-            "¬ E",
-            "ſ"
+            "COMMANDEES PAR",
+            "M. LE DVC",
+            "DE",
+            "ROHAN",
+            "le 15. du mois preſent."
         ],
         [
             "3",
-            "AA&amp;û eAé h&amp;",
-            "Apppppp4e? pe?",
             "RELAATION VERITABLE",
             "de ce qui s’eſt paſſé à la priſe du Pont de é",
             "par les trouppes de M. le Prince, com",
@@ -230,10 +236,16 @@
             "bien- roſt voir à̀ l’Eſtar que leurs intentions lou",
             "auſſi fauorables, que celles des Maarins los",
             "contraires aà̀ſa tanquillité,",
-            "FIN.",
-            "¬-",
-            "¬¬..,.",
-            "¬¬aaaa¬,, a 2 a"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

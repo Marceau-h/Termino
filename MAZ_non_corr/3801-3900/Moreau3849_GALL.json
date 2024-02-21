@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "chantable",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Chanson",
+            "triolet"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-06-03",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-21",
+            "@who": "AB"
         },
         "titre": "Triolets (les) de Bourdeaux.",
         "dates": {
@@ -19,33 +23,23 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
             "#text": "1649"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "7"
     },
     "texte": [
         [
-            "¬",
-            ". .",
-            "71",
-            "BO",
-            "H",
-            "T E",
-            "1",
-            "L",
-            "0:",
-            "l re",
-            "i",
-            "le l eeeseis",
-            ",",
-            "l",
-            "A"
+            "TRIOLETS",
+            "DE",
+            "BOVRDEAVX."
         ],
         [
             "2",
@@ -180,8 +174,15 @@
             "Vous viſtes bien la ville preſte,",
             "Vous ſortiſtes auſſi ſans tamoour,",
             "Duc d’Eſpernon, &amp; ſans trompetcoa",
-            "S?",
-            "1 649."
+            "1649."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

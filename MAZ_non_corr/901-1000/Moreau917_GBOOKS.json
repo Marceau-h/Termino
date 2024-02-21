@@ -12,7 +12,7 @@
             "@when": "2021-11-16",
             "@who": "AB"
         },
-        "titre": "Déclaration du roi, par laquelle la séance du\n                    parlement de Paris est transférée en la ville de Montargis, avec interdiction de\n                    s'assembler, ni faire aucun acte de justice dans Paris",
+        "titre": "Déclaration du roi, par laquelle la séance du parlement\n          de Paris est transférée en la ville de Montargis, avec interdiction de s'assembler, ni\n          faire aucun acte de justice dans Paris",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
@@ -36,10 +36,7 @@
             "#text": "Saint-Germain-En-Laye"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "8"
     },
@@ -279,5 +276,15 @@
             "M. DC. XLIX.",
             "AVEC PRIVILEGE DV ROY."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

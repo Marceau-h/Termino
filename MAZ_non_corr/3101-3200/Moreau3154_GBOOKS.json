@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
-        "subject": null,
+        "subject": "Bordeaux",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1650-09-02",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "AB"
         },
         "titre": "Relation des dernières nouvelles du siège de la ville de\n          Rordeaux, avec la prise et conservation du faubourg Saint-Seurin et état de l'armée du\n          roi, avec le nombre des blessés et des prisonniers.",
         "dates": {
@@ -19,12 +23,19 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1650",
-            "#text": "1650"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1650-09",
+                "#text": "après septembre 1650"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -40,42 +51,22 @@
     },
     "texte": [
         [
-            "r",
             "RELATION",
-            "l DES DERNIERES",
+            "DES DERNIERES",
             "NOVVELLES",
             "DE BORDEAVX",
-            "e enus ere ouseuvrmo",
+            "AVEC LA PRISE ET CONSERVATION",
             "du Faux-bourg S. Surin, &amp; eſtat",
             "de l’Armée du Roy.",
-            "mbre des bleſſez, &amp; des priſonniers.",
-            "e e e",
-            "1 M. DC. L."
+            "Auec le nombre des bleſſez, &amp; des priſonniers.",
+            "A PARIS,",
+            "Par MARTIN BELAY, Marchand Libraire.",
+            "M. DC. L."
         ],
         [
-            ".l ¬.",
-            "a",
-            "¬1",
-            "L",
-            "r aaa",
-            "l a.",
-            "E.",
-            ". .",
-            "-4¬¬ ¬",
-            ".. .!",
-            "¬ -oaarr",
-            "1. 3",
-            "anGo",
-            "1"
-        ],
-        [
-            "tbhn e hef e fuAbſe",
-            "pc93",
-            "S eereoeoegogeege",
-            "Vee ueeugeee eeeee9",
+            "3",
             "EXTRAIT",
-            "DE DEVXLETTRES",
-            "1",
+            "DE DEVX LETTRES",
             "des 5. &amp; 9. Septembre 65o.",
             "CONTENANT LE SIEGE DE LA VILLE",
             "de Bordeaux La ptiſe &amp; conſeruatioa du Faux",
@@ -221,5 +212,14 @@
             "&amp; de gloire, que le Ciel n’en heniſe à",
             "iamais leur Bonté Royale."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

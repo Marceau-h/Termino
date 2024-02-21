@@ -46,14 +46,16 @@
             "@ref": "geonames:2988507",
             "#text": "Paris"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "12"
     },
     "texte": [
         [
             "L'OYGNON",
             "OV",
-            "L(VNION,",
+            "L'VNION,",
             "QVI FAIT MAL",
             "A",
             "MAZARIN",
@@ -401,5 +403,18 @@
             "Qu’il prend tout, &amp; neſçait rien rendre.",
             "FIN?"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
     ]
 }

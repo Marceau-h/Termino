@@ -3,13 +3,18 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Poésie à forme fixe",
+            "Ballade"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-15",
+            "@who": "AB"
         },
         "titre": "Ballade du Mazarin, grand joueur de hoc",
         "dates": {
@@ -17,7 +22,7 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -30,6 +35,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000001831368",
+            "@xml:id": "IL_BrunetJean.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Brunet"
@@ -39,39 +45,24 @@
     },
     "texte": [
         [
-            "H",
-            "Z .",
-            "T¬",
-            "4",
-            "1",
-            "IL L",
-            "D V",
+            "BALLADE",
+            "DV",
             "MAZARIN",
-            "rA",
-            "A",
             "GRAND IOVEVR",
             "DE",
             "HOC",
-            "r",
-            "ee",
-            "A PAR1S,",
+            "A PARIS,",
             "Chez IEAN BRVNET, ruë neuue ſainct",
-            "Louys, auCanon Roal, oehe le Palais¬",
-            "¬",
-            "M. DC. XLl.",
-            "97"
+            "Louys, au Canon Royal, proche le Palais.",
+            "M. DC. XLIX."
         ],
         [
-            "1",
-            "&amp;AldAtthe Ah&amp;ſul.",
-            "ééſs é6s",
-            "n",
-            "BLLADE D MAAZRIN, GR",
-            "ioueur de Hoe.",
-            "Nfin il enaura deſia le forfaitelAC",
+            "3",
+            "BLLADE DV MAZARIN, GRAND",
+            "ioueur de Hoc.",
+            "ENfin il enaura deſia le forfaitelAC",
             "Et le ieune frondeur auſiferme qu’vnroCc",
             "Sanglera la eroupiere à ce oüeur de hOC.,",
-            "¬0",
             "Dont l’auarice a mis noſtre France au biſſAC,",
             "Les enqueſtes pour luy ſont pires que letIC",
             "Toutes ſes actions-s’obſeruent ric à rIC,",
@@ -118,5 +109,10 @@
             "Ie ſuis dans l’aduenirſçauant commevn en oc,",
             "Il ne peut eſuiter le mat dans cét eſchEC."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4"
     ]
 }

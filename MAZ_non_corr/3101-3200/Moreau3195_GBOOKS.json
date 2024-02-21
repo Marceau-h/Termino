@@ -2,16 +2,26 @@
     "imprimatur": null,
     "corrector": false,
     "entête": {
-        "form": "vers/prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "form": [
+            "vers",
+            "prose"
         ],
-        "subject": null,
+        "genre": [
+            "narration",
+            "récit"
+        ],
+        "subject": [
+            "Bordeaux",
+            "Parlement de Paris"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-03-23",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "AB"
         },
         "titre": "Relation véritable contenant tout ce qui s'est passé au\n          Parlement dans les dernières assemblées, et de l'arrivée de Leurs Majestés devant la ville\n          d'Orléans et le refus de l'entrée du cardinal Mazarin.",
         "dates": {
@@ -19,7 +29,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,6 +42,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
             "persName": {
                 "forename": "Jacob",
                 "surname": "Chevalier"
@@ -41,33 +52,20 @@
     },
     "texte": [
         [
-            "eTT T",
-            "1",
-            "1",
-            "A IL IN",
+            "RELATION",
             "VERITABLE",
             "CONTENANT TOVT CE QV1",
-            "Seſt paſé au Parlement dans les",
+            "S'eſt paſſé au Parlement dans les",
             "dernieres Aſſemblées.",
-            "Et de l’riúe de leurs Mjeſez deuant la lle",
-            "dOrles: Et le refus de l’ente a Cardinal azarin.",
-            "o",
-            "ld",
-            "Re",
-            "us",
-            "A PAR1S,",
-            "e IA C0B CHIE V ALIE R, proche Saint",
-            "M. DC. LII.",
-            ".",
-            "1"
+            "Et de l’arriuée de leurs Majeſtez deuant la Ville",
+            "d'Orleans: Et le refus de l’entée au Cardinal Mazarin.",
+            "A PARIS,",
+            "Chez IACOB CHEVALIER, proche Saint",
+            "Iean de Latran.",
+            "M. DC. LII."
         ],
         [
-            "e",
-            "e",
-            "."
-        ],
-        [
-            "gejgisesiy",
+            "3",
             "Relation veritable contenant tout",
             "ce qui s’eſt paſſeé au Parlement dans",
             "les dernieres Aſſemblées. Et de l’ar.",
@@ -199,9 +197,17 @@
             "par vn Secretaire de la Cour, oupat",
             "vn Preſident, &amp; deux Conſeillers: &amp;",
             "la deliberation n’ayant pas eſté paia",
-            "cheuée, on remit l’aſſemblée au Sa",
-            "edy ſuiuant.",
-            "u"
+            "cheuée, on remit l’aſſemblée au Sa¬",
+            "medy ſuiuant."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

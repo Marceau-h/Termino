@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-07-20",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "AB"
         },
         "titre": "Relation de ce qui s'est passé en l'attaque et prise du\n          château de Dijon et autres places, avec le nombre des morts et des blessés.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
             "persName": {
                 "forename": "Jacob",
                 "surname": "Chevalier"
@@ -42,30 +47,19 @@
     "texte": [
         [
             "RELATION",
-            "1",
-            "e eni non e",
+            "DE CE QVI S'EST PASSE",
+            "En l'Attaque &amp; priſe du",
             "Chaſteau de Dijon, Et",
             "autres places.",
-            "VEC LE NOMBRE DES MORT5S",
-            "&amp; bleſſe.",
-            "A",
-            "ee",
-            "eus",
-            "pdegeees",
-            "n",
+            "AVEC LE NOMBRE DES MORTS",
+            "&amp; bleſſez.",
             "A PARIS,",
-            "du IAco che v i e e , prochie Sainlean",
-            "en"
+            "Chez IACOB CHEVALIER, proche Saint Iean",
+            "de Latran.",
+            "M. DC. LII."
         ],
         [
-            "s",
-            "l",
-            ".",
-            "a"
-        ],
-        [
-            "e,,,u,:,",
-            "’g&amp;p’e’:’P’pt’’:?",
+            "3",
             "RELTION DE CE QVI S’EST PASSE",
             "eu l’atraque, &amp; priſe du Chaſteau de Dijon.",
             "E PaiNeE D Cco n’faiſant l’echange",
@@ -253,8 +247,16 @@
             "autresfois deliurez vn ioude Noſtre-Dame d’vn ſiege",
             "memorable, que de puiſſans ennemis de l’Eſtat auoiea!",
             "mis deuant cette Ville.",
-            "A",
             "F1N"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

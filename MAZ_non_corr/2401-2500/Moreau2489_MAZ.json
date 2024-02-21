@@ -50,6 +50,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
             "persName": {
                 "forename": "Veuve de Jean",
                 "surname": "Guillemot"
@@ -175,5 +176,12 @@
             "imatriculaam &amp; commoyanfem infrà ſignofn ,",
             "Anno &amp; die quo ſupra."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14"
     ]
 }

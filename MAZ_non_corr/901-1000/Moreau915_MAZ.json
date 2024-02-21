@@ -24,7 +24,7 @@
         "author": [
             {
                 "@ref": "isni:0000000121755355",
-                "persName": "France. Parlement de Paris"
+                "orgName": "Parlement de Paris"
             },
             {
                 "@ref": "isni:0000000383255772",
@@ -49,6 +49,7 @@
             "#text": "Orléans"
         },
         "publisher": {
+            "@xml:id": "IL_ParisMaria.xml",
             "@ref": "FRBNF:17146624",
             "persName": {
                 "forename": "Maria",
@@ -272,5 +273,13 @@
             "Collationné à l’original par moy Conſeiller",
             "Secretaire du Roy &amp; de ſes Finances."
         ]
+    ],
+    "pages_number": [
+        "7",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
     ]
 }

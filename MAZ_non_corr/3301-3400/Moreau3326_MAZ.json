@@ -2,7 +2,10 @@
     "imprimatur": "AVEC PERMISSION",
     "corrector": false,
     "entête": {
-        "form": "vers/prose",
+        "form": [
+            "vers",
+            "prose"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
@@ -18,7 +21,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Mazarine",
             "@when": "1649",
@@ -31,6 +34,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000060006122",
+            "@xml:id": "IL_GuilleryJacques.xml",
             "persName": {
                 "forename": "Jacques",
                 "surname": "Guillery"
@@ -243,5 +247,13 @@
             "De la veſpre Sicillienne.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

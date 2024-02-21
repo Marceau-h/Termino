@@ -26,7 +26,7 @@
         },
         "author": {
             "@ref": "isni:0000000119572170",
-            "persName": "France. Parlement de Bordeaux"
+            "orgName": "Parlement de Bordeaux"
         },
         "pubDate": {
             "@source": "Mazarine",
@@ -38,7 +38,9 @@
             "@ref": "geonames:6455058",
             "#text": "Bordeaux"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "4"
     },
     "texte": [
@@ -146,5 +148,11 @@
             "Nous croire",
             "MESSIEVRS"
         ]
+    ],
+    "pages_number": [
+        "7",
+        "8",
+        "9",
+        "10"
     ]
 }

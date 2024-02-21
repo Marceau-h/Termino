@@ -12,18 +12,13 @@
             "@when": "2021-11-15",
             "@who": "AB"
         },
-        "titre": "Espérance (l') des bons villageois et leurs\n                    réjouissances publiques sur les heureux progrès des armées parisiennes,\n                    conduites par messieurs les princes de Conty, de Beaufort, d'Elbeuf et autres\n                    grands seigneurs.",
+        "titre": "Espérance (l') des bons villageois et leurs réjouissances\n          publiques sur les heureux progrès des armées parisiennes, conduites par messieurs les\n          princes de Conty, de Beaufort, d'Elbeuf et autres grands seigneurs.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -36,6 +31,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000108647130",
+            "@xml:id": "IL_BoudevilleClaude.xml",
             "persName": {
                 "forename": "Claude",
                 "surname": "Boudeville"
@@ -291,5 +287,14 @@
             "Et tous ceos qui naintieunent leur part.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "5",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
     ]
 }

@@ -1,17 +1,22 @@
 {
-    "imprimatur": null,
+    "imprimatur": "Avec Privilége.",
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "relation",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-01-26",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-20",
+            "@who": "AB"
         },
         "titre": "Défaite (la) d’une partie de la cavalerie du régiment de\n          Corinthe et de celui d’infanterie du duc de Bouillon au pont Antoni (sic) et sur le chemin\n          de Paris à Lonjumeau, avec la prise d’un convoi de soixante charrettes chargées de farine,\n          quatre cents chevaux et autre butin, où les Parisiens ont eu plus de cinquante des leurs\n          tués et plus de cent faits prisonniers.",
         "dates": {
@@ -19,25 +24,35 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1649-01-30",
-            "#text": "30 janvier 1649"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-01-30",
+                "#text": "daté du 30 janvier 1649"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2979783",
             "@source": "Moreau",
             "#text": "Saint-Germain-En-Laye"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
         [
-            "A L A L",
-            "D’VNE PARTIE DE LA CAVALE.",
-            "1E du ré́giment de Corinthe, &amp; de celui",
+            "I",
+            "LA DEFAITE",
+            "D’VNE PARTIE DE LA CAVALE¬",
+            "RIE du ré́giment de Corinthe, &amp; de celui",
             "d’Infanterie du Duc de Boüil lon, au",
             "Pont Antoni, &amp; ſur le chemin de Pais à",
             "Long-jumeau",
@@ -259,9 +274,18 @@
             "devoir &amp; ſe remettre dans les bonnes graces",
             "de Leurs Majeſtez, qui ne ſe laſſent point",
             "de lui tendre les bras.",
-            "V",
-            "Imprimé àS. GERMAIN EN LAYE.",
-            "le ;o lanuier e49. Avee Ptivilége."
+            "Imprimé à S. GERMAIN EN LAYE.",
+            "le 30 Ianvier 1649. Avec Privilége."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

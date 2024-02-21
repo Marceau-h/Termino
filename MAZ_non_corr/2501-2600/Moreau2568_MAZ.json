@@ -18,7 +18,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -39,13 +39,15 @@
         "publisher": [
             {
                 "@ref": "isni:0000000121202363",
+                "@xml:id": "IL_AlliotGervais.xml",
                 "persName": {
                     "forename": "Gervais",
                     "surname": "Alliot"
                 }
             },
             {
-                "@ref": "isni:0000000360940558",
+                "@ref": "isni:0000000121179650",
+                "@xml:id": "IL_LangloisJacques.xml",
                 "persName": {
                     "forename": "Jacques",
                     "surname": "Langlois"
@@ -53,6 +55,7 @@
             },
             {
                 "@ref": "isni:0000000110403338",
+                "@xml:id": "IL_LangloisDenis.xml",
                 "persName": {
                     "forename": "Denis",
                     "surname": "Langlois"
@@ -1510,5 +1513,42 @@
             "ssaaaF",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
     ]
 }

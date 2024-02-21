@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-03-22",
         "change": {
             "@status": "not_corrected"
@@ -23,7 +22,7 @@
             "@ref": "isni:0000000447083018",
             "persName": {
                 "forename": "Henriette-Marie",
-                "surname": "France (De)"
+                "surname": "France de"
             }
         },
         "pubDate": {
@@ -38,6 +37,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000114066324",
+            "@xml:id": "IL_VariquetPierre.xml",
             "persName": {
                 "forename": "Pierre",
                 "surname": "Variquet"
@@ -269,5 +269,15 @@
             "La tres-affestionnée",
             "Reyne d’Angleterre."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

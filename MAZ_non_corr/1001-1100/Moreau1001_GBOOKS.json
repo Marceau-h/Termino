@@ -4,14 +4,15 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1650-10-01",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-07",
+            "@who": "AB"
         },
         "titre": "Départ (le) de Leurs Majestés de la vilie de Bordeaux,\n          avec toutes les particularités de ce qui s’est passé en leur séjour de ladite ville,\n          depuis la déclaration, ensemble le rétablissement de tous les officiers qui s'en étoient\n          retirés, avec les victoires de l'armée dans la Champagne et dans la Lorraine.",
         "dates": {
@@ -19,7 +20,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1650",
@@ -32,41 +33,35 @@
         },
         "publisher": {
             "@ref": "isni:0000000121209450",
+            "@xml:id": "IL_EstienneAntoine.xml",
             "persName": {
                 "forename": "Antoine",
                 "surname": "Estienne"
             }
         },
-        "nbPages": "7"
+        "nbPages": "8"
     },
     "texte": [
         [
             "LE DEPART",
-            "7",
-            "E ;",
             "DE LEVRS MAIESTES",
-            "¬¬",
             "DE LA VILLE DE BORDEAVX,",
             "Auec toutes les Particularitez de ce qui",
             "S’eſt paſſé en leur ſéjour de ladite ville",
             "depuis la Declaration: Enſemble le re¬",
             "ſtabliſſement de tous les Officiers qui",
             "S’en eſtoient retirez.",
-            "Auec les vicloires de l’armée du R oy dams la Champagne",
-            "&amp; dans la Lorrase.",
-            "PARIS,",
-            "A",
-            "Par Atoine EsTE E, Prenier Imprimeur &amp;",
+            "Auec les victoires de l’armée du Roy dans la Champagne",
+            "&amp; dans la Lorraine.",
+            "A PARIS,",
+            "Par ANTOINE ESTIENNE, Premier Imprimeur &amp;",
             "Libraire ordinaire du Roy, ruë S. Iacques, au College",
             "Royal deuant S. Benoiſt.",
             "M. DC. L."
         ],
         [
-            "pseegsgyr",
-            "Q",
-            "eßee’eë",
+            "3",
             "LE DEPART DE LEVRS",
-            "y r¬¬ ¬",
             "Majeſtez de la ville de Bordeaux;",
             "Auec les particularitez de ce qui s’eſt",
             "paſſe en leur ſejour dans ladite ville",
@@ -222,8 +217,16 @@
             "fares de ſadite Maieſté, &amp; defenſes ſont faites à tous autres de les entre¬",
             "predre ſur peine de faux, &amp; de cinq cens liures d’a nuenle, &amp; aarespei¬!",
             "nes plus ampleent mentionné́es par leurs Priuleges, reſme de prilon",
-            "contre les lmprimeurs &amp; Colporteurs contreuenans.",
-            "¬..1"
+            "contre les lmprimeurs &amp; Colporteurs contreuenans."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

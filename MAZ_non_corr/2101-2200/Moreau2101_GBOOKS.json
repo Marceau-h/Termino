@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
             "@status": "not_corrected"
@@ -21,27 +20,37 @@
         },
         "author": {
             "@role": "alleged_author",
-            "@source": "BM",
+            "@source": "Mazarine",
             "@ref": "isni:0000000061191892",
             "persName": {
                 "forename": "Luis",
                 "surname": "Méndez de Haro"
             }
         },
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1649",
-            "#text": "1649"
-        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-01",
+                "@notAfter": "1649-03",
+                "#text": "pendant le blocus de\n            Paris"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
             "#text": "Paris"
         },
         "publisher": {
+            "@ref": "isni:0000000506791357",
+            "@xml:id": "IL_NoelFrancois.xml",
             "persName": {
                 "forename": "François",
-                "surname": "Noel"
+                "surname": "Noël"
             }
         },
         "nbPages": "8"
@@ -329,5 +338,15 @@
             "1N.",
             "¬1"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

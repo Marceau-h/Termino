@@ -3,33 +3,39 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1650-10-01",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "AB"
         },
-        "titre": "Relation véritable contenant les articles accordés à\n          madame la Princesse et à monsieur le duc d'Anguien, sous le bon vouloir et plaisir du roi,\n          en conséquence de la paix de Bordeaux, publiée le 17 octobre 1650, en présence des sieurs\n          de Saint-Août, comte de Charteaumeillan et d'Alvimare, sous-gouverneur de mon seigneur le\n          duc d'Anjou, envoyés par Leurs Majestés, et le sieur Laisné (Lenet), conseiller ordinaire\n          du roi en ses conseils d'Etat et privé, envoyé par madame la Princesse en exécution\n          desdits articles, avec amnistie aux sieurs deChambois (sic), comte de Bussy Rabutin,\n          Montatère, Delignon, Degamille et autres, fait à Montrond le 23 octobre 1650.",
+        "titre": "Relation véritable contenant les articles accordés à\n          madame la Princesse et à monsieur le duc d'Anguien, sous le bon vouloir et plaisir du roi,\n          en conséquence de la paix de Bordeaux, publiée le 13 octobre 1650, en présence des sieurs\n          de Saint-Août, comte de Charteaumeillan et d'Alvimare, sous-gouverneur de mon seigneur le\n          duc d'Anjou, envoyés par Leurs Majestés, et le sieur Laisné (Lenet), conseiller ordinaire\n          du roi en ses conseils d'Etat et privé, envoyé par madame la Princesse en exécution\n          desdits articles, avec amnistie aux sieurs deChambois (sic), comte de Bussy Rabutin,\n          Montatère, Delignon, Degamille et autres, fait à Montrond le 23 octobre 1650.",
         "dates": {
             "@type": "file_creation",
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1650-10-23",
+                "#text": "datée du 23 octobtre 1650"
             }
-        },
-        "pubDate": {
-            "@source": "BMLyon",
-            "@when": "1650",
-            "#text": "1650"
-        },
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -38,6 +44,7 @@
         "publisher": {
             "@ref": "isni:0000000367213580",
             "@source": "BMLyon",
+            "@xml:id": "IL_SassierGuillaume.xml",
             "persName": {
                 "forename": "Guillaume",
                 "surname": "Sassier"
@@ -47,46 +54,29 @@
     },
     "texte": [
         [
-            "e",
             "RELATION",
-            "A",
-            "6",
             "VERITABLE CONTENANT LES",
             "Arcicles accordez a Madame la Princeſſe, &amp; à",
             "Monſieur le Duc d’Anguien, ſous le bon vou",
             "loir &amp; plaiſir du Roy, en conſequence de la Paix",
-            "de Bordeaux, publié́e le 1;. Octobre 65o. en",
-            "preſence des ſieurs de S Aouſt Comte de Cha",
+            "de Bordeaux, publié́e le 13. Octobre 1650. en",
+            "preſence des ſieurs de S. Aouſt Comte de Cha¬",
             "ſteaumeillan, &amp; d’Alluymare, lous Gouuerneur",
             "de Monſeigneur le Duc d’Anjou, enuoyez par",
             "leurs Majeſtez: Et le fieur Laiſné Conſeiller or",
             "dinaire du Roy en ſes Conſeils d’Eſtar &amp; Pri",
-            "ueé́, enuoyé par Madame la Princeſſe, pout",
-            "l’execution deſdits AEticles.",
-            "Ausec Anoniſtie au ſieur de Chambois, Comte de Baßy,",
+            "ueé́, enuoyé par Madame la Princeſſe, pour",
+            "l’execution deſdits Articles.",
+            "Auec Amniſtie au ſieur de Chambois, Comte de Bußy,",
             "Rabutin de Montaterre, Deliguon, Degamille,",
-            "autres.",
-            "A Fait à Mont- rond, le3. Octobre ioso",
+            "&amp; autres.",
+            "Fait à Mont-rond, le 23. Octobre 1650.",
             "A PARIS.",
-            "M. D C. L.",
-            "810S5"
+            "M. DC. L."
         ],
         [
-            "!¬... i",
-            "r",
-            "a.",
-            "a",
-            "1",
-            ".",
-            "¬s",
-            "o",
-            "ooGoqle",
-            "¬"
-        ],
-        [
-            "peéêebdeêeebedes",
-            "SS",
-            "REL ATION VERITABLE",
+            "3",
+            "RELATION VERITABLE",
             "CONTENANT LESARTICLES AC.",
             "cordez à Madame la Princeſle, &amp; à Monſieur le",
             "Due d’Anguien, ſous le bon vouloir &amp; plaiſir",
@@ -231,5 +221,14 @@
             "e",
             "notGoogle"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

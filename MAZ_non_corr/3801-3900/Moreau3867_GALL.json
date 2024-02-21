@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "chantable",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Chanson",
+            "triolet"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-21",
+            "@who": "AB"
         },
         "titre": "Triolets sur la France métamorphosée.",
         "dates": {
@@ -19,60 +23,33 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
             "#text": "1649"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "6"
     },
     "texte": [
         [
-            "¬ png¬¬",
-            "A",
-            "¬7 S",
-            "9 V I",
-            "r ¬",
-            "1",
-            "lAl",
-            "VL . IVA",
-            "¬",
-            "DL",
-            "L. A..",
-            "e¬",
-            "le",
-            "¬",
-            "l l",
-            "2",
-            "1",
-            "¬",
-            "E",
-            "A ?",
-            "TN. 1 J",
-            "M. DC XLI."
-        ],
-        [
-            "¬"
+            "TRIOLETS",
+            "SVR",
+            "LA FRANCE",
+            "METAMORPHOSEE.",
+            "M. DC XLIX."
         ],
         [
             "3",
-            "Au&amp;, A,&amp;,An",
-            "oeſd’’ dr epes e ee olt’tet",
-            "RI",
-            ".",
-            "1",
+            "TRIOLETS",
             "SVR",
-            "TFS",
-            "¬",
-            "lee d lee",
-            "4",
-            "A¬",
-            "DIEE.",
-            "¬",
-            "A France a eſté autresfois",
+            "LA FRANCE",
+            "METAMORPHOSEE.",
+            "LA France a eſté autresfois",
             "Plus puiſſante qu’aucun Empire",
             "-t cherie de tous ſes Roys",
             "La France a eſté autrefois:",
@@ -183,5 +160,12 @@
             "Ie voy que tout le monde approche.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6"
     ]
 }

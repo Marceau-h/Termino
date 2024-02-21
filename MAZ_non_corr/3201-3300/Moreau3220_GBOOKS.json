@@ -2,16 +2,20 @@
     "imprimatur": null,
     "corrector": false,
     "entête": {
-        "form": "vers/prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "form": [
+            "vers",
+            "prose"
         ],
+        "genre": "narration",
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-02-11",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
         "titre": "Relation véritable de ce qui s'est passé au combat qui se\n          rendit, mardi au matin, 16 février, entre Lonjumeau et Huitsous, à l'escorte du\n          convoi.",
         "dates": {
@@ -20,8 +24,8 @@
             "#text": "26 avril 2021"
         },
         "author": {
-            "@role": "attributed_author",
-            "@source": "BnAut",
+            "@role": "alleged_author",
+            "@source": "Moreau",
             "surname": "Meserdi"
         },
         "pubDate": {
@@ -36,6 +40,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000063027789",
+            "@xml:id": "IL_MorlotClaude.xml",
             "persName": {
                 "forename": "Claude",
                 "surname": "Morlot"
@@ -49,42 +54,18 @@
             "VERITABLE",
             "DE CE QVI SEST PASSE",
             "au Combat qui ſe rendit Mardy",
-            "aumatin ſeizieme Février, entre",
+            "au matin ſeizieme Février, entre",
             "Long-jumeau &amp; Huict Sous,",
             "à l’eſcorte du Conuoy.",
-            "A PAR1S,",
+            "A PARIS,",
             "Chez CLAVDE MORLOT, ruë de la Bucherie,",
-            "XL",
-            "12S25-B"
-        ],
-        [
-            "s",
-            "2...",
-            "l",
-            "...",
-            "i ai",
-            ".",
-            "1",
-            ".",
-            "e",
-            "e’Laae",
-            "u",
-            "ure",
-            "re",
-            "g a - aa¬ o",
-            "2 !1",
-            ".",
-            "l",
-            "1"
+            "aux Vieilles Eſtuues.",
+            "M. DC. XLIX."
         ],
         [
             "3",
-            "&amp; tlatateat,",
-            "a tt e â &amp; e",
-            "L, .",
-            "E .",
-            "T1",
-            "¬. . 3",
+            "RELATION",
+            "VERITABLE",
             "DE CE QVI S’EST PASSE’AV COBAT",
             "qui ſe rendit ary au matin 16 Fevrier,",
             ".entre Long-jumeau&amp; Huictſous,",
@@ -234,5 +215,13 @@
             "ment du pauure peuple.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

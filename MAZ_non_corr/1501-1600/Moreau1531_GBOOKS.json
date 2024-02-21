@@ -4,27 +4,36 @@
     "entête": {
         "form": "vers",
         "genre": "burlesque",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-12",
+            "@who": "AB"
         },
-        "titre": "La guerre sans canons, raillerie en vers burlesques.",
+        "titre": "La guerre sans canons, raillerie en vers\n          burlesques.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-05-25",
             "#text": "25 mai 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1649",
-            "#text": "1649"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-01",
+                "@notAfter": "1649-03",
+                "#text": "pendant le blocus de\n            Paris"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -32,6 +41,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000110403338",
+            "@xml:id": "IL_LangloisDenis.xml",
             "persName": {
                 "forename": "Denys",
                 "surname": "Langlois"
@@ -41,21 +51,21 @@
     },
     "texte": [
         [
+            "LA",
             "GVERRE",
+            "SANS",
             "CANONS.",
             "RAILLERIE",
+            "EN VERS",
             "BVRLESQVES.",
-            "s",
-            "le eieoie"
+            "A PARIS,",
+            "Chez DENYS LANGLOIS, au mont S. Hilaire",
+            "à l'Enſeigne du Pelican.",
+            "M. DC. XLIX."
         ],
         [
-            "¬-,",
             "3",
-            "aesaAaAtateéAé",
-            "eEeeeeeetetteee",
-            "eeepepiet eepetveses",
-            "7 T¬",
-            "LA GVEE",
+            "LA GVERRE",
             "SANS CANONS.",
             "Emper ega auditor tantum? numquam ne reponam,",
             "Py arus tories rauci Theſeïde Codr?",
@@ -159,13 +169,7 @@
             "Sams reſpeaer mon port diuin:",
             "Ie me retiray du che min",
             "D’vne viſteſſe plus atiue",
-            "Que ne fait l ’herbe ſenotiue",
-            "3",
-            "1",
-            ".",
-            "1",
-            "!",
-            "E"
+            "Que ne fait l ’herbe ſenotiue"
         ],
         [
             "- car",
@@ -274,7 +278,6 @@
             "Il ſe plaiſoit à la fumée?",
             "Si ie ne craignois d’eſtre long,",
             "Ou ſi i’eſtois bon violon,",
-            "¬.",
             "Ie chanterois par melodie",
             "Qve ce grand Dieu, quoy que l’on die,",
             "Aime plus celle du tabaq,",
@@ -287,11 +290,16 @@
             "I’y trouue pour rime affamé́e,",
             "Rime &amp; raiſon, car à preſent",
             "On voit qu’on ne vit pas de uent.",
-            "F1N.",
-            "1",
-            "2",
-            "laro",
-            "N"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

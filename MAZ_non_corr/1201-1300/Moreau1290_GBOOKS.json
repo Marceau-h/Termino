@@ -12,18 +12,13 @@
             "@when": "2021-11-15",
             "@who": "AB"
         },
-        "titre": "État (l’) de la marche et le lieu où est à\n                    présent l’armée de l’archiduc Léopold, commandée par le marquis de Noirmoutier\n                    et le comte de Fuensaldagne, avec ce qui s’y est passé de plus\n                    mémorable.",
+        "titre": "État (l’) de la marche et le lieu où est à présent\n          l’armée de l’archiduc Léopold, commandée par le marquis de Noirmoutier et le comte de\n          Fuensaldagne, avec ce qui s’y est passé de plus mémorable.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -36,6 +31,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121237136",
+            "@xml:id": "IL_CoulonVeuvedAntoine.xml",
             "persName": {
                 "forename": "(Veuve d'Antoine)",
                 "surname": "Coulon"
@@ -205,5 +201,14 @@
             "meſmes, mais plus auſtere que celle qui",
             "rendit les Romains ſi recommandables"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-03-04",
         "change": {
             "@status": "not_corrected"
@@ -23,7 +22,7 @@
             "@ref": "isni:0000000108485557",
             "persName": {
                 "forename": "Jean",
-                "surname": "Beaudeau Clanleu (De)"
+                "surname": "Beaudeau Clanleu de"
             }
         },
         "pubDate": {
@@ -36,7 +35,9 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "36"
     },
     "texte": [
@@ -1715,5 +1716,43 @@
             "an ’atendà le premiene poſte, car il eſt eſlaigné de ce",
             "Vlle."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36"
     ]
 }

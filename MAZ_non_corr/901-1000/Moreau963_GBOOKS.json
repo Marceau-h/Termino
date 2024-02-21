@@ -12,18 +12,13 @@
             "@when": "2021-11-18",
             "@who": "AB"
         },
-        "titre": "Défaite (la) d’une partie du convoi des Parisiens\n                    dans le village de Vitry, où ils ont eu cent ou six vingts hommes tués et plus\n                    de quarante faits prisonniers, par le maréchal de Gramont, commandant l'armée du\n                    roi.",
+        "titre": "Défaite (la) d’une partie du convoi des Parisiens dans le\n          village de Vitry, où ils ont eu cent ou six vingts hommes tués et plus de quarante faits\n          prisonniers, par le maréchal de Gramont, commandant l'armée du roi.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@notBefore": "1649-02-16",
@@ -36,10 +31,7 @@
             "#text": "Saint-Germain-En-Laye"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "4"
     },
@@ -192,5 +184,11 @@
             "A Saint Germain en Laye, le ſeizieſme Fevrier 1649.",
             "Avec Privilége du Roy."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4"
     ]
 }

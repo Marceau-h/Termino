@@ -41,12 +41,13 @@
             "SVR",
             "SA",
             "NAISSANCE.",
-            "M. DC. XLXI.",
-            "<pb",
-            "n=\"2\" />"
+            "M. DC. XLXI."
         ],
         [
-            "L’AMBRION DE MAZARIN SVR SA NAISSANCE.",
+            "L’AMBRION",
+            "DE",
+            "MAZARIN",
+            "SVR SA NAISSANCE.",
             "QVand",
             "Mazarin prit naiſſance,",
             "Il n’auoit la corpulence,",
@@ -162,9 +163,9 @@
             "Dont la",
             "longueur toutesfois,",
             "Ne mõte pas ſon eſpit de deux doigus,",
-            "¬¬¬LT¬",
-            "<pb",
-            "n=\"6\" />",
+            "¬¬¬LT¬"
+        ],
+        [
             "6 2",
             "Or aduint qu’vn perſonnage,",
             "Mal couuert &amp;",
@@ -259,10 +260,11 @@
     ],
     "pages_number": [
         "1",
-        "2",
         "3",
         "4",
         "5",
-        "6"
+        "6",
+        "7",
+        "8"
     ]
 }

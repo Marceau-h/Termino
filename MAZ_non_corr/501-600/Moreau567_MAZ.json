@@ -18,7 +18,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -36,7 +36,9 @@
             "@source": "Mazarine",
             "#text": "Sans Lieu"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "3"
     },
     "texte": [
@@ -86,5 +88,10 @@
             "Qu’il giſte au diable &amp; ſans ſuite ny train,",
             "Trouſſe bagage, &amp; quitte la partie."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11"
     ]
 }

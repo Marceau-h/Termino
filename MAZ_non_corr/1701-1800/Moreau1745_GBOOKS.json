@@ -3,14 +3,18 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "Journal"
         ],
-        "subject": null,
+        "subject": "Parti des princes",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-13",
+            "@who": "AB"
         },
         "titre": "Journal de ce qui s'est passé à Angers, depuis l'entrée\n          du C. Mazarin en France, avec les articles du traité.",
         "dates": {
@@ -18,7 +22,7 @@
             "@when": "2021-06-02",
             "#text": "02 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -31,6 +35,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000001831368",
+            "@xml:id": "IL_BrunetJean.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Brunet"
@@ -41,23 +46,19 @@
     "texte": [
         [
             "IOVRNAL",
-            "AANGERS",
-            "ie",
-            "0",
-            "e",
-            "e"
+            "DE CE QVI S'EST PASSÉ",
+            "A ANGERS",
+            "DEPVIS L'ENTREE",
+            "DV C. MAZARIN",
+            "EN FRANCE.",
+            "Auec les Articles du Traitté.",
+            "A PARIS,",
+            "Chez IEAN BRVNET, ruë neufue Saincte Anne.",
+            "M. DC. LII."
         ],
         [
-            "8",
-            "l",
-            "1",
-            "1",
-            "ar¬ 2"
-        ],
-        [
-            "&amp;h dddbddh’ thdii",
-            "op ppee",
-            "IOVRNA L,",
+            "3",
+            "IOVRNAL,",
             "T r",
             "De ce qui s’eſt paſsé à Angers,",
             "A je",
@@ -563,5 +564,21 @@
             "1",
             "1"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

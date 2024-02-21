@@ -28,7 +28,7 @@
         },
         "author": {
             "@ref": "isni:0000000121755355",
-            "persName": "France. Parlement de Paris"
+            "orgName": "Parlement de Paris"
         },
         "pubDate": [
             {
@@ -47,7 +47,9 @@
             "@ref": "geonames:2988507",
             "#text": "Paris"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "4"
     },
     "texte": [
@@ -96,5 +98,9 @@
             "Signé,",
             "IOSSIER."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "12"
     ]
 }

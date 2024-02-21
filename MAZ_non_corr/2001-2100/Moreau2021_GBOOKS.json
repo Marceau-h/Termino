@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-09-05",
         "change": {
             "@status": "not_corrected"
@@ -23,7 +22,7 @@
             "@ref": "isni:000000012095909X",
             "persName": {
                 "forename": "François",
-                "surname": "Vendôme (De)"
+                "surname": "Vendôme de"
             }
         },
         "pubDate": {
@@ -32,7 +31,9 @@
             "#text": "1649"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
@@ -245,5 +246,15 @@
             "BEAVFORT.",
             ".1"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

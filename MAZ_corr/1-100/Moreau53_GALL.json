@@ -47,12 +47,12 @@
             "DE LA",
             "FRANCE.",
             "A PARIS,",
-            "M. DC XLIX.",
-            "<pb",
-            "n=\"2\" />"
+            "M. DC XLIX."
         ],
         [
-            "3 L'AGATOPHILE  de la France.",
+            "3",
+            "L'AGATOPHILE",
+            "de la France.",
             "NYmphes qui racontés la peine,",
             "Deſſus les bords de noſtre Seine,",
             "Que vous endutez aujourd’huy,",
@@ -344,7 +344,6 @@
     ],
     "pages_number": [
         "1",
-        "2",
         "3",
         "4",
         "5",
@@ -353,6 +352,7 @@
         "8",
         "9",
         "10",
-        "11"
+        "11",
+        "12"
     ]
 }

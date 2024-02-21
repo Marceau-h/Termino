@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "chantable",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Chanson",
+            "triolet"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-01-28",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-21",
+            "@who": "AB"
         },
         "titre": "Triolets (les) de la cour à l'arrivée de Mazarin.",
         "dates": {
@@ -19,41 +23,29 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
             "#text": "1652"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "7"
     },
     "texte": [
         [
-            "EgSFneo-tsEoe-rc-r¬¬-----¬reeerr-ee-Av vereg",
             "LES",
-            "’e ¬",
-            "RIOLETS",
-            "en",
-            "1 1",
+            "TRIOLETS",
             "DE LA COVR,",
-            "A L’ARRIVE’E DE MAZARIN.",
-            "n",
-            "l",
-            "64",
-            "ee",
-            "M DC. LII.",
-            "¬",
-            "7."
+            "A L’ARRIVEE DE MAZARIN.",
+            "M. DC. LII."
         ],
         [
-            "31",
-            "&amp; e &amp; eAaheu:8,",
-            "E e e S: te &amp;",
-            "i e Aa’t ’Ve e",
-            "C rTIT.",
-            "IL 0 L A",
+            "3",
+            "LES TRIOLETS",
             "DE LA COVR,",
             "Sur le Sujet de Mazarin.",
             "Aiſſé paſſer le Mazarin,",
@@ -84,7 +76,6 @@
             "Cat les actions ſont tres- elles",
             "Si vous le voulez mal-traicté,",
             "L’on vous prendera pour rebelles.",
-            "r",
             "Quoy que ſa teſte eſt miſe a prix",
             "Morbleu il ne s’en ſoucie guerre,",
             "Il iure qu’il prendera Paris,",
@@ -173,5 +164,13 @@
             "Sur de l’or, non ſur de la cire.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

@@ -21,7 +21,7 @@
         "author": [
             {
                 "@ref": "isni:0000000121755355",
-                "persName": "France. Parlement de Paris"
+                "orgName": "Parlement de Paris"
             },
             {
                 "@ref": "isni:0000000383255772",
@@ -47,6 +47,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121209450",
+            "@xml:id": "IL_EstienneAntoine.xml",
             "persName": {
                 "forename": "Antoine",
                 "surname": "Estienne"
@@ -522,5 +523,21 @@
             "&amp; debirer ny ’en, trouuer ſaiſis, ſur les meſmes peines, &amp;",
             "empriſonnement de leurs perſonnes."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23"
     ]
 }

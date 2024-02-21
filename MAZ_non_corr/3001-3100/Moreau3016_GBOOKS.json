@@ -4,22 +4,21 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Recit veritable de tout ce qui s'est fait au procez du roy de\n          la Grand' Bretagne : son arrest, et la maniere de son execution. Avec la harangue faite\n          par sadite Majesté sur l'eschaffaut. Traduit d'anglois en françois, par J. Ango\n          interprette de ladite langue, sur l'imprimé à Londres, par François Coles.",
+        "titre": "Recit veritable de tout ce qui s'est fait au procez du\n          roy de la Grand' Bretagne : son arrest, et la maniere de son execution. Avec la harangue\n          faite par sadite Majesté sur l'eschaffaut. Traduit d'anglois en françois, par J. Ango\n          interprette de ladite langue, sur l'imprimé à Londres, par François Coles.",
         "dates": {
             "@type": "file_creation",
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -29,7 +28,9 @@
             "@source": "Moreau",
             "#text": "Sans Lieu"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "16"
     },
     "texte": [
@@ -995,5 +996,23 @@
             "1",
             "1"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

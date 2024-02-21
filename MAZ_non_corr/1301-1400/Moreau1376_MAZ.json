@@ -18,7 +18,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -38,6 +38,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000011194155",
+            "@xml:id": "IL_MusnierVeuvedAndre.xml",
             "persName": {
                 "forename": "Veuve d'André",
                 "surname": "Musnier"
@@ -318,5 +319,15 @@
             "toir, qui s’eſtoit joü̈é d’eux en leur imprimant la erain",
             "uy -meſme ſi ou luy fait luſtice."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

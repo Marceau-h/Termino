@@ -3,23 +3,30 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
-        "subject": null,
+        "subject": [
+            "Charles‎ I (1600-1649 ; roi d'Angleterre, d'Écosse et\n            d'Irlande‎)",
+            "Angleterre"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
-        "titre": "Relation véritable de la mort barbare et cruelle du roi d\n          ' Angleterre, arrivée à Londres le 8 février 1649.",
+        "titre": "Relation véritable de la mort barbare et cruelle du roi\n          d'Angleterre, arrivée à Londres le 8 février 1649.",
         "dates": {
             "@type": "file_creation",
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -32,6 +39,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121259642",
+            "@xml:id": "IL_PreuverayFrancois.xml",
             "persName": {
                 "forename": "François",
                 "surname": "Preuveray"
@@ -41,44 +49,20 @@
     },
     "texte": [
         [
-            ",",
-            "H1 4A",
+            "RELATION",
             "VERITABLE",
             "De la mort barbare &amp; cruelle du",
-            "0",
-            "RELATION",
             "Roy d’Angleterre.",
             "Arriuee à Londres le huictieſme Fevrier",
-            "mil ſx cens quarente-neuf.",
-            "E",
-            "n",
-            "iu",
-            "APARIS,",
-            "cCe sos PvVA unde",
+            "mil ſix cens quarente-neuf.",
+            "A PARIS,",
+            "Chez FRANÇOIS PREVVERAY, grand",
             "ruë de la Bretonnerie, proche la porte",
             "Saint lacques.",
-            "MDC XLIX."
+            "M. DC XLIX."
         ],
         [
-            "rs",
-            "..",
-            "¬.",
-            "...",
-            "¬.",
-            ".",
-            "¬1",
-            "1 L",
-            "¬. ,",
-            "1",
-            ".",
-            "Donaa"
-        ],
-        [
-            "aE-",
-            "7.",
-            ". .",
-            "l:lat:laltA",
-            "ee’e’t’:gp: p",
+            "3",
             "RELATION VERITABLE",
             "de la mort barbare &amp; cruelle dus",
             "Roy d’Angleterre.",
@@ -281,5 +265,14 @@
             "aes &amp; les Princes n’y veulent pas trauailler.",
             "Se"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

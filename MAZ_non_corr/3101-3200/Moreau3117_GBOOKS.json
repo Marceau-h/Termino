@@ -1,17 +1,27 @@
 {
-    "imprimatur": null,
+    "imprimatur": "Auec Priuilege de ſa Majeſté.",
     "corrector": false,
     "entête": {
-        "form": "vers/prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "form": [
+            "vers",
+            "prose"
         ],
-        "subject": null,
+        "genre": [
+            "narration",
+            "récit"
+        ],
+        "subject": [
+            "Blocus de Paris",
+            "Louis XIV"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-02-03",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
         "titre": "Relation de ce qui s'est passé à Paris depuis\n          l'enlavement du roi jusqu'à présent, envoyée aux provinces.",
         "dates": {
@@ -19,7 +29,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -30,56 +40,30 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Les imprimeurs et libraires ordinaires du Roy",
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
         "nbPages": "8"
     },
     "texte": [
         [
             "RELATION",
-            "I",
-            "pe es oyl ss",
+            "DE CE QVI S'EST",
+            "PASSE A PARIS,",
             "Depuis l’enleuement du Roy",
             "juſques à preſent.",
             "Enuoyee aux Prouinces.",
-            "a",
-            "i",
-            "a?",
-            "s",
-            "APARIS,",
+            "A PARIS,",
             "Par les Imprimeurs &amp; Libraires ordinai",
             "res du Roy.",
-            "A DCXL1X.",
-            "Auec Priuilege de ſa ajeſté.",
-            "2468-B"
+            "M. DC. XLIX.",
+            "Auec Priuilege de ſa Majeſté."
         ],
         [
-            "2",
-            "¬. pr",
-            ". ¬.",
-            ",.",
-            "2",
-            "T.!",
-            ".",
-            "-.",
-            "’",
-            "A n",
-            ". .-¬...",
-            "bu iu",
-            "ailti",
-            "i-",
-            "e",
-            "-i .",
-            "1",
-            "ooaoGoogle",
-            "1",
-            "!",
-            "1"
-        ],
-        [
-            "Adla , 4",
-            "m",
-            "edpeeeétegeqeté",
-            "E Parſement apres auoir obranu de la Reyne la Doclaration dr",
+            "3",
+            "LE Parſement apres auoir obranu de la Reyne la Doclaration dr",
             "mois d’Oobre dernir, ſe prometoit que l’Eſtat &amp; les Peu",
             "aaples oppreſſez poutroient reſſehtir quelque fruit &amp; quelque",
             "agenent de ce qui luy auoit cauſe tant de trauaux &amp; tamt de",
@@ -356,8 +340,16 @@
             "ſement vniuerſel, &amp; le Cardinal Mazarin ſera contraint de",
             "vuider le.",
             "Royaume, s’il, veu éuiter la peine’de ſes attentats contre le repas",
-            "public &amp; l’authorité du Roy.",
-            "."
+            "public &amp; l’authorité du Roy."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

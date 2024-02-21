@@ -3,17 +3,25 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "chantable",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Chanson",
+            "prophétie",
+            "triolet"
         ],
-        "subject": null,
+        "subject": [
+            "Nostradamus",
+            "Mazarin"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-03-04",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-21",
+            "@who": "AB"
         },
-        "titre": "Les triolets du temps, selon les visions d'un petit fils du\n          grand Nostradamus. Faits pour la consolation des bons François. Et dediés au\n          Parlement.",
+        "titre": "Les triolets du temps, selon les visions d'un petit\n          fils du grand Nostradamus. Faits pour la consolation des bons François. Et dediés au\n          Parlement.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-06-03",
@@ -22,46 +30,44 @@
         "author": [
             {
                 "@role": "alleged_author",
-                "@source": "Moreau",
-                "@ref": "isni:0000000495555147",
+                "@source": "Carrier",
+                "@ref": "isni:0000000025438667",
                 "persName": {
                     "forename": "Jean",
                     "surname": "Duval"
                 }
             },
             {
-                "@role": "alleged_author",
+                "@role": "dubious_author",
                 "@source": "Moreau",
                 "@ref": "isni:0000000122493086",
                 "persName": {
                     "forename": "Jacques",
-                    "surname": "Carpentier Marigny (De)"
+                    "surname": "Carpentier de Marigny"
                 }
             },
             {
-                "@role": "alleged_author",
-                "@source": "Moreau",
-                "@ref": "isni:0000000122493086",
-                "persName": {
-                    "forename": "Jacques",
-                    "surname": "Carpentier Marigny (De)"
-                }
-            },
-            {
-                "@role": "alleged_author",
-                "@source": "Armand_d_Artois",
+                "@role": "dubious_author",
+                "@source": "Artois",
                 "@ref": "isni:0000000112972841",
                 "persName": {
-                    "forename": "Hercule Savinien Cyrano",
-                    "surname": "Bergerac (De)"
+                    "forename": "Hercule Savinien Cyrano de",
+                    "surname": "Bergerac"
                 }
             }
         ],
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1649",
-            "#text": "1649"
-        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-03",
+                "#text": "début mars 1649"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -69,6 +75,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000110403338",
+            "@xml:id": "IL_LangloisDenis.xml",
             "persName": {
                 "forename": "Denys",
                 "surname": "Langlois"
@@ -78,37 +85,20 @@
     },
     "texte": [
         [
-            "T",
-            "lL",
-            "T",
-            "L",
-            "e",
-            "Al.",
             "LES",
+            "TRIOLETS",
             "DV",
-            "SELON LES",
-            "2",
-            "2",
-            "e 4¬",
-            "TS",
-            "N",
-            "EMPS.",
-            "VISIONS D’VN PETIT FILS",
+            "TEMPS",
+            "SELON LES VISIONS D’VN PETIT FILS",
             "DV GRAND",
             "NOSTRADAMVS.",
             "FAITS POVR LA CONSOLATION",
             "DES BONS FRANCOIS.",
-            "ET DEDIE’SAV PARLEMENT.",
-            "i",
-            "rla",
-            "E",
+            "ET DEDIES AV PARLEMENT.",
             "A PARIS,",
-            "Cnez DEys Le os, au mont S. Hilaire,",
+            "Chez DENYS LANGLOIS, au mont S. Hilaire,",
             "à l’enſeigne du Pelican¬",
             "M. DC. XLIX."
-        ],
-        [
-            "E."
         ],
         [
             "1",
@@ -692,12 +682,7 @@
             "Il oſte tout dereglement,",
             "Pour nous oſter toute ſouffrance;",
             "ie nuele ein lnun e enne",
-            "FIN.",
-            "is",
-            "s",
-            "QQi",
-            "P",
-            "V."
+            "FIN."
         ],
         [
             "11",
@@ -709,15 +694,24 @@
             "D A",
             "1 1I",
             "AV PARLEMENT.",
-            "M",
             "Rancois comme ie ſuis, ſeroïs-ie pas coupable",
             "Si ie n’offrois ces Vers,",
             "A qui regle la France, &amp; que ie tiens capable",
             "De regler l’Vniuers?",
             "Ouy, de bon cœur ie vous les donne,",
-            "Auec mes vœux &amp; ma perſonne.",
-            "laals",
-            "laſ t"
+            "Auec mes vœux &amp; ma perſonne."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
     ]
 }

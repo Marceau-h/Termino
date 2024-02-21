@@ -46,6 +46,7 @@
         "publisher": [
             {
                 "@ref": "isni:0000000004958516",
+                "@xml:id": "IL_LoysonJeanBaptiste.xml",
                 "persName": {
                     "forename": "Jean-Baptiste",
                     "surname": "Loyson"
@@ -53,6 +54,7 @@
             },
             {
                 "@ref": "isni:0000000006911746",
+                "@xml:id": "IL_LoysonGuillaume.xml",
                 "persName": {
                     "forename": "Guillaume",
                     "surname": "Loyson"
@@ -286,5 +288,14 @@
             "ſeruante &amp; ſuiette,",
             "S. D. N."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

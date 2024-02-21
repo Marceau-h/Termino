@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "Journal"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-05-04",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-13",
+            "@who": "AB"
         },
         "titre": "Journal véritable et désintéressé de tout ce qui s'est\n          fait et passé tant à Saint-Germain-en-Laye qu'à Paris, depuis l'arrivée du roi audit lieu\n          de Saint Germain jusqu'à présent, avec la députation de la noblesse de Normandie et du\n          Parlement de Rouen.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-26",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121226728",
+            "@xml:id": "IL_LeGentilJacques.xml",
             "persName": {
                 "forename": "Jacques",
                 "surname": "Le Gentil"
@@ -41,22 +46,18 @@
     },
     "texte": [
         [
-            "4",
-            "30931S6",
-            "IT IST",
-            "IV RINAL",
-            "A1",
-            "VERITABE ET DES.",
+            "IOVRNAL",
+            "VERITABLE ET DES¬",
             "intereſſé de tout ce qui s’eſt fait &amp;",
             "paſſé tant à Saint Germain en Laye,",
             "qu’à Paris, depuis l’arriuée du Roy",
-            "audit lieu de Saint Germai, juſqu’à",
+            "audit lieu de Saint Germain, juſqu’à",
             "preſent.",
-            "Auec la deputation de la Noblee de Noaandie g",
-            "du Parlement de Raes.",
-            "A PARI S,",
-            "ez IACQVES LE GENTIL, rue d’E",
-            "coſſe, à l’enſeigne S. Ierd̂me, prés Saint Hilaire.",
+            "Auec la deputation de la Nobleſſe de Normandie &amp;",
+            "du Parlement de Roüen.",
+            "A PARIS,",
+            "Chez IACQVES LE GENTIL, rue d’Eſ¬",
+            "coſſe, à l’enſeigne S. Ierôme, prés Saint Hilaire.",
             "M. DC. LII."
         ],
         [
@@ -259,8 +260,16 @@
             "Cermain eſſieurs de la Cour des Aides &amp; les pe",
             "pure de la ville, pour preſenter leurs reronlran¬.",
             "cea L-eurs Majeſtez.",
-            "FIN.",
-            "A2."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

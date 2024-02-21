@@ -12,7 +12,7 @@
             "@when": "2021-11-10",
             "@who": "AB"
         },
-        "titre": "Dernières (les) résolutions faites dans le\n                    conseil du roi pour la paix, en présence de Sa Majesté.",
+        "titre": "Dernières (les) résolutions faites dans le conseil du roi\n          pour la paix, en présence de Sa Majesté.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
@@ -20,7 +20,7 @@
         },
         "author": {
             "@ref": "isni:0000000121754977",
-            "#text": "Conseil du roi"
+            "orgName": "Conseil du roi"
         },
         "pubDate": {
             "@source": "Moreau",
@@ -206,5 +206,13 @@
             "¬¬¬¬ ¬-¬¬¬¬¬¬",
             "¬"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

@@ -21,7 +21,7 @@
         "author": [
             {
                 "@ref": "isni:0000000121754977",
-                "persName": "France. Conseil d'État"
+                "orgName": "Conseil d'État"
             },
             {
                 "@ref": "isni:0000000383255772",
@@ -44,7 +44,9 @@
             "@source": "Mazarine",
             "#text": "Sans Lieu"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "12"
     },
     "texte": [
@@ -572,5 +574,18 @@
             "L Rnt ae ſre peſenue, D reorn. r ſele ſr ſinple",
             "eue de cire iaplee."
         ]
+    ],
+    "pages_number": [
+        "7",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
     ]
 }

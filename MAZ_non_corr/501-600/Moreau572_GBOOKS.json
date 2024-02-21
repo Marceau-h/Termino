@@ -1,16 +1,22 @@
 {
-    "imprimatur": null,
+    "imprimatur": "AVEC PERMISSION.",
     "corrector": false,
     "entête": {
         "form": "vers",
-        "subgenre": [
-            null,
-            null
+        "genre": "Dialogue",
+        "subject": [
+            "Conti, Anne-Marie Martinozzi, princesse de, 1637-1672",
+            "Soissons, Olympe Mancini, comtesse de, 1638-1708",
+            "Modène, Laura Martinozzi, duchesse de, 1639-1687"
         ],
-        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-15",
+            "@who": "AB"
         },
         "titre": "Balet ridicule des nieces de Mazarin, ou leur theatre\n          renversé en France. Par P.D.P. sieur de Carigny.",
         "dates": {
@@ -19,16 +25,27 @@
             "#text": "3 juin 2021"
         },
         "author": {
+            "@ref": "viaf:309700747",
             "persName": {
-                "forename": "D.P.P.",
-                "surname": "Carigny (De)"
+                "surname": "Carigny",
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "P. D. P."
+                }
             }
         },
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1649",
-            "#text": "1649"
-        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-02-15",
+                "#text": "mi-février 1649"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -36,6 +53,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000140388204",
+            "@xml:id": "IL_MusnierFrancois.xml",
             "persName": {
                 "forename": "François",
                 "surname": "Musnier"
@@ -45,37 +63,21 @@
     },
     "texte": [
         [
-            "aaaa-a",
-            "r- ’¬",
-            "AI",
-            "e",
+            "BALET",
             "RIDICVLE",
-            "DSNCES DE MAARN.",
-            "TDT",
-            "1 HIE A",
-            "-n IE",
-            "RENVERSE’ENFRANCE",
-            "unene",
-            "e ne oe eoeoieie s ¬",
-            "le on il l lo"
+            "DES NIECES DE MAZARIN.",
+            "OV LEVR",
+            "THEATRE",
+            "RENVERSE’ EN FRANCE",
+            "Par P. D. P. Sieur de Carigny.",
+            "A PARIS,",
+            "Chez FRANCOIS MVSNIER, au mont Sainct",
+            "Hilaire, pres le puis Certain.",
+            "M. DC. XLIX.",
+            "AVEC PERMISSION."
         ],
         [
-            ".",
-            "-",
-            "¬",
-            "1,"
-        ],
-        [
-            "ee",
-            "ias",
-            "AN",
-            "s",
-            "edeei",
-            "eſag,",
-            "dil",
-            "d",
-            "T T IIr1",
-            "T",
+            "3",
             "LE BALET RIDICVLE",
             "des Nieces de Mazarin, ou leur",
             "Theatre renuerſe en France.",
@@ -250,18 +252,7 @@
             "Vrayment il fait beau voir que vous paſſiez ainſi toute",
             "la iournee en des bagarelles, cepe ndant que toute la ville",
             "eſt en armes contre ceux de noſtre Patrie.",
-            "ERIFILA.",
-            "l",
-            "¬",
-            "1",
-            "J",
-            "l",
-            "J",
-            "l",
-            "J",
-            "Ju",
-            "l",
-            "p"
+            "ERIFILA."
         ],
         [
             "9",
@@ -349,8 +340,19 @@
             "comme ie croy que les Itaſiens n’en veulent qu’à la bource.",
             "Meſſieurs ie vous conſeille d’auertir le Mazarin &amp; toute ſa",
             "ſequelle que le iou eſt fini, &amp; que le Theatre eſt renuersé.",
-            "FIN D BAET.",
-            ". ¬ .¬"
+            "FIN DV BALET."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
     ]
 }

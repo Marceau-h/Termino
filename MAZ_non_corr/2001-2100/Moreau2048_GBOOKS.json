@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1650-07-04",
         "change": {
             "@status": "not_corrected"
@@ -19,7 +18,10 @@
             "@when": "2021-06-08",
             "#text": "8 juin 2021"
         },
-        "author": "Parlement de Bordeaux",
+        "author": {
+            "@ref": "isni:0000000119572170",
+            "orgName": "Parlement de Bordeaux"
+        },
         "pubDate": {
             "@source": "Moreau",
             "@when": "1650",
@@ -32,6 +34,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000001831368",
+            "@xml:id": "IL_BrunetJean.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Brunet"
@@ -155,5 +158,11 @@
             "2 :’",
             ","
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4"
     ]
 }

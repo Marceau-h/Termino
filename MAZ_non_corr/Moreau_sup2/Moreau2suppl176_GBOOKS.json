@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
             "@status": "not_corrected"
         },
@@ -18,11 +17,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": {
-            "@role": "attributed_author",
-            "@source": "BL",
-            "#text": "Etats du Languedoc"
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1650",
@@ -33,7 +28,9 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "4"
     },
     "texte": [
@@ -136,5 +133,11 @@
             ". Auec Priuileg du R. ..",
             "¬aaaaaaſ"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4"
     ]
 }

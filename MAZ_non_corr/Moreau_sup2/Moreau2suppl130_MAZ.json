@@ -31,7 +31,9 @@
             "@source": "Mazarine",
             "#text": "Sans Lieu"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "3"
     },
     "texte": [
@@ -233,5 +235,13 @@
             "Et plus bas,",
             "L TneLLIE."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
     ]
 }

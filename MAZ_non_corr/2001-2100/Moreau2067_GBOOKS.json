@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-01-08",
         "change": {
             "@status": "not_corrected"
@@ -37,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000109126804",
+            "@xml:id": "IL_CotinetArnoul.xml",
             "persName": {
                 "forename": "Arnould",
                 "surname": "Cotinet"
@@ -295,5 +295,14 @@
             "Seruiteur,",
             "G0. BATIISTA LVCRINO."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

@@ -12,7 +12,7 @@
             "@when": "2021-11-17",
             "@who": "AB"
         },
-        "titre": "Déclaration du roi pour l'innocence de\n                    monseigneur le prince de Condé, vérifiée en parlement , Sa Majesté y séant, le 7\n                    septembre 1651.",
+        "titre": "Déclaration du roi pour l'innocence de monseigneur le\n          prince de Condé, vérifiée en parlement , Sa Majesté y séant, le 7 septembre 1651.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
@@ -36,9 +36,14 @@
             "#text": "Paris"
         },
         "publisher": [
-            "Imprimeurs et libraires ordinaires du roi",
+            {
+                "@ref": "isni:0000000123698534",
+                "@xml:id": "IL_ImprimerieRoyale.xml",
+                "orgName": "Imprimeurs et libraires ordinaires du roi"
+            },
             {
                 "@ref": "isni:0000000121209450",
+                "@xml:id": "IL_EstienneAntoine.xml",
                 "persName": {
                     "forename": "Antoine",
                     "surname": "Estienne"
@@ -206,5 +211,13 @@
             "&amp; Secretaire du Roy, Maiſon &amp; Courone",
             "de ramee."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

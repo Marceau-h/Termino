@@ -26,7 +26,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -46,6 +46,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000367213580",
+            "@xml:id": "IL_SassierGuillaume.xml",
             "persName": {
                 "forename": "Guillaume",
                 "surname": "Sassier"
@@ -321,5 +322,14 @@
             "Ie viuray gaillard &amp; diſpos.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

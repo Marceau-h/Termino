@@ -20,7 +20,7 @@
         },
         "author": {
             "@ref": "isni:0000000121755355",
-            "persName": "France. Parlement de Paris"
+            "orgName": "Parlement de Paris"
         },
         "pubDate": [
             {
@@ -39,7 +39,11 @@
             "@ref": "geonames:2988507",
             "#text": "Paris"
         },
-        "publisher": "Imprimeurs et libraires ordinaires du roi",
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
         "nbPages": "6"
     },
     "texte": [
@@ -132,5 +136,11 @@
             "ſeiller Secretaire du Roy &amp; de ſes Fi¬",
             "nances."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "12",
+        "13",
+        "14"
     ]
 }

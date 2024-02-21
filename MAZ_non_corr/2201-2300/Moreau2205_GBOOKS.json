@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-01-18",
         "change": {
             "@status": "not_corrected"
@@ -20,9 +19,9 @@
             "#text": "8 juin 2021"
         },
         "author": {
-            "@role": "fake_author",
+            "@role": "speaker",
             "@ref": "isni:0000000030405659",
-            "@source": "BM",
+            "@source": "Mazarine",
             "persName": {
                 "forename": "Marco Flaminio",
                 "surname": "Pepoli"
@@ -34,7 +33,9 @@
             "#text": "1649"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
@@ -316,5 +317,15 @@
             "dr-aaa¬¬",
             "L"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

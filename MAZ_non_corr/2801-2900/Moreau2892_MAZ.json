@@ -29,7 +29,7 @@
             },
             {
                 "@ref": "isni:0000000115476931",
-                "persName": "France. Cour des aides"
+                "orgName": "Cour des aides"
             },
             {
                 "@ref": "isni:0000000121008595",
@@ -61,7 +61,7 @@
             },
             {
                 "@ref": "isni:0000000121755355",
-                "persName": "France. Parlement de Paris"
+                "orgName": "Parlement de Paris"
             }
         ],
         "pubDate": [
@@ -84,6 +84,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000056700197",
+            "@xml:id": "IL_ColombelMathieu.xml",
             "persName": {
                 "forename": "Mathieu",
                 "surname": "Colombel"
@@ -1896,5 +1897,38 @@
             "du Cours-la Reyne.",
             "FIN"
         ]
+    ],
+    "pages_number": [
+        "7",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38"
     ]
 }

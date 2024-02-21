@@ -1,17 +1,18 @@
 {
-    "imprimatur": null,
+    "imprimatur": "Auec Permißion.",
     "corrector": false,
     "entête": {
         "form": "vers",
         "genre": "burlesque",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-04-30",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-13",
+            "@who": "AB"
         },
         "titre": "Interprète (l') des écrits du temps, tant en proses (sic)\n          qu'en rimes, et son sentiment burlesque sur iceux.",
         "dates": {
@@ -19,7 +20,7 @@
             "@when": "2021-05-25",
             "#text": "25 mai 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -30,10 +31,24 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
+        [
+            "L'INTERPRETE",
+            "DES",
+            "ESCRITS DV TEMPS",
+            "TANT EN PROSES",
+            "QV'EN RIMES ET",
+            "SON SENTIMENT",
+            "Burleſques ſur iceux.",
+            "A PARIS,",
+            "M. DC. XLIX.",
+            "Auec Permißion."
+        ],
         [
             "LINTERPRETE",
             "ESCRITS DV TEMPS.",
@@ -285,11 +300,18 @@
             "Mancho, curtaus, sorme on. s’en- jaû",
             "Voire, peus-etr, encare pis¬",
             "C’eſt ce qu’ont produit le eſciss1",
-            ".1",
             "Dont ie ſuis fidele nttptese.",
             "Si quelqu’vn fat, iux, qil s’y metee.",
-            "E IN.",
-            "¬¬"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

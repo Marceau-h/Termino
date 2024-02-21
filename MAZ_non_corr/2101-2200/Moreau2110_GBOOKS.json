@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-05-04",
         "change": {
             "@status": "not_corrected"
@@ -23,8 +22,7 @@
             "@ref": "isni:0000000121428928",
             "persName": {
                 "forename": "Charles",
-                "surname": "Lorraine (De)",
-                "name": "Charles IV"
+                "surname": "Lorraine de"
             }
         },
         "pubDate": {
@@ -39,6 +37,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
             "persName": {
                 "forename": "Veuve de Jean",
                 "surname": "Guillemot"
@@ -166,5 +165,13 @@
             "CHARLEs Dvc E Loa",
             "DuCaspd’Aaeayce. May1é6j."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
     ]
 }

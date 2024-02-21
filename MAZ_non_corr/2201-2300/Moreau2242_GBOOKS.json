@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-07-30",
         "change": {
             "@status": "not_corrected"
@@ -38,9 +37,10 @@
         },
         "publisher": {
             "@ref": "isni:0000000364740772",
+            "@xml:id": "IL_LarruSamuelde.xml",
             "persName": {
-                "forename": "Samuel",
-                "surname": "Larru (De)"
+                "forename": "Samuel de",
+                "surname": "Larru"
             }
         },
         "nbPages": "6"
@@ -173,5 +173,13 @@
             "l",
             "..!1."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
     ]
 }

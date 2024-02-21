@@ -15,7 +15,7 @@
             "La Meilleraye, Charles de la Porte (1602-1664 ; duc de)",
             "Orléans, Gaston (1608-1660 ; duc d')",
             "Navailles, Philippe de Montault-Bénac de (1619-1684)",
-            "France. Parlement de Toulous",
+            "France. Parlement de Toulouse",
             "Monarchie",
             "Régence",
             "Paris (France)",
@@ -58,7 +58,9 @@
             "@source": "Mazarine",
             "#text": "Sans Lieu"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "31"
     },
     "texte": [
@@ -1896,5 +1898,37 @@
             "meure le Mazarin.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
     ]
 }

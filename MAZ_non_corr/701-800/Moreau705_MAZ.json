@@ -11,7 +11,7 @@
             "@when": "2022-02-09",
             "@who": "AB"
         },
-        "titre": "Codicile et suite du testament de très-honorable,\n          très-illustre et très-puissante princesse Charlotte-Marguerite de Montmorency, princesse\n          douairière de Condé, duchesse de Montmorency et de Château Roux (sic), dame de Chantilly,\n          de Merlou et autres terres et seigneuries, décédée à Châtillon-sur-Loing lc deuxième\n          décembre 1650.",
+        "titre": "Codicile et suite du testament de très-honorable,\n          très-illustre et très-puissante princesse Charlotte-Marguerite de Montmorency, princesse\n          douairière de Condé, duchesse de Montmorency et de Château Roux (sic), dame de Chantilly,\n          de Merlou et autres terres et seigneuries, décédée à Châtillon-sur-Loing le deuxième\n          décembre 1650.",
         "dates": {
             "@type": "file_creation",
             "@when": "2022-01-31",
@@ -49,7 +49,9 @@
             "@ref": "geonames:2988507",
             "#text": "Paris"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "12"
     },
     "texte": [
@@ -365,5 +367,18 @@
             "ſoir.",
             "’ne, PELAV"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
     ]
 }

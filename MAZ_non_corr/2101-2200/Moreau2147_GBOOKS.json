@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1650-01",
         "change": {
             "@status": "not_corrected"
@@ -23,8 +22,7 @@
             "@ref": "isni:0000000118675506",
             "persName": {
                 "forename": "Charles",
-                "surname": "d'Angleterre",
-                "name": "Charles II"
+                "surname": "d'Angleterre"
             }
         },
         "pubDate": {
@@ -39,6 +37,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000367213580",
+            "@xml:id": "IL_SassierGuillaume.xml",
             "persName": {
                 "forename": "Guillaume",
                 "surname": "Sassier"
@@ -159,5 +158,11 @@
             "naous prions Dieu de vous conſeruer, tres-cher",
             "Couſin."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4"
     ]
 }

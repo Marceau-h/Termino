@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "chantable",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Chanson",
+            "triolet"
         ],
-        "subject": null,
+        "subject": "Paix de Saint-Germain",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-03-30",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-21",
+            "@who": "AB"
         },
         "titre": "Triolets à la mode sur la paix, faits dans la Pomme de\n          pin, pour l'heureux retour du roi à Paris.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -32,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000110403338",
+            "@xml:id": "IL_LangloisDenis.xml",
             "persName": {
                 "forename": "Denys",
                 "surname": "Langlois"
@@ -41,51 +46,28 @@
     },
     "texte": [
         [
-            "T A¬",
-            "t",
-            "10",
+            "TRIOLETS",
             "A LA MODE",
-            "T",
-            "A",
             "SVR",
-            "7",
-            "T",
-            "1 A1",
-            "A L ALAS",
-            "AITS DANS LA POMME DE PIN.",
+            "LA PAIX,",
+            "FAITS DANS LA POMME DE PIN.",
             "POVR",
-            "L’HEVREVX RETOVR DV RO",
+            "L’HEVREVX RETOVR DV ROY",
             "à Paris.",
-            "A.",
-            "ades",
-            "ee e8",
-            "3",
-            "fas",
             "A PARIS,",
             "Chez DENYS LANGLOIS, au mont S. Hilaire.",
             "à l’Enſeigne du Pelican.",
-            "Et en ſa Boutique au bout du Pont-neuf, vers l’Eſcholc.",
+            "Et en ſa Boutique au bout du Pont-neuf, vers l’Eſchole.",
             "M. DC. XLIX."
         ],
         [
-            "1"
-        ],
-        [
-            "!",
-            "Agee &amp; e Ee e a e &amp;e &amp; &amp;e aE e re",
-            ".",
-            "TN E",
-            "A LAMODE",
-            "1 7",
-            "AC",
-            "SV",
-            "T",
-            "1 1",
-            "IHAI 1",
+            "3",
+            "TRIOLETS",
+            "A LA MODE",
+            "SVR",
+            "LA PAIX,",
             "FAITS DANS LA POMME DE PIN.",
-            "LYDE B T D 7D",
-            "7 1",
-            "SRL’IHEVEA REIV RI",
+            "SVR L'HEVREVX RETOVR DV ROY",
             "à Paris.",
             "Ee uveritable Courrir de la Pai.",
             "L eſt temps de ſe réjoüir,",
@@ -332,10 +314,19 @@
             "Puiſque nous ſommes hors de peine;",
             "Diſons cent fois Viue le Roy,",
             "Viue la Reyne.",
-            "FIN.",
-            "e",
-            "qe.",
-            "2 orp¬"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
     ]
 }

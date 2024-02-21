@@ -1,17 +1,26 @@
 {
-    "imprimatur": null,
+    "imprimatur": "AVEC PERMISSION.",
     "corrector": false,
     "entête": {
-        "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "form": [
+            "prose",
+            "vers"
+        ],
+        "genre": [
+            "narration",
+            "courrier",
+            "périodique",
+            "épigramme"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-19",
+            "@who": "AB"
         },
         "titre": "Courrier (le) extravagant, portant toutes sortes de\n          nouvelles extravagantes de toutes sortes de lieux, tant de France que des pays\n          étrangers.",
         "dates": {
@@ -19,7 +28,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -32,6 +41,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000362335140",
+            "@xml:id": "IL_HuotClaude.xml",
             "persName": {
                 "forename": "Claude",
                 "surname": "Huot"
@@ -41,14 +51,12 @@
     },
     "texte": [
         [
-            "NT D T .",
-            "IV I E I0",
+            "COVRIER",
             "EXTRAVAGANT.",
-            "A PPORTANT TOVTES SORTES",
+            "APPORTANT TOVTES SORTES",
             "de nouuelles extrauagantes, de toutes",
             "ſortes de lieux, tant de France que",
             "des Pays Eſtrangers.",
-            "pae",
             "A PARIS,",
             "Chez CLAVDE HVOT, ruë S. Iacques,",
             "proche les Iacobins, au pied de Biche.",
@@ -56,11 +64,8 @@
             "AVEC PERMISSION."
         ],
         [
-            "Aé n,Aeo",
-            "éaea ee sé Sra vse-et oese",
-            "p’: ep’pe’p: pepps",
+            "3",
             "COVRIER EXTRAVAGANT.",
-            "e",
             "apportant toutes ſortes de nouuelles ex",
             "trauagantes, de toutes ſortes de lieux.",
             "tant de France que des Pays",
@@ -338,5 +343,17 @@
             "vray-ſemblable, &amp; confeſſerez qu’on peut mentir",
             "en verité."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
     ]
 }

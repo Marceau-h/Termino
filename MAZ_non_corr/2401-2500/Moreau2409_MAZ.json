@@ -1,124 +1,120 @@
 {
-    "imprimatur": null,
+    "imprimatur": "Auec Permißion de ſon Alteſſe Royale",
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
+        "subject": [
+            "Lusignan, François de (1... -1656 ; marquis)",
+            "Harcourt, Henri de Lorraine (1601-1666 ; comte d')",
+            "Conti, Armand de Bourbon (1629-1666 ; prince de)",
+            "Villeneuve-sur-Lot (Lot-et-Garonne) – 1652 (siège)"
         ],
-        "subject": null,
-        "creation": "1652-07-02",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-03-15",
+            "@who": "AB"
         },
-        "titre": "La marche de l'armée de monseigneur le prince de Conty,\n          commandée par le marquis de Lusignan, pour le secours de la ville d'Agennois, assiegée par\n          monsieur le comte d'Arcourt. Avec l'ordonnance de mondit seigneur le prince, sur les\n          offres faites par les bourgeois & habitans de la ville de Bourdeaux, pour le secours\n          de ladite ville.",
+        "titre": "Marche (la) de l'armée de monseigneur le prince de Conty,\n          commandée par le marquis de Lusignan, pour le secours de la ville d'Agénois (sic),\n          assiégée par monsieur le comte d'Arcourt (sic), avec l'ordonnance de mondit seigneur le\n          prince sur les offres faites par les bourgeois et habitants de la ville de Bourdeaux pour\n          le secours de ladite ville.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-05-25",
-            "#text": "25 mai 2021"
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
         },
         "author": {
             "@ref": "isni:0000000119302891",
+            "@source": "Mazarine",
             "persName": {
-                "forename": "Armand",
-                "surname": "Conti (De)"
+                "forename": "Armand de Bourbon",
+                "surname": "Conti"
             }
         },
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1652",
-            "#text": "1652"
-        },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1652-07-07",
+                "@notAfter": "1652-07-14",
+                "#text": "deuxième semaine de\n            juillet 1652"
+            }
+        ],
         "pubPlace": {
+            "@source": "Mazarine",
             "@ref": "geonames:2988507",
-            "@source": "Moreau",
             "#text": "Paris"
         },
         "publisher": {
-            "@ref": "isni:0000000121290076",
-            "persName": {
-                "forename": "Guillaume",
-                "surname": "La Court (De)"
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "4"
     },
     "texte": [
         [
-            "1",
-            "e e ieie",
-            "DE L’ARME’E",
-            "rre¬ 7",
-            "DE CONT.",
-            "1",
-            "COMMANDE’E PAR LE",
-            "Marquis de Luſignan, pour le ſe cours",
+            "LA MARCHE",
+            "DE L’ARMEE",
+            "DE MONSEIGNEVR LE PRINCE",
+            "DE CONTY.",
+            "COMMANDEE PAR LE",
+            "Marquis de Luſignan, pour le ſecours",
             "de la Ville d’Agennois, aſſiegée par",
             "Monſieur le Comte d’Arcourt.",
             "Auec l’Ordonnance de mondit Seigneur le Prince,",
             "ſur les offres faites par les ourgeos &amp; Habitans de",
             "la Vile de Bourdeaux, pour le ſecours de ladite Ville.",
-            "8e3",
-            "8o",
-            "A PA RIS,",
-            "Iouſte la copie Imprimée ̀ ourdeax;",
+            "A PARIS,",
+            "Iouſte la copie Imprimée à Bourdeaxu.",
+            "Par G. DE LA COVRT, Imprimeur ordinaire du",
             "Roy, &amp; de ſon Alteſſe.",
             "M. DC. LII.",
-            "Aue Pemiaiun de ſu dlſe eoale."
+            "Auec Permißion de ſon Alteſſe Royale."
         ],
         [
-            "&amp;ee",
-            "AV",
-            "LAS",
-            "re¬ 7",
+            "3",
+            "LE PRINCE",
             "DE CONTY.",
-            "T",
-            "1",
-            "PRINCEVSNC,",
-            "Pir de France, Couuerneur &amp; Lieutenant Cene",
+            "PRINCE DV SANG,",
+            "Pair de France, Gouuerneur &amp; Lieutenant Gene¬",
             "ral pour le Poy en ſes Prouinces de Champagne, é&amp;",
             "Srie, Generaliſſime des Armées de ſa Majeſté.",
             "ES Bourgeois &amp; Habitans de cette",
             "Ville, continuans de plus en plus a",
             "Q nous donner des preuues de leur al.",
-            "ed fection au ſeruice du Roy, de Mou",
+            "ed fection au ſeruice du Roy, de Mou¬",
             "ſieur le Prince &amp; le Noſtre, s’eſtans",
-            "offerts de donner des hommes pour ſecourir Vil",
+            "offerts de donner des hommes pour ſecourir Vil¬",
             "leneufve d’Agennois, aſſiegée par les Trouppes",
             "de Monſeur le Comte d’Arcourt: NO vS en",
             "acceptant leur bonne volonte; ORDONNONS,",
             "à ceux qui voudront bailler des hommes, ou aller",
             "en perſonne au ſecours de ladite Ville, de donner",
-            "leurs noms au Sieur Marquis de Luſignan, Lieute",
+            "leurs noms au Sieur Marquis de Luſignan, Lieute¬",
             "nant General des Armées du Roy en Guyenne,",
             "A ij"
         ],
         [
             "i",
-            "ſouhs noſtre Authoriteé, pour en tenir eſta: Re",
+            "ſouhs noſtre Authoriteé, pour en tenir eſta: Re¬",
             "gler les Compagnies, les conduires &amp; faires mar.",
-            "cher le pluſtoſt qu’il ſe pourra, auec les Troup",
+            "cher le pluſtoſt qu’il ſe pourra, auec les Troup¬",
             "pes reiglées, &amp; Milices que Nous tenons preſtes",
             "pour cét effect: Enſemble les choſes neceſſaires",
-            "pour Ieurs ſubſiſtances. A IT Bourdaaux, e",
-            "9",
-            "deuxiéme iour de Iuillet 165a.",
-            "A.",
-            "a",
-            "3",
-            "3",
-            "DE BOVRON.",
-            "r",
-            "1",
-            "as",
+            "pour Ieurs ſubſiſtances. FAIT Bourdaaux, ce",
+            "deuxiéme iour de Iuillet 1652.",
+            "A. DE BOVRBON.",
             "Et pus bas:",
-            "Par Monſeigneus,",
-            "N5¬93",
-            "MEVRET DELA TOVR.",
-            "Ll1.",
-            "1"
+            "Par Monſeigneur,",
+            "MEVRET DELA TOVR."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
     ]
 }

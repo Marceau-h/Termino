@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-07-20",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "AB"
         },
         "titre": "Relation véritable contenant la sortie par force du duc\n          d'Épernon hors la ville de Dijon, avec le siège du château de ladite ville par les\n          habitants d'icelle.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000001831368",
+            "@xml:id": "IL_BrunetJean.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Brunet"
@@ -47,20 +52,13 @@
             "La ſortie par force du Duc d’Eper",
             "non hors la Ville de Dijon",
             "Auec le Siege du Chaſteau de ladite Ville, par",
-            "ea",
-            "a",
-            "eu le Vle ie duſa lae",
-            "S"
+            "les Habitans d'icelle.",
+            "A PARIS,",
+            "Chez IEAN BRVNET, ruë ſaincte Anne.",
+            "M. DC. LII."
         ],
         [
-            "a 1",
-            "a",
-            "p e",
-            "uaaoGo"
-        ],
-        [
-            "AAA6",
-            "tpſtttppp?",
+            "3",
             "Relation veritable contenant",
             "la ſortie par force du Duc",
             "d’Epernon hors la Ville de",
@@ -186,10 +184,15 @@
             "ageux, &amp; reſolus à tout ſouffrir, pour ſe con",
             "ſeruer contre les ſoldats, auides de pillage &amp;",
             "de butin.",
-            "EIN.",
-            "a",
-            "1",
-            "1"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

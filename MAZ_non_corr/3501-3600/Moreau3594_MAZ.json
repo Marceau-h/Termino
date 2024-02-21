@@ -23,7 +23,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -43,6 +43,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000063027789",
+            "@xml:id": "IL_MorlotClaude.xml",
             "persName": {
                 "forename": "Claude",
                 "surname": "Morlot"
@@ -374,5 +375,14 @@
             "Et pour punirvoſre inſoſence, on oii l",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

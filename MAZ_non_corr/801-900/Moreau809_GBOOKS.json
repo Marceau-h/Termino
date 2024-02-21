@@ -12,18 +12,13 @@
             "@when": "2021-11-18",
             "@who": "AB"
         },
-        "titre": "Couronne (la) de la reine envoyée du ciel à Sa\n                    Majesté.",
+        "titre": "Couronne (la) de la reine envoyée du ciel à Sa\n          Majesté.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -36,6 +31,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000114066324",
+            "@xml:id": "IL_VariquetPierre.xml",
             "persName": {
                 "forename": "Pierre",
                 "surname": "Variquet"
@@ -287,5 +283,16 @@
             "uaillent eternellomeat à vousau faie ve de",
             "gloire &amp; d’immortalité."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
     ]
 }

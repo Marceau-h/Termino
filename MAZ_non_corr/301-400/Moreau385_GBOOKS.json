@@ -4,14 +4,15 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-07-30",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-14",
+            "@who": "AB"
         },
         "titre": "Arrivée (l') de l’armée de l’archiduc Léopold à La\n          Ferté-Milon, et la honteuse fuite du maréchal de Turenne; ensemble les particularités de\n          ce qui s’est passé au combat de messieurs les ducs de Beaufort et de Nemours.",
         "dates": {
@@ -19,7 +20,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -31,6 +32,8 @@
             "#text": "Paris"
         },
         "publisher": {
+            "@role": "dubious",
+            "@source": "BnF",
             "persName": {
                 "forename": "Louys",
                 "surname": "Le Gaillard"
@@ -40,25 +43,24 @@
     },
     "texte": [
         [
-            "An",
             "L’ARRIVEE",
             "DE LARMEE",
             "DE L’ARCHIDVC",
             "LEOPOLD.",
             "A la Ferté Milon",
-            "e-le e le e re ſeee",
-            "ſe",
-            "ee",
-            "ee l o e le e l dn daoue¬"
+            "Et la honteuſe Fuitte du Mareſschal de Turenne.",
+            "Enſemble les Paritcularitez de ce qui s'eſt paſſé au Com",
+            "bat d'entre Meßieurs les DUcs de Beaufort,",
+            "&amp; de Neumours.",
+            "A PARIS,",
+            "Chez LOVYS LE GAILLARD, derriere le",
+            "Puits Certain. M. DC. LII."
         ],
         [
-            "?",
-            "h",
-            "ae",
-            "LRIVE LaREE DE",
+            "3",
+            "L'ARRIVEE DE L'ARMEE DE",
             "l’Archidue Laopold la Ferteé Miln.",
-            "r",
-            "E Mareſchal de Turenne nayant pû̂",
+            "LE Mareſchal de Turenne nayant pû̂",
             "s’oppoſer à la marche des Trouppes de",
             "l’Arehidue Leopold, au paſſage de la rRa",
             "uiere d’Aiſne, ſe reſolut, ne ſe voyant pas aſſez",
@@ -204,13 +206,22 @@
             "Surenne."
         ],
         [
-            "¬ 8",
+            "8",
             "Le ptemier de ee mois, le cotps du defunt Due",
             "de Nemours fut expoſé à face decouuerte en ſon",
             "Hoſtel, auec coutes les ceremonies funebte",
             "deuësà ſa Maiſon; à ſes Alliances &amp; au merite de",
             "ſa perſonne.",
-            "EIN."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

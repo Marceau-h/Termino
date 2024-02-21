@@ -17,7 +17,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Mazarine",
             "@when": "1649",
@@ -31,6 +31,7 @@
         "publisher": [
             {
                 "@ref": "isni:0000000108959687",
+                "@xml:id": "IL_MaucroyEtienne.xml",
                 "persName": {
                     "forename": "Étienne",
                     "surname": "Maucroy"
@@ -38,6 +39,7 @@
             },
             {
                 "@ref": "isni:0000000001965841",
+                "@xml:id": "IL_PepingueVeuvedeTheodore.xml",
                 "persName": {
                     "forename": "Veuve de Théodore",
                     "surname": "Pépingué"
@@ -571,5 +573,22 @@
             "Mais craint que tu ne ſois dompté́e.",
             "Adieu."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
     ]
 }

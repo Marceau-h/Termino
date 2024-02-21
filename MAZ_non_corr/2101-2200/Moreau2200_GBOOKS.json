@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-02-11",
         "change": {
             "@status": "not_corrected"
@@ -23,7 +22,7 @@
             "@ref": "isni:0000000122776772",
             "persName": {
                 "forename": "Honorat",
-                "surname": "Bueil (De)"
+                "surname": "Bueil de"
             }
         },
         "pubDate": {
@@ -38,6 +37,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121237136",
+            "@xml:id": "IL_CoulonVeuvedAntoine.xml",
             "persName": {
                 "forename": "Veuve d'Antoine",
                 "surname": "Coulon"
@@ -308,5 +308,15 @@
             "Votre res aſ-ctioneé ſeieeur,",
             "DE Na C."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

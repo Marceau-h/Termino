@@ -26,7 +26,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -44,7 +44,11 @@
             "@ref": "geonames:2988507",
             "#text": "Paris"
         },
-        "publisher": "Imprimeurs et libraires ordinaires du roi",
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
         "nbPages": "6"
     },
     "texte": [
@@ -126,5 +130,11 @@
             "rnoie, afin que chacur ſoit informé de ce",
             "fuecez ſi aduantageux aux Armes du Roy."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "12",
+        "13",
+        "14"
     ]
 }

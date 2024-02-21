@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
             "@status": "not_corrected"
         },
@@ -19,8 +18,8 @@
             "#text": "26 avril 2021"
         },
         "author": {
-            "@source": "BMLyon",
-            "#text": "Parlement de Paris"
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
         },
         "pubDate": {
             "@source": "Moreau",
@@ -34,6 +33,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000005438555",
+            "@xml:id": "IL_CourantJulien.xml",
             "persName": {
                 "forename": "Julien",
                 "surname": "Courant"
@@ -181,5 +181,11 @@
             "lF IN.",
             "A"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4"
     ]
 }

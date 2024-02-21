@@ -8,7 +8,7 @@
         "illustration": false,
         "subject": [
             "Finances publiques -- France -- Ancien Régime‎‎",
-            "Rentes",
+            "Renes",
             "Taille (impôt)",
             "Sel -- Impôts – France",
             "Militaires",
@@ -29,7 +29,7 @@
         },
         "author": {
             "@ref": "isni:0000000121755355",
-            "persName": "France. Parlement de Paris"
+            "orgName": "Parlement de Paris"
         },
         "pubDate": [
             {
@@ -50,6 +50,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000364740772",
+            "@xml:id": "IL_LarruSamuelde.xml",
             "persName": {
                 "forename": "Samuel de",
                 "surname": "Larru"
@@ -718,5 +719,29 @@
             "le ſe deffendre.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31"
     ]
 }

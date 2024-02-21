@@ -23,7 +23,7 @@
         },
         "author": {
             "@ref": "isni:0000000119572170",
-            "persName": "France. Parlement de Bordeaux"
+            "orgName": "Parlement de Bordeaux"
         },
         "pubDate": [
             {
@@ -44,6 +44,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
             "persName": {
                 "forename": "Veuve de Jean",
                 "surname": "Guillemot"
@@ -149,5 +150,12 @@
             "Chez la veufue Iean Guillemot, ruë̈",
             "des Marmouzets."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14"
     ]
 }

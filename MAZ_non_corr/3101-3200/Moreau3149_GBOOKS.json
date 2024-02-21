@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
-        "subject": null,
+        "subject": "Parlement de Paris",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1651-07-06",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "AB"
         },
         "titre": "Relation de tout ce qui s'est passé au Parlement le 7\n          juillet 1651, touchant la déclaration de messieurs les princes contre le cardinal Mazarin\n          et ses adhérents.",
         "dates": {
@@ -19,18 +23,27 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1651",
-            "#text": "1651"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1651-07",
+                "#text": "pas avant juillet 1651"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "14"
     },
     "texte": [
@@ -38,49 +51,16 @@
             "RELATION",
             "DE TOVT CE QVI SESI",
             "paſſé au Parlement le 7. Iuil",
-            "let 16",
-            "Toelar peaero",
-            "de Meſfieurs les I",
-            "ntre le Cardinal",
-            "r aſrel oi oe e teeu",
+            "let 1651",
+            "TOVCHANT LA DECLARATION",
+            "de Meſfieurs les Princes, contre le Cardinal",
+            "Mazarin &amp; ſes Adherents.",
             "A PARIS,",
-            "eC",
-            "M. DC. Ll",
-            "T¬¬"
+            "M. DC. LI."
         ],
         [
             "3",
-            "11",
-            "8",
-            "...",
-            "A¬",
-            "aa",
-            ".",
-            ".",
-            "¬¬¬¬¬"
-        ],
-        [
-            "31",
-            "i",
-            "e",
-            "..",
-            "li",
-            "ip",
-            "1t",
-            "s",
-            ".",
-            "’as",
-            "l r-",
-            "5",
-            "Sje",
-            "2",
-            "s",
-            "e",
-            "s",
-            ".",
-            "A JT T",
-            "1 1",
-            "E - L II L",
+            "RELATION DE",
             "tout ce qui s’eſt paſſé au Par",
             "lement le 7. Iuillet 16̃1.",
             "t ov ’avx les Chambres s’eſtat",
@@ -468,5 +448,20 @@
             "l",
             "2.¬"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
     ]
 }

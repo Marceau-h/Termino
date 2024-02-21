@@ -12,18 +12,13 @@
             "@when": "2021-11-15",
             "@who": "AB"
         },
-        "titre": "Envoi de Mazarin au mont Gibel, ou l’Étique\n                    Mazarin.",
+        "titre": "Envoi de Mazarin au mont Gibel, ou l’Étique\n          Mazarin.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -35,10 +30,7 @@
             "#text": "Paris"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "8"
     },
@@ -158,5 +150,11 @@
             "Va ie dis que tu n’es qu’vne vieille bouriq i",
             "FIN"
         ]
+    ],
+    "pages_number": [
+        "2",
+        "3",
+        "4",
+        "5"
     ]
 }

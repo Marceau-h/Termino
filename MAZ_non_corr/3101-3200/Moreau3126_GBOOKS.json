@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
-        "subject": null,
+        "subject": "Parlement de Paris",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1651-07-20",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "AB"
         },
         "titre": "Relation de ce qui s'est passé en la dernière assemblée\n          du Parlement, le deuxième jour de ce mois (août 1651 ).",
         "dates": {
@@ -19,12 +23,19 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1651",
-            "#text": "1651"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1651",
+                "#text": "1651"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1651-08",
+                "#text": "pas avant le mois d'août 1651"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -32,6 +43,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121408134",
+            "@xml:id": "IL_VivenayNicolas.xml",
             "persName": {
                 "forename": "Nicolas",
                 "surname": "Vivenay"
@@ -44,37 +56,18 @@
             "RELATION",
             "DE CE QVI S’EST PASSE",
             "EN LA DERNIERE",
-            "ASSEMBLE’E",
+            "ASSEMBLEE",
+            "DV",
             "PARLEMENT.",
-            "Le deuxiéme jour de cemois.",
-            "3",
-            "8",
-            "&amp;",
-            "S",
+            "Le deuxiéme jour de ce mois.",
             "A PARIS.",
-            "Chez NCOLAS VIVENAY,",
-            "en ſaPoutiqueau PalaiS¬",
-            "M. DC. L1."
+            "Chez NICOLAS VIVENAY,",
+            "en ſa Boutique au Palais.",
+            "M. DC. LI."
         ],
         [
-            "1",
-            "a:",
-            ":",
-            "a",
-            "¬2",
-            "2",
-            "¬2",
-            ".",
-            "Ee",
-            ". !",
-            "1",
-            "amda"
-        ],
-        [
-            "dſttptſpſtſtſdltljſjltjt",
+            "3",
             "RELATION",
-            "r",
-            "I EI",
             "DE CE QVI SEST PASSE’",
             "EN LA DERNIERE",
             "ASSEMBLE’E",
@@ -416,15 +409,23 @@
             "qu’il a à leurs Ma;eſtez, &amp; à Son Alteſſe.",
             "Royale, qu’il n’y a rien qu’il ne hazarde,",
             "lors qu’il eſt queftion d’aſſeurer le repos,",
-            "&amp; la tranquillité du Royaume.",
-            "Ve",
-            "e",
-            "2",
-            ".",
-            "9.",
-            "..",
-            "9",
-            "."
+            "&amp; la tranquillité du Royaume."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

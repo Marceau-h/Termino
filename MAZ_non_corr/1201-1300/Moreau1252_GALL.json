@@ -12,18 +12,13 @@
             "@when": "2021-11-15",
             "@who": "AB"
         },
-        "titre": "Entretiens (les) du prince de Condé et du prince\n                    de Conty, répondant l’un à l’autre par dialogue.",
+        "titre": "Entretiens (les) du prince de Condé et du prince de\n          Conty, répondant l’un à l’autre par dialogue.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1650",
@@ -36,6 +31,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000108647130",
+            "@xml:id": "IL_BoudevilleClaude.xml",
             "persName": {
                 "forename": "Claude",
                 "surname": "Boudeville"
@@ -179,5 +175,13 @@
             "Car ie ne crois iamais que ſoyons en franchiſe.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "2",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

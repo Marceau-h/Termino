@@ -17,7 +17,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -37,6 +37,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000366954336",
+            "@xml:id": "IL_MettayerMichel.xml",
             "persName": {
                 "forename": "Michel",
                 "surname": "Mettayer"
@@ -1073,5 +1074,30 @@
             "oix de l’Eſtat.",
             "&amp; rappelle toutes les any"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32"
     ]
 }

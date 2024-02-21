@@ -3,15 +3,21 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit",
+            "périodique",
+            "texte officiel"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1650-05-09",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
         "titre": "Relation de ce qui s'est passé au combat de Blanquefort,\n          et la reprise de l'île Saint-Georges par les troupes des Bordelois, avec l'arrêt donné par\n          le Parlement contre le duc d'Épernon, le chevalier de La Valette, son frère, et leurs\n          adhérents.",
         "dates": {
@@ -19,7 +25,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1650",
@@ -29,42 +35,25 @@
             "@source": "Moreau",
             "#text": "Sans Lieu"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
         [
-            "r 1",
-            "TJ",
-            "A. AI I I",
-            "DE CE QVI SES",
-            "c",
-            "Paſſé a Bordeaux au Con bat de Blan",
-            "quefort, &amp; la repriſe de l’lleS. George",
+            "RELATION",
+            "DE CE QVI S'EST",
+            "Paſſé a Bordeaux au Combat de Blan",
+            "quefort, &amp; la repriſe de l’lle S. George",
             "par les trouppes des Bordelois,",
             "Auec l’Arreſt donné par le Parlement contre le Duc",
-            "ee",
             "ſrere, &amp; leurs adherans.",
-            "M DC L"
+            "M. D. L."
         ],
         [
-            "l 1",
-            "1.",
-            ".",
-            "1",
-            "8",
-            "l",
-            "i"
-        ],
-        [
-            "et t ,t",
-            "&amp;t, *",
-            "tteilttat sdu tt d de ſ d d ſdt ed dd ſl t d ſl luſl dl",
-            "REATION DE CE VI SEST",
-            "4",
-            "7",
-            "¬ ¬-",
-            "..",
+            "3",
+            "REATION DE CE QVI SEST",
             "paſsé́ en la Ville de Bordeax.",
             "Apriſe de l’IſleS. George, le maſſacre de quantit́ de miſerablos",
             "payſans, les cris &amp; la clameur des ſemmes violees, les ſacrileges, les",
@@ -302,5 +291,14 @@
             "FIN. .",
             "l E"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

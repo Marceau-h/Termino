@@ -23,7 +23,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -43,6 +43,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121209450",
+            "@xml:id": "IL_EstienneAntoine.xml",
             "persName": {
                 "forename": "Antoine",
                 "surname": "Estienne"
@@ -404,5 +405,18 @@
             "Collaionné à l’Original par moy Conſeiller",
             "Secretaire du Roy &amp; de ſes Finances."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
     ]
 }

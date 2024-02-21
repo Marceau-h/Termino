@@ -3,14 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Poésie à forme fixe",
+            "Ballade"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-15",
+            "@who": "AB"
         },
         "titre": "Ballade à Jules Mazarin sur son jeu de hoc",
         "dates": {
@@ -18,7 +23,7 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -29,34 +34,25 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "4"
     },
     "texte": [
         [
-            "T",
-            "T",
-            "T",
-            "H",
-            "IA",
+            "BALLADE",
             "A",
-            "T N",
-            "l",
-            "lL",
-            "TII DC",
-            "u",
-            "E",
-            "A",
-            "r",
-            "SVRSON IEV",
+            "IVLES",
+            "MAZARIN",
+            "SVR SON IEV",
             "du Hoc.",
-            "A PARS",
-            "M. DC. XLl"
+            "A PARiS",
+            "M. DC. XLIX."
         ],
         [
             "3",
-            "e",
-            "BAELA DE.",
+            "BALLADE.",
             "Nfinil en aura, deſia le foüet fait clae",
             "Et ee ieune ſron deur auſi ferme qu’n",
             "Roe",
@@ -94,19 +90,19 @@
             "Où qu’vn ieune Cadet du pays de Monluc,",
             "Il ne peut euiter le Mat dans cét eſchet.",
             "¬",
-            "AV PRINCEDE CONDE’",
+            "AV PRINCE DE CONDE’",
             "Rince quifis paſſer carriere au braue Bec",
             "Et qui mit Larchidue en pitoyableaffroc,",
             "Ce Mlaiſtre ignorant n’a que lafoy d’vn Grec",
             "Meſme il te trahiroitpour trois plume deCoe,",
             "Laiſſe léchaſtier &amp; ſa ſequelle aue.,",
             "Ie ſuis dans l’auenir ſģauant comme v nEnoc",
-            "Ilne peut euiter le Mat danśteſqnuet",
-            "ee rrs",
-            "e¬",
-            "¬",
-            "l dedee ie!",
-            "¬"
+            "Ilne peut euiter le Mat danśteſqnuet"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4"
     ]
 }

@@ -13,18 +13,13 @@
             "@when": "2021-11-15",
             "@who": "AB"
         },
-        "titre": "Entretien (l') familier du roi et de la reine\n                    régente, sa mère, sur les affaires du temps.",
+        "titre": "Entretien (l') familier du roi et de la reine régente, sa\n          mère, sur les affaires du temps.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -36,10 +31,7 @@
             "#text": "Rouen"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "12"
     },
@@ -453,5 +445,18 @@
             "par toute la France, viuve le oy, vive le oyvivsley",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
     ]
 }

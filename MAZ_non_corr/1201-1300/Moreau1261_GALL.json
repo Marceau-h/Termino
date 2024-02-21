@@ -12,18 +12,13 @@
             "@when": "2021-11-15",
             "@who": "AB"
         },
-        "titre": "Entrevue du sultan Hibraïm (sic), empereur des\n                    Turcs, et du roi d'Angleterre aux champs élysées.",
+        "titre": "Entrevue du sultan Hibraïm (sic), empereur des Turcs, et\n          du roi d'Angleterre aux champs élysées.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -35,10 +30,7 @@
             "#text": "Paris"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "8"
     },
@@ -291,5 +283,14 @@
             "Murmure, ſe courrouice, &amp; gronde",
             "Se promettant que deſomais"
         ]
+    ],
+    "pages_number": [
+        "2",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
     ]
 }

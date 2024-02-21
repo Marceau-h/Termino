@@ -22,7 +22,7 @@
             "@ref": "isni:0000000123225884",
             "@source": "Mazarine",
             "@role": "speaker",
-            "persName": "France. Parlement de Bretagne"
+            "orgName": "Parlement de Bretagne"
         },
         "pubDate": [
             {
@@ -45,6 +45,7 @@
         "publisher": [
             {
                 "@ref": "isni:0000000108959687",
+                "@xml:id": "IL_MaucroyEtienne.xml",
                 "persName": {
                     "forename": "Étienne",
                     "surname": "Maucroy"
@@ -52,6 +53,7 @@
             },
             {
                 "@ref": "isni:0000000001965841",
+                "@xml:id": "IL_PepingueVeuvedeTheodore.xml",
                 "persName": {
                     "forename": "Veuve de Théodore",
                     "surname": "Pépingué"
@@ -126,5 +128,10 @@
             "uſe dignmorance, F r aennes,en Patlement, ledix¬",
             "huireſme lanuier mil ſix cens quarante-neuſ"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
     ]
 }

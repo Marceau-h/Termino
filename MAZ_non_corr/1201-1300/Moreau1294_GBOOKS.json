@@ -12,18 +12,13 @@
             "@when": "2021-11-15",
             "@who": "AB"
         },
-        "titre": "État (l' ) des troupes de monsieur le prince de\n                    Condé, et de tout ce qui s’est passé dans la Guienne et le Berry depuis son\n                    arrivée en la ville de Bordeaux.",
+        "titre": "État (l' ) des troupes de monsieur le prince de Condé, et\n          de tout ce qui s’est passé dans la Guienne et le Berry depuis son arrivée en la ville de\n          Bordeaux.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1651",
@@ -34,10 +29,7 @@
             "#text": "Sans Lieu"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "8"
     },
@@ -233,5 +225,14 @@
             "&amp; le reſte du Conſeil de ſa Majeſté",
             "FIN"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

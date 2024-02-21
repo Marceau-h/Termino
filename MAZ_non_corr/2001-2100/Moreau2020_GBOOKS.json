@@ -4,16 +4,15 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1650-09-02",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Lettre de monsieur le duc d'Épernon à un de\n                    messieurs du Parlement de Paris, avec la Réponse.",
+        "titre": "Lettre de monsieur le duc d'Épernon à un de messieurs du\n          Parlement de Paris, avec la Réponse.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-06-08",
@@ -23,7 +22,7 @@
             "@ref": "isni:0000000061333950",
             "persName": {
                 "forename": "Bernard",
-                "surname": "Nogaret de La Vallette (De)"
+                "surname": "Nogaret de La Vallette de"
             }
         },
         "pubDate": {
@@ -32,7 +31,9 @@
             "#text": "1650"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "31"
     },
     "texte": [
@@ -980,5 +981,38 @@
             "Sepebre 16;jo0.",
             "Voftre, &amp;e."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31"
     ]
 }

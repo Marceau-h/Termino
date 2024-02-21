@@ -17,7 +17,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -34,7 +34,9 @@
             "@source": "Mazarine",
             "#text": "Sans Lieu"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "6"
     },
     "texte": [
@@ -74,8 +76,9 @@
             "celle de ſa femme, &amp; de ſes Enfans. C’eſt vne grace qui ne ſe refuſe qu’aux ſeuls",
             "criminels de leze-Mjeſté, &amp; encore dans la deniere riguear de la loy, que l’on",
             "ſouffre bien ſouuent eſtre vioĺe dans ces renconatres. Mais il fut auſſi-toſt reſer¬",
-            "ré par le Iuge dans vne forme de cachot: &amp; de peur qu’il ne ſe trouuaſt quel¬ <pb",
-            "n=\"10\"/>",
+            "ré par le Iuge dans vne forme de cachot: &amp; de peur qu’il ne ſe trouuaſt quel¬"
+        ],
+        [
             ".",
             "qu’vn, qui euſt aſſez d’ht manité pour meſpriſer les cmbres de la nulét, &amp; qui",
             "dans ce, lieux obſeurs, qui ſont les pr miers ſupplices, vouluſt ſoulager ſa mi¬",
@@ -174,8 +177,9 @@
             "eſt vnfacteur du meſſager, lequel pretend qu’ayant eſté por er quelques let res au",
             "lois de l accuſe: illuy demanda s’il n’y auoit pas moyen defaire impimer vnD¬",
             "cou fair contre la Deputation du Parlement à Monſieur le Prnce de Conde que",
-            "pour cela il luy auoit rmaené quelques ours apres vn nommé Deſdin, lequel n’auoie <pb",
-            "n=\"12\"/>",
+            "pour cela il luy auoit rmaené quelques ours apres vn nommé Deſdin, lequel n’auoie"
+        ],
+        [
             "¬¬¬¬¬¬.....",
             "p,, , ,,,, ,,, ,,,,,,",
             "pa emporté la piece; mais qu’il luy promit ſulement de la venir prendre au pre¬",
@@ -298,5 +302,13 @@
             "la Cour en fera vne exemple prononçant deés à preſent ſon abſolution.",
             "Monſieur CRESPIN Rapporteur."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
     ]
 }

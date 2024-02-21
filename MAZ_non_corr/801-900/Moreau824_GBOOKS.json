@@ -3,15 +3,20 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "courrier",
+            "périodique"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-07-20",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-19",
+            "@who": "AB"
         },
         "titre": "Courrier (le) de Pontoise, apportant toutes les nouvelles\n          de ce qui s'est fait et passé à la cour.",
         "dates": {
@@ -19,7 +24,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,6 +37,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000079624916",
+            "@xml:id": "IL_LerreinNicolas.xml",
             "persName": {
                 "forename": "Nicolas",
                 "surname": "Lerrein"
@@ -44,21 +50,18 @@
             "LE",
             "COVRRIER",
             "DE PONTOISE.",
-            "eneueueee",
-            "lien",
-            "n eoe e e prale",
-            "Colle ge d’Aras.",
-            ".e 1",
-            "r"
+            "APPORTANT TOVTES",
+            "les Nouuelles de ce qui s'eſt fait",
+            "&amp; paſé à la Cour.",
+            "A PARIS,",
+            "Chez NICOLAS LERREIN, prés le",
+            "College d’Aras.",
+            "M. DC. LII."
         ],
         [
-            "Atue a: ,",
-            "EGS E",
-            "&amp;a’p: e",
-            "L E",
-            "¬ 7",
-            "D T E",
-            "L V I E",
+            "3",
+            "LE",
+            "COVRRIER",
             "DE PONTOISE.",
             "APPOR TANT TOVTES LES",
             "Nouuelles de ce qui s’eſt faict &amp; paſſeé",
@@ -184,7 +187,15 @@
             "piſe à Maarin, &amp; d’oſter la ſacrée per.",
             "ſonne da Roy d’entre des mains fi pro",
             "fanes.",
-            "E 1 N."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

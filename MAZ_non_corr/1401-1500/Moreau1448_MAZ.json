@@ -2,7 +2,10 @@
     "imprimatur": "Auec Permiſſion",
     "corrector": false,
     "entête": {
-        "form": "vers/prose",
+        "form": [
+            "vers",
+            "prose"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
@@ -21,7 +24,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -42,6 +45,7 @@
         },
         "publisher": {
             "@ref": "isni:000000010899305X",
+            "@xml:id": "IL_SevestrePierre.xml",
             "persName": {
                 "forename": "Pierre",
                 "surname": "Sevestre"
@@ -223,5 +227,13 @@
             "ce. Et de toute cela la Fronde en a le premier",
             "&amp; le plus grand honneur."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

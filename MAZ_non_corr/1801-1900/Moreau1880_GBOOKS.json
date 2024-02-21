@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-02-19",
         "change": {
             "@status": "not_corrected"
@@ -21,7 +20,10 @@
         },
         "author": {
             "persName": {
-                "name": "P.D.L."
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "P. D. L."
+                }
             }
         },
         "pubDate": {
@@ -36,9 +38,10 @@
         },
         "publisher": {
             "@ref": "isni:0000000001796013",
+            "@xml:id": "IL_DuPontPierre.xml",
             "persName": {
                 "forename": "Pierre",
-                "surname": "Pont (Du)"
+                "surname": "Du Pont"
             }
         },
         "nbPages": "8"
@@ -407,5 +410,15 @@
             "aa Guere quile en vers Burleſques",
             "1"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

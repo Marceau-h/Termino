@@ -2,13 +2,15 @@
     "imprimatur": null,
     "corrector": false,
     "entête": {
-        "form": "vers/prose",
-        "genre": "lettre",
-        "subgenre": [
-            null,
-            null
+        "form": [
+            "vers",
+            "prose"
         ],
+        "genre": "lettre",
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-05-25",
         "change": {
             "@status": "not_corrected"
@@ -23,7 +25,7 @@
             "@ref": "isni:0000000122798701",
             "persName": {
                 "forename": "Jacques",
-                "surname": "Saulx (De)"
+                "surname": "Saulx de"
             }
         },
         "pubDate": {
@@ -38,9 +40,10 @@
         },
         "publisher": {
             "@ref": "isni:0000000367182999",
+            "@xml:id": "IL_LeRoyClaude.xml",
             "persName": {
                 "forename": "Claude",
-                "surname": "Leroy"
+                "surname": "Le Roy"
             }
         },
         "nbPages": "7"
@@ -265,5 +268,14 @@
             "&amp; DECLINCHAMPT.",
             "ſrie ’ffampes, ce 7. ay652."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

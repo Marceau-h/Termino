@@ -17,7 +17,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Mazarine",
             "@when": "1649",
@@ -30,6 +30,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000109126804",
+            "@xml:id": "IL_CotinetArnoul.xml",
             "persName": {
                 "forename": "Arnoul",
                 "surname": "Cotinet"
@@ -264,5 +265,15 @@
             "de noſtre oubliance, &amp; nous remettre en haleine &amp; en affe¬",
             "ion de noſtre propre ſalut."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

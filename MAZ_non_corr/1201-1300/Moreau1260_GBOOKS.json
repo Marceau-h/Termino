@@ -12,18 +12,13 @@
             "@when": "2021-11-15",
             "@who": "AB"
         },
-        "titre": "Entrevue (l’) de Son Altesse Royale, de M. le\n                    Prince et de M. de Beaufort, et leur magnifique entrée dans le palais d'Orléans,\n                    ensemble leur entretien touchant les affaires du temps, durant le\n                    chemin.",
+        "titre": "Entrevue (l’) de Son Altesse Royale, de M. le Prince et\n          de M. de Beaufort, et leur magnifique entrée dans le palais d'Orléans, ensemble leur\n          entretien touchant les affaires du temps, durant le chemin.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -35,11 +30,7 @@
             "#text": "Paris"
         },
         "publisher": {
-            "@ref": "isni:0000000",
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "7"
     },
@@ -178,5 +169,12 @@
             "Mon Dieu moù Couſn, dit S. A. R. à Monear",
             "le Prinee, quevoſtroſcharpe et ſale; Monſieur luy"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6"
     ]
 }

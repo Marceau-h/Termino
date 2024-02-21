@@ -1,17 +1,21 @@
 {
-    "imprimatur": null,
+    "imprimatur": "Auec permiſsion de ſon Alteſſe Royale.",
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "burlesque"
         ],
-        "subject": null,
+        "subject": "Princes de sang",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-07-04",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-07",
+            "@who": "AB"
         },
         "titre": "Dernières (les) résolutions de Son Altesse Royale et de\n          messieurs les princes, faites et arrêtées dans l’hôtel de ville, en présence des prévôt\n          des marchands et échevins de Paris, et la harangue du procureur du roi, ensemble les\n          particularités de ce qui s’y est passé, le 4 de juillet 1652.",
         "dates": {
@@ -19,12 +23,19 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1652",
-            "#text": "1652"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1652-07",
+                "#text": "relate les évènements de juillet 1652"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -41,24 +52,23 @@
     "texte": [
         [
             "LES DERNIERES",
-            "DC",
             "RESOLVTIONS",
-            "DE SON l.",
-            "AL TESSEROYALE",
-            "ET DE MESS IEvRS",
-            "LES PRINCE S,",
+            "DE SON",
+            "ALTESSE ROYALE",
+            "ET DE MESSIEVRS",
+            "LES PRINCES,",
             "Faites &amp; arreſtées dans l’Ho",
             "ſtel de Ville en preſence des",
             "Preuoſt des Marchans &amp;",
             "Eſcheuins de Paris.",
             "Et la Harangae du Procureur du Roy.",
-            "Enſemble les part",
-            "ularitez de ce qui s’y eſ",
-            "i le e e ſni li",
-            "chez IEAN Ni o T au, Mont",
-            "ſaint Hi air",
-            "¬e",
-            "e permiſoon de ſea Aheſſe Ral."
+            "Enſemble les particularitez de ce qui s’y eſt",
+            "paſsé ke 4. Iuillet 1652.",
+            "A PARIS,",
+            "Chez IEAN NIOT, au Mont",
+            "ſaint Hilaire.",
+            "M. DC. LII.",
+            "Auec permiſsion de ſon Alteſſe Royale."
         ],
         [
             "2:",
@@ -254,5 +264,15 @@
             "Royaums.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

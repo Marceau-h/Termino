@@ -17,7 +17,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -37,6 +37,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000110403338",
+            "@xml:id": "IL_LangloisDenis.xml",
             "persName": {
                 "forename": "Denis",
                 "surname": "Langlois"
@@ -347,5 +348,14 @@
             "Ie iuis de peur d’eſtre long.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

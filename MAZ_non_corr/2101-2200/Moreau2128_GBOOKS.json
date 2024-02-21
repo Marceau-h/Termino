@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-02-19",
         "change": {
             "@status": "not_corrected"
@@ -22,7 +21,7 @@
         "author": {
             "persName": {
                 "forename": "Michel",
-                "surname": "Grosboi (De)"
+                "surname": "Grosboi de ou Camldoli de"
             }
         },
         "pubDate": {
@@ -35,7 +34,9 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "32"
     },
     "texte": [
@@ -1181,5 +1182,39 @@
             "en eſe hidam vbi voluncarij pacati ſunt: neque eo loco vbi ſervitutem eſſe",
             "velint fidemſperandam eſſe. Liu. lib. v11."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32"
     ]
 }

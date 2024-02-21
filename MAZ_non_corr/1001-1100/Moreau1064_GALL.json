@@ -16,18 +16,13 @@
             "@when": "2021-11-10",
             "@who": "AB"
         },
-        "titre": "Deuil (le) de Paris sur l’éloignement du\n                    roi.",
+        "titre": "Deuil (le) de Paris sur l’éloignement du roi.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -39,10 +34,7 @@
             "#text": "Paris"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "8"
     },
@@ -243,5 +235,14 @@
             "Et qu’il perit du coup qui fait perir Paris.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "2",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
     ]
 }

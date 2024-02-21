@@ -13,18 +13,13 @@
             "@when": "2021-11-15",
             "@who": "AB"
         },
-        "titre": "Espagne (l’) affligée et en trouble de voir la\n                    France paisible, et exempte du naufrage où elle pensoit que nos derniers\n                    troubles devoient la faire abymer.",
+        "titre": "Espagne (l’) affligée et en trouble de voir la France\n          paisible, et exempte du naufrage où elle pensoit que nos derniers troubles devoient la\n          faire abymer.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -36,11 +31,7 @@
             "#text": "Paris"
         },
         "publisher": {
-            "@ref": "isni:0000000",
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "16"
     },
@@ -513,5 +504,22 @@
             "de tant de benedictions que le Ciel luy enuoye.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
     ]
 }

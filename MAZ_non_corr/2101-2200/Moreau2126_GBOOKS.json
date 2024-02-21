@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-08-07",
         "change": {
             "@status": "not_corrected"
@@ -19,7 +18,10 @@
             "@when": "2021-06-08",
             "#text": "8 juin 2021"
         },
-        "author": "Parlement de Metz",
+        "author": {
+            "@ref": "isni:0000000121801163",
+            "orgName": "Parlement de Metz"
+        },
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,6 +34,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
             "persName": {
                 "forename": "Jacob",
                 "surname": "Chevalier"
@@ -240,5 +243,14 @@
             "les Gens tenans le Parlement",
             "de Metz, ſeant aà Toul."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

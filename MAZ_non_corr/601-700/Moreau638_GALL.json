@@ -3,22 +3,27 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "burlesque",
+            "Triolets"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1651-02-06",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-16",
+            "@who": "AB"
         },
-        "titre": "Caresme (le) de Mazarin, ou la.Suite des triolets. Sur la\n          copie imprimée à Anvers.",
+        "titre": "Caresme (le) de Mazarin, ou la Suite des triolets. Sur la\n          copie imprimée à Anvers.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1651",
@@ -29,36 +34,28 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
         [
             "LE",
-            "T ¬",
-            "A",
-            "AAHH I1H",
-            "DIV",
+            "CARESME",
             "DE",
-            "D TT",
-            "AZAR",
             "MAZARIN",
-            "R r",
             "OV LA SVITE DES",
-            "D",
-            "Il ILE I",
+            "TRIOLETS",
             "Sur la copie imprimée à Anvers.",
             "M. DC. LI"
         ],
         [
-            "d dp d sd ts ded d pit s sdl ad td;",
-            "ge de e e: a e ee ge &amp;e",
-            "qpe le lp eeeerpps",
+            "3",
             "LE CARESME DE",
             "Mazarin, ou la ſuite de ſes",
             "Triolets.",
-            "3e8e",
-            "VOY que nous chante le Bigot,",
+            "QVOY que nous chante le Bigot,",
             "s oue ille one e nr e eien",
             "Ie luy donneray de l’ergot:",
             "Quoy que nous chante le Bigot",
@@ -175,8 +172,6 @@
             "Tygre, teſtu, tyran &amp; traiſtre."
         ],
         [
-            "8",
-            "oSe8",
             "8.",
             "Pour porter deſſous le nombnil",
             "Vn monſtre, amy de la nature,",
@@ -194,11 +189,16 @@
             "Peuſſions nous crier au renart",
             "Le voyant ſans membre &amp; ſans haze,",
             "Au diable ſoit le braquemart,",
-            "Maudite en puiſſe eſtre la-eaze¬",
-            "eſt",
-            ",",
-            "ee",
-            "2"
+            "Maudite en puiſſe eſtre la-eaze¬"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

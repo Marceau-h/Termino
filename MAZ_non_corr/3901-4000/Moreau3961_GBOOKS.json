@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "réponse"
         ],
-        "subject": null,
+        "subject": "Parlement de Paris",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1650-09-02",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-20",
+            "@who": "AB"
         },
         "titre": "Véritable (la) réponse faite par les dames du Parlement\n          de Paris à la lettre qui leur a été écrite par les dames du Parlement de Bordeaux, pour\n          les remercier de la paix, suivant l'extrait tiré de leurs registres, contenant un agréable\n          récit de ce qui s'est passé à Bordeaux durant que la cour y a demeuré.",
         "dates": {
@@ -19,58 +23,57 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": {
-            "@role": "attributed_author",
-            "@source": "BL",
-            "#text": "Parlement de Paris"
-        },
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1650",
-            "#text": "1650"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1650-10",
+                "#text": "octobre 1650"
+            }
+        ],
         "pubPlace": {
             "@source": "Moreau",
             "#text": "Sans Lieu"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "14"
     },
     "texte": [
         [
-            "s1",
             "LA VERITABLE",
             "RESPONSE",
             "PAR LES DAMES",
             "DV PARLEMENT DE PAR1S.",
             "A la Letre qui leur a eſté eſcite",
             "PAR LES DAMES",
-            "e",
-            "en pue ilun",
-            "it de ce qui s’ef paſſé à Bordeaux",
+            "DV PARLEMENT DE BORDEAUX,",
+            "Pour les remercier de la paix, ſuiuant l'extraict tiré de",
+            "leurs Regiſtres.",
+            "Contenant vn agrable recit de ce qui s’ef paſſé à Bordeaux",
+            "durant le temps que la Cour y a demeuré.",
             "M. DC. L."
         ],
         [
-            "S’.",
-            ",",
-            ".",
-            "l,aaſ ſ’s a",
             "ADVERTISSEMENT AV LECTEVR.",
-            "T",
-            "Es Dames du Parlemsent de Bordeaux ayant eſcrit",
-            "ux Dames du Parlement de Paris vnme Lettre de",
+            "LEs Dames du Parlemsent de Bordeaux ayant eſcrit",
+            "Aux Dames du Parlement de Paris vnme Lettre de",
             "remerciemeat de la paix qu’elles leur auoient procurée,",
             "comme la ciuhité́ eſt inſeparable de ce beaa ſexe,’les",
             "Dames de Paris leur ont fait la Reſpomſe que voas allez",
             "voir, qui eſt fidellement extraicte de leurs Regires:",
             "Ceft aduis vous efl donné afin que vous ne croyez pas",
             "qu’vne piece qui a couru puis quelques iours ſois la veri",
-            "stable Reſponſe de ces Dames.",
-            "¬¬"
+            "stable Reſponſe de ces Dames."
         ],
         [
-            "40 4 36 8",
-            "AAu&amp;ahd da dn ad ae",
+            "3",
             "La veritable Reſponſe faite par les Dames du",
             "Parlement de Paris à la Lettre qui leur",
             "eſté eſcrite par les Dames duParlement de",
@@ -442,5 +445,21 @@
             "Meſdames da Parlement de Bordeaux,",
             "A Bordeaux."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
     ]
 }

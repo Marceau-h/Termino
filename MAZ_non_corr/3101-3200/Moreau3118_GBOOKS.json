@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-05-11",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
         "titre": "Relation de ce qui s'est passé à Péronne sur le refus que\n          les habitants ont fait de recevoir et d'ouvrir leurs portes au maréchal d'Hocquincourt,\n          leur gouverneur.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000001831368",
+            "@xml:id": "IL_BrunetJean.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Brunet"
@@ -41,7 +46,6 @@
     },
     "texte": [
         [
-            "oogps",
             "RELATION",
             "E CE QVI SEST PASSE’",
             "EN LA VILLE",
@@ -51,29 +55,12 @@
             "portes au Mareſchal",
             "d’Hoquincourt leur",
             "Gouuerneur.",
-            "aa?",
-            "S4",
-            "A PARI S",
-            "a e nvlr ee!",
-            "uu u vieili oaue le¬"
+            "A PARIS,",
+            "Chez IEAN BRVNET, ruë Saincte Anne.",
+            "M. DC. LII."
         ],
         [
-            ",",
-            "1",
-            ",",
-            "1",
-            "o a",
-            ".",
-            "d",
-            "aa",
-            "a.",
-            "E",
             "3",
-            "oioqe"
-        ],
-        [
-            "u&amp;&amp; e,&amp;t,,&amp;, l,",
-            "ede t",
             "Relation veritable de ce qui",
             "s’eſt paſſé en la ville de Pe",
             "ronne, &amp; du refus que ſes",
@@ -219,9 +206,15 @@
             "uleut hazarder, mais qui ne pourra eſtre que",
             "peiltuſe pour eux, en cas qu’ils ſoient con",
             "ias de l’acceptet.",
-            "FIN.",
-            "lE o e",
-            "?"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

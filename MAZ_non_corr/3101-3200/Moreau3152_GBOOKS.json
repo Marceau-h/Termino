@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1651-10-08",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "AB"
         },
         "titre": "Relation des avantages remportés par l'armée de\n          monseigneur le Prince sur les troupes de monsieur le comte d'Harcourt.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1651",
@@ -32,38 +36,30 @@
         },
         "publisher": {
             "@ref": "isni:0000000121290076",
+            "@xml:id": "IL_LaCourtGuillaumede.xml",
             "persName": {
-                "forename": "Guillaume",
-                "surname": "La Court (De)"
+                "forename": "Guillaume de",
+                "surname": "La Court"
             }
         },
         "nbPages": "8"
     },
     "texte": [
         [
-            "RELA TION",
+            "RELATION",
             "DES AVANTAGES",
             "DE MONSEICNEVR",
             "LE PRINCE",
             "Sur les Trouppes de Monſieur",
             "le Comte d’Harcourt.",
-            "eu ſoudu or fore n."
+            "A BORDEAVX,",
+            "Par GVILLAVME DE LA COVRT, Imprimeur",
+            "ordinaire du Roy, &amp; de ſon Alteſſe. 1651."
         ],
         [
-            "1",
-            "1",
-            "2",
-            "4",
-            "1",
-            "1"
-        ],
-        [
-            "8",
-            "AAe a,A .",
-            "peeepMd: &amp;t&amp;piu",
-            "RELATON DES AVAN.",
-            "c y 1",
-            "ages remportez par l’armée de Mon",
+            "3",
+            "RELATON DES AVAN¬",
+            "tages remportez par l’armée de Mon",
             "ſegneur le Prince. ſur les Trouppes de",
             "onſieur le Comte d Harcourt.",
             "E n’eſt pas auiourd’huy pour publier les",
@@ -234,5 +230,14 @@
             "qu’elle peut antendre.",
             "L¬"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

@@ -45,7 +45,9 @@
             "@source": "Mazarine",
             "#text": "Sans Lieu"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "7"
     },
     "texte": [
@@ -310,5 +312,13 @@
             "puiſſe rendre à Monſieur ſon pere les deuoirs",
             "de pieté."
         ]
+    ],
+    "pages_number": [
+        "11",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
     ]
 }

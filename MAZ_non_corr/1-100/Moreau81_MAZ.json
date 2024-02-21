@@ -44,6 +44,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000056700197",
+            "@xml:id": "IL_ColombelMathieu.xml",
             "persName": {
                 "forename": "Mathieu",
                 "surname": "Colombel"
@@ -604,5 +605,18 @@
             "MADAME,",
             "Les tres. hambles, tresoobeiſans, &amp; tres-fdeles ſeruiteurs &amp; Sujets"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
     ]
 }

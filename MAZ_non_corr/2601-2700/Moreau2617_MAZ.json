@@ -44,6 +44,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000008903969",
+            "@xml:id": "IL_RocoletPierre.xml",
             "persName": {
                 "forename": "Pierre",
                 "surname": "Rocolet"
@@ -109,5 +110,10 @@
             "eur oy y eſtans adjſoſiée comome audis Origia",
             "r eo ene ſdene ne nns eoes"
         ]
+    ],
+    "pages_number": [
+        "11",
+        "13",
+        "14"
     ]
 }

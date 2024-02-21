@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
             "@status": "not_corrected"
@@ -20,12 +19,15 @@
             "#text": "8 juin 2021"
         },
         "author": {
-            "@ref": "isni:0000000069514254",
-            "name": "Brousse"
+            "@ref": "isni:0000000108887898",
+            "forename": "Jacques",
+            "surname": "Brousse"
         },
         "pubDate": "Sans Date",
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "14"
     },
     "texte": [
@@ -546,5 +548,21 @@
             "de de n noe pue ue e er el e n e rene",
             "tions."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
     ]
 }

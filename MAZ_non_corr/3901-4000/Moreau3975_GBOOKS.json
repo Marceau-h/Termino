@@ -1,17 +1,22 @@
 {
-    "imprimatur": null,
+    "imprimatur": "Auec Permißion de ſon Al. Royale.",
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit",
+            "liste"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-05-25",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-20",
+            "@who": "AB"
         },
         "titre": "Véritables (les) particularités de ce qui s'est passé à\n          l'assaut général donné à la ville d'Étampes par l'armée mazarine, où il est demeuré plus\n          de six cents des ennemis sur la place, avec la liste des noms des officiers qui ont été\n          tués et blessés au combat, apportées à Son Altesse Royale par le dernier courrier.",
         "dates": {
@@ -19,7 +24,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,6 +37,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000364435102",
+            "@xml:id": "IL_ChouqueuxAndre.xml",
             "persName": {
                 "forename": "André",
                 "surname": "Chouqueux"
@@ -41,71 +47,25 @@
     },
     "texte": [
         [
-            "o.",
             "LES VERITABLES",
-            "DA DeVT ¬r 1",
-            "AHRIICVLARITE Z",
-            "D V rr",
+            "PARTICVLARITEZ",
             "DE CE QVI SEST PASSE",
             "à̀ l’aſſault General donné à la",
             "ville d’Eſtampes par l’Armée",
             "Mazarine; où il eſt demeuré",
             "plus de ſix cens des ennemis ſur",
             "la place.",
-            "dut la Liſte dee onus des Opeiers qui e",
-            "eſté tuez &amp; bleſſez a Combar.",
+            "Auec la Liſte des noms des Officiers qui ont",
+            "eſté tuez &amp; bleſſez au Combat.",
             "Apportées à̀ ſon Alteſſe Royale par le",
-            "dernier Courier..",
-            "eſe.",
-            "d",
-            "e’",
-            "A PAR1S,",
-            "e An’ Cnu ova vx, rue s. Andné",
+            "dernier Courrier.",
+            "A PARIS,",
+            "Chez ANDRE CHOVQVEVX, ruë S. André.",
             "M. DC. LII.",
-            "ue Peraiſian de SemA. Rayale."
+            "Auec Permißion de ſon Al. Royale."
         ],
         [
-            "is",
-            "s",
-            "s",
-            "i8",
-            "a",
-            "il",
-            "s",
-            "1",
-            "a",
-            "a!",
-            "i",
-            "aai",
-            "e",
-            "s",
-            "ifâ",
-            "a",
-            "F",
-            "a",
-            "dsfie",
-            "s",
-            "an",
-            "e",
-            "i",
-            "s",
-            "a",
-            "s",
-            "ea",
-            "s",
-            "az",
-            "s",
-            "a",
-            "e",
-            "Es",
-            "as",
-            "a",
-            "t",
-            "ei"
-        ],
-        [
-            "A&amp; &amp; eA&amp;, &amp; l,.",
-            ":’tgpe ’ : eot",
+            "3",
             "LES VERITABLES PAR",
             "7 s rcr",
             "ticularitez de ce qui s’eſt paſſé à l’Aſſaut.",
@@ -245,7 +205,16 @@
             "qui donne bien à̀ penſer au Cardinal Maza",
             "1in &amp; à ſes adherans, voyant tant d’orages",
             "preparez &amp; prés à tomber ſur luy.",
-            "FIN. ſ"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

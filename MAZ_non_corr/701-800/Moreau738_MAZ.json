@@ -18,7 +18,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -39,6 +39,7 @@
         },
         "publisher": {
             "@ref": "isni:000000010899305X",
+            "@xml:id": "IL_SevestrePierre.xml",
             "persName": {
                 "forename": "Pierre",
                 "surname": "Sevestre"
@@ -619,5 +620,23 @@
             "lons, faifſon nos adieu d la Gou parouopromp¬",
             "tamot."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
     ]
 }

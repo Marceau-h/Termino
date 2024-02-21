@@ -41,7 +41,11 @@
             "@ref": "geonames:2988507",
             "#text": "Paris"
         },
-        "publisher": "Imprimeurs et libraires ordinaires du roi",
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
         "nbPages": "4"
     },
     "texte": [
@@ -153,5 +157,10 @@
             "2.! i h ni maM",
             "2"
         ]
+    ],
+    "pages_number": [
+        "11",
+        "13",
+        "14"
     ]
 }

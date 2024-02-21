@@ -1,17 +1,21 @@
 {
-    "imprimatur": null,
+    "imprimatur": "Auec Permißion.",
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-07-13",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
         "titre": "Relation véritable de l'entreprise faite par le prince de\n          Lingne (sic) et le duc de Vittemberg sur la ville de Noyon, avec la défaite des troupes\n          espagnoles devant ladite ville, et le récit de tout ce qui s'y est fait et passé.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:000000007740264X",
+            "@xml:id": "IL_LeRatJean.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Le Rat"
@@ -41,70 +46,25 @@
     },
     "texte": [
         [
-            ",,.2. A, aa,,,, a r-a,,",
-            "REL ATION",
+            "RELATION",
             "VERITABLE,",
-            "DE L’ENTREPRISE FAICTE PARLE",
-            "PRINCDE LINGNE",
+            "DE L’ENTREPRISE FAICTE PAR LE",
+            "PRINCE DE LINGNE",
+            "ET LE DVC",
             "DE VITTEMBERG",
             "SVR LA VILLE DE",
-            "N OY ON.",
-            "duec la deffaite des Trouppes Eſpagnolles",
-            "deuant ladite Ville, &amp; le recit de rout",
-            "ee quiſi eft ſais &amp; paſſ́.",
-            "83",
+            "NOYON.",
+            "Auec la deffaite des Trouppes Eſpagnolles",
+            "deuant ladite Ville, &amp; le recit de tout",
+            "ce qui ſi eft ſait &amp; paſſ́é.",
             "A PARIS,",
-            "le IEAN LE RA, ue d’Eſoſe, au",
-            "pe oenmunnr",
-            "Auec Permißon.",
-            "-.--¬¬r"
+            "Chez IEAN LE RAT, ue d’Eſcoſſe, aux",
+            "trois Cramailleres.",
+            "M. DC. LII.",
+            "Auec Permißion."
         ],
         [
-            "4",
-            "5",
-            "1",
-            "1",
-            ".",
-            "1",
-            "1",
             "3",
-            "1.",
-            "v e",
-            "t",
-            "1 1",
-            "1",
-            "1",
-            "r",
-            "e",
-            "r",
-            "n",
-            "1 J",
-            ".11.",
-            "A T3",
-            "1",
-            "J1",
-            ".. L .1",
-            "l",
-            "¬!t",
-            "’S",
-            "t:",
-            "2.",
-            "1..",
-            "1",
-            ".",
-            "2",
-            "0.",
-            "Digitized by",
-            "r",
-            ".",
-            ":L. A¬"
-        ],
-        [
-            "i.",
-            ".",
-            "3",
-            "A bo,u",
-            "e",
             "R ELAATION VERTABLE,",
             "d l’etrepriſe faite par le Prince de Li",
             "’gu &amp; le Dae de irtemberg ſur la il",
@@ -328,5 +288,14 @@
             "..",
             "il oh’ll 2lh ei"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

@@ -1,17 +1,21 @@
 {
-    "imprimatur": null,
+    "imprimatur": "Auec Priuilege de ſa Majefté́.",
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
-        "subject": null,
+        "subject": "Parlement de Paris",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-02-19",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "AB"
         },
         "titre": "Relation fidèle de ce qui s'est passé de plus remarquable\n          au Parlement depuis 10 février 1649 jusquesà la fin du mois, envoyée aux\n          provinces.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -30,52 +34,31 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Les Imprimeurs et libraires ordinaires du Roy",
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
         "nbPages": "12"
     },
     "texte": [
         [
-            "88o26",
-            "DT ArTT",
-            "H 4 l",
-            "H",
-            "IDLA IL ILIN",
+            "RELATION",
             "FIDELE",
-            "DECE QVI SEST PASSE’DE PLVS",
+            "DE CE QVI SEST PASSE’ DE PLVS",
             "remarquable au Parlement,",
-            "Depuis le ro. Feburier 169. iuſques à la fin",
+            "Depuis le 10. Feburier 1649. iuſques à la fin",
             "dus mois.",
             "Enuoyeée aux Prouinces.",
-            "ie",
-            "eeeeſ",
-            "ſſS8",
-            "les",
-            "ea?",
-            "euds",
-            "e",
-            "e&amp;3",
-            "E",
-            "A PARIsS,",
+            "A PARIS,",
             "Par les Imprimeurs &amp; Libraires ordinaires",
             "du Roy.",
             "M. DC. X LIX.",
             "Auec Priuilege de ſa Majefté́."
         ],
         [
-            "l",
-            ".",
-            "al",
-            "r",
-            "1",
-            ".",
-            "n. air",
-            "..’.l¬"
-        ],
-        [
-            ", 2. .S .",
-            "S e Eeoe- f Sae ESa",
-            "SfſẽSeCSCSisCbes",
-            "E Pariement de Paris deirant entretenir vne par faite vnion",
+            "3",
+            "LE Parlement de Paris deirant entretenir vne par faite vnion",
             "&amp; correſpondance auec Me ſſieurs du Parlement de Nor.",
             "uan die, &amp; celuy de Prouence, eſtablic &amp; confirmée par les",
             "Aels de ladte Cour des s. lanuier.5 &amp; 19 Febu iet deiiers,",
@@ -456,18 +439,18 @@
             "Signé,",
             "oV Ti ’rT.",
             "Collatioméa’ riginal par moy Caoſiller",
-            "Secretaire ds Roy e&amp; de ſes Fnaes."
-        ],
-        [
-            "1 9",
-            "1",
-            "1",
-            "1",
-            "1"
-        ],
-        [
-            "9",
-            "¬"
+            "Secretaire ds Roy e&amp; de ſes Finances."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
     ]
 }

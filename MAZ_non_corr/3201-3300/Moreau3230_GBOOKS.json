@@ -3,15 +3,22 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
-        "subject": null,
+        "subject": [
+            "violences",
+            "Champagne"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1651-04-18",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
         "titre": "Relation véritable de ce qui s'est passé ès environs de\n          la ville de Rheims, depuis le 20 mai 1651, et l'état déplorable du pays, tirée de diverses\n          lettres écrites de ladite ville de Rheims.",
         "dates": {
@@ -19,7 +26,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1651",
@@ -29,18 +36,18 @@
             "@source": "Moreau",
             "#text": "Sans Lieu"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "16"
     },
     "texte": [
         [
-            "-aai",
-            "VE",
-            "ITABLE",
-            "E CE vV1",
-            "7¬ T",
-            "le eiſe eeonuroui de l vne dl el",
-            "leoui le s lin ie, l r eia dieoeno",
+            "1",
+            "RELATION",
+            "VERITABLE DE CE QVI",
+            "s'eſt paſſé és enuirons de la Ville de Rheims,",
+            "depuis le 20. May 1651 Et l'eſtat deplorable",
             "du Pays.",
             "Tirée de diuerſes Lettres eſerires de ladite vile de Ruein..",
             "9",
@@ -748,5 +755,23 @@
             "¬2",
             "¬¬¬ 2¬-.¬¬"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

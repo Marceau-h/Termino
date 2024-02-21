@@ -3,7 +3,10 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "non renseigné",
+        "genre": [
+            "texte officiel",
+            "déclaration"
+        ],
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
@@ -12,7 +15,7 @@
             "@when": "2021-11-16",
             "@who": "AB"
         },
-        "titre": "Déclaration du roi, accordée à son parlement et\n                    ville de Bordeaux, du 1er octobre 1650, portant amnistie générale de ce qui a\n                    été fait depuis la dernière déclaration de Sa Majesté, du 26 décembre 1649,\n                    enregistrée en ladite cour le 7 janvier 1650, ensemble les Propositions de\n                    monseigneur le duc d’Orléans, registres du parlement de Paris, lettres de Sadite\n                    Majesté, portant approbation d'iceux et révocation de M. le duc d'Épernon du\n                    gouvernement de Guyenne, avec l'Arrêt d'enregistrement et de\n                    publication.",
+        "titre": "Déclaration du roi, accordée à son parlement et ville de\n          Bordeaux, du 1er octobre 1650, portant amnistie générale de ce qui a été fait depuis la\n          dernière déclaration de Sa Majesté, du 26 décembre 1649, enregistrée en ladite cour le 7\n          janvier 1650, ensemble les Propositions de monseigneur le duc d’Orléans, registres du\n          parlement de Paris, lettres de Sadite Majesté, portant approbation d'iceux et révocation\n          de M. le duc d'Épernon du gouvernement de Guyenne, avec l'Arrêt d'enregistrement et de\n          publication.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
@@ -25,11 +28,18 @@
                 "surname": "De Bourbon"
             }
         },
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1650-10-01",
-            "#text": "1er octobre 1650"
-        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1650",
+                "#text": "1650"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1650-10-01",
+                "#text": "1er octobre 1650"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:6455058",
             "@source": "Moreau",
@@ -37,6 +47,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121390552",
+            "@xml:id": "IL_MongironMillangesJacques.xml",
             "persName": {
                 "forename": "J.",
                 "surname": "Mongiron Milanges"
@@ -55,8 +66,7 @@
             "dE ce qui a eſteé fait depuis la derniere Declaration",
             "de Sa Maieſté, du 26 Decembre 1649. Enre¬",
             "giſtrée en ladite Cour le 7. lanuier 1650.",
-            "Enſemble les propoſitions de Monſeigneur le duc d'Orleans, Regiſtres du",
-            "Parlement de",
+            "Enſemble les propoſitions de Monſeigneur le duc d'Orleans, Regiſtres du Parlement de",
             "Paris, Lettres de ſadite Maieſte, portant approbation d’iceux; Et reuoquation",
             "de Monſieur le Duc d’Eſpernon du Gouuernement de Guyenne.",
             "Auec l’Arreſt d’enregiſtrement &amp; publication.",
@@ -377,27 +387,19 @@
             "le, &amp; à Monſieur le Duc d’Angen en l’vne de leurs maiſons, à la charge",
             "enoncer par eux à toutes pratiques, ligues &amp; aſſociations, tant dedans que",
             "ors le Royaume: Et à condition auſſi que ceux de la Vlle de Iourde aux",
-            "iametont, &amp; qu’ils ſe remetlront dans leur deuoir &amp; obeyſſance qu’ils",
-            "doi¬",
+            "iametont, &amp; qu’ils ſe remetlront dans leur deuoir &amp; obeyſſance qu’ils doi¬",
             "at à leurs Maieſteés. Er que pour facliter l’execution de la pre ſente propofi¬",
-            "’n, &amp; acceleret autant qu’il ſe peut le repos de ladite Prouince, il",
-            "deſireroit",
+            "’n, &amp; acceleret autant qu’il ſe peut le repos de ladite Prouince, il deſireroit",
             ", t les Deputez dudit Parle ment qui ſont icy, en donnaſſent promprement ad¬",
             "sa eur C mpagnie, afin qu’elle &amp; ladite Ville envoyent ieurs De pute au",
-            "oy pourt u faire ladite ſupplication, &amp; qu’ils puſſent auoir leurs re",
-            "ſponees en",
-            "’m diz iouts, à comptes de ce luy que le Courrier partira de cette Vile, à",
-            "faute",
-            "ſe quoy, &amp; d’acepter par les habitans de ladire Ville &amp; autres",
-            "inrereſlez, les",
+            "oy pourt u faire ladite ſupplication, &amp; qu’ils puſſent auoir leurs re ſponees en",
+            "’m diz iouts, à comptes de ce luy que le Courrier partira de cette Vile, à faute",
+            "ſe quoy, &amp; d’acepter par les habitans de ladire Ville &amp; autres inrereſlez, les",
             "eſentes- conditions qu’il plaira au Roy de leur accorder, en les luy demandane",
             "iet le epet la ſoufmiſfion qu’ls uy loiuen Et eneores donſieur a dt",
-            "ſ ue ledit temps de dix iours paſſe eypiré, il retireroit la perolle qu’il",
-            "donnoit",
-            "eſer à la Companie; &amp; qu’il deſiroit qu’il en fuſt fait Regiſtre, &amp; de",
-            "tou¬",
-            "’ e les conditions pas luy propoſées, &amp; promeſſes pour pae fier ladite",
-            "Prouince",
+            "ſ ue ledit temps de dix iours paſſe eypiré, il retireroit la perolle qu’il donnoit",
+            "eſer à la Companie; &amp; qu’il deſiroit qu’il en fuſt fait Regiſtre, &amp; de tou¬",
+            "’ e les conditions pas luy propoſées, &amp; promeſſes pour pae fier ladite Prouince",
             "’de Cenn.",
             "De Mardy 9. Aoaaf?. r 60.",
             "lE iour la Cou- toutes lesChal-res aſſemblé s, ayane deliberé deux matinées",
@@ -414,8 +416,7 @@
             "ſees &amp; auteas lurſctions Royale.",
             "Et oute a eſté arreſté que le Regiſtre ſera fair de ce que Monſieur le!",
             "d’Orleans a donéſa parolle, qu’en onſeqence du ſuſit arreſté, il enu",
-            "ra2 on Cour &amp; -s’emnpleyera à fare çeſſer tous actes d’hoſtilité, &amp;",
-            "raſe men",
+            "ra2 on Cour &amp; -s’emnpleyera à fare çeſſer tous actes d’hoſtilité, &amp; raſe men",
             "maiſons &amp; places, iulques à ce que leſdites propoſitions ayent eſté accep",
             "ou reſuſées pr ledit Parlement de Bourdeaux. Et ſera le tout dit auſdits D",
             "tez eſtans en certe Vile, auſquels ſera donné autant du Regiſtre du iiein",
@@ -452,5 +453,19 @@
             "bre, pour ce exrraotd aircmet eaue le dexieſae otobre nmil ſise cens einmqrar.",
             "Siga DE FONTAC."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
     ]
 }

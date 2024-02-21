@@ -3,7 +3,7 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "non renseigné",
+        "genre": "pamphlet",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
@@ -12,20 +12,32 @@
             "@when": "2021-11-12",
             "@who": "AB"
         },
-        "titre": "Dirœ in Angliam ob patratum scelus, IX februarii\n                    1649.",
+        "titre": "Dirœ in Angliam ob patratum scelus, IX februarii\n          1649.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
         "author": {
-            "persName": "S. P., Ph., SI. S. C. R."
+            "persName": {
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "S. P., Ph., SI. S. C. R."
+                }
+            }
         },
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1649-02-09",
-            "#text": "9 février 1649"
-        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-02-09",
+                "#text": "9 février 1649"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -34,13 +46,15 @@
         "publisher": [
             {
                 "@ref": "isni:0000000001965841",
+                "@xml:id": "IL_PepingueVeuvedeTheodore.xml",
                 "persName": {
                     "forename": "(veuve de Théodore)",
-                    "surname": "Pepingué"
+                    "surname": "Pépingué"
                 }
             },
             {
                 "@ref": "isni:0000000108959687",
+                "@xml:id": "IL_MaucroyEtienne.xml",
                 "persName": {
                     "forename": "Étienne",
                     "surname": "Maucroy"
@@ -122,5 +136,10 @@
             "PH. S. P.",
             "SLS.C. ."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4"
     ]
 }

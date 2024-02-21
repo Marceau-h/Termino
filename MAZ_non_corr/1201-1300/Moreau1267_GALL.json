@@ -18,15 +18,9 @@
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
-            "@when": "Sans Date",
             "#text": "Sans Date"
         },
         "pubPlace": {
@@ -34,11 +28,7 @@
             "#text": "Sans Lieu"
         },
         "publisher": {
-            "@ref": "isni:0000000",
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "4"
     },
@@ -131,5 +121,11 @@
             "1",
             "I. De S.N."
         ]
+    ],
+    "pages_number": [
+        "2",
+        "3",
+        "4",
+        "5"
     ]
 }

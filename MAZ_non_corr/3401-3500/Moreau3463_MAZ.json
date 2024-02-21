@@ -22,7 +22,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -43,6 +43,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000364655957",
+            "@xml:id": "IL_DuCrocqJean.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Du Crocq"
@@ -283,5 +284,14 @@
             "Et nous vous rendrons nos ſeruices.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1651-10-08",
         "change": {
             "@status": "not_corrected"
@@ -21,11 +20,7 @@
         },
         "author": {
             "@ref": "isni:0000000383255772",
-            "persName": {
-                "forename": "Louis",
-                "surname": "Bourbon (De)",
-                "name": "Louis XIV"
-            }
+            "persName": "Louis XIV"
         },
         "pubDate": {
             "@source": "Moreau",
@@ -33,11 +28,15 @@
             "#text": "1651"
         },
         "pubPlace": {
-            "@ref": "geonames:0000000",
             "@source": "Moreau",
+            "@ref": "geonames:2988507",
             "#text": "Paris"
         },
-        "publisher": "Les imprimeurs & libraires ordinaires du Roy",
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
         "nbPages": "4"
     },
     "texte": [
@@ -148,5 +147,13 @@
             "- mon Oncle, de Dac d’ole,",
             "du"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
     ]
 }

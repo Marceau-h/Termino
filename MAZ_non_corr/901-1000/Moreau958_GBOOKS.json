@@ -12,18 +12,13 @@
             "@when": "2021-11-18",
             "@who": "AB"
         },
-        "titre": "Déclaration sur le sujet et la forme de l’entrée\n                    de Son Altesse Impériale l’archiduc Léopold en France, et de sa retraite après\n                    l'accommodement fait entre la régence et le parlement de Paris avec les princes\n                    et seigneurs associés.",
+        "titre": "Déclaration sur le sujet et la forme de l’entrée de Son\n          Altesse Impériale l’archiduc Léopold en France, et de sa retraite après l'accommodement\n          fait entre la régence et le parlement de Paris avec les princes et seigneurs\n          associés.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": [
             {
                 "@source": "Moreau",
@@ -42,10 +37,7 @@
             "#text": "Cambrai"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "8"
     },
@@ -222,5 +214,14 @@
             "le o. Avril é649.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

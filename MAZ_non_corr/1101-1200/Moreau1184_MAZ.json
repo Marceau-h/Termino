@@ -32,7 +32,7 @@
                 "persName": "Louis XIV"
             },
             {
-                "persName": "France. Parlement de Pontoise"
+                "orgName": "Parlement de Pontoise"
             },
             {
                 "persName": "France"
@@ -57,6 +57,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000005438555",
+            "@xml:id": "IL_CourantJulien.xml",
             "persName": {
                 "forename": "Julien",
                 "surname": "Courant"
@@ -594,5 +595,21 @@
             "&amp; Secretaire du Roy, Maiſon Couronne de",
             "France &amp; de ſes Finances."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23"
     ]
 }

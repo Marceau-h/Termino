@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "chantable",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Chanson",
+            "triolet"
         ],
-        "subject": null,
+        "subject": "Paix de Ruel",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-03-11",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-21",
+            "@who": "AB"
         },
         "titre": "Triolets sur la conférence tenue à Ruel.",
         "dates": {
@@ -19,40 +23,31 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
             "#text": "1649"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "12"
     },
     "texte": [
         [
-            "eD T T",
-            "1",
-            "11",
-            "Il ItIL I.",
-            "SVRLA CONPERENCE",
-            "tenue à Ruel.",
-            "e,",
-            "e eſ",
-            "1",
-            "GSTT",
-            "7¬",
-            "r4"
+            "TRIOLETS",
+            "SVR LA CONPERENCE",
+            "tenuë à Ruel.",
+            "M. DC. XLIX."
         ],
         [
-            "31",
-            "eA,&amp;Aa8",
-            "2",
-            "L A",
-            "TES",
-            "VR, EA CONFERENCE",
-            "tenue à Ruel.",
-            "JOS Deputés ſont de retour",
+            "3",
+            "TRIOLETS",
+            "SVR LA CONPERENCE",
+            "tenuë à Ruel.",
+            "NOS Deputés ſont de retour",
             "JV aAuecque vne triſte nouuelle,",
             "Le peuple murmure à l’entour",
             "os Deputés ſont de retour.",
@@ -311,8 +306,20 @@
             "Grand ſoldat on le pouuoit rendre,",
             "Le Bougeois tranche du eſar,",
             "Du Cyrus &amp; de l’Alexandre.",
-            "FIN.",
-            "7"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
     ]
 }

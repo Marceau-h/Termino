@@ -60,6 +60,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000063027789",
+            "@xml:id": "IL_MorlotClaude.xml",
             "persName": {
                 "forename": "Claude",
                 "surname": "Morlot"
@@ -214,5 +215,13 @@
             "Afin que dignement ils ſuiuent ſes Ayeuls.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

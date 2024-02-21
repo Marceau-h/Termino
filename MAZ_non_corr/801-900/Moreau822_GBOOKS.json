@@ -3,15 +3,20 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "courrier",
+            "périodique"
         ],
-        "subject": null,
+        "subject": "Ormée",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-07-30",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-19",
+            "@who": "AB"
         },
         "titre": "Courrier (le) de la Guyenne, apportant le véritable état\n          des affaires.",
         "dates": {
@@ -19,7 +24,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,6 +37,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
             "persName": {
                 "forename": "Jacob",
                 "surname": "Chevalier"
@@ -42,30 +48,21 @@
     "texte": [
         [
             "LE",
-            "e",
-            "I",
             "COVRRIER",
             "DE",
             "LA GVIENNE.",
             "Apportant le veritable Eſtat des Affaires.",
-            "eldea",
-            "as",
-            "paens",
-            "e l",
-            "u",
-            "ce IAco su , roche",
-            "M. DC. LIl."
+            "A PARIS,",
+            "Chez IACOB CHEVALIER, proche",
+            "S. Iean de Latran.",
+            "M. DC. LII."
         ],
         [
             "3",
-            "tteêâß",
-            "eeeue",
             "LE",
-            "T",
             "COVRRIER",
-            "1",
             "DE",
-            "LA VYENNE,",
+            "LA GVYENNE,",
             "Apprenant",
             "I De quele Naume eſt IAſſembĺe de lonmie, c les",
             "deſſeins de cœux qui la compoſent.",
@@ -234,5 +231,14 @@
             "moyen de ſon Port de Mer. A",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

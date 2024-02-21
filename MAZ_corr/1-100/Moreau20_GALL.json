@@ -51,9 +51,11 @@
             "DC. L."
         ],
         [
-            "<pb",
-            "n=\"4\" />",
-            "3 L'ACCVEIL FAICT A SON EMINENCE PAR LES",
+            "3",
+            "L'ACCVEIL FAICT",
+            "A SON",
+            "EMINENCE",
+            "PAR LES",
             "BORDELOIS.",
             "Donne le branſle à cet Eſtae,",
             "AQui porte deſſus ces eſpaules,",
@@ -228,11 +230,11 @@
     ],
     "pages_number": [
         "2",
-        "3",
         "4",
         "5",
         "6",
         "7",
-        "8"
+        "8",
+        "9"
     ]
 }

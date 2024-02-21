@@ -4,25 +4,27 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-01-26",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Lettre de la petite Nichon du Marais, a monsieur le prince de\n          Condé, a S. Germain.",
+        "titre": "Lettre de la petite Nichon du Marais, a monsieur le\n          prince de Condé, a S. Germain.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-06-08",
             "#text": "8 juin 2021"
         },
         "author": {
+            "@ref": "viaf:202034862",
             "persName": {
-                "forename": "Nichon",
-                "surname": "Marais (Du)"
+                "addName": {
+                    "@type": "pseudonyme",
+                    "#text": "Nichon du Marais"
+                }
             }
         },
         "pubDate": {
@@ -31,7 +33,9 @@
             "#text": "1649"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
@@ -209,5 +213,15 @@
             "qu’unoialouſie cçrereme m’oblige de vous parler de",
             "la ſorte, ſçachau que vous faites traiſnr touſiours"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

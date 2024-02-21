@@ -12,18 +12,13 @@
             "@when": "2021-11-15",
             "@who": "AB"
         },
-        "titre": "Équiproquo (l’) de l'autre monde sur l’arrivée du\n                    Mazarin, et l’arrêt irrévocable rendu contre ce cardinal du même nom. Un\n                    courrier, arrivé depuis peu de l'autre monde, m'en a appris des nouvelles dont\n                    je veux vous faire part, mon cher Damon, si vous l'avez pour agréable; voici à\n                    peu près ce qu'il m'a dit.",
+        "titre": "Équiproquo (l’) de l'autre monde sur l’arrivée du\n          Mazarin, et l’arrêt irrévocable rendu contre ce cardinal du même nom. Un courrier, arrivé\n          depuis peu de l'autre monde, m'en a appris des nouvelles dont je veux vous faire part, mon\n          cher Damon, si vous l'avez pour agréable; voici à peu près ce qu'il m'a dit.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -36,6 +31,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000001831368",
+            "@xml:id": "IL_BrunetJean.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Brunet"
@@ -363,5 +359,18 @@
             "reuoir, qu’il m’apporteroit des nouuelles à ſon pre¬",
             "mier voyages ſiil y en auoit."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
     ]
 }

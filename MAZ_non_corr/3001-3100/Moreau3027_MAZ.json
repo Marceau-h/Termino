@@ -22,7 +22,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -42,6 +42,7 @@
         },
         "publisher": {
             "@ref": "isni:000000007740264X",
+            "@xml:id": "IL_LeRatJean.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Le Rat"
@@ -187,5 +188,13 @@
             "ſoir pour le ſecours, comme l’on leroid.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

@@ -7,7 +7,7 @@
         "table_of_content": false,
         "illustration": false,
         "subject": [
-            "France. Parlement de Paris",
+            "France. Parlement de\n            Paris",
             "Paris (France) -- 1643-1715 (Louis XIV)"
         ],
         "change": {
@@ -21,7 +21,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -40,7 +40,9 @@
             "@ref": "geonames:2989317",
             "#text": "Orléans"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "16"
     },
     "texte": [
@@ -674,5 +676,22 @@
             "ctes Euangiles deuant l’Egliſe de noſtre Dame, au",
             "mois de lanuier 1649. &amp; ont ſigneé."
         ]
+    ],
+    "pages_number": [
+        "7",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
     ]
 }

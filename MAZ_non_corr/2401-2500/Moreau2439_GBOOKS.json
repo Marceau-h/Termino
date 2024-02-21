@@ -4,29 +4,30 @@
     "entête": {
         "form": "prose",
         "genre": "burlesque",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-07-20",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Le medecin politique, qui donne un souverain remede, pour\n          guerir la France malade à l'extremité.",
+        "titre": "Le medecin politique, qui donne un souverain remede,\n          pour guerir la France malade à l'extremité.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-05-25",
             "#text": "25 mai 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
             "#text": "1652"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "59"
     },
     "texte": [
@@ -1869,5 +1870,66 @@
             "Ruiſſeaux de lait, &amp; de nſcac,¬",
             "Et du vin le plus delia’l.l ii ui... ol"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59"
     ]
 }

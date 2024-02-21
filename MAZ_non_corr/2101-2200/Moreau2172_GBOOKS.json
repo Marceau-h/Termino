@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1651-10-01",
         "change": {
             "@status": "not_corrected"
@@ -21,11 +20,7 @@
         },
         "author": {
             "@ref": "isni:0000000383255772",
-            "persName": {
-                "forename": "Louis",
-                "surname": "Bourbon (De)",
-                "name": "Louis XIV"
-            }
+            "persName": "Louis XIV"
         },
         "pubDate": {
             "@source": "Moreau",
@@ -39,6 +34,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
             "persName": {
                 "forename": "Veuve de Jean",
                 "surname": "Guillemot"
@@ -126,5 +122,11 @@
             "les Cs ens oſe Cour de Parlemeut àPa",
             "r5."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4"
     ]
 }

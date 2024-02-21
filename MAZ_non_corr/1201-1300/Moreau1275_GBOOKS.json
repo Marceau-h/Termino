@@ -12,18 +12,13 @@
             "@when": "2021-11-15",
             "@who": "AB"
         },
-        "titre": "Espagne (l’) demandant la paix aux pieds de la\n                    Majesté Royale et du Parlement.",
+        "titre": "Espagne (l’) demandant la paix aux pieds de la Majesté\n          Royale et du Parlement.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -36,6 +31,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000009222823",
+            "@xml:id": "IL_DedinIsaac.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Dedin"
@@ -361,5 +357,15 @@
             "Chez I. DEDIN, ruë Sainct Iean de Beauuais.",
             "M. DC. XLIX."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

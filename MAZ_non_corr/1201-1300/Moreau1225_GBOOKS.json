@@ -2,7 +2,10 @@
     "imprimatur": null,
     "corrector": false,
     "entête": {
-        "form": "vers/prose",
+        "form": [
+            "vers",
+            "prose"
+        ],
         "genre": "non renseigné",
         "handwritten_note": false,
         "table_of_content": false,
@@ -12,18 +15,13 @@
             "@when": "2021-11-12",
             "@who": "AB"
         },
-        "titre": "Entrée (l’) du roi dans son Parlement, pour la\n                    déclaration de sa majorité.",
+        "titre": "Entrée (l’) du roi dans son Parlement, pour la\n          déclaration de sa majorité.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1654",
@@ -36,6 +34,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000109088537",
+            "@xml:id": "IL_JacquardNicolas.xml",
             "persName": {
                 "forename": "Nicolas",
                 "surname": "Jacquard"
@@ -396,5 +395,21 @@
             "ue ce Soanet vous preſente de vers.",
             "DV TEIL."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

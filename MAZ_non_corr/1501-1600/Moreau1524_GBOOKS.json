@@ -3,30 +3,48 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "burlesque",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "burlesque",
+            "Apologie",
+            "Oraison"
         ],
-        "subject": null,
+        "subject": [
+            "Paris (France), Rue Saint-Louis",
+            "Guerre des ménardeaux (25 juin 1652)",
+            "Ménardeau , François, seigneur de Beaumont, 1631-1698"
+        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-06-25",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-12",
+            "@who": "AB"
         },
-        "titre": "La guerre des menardeaux, ou La fameuse bataille de la rüe\n          Neuve Saint Louys, donnée entre quelques brigades des compagnies de la milice de Paris, le\n          25. juin 1652. Avec l'apologie des vainqueurs, & l'oraison funebre des morts. En vers\n          façon de burlesques, par un disciple de monsieur Scarron.",
+        "titre": "La guerre des menardeaux, ou La fameuse bataille de la\n          rüe Neuve Saint Louys, donnée entre quelques brigades des compagnies de la milice de\n          Paris, le 25. juin 1652. Avec l'apologie des vainqueurs, & l'oraison funebre des\n          morts. En vers façon de burlesques, par un disciple de monsieur Scarron.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-05-25",
             "#text": "25 mai 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1652",
-            "#text": "1652"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1652-06",
+                "#text": "fin juin 1652"
+            }
+        ],
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "24"
     },
     "texte": [
@@ -764,5 +782,30 @@
             "Pardonae au bas d EPreſtrer dele le .",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
     ]
 }

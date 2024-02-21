@@ -4,13 +4,14 @@
     "entête": {
         "form": "vers",
         "genre": "burlesque",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-07",
+            "@who": "AB"
         },
         "titre": "ARCHI-MAZARINADE burlesque, représentée sur le quay du\n          Chapeau-rouge à Bourdeaux, la veille du Dimanche des Bacchanales",
         "dates": {
@@ -18,25 +19,21 @@
             "@when": "2021-05-25",
             "#text": "25 mai 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Labadie",
-            "@when": "1649",
-            "#text": "1649"
+            "#text": "Sans Date"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
         [
-            "eddounuaout tuonpeuttaooqhbo8",
-            "eisſeli&amp;oieeoq eseoteleudeesote¬",
-            "Q ueo eeed tedd deſoe loi ee deiie eieeueue",
-            "ADT",
+            "I",
             "ARCHI-MAARINADE",
-            "LI",
-            "r",
             "BVRLESQVE,",
             "REPRESENTE’E SVR LE QVA1I",
             "du Chapeau-rouge à Bourdeaux, la veille",
@@ -295,10 +292,17 @@
             "Suis le train de ta deſtinee:",
             "Et pour te dire ce quec’eſt,",
             "n t’attend à Novs SOMMES SEPT.",
-            "FIN.",
-            ", r0 6 l 2",
-            "..",
-            "9"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

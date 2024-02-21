@@ -4,22 +4,21 @@
     "entête": {
         "form": "vers",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-03-11",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Recit de ce qui s'est passé à la conference de Ruel ; où se\n          void le sujet du retardement de la paix, causé par Mazarin. Avec la plainte par luy faite\n          à ses confidens. En vers burrelesques.",
+        "titre": "Recit de ce qui s'est passé à la conference de Ruel ;\n          où se void le sujet du retardement de la paix, causé par Mazarin. Avec la plainte par luy\n          faite à ses confidens. En vers burrelesques.",
         "dates": {
             "@type": "file_creation",
             "@when": "2026-04-26",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -29,7 +28,9 @@
             "@source": "Moreau",
             "#text": "Sans Lieu"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
@@ -352,5 +353,17 @@
             "Mais à condirion qu’il eſſe d’eſt-e el.",
             "¬A"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
     ]
 }

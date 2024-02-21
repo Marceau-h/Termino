@@ -4,21 +4,20 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "La marche du duc de Loraine avec son armee. Et tout ce qui\n          s'est fait & passé dans les negociations de son Altesse royale & du C. M. pres le\n          duc de Loraine, sur ce sujet.",
+        "titre": "La marche du duc de Loraine avec son armee. Et tout ce\n          qui s'est fait & passé dans les negociations de son Altesse royale & du C. M. pres\n          le duc de Loraine, sur ce sujet.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-05-25",
             "#text": "25 mai 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -31,6 +30,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000001831368",
+            "@xml:id": "IL_BrunetJean.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Brunet"
@@ -237,5 +237,14 @@
             "ſéonohs one i;",
             "d ,"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

@@ -44,7 +44,9 @@
             "@source": "Mazarine",
             "#text": "Sans Lieu"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "4"
     },
     "texte": [
@@ -198,5 +200,11 @@
             "Dontil eſt fort le ſeruiteur. ſ",
             "p e"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11",
+        "12"
     ]
 }

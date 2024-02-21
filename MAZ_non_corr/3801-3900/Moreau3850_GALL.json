@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "chantable",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Chanson",
+            "triolet"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-21",
+            "@who": "AB"
         },
         "titre": "Triolets de joie chantés par Paris, pour chasser la\n          mélancolie. Première partie.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -32,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000110403338",
+            "@xml:id": "IL_LangloisDenis.xml",
             "persName": {
                 "forename": "Denys",
                 "surname": "Langlois"
@@ -41,64 +46,28 @@
     },
     "texte": [
         [
-            "A¬",
-            "L A",
-            "DE",
-            "C",
-            "A",
-            ". A.",
-            "10",
-            "1",
-            ".",
-            "D A",
-            "o9",
-            "4",
-            "IS",
-            "R",
+            "TRIOLETS",
+            "DE IOYE",
+            "CHANTEZ",
+            "PAR PARIS",
             "POVR CHASSER",
-            "T J",
-            "r 5",
-            "1",
-            "LAMEL ANCOLll",
-            "sen",
-            "ſe Aremiere Partie. l",
-            "as",
+            "LA MELANCOLIE.",
+            "Premiere Partie.",
             "A PARIS,",
-            "cChez DXS LA GLOIS, au mont S. Hilaire,",
-            "l’Enſeigne du Pelican.",
-            "4",
+            "Chez DENYS LANGLOIS, au mont S. Hilaire,",
+            "à l’Enſeigne du Pelican.",
             "M DC. XLIX."
         ],
         [
-            "aſ"
-        ],
-        [
             "3",
-            "c. opep gpgge",
-            "Sß&amp;ſ&amp;’ssßs’S̃ooooo",
-            "..",
-            ".",
-            "I",
-            "CHAN",
-            "7 ¬",
-            "C",
-            "L ¬",
-            "s ;",
-            ". Z",
-            "D Tc",
-            "PAR PARIS.",
-            "r",
-            "D",
-            "R I",
-            "D R",
+            "TRIOLETS",
+            "DE IOYE",
+            "CHANTEZ",
+            "PAR PARIS",
             "POVR CHASSER",
-            "LT",
-            "IT",
-            "¬",
-            "LA MELANCHOLIE.",
-            "d",
+            "LA MELANCOLIE.",
             "Premiere Partie.",
-            "Z L paroiſt en fin mon Soleil,",
+            "IL paroiſt en fin mon Soleil,",
             "Ce beau LOvVIS qui me contente;",
             "3 Ah que ſon viſaee et vermei,",
             "Il paroit en fin mon Soleil!",
@@ -303,5 +272,14 @@
             "EV l t!",
             "te"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

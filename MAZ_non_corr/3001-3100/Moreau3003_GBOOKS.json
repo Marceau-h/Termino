@@ -4,22 +4,21 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-03-30",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Recit veritable de ce qui s'est passé a Chaliot a l'entreveue\n          de messieurs les princes de Conde, de Conty, de madame de Longueville, et autres\n          princes.",
+        "titre": "Recit veritable de ce qui s'est passé a Chaliot a\n          l'entreveue de messieurs les princes de Conde, de Conty, de madame de Longueville, et\n          autres princes.",
         "dates": {
             "@type": "file_creation",
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -30,7 +29,9 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
@@ -212,5 +213,14 @@
             "enſemble auec vnmaintien &amp; entretien admi",
             "rable &amp; digne de leur Grandeur."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

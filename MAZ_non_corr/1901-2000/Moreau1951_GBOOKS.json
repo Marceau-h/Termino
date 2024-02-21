@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1650-05-09",
         "change": {
             "@status": "not_corrected"
@@ -23,7 +22,7 @@
             "@ref": "isni:0000000118756621",
             "persName": {
                 "forename": "Claire-Clémence",
-                "surname": "Maillé-Brézé (De)"
+                "surname": "Maillé-Brézé de"
             }
         },
         "pubDate": {
@@ -32,7 +31,9 @@
             "#text": "1650"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "3"
     },
     "texte": [
@@ -121,5 +122,10 @@
             "ſeruante &amp; ſubictte C airE CLEME c",
             "de Maille, de Brezé."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3"
     ]
 }

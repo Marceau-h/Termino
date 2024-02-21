@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
             "@status": "not_corrected"
         },
@@ -22,7 +21,7 @@
             "@ref": "isni:0000000083439713",
             "persName": {
                 "forename": "Henri",
-                "surname": "La Tour d'Auvergne (De)"
+                "surname": "La Tour d'Auvergne de"
             }
         },
         "pubDate": {
@@ -35,7 +34,9 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
@@ -256,5 +257,15 @@
             "Letres-uable, tres-obeyſſamt &amp; tres-idel",
             "Subiat Seruieur n vrnnes.."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

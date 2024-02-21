@@ -34,6 +34,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000366954336",
+            "@xml:id": "IL_MettayerMichel.xml",
             "persName": {
                 "forename": "Michel",
                 "surname": "Mettayer"
@@ -481,5 +482,18 @@
             "Nouembre mil ſix cens quarante-huict. Signé, BOVRLON.",
             "Ectraict des Regiſtres de la Chambre des Comptes."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
     ]
 }

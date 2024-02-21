@@ -12,18 +12,13 @@
             "@when": "2021-11-10",
             "@who": "AB"
         },
-        "titre": "Dernier arrêt de la cour de parlement contre le\n                    cardinal Mazarin, en exécution des précédents arrêts, avec défenses de procéder\n                    sur les saisies de ses biens ailleurs que pardevant les sieurs de Broussel et Le\n                    Meusnier, conseillers en ladite cour.",
+        "titre": "Dernier arrêt de la cour de parlement contre le cardinal\n          Mazarin, en exécution des précédents arrêts, avec défenses de procéder sur les saisies de\n          ses biens ailleurs que pardevant les sieurs de Broussel et Le Meusnier, conseillers en\n          ladite cour.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1651",
@@ -34,7 +29,11 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Imprimeurs et libraires ordinainaires du roi",
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": "Imprimeurs et libraires ordinainaires du roi"
+        },
         "nbPages": "6"
     },
     "texte": [
@@ -155,5 +154,12 @@
             "Signé.",
             "RADIGVES"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6"
     ]
 }

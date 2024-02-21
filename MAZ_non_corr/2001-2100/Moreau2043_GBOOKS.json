@@ -4,16 +4,15 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-01-18",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Lettre de Pierre de Provence à la reine, en forme\n                    d'avis, sur ce qui s'est passé en son pays.",
+        "titre": "Lettre de Pierre de Provence à la reine, en forme d'avis,\n          sur ce qui s'est passé en son pays.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-06-08",
@@ -23,7 +22,7 @@
             "@role": "alleged_author",
             "persName": {
                 "forename": "Pierre",
-                "surname": "Provence (De)"
+                "surname": "Provence de"
             }
         },
         "pubDate": {
@@ -38,6 +37,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000108989536",
+            "@xml:id": "IL_HenaultJean.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Hénault"
@@ -411,5 +411,18 @@
             "ſuſjet,",
             "PIERRE DE PROVENCE."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
     ]
 }

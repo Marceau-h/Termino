@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1651-02-28",
         "change": {
             "@status": "not_corrected"
@@ -19,7 +18,10 @@
             "@when": "2021-06-08",
             "#text": "8 juin 2021"
         },
-        "author": "Diocèses, Eglise catholique",
+        "author": {
+            "@ref": "isni:0000000121814044",
+            "orgName": "Diocèses, Eglise catholique"
+        },
         "pubDate": {
             "@source": "Moreau",
             "#text": "Sans Date"
@@ -29,7 +31,11 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Les imprimeurs & libraires du Roy",
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
         "nbPages": "6"
     },
     "texte": [
@@ -152,5 +158,13 @@
             "ſabſignatos. Actum Pariſuis, anno, men",
             "e die prœdicis."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
     ]
 }

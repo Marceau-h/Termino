@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1651-07-06",
         "change": {
             "@status": "not_corrected"
@@ -23,8 +22,7 @@
             "@ref": "isni:0000000121209573",
             "persName": {
                 "forename": "Louis",
-                "surname": "Bourbon-Condé (De)",
-                "name": "Louis II"
+                "surname": "Bourbon-Condé de"
             }
         },
         "pubDate": {
@@ -32,19 +30,13 @@
             "@when": "1651",
             "#text": "1651"
         },
-        "pubPlace": [
-            {
-                "@ref": "geonames:2800866",
-                "@source": "Moreau",
-                "#text": "Paris"
-            },
-            {
-                "@ref": "geonames:2988507",
-                "@source": "Moreau",
-                "#text": "Paris"
-            }
-        ],
+        "pubPlace": {
+            "@ref": "geonames:2988507",
+            "@source": "Moreau",
+            "#text": "Paris"
+        },
         "publisher": {
+            "@xml:id": "IL_XXX.xml",
             "@ref": "isni:000000000028354X",
             "persName": {
                 "forename": "Hubert Antoine",
@@ -193,5 +185,10 @@
             "ii!",
             "1"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3"
     ]
 }

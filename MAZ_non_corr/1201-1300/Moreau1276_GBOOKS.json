@@ -12,18 +12,13 @@
             "@when": "2021-11-15",
             "@who": "AB"
         },
-        "titre": "Espérance (l') de la paix et de l'abondance des\n                    vivres à Paris.",
+        "titre": "Espérance (l') de la paix et de l'abondance des vivres à\n          Paris.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -36,6 +31,7 @@
         },
         "publisher": {
             "@ref": "isni:000000038598758X",
+            "@xml:id": "IL_SevestreLouis.xml",
             "persName": {
                 "forename": "Louis",
                 "surname": "Sevestre"
@@ -210,5 +206,14 @@
             "qu’ont poſſedé ſes glorieux Predeceſſeurs.",
             "FIN"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

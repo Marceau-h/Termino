@@ -2,16 +2,23 @@
     "imprimatur": null,
     "corrector": false,
     "entête": {
-        "form": "vers/prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "form": [
+            "vers",
+            "prose"
+        ],
+        "genre": [
+            "narration",
+            "Journal"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-07-20",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-13",
+            "@who": "AB"
         },
         "titre": "Journal et éclaircissement des affaire présentes.",
         "dates": {
@@ -19,7 +26,7 @@
             "@when": "2021-04-20",
             "#text": "20 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -32,6 +39,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000360953009",
+            "@xml:id": "IL_PetrinalJean.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Pétrinal"
@@ -41,29 +49,17 @@
     },
     "texte": [
         [
-            "doofo, ’A",
-            "T",
-            "T D T A",
-            "l lR",
-            "IV N L",
+            "IOVRNAL",
             "ET",
             "ECLAIRCISSEMENT.",
-            "5",
             "des affaires preſentes.",
-            "APARIS,",
-            "CheÉ IEAN PETRINA, rue da la Bucherie auz",
+            "A PARIS,",
+            "Chez IEAN PETRINAL, ruë da la Bucherie aux",
             "trois Marmouzets.",
-            "C¬"
+            "M. DC. LII."
         ],
         [
-            "aî",
-            "eds",
-            "...",
-            "Soepgqe",
-            "o&amp;",
-            "g",
-            "o&amp;aQQe,",
-            "E ¬ 7",
+            "2",
             "IOVRNL ET ECLAIRCISSEMENT,",
             "E R y",
             "des affaires preſentes.",
@@ -398,12 +394,17 @@
             "&amp; rappeller les anciennes loix &amp; coutumes du Royaume ioüit",
             "d’v",
             "licité dont la gloire ne ſoit iamais interompuë.",
-            "LLLm¬¬",
-            "FIN.",
-            "l",
-            "1",
-            "e.. ...",
-            "A."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
     ]
 }

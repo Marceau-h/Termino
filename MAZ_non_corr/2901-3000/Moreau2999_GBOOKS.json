@@ -4,22 +4,21 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-05-25",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Le recit veritable apporté à son Altesse Royale par le sieur\n          de Bechereau, gentilhomme servant de madame la duchesse d'Orléans, le I. juin 1652.\n          Contenant ce qui s'est fait & passé au siege de la ville d'Estampes, entre l'armée de\n          son Altesse Royale & celle des Mazarins.",
+        "titre": "Le recit veritable apporté à son Altesse Royale par le\n          sieur de Bechereau, gentilhomme servant de madame la duchesse d'Orléans, le I. juin 1652.\n          Contenant ce qui s'est fait & passé au siege de la ville d'Estampes, entre l'armée de\n          son Altesse Royale & celle des Mazarins.",
         "dates": {
             "@type": "file_creation",
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,6 +31,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
             "persName": {
                 "forename": "Veuve de Jean",
                 "surname": "Guillemot"
@@ -240,5 +240,15 @@
             "FIN.",
             "¬"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

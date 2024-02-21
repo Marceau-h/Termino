@@ -16,18 +16,13 @@
             "@when": "2021-11-10",
             "@who": "AB"
         },
-        "titre": "Derniers (les) suppliants aux pieds de la\n                    reine.",
+        "titre": "Derniers (les) suppliants aux pieds de la reine.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": [
             {
                 "@source": "Moreau",
@@ -47,6 +42,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000001796013",
+            "@xml:id": "IL_DuPontPierre.xml",
             "persName": {
                 "forename": "Pierre",
                 "surname": "Du Pont"
@@ -296,8 +292,7 @@
             "participe au crime qu’on ne puniſt pas, quand onen a le pouuoir; &amp;!",
             "que manque du chaſtiment il ce rend touſiours plus criminel.",
             "Decette ſortevous rendrez compte au Ciel de nos plaintes &amp; de no",
-            "larmes, &amp; attirerez ſut voſtre teſte nos ſoupirs &amp; noſtre treſpas.",
-            "Voicy",
+            "larmes, &amp; attirerez ſut voſtre teſte nos ſoupirs &amp; noſtre treſpas. Voicy",
             "la voix de Dieu qui vous le declare, car c’eſt celle du pauure peuple,",
             "du peaple affligé, qui frappe vos oreilles. Ne ſoyez pointſourde à nos",
             "clameurs, ou Dieu n’eſcoutera iatoaisvos prieres. Ouurez vos yeu",
@@ -310,5 +305,14 @@
             "9",
             "E N."
         ]
+    ],
+    "pages_number": [
+        "2",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
     ]
 }

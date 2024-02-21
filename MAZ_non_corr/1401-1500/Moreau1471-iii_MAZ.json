@@ -48,7 +48,9 @@
             "@ref": "geonames:2988507",
             "#text": "Paris"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "6"
     },
     "texte": [
@@ -314,5 +316,12 @@
             "Ell accoucha Ieudy dernier,",
             "Le iour d’apres la Saipt Marthie."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14"
     ]
 }

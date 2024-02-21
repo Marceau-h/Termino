@@ -23,7 +23,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Mazarine",
             "@when": "1650",
@@ -34,7 +34,9 @@
             "@ref": "geonames:2988507",
             "#text": "Paris"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "20"
     },
     "texte": [
@@ -52,7 +54,7 @@
             "M. DC. L."
         ],
         [
-            "3>",
+            "3&gt;",
             "LES ENTRETIENS",
             "Myſterieux des trois Princes en",
             "Cage dans le Boys de Vincennes,",
@@ -551,5 +553,26 @@
             "Iaiſ de ’aeene ae V’INe ENNE",
             "FIN"
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
     ]
 }

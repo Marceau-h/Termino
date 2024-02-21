@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-07-04",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-20",
+            "@who": "AB"
         },
         "titre": "Vérité (la) de ce qui s'est passé à Paris en trois\n          fâcheuses rencontres, contre les impostures contenues en la Lettre mazarine du bourgeois\n          désintéressé, avec la réponse à la Lettre écrite par le cardinal Mazarin, sous le nom du\n          roi, au Parlement de Rouen.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
             "persName": {
                 "forename": "Veuve de Jean",
                 "surname": "Guillemot"
@@ -41,41 +46,24 @@
     },
     "texte": [
         [
-            "lA",
-            "LAA",
-            "rm",
-            "V II I",
-            "DE CE QVI SEST",
+            "LA VERITE",
+            "DE CE QVI S'EST",
             "paſſé à Paris en trois faſcheuſes",
             "rencontres.",
             "CONTRE LES IMPOSTVRES",
-            "cotenuës en l Lettrs Maanine, du ourgeois",
+            "cotenuës en la Lettre Mazarine, du Bourgeois",
             "deſintereſſe.",
-            "AVEC LARESPONSEA LALETTRE",
-            "eſecrite par le Cardinal Mazarin, ſous le nom du",
+            "AVEC LARESPONSE A LA LETTRE",
+            "eſcrite par le Cardinal Mazarin, ſous le nom du",
             "Roy, au Parlement de Roüen.",
-            "e?",
-            "een",
-            "leoplu1",
-            "-8",
-            "&amp;",
             "A PARIS,",
-            "De lnmpnimeui de l V’eue l Sl l &amp; prmeue",
-            "ordinaire de ſon Alteſſe Royale, ruë des Marmouers,",
-            "q8",
+            "De l'Imprimerie de la Veufue I. GVILLEMOT, Imprimeuſe",
+            "ordinaire de ſon Alteſſe Royale, ruë des Marmouzets,",
             "proche l’Egliſe de la Magdelaine.",
-            "M. DC. LI I.",
-            "165-B"
+            "M. DC. LI I."
         ],
         [
-            "J¬",
-            "e",
-            "a¬",
-            "i"
-        ],
-        [
-            ",",
-            "trD Je y",
+            "3",
             "LA VERITE DE CE QVI SEST",
             "paſſé à Paris en trois faſcheuſes ren¬",
             "contres.",
@@ -763,5 +751,25 @@
             "ea",
             "DE FOMONT."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
     ]
 }

@@ -4,14 +4,15 @@
     "entête": {
         "form": "vers",
         "genre": "burlesque",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1651-02-06",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-21",
+            "@who": "AB"
         },
         "titre": "Trou (le) fait à la nuit par Mazarin, burlesque, ou Sa\n          fuite hors du royaume, et la route qu'il a tenue depuis sa sortie.",
         "dates": {
@@ -19,7 +20,7 @@
             "@when": "2021-05-25",
             "#text": "25 mai 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1651",
@@ -30,20 +31,23 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
         [
             "LE",
-            "FAIT ALA NVICT",
-            "PAR MAARIN",
+            "TROV",
+            "FAIT A LA NVICT",
+            "PAR MAZARIN",
             "BVRLESQVE.",
-            "Ou ſa fuite hors du Ryaume,",
+            "Ou ſa fuite hors du Royaume,",
             "Auec la route qu’il a tenue",
-            "puis ſa ſortie.",
-            "-A PAR1S.",
-            "M. DC. LI"
+            "depuis ſa ſortie.",
+            "A PAR1S.",
+            "M. DC. LI."
         ],
         [
             "L A",
@@ -66,10 +70,7 @@
             "Il ſuit, &amp; dautant que ſa fuite",
             "Merite bien d’eſtre décrite,",
             "Ayant baiſé le violon",
-            "Du Maiſtre à danſer Appollon,",
-            "*.",
-            ".",
-            ".¬"
+            "Du Maiſtre à danſer Appollon,"
         ],
         [
             "1",
@@ -239,5 +240,15 @@
             "Prit ſon giſte dedans Meulan",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

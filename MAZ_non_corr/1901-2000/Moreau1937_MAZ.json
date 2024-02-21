@@ -23,7 +23,7 @@
         },
         "author": {
             "@ref": "isni:0000000122905175",
-            "persName": "France. Parlement de Toulouse"
+            "orgName": "Parlement de Toulouse"
         },
         "pubDate": {
             "@source": "Mazarine",
@@ -35,7 +35,9 @@
             "@ref": "geonames:2988507",
             "#text": "Paris"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "4"
     },
     "texte": [
@@ -130,5 +132,10 @@
             "ivolable delité",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "7",
+        "9",
+        "10"
     ]
 }

@@ -4,10 +4,6 @@
     "entête": {
         "form": "prose",
         "genre": "non renseigné",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
@@ -17,7 +13,7 @@
             "@when": "2021-11-16",
             "@who": "AB"
         },
-        "titre": "Déclaration du roi, par laquelle les princes,\n                    ducs, seigneurs et leurs adhérents qui ont pris les armes contre son service,\n                    sont déclarés criminels de lèze majesté, s’ils ne se rendent près de sa personne\n                    dans trois jours après la publication d’icelle.",
+        "titre": "Déclaration du roi, par laquelle les princes, ducs,\n          seigneurs et leurs adhérents qui ont pris les armes contre son service, sont déclarés\n          criminels de lèze majesté, s’ils ne se rendent près de sa personne dans trois jours après\n          la publication d’icelle.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
@@ -41,10 +37,7 @@
             "#text": "Saint-Germain-En-Laye"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "7"
     },
@@ -261,5 +254,14 @@
             "Colationne à l’original par moy Conſeiller",
             "seretaire du Roy &amp; de ſes finances."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

@@ -12,18 +12,13 @@
             "@when": "2021-11-18",
             "@who": "AB"
         },
-        "titre": "Couronne (la) de gloire de nos généraux, les\n                    Césars françois.",
+        "titre": "Couronne (la) de gloire de nos généraux, les Césars\n          françois.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -36,6 +31,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000063027789",
+            "@xml:id": "IL_MorlotClaude.xml",
             "persName": {
                 "forename": "Claude",
                 "surname": "Morlot"
@@ -227,5 +223,14 @@
             "aieſtlas ſadns raiſon que pour marque de leur gloi¬",
             "lsleur font des couonmesde Laaies:."
         ]
+    ],
+    "pages_number": [
+        "5",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
     ]
 }

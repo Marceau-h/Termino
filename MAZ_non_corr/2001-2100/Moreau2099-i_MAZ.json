@@ -55,6 +55,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000003353603",
+            "@xml:id": "IL_BoissetNicolas.xml",
             "persName": {
                 "forename": "Nicolas",
                 "surname": "Boisset"
@@ -1015,5 +1016,24 @@
             "Chez NcoLAs B oss ET, Maiſtre Imprimeur?",
             "ruë Calende, à l’Image Saint Eſtienne."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26"
     ]
 }

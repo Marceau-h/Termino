@@ -48,7 +48,9 @@
             "@ref": "geonames:2988507",
             "#text": "Paris"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "6"
     },
     "texte": [
@@ -322,5 +324,12 @@
             "Mais on en veut ſans rien deſmordre Le lendenaain du lour ſaint Lue.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14"
     ]
 }

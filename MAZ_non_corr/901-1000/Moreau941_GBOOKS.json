@@ -12,7 +12,7 @@
             "@when": "2021-11-17",
             "@who": "AB"
         },
-        "titre": "Déclaration du roi, portant suppression de toutes\n                    les charges et offices dont sont pourvus les gens ci-devant tenant la cour de\n                    parlement de Paris, pour les causes y contenues.",
+        "titre": "Déclaration du roi, portant suppression de toutes les\n          charges et offices dont sont pourvus les gens ci-devant tenant la cour de parlement de\n          Paris, pour les causes y contenues.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
@@ -36,10 +36,7 @@
             "#text": "Saint-Germain-En-Laye"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "8"
     },
@@ -100,8 +97,7 @@
             "ſtrumens de la bonne fortune &amp; de la gloire qui a accompagneé la Re¬",
             "gence: Q’il a maintenu en parfaite vnion la Maiſon Royale, qui le:",
             "¬",
-            "cherit &amp; ’eime, &amp; qu’on doit en grande parie à ſes ſoins &amp; à ſes",
-            "veil¬¬",
+            "cherit &amp; ’eime, &amp; qu’on doit en grande parie à ſes ſoins &amp; à ſes veil¬¬",
             "les, qu’il ne ſe ſoit point paſſé d’année depuis noſtre avénement à la",
             "Couronne, qui n’ait eſté ſignaleée par des ſuccez glorieux preſque de",
             "tous coſtez. Auſſi eſtions-nous à la veille de recueillir les fuits de tant",
@@ -373,5 +369,15 @@
             "Imprimeé à S. Germain en Laye 1649.",
             "AVEC PRIVILEGE DU ROY."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

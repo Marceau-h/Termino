@@ -18,7 +18,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -39,6 +39,7 @@
         },
         "publisher": {
             "@ref": "isni:000000000183047X",
+            "@xml:id": "IL_TargaPierre.xml",
             "persName": {
                 "forename": "Pierre",
                 "surname": "Targa"
@@ -304,5 +305,15 @@
             "M. DC. XLIX",
             "AVEC PERISSION."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

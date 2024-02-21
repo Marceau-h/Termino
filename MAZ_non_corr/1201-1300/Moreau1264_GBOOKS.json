@@ -12,7 +12,7 @@
             "@when": "2021-11-15",
             "@who": "AB"
         },
-        "titre": "Épilogue, ou Dernier appareil du bon citoyen sur\n                    les misères publiques.",
+        "titre": "Épilogue, ou Dernier appareil du bon citoyen sur les\n          misères publiques.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
@@ -34,7 +34,9 @@
             },
             {
                 "@source": "Carrier",
-                "@notAfter": "1649-04-01"
+                "@notBefore": "1649-04-01",
+                "@notAfter": "1649-04-04",
+                "#text": "pendant la semaine\n            sainte 1649 et avant la paix de Saint-Germain du 1er avril 1649"
             }
         ],
         "pubPlace": {
@@ -44,6 +46,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000003330006",
+            "@xml:id": "IL_SaraRobert.xml",
             "persName": {
                 "forename": "Robert",
                 "surname": "Sara"
@@ -60,7 +63,7 @@
             "Sur les miſeres publiques.",
             "A PARIS,",
             "Par ROBERT SARA, ruë de la Harpe,",
-            "au Bras d'Hercule/",
+            "au Bras d'Hercule.",
             "M. DC. XLIX."
         ],
         [
@@ -409,5 +412,17 @@
             "le vœb &amp; le ſouhait le plus aecefſalre que ous puiſſions faire pe¬",
             "dano là folenmitéde oei daintes Feſtes."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
     ]
 }

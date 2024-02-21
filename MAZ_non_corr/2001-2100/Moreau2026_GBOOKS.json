@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-03-04",
         "change": {
             "@status": "not_corrected"
@@ -23,7 +22,7 @@
             "@ref": "isni:0000000083439713",
             "persName": {
                 "forename": "Henri",
-                "surname": "La Tour d'Auvergne (De)"
+                "surname": "La Tour d'Auvergne de"
             }
         },
         "pubDate": {
@@ -38,6 +37,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000114066324",
+            "@xml:id": "IL_VariquetPierre.xml",
             "persName": {
                 "forename": "Pierre",
                 "surname": "Variquet"
@@ -261,5 +261,15 @@
             "2",
             "1yl."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

@@ -26,7 +26,7 @@
         "author": {
             "@ref": "isni:0000000121755355",
             "@role": "speaker",
-            "persName": "France. Parlement de Paris"
+            "orgName": "Parlement de Paris"
         },
         "pubDate": [
             {
@@ -47,6 +47,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
             "persName": {
                 "forename": "Veuve de Jean",
                 "surname": "Guillemot"
@@ -184,5 +185,13 @@
             "F i en lP’arlement le vingr deuxeſm lanuier, mil",
             "ſis cens cinquante. igne, LE TLNNEVR."
         ]
+    ],
+    "pages_number": [
+        "11",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
     ]
 }

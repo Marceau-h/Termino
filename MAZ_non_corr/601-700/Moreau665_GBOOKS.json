@@ -4,14 +4,15 @@
     "entête": {
         "form": "vers",
         "genre": "burlesque",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-16",
+            "@who": "AB"
         },
         "titre": "Célèbre (le) Festin des mouchards , en vers\n          burlesques.",
         "dates": {
@@ -19,42 +20,32 @@
             "@when": "2021-05-25",
             "#text": "25 mai 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
             "#text": "1649"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
         [
             "LE CELEBRE",
             "FESTIN",
-            "MoVCHARDS",
-            "M. DC. XLI",
-            "¬",
-            "¬",
-            "l¬",
-            "Il",
-            "¬ J",
-            "aa",
-            "1",
-            "&amp;eêôêbeedbbdeAee8",
-            "9",
-            "E"
+            "DES",
+            "MOVCHARDS",
+            "EN VERS BVRSLEQVES.",
+            "M. DC. XLI"
         ],
         [
-            "LE CELEBR",
-            "¬ ¬",
-            "4",
-            "L L D",
+            "3",
+            "LE CELEBRE",
+            "FESTIN",
             "DES",
-            "L",
-            "¬",
-            "N",
             "MOVCHARDS",
             "EN VERS BVRLESQVES.",
             "P’E veux chanter feſte Baechique",
@@ -251,5 +242,14 @@
             "Taſche à apprendre où il fut fait..",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

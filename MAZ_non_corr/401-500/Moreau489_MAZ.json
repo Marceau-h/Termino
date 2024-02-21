@@ -44,7 +44,9 @@
             "@source": "Mazarine",
             "#text": "Sans Lieu"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "1"
     },
     "texte": [
@@ -131,5 +133,8 @@
             "du",
             "Cardinal Mabarin ſon Maiſtre ſi l’on le ſouſnie dans la charge qu’il poſſede."
         ]
+    ],
+    "pages_number": [
+        "9"
     ]
 }

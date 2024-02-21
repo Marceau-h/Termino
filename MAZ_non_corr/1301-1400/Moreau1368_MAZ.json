@@ -18,7 +18,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -29,7 +29,7 @@
                 "@source": "Carrier",
                 "@notBefore": "1649-01-21",
                 "@notAfter": "1649-01-22",
-                "#text": "le 21 ou le 22 janvier 1649"
+                "#text": "le 21 ou le 22 janvier\n            1649"
             }
         ],
         "pubPlace": {
@@ -39,6 +39,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
             "persName": {
                 "forename": "Veuve de Jean",
                 "surname": "Guillemot"
@@ -554,5 +555,15 @@
             "incendie.",
             "A PAR I5 che a eafue . GIEMor, ruë des Mamotet. 1649."
         ]
+    ],
+    "pages_number": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
     ]
 }

@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-02-19",
         "change": {
             "@status": "not_corrected"
@@ -23,8 +22,7 @@
             "@ref": "isni:0000000118675506",
             "persName": {
                 "forename": "Charles",
-                "surname": "Stuart",
-                "name": "Charles II"
+                "surname": "Stuart"
             }
         },
         "pubDate": {
@@ -39,6 +37,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000011194155",
+            "@xml:id": "IL_MusnierVeuvedAndre.xml",
             "persName": {
                 "forename": "Veuve d'André",
                 "surname": "Musnier"
@@ -315,5 +314,15 @@
             "2",
             "7"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

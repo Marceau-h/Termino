@@ -4,16 +4,15 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1651-10-01",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Lettre de monsieur le prince de Conty, escrite au Roy sur son\n          voyage de Berry.",
+        "titre": "Lettre de monsieur le prince de Conty, escrite au Roy\n          sur son voyage de Berry.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-06-08",
@@ -21,11 +20,11 @@
         },
         "author": [
             {
-                "@role": "fake_author",
+                "@role": "speaker",
                 "@ref": "isni:0000000119302891",
                 "persName": {
                     "forename": "Armand",
-                    "surname": "Bourbon-Conti (De)"
+                    "surname": "Bourbon-Conti de"
                 }
             },
             {
@@ -33,7 +32,7 @@
                 "@ref": "isni:0000000079819537",
                 "persName": {
                     "forename": "Louis-François",
-                    "surname": "Le Fèvre Caumartin (De)"
+                    "surname": "Le Fèvre Caumartin de"
                 }
             }
         ],
@@ -43,7 +42,9 @@
             "#text": "1651"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "7"
     },
     "texte": [
@@ -266,5 +267,14 @@
             "Armanu e Bvrb",
             "!"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

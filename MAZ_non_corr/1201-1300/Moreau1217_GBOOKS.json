@@ -12,18 +12,13 @@
             "@when": "2021-11-12",
             "@who": "AB"
         },
-        "titre": "Enfer (l'), le purgatoire et le paradis temporel\n                    de la France.",
+        "titre": "Enfer (l'), le purgatoire et le paradis temporel de la\n          France.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -36,6 +31,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121259642",
+            "@xml:id": "IL_PreuverayFrancois.xml",
             "persName": {
                 "forename": "François",
                 "surname": "Preuveray"
@@ -257,5 +253,14 @@
             "me que le Soleil imprime ſa chaleur &amp; ſa lumiere ſur",
             "les traces de la froidure &amp; de l’obſuriteé de la nuict."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

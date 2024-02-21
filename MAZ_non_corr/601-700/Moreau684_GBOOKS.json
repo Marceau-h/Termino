@@ -3,14 +3,16 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "subgenre": [
-            null,
-            null
-        ],
-        "subject": null,
+        "genre": "Chansons",
+        "subject": "Mazarin",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-16",
+            "@who": "AB"
         },
         "titre": "Chants rovaux sur l’Éminence et les partisans.",
         "dates": {
@@ -18,19 +20,29 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
             "#text": "1649"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "10"
     },
     "texte": [
         [
-            "¬",
+            "3",
+            "CHANT ROYAL",
+            "SVR",
+            "L'EMINENCE.",
+            "IE ueux chanter, d'vn ſtile lamentable,",
+            "Tous les malheurs, &amp; les calamitez,",
+            "Qui"
+        ],
+        [
             "4",
             "L’on ne voit plus icy que des pillages,",
             "Qui nous mettront enfin au deſeſpoir,",
@@ -198,14 +210,16 @@
             "voyant dans l",
             "eir ue eue e uee i e nu¬",
             "FIN."
-        ],
-        [
-            "¬¬",
-            "1"
-        ],
-        [
-            "a¬",
-            "aaa"
         ]
+    ],
+    "pages_number": [
+        "3",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

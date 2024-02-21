@@ -21,7 +21,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -41,6 +41,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000002569584",
+            "@xml:id": "IL_RemyVeuvedeJean.xml",
             "persName": {
                 "forename": "Veuve de Jean",
                 "surname": "Rémy"
@@ -63,8 +64,7 @@
             "A PARIS",
             "Chez la Vefue IEAN REMY, ruë Sainct Iacques,",
             "à l'image S. Remy, prés le College du Pleſſis.",
-            "M. DC. XLIX.",
-            "AVEC PERMISSION."
+            "M. DC. XLIX. AVEC PERMISSION."
         ],
         [
             "ACTIONS DE GRACES",
@@ -527,5 +527,22 @@
             "les ſoulager.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
     ]
 }

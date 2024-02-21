@@ -3,15 +3,20 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit",
+            "liste"
         ],
-        "subject": null,
+        "subject": "Bataille navale",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-08-07",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-27",
+            "@who": "AB"
         },
         "titre": "Relation de la bataille navale donnée entre les armées de\n          France et d'Espagne sur les mers d'Olleron et de Ré le 9 aoust 1652, avec l'estat des\n          vaisseaux dont les deux armées étaient composées, et les noms des capitaines.",
         "dates": {
@@ -19,7 +24,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -33,16 +38,18 @@
         "publisher": [
             {
                 "@ref": "isni:0000000123748060",
+                "@xml:id": "IL_LaCosteNicolasde.xml",
                 "persName": {
-                    "forename": "Nicolas",
-                    "surname": "La Coste (De)"
+                    "forename": "Nicolas de",
+                    "surname": "La Coste"
                 }
             },
             {
+                "@xml:id": "IL_XXX.xml",
                 "@ref": "isni:0000000117511956",
                 "persName": {
-                    "forename": "Jean",
-                    "surname": "La Coste (De)"
+                    "forename": "Jean de",
+                    "surname": "La Coste"
                 }
             }
         ],
@@ -50,45 +57,20 @@
     },
     "texte": [
         [
-            "ELA",
-            "DE",
-            "BATA",
-            "r¬ 4",
-            "rTT",
-            "l IIN",
-            "1",
-            "L A",
-            "ILLE",
-            "4",
+            "RELATION",
+            "DE LA",
+            "BATAILLE",
             "NAVALLE, DONNE’E",
             "entre les Arḿes de France &amp; d’Eſpagne,",
             "ſur les Mers d’Olleron &amp; de Ré,",
-            "le 9. Aouſt 16s..",
-            "uec l’eſtat des Vaiſſeaux, dont les deux Armees eftoient",
+            "le 9. Aouſt 1652.",
+            "Auec l’eſtat des Vaiſſeaux, dont les deux Armees eftoient",
             "compoſees, &amp; les noms des Capitaines.",
-            "?",
-            "12-B",
-            "A Ais,",
-            "cue ueo u le a p Cs n au matS ’lire dlEſ",
-            "etiteporte duPalais,",
-            "de Bretagne: Et en leur Boutique, àl",
-            "eneleni n oe der euaiuer oun",
+            "A PARIS,",
+            "Chez NICOLAS &amp; IEAN DE LA COSTE, au mont S. Hilaire, à l'Eſcu",
+            "de Bretagne: Et en leur Boutique, à la petite porte du Palais,",
+            "qui regarde le Quay des Auguſtins.",
             "M. DC. LII."
-        ],
-        [
-            "1",
-            "i",
-            "m¬s",
-            ".",
-            "2",
-            "la¬a",
-            ". a",
-            "E1",
-            "aa, l-",
-            "e",
-            "¬ 8",
-            "e,",
-            "2"
         ],
         [
             "3",
@@ -405,7 +387,20 @@
             "e erEe ounme qui leut poru l noundls de lanm",
             "uée des François.",
             "Vn bruſlot, nommé ſaint Aatoine?",
-            "F IN."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
     ]
 }

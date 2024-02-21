@@ -1,17 +1,21 @@
 {
-    "imprimatur": null,
+    "imprimatur": "Auec Permißion de ſon Al. Royale.",
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-05-04",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-20",
+            "@who": "AB"
         },
         "titre": "Véritables (les) particularités, apportez (sic) par le\n          dernier courrier, du combat donné entre l'armée de Son Alt. R. et celle des Mazarins\n          devant la ville d'Étampes, le samedi quatrième mai 1652, avec la prise de deux pièces de\n          canon par l'armée de Son Altesse Royale.",
         "dates": {
@@ -19,12 +23,19 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1652",
-            "#text": "1652"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-05",
+                "#text": "mai 1652"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -32,6 +43,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000364435102 ",
+            "@xml:id": "IL_ChouqueuxAndre.xml",
             "persName": {
                 "forename": "André",
                 "surname": "Chouqueux"
@@ -41,23 +53,18 @@
     },
     "texte": [
         [
-            ".",
             "LES VERITABLES",
-            "D7",
-            "PARTICVLARITE",
-            "3os130",
+            "PARTICVLARITEZ",
             "APPORTEZ PAR LE",
             "dernier Courrier, du combat",
-            "donné entre l’Armeé́e de ſon",
+            "donné entre l’Armé́e de ſon",
             "Alt. R. &amp; celle des Mazarins",
             "deuant la ville d’Eſtampes, le",
             "Samedy quatriéme May 16̃52.",
-            "uec la priſe de deux pieces de Canon par l’ar",
-            "mée de ſon Alteſſe R oyale.",
-            "eee en",
-            "a?",
+            "Auec la priſe de deux pieces de Canon par l’ar",
+            "mée de ſon Alteſſe Royale.",
             "A PARIS,",
-            "Chez ANDRE CHio vVQV’EVX, rue Saine",
+            "Chez ANDRE CHOVQVEVX, rue Sainct",
             "André des Arts.",
             "M. DC. LII.",
             "Auec Permißion de ſon Al. Royale."
@@ -228,9 +235,17 @@
             "les priſonniers Mazarins à vingt Officiers, &amp;",
             "quantité deſdits priſonniers ont ptis pat",
             "parmyſes trouppes.",
-            "n E",
-            "E1N. s",
-            "!"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

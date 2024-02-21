@@ -4,14 +4,15 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-07-11",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
         "titre": "Relation véritable de ce qui s'est fait et passé en la\n          dernière assemblée du Parlement, en présence de M. le duc d'Orléans et de M. le Prince,\n          sur la réponse la réponse du roi faite à Mrs les députés, l'arrêt intervennu sur icelle et\n          ce qui s'est passé au Parlement de Normandie et en la ville de Rouen.",
         "dates": {
@@ -19,12 +20,19 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1652",
-            "#text": "1652"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1652-07",
+                "#text": "récit de ce qui s'est passé en juillet\n            1652"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -32,6 +40,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
             "persName": {
                 "forename": "Veuve de Jean",
                 "surname": "Guillemot"
@@ -41,9 +50,9 @@
     },
     "texte": [
         [
-            "DLA’ION 3",
+            "RELATION",
             "VERITABLE",
-            "DE CE QVI SEST FAIT",
+            "DE CE QVI S'EST FAIT",
             "&amp; paſſé en la derniere Aſſem",
             "blée du Parlement, en preſence",
             "de Monſieur le Duc d’Orleans",
@@ -53,29 +62,14 @@
             "teruenu ſur icelle: Et ce qui s’eſt",
             "paſſé au Parlement de Norman",
             "die, &amp; en la Ville de Roüen.",
-            "3",
-            "Ae",
-            "a",
-            "1",
             "A PARIS,",
-            "De l’Imprimerie de la Vefue I. G v1 L LE oT, Imprlmeuſe",
-            "ordinaire de ſon Alteſſe Royale, rueë des Marmoues.",
-            "proche l’Egliſe de la Magdelaiue.",
+            "De l’Imprimerie de la Vefue I. GVILLEMOT, Imprimeuſe",
+            "ordinaire de ſon Alteſſe Royale, ruë des Marmouzets.",
+            "proche l’Egliſe de la Magdelaine.",
             "M. DC. LII."
         ],
         [
-            "5",
-            "1",
-            "1",
-            "e",
-            "1",
-            "2",
-            "aaa l"
-        ],
-        [
-            "3.",
-            ". i",
-            "MA e &amp; &amp; a",
+            "3",
             "RPLATION VERITPLE",
             "de ce qui ’eſt paſé en l derniere Aſemblée da",
             "Parlement, en preſence de Monſſieur le Due",
@@ -339,7 +333,19 @@
             "nàfûnt par ſes ſordes hor da RoymeeTrage",
             "Comedie, dont le dernler ae ue luay ſeroit pas d;",
             "uaatageux.",
-            "RIN."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
     ]
 }

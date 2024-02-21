@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-02-11",
         "change": {
             "@status": "not_corrected"
@@ -37,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000110444682",
+            "@xml:id": "IL_LesselinAlexandre.xml",
             "persName": {
                 "forename": "Alexandre",
                 "surname": "Lesselin"
@@ -292,5 +292,15 @@
             "r1",
             "BIN TRILMARRIT."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

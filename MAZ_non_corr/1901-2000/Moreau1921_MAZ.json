@@ -47,6 +47,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000001831368",
+            "@xml:id": "IL_BrunetJean.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Brunet"
@@ -459,5 +460,14 @@
             "a nldeii ol:LCo’upeido",
             "l,"
         ]
+    ],
+    "pages_number": [
+        "15",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
     ]
 }

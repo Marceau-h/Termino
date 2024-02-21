@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
             "@status": "not_corrected"
         },
@@ -20,11 +19,7 @@
         },
         "author": {
             "@ref": "isni:0000000383255772",
-            "persName": {
-                "forename": "Louis",
-                "surname": "Bourbon (De)",
-                "name": "Louis XIV"
-            }
+            "persName": "Louis XIV"
         },
         "pubDate": {
             "@source": "Moreau",
@@ -36,7 +31,11 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Les imprimeurs & libraires du Roy",
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "persName": "Les imprimeurs et libraires du Roi"
+        },
         "nbPages": "4"
     },
     "texte": [
@@ -119,5 +118,11 @@
             "2",
             "n1"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4"
     ]
 }

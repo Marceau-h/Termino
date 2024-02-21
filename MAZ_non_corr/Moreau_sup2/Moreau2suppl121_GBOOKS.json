@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
             "@status": "not_corrected"
         },
@@ -22,7 +21,7 @@
             "@ref": "isni:0000000121428928",
             "persName": {
                 "forename": "Charles IV",
-                "surname": "Lorraine (De)"
+                "surname": "Lorraine de"
             }
         },
         "pubDate": {
@@ -37,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
             "persName": {
                 "forename": "Jacob",
                 "surname": "Chevalier"
@@ -322,5 +322,14 @@
             "ſeruiteur &amp; frere,",
             "CH. Ds LORRAINE"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

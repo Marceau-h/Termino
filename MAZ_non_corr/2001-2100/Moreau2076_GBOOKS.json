@@ -4,22 +4,21 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Lettre des peuples de la province de Poitou,\n                    envoyée à nos seigneurs du Parlement de Paris, sur le sujet des partisans et\n                    maltotiers.",
+        "titre": "Lettre des peuples de la province de Poitou, envoyée à\n          nos seigneurs du Parlement de Paris, sur le sujet des partisans et maltotiers.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-06-08",
             "#text": "8 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -32,6 +31,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000371172953",
+            "@xml:id": "IL_BessinNicolas.xml",
             "persName": {
                 "forename": "Nicolas",
                 "surname": "Bessin"
@@ -159,8 +159,7 @@
         [
             "4",
             "epoſe contre’verité, qu’vn des bras de la riuiere de Lucçon paſſoit à",
-            "Marans, &amp; que ce bras de riuiere tiroit tout le ſel, &amp; fraudoit le",
-            "droict",
+            "Marans, &amp; que ce bras de riuiere tiroit tout le ſel, &amp; fraudoit le droict",
             "eſtably audit Marans; de façon que là deſſus il demande qu’il ſoit eſ¬",
             "ably vn nouueau bureau à Luçon, ce qu’il obtient ſur ſa requeſte pre¬",
             "ſentée: &amp;le ſieur de Villemontée, lors Intendant dens la Prouin ce,",
@@ -301,5 +300,15 @@
             "Parlement, auſquels nous ſommes entierement acquis.",
             "F I N."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

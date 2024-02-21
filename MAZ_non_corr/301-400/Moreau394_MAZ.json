@@ -1,43 +1,54 @@
 {
-    "imprimatur": null,
+    "imprimatur": "Auec Permißion de Son Alteſſe Royale",
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "subject": [
-            "Guise‎, Henri de Lorraine‎, duc de, 1614-1664‎",
-            "1775",
-            "Condé‎, prince de‎, 1621-1686, Louis de Bourbon‎",
-            "Conti‎, prince de‎, 1629-1666, Armand de Bourbon‎",
+            "Guise, Henri de Lorraine (1614-1664 ; duc de)",
+            "Léopold-Guillaume (1614-1662 ; archiduc d'Autriche)",
+            "Condé, Louis de Bourbon (1621-1686 ; prince de)",
+            "Conti, Armand de Bourbon (1629-1666 ; prince de)",
             "Bourg (Gironde)"
         ],
-        "creation": "1652-08-26",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-03-10",
+            "@who": "AB"
         },
-        "titre": "L'arrivée du duc de Guyse en la ville de Bourg, à cinq lieuës\n          de Bordeaux, avec deux mille Espagnols. Ensemble l'ordre du Roy d'Espagne, envoyée [sic] à\n          l'archi-duc Leopold, de lever toutes les garnisons de Flandres pour assister messieurs les\n          Princes.",
+        "titre": "Arrivee (l') du duc de Guise en la ville de Bourg, cinq\n          lieues de Bordeaux, avec deux mille Espagnols; ensemble l'ordre du roi d'Espagne, envoyé à\n          l'archiduc Léopold, de lever toutes les garnisons de France, pour assister MM. les\n          princes.",
         "dates": {
             "@type": "file_creation",
-            "@when": "2021-05-25",
-            "#text": "25 mai 2021"
+            "@when": "2022-03-02",
+            "#text": "2 mars 2022"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1652",
-            "#text": "1652"
+        "author": {
+            "@ref": "isni:0000000373848590",
+            "@source": "Mazarine",
+            "persName": "Philippe IV d'Espagne"
         },
+        "pubDate": [
+            {
+                "@source": "Mazarine",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-09-15",
+                "#text": "mi-septembre 1649"
+            }
+        ],
         "pubPlace": {
+            "@source": "Mazarine",
             "@ref": "geonames:2988507",
-            "@source": "Moreau",
             "#text": "Paris"
         },
         "publisher": {
             "@ref": "isni:0000000364435102",
+            "@xml:id": "IL_ChouqueuxAndre.xml",
             "persName": {
                 "forename": "André",
                 "surname": "Chouqueux"
@@ -47,49 +58,37 @@
     },
     "texte": [
         [
-            "D D T T r",
-            "LARRIVEE",
+            "L'ARRIVEE",
             "DV DVC",
-            "T E",
-            "E GVISE",
-            "H4",
-            "1",
-            "ENL VLLE DE BovRG,",
-            "aenolieues de oordeau auee",
-            "deux mlle Eſpagnols.",
-            "ſle ſoe le ſe a leſenen, nunot?",
-            "atehi- Dne Leopold, de leuer fatesle gar",
-            "niſôns de Flandres pour aifter e",
-            "ſſeurs les Princes.",
-            "?",
+            "DE GVYSE",
+            "EN LA VILLE DE BOVRG,",
+            "à cinq lieux de Bordeaux, auec",
+            "deux mille Eſpagnols.",
+            "Enſemble l'Ordre du Roy d'Eſpagne, enuoyée à",
+            "l'Archi-Duc Leopold, de leuer toutes les gar¬",
+            "niſons de Flandres pour aßiſter Meſ¬",
+            "ſieurs les Princes.",
             "A PARIS,",
-            "a Ao cus oe ee s",
-            "T",
-            "Auec Permißons de Son Alteſe Royale.",
-            "rra¬"
+            "Chez ANDRE CHOVQVEVX, ruë S. André.",
+            "M. DC. LII.",
+            "Auec Permißion de Son Alteſſe Royale."
         ],
         [
-            "5",
-            "9",
-            ": :",
-            "¬ 2",
-            ", &amp;e ,&amp;",
-            "’ger ’ aeeoo",
-            "rr",
+            "3",
             "ARRIVEE DV DVC DE",
             "Gueſi en la ville de Bourg, à cinq lieüs",
             "dle Bordeat auecdeux’ mill Eſpagnoln.",
             "Eaſeaoble l’Ordre da R oyd ſpagne,",
-            "enuoyée à l’Arci-Duc Lcopold, de leuer",
+            "enuoyée à l’Arci-Duc Lcopold, de leuer¬",
             "oate hgarniſonps de, EVlandres, poa",
             "aſſiſtMeſieus les Princes",
             "DOmme n’y a poiue de nejoüiſſance",
             "pareille, à élle ueeçoit eloy qui",
-            "apres auoir couru de grands perils aux v oya",
+            "apres auoir couru de grands perils aux v oya¬",
             "ges de mer, ſe trouua heureuſement arriueé a",
             "hon port. Auſſi celle que témoigne celuy",
             "-Aqui ayant longuement demeur pnſonnie",
-            "ntre lesnmains de ſes ennemis, eſt ſingulie",
+            "ntre lesnmains de ſes ennemis, eſt ſingulie¬",
             "re,lIors qu’il jouuit de la libernté pour laquell",
             "ia ſouffert des ernuis incomparables.",
             "C’eſt ce qui ſe peut dire de Monſieur le",
@@ -98,25 +97,25 @@
             "urage, ne pouuant pas le maiſtriſer, s’e¬"
         ],
         [
-            "gagea à la guene de Naples, qui ſe fit a",
+            "gagea à la guene de Naples, qui ſe fit a¬",
             "Josr &amp; ayantacepte la chirge e ene4",
             "des apolitains cotré les Eſpagnols, e",
             "meſla auaht pary ledrstrouippes, quoa",
-            "generpſit́ aatuirell durdiſa rahirou",
+            "generpſit́ aatuirell durdiſa rahirou¬",
             "osſorres de peils ilſetouua ehgagbdans",
             "vn conbat òil fut pris &amp; eé ajette,",
-            "&amp; de là en ſpagné, où dl eſt emurepri",
-            "nnier iſqu preſtt queloRod’E",
+            "&amp; de là en ſpagné, où dl eſt emurepri¬",
+            "nnier iſqu preſtt queloRod’E¬",
             "pagne, auxſſtaos &amp;eſÀfteſe Ryale",
-            "&amp; de Monſieur le Prince de Condé, a con",
+            "&amp; de Monſieur le Prince de Condé, a con¬",
             "enty ſa deliulbape, comfhandé, quſe n",
             "le miſtlen la diſpofijon de rmohit Seuſe",
             "Prince.",
             ".",
             "t4",
             "Deplafa Majoté Catholique lui donn",
-            "deux millehommep, auec leſquels il e",
-            "arquà au Porte de Sainct Sebaſtienen -Gal",
+            "deux millehommep, auec leſquels il e¬",
+            "arquà au Porte de Sainct Sebaſtienen -Gal¬",
             "ce, &amp; atriua pou de iours apres à la riuiere de",
             "ordeaux, &amp; depuis à Bouig, qui eſt à cinq",
             "lieues de là. Ce que ſçachant, Madame la",
@@ -147,7 +146,7 @@
             "del’Armée, eſt arriué prés de chauny nj",
             "Noyon &amp; Laon, laquſlerlle a aiſoh",
             "mer, &amp; au eſus deſe rendre, il I’a aſſiegée &amp;",
-            "batuaé qélquesiou ſ",
+            "batuaé qélquesiou ſ¬",
             "pe a atnads doſ’Arcbia deſtappia",
             "éde Sqiſfems, qulos tiens aûrelinoé",
             "ie dofté pallnéodolnoſvAt"
@@ -162,7 +161,7 @@
             "areieey ayarigrdeapplarfſe qqles;",
             "Villes nveuldrontts ur oa laspasyel",
             "n.",
-            "D",
+            "D¬",
             "el&amp;A ſRi",
             "oPeeepeéPg elt8",
             ",",
@@ -184,15 +183,22 @@
         ],
         [
             "vous iugerez digne de luy: Cependant i’ay",
-            "mandé́ à mon Nepueu l’Archi-Duc Leo",
-            "pold, qu’il ait auec toutes ces forces à en",
+            "mandé́ à mon Nepueu l’Archi-Duc Leo¬",
+            "pold, qu’il ait auec toutes ces forces à en¬",
             "trer en France pour joindre les voſtres,",
             "&amp; croyant qu’il ne fera faute: je prie Dieu",
             "qu’il vous tienne en ſa ſaincte garde.",
             "Ainſi Signe, EL REY.",
             "De Madrid, le s.",
-            "Iuillet 1os.",
-            "rm"
+            "Iuillet 1os."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

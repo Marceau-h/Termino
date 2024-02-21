@@ -4,10 +4,6 @@
     "entête": {
         "form": "prose",
         "genre": "discours",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": "Destinataire : Anne d'Autriche",
         "handwritten_note": false,
         "table_of_content": false,
@@ -17,18 +13,13 @@
             "@when": "2022-02-07",
             "@who": "KA"
         },
-        "titre": "Discours d’État et de religion sur les affaires\n                    du temps présent, à la reine.",
+        "titre": "Discours d’État et de religion sur les affaires du temps\n          présent, à la reine.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -40,10 +31,7 @@
             "#text": "Paris"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "8"
     },
@@ -288,8 +276,9 @@
             "vous pû apporter, voſtre Maijeſteé ſçait bien que ce ſont les peuples",
             "qui font les Roys, &amp; non pas les Roys les peuples; &amp; que Dieu les",
             "a donnez les vns aux autres pour ſe maintenir reſpectiuement par",
-            "l’obeiſſance &amp; la chariré ſous l’ordre que ſa Prouidence leur a preſ¬ <pb",
-            "n=\"7\"/>",
+            "l’obeiſſance &amp; la chariré ſous l’ordre que ſa Prouidence leur a preſ¬"
+        ],
+        [
             "7",
             "oit, vous tenez la place du Roy, comme ſa Mere dans voſtre Re¬",
             "gence, &amp; vous deuez tenir lieu de Pere pour luy dans voſtre admi¬.",
@@ -369,5 +358,15 @@
             "dans les precipices.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

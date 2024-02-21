@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
             "@status": "not_corrected"
         },
@@ -19,7 +18,12 @@
             "#text": "8 juin 2021"
         },
         "author": {
-            "name": "Le C. L."
+            "persName": {
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "Le C. L."
+                }
+            }
         },
         "pubDate": {
             "@source": "Moreau",
@@ -1280,5 +1284,27 @@
             "Voſfre trer-hmble rres",
             "D’AVBRAY."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
     ]
 }

@@ -23,7 +23,7 @@
         },
         "author": {
             "@ref": "isni:0000000119572170",
-            "persName": "France. Parlement de Bordeaux"
+            "orgName": "Parlement de Bordeaux"
         },
         "pubDate": [
             {
@@ -42,7 +42,9 @@
             "@ref": "geonames:2988507",
             "#text": "Paris"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "4"
     },
     "texte": [
@@ -106,5 +108,10 @@
             "peiuibleu, publje paygout ou, efninſe. Donné en",
             "Parlement le 24. Sepembre, 1649."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12"
     ]
 }

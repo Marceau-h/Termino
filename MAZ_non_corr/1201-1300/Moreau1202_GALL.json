@@ -18,18 +18,13 @@
             "@when": "2021-11-12",
             "@who": "AB"
         },
-        "titre": "Élégie sur la jalousie des culs de la\n                    cour.",
+        "titre": "Élégie sur la jalousie des culs de la cour.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": [
             {
                 "@source": "Moreau",
@@ -40,20 +35,15 @@
                 "@source": "Carrier",
                 "@notBefore": "1649-10-01",
                 "@notAfter": "1649-10-15",
-                "#text": "première\n                        quinzaine d'octobre 1649"
+                "#text": "première quinzaine\n            d'octobre 1649"
             }
         ],
         "pubPlace": {
-            "@ref": "geonames:0000000",
             "@source": "Moreau",
             "#text": "Sans Lieu"
         },
         "publisher": {
-            "@ref": "isni:0000000",
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "7"
     },
@@ -150,5 +140,13 @@
             "FIN.",
             "M. DC. XLI."
         ]
+    ],
+    "pages_number": [
+        "2",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

@@ -4,16 +4,15 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1656-01",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Lettre du cardinal de Retz à messieurs de\n                    l'assemblée du clergé, par laquelle il annonce avoir choisi M. Du Saussay pour\n                    son grand vicaire , etc .",
+        "titre": "Lettre du cardinal de Retz à messieurs de l'assemblée du\n          clergé, par laquelle il annonce avoir choisi M. Du Saussay pour son grand vicaire , etc\n          .",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-06-08",
@@ -23,7 +22,7 @@
             "@ref": "isni:0000000121441815",
             "persName": {
                 "forename": "Jean-François",
-                "surname": "Gondi (De)"
+                "surname": "Gondi de"
             }
         },
         "pubDate": {
@@ -31,7 +30,9 @@
             "#text": "Sans Date"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "3"
     },
     "texte": [
@@ -57,8 +58,7 @@
             "ſur le point de vous informer de toutes les circonſtances de cet affaire",
             "lors que i’ay ſçeu par les dernieres nouuelles de Paris que le zl que",
             "vous auez pour les intereſts de l’Egliſe auoit preuenù ſ genereuſtment",
-            "mes ſoins, &amp; agy auec tant de force &amp; tant d’effica ce pour la",
-            "eonſerua¬",
+            "mes ſoins, &amp; agy auec tant de force &amp; tant d’effica ce pour la eonſerua¬",
             "uion de ſes drois, qu’il me ſemble qu’il ne me reſte plus rien preſente¬",
             "ment aà faire qu’ vous rendre les tres-humbles graces que ie vous dois",
             "pa rant de tiltrs, &amp; à vous ſupplietr de croire que rien ne peut eſgaler",
@@ -77,8 +77,7 @@
             "ginables du profond reſpect que i’auray toute ma vie pour ſes comman¬",
             "dcmens, &amp; de la fidelité inuiolable que ie conſerueray erernellement",
             "pour ſon ſeruice. C’eſt dans ces termes, Meſſieurs, que ie prends la har¬",
-            "dieſſe d’eſcrire à̀ ſa Maieſté, &amp; i’oſe efperer de voſtré bonté que vous",
-            "ſe¬",
+            "dieſſe d’eſcrire à̀ ſa Maieſté, &amp; i’oſe efperer de voſtré bonté que vous ſe¬",
             "rez les Cautions de mon obeiſſance. Ie ne vous parle point, Meſſieurs, de",
             "tout ce qui touche mes intereſts particuliers, &amp; il me ſemble que ie reſ¬",
             "pondrois bien foiblement à voſtre ſaincte generoſité́, ſi tout ce qui re¬",
@@ -100,8 +99,7 @@
             "des ames que Dieu a commiſes à̀ ma charge, des choſes pour leſquelles",
             "dans toutes autres rencontres ie ſerois obligé́ d’auoir toures ſortes d’at¬",
             "tachecmens. Il u’y a qu’vn ſeul poinct, Meſſieuis, dont il me ſemble que",
-            "ie dois vn compre encor plus particulier au Ciel &amp; aà la terre, &amp; dont",
-            "ie",
+            "ie dois vn compre encor plus particulier au Ciel &amp; aà la terre, &amp; dont ie",
             "ne me puis taire vn ſeul moment ſans eſtre preuaricateur de monCaracte¬",
             "re, &amp; ſans me rendre abſolument indigne des ſoins qu’il vous plaiſt de",
             "prendre pour le repos de mon Egliſe. Eſt-il iuſte, Meſſieurs, que dans le",
@@ -156,5 +154,10 @@
             "Cardinal de Rets, Ar¬",
             "cheueſque de Paris."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3"
     ]
 }

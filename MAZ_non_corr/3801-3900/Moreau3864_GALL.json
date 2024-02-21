@@ -1,17 +1,21 @@
 {
-    "imprimatur": null,
+    "imprimatur": "AVEC PERMISSION.",
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "chantable",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Chanson",
+            "triolet"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-08-18",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-21",
+            "@who": "AB"
         },
         "titre": "Triolets ( les ) royaux présentés à Leurs Majestés sur\n          leur retour à Paris.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -32,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000110444682",
+            "@xml:id": "IL_LesselinAlexandre.xml",
             "persName": {
                 "forename": "Alexandre",
                 "surname": "Lesselin"
@@ -41,43 +46,20 @@
     },
     "texte": [
         [
-            "rT",
-            "I",
             "LES",
-            "I I",
-            "1",
-            "HM",
-            "I l L",
-            "34",
-            "ept",
-            "IS",
-            "7",
-            "V A",
+            "TRIOLETS",
             "ROYAVX",
             "Preſentez à Leurs Maieſtez,",
             "ſur leur Retour à Paris.",
-            "Aui",
-            "1",
-            "les ej5",
-            "APARIS,",
+            "A PARIS,",
             "Chez ALEXANDRE LESSELIN, ruë̈ de la vieille",
             "Bouclerie, proche le Pont ſainct Michel.",
             "M. DC. XXXXIX.",
-            "AVEC PER MISSION."
-        ],
-        [
-            "1",
-            "*",
-            "ei",
-            "l"
+            "AVEC PERMISSION."
         ],
         [
             "3",
-            "a&amp;e lulu hi q, e a",
-            "’ d od t’ s edoe d ee?",
-            "r D VT",
             "LES TRIOLETS ROYAVX,",
-            "T",
             "Preſentez à Leurs Majeſtez ſur leur",
             "Retour à Paris.",
             "Eſeſs le e l penei ſe lenne",
@@ -266,7 +248,16 @@
             "L’on ſe repent de leur deplaire,",
             "Bourgeois, puiſque vous les auez",
             "Conſeruez LOvVYs &amp; ſa Mere.",
-            "IN."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

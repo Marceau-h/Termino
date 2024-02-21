@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "chantable",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Chanson",
+            "triolet"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-04-07",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-21",
+            "@who": "AB"
         },
         "titre": "Triolets sur la jonction des princes pour la déroute des\n          Mazarins.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000079149967",
+            "@xml:id": "IL_PolletierPoulletierLePoultierNoel.xml",
             "persName": {
                 "forename": "Noël",
                 "surname": "Le Poultier"
@@ -41,31 +46,21 @@
     },
     "texte": [
         [
-            "r II r",
-            "I ILIE 1S",
+            "TRIOLETS",
             "SVR",
             "LA IONCTION",
             "DES PRINCES.",
-            "A EROVTE DEs",
+            "POVR LA DEROVTE DES",
             "Mazarins.",
-            "l li",
-            "V eli",
-            "l",
-            "1",
             "A PARIS,",
-            "che ov E povLIEn.",
-            "M. DC. LI.",
-            "¬"
+            "Chez NOVEL LE POVLTIER.",
+            "M. DC. LII."
         ],
         [
-            "A hAA:AAA&amp;",
-            "E C",
-            "r 6",
-            "e D",
-            "1 I IL L I",
+            "3",
+            "TRIOLETS",
             "SVR LA IONCTION",
             "DES PRINCES.",
-            "T",
             "SVR LA DEROVTE DES",
             "Mazarins.",
             "JE m’en vais Chanter hautement.,",
@@ -204,5 +199,13 @@
             "Qu’on chaſtiera t’a perfidie.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

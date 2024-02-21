@@ -43,6 +43,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121408134",
+            "@xml:id": "IL_VivenayNicolas.xml",
             "persName": {
                 "forename": "Nicolas",
                 "surname": "Vivenay"
@@ -261,5 +262,14 @@
             "Le tres-humble &amp;e tres ,hſtſe uiteur",
             "LOVYS DE BOVRBON."
         ]
+    ],
+    "pages_number": [
+        "7",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
     ]
 }

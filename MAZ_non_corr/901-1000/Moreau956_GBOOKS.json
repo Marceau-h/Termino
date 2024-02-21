@@ -12,18 +12,13 @@
             "@when": "2021-11-18",
             "@who": "AB"
         },
-        "titre": "Déclaration (la) générale des habitants de la\n                    ville d’Orléans, et la réception de monseigneur le duc de Beaufort, avec le\n                    sujet de son arrivée à la ville de Paris.",
+        "titre": "Déclaration (la) générale des habitants de la ville\n          d’Orléans, et la réception de monseigneur le duc de Beaufort, avec le sujet de son arrivée\n          à la ville de Paris.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -36,6 +31,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000385986464",
+            "@xml:id": "IL_ChevalierJacob.xml",
             "persName": {
                 "forename": "Jacob",
                 "surname": "Chevalier"
@@ -155,5 +151,13 @@
             "an de ſon chr pou Ieieeuion de e qai",
             "entreprend."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
     ]
 }

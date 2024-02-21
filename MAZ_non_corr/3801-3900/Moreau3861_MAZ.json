@@ -3,6 +3,7 @@
     "corrector": false,
     "entête": {
         "form": "vers",
+        "genre": "chanson",
         "handwritten_note": false,
         "table_of_content": false,
         "illustration": false,
@@ -13,8 +14,8 @@
         ],
         "change": {
             "@status": "corrected",
-            "@when": "2022-02-17",
-            "@who": "AB"
+            "@when": "2022-09-19",
+            "@who": "KA"
         },
         "titre": "Triolets pour le temps présent.",
         "dates": {
@@ -22,7 +23,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
@@ -42,6 +43,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000108647130",
+            "@xml:id": "IL_BoudevilleClaude.xml",
             "persName": {
                 "forename": "Claude",
                 "surname": "Boudeville"
@@ -201,5 +203,11 @@
             "Viue Mazarin &amp; la Fronde.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "7",
+        "8",
+        "9",
+        "10"
     ]
 }

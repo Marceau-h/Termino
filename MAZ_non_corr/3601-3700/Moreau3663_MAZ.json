@@ -91,7 +91,9 @@
             "@source": "Mazarine",
             "#text": "Sans Lieu"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "4"
     },
     "texte": [
@@ -165,5 +167,10 @@
             "oi out de aniſae, lsare ſuadde la lie des¬",
             "isd Nairmonſftier, &amp; pluſieurs autres"
         ]
+    ],
+    "pages_number": [
+        "7",
+        "9",
+        "10"
     ]
 }

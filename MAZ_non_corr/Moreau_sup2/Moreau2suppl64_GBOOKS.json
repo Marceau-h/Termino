@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
             "@status": "not_corrected"
         },
@@ -18,10 +17,11 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
-            "@when": "1652"
+            "@when": "1652",
+            "#text": "1652"
         },
         "pubPlace": {
             "@ref": "geonames:2988507",
@@ -30,6 +30,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000077171175",
+            "@xml:id": "IL_LePorteurSimon.xml",
             "persName": {
                 "forename": "Simon",
                 "surname": "Le Porteur"
@@ -239,5 +240,15 @@
             "FIN.",
             "."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

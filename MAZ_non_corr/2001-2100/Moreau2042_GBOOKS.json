@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1651-02-06",
         "change": {
             "@status": "not_corrected"
@@ -19,7 +18,10 @@
             "@when": "2021-06-08",
             "#text": "8 juin 2021"
         },
-        "author": "Parlement de Paris",
+        "author": {
+            "@ref": "isni:0000000121755355",
+            "orgName": "Parlement de Paris"
+        },
         "pubDate": {
             "@source": "Moreau",
             "@when": "1651",
@@ -30,7 +32,9 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "4"
     },
     "texte": [
@@ -117,5 +121,11 @@
             "Sgné, GVYET.",
             "Parus ce r2. Febrer 165I."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4"
     ]
 }

@@ -22,14 +22,19 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": [
             {
                 "@source": "Mazarine",
                 "@when": "1649",
                 "#text": "1649"
             },
-            null
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-03-20",
+                "@notAfter": "1649-04-10",
+                "#text": "fin mars, début avril\n            1649"
+            }
         ],
         "pubPlace": {
             "@source": "Mazarine",
@@ -38,6 +43,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000367213580",
+            "@xml:id": "IL_SassierGuillaume.xml",
             "persName": {
                 "forename": "Guillaume",
                 "surname": "Sassier"
@@ -211,5 +217,14 @@
             "Car vous pouuez nous la donner..",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "9",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

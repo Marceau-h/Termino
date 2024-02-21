@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-02-19",
         "change": {
             "@status": "not_corrected"
@@ -20,7 +19,12 @@
             "#text": "8 juin 2021"
         },
         "author": {
-            "name": "H.R.P."
+            "persName": {
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "H.R.P."
+                }
+            }
         },
         "pubDate": {
             "@source": "Moreau",
@@ -34,6 +38,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000108989536",
+            "@xml:id": "IL_HenaultJean.xml",
             "persName": {
                 "forename": "Jean",
                 "surname": "Hénault"
@@ -219,5 +224,14 @@
             "16 49.",
             "H R. P."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

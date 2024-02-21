@@ -4,22 +4,21 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1651-04-18",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Lettre écrite à monseigneur l'archevêque d'Ambrun\n                    (sic) par un clerc de son diocèse, sur l'opposition formée au sceau par\n                    l'assemblée du clergé de France, tenue à Paris, et signée de lui, à la\n                    déclaration du roi poursuivie et depuis obtenue et vérifiée par le Parlement de\n                    Paris pour exclure les cardinaux, même françois, de l'entrée du conseil du\n                    roi.",
+        "titre": "Lettre écrite à monseigneur l'archevêque d'Ambrun (sic)\n          par un clerc de son diocèse, sur l'opposition formée au sceau par l'assemblée du clergé de\n          France, tenue à Paris, et signée de lui, à la déclaration du roi poursuivie et depuis\n          obtenue et vérifiée par le Parlement de Paris pour exclure les cardinaux, même françois,\n          de l'entrée du conseil du roi.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-06-08",
             "#text": "8 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1651",
@@ -37,7 +36,9 @@
                 "#text": "Paris"
             }
         ],
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "23"
     },
     "texte": [
@@ -231,20 +232,13 @@
             "alis terram colé- il, de prier Dieu à l’Autel pour celuy qui a voulu tirer,",
             "tibus,illa tanum le Preſtre de l’Autel. Si vous auiez, Monſeigneur, per¬",
             "Deum colerer; &amp;",
-            "ad victü atq; alimentü ab vndecim tribubus de fructibus qui naſcebirur, decimas",
-            "per¬",
-            "ciperet:Quod totum fiébat de authoritate &amp; diſpoſitione diuina, vt qui",
-            "operaionib?",
-            "diuinis inſſtebant in nulla re auocarentur, nec cogitare aut agere ſœcularia",
-            "oge¬",
-            "tur. &amp;c. Idem eod. Et ideo victor cum contra formã nupes in Concilio a",
-            "Sacerdotib",
-            "datam auſus ſit tutorem conſtituere, non eſt quod pro dermitione eius apud vos",
-            "fiat",
-            "oblatio, aut deprecatio aliqua nomine eius in Eccleſa frequentetur:neque enim",
-            "apud",
-            "alare Dei meretur nominariin Sacerdotum prece qui ab altari Sacerdotes &amp;",
-            "mini¬",
+            "ad victü atq; alimentü ab vndecim tribubus de fructibus qui naſcebirur, decimas per¬",
+            "ciperet:Quod totum fiébat de authoritate &amp; diſpoſitione diuina, vt qui operaionib?",
+            "diuinis inſſtebant in nulla re auocarentur, nec cogitare aut agere ſœcularia oge¬",
+            "tur. &amp;c. Idem eod. Et ideo victor cum contra formã nupes in Concilio a Sacerdotib",
+            "datam auſus ſit tutorem conſtituere, non eſt quod pro dermitione eius apud vos fiat",
+            "oblatio, aut deprecatio aliqua nomine eius in Eccleſa frequentetur:neque enim apud",
+            "alare Dei meretur nominariin Sacerdotum prece qui ab altari Sacerdotes &amp; mini¬",
             "ſt.os voluit auocare, &amp;c."
         ],
         [
@@ -464,8 +458,7 @@
             "qui auror fue¬",
             "verſes rencontres, neantmoins il eſt ſiavantageux pour at augeni",
             "faire voir que l’adminiſtrarion des Cardinaux, &amp; géné eenſus &amp; tribu¬",
-            "ralemens de cous les Eceleſaſtiques, eſt funeſte à la Fran. ti, &amp; ſeuere",
-            "ali¬"
+            "ralemens de cous les Eceleſaſtiques, eſt funeſte à la Fran. ti, &amp; ſeuere ali¬"
         ],
         [
             "quando Caro- ce, &amp; a tant de rapport aux deportemens de voſtre",
@@ -480,20 +473,14 @@
             "Sauoſi, de ho roles.",
             "ſacerdore liberi",
             "erinus. Quo verbo territus Ambianenſis confeſtim pet Duacum Auenionem ſe te¬",
-            "cepie, exporcato ingenti theſauto, quen ſibi ex publico contraxerat. Illud ſi",
-            "quſ¬",
+            "cepie, exporcato ingenti theſauto, quen ſibi ex publico contraxerat. Illud ſi quſ¬",
             "dem nonnunquam compertum eſt inter Francos plus damni in rem publicam iu¬",
             "uehi dum ſacerdotis conſilio res agirur, quam cum prudens aliquis ex ſaculi no¬",
-            "bilitate rebus gerendis prœficitur:iſle enim neſcio qua inſatabili ambitione",
-            "ou¬",
-            "nia ſibi vendicat: hic populi miſertus, &amp; communitauis detrimentumſuum eſſe",
-            "ra¬",
-            "us, reipublice bene, vt poteſt, conſulit: Ille faftun &amp; pompam ex dignitate",
-            "me¬",
-            "iens, e audaciùs diuiias congerit, quo minus vltionem timet Eceleſiaſtica",
-            "liber¬",
-            "tate protectus: hic autem opes ſuas cum republica coniunctas eſſe non ignarms,",
-            "ex",
+            "bilitate rebus gerendis prœficitur:iſle enim neſcio qua inſatabili ambitione ou¬",
+            "nia ſibi vendicat: hic populi miſertus, &amp; communitauis detrimentumſuum eſſe ra¬",
+            "us, reipublice bene, vt poteſt, conſulit: Ille faftun &amp; pompam ex dignitate me¬",
+            "iens, e audaciùs diuiias congerit, quo minus vltionem timet Eceleſiaſtica liber¬",
+            "tate protectus: hic autem opes ſuas cum republica coniunctas eſſe non ignarms, ex",
             "publico incommodo priuatum quoque auguratur : nam qui res ſuas ex reipublicz",
             "ſtaru conſiderat, illas ſine hac nequaquan ſtare poſſe intelſigie.",
             "Comimes es ſes Iean Balûie ne de bas lieu, fils d’vn tailleur d’habits à̀",
@@ -764,17 +751,13 @@
             "ea de cauſa olim loanni Dormanio Bellouacorum Epiſcopo ac Pranci Cancellario",
             "adempta ſigilla à Ioanne, quod in Cardinalium numerû cooptatus duobus dominis",
             "ſeruire non poſſet: ob eandẽ cauſam ſoannem Baluam, &amp; Thoma V olſum Cardi¬",
-            "nales à Ludouico Xl.&amp; Henrico VIlI. Anglorum rege male multatos eſſe, quod",
-            "per",
+            "nales à Ludouico Xl.&amp; Henrico VIlI. Anglorum rege male multatos eſſe, quod per",
             "eos magnas calamitates regnis vtîuſq; importatas conſtaret. Venetum ſenatum,",
-            "qui merito omnis ciuilis prudentie officina vocari debeat, id diligenter",
-            "cauere,",
-            "apud quem ſactis initiati nullam reipublicz partem attingunt :memoriavero",
-            "patrum",
+            "qui merito omnis ciuilis prudentie officina vocari debeat, id diligenter cauere,",
+            "apud quem ſactis initiati nullam reipublicz partem attingunt :memoriavero patrum",
             "noſtrorum peruulgatü quid Cardinalis Ambianenſisloannes à Grangia Carol0 VI.",
             "Rege molitus ſit, qui majore patientia quam decuit toleratus, poſtremo Francia",
-            "excedere coactus eſt, ablatiſque ingentibus theſauris, potentia in reguo parta",
-            "non",
+            "excedere coactus eſt, ablatiſque ingentibus theſauris, potentia in reguo parta non",
             "minus abſens penicios vſus eſt, quam prſens fecerat &amp;c.",
             "Thaan. beſtor. lib. a23. ann. 1559. pag. 95. Ltter. ."
         ],
@@ -955,5 +938,30 @@
             "buſſon, Ar cheueſque d’Ambrun, Preſidont:Et plus bas,",
             "Par Noſſelgneurs de l’Aſemblee. M. Tvbovr."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23"
     ]
 }

@@ -4,23 +4,27 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1651-03-11",
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Lettre envoyée au Roy par un docteur en theologie.",
+        "titre": "Lettre envoyée au Roy par un docteur en\n          theologie.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-06-08",
             "#text": "8 juin 2021"
         },
         "author": {
-            "name": "A.L."
+            "persName": {
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "A. L."
+                }
+            }
         },
         "pubDate": {
             "@source": "Moreau",
@@ -28,7 +32,9 @@
             "#text": "1651"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "19"
     },
     "texte": [
@@ -616,5 +622,26 @@
             "Le tres-obeiſſant, &amp; tres-fidele",
             "ſeruiteur &amp; ſujet A. L."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
     ]
 }

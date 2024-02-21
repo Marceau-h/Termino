@@ -3,15 +3,20 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "lettre",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "lettre",
+            "burlesque",
+            "anagramme"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-01-11",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-19",
+            "@who": "AB"
         },
         "titre": "Coq-a-l'asne, ou Lettre burlesque du sieur Voiture\n          ressuscité, au preux chevalier Guischeus, aliàs le mareschal de Grammont. Sur les affaires\n          & nouvelles du temps.",
         "dates": {
@@ -21,8 +26,7 @@
         },
         "author": [
             {
-                "@role": "alleged_author",
-                "@source": "Tallemant_des-Réaux",
+                "@source": "Mazarine",
                 "@ref": "isni:0000000396445268",
                 "persName": {
                     "forename": "Jean-François",
@@ -30,6 +34,7 @@
                 }
             },
             {
+                "@source": "Mazarine",
                 "@ref": "isni:0000000115879407",
                 "persName": {
                     "forename": "Vincent",
@@ -37,17 +42,26 @@
                 }
             }
         ],
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1649",
-            "#text": "1649"
-        },
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1649-02-14",
+                "@notAfter": "1649-02-21",
+                "#text": "troisième semaine de\n            février 1649"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
             "#text": "Paris"
         },
         "publisher": {
+            "@role": "dubious",
             "persName": {
                 "forename": "Veuve et héritiers",
                 "surname": "Sarasin"
@@ -57,37 +71,23 @@
     },
     "texte": [
         [
-            "vr¬",
-            "O-A",
-            "COOALASNE",
+            "COQ-A-L'ASNE",
             "OV",
-            "T",
             "LETTRE BVRLESQVE",
-            "DV SIEV R",
-            "VOITVRE RESS VSCITE.",
-            "AV PRE V X",
-            "CHE VALIER GVISCHEVS",
+            "DV SIEVR",
+            "VOITVRE RESSVSCITE.",
+            "AV PREVX",
+            "CHEVALIER GVISCHEVS",
             "aliàs",
             "LE MARESCHAL DE GRAMMONT.",
             "Sur les affaires &amp; nouuelles du temps.",
-            "7",
-            "A,",
-            "ſaiſt,8",
-            "(eear le",
-            "ARIS,",
-            "Che la efue eee de u heut re poneonſeil",
+            "A PARIS,",
+            "Chez la vefue &amp; heritiers de l'Autheur, ruë Bonconſeil,",
             "à l’enſeigne du bout du Monde.",
             "M. DC. XLIX."
         ],
         [
-            "-be a ae -"
-        ],
-        [
             "3",
-            "e laſddl d dl d d ſlt dſe e edlide de de d&amp; odlſe ndl dl elede ddl diel",
-            "eiie ſlede ieſsſeſ io ei dfſ oeieeſe esſides",
-            "&amp;t",
-            "ſdſeedeſe eele e eefeeſſeps s qſſesqee;",
             "COQ-A-L’ASNE OVLETTRE BVRLESQVE",
             "du Sieur Voiture reſſuſcité, au preux Cheualier",
             "Guiſcheus, aliàs le Mareſchal de Grammont.",
@@ -240,5 +240,14 @@
             "1649.",
             "u"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

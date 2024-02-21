@@ -12,18 +12,13 @@
             "@when": "2021-11-10",
             "@who": "AB"
         },
-        "titre": "Description véritable d’un phantôme (sic) qui\n                    s'est apparu (sic) dans le cabinet de la reine (à Saint- Germain).",
+        "titre": "Description véritable d’un phantôme (sic) qui s'est\n          apparu (sic) dans le cabinet de la reine (à Saint- Germain).",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -34,10 +29,7 @@
             "#text": "Sans Lieu"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "4"
     },
@@ -117,5 +109,11 @@
             "meſne qe l’on luy aoit repreſeté, ella eur grand’",
             "frayeur, &amp; peu apres le phantoſme diſparut."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4"
     ]
 }

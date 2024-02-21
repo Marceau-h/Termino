@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1651-10-08",
         "change": {
             "@status": "not_corrected"
@@ -19,7 +18,9 @@
             "@when": "2021-06-08",
             "#text": "8 juin 2021"
         },
-        "author": "France",
+        "author": {
+            "orgName": "France"
+        },
         "pubDate": {
             "@source": "Moreau",
             "@when": "1651",
@@ -32,6 +33,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000367213580",
+            "@xml:id": "IL_SassierGuillaume.xml",
             "persName": {
                 "forename": "Guillaume",
                 "surname": "Sassier"
@@ -141,5 +143,11 @@
             "en mes Prouinces de Champagne &amp; Brie.",
             "eeeeE¬"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4"
     ]
 }

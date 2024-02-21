@@ -2,13 +2,15 @@
     "imprimatur": null,
     "corrector": false,
     "entête": {
-        "form": "vers/prose",
-        "genre": "lettre",
-        "subgenre": [
-            null,
-            null
+        "form": [
+            "vers",
+            "prose"
         ],
+        "genre": "lettre",
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-03-15",
         "change": {
             "@status": "not_corrected"
@@ -20,8 +22,10 @@
             "#text": "8 juin 2021"
         },
         "author": {
+            "@ref": "isni:0000000359658280",
             "persName": {
-                "name": "Auremesnil (D')"
+                "forename": "François de",
+                "surname": "Pardieu d'Auremesnil"
             }
         },
         "pubDate": {
@@ -36,6 +40,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121237136",
+            "@xml:id": "IL_CoulonVeuvedAntoine.xml",
             "persName": {
                 "forename": "Veuve d'Antoine",
                 "surname": "Coulon"
@@ -89,5 +94,10 @@
             ".",
             "l¬e"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4"
     ]
 }

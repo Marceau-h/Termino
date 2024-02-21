@@ -3,15 +3,20 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit",
+            "lettre"
         ],
-        "subject": null,
+        "subject": "Retz, Cardinal de (1613-1679)",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-02-28",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
         "titre": "Relation de ce qui s'est passé à Rome en la promotion de\n          monseigneur le coadjuteur de Paris au cardinalat et en la confirmation faite par Sa\n          Sainteté de l'arrêt de la cour de Parlement de Paris donné contre le cardinal\n          Mazarin.",
         "dates": {
@@ -19,7 +24,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -30,13 +35,14 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
         [
             "RELATION",
-            "D1I",
             "DE CE QVI SEST PASSE",
             "A ROME,",
             "EN LA PROMOTION DE",
@@ -45,56 +51,13 @@
             "tion faite par ſaSaincteté, de l’Arreſt",
             "de la Cour de Parlement de Paris,",
             "donné contre le Cardinal Mazarin.",
-            "A PAR IS,",
+            "A PARIS,",
             "M DC LII."
         ],
         [
-            ",5, ,",
-            "71;",
-            ".",
-            "T",
-            "p¬? ,",
-            "3",
-            "l",
-            "ee1",
-            "..",
-            ".",
-            "¬3,",
             "1",
-            "I",
-            "1. l",
-            ". 3",
-            ":1",
-            "!AI",
-            "11.",
-            "ilr..",
-            "ii r",
-            ". .",
-            "¬.... oi",
-            "ii l eml e",
-            "ii ll ese",
-            "n...;",
-            "2.",
-            "e",
-            "-",
-            "r",
-            "’ i.",
-            "a ’ds",
-            "1 c",
-            "2IIA A",
-            "s. eey-ba, apa a",
-            "JJ t3a",
-            ". . 1",
-            "Coogle",
-            "Diili"
-        ],
-        [
-            "1",
-            "mouefs êpt",
-            "ſdi uvu ve’orurpe",
-            "ep",
-            "EAToN DE CE",
-            "paſ à Rome, nla Pmmnon de laſe",
+            "RELATION DE CE QVI S'EST",
+            "paſſé à Rome, nla Pmmnon de laſe",
             "eurle coaduuteur de Paris au Cmdina",
             "la, cel n laſrmaionſauiteparſei oei,",
             "de l’Arſdt de la Cour de Pademen",
@@ -294,5 +257,14 @@
             "2 Farie ;.",
             "Voſtre, &amp;c¬"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

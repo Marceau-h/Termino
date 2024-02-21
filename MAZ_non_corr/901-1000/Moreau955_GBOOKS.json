@@ -12,7 +12,7 @@
             "@when": "2021-11-18",
             "@who": "AB"
         },
-        "titre": "Déclaration faite par Son Altesse Royale et par\n                    M. le Prince dans le Parlement, chambre des Comptes, cour des Aydes et Maison de\n                    ville de Paris, sur le sujet de l'éloignement du cardinal Mazarin.",
+        "titre": "Déclaration faite par Son Altesse Royale et par M. le\n          Prince dans le Parlement, chambre des Comptes, cour des Aydes et Maison de ville de Paris,\n          sur le sujet de l'éloignement du cardinal Mazarin.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
@@ -27,7 +27,7 @@
                 }
             },
             {
-                "@ref": "0000000121209573",
+                "@ref": "isni:0000000121209573",
                 "persName": {
                     "forename": "Louis",
                     "surname": "de Bourbon-Condé"
@@ -47,6 +47,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000359773502",
+            "@xml:id": "IL_GuillemotVeuvedeJean.xml",
             "persName": {
                 "forename": "(veuve de Jean)",
                 "surname": "Guillemot"
@@ -175,5 +176,13 @@
             "&amp; quelque peu du ſens commun.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

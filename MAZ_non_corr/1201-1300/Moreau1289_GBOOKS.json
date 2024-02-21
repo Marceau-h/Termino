@@ -1,17 +1,21 @@
 {
-    "imprimatur": null,
+    "imprimatur": "AVEC PERMISSION.",
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "burlesque"
         ],
-        "subject": null,
+        "subject": "Paix",
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-03-30",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-08",
+            "@who": "AB"
         },
         "titre": "Établissement universel de la paix générale, ou Sentences\n          morales et politiques sur les plus importantes matières de l’État contre les usurpateurs\n          du bien public, où le droit des gens et la cause commune sont équitablement défendus, en\n          faveur des souverains et des peuples, touchant la véritable création et la légitime\n          autorité des rois, et la mutuelle obligation des princes envers leurs sujets et des sujets\n          envers les princes; pièce rare et instructive pour le tiers état et pour la\n          noblesse.",
         "dates": {
@@ -20,13 +24,19 @@
             "@instant": "false",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1649",
-            "@instant": "false",
-            "#text": "1649"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@notBefore": "1649-03",
+                "#text": "peu de temps après la paix de\n            Saint-Germain"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -34,6 +44,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000114066324",
+            "@xml:id": "IL_VariquetPierre.xml",
             "persName": {
                 "@instant": "false",
                 "forename": "Pierre",
@@ -44,33 +55,30 @@
     },
     "texte": [
         [
-            "HSTADlSSrMENT",
-            "RI",
+            "ESTABLISSEMENT",
             "VNIVERSEL",
             "DE LA PAIX GENERALE,",
             "SENTENCES MORALES",
             "ET POLITIQVES",
-            "Sur lesplus importantes matieres del’Eſtae",
-            "Contre les vſrpateurs du bien pablie.",
+            "Sur les plus importantes matieres de l’Eſtat.",
+            "Contre les vſrpateurs du bien public.",
             "Où le droit des gens, &amp; la cauſe commune",
-            "ſont equitablement defſend,",
-            "En faueur des Souuerains &amp; des Peupler.",
-            "Tolpue le ninihle orenon d ls lee inmuhons",
-            "da oy, &amp; la muuuele obliganio d p",
-            "enuers leurs Sujets, &amp; des Sujees enuenrs",
+            "ſont equitablement defendus.",
+            "En faueur des Souuerains &amp; des Peuples.",
+            "Touchant la ueritable creation &amp; la legitime authorité",
+            "des Roys, &amp; la mutuelle obligation des Princes",
+            "enuers leurs Sujets, &amp; des Sujets enuers",
             "les Princes.",
-            "Piece rare &amp; inſutiue er pour le Ters Eat,",
+            "Piece rare &amp; inſtrctiue &amp; pour le Tiers Eſtat,",
             "&amp; pour la Nobleſſe.",
-            "a",
             "A PARIS.",
-            "e Pune Vel t pue lan de lauu",
+            "Chez PIERRE VARIQVET, ruë S. Iean de Latran",
             "deuant le Collegs Royal.",
-            "DC XLIX.",
-            "AEG PERISSION."
+            "M. DC XLIX.",
+            "AVEC PERMISSION."
         ],
         [
-            "a. a",
-            "pppppea",
+            "3",
             "ESTBLISSEENT VNVERSEL",
             "de la Paie generale, oas Sentencee Morales",
             "&amp; Palitaques ſſor las plr importante",
@@ -605,8 +613,24 @@
             "derenmede edoernelementds peſonne, adlſoui oui",
             "aupn recu des graces ſi extraonrdinaires, que eelles qu’is",
             "Ious ont faiees, n nous dounant la Paix que nous auions",
-            "aat deſirée.",
-            "F 1 N."
+            "tant deſirée.",
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

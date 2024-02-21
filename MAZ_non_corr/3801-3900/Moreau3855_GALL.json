@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "chantable",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Chanson",
+            "triolet"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-03-30",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-21",
+            "@who": "AB"
         },
         "titre": "Triolets de Saint-Germain.",
         "dates": {
@@ -21,6 +25,7 @@
         },
         "author": {
             "@ref": "isni:0000000120990126",
+            "@source": "TallementDesRéaux",
             "persName": {
                 "forename": "Paul",
                 "surname": "Scarron"
@@ -32,34 +37,22 @@
             "#text": "1649"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
         [
-            "r pe ¬",
-            "T 1",
-            "LE 19",
-            "1",
-            "L I IL LL",
+            "TRIOLETS",
             "DE",
             "SAINCT GERMAIN",
-            "AJ",
-            "1Te Q",
-            "A e x",
-            "le er",
-            "t"
+            "M. DC. XLIX."
         ],
         [
-            "oaaaaa ga,’ail mm a--ma d, anamamt amaaoa-n aais",
-            "¬¬",
-            "II T TT C",
-            "I AI",
-            "11",
-            "I IIIL L OAII N",
-            "N",
-            "ayr",
-            "erman.",
+            "3",
+            "TRIOLETS DE SAINCT",
+            "Germain.",
             "E pauure Monſeigneur d’Elbœuf,",
             "LLQui n’auoit aucune reſource,",
             "Equi ne mange que du bœuf:",
@@ -331,8 +324,17 @@
             "Des maillotins les plus fidelles,",
             "Dépeſchez Monſieur le Tellier.",
             "A Dame Aubry ſon eſcabelle.",
-            "PIN.",
-            "i"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

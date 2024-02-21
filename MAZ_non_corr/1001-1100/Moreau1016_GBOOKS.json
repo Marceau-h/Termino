@@ -2,7 +2,10 @@
     "imprimatur": null,
     "corrector": false,
     "entête": {
-        "form": "vers/prose",
+        "form": [
+            "vers",
+            "prose"
+        ],
         "genre": "non renseigné",
         "handwritten_note": false,
         "table_of_content": false,
@@ -12,18 +15,13 @@
             "@when": "2021-11-10",
             "@who": "AB"
         },
-        "titre": "Dernier exorcisme (le) du cardinal Mazarin,\n                    présenté à la reine, pour l’obliger à sortir au plus tôt de la France, par un de\n                    ses meilleurs amis.",
+        "titre": "Dernier exorcisme (le) du cardinal Mazarin, présenté à la\n          reine, pour l’obliger à sortir au plus tôt de la France, par un de ses meilleurs\n          amis.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -219,10 +217,8 @@
             "cõme eux, iuſques aux animaux, t’auroit forcé de r’encrer dans les",
             "brûlantes cauernes de ton Montgibel, qui t’a vomy pour noſtre",
             "donal dõt ple nle",
-            "tre diſentqe lu, malheur, ou ſi la priere aduioit eu des forces eſficaces pour",
-            "cée",
-            "eu fus renpnr effet, les Prieres de Quaranté heures faites pat toute la",
-            "France",
+            "tre diſentqe lu, malheur, ou ſi la priere aduioit eu des forces eſficaces pour cée",
+            "eu fus renpnr effet, les Prieres de Quaranté heures faites pat toute la France",
             "auec tant de zele, &amp; tant de Meſſes dites à cette intention,",
             "tant de Proceſfions Generales, &amp; de vœux faits au Ciel, pour",
             "le meſme ſuiet par vne infinité de pcrſonnes pieufes &amp; deuotes,",
@@ -288,5 +284,14 @@
             "!",
             "1"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

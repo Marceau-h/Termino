@@ -1,16 +1,18 @@
 {
-    "imprimatur": null,
+    "imprimatur": "AVEC PERMISSION.",
     "corrector": false,
     "entête": {
         "form": "vers",
-        "subgenre": [
-            null,
-            null
-        ],
+        "genre": "burlesque",
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-01-26",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-07",
+            "@who": "AB"
         },
         "titre": "Diverses pièces sur les colomnes (sic) et piliers des\n          maltôtiers, et les vingt rimes sur leur patriarche.",
         "dates": {
@@ -18,12 +20,7 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -36,6 +33,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000060006122",
+            "@xml:id": "IL_GuilleryJacques.xml",
             "persName": {
                 "forename": "Jacques",
                 "surname": "Guillery"
@@ -45,70 +43,34 @@
     },
     "texte": [
         [
-            "nDC",
-            "DIIE I L9",
+            "DIVERSES PIECES",
             "SVR LES",
             "COLOMNES ET PILLIERS",
             "DES",
-            "I TJT",
             "MALTOTIERS",
             "Et les vingt Rimes ſur leur Patriarche.",
-            "e",
-            "I1",
             "A PARIS",
-            "ChezIACQVES GVILLERY, ruë des Sept¬",
+            "Chez IACQVES GVILLERY, ruë des Sept¬",
             "Voyes, deuant le College de Fotet,",
             "proche Mont-Aigu.",
             "M. DC. XLIX.",
-            "AVEC PERISSION"
+            "AVEC PERMISSION."
         ],
         [
-            "’",
-            "an",
-            "R",
-            "tt",
-            "eeee",
-            "eee3",
-            "a z",
-            "a VR n",
-            "l ſ ln da lſee",
-            "otllllſ ei",
-            "i",
-            "VSSdls sllſſdtoeedil ieeeeeei",
-            "Veeesſeeeee oei eoegppetins",
-            "E",
-            "e",
-            "Sſ&amp;S",
-            "A",
-            "puere v u",
-            "¬¬ NG",
-            "T T7",
-            "DIVERSE IEE9",
-            "1V",
-            "SVRLES",
-            "D DT",
-            "V",
-            "COLOMNESE1 ’ILLI19",
-            "s t",
-            "4.",
-            "1 J",
-            "A A",
-            "¬",
+            "3",
+            "DIVERSES PIECES",
+            "SVR LES",
+            "COLOMNES ET PILLIERS",
             "DES",
-            "¬¬",
-            ".",
-            "IIT D E",
-            "I LE IINrI ID OV V",
-            "e",
+            "MALTOTIERS",
+            "ET LES VINGT RIMES SVR LEVR",
             "Patriarche.",
-            "ON corps eſt anſſi droit que ſon ame eſt boſſuë,",
-            "ſe",
+            "SON corps eſt anſſi droit que ſon ame eſt boſſuë,",
             "Tout le ionr il eſt froid, toute la nuict il ſuë,",
-            "R Son œil eſt aſſez doux: mais ſa langue nous tuë;",
-            "S1",
-            "’ Iamais à faire bien ſon cœur ne s’évertue,",
-            "Jl Sa conſeience craint ſur tout vne reueué",
-            "Jl eſt doux à ſeller, car il ne mord ny tue;",
+            "Son œil eſt aſſez doux: mais ſa langue nous tuë;",
+            "Iamais à faire bien ſon cœur ne s’évertue,",
+            "Sa conſeience craint ſur tout vne reueué",
+            "Il eſt doux à ſeller, car il ne mord ny tue;",
             "Saturne dominant, rend ſon humeur borruë,",
             "Merecure le ſubtil luy rend la main crochuë,",
             "Venus le rend ſuſpect d’vne teſte forchuë,",
@@ -343,5 +305,14 @@
             "andis que nous vuidons les plats.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

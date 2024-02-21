@@ -12,18 +12,13 @@
             "@when": "2021-11-10",
             "@who": "AB"
         },
-        "titre": "Députation du parlement d'Angleterre à M. le\n                    prince de Condé, sur l'offre d'une armée entretenue qu'il lui fait.",
+        "titre": "Députation du parlement d'Angleterre à M. le prince de\n          Condé, sur l'offre d'une armée entretenue qu'il lui fait.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -35,10 +30,7 @@
             "#text": "Paris"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "7"
     },
@@ -192,5 +184,12 @@
             "qu’il les en feroit congratuler par le Cheualier de la.",
             "Riuiere, enuoyé de la part en Angleterre, leur pronmiſt"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

@@ -4,14 +4,15 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-04-07",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-07",
+            "@who": "AB"
         },
         "titre": "Dernière (la) défaite des troupes du cardinal Mazarin par\n          les gens de monseigneur le Prince, avec la prise de son bagage, près de Montargis.",
         "dates": {
@@ -19,7 +20,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -29,34 +30,35 @@
             "@source": "Moreau",
             "#text": "Sans Lieu"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "7"
     },
     "texte": [
         [
-            "LA DERNIERE ’",
-            "A TT",
+            "LA DERNIERE",
             "DEFAIIE",
             "DES TROVPES",
             "DV CARDINAL",
-            "MAZLARIN",
-            "DE osotieuvn",
+            "MAZARIN",
+            "PAR LES GENS",
+            "DE MONSEIGNEVR",
             "LE PRINCE;",
             "Auec la priſe de ſon Bagage",
-            "prés de Montargis."
+            "prés de Montargis.",
+            "M. DC. LII."
         ],
         [
+            "3",
             "LA DERNIERE",
-            "T eg e",
-            "A1",
-            "1",
-            "L I IL 1 L .",
+            "DEFAITE",
             "Des Troupes du Cardinal",
             "Mazarin; Par les Gens de",
             "Monſeigneur le Prince;",
-            "rEc, Pls D oN",
-            "Dagage, pres M ontagis.",
-            "s Vs qu’enfin ie ſuis arriuéà bon",
+            "AVEC LA PRISE DE SON",
+            "Bagage, pres M ontagis.",
+            "PVIS qu’enfin ie ſuis arriuéà bon",
             "Itur e e e enuene pe",
             "oreilles ſauues a Paris, ou ie vois",
             "a- que la liberté de dire les veritez",
@@ -165,8 +167,15 @@
             "aue ſes autres troupes afin de marcher en",
             "gros, pour paſſer les riuieres de Seine &amp;",
             "d’Ionne.",
-            "N",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

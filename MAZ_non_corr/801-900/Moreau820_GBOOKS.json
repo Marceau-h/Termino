@@ -3,15 +3,20 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "courrier",
+            "périodique"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-04-20",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-19",
+            "@who": "AB"
         },
         "titre": "Courrier (le) de la cour, apportant nouvelles de tout ce\n          qui s'est passé en cour, depuis le dixiesme de ce mois (d’avril) jusqu’au départ du roy de\n          la ville de Gien (20), et de la route qu'a prise Sa Majesté pour son retour à\n          Paris.",
         "dates": {
@@ -19,12 +24,19 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1652",
-            "#text": "1652"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1652-04",
+                "#text": "daté du 24 avril 1652"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -32,6 +44,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121226728",
+            "@xml:id": "IL_LeGentilJacques.xml",
             "persName": {
                 "forename": "Jacques",
                 "surname": "Le Gentil"
@@ -41,27 +54,22 @@
     },
     "texte": [
         [
-            "..",
-            "rD",
-            "DID",
-            "ZIH H",
-            "VIIIE",
+            "LE",
+            "COVRRIER",
             "DE LA COVR",
             "APPORTANT NOVVELLES",
             "de tout ce qui s’eſt paſſé en Cour",
             "depuis le dixiéme de ce mois iuſ",
             "qu’au depart du Roy de la ville de",
-            "Gien. Et de la route qu’a prſe Sa",
+            "Gien. Et de la route qu’a priſe Sa",
             "Majeſté pour ſon retour à Paris.",
-            "Che 1",
-            "ſa",
-            "re",
             "A PARIS,",
-            "ACQVrS LE GENTIL pés Saint",
-            "eee ¬"
+            "Chez IACQVES LE GENTIL, prés Saint",
+            "Hilaire.",
+            "M. DC. LII."
         ],
         [
-            "LE COVRRIER DE CIEN,",
+            "LE COVRRIER DE GIEN,",
             "apportant ouulles de tout ce qui s’eſt paſſeé́",
             "enCour, depuis le io. de ce mois iuſqu’au de",
             "part du Roy de ladite vile; &amp; de la roure",
@@ -229,5 +237,14 @@
             "ſuite ſe rendreaà Pais où ildoit loger dns",
             "le Louure."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

@@ -24,7 +24,7 @@
         },
         "author": {
             "@ref": "isni:0000000121755355",
-            "persName": "France. Parlement de Paris"
+            "orgName": "Parlement de Paris"
         },
         "pubDate": [
             {
@@ -44,6 +44,7 @@
             "#text": "Orléans"
         },
         "publisher": {
+            "@xml:id": "IL_ParisMaria.xml",
             "@ref": "FRBNF:17146624",
             "persName": {
                 "forename": "Maria",
@@ -115,5 +116,10 @@
             "Signe,",
             "GUYET."
         ]
+    ],
+    "pages_number": [
+        "7",
+        "9",
+        "10"
     ]
 }

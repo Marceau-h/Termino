@@ -12,18 +12,13 @@
             "@when": "2021-11-18",
             "@who": "AB"
         },
-        "titre": "Coup (le) d’État de monseigneur le duc d'Orléans,\n                    envoyé à monseigneur le Prince, touchant les affaires présentes.",
+        "titre": "Coup (le) d’État de monseigneur le duc d'Orléans, envoyé\n          à monseigneur le Prince, touchant les affaires présentes.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -36,9 +31,10 @@
         },
         "publisher": {
             "@ref": "isni:0000000360953009",
+            "@xml:id": "IL_PetrinalJean.xml",
             "persName": {
                 "forename": "Jean",
-                "surname": "Petrinal"
+                "surname": "Pétrinal"
             }
         },
         "nbPages": "8"
@@ -232,5 +228,14 @@
             "enchainement de proſperitez.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

@@ -4,14 +4,21 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "subject": [
+            "Beaufort, François de Bourbon-Vendôme, duc de, 1616-1669",
+            "Nemours‎, Charles-Amédée de Savoie‎, duc de, 1624-1652",
+            "Duel, France, 17e siècle",
+            "Noblesse, France",
+            "Morale"
         ],
-        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-07-30",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-16",
+            "@who": "AB"
         },
         "titre": "La censure et l'antidote de quelques maximes\n          tres-pernicieuses, contenuës dans un libelle qui a pour titre, Le recit du duel déplorable\n          entre messieurs les ducs de Beaufort, & de Nemours. Addressé à la noblesse raisonnable\n          & chrestienne.",
         "dates": {
@@ -19,40 +26,49 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1652",
-            "#text": "1652"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1652",
+                "#text": "1652"
+            },
+            {
+                "@source": "Carrier",
+                "@notBefore": "1652-08-07",
+                "@notAfter": "1652-08-14",
+                "#text": "deuxième semaine\n            d'août 1652"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "12"
     },
     "texte": [
         [
             "LA",
-            "AVT 7 S",
-            "4",
-            "CEINVIE",
+            "CENSVRE",
             "ET",
             "L’ANTIDOTE",
             "DE QVELQVES MAXIMES",
             "tres-pernicieuſes, contenuës dans",
-            "vn libelle qui a ponr tierr,",
-            "Le recit du duel déplorable entre Meſiieurs le Dues",
+            "vn libelle qui a ponr titre,",
+            "Le recit du duel déplorable entre Meſsieurs le Ducs",
             "de Beaufort, &amp; de Nemours.",
-            "Aaddreſſé à la Nobleſſe Raiſonnable &amp; Chreſtienne."
+            "Addreſſé à la Nobleſſe Raiſonnable &amp; Chreſtienne.",
+            "A PARIS,",
+            "M. DC. LII."
         ],
         [
-            "C",
+            "3",
             "LA",
-            "7 TT",
-            "ENSVRE",
+            "CENSVRE",
             "ET",
             "L’ANTIDOTE",
             "DE QVELQVES MAXIMES",
@@ -434,5 +450,18 @@
             "au conraire.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
     ]
 }

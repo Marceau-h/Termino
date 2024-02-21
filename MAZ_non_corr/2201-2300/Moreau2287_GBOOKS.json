@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-02-03",
         "change": {
             "@status": "not_corrected"
@@ -19,7 +18,10 @@
             "@when": "2021-06-08",
             "#text": "8 juin 2021"
         },
-        "author": "Parlement de Normandie",
+        "author": {
+            "@ref": "isni:0000000480502587",
+            "orgName": "Parlement de Normandie"
+        },
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -30,7 +32,11 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Les imprimeurs & libraires du Roy",
+        "publisher": {
+            "@ref": "isni:0000000123698534",
+            "@xml:id": "IL_ImprimerieRoyale.xml",
+            "orgName": "Imprimeurs et libraires ordinaires du roi"
+        },
         "nbPages": "16"
     },
     "texte": [
@@ -479,5 +485,21 @@
             "7 ,",
             "A"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
     ]
 }

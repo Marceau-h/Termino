@@ -3,14 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Poésie à forme fixe",
+            "Ballade"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-06-26",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-15",
+            "@who": "AB"
         },
         "titre": "Ballade",
         "dates": {
@@ -18,29 +23,27 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
             "#text": "1649"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "4"
     },
     "texte": [
         [
-            "3",
-            ".",
-            "l",
-            "ô&amp;Aed8",
-            "AdA û aSdde",
-            "A",
-            "."
+            "BALLADE",
+            "M. DC. XLIX."
         ],
         [
             "3",
-            "J les, ui de lEſtat tanés, le gouenail",
+            "BALLADE",
+            "JVles, ui de lEſtat tanés, le gouenail",
             "Ildiniſre le plus otnd quil ſou ſans la Sdoil,",
             "Le mortel qui voudroit vous chanter en detail,",
             "Auroit ainſi que vous vn tres mauuais conſeil.",
@@ -91,10 +94,12 @@
             "Dans Rome l’on ſondoit ſans qu’il euſt le calcul",
             "le e e e e on eſoene de en la",
             "Comme il en eut iadis il en a del cſſ",
-            "ſe",
-            "eeee",
-            "v e",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4"
     ]
 }

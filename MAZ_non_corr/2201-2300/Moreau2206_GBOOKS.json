@@ -4,11 +4,10 @@
     "entête": {
         "form": "vers",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-03-22",
         "change": {
             "@status": "not_corrected"
@@ -22,7 +21,7 @@
         "author": {
             "@ref": "isni:0000000063043308",
             "persName": {
-                "name": "Longin-Toupin"
+                "surname": "Longin-Toupin"
             }
         },
         "pubDate": {
@@ -37,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000066450734",
+            "@xml:id": "IL_CailloueJacques.xml",
             "persName": {
                 "forename": "Jacques",
                 "surname": "Cailloué"
@@ -497,5 +497,15 @@
             "Ecqid maoraris, anxiuss? emas teris!",
             "Fre laqucos, vus, hos, laqueus, poteſt."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-08-26",
         "change": {
             "@status": "not_corrected"
@@ -21,7 +20,10 @@
         },
         "author": {
             "persName": {
-                "name": "L.M.F."
+                "addName": {
+                    "@type": "initiales",
+                    "#text": "L. M. F."
+                }
             }
         },
         "pubDate": {
@@ -34,7 +36,9 @@
             "@source": "Moreau",
             "#text": "Paris"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "16"
     },
     "texte": [
@@ -511,5 +515,23 @@
             "aſfectionné ſeruiteur,",
             "LM.F."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
     ]
 }

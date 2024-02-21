@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "Journal"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-04-16",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-13",
+            "@who": "AB"
         },
         "titre": "Journal poëtique de la guerre parisienne, dédié aux\n          conservateurs du roi, des lois et de la patrie, par M. Q. D. Fort -Lys.",
         "dates": {
@@ -21,6 +25,7 @@
         },
         "author": {
             "@ref": "isni:0000000061406291",
+            "@source": "Moreau",
             "persName": {
                 "forename": "Mathurin",
                 "surname": "Questier"
@@ -38,6 +43,8 @@
         },
         "publisher": {
             "@ref": "isni:0000000121237136",
+            "@xml:id": "IL_CoulonVeuvedAntoine.xml",
+            "@source": "Moreau",
             "persName": {
                 "forename": "Veuve d'Antoine",
                 "surname": "Coulon"
@@ -47,30 +54,17 @@
     },
     "texte": [
         [
-            "L...¬¬¬¬¬-¬¬¬¬¬¬¬¬¬¬¬¬-¬¬",
             "LE",
-            "T",
-            "TT R",
-            "Z!",
-            "l A l",
-            "I V HIN lL",
+            "IOVRNAL",
             "POETIQVE",
-            "DELA GVERRE",
-            "3",
+            "DE LA GVERRE",
             "PARISIENNE",
-            "D A",
             "DEDIE",
             "Aux Conſeruateurs du Roy des Loix,",
             "&amp; de la Patrie.",
-            "Pa. a. FoRLS.",
-            "S eodudedaeeis",
-            "leea e teeee",
-            "eer",
-            "31 e8",
+            "Par M. Q. d. FORT-LYS.",
             "A PARIS,",
-            ".Eaaaaaû nmdmmaa ûnmraaaaaaaheaaaaaaaaaaaaasaenaaaana",
-            "M. DC. XLIX.",
-            "1"
+            "M. DC. XLIX."
         ],
         [
             "3",
@@ -257,13 +251,16 @@
             "Ennemis de l’Eſtat ſe trouueront confus,",
             "Ne pouuant deſſus nous emporter le deſſus.",
             "C’eſt ce que ie te donne eſtimant ton merite:",
-            "Reçois- le, cher Lecteur, en attendant la ſuittpe",
-            "e",
-            "2",
-            "e",
-            "1!",
-            "2",
-            "e"
+            "Reçois- le, cher Lecteur, en attendant la ſuitte."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

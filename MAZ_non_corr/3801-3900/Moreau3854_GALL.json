@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "chantable",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Chanson",
+            "triolet"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1649-06-26",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-21",
+            "@who": "AB"
         },
         "titre": "Triolets de Paris",
         "dates": {
@@ -19,87 +23,37 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1649",
-            "#text": "1649"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Carrier",
+                "@when": "1649-07",
+                "#text": "juillet 1649"
+            }
+        ],
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
         [
-            "T V",
-            "e?",
-            "1 1",
-            "1.",
-            "L L L.",
-            "l?",
-            ".",
-            "¬",
-            "D E",
-            "AE",
-            "42A",
-            "L",
-            "ae",
-            "D",
-            "DCL"
+            "TRIOLETS",
+            "DE",
+            "PARIS.",
+            "M. DC. XLIX."
         ],
         [
-            "fã¬",
-            "1",
-            "¬",
-            "J",
-            "llri daeaea",
-            "¬",
-            "l",
-            "o",
-            "lla",
-            "ecs",
-            "l",
-            "¬",
-            "l",
-            "s",
-            "¬",
-            "i¬",
-            "e",
-            "iiiii",
-            "p",
-            "n",
-            "r",
-            "1",
-            "e¬",
-            "ilaie e",
-            "e",
-            "laa",
-            "1",
-            "tll",
-            "l",
-            "nl",
-            "lll",
-            "E",
-            "E",
-            "l",
-            "e",
-            "e",
-            "1",
-            "ll",
-            "al",
-            "et ae",
-            "ieia",
-            "s",
-            "a",
-            "s f¬",
-            "a"
-        ],
-        [
-            "3",
-            "paedpp¬",
-            "T",
+            "LES",
+            "TRIOLETS",
             "DE PARIS.",
-            "JEte plains, vile de Paris.",
+            "JE te plains, vile de Paris.",
             "Quand de pez ie te conſidere,",
             "Et quand ie vois dans ton pourpn1s,",
             "Ie te plains ville de Paris,",
@@ -147,9 +101,6 @@
             "Non"
         ],
         [
-            "1",
-            "1",
-            "1",
             "Non, non, ie m’aſſeure pour toy",
             "Suiuant qu’on t’en fſait la promeſſe,",
             "Que tu verras bien toſt le Roy,",
@@ -246,16 +197,16 @@
             "Que tu. receuras cette grace,",
             "Sus donc Paris releues toy,",
             "Ne redoute plus ice.",
-            "O",
-            "e¬",
-            ".",
-            "B je",
-            "se1",
-            "E",
-            "ſſ",
-            "¬",
-            "LA",
-            "FI N."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

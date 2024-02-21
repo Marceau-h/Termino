@@ -51,8 +51,6 @@
             "PRINCES,",
             "Et des Bourgeois de Paris.",
             "PRESENTE A SON ALTESSE ROYALE",
-            "<figure",
-            "type=\"decoration\" />",
             "A PARIS",
             "M. DC.",
             "LII."
@@ -589,7 +587,8 @@
             "Ne doucés pas de ma perſonne:",
             "Car au Diable ie m’abandonne",
             "Quand il me voudrat enleuer.",
-            "FIN. Concluſion."
+            "FIN.",
+            "Concluſion."
         ]
     ],
     "pages_number": [

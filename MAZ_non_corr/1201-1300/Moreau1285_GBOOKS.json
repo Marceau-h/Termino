@@ -4,10 +4,6 @@
     "entête": {
         "form": "prose",
         "genre": "non renseigné",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
         "handwritten_note": false,
         "table_of_content": false,
@@ -17,18 +13,13 @@
             "@when": "2021-11-15",
             "@who": "AB"
         },
-        "titre": "Esprit (l') du duc de Châtillon apparu à monsieur\n                    le prince de Condé.",
+        "titre": "Esprit (l') du duc de Châtillon apparu à monsieur le\n          prince de Condé.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -41,9 +32,10 @@
         },
         "publisher": {
             "@ref": "isni:0000000109088537",
+            "@xml:id": "IL_JacquardNicolas.xml",
             "persName": {
                 "forename": "Nicolas",
-                "surname": "Jacquart"
+                "surname": "Jacquard"
             }
         },
         "nbPages": "8"
@@ -238,5 +230,14 @@
             "dyn chacun, &amp; voſtre Noni ſera en bone",
             "odeur à tous les Peuples de la Fance."
         ]
+    ],
+    "pages_number": [
+        "5",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
     ]
 }

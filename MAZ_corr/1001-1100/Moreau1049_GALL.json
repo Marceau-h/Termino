@@ -46,7 +46,11 @@
             "DC. LI."
         ],
         [
-            "LA DESROUTE DES MAZARINS PAR LES",
+            "LA",
+            "DESROUTE",
+            "DES",
+            "MAZARINS",
+            "PAR LES",
             "FRONDEVRS",
             ". HE H",
             "LD F ILNL L V TOD.",
@@ -69,9 +73,9 @@
             "De",
             "quiprends-tu la confidence",
             "Dans les chefs d’œuures de tes mains:",
-            "Aij",
-            "<pb",
-            "n=\"3\" />",
+            "Aij"
+        ],
+        [
             "Tu ne ſuis rien que tes caprices,",
             "Puis que tu fais regner les",
             "vices,",
@@ -319,6 +323,7 @@
         "3",
         "4",
         "5",
-        "6"
+        "6",
+        "7"
     ]
 }

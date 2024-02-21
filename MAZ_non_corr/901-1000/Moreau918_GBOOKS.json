@@ -12,7 +12,7 @@
             "@when": "2021-11-16",
             "@who": "AB"
         },
-        "titre": "Déclaration du roi, par laquelle les présidiaux\n                    du ressort du parlement de Paris ont pouvoir de juger souverainement, tant en\n                    matière civile que criminelle.",
+        "titre": "Déclaration du roi, par laquelle les présidiaux du\n          ressort du parlement de Paris ont pouvoir de juger souverainement, tant en matière civile\n          que criminelle.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
@@ -36,10 +36,7 @@
             "#text": "Saint-Germain-En-Laye"
         },
         "publisher": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
+            "persName": "Sans Nom"
         },
         "nbPages": "4"
     },
@@ -142,5 +139,11 @@
             "Imprimé à Saint Gemain en Laye, 1649.",
             "Avec Privilé́ge du Roy."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4"
     ]
 }

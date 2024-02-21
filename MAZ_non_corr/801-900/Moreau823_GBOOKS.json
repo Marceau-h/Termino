@@ -3,15 +3,20 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "courrier",
+            "périodique"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-19",
+            "@who": "AB"
         },
         "titre": "Courier (le) de la paix, envoyé à Son Altesse\n          Royale.",
         "dates": {
@@ -19,7 +24,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,28 +37,27 @@
         },
         "publisher": {
             "@ref": "isni:0000000360431147",
+            "@xml:id": "IL_ClementPhilippe.xml",
             "persName": {
                 "forename": "Philippes",
-                "surname": "Clement"
+                "surname": "Clément"
             }
         },
         "nbPages": "7"
     },
     "texte": [
         [
-            "18.",
+            "LE",
             "COVRRIER",
-            "DE LA PAI X,",
-            "ENVOYEASON ALTESS E",
+            "DE LA PAIX,",
+            "ENVOYE A SON ALTESSE",
             "ROYALLE.",
-            "che pu",
-            ".",
-            "n uii us ei nu"
+            "A PARIS,",
+            "Chez PHILIPPES CLEMENT.",
+            "M. DC. LII."
         ],
         [
             "3",
-            "ce",
-            "pept dt et",
             "LE orE E LPI1,",
             "Enuoye à ſen leeſſe oyalle.",
             "Velque animoſité qui ſe trouue dans les",
@@ -170,5 +174,12 @@
             "uoit eſtre imnortelle, mais ce Miniſtre n’eſtant",
             "procedant de l’amour que nous portons à noſtre"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6"
     ]
 }

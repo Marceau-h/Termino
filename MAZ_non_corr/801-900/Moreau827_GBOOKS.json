@@ -3,14 +3,20 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "courrier",
+            "périodique",
+            "harangue"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-19",
+            "@who": "AB"
         },
         "titre": "Courrier (le) extraordinaire, apportant les nouvelles de\n          la réception de messieurs les gens du roi à Saint-Germain-en-Laye et de celle du courrier\n          d'Espagne au palais, avec les harangues qui ont été faites.",
         "dates": {
@@ -18,12 +24,19 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
-        "pubDate": {
-            "@source": "Moreau",
-            "@when": "1649",
-            "#text": "1649"
-        },
+        "author": null,
+        "pubDate": [
+            {
+                "@source": "Moreau",
+                "@when": "1649",
+                "#text": "1649"
+            },
+            {
+                "@source": "Antonomaz",
+                "@when": "1649-02",
+                "#text": "février 1649"
+            }
+        ],
         "pubPlace": {
             "@ref": "geonames:2988507",
             "@source": "Moreau",
@@ -31,9 +44,10 @@
         },
         "publisher": {
             "@ref": "isni:0000000110423283",
+            "@xml:id": "IL_LaHayeRolinde.xml",
             "persName": {
-                "forename": "Rolin",
-                "surname": "La Haye, De"
+                "forename": "Rolin de",
+                "surname": "La Haye"
             }
         },
         "nbPages": "8"
@@ -41,32 +55,23 @@
     "texte": [
         [
             "LE",
-            "I R",
-            "H",
-            "CVIIL",
-            "HXTRAORDINAIRE.",
-            "noArA ns ovvEElE",
-            "e epu onde ldeſieus leuoenie",
-            "ae et ſe s oernainenle pe udeeie",
-            "courier d’Eſpagne au Palais;",
-            "rEe rTorTs l e l eaN crE8",
-            "qui ont eſté faite.",
-            "A PAS.",
-            "1a y, rue d’Eſcoſſ,",
-            "c i peaeluaia.",
-            "oC. XLIxX"
+            "COVRIER",
+            "EXTRAORDINAIRE.",
+            "APPORTANT LES NOVVELLES",
+            "de la Reception de Meſſieurs les Gens",
+            "du Roy à S. Germain en Laye, &amp; de celle",
+            "du Courier d’Eſpagne au Palais;",
+            "AVEC TOVTES LES HARANGUES",
+            "qui ont eſté faites.",
+            "A PARIS,",
+            "Chez ROLIN DE LA HAYE rue d’Eſcoſſe,",
+            "prés le Puits Certain.",
+            "M. DC. XLIX."
         ],
         [
             "LE",
-            "T r",
-            "COVR",
-            "1",
-            ". L",
-            "H",
-            "L",
+            "COVRRIER",
             "EXTRAORDINAIRE,",
-            "V",
-            "T J",
             "APPORTANT LES NOVVELLES",
             "de la Recepion de Meſſieurs les gens du Roy à",
             "S. Germain en Laye, &amp; de celle du Courier d’Eſ",
@@ -285,5 +290,14 @@
             "douu veux le raclheper.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

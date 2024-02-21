@@ -18,7 +18,7 @@
             "@when": "2022-01-31",
             "#text": "31 janvier 2022"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Mazarine",
             "@when": "1650",
@@ -29,7 +29,9 @@
             "@ref": "geonames:2989317",
             "#text": "Orléans"
         },
-        "publisher": "Anonyme",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "3"
     },
     "texte": [
@@ -136,5 +138,11 @@
             "Courõ̃nes à la gloire du Roy, &amp; au bien de lõ peuple.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "7",
+        "8",
+        "9",
+        "10"
     ]
 }

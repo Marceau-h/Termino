@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-05-04",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-26",
+            "@who": "AB"
         },
         "titre": "Relation véritable de tout ce qui s'est fait et passé à\n          la défaite des troupes du maréchal de Turenne, à l'attaque de la ville d'Étampes, par\n          l'année de Son Altesse Royale, commandée par messieurs les comtes de Tavannes et de\n          Clinchamps.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,6 +36,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000121226728",
+            "@xml:id": "IL_LeGentilJacques.xml",
             "persName": {
                 "forename": "Jacques",
                 "surname": "Le Gentil"
@@ -41,66 +46,22 @@
     },
     "texte": [
         [
-            "D T ATT 1",
-            "1",
-            ". Z IL L LN",
+            "RELATION",
             "VERITABLE",
             "CONTENANT TOVT",
             "ce qui s’eſt paſſé à la defaite des",
-            "croupes du Mareſchal de Turenne, à",
-            "I’atta que de la ville d’Eſtampes, par",
-            "l’arrmiée de Son Alteſſe Royale, com",
-            "man dée par Meſſieurs les Comtes",
+            "troupes du Mareſchal de Turenne, à",
+            "l’attaque de la ville d’Eſtampes, par",
+            "l’armée de Son Alteſſe Royale, com",
+            "mandée par Meſſieurs les Comtes",
             "de Tauannes &amp; de Clinchamp.",
-            "A PARIS",
-            "Chez I CES LE GEnN T IL. ruë d’Eſcoſſe, à̀",
-            "enſeigne S. Ierôme, preés Saint Hilaire.",
+            "A PARIS,",
+            "Chez IACQVES LE GENTIL, ruë d’Eſcoſſe, à̀",
+            "l'enſeigne S. Ierôme, prés Saint Hilaire.",
             "M. DC. LII."
         ],
         [
-            "o,",
-            "l",
-            "E",
-            "1",
-            "?",
-            ".",
-            ".",
-            "Z .",
-            "Aſl e",
-            ".",
-            "S",
-            "p",
-            "rj",
-            ".",
-            "¬ 4.",
-            "Lfue: .a b",
-            "a",
-            "4.",
-            "¬.",
-            "a ¬ ¬..",
-            ". ,",
-            ".",
-            "¬¬¬. .",
-            ".s..",
-            ".",
-            "2.",
-            "1",
-            "¬ A",
-            "i",
-            "2j",
-            "., 1",
-            "!",
-            "?.",
-            "han",
-            "1:",
-            "¬.",
-            "H F",
-            "2",
-            "oomGoogle",
-            "1"
-        ],
-        [
-            "AAdAebib.",
+            "3",
             "RELATQN ERITALE",
             "contenant tout ce qui ’t paé àlade",
             "e de erri e eiſaer ſ taet",
@@ -249,5 +210,13 @@
             "niſon de cette Ville.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

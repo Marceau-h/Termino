@@ -3,15 +3,20 @@
     "corrector": false,
     "entête": {
         "form": "prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "narration",
+            "courrier",
+            "périodique"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1650-09-02",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-20",
+            "@who": "AB"
         },
         "titre": "Véritable (le) courrier bordelois apportant toutes sortes\n          de nouvelles de Bordeaux et de Loches.",
         "dates": {
@@ -19,7 +24,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1650",
@@ -29,12 +34,13 @@
             "@source": "Moreau",
             "#text": "Sans Lieu"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "8"
     },
     "texte": [
         [
-            "10",
             "LE VERITABLE",
             "COVRIER",
             "BORDELOIS.",
@@ -44,23 +50,9 @@
             "M. DC. L"
         ],
         [
-            "1",
-            "ii.",
-            "Y",
-            ".",
             "3",
-            "e1.",
-            "aur t ehaii -ur",
-            "4",
-            "onaeos ooogle"
-        ],
-        [
-            "Aſ:.",
-            "eeee’eep:dee",
-            "r 7 1",
             "LE VERITABLE COVRIER",
-            "B o D L 1S,",
-            "8",
+            "BORDELOIS,",
             "Apportant toutes ſortes de nouuelles.",
             "E trouue tant d’obſtacles ſur ma routte, &amp; l’on m’im",
             "poſe vn ſi rigoureux ſile nce, quand ie ſuis arriueé, que",
@@ -256,10 +248,16 @@
             "ſe conſoloit en voyant que celuy qui auoit ſi hautement en",
             "trepris ſa protection &amp; proteſté́ d’humilier &amp; abattre les",
             "Bourdelois à ſes pieds, y reuſſit auûſi mal que luy.",
-            "FIN.",
-            "ſ",
-            "vn",
-            "uue"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

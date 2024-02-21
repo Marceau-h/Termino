@@ -13,7 +13,7 @@
             "@when": "2021-11-10",
             "@who": "AB"
         },
-        "titre": "Dernière déclaration du roi, portant attribution\n                    des affaires de la chambre de l’édit à la cour de parlement de Paris, transférée\n                    à Pontoise, vérifiée en parlement, le premier jour d’octobre 1652, avec la\n                    Lettre de M. de Mondejeux (sic), gouverneur d'Arras, écrite à Sa Majesté sur le\n                    sujet des présentes affaires.",
+        "titre": "Dernière déclaration du roi, portant attribution des\n          affaires de la chambre de l’édit à la cour de parlement de Paris, transférée à Pontoise,\n          vérifiée en parlement, le premier jour d’octobre 1652, avec la Lettre de M. de Mondejeux\n          (sic), gouverneur d'Arras, écrite à Sa Majesté sur le sujet des présentes\n          affaires.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
@@ -26,8 +26,10 @@
             },
             {
                 "@ref": "isni:0000000450947585",
-                "forename": "Jean",
-                "surname": "Schulemberg (De)"
+                "persName": {
+                    "forename": "Jean",
+                    "surname": "Schulemberg de"
+                }
             }
         ],
         "pubDate": {
@@ -42,6 +44,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000005438555",
+            "@xml:id": "IL_CourantJulien.xml",
             "persName": {
                 "forename": "Julien",
                 "surname": "Courant"
@@ -261,5 +264,14 @@
             "fidelle ſujet &amp; ſeruiteur,",
             "MONDÇIEVX."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }

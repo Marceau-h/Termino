@@ -4,14 +4,15 @@
     "entête": {
         "form": "prose",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1652-06-16",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-22",
+            "@who": "AB"
         },
         "titre": "Trahison (la) du duc Charles tramée par le roi\n          d'Angleterre et le cardinal de Rez (sic), coadjuteur de Paris, et découverte par\n          monseigneur le duc de Beaufort, le dimanche 16 juin 1652.",
         "dates": {
@@ -19,7 +20,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -32,6 +33,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000077171175",
+            "@xml:id": "IL_LePorteurSimon.xml",
             "persName": {
                 "forename": "Simon",
                 "surname": "Le Porteur"
@@ -41,75 +43,28 @@
     },
     "texte": [
         [
-            "L A",
-            "e",
-            "r",
-            "I’RAHIZON",
-            "DV D V C",
+            "LA",
+            "TRAHIZON",
+            "DV DVC",
             "CHARLES.",
             "Tramée par le Roy d’Angleterre",
-            "&amp; le Cardinal de Rez, Coadiu.",
+            "&amp; le Cardinal de Rez, Coadiu¬",
             "teur de Paris.",
-            "Et deſcouuere parMonſeigneur le Due de Beaafore,",
-            "le Dimanohe i6 uin 1s5.",
+            "Et deſcouuere par Monſeigneur le Duc de Beaufort,",
+            "le Dimanohe 16 Iuin 1652.",
             "A PARIS.",
-            "een nuso e poirívn ao",
-            "ſaiat Hilaire. 165."
+            "Chez SIMON LE PORTEVR, au Mont",
+            "ſainct Hilaire. 1652."
         ],
         [
-            "’u",
-            ",",
-            "l e",
-            ";",
-            "7;13",
-            "l e",
-            "!",
-            ".",
-            "?.",
-            "..4 3",
-            "1",
-            "A",
-            "s.",
-            "1",
-            "1",
-            "1",
-            "!",
-            "..,Ji ¬:",
-            "!",
-            "..",
-            ".. A",
-            ".",
-            "i. ai",
-            ".?",
-            "2",
-            ".a.",
-            "a-.",
-            ".",
-            "Hez",
-            "Ei",
-            "n d",
-            ";?:",
-            "a",
-            "e. :1V",
-            "s",
-            "1",
-            "a,",
-            "121.",
-            "eaſl"
-        ],
-        [
-            "Anfntt",
-            "eéCé̃",
-            "eeéE8",
-            "eeee6",
+            "3",
             "LA TRAHIZON",
-            "er",
-            "bv Dc cARLES,",
+            "DV DVC CHARLES,",
             "Taḿe par le Roy d’Angletere &amp; la Cardi",
-            "nal de Rez, Coadjnateur",
+            "nal de Rez, Coadjnateur de Paris.",
             "a deſeouueot par Mſnſegour la Due de Seau",
             "fſrt, le Qimamebs.lua r.",
-            ", Velque abeilit qui ſe, uſſe. rouuer",
+            "QVelque abeilit qui ſe, uſſe. rouuer",
             "dns la Trahion -meantmoins, lle ne",
             "paſſera jamais que pou laſtheé, &amp; ceux qui",
             "aeua eruirant ſeroat eſtiae peu genereux, &amp;",
@@ -186,7 +141,6 @@
             "B"
         ],
         [
-            "0",
             "6",
             "r, le areſohal de ureine. Monſeigneur le",
             "rine de Cormdeé fait voir oonbien ſa deffianc.",
@@ -218,9 +172,6 @@
             "i"
         ],
         [
-            ",,s, g,,,,s ,s, ,,a, ,,,,,, ,,,,,,,",
-            "7",
-            "24",
             "Priee u’ayant pas eſté beaucoup ſurpris de eette",
             "trahiſon n’en aprehende point les efſets, &amp; tous",
             "les gens de bien eſperent que le ſuceez n’en ſers",
@@ -230,9 +181,15 @@
             "iuſtiee, de ſe ſeruir de ces moyens qui rendent",
             "meſme les vainqueurs honteux apres leun",
             "vitoire.",
-            "F I N.",
-            ".",
-            "¬"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

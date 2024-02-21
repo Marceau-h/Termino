@@ -4,21 +4,20 @@
     "entête": {
         "form": "vers",
         "genre": "narration",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "change": {
             "@status": "not_corrected"
         },
-        "titre": "Le recit du grand combat donné entre deux dames de la ville\n          de Cologne, & les deux niéces du cardinal Mazarin. Sur les affaires du temps\n          present.",
+        "titre": "Le recit du grand combat donné entre deux dames de la\n          ville de Cologne, & les deux niéces du cardinal Mazarin. Sur les affaires du temps\n          present.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-04-20",
             "#text": "20 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1651",
@@ -36,7 +35,9 @@
                 "#text": "Paris"
             }
         ],
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "7"
     },
     "texte": [
@@ -214,5 +215,13 @@
             "a",
             "1"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
     ]
 }

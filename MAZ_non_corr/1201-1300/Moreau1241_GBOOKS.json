@@ -12,18 +12,13 @@
             "@when": "2021-11-15",
             "@who": "AB"
         },
-        "titre": "Entretien (l’) familier du roi avec monsieur le\n                    duc d'Anjou, son frère, fidèlement recueilli par un des officiers de Sa\n                    Majesté.",
+        "titre": "Entretien (l’) familier du roi avec monsieur le duc\n          d'Anjou, son frère, fidèlement recueilli par un des officiers de Sa Majesté.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
             "#text": "2 novembre 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
@@ -36,6 +31,7 @@
         },
         "publisher": {
             "@ref": "isni:000000000076698X",
+            "@xml:id": "IL_SaraHenri.xml",
             "persName": {
                 "forename": "Henri",
                 "surname": "Sara"
@@ -130,8 +126,7 @@
             "que chaque barricade eſtoit vne Ville fortifiée. Quand ie voulus m’n¬",
             "former de la cauſe de cette rumeur, l’on me fit à croire que les Pariſiens",
             "auoient pris les armes pout ſe rendre les Maiſtres du Palas Royal, y",
-            "mettre le feu, &amp; faire paſſer tout ce qui eſtoit dedans au fil de l’épée.",
-            "La",
+            "mettre le feu, &amp; faire paſſer tout ce qui eſtoit dedans au fil de l’épée. La",
             "difficulté que ’eus à croire cecy, m’obligea de m’en éclaircr plus parti¬",
             "culierement; alots vn de mes plus fideles ſeruiteurs m’apptt que le",
             "deſſein des Pariſiens n’eſtoit que d’obtenir la hberté de deux Magi¬",
@@ -176,8 +171,7 @@
             "deſtruire par la famine cette grande Vilſe; qu’au reſte le Parlement n’a",
             "que de bonnes intentions pour mon ſeruice; que tout le Peuple me de¬",
             "ire, &amp; que l’on n’en veut qu’à Mazarin, comme à celuy qui leur ayant",
-            "vollé́ tous leurs biens, &amp; enleué leur Roy, veut encore rauir leur vie,",
-            "&amp;",
+            "vollé́ tous leurs biens, &amp; enleué leur Roy, veut encore rauir leur vie, &amp;",
             "ſe venger d’eux aux dépens de tout le Royaume. Ie ne m’eſtonne pas",
             "beaucoup que le Cardinal ait conceu ces deſſeins violens, &amp; u’il mé¬",
             "dite la perte d’vn Eſtat qu’il luy faut abandonner; mais ie ne puis aſſez",
@@ -205,8 +199,7 @@
             "voulu deliurer de ſon Tvran, ie nomme ainſi le Cardinal azarim, cah",
             "i ſça qu’il en a fait toutes les nûtions, qu’il a quelque inctligence auzc",
             "les Ennemis de l’Eſtat, qu’il a proeué be anoup auantage à l’Eſpa¬l",
-            "gne, &amp; qu’il en a fait perdre de notables à la Ftance; &amp; qu’enfin pour",
-            "ſe",
+            "gne, &amp; qu’il en a fait perdre de notables à la Ftance; &amp; qu’enfin pour ſe",
             "rendre conſiderable en Iralie, où il a deſſein de retourner, il y a fait por¬",
             "rerpreſque tout l’argent du Royaumc qu’il a tiré da Peuple par des eae",
             "ions injuſtes &amp; violentes. Ces crnes eſt ans vcirables, &amp; connus de",
@@ -230,8 +223,7 @@
             "Ie leur ay entendu dire, replique le Dued’Anjou, que c’eſt pour punir",
             "vos Subjets de leur deſobeiſſance, &amp; pour maintenii l’autlrorité Rohyale.",
             "La puiſſance des Rois (continuo le Roy yne s’eſtend pas juſquesx aux",
-            "choſes injuſtes, &amp; loõrs qu’ils l’employent à la ruine de leurs Subjets,",
-            "ils",
+            "choſes injuſtes, &amp; loõrs qu’ils l’employent à la ruine de leurs Subjets, ils",
             "ſe rendent indignes de ce nom: Qu’ils diſent done plus veritablemene",
             "que c’eſt pour faire ſubſiſter la eyrannie qu’vſurpe injuſtement cette au¬",
             "thorité, &amp; qui la deſtruit pluſtoſt que de la contoruere Eſt-ce mainieni",
@@ -269,8 +261,7 @@
             "roit, comne i’ay ſteu quehuict iours apres noſtre fortie, le pain venane",
             "à faillir, le Pesple ſs ſuſteuoroi conre le Parlement, &amp; l’obligeroit",
             "de venir auec luy la corde au eulimploee ſa mſericoude: Et cependant",
-            "vn mois &amp; plus s’eſt paſſé depuis noſtre départ, ſans que les viures y",
-            "ayent",
+            "vn mois &amp; plus s’eſt paſſé depuis noſtre départ, ſans que les viures y ayent",
             "manqué, &amp; ſans que le Peuple ait tant ſoit peu murmuré contre le Par¬",
             "lement: Au contraire, le malqu’ils ſouffent dans cetr guerre, ne ſrt",
             "qu’àles animet de plus en plusà laperte du Cardinal Mazt; &amp; il eſt",
@@ -300,5 +291,13 @@
             "conde leurs incentons, &amp; les obliger d’omployer lours biens &amp; leurs",
             "ues pour ſaliborteé, &amp; pour lal deſttuction de ſes Ennemis."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
     ]
 }

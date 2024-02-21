@@ -4,14 +4,18 @@
     "entête": {
         "form": "vers",
         "genre": "burlesque",
-        "subgenre": [
-            null,
-            null
+        "subject": [
+            "Condé‎, Louis de Bourbon‎, prince de‎, 1621-1686",
+            "Lens, Bataille de (1648), Le 20 août 1648, Condé écrase les Impériaux\n            à Lens"
         ],
-        "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "1648-04",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-09",
+            "@who": "AB"
         },
         "titre": "La gloire familiere ou La description populaire de la\n          bataille de Lens remportée sur les Espagnols, par M. le prince de Condé. En vers\n          burlesques",
         "dates": {
@@ -19,29 +23,23 @@
             "@when": "2021-05-25",
             "#text": "25 mai 2021"
         },
-        "author": {
-            "persName": {
-                "forename": null,
-                "surname": null
-            }
-        },
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1648",
             "#text": "1648"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "12"
     },
     "texte": [
         [
-            "2l6",
-            ".",
-            "Vrn",
-            "ue",
+            "LA",
             "GLOIRE FAMILIERE",
-            "OVLA",
+            "OV LA",
             "DESCRIPTION POPVLAIRE",
             "DE LA",
             "BATAILLE DE LENS",
@@ -50,68 +48,14 @@
             "En Vers Burleſque."
         ],
         [
-            ".",
-            ".:",
-            "e",
             "3",
-            "¬",
-            "¬ ¬",
-            "Li ltfi,",
-            "¬4",
-            "¬¬",
-            "¬",
-            "e",
-            "e1",
-            "i¬",
-            "n¬",
-            "1¬¬",
-            "i",
-            ", aa",
-            "L.:2",
-            ".2 ,",
-            ".",
-            "4..",
-            "o i",
-            "3 A",
-            "ap",
-            "f41",
-            "1",
-            "éa Il",
-            "..I",
-            "ee ¬",
-            "p¬",
-            "¬s",
-            "e",
-            "e",
-            "L",
-            "113",
-            "L. ?",
-            "r¬",
-            "¬",
-            "1¬2.¬2.. A",
-            "ils* ¬",
-            "o.",
-            "i",
-            "e",
-            "1",
-            "i¬",
-            "ooaa Google"
-        ],
-        [
-            "êppbp?",
-            "¬",
-            "pp",
-            "u:s",
-            "LA GLOIRE EAILIERE",
-            "O V L.",
-            "r ’by",
-            "¬",
-            "DESCRIPTIN POPLARE",
+            "LA GLOIRE FAMILIERE",
+            "OV LA",
+            "DESCRIPTION POPVLAIRE",
             "DE LA BATAILLE DE LENS,",
-            "REMPORTEE SVR LES BS P A GNoLi8.",
-            "t",
-            "Par mmſeigur le P’d Cde",
-            "VICONQ oada quitleqe’4",
+            "REMPORTEE SVR LES ESPAGNOLS",
+            "Par mmſeigur le Prince de Condé.",
+            "QVICONQ oada quitleqe’4",
             "EBEue s nſdle dhafo¬",
             "EVaaſenreenlutdte",
             "e l plus aanboeos",
@@ -549,18 +493,24 @@
             "Heuroux d’eſtre vancus do",
             "e veulent ſoûmeooala ,",
             "N’oſant plus épreauctaidal",
-            "n1",
-            "lgr, 2",
             "Ainſi vainqueur de tans d’allones o2i1",
             "Tu n’as plusqu’ateapoſer,e.",
             "2 q¬A",
             "L’Europe n’a plus rirqoelhd afeinppaofcn s iI",
-            "p nute0",
-            ".2. l 2",
-            "yea ne p2O",
-            "re e ie unie aee.",
-            "ioe a’niD",
-            "3l’eil 1ibe n"
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
     ]
 }

@@ -12,7 +12,7 @@
             "@when": "2021-11-10",
             "@who": "AB"
         },
-        "titre": "Dernières (les) paroles de M. le duc de Châtillon\n                    mourant à M. le prince de Condé.",
+        "titre": "Dernières (les) paroles de M. le duc de Châtillon mourant\n          à M. le prince de Condé.",
         "dates": {
             "@type": "file_creation",
             "@when": "2021-11-02",
@@ -22,7 +22,7 @@
             "@ref": "isni:000000011884471X",
             "persName": {
                 "forename": "Gaspard",
-                "surname": "Coligny (De)"
+                "surname": "Coligny de"
             }
         },
         "pubDate": {
@@ -37,6 +37,7 @@
         },
         "publisher": {
             "@ref": "isni:000000000076698X",
+            "@xml:id": "IL_SaraHenri.xml",
             "persName": {
                 "forename": "Henry",
                 "surname": "Sara"
@@ -260,5 +261,14 @@
             "ner des auis que tres-importans &amp; tres-ſalutaires.",
             "¬"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

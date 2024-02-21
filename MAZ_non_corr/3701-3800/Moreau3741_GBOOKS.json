@@ -2,16 +2,20 @@
     "imprimatur": null,
     "corrector": false,
     "entête": {
-        "form": "vers/prose",
-        "genre": "narration",
-        "subgenre": [
-            null,
-            null
+        "form": "prose",
+        "genre": [
+            "narration",
+            "récit"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-22",
+            "@who": "AB"
         },
         "titre": "Syndic (le) du peuple envoyé au roi pour faire entendre à\n          Sa Majesté tout ce qui se passe dans son royaume.",
         "dates": {
@@ -19,7 +23,7 @@
             "@when": "2026-04-20",
             "#text": "26 avril 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1652",
@@ -29,48 +33,31 @@
             "@source": "Moreau",
             "#text": "Sans Lieu"
         },
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "15"
     },
     "texte": [
         [
+            "LE",
             "SYNDICQ",
-            "lior",
+            "DV PEVPLE",
+            "ENVOYE",
+            "AV ROY.",
+            "Pour faire entendre a ſa Maieſté",
             "tout ce qui ſe paſse dans ſon",
             "Royaume.",
-            "2",
-            "M DC LI1."
+            "M. DC. LII."
         ],
         [
-            "e",
-            "1",
-            "¬ I",
-            "hâ",
-            ", 4",
-            "r¬ .",
-            "p ¬ L",
-            "’",
-            "i",
-            "1",
-            ".",
-            "4!",
-            "¬ Aé",
-            ";",
-            "¬",
-            "ſ-¬’3a n",
-            "onaaa Google"
-        ],
-        [
-            "A A",
-            "ES: EE",
-            "r e eS",
-            "T V T -N",
-            ",A AN AA AA",
+            "3",
+            "LE SYNDICQ",
             "DV PEVPLE",
-            "E N voxE",
+            "ENVOYE",
             "AV ROY.",
             "Pour faire etendré à ſai Mſajefté́ tout ce qui",
-            ", ſe paſſe dans ſon Royaume,",
+            "ſe paſſe dans ſon Royaume,",
             "ce nme ſeroit a re",
             "ounoeeraae ſilie poh",
             "VNouuella voſtre- ajoé",
@@ -421,7 +408,23 @@
             "part de tous vos Sujets, dont ie vous ſuis ve",
             "nu remonſtrer la rmiſere, &amp; au nonm deſquels",
             "ie vous demande la Paix.",
-            "E 1 N."
+            "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
     ]
 }

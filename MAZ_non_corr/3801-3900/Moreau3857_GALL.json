@@ -3,15 +3,19 @@
     "corrector": false,
     "entête": {
         "form": "vers",
-        "genre": "chantable",
-        "subgenre": [
-            null,
-            null
+        "genre": [
+            "Chanson",
+            "triolet"
         ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
-            "@status": "not_corrected"
+            "@status": "corrected",
+            "@when": "2022-09-21",
+            "@who": "AB"
         },
         "titre": "Triolets du Palais-Royal envoyés au palais d'Orléans,\n          avec la réponse du palais d'Orléans au Palais-Royal.",
         "dates": {
@@ -19,36 +23,31 @@
             "@when": "2021-06-03",
             "#text": "3 juin 2021"
         },
-        "author": "Anonyme",
+        "author": null,
         "pubDate": {
             "@source": "Moreau",
             "@when": "1649",
             "#text": "1649"
         },
         "pubPlace": "Sans Lieu",
-        "publisher": "Sans Nom",
+        "publisher": {
+            "persName": "Sans Nom"
+        },
         "nbPages": "7"
     },
     "texte": [
         [
-            "27",
-            "r",
-            "I",
             "TRIOLETS",
-            "r¬",
             "DV PALAIS ROYAL",
-            "ENVOYE",
+            "ENVOYEZ",
             "AV PALAIS DORLEANS.",
             "Auec la Reſponſe du Palais d’Orleans",
             "au Palais Royal.",
-            "e¬",
             "M. DC. XLIX."
         ],
         [
-            "AA &amp;Aa V&amp;u,,t.",
-            "r¬C",
+            "3",
             "TRIOLETS",
-            "¬ D 1",
             "DV PALAIS ROYAL ENVOYE2",
             "au Palais d’Orleans,",
             "Auec la Reſponſe du Palais d’Orleans au Palis Roy el.",
@@ -189,5 +188,13 @@
             "Palais Royal ie te ſupplie.",
             "FIN."
         ]
+    ],
+    "pages_number": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
     ]
 }

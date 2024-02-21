@@ -61,19 +61,17 @@
             "A",
             "VIVENAY.",
             "CAPRICE.",
-            "<figure",
-            "type=\"decoration\" />",
             "A PARIS,",
             "Chez IEAN BRVNET, ruë neuve S.",
             "Louys,",
             "au",
             "Canon Royal, proche le Palais.",
-            "M. DC. XLIX.",
-            "<pb",
-            "n=\"2\" />"
+            "M. DC. XLIX."
         ],
         [
-            "DESCRIPTION DE LA Boutique à Viuenay. CAPRICE.",
+            "DESCRIPTION DE LA",
+            "Boutique à Viuenay.",
+            "CAPRICE.",
             "MAlgré",
             "la fureur de Bellone,",
             "le deine iee¬",
@@ -284,10 +282,10 @@
     ],
     "pages_number": [
         "1",
-        "2",
         "3",
         "4",
         "5",
-        "6"
+        "6",
+        "7"
     ]
 }

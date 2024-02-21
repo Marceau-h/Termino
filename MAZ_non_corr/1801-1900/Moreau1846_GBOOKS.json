@@ -4,11 +4,10 @@
     "entête": {
         "form": "prose",
         "genre": "lettre",
-        "subgenre": [
-            null,
-            null
-        ],
         "subject": null,
+        "handwritten_note": false,
+        "table_of_content": false,
+        "illustration": false,
         "creation": "00-00-0000",
         "change": {
             "@status": "not_corrected"
@@ -20,7 +19,11 @@
             "#text": "8 juin 2021"
         },
         "author": {
-            "name": "Mercier"
+            "@ref": "isni:0000000039582088",
+            "persName": {
+                "forename": "Nicolas",
+                "surname": "Mercier de Poissy"
+            }
         },
         "pubDate": {
             "@source": "Moreau",
@@ -34,6 +37,7 @@
         },
         "publisher": {
             "@ref": "isni:0000000063027789",
+            "@xml:id": "IL_MorlotClaude.xml",
             "persName": {
                 "forename": "Claude",
                 "surname": "Morlot"
@@ -317,5 +321,15 @@
             "e",
             "1"
         ]
+    ],
+    "pages_number": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
     ]
 }
