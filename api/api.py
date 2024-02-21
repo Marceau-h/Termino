@@ -1,18 +1,18 @@
 import json
 import os
 import random
+import re
 import uuid
 import xml.sax.saxutils as saxutils
 from pathlib import Path
 from typing import List, Annotated, Optional
 
 import requests
-from fastapi import FastAPI, Form, Response, Request, Cookie
+from fastapi import FastAPI, Form, Cookie
 from fastapi.responses import HTMLResponse, FileResponse, RedirectResponse
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
 from sqlalchemy import create_engine
-from starlette.middleware.cors import CORSMiddleware
 from starlette.templating import Jinja2Templates
 
 from .sql_driver import Correction, User, Page
@@ -32,6 +32,16 @@ with engine.begin() as conn:
     if not engine.dialect.has_table(conn, "page"):
         Page.__table__.create(bind=engine)
 
+el_numbre = re.compile(r"(\d+)[_-]")
+
+
+def number_from_file(file: Path) -> int | str:
+    stem = file.stem
+    if "suppl" in stem:
+        return "s" + el_numbre.search(stem).group(1)
+    return int(el_numbre.search(stem).group(1))
+
+
 main_dir = Path(__file__).parent
 
 app = FastAPI()
@@ -48,63 +58,39 @@ hmb = Path(os.getenv("MAZETTE_HMB", "how_many_for_b.json"))
 app.mount("/static", StaticFiles(directory=main_dir / "static"), name="static")
 templates = Jinja2Templates(directory=main_dir / "templates")
 
-files = list(maz_non_corr.glob("*/*.json"))  # TODO: change to maz_non_corr when pages_nb will be added
-files = [f for f in files if "to_do" not in f.as_posix()]
-files = [f for f in files if "Doublons" not in f.as_posix()]
+files = maz_non_corr.glob("*/*.json")
+files = {f for f in files if "to_do" not in f.as_posix() and "Doublons" not in f.as_posix()}
+files = {number_from_file(f): f for f in files}
 
-random.shuffle(files)
-i = 0
+max_nb = max((k for k in files if isinstance(k, int)))
+min_nb = min((k for k in files if isinstance(k, int)))
 
 
-# origins = [
-#     "http://localhost",
-#     "http://localhost:8000",
-#     "http://127.0.0.1:8000",
-#     "http://0.0.0.0:8000",
-#     "https://mazette.marceau-h.fr",
-#     "https://cdn.marceau-h.fr",
-# ]
-#
-# app.add_middleware(
-#     CORSMiddleware,
-#     allow_origins=origins,
-#     allow_credentials=True,
-#     allow_methods=["*"],
-#     allow_headers=["*"],
-# )
+def get_doc(nb: int | str) -> Optional[Path]:
+    return files.get(nb)
+
 
 def get_random_doc() -> Path:
-    """Getting a random document from a shuffled list of documents,
-    this prevents to have the same document twice in a row"""
-    global i
-    file = files[i]
-    if i == len(files) - 1:
-        i = 0
-        random.shuffle(files)
-    else:
-        i += 1
-
-    return file
+    """Gets a random document, we cant recursively call in the get method because then get calls it
+    before finishing the lookup which causes a recursion error """
+    return files.get(random.randint(min_nb, max_nb), None) or get_random_doc()
 
 
 def open_file(file: Path) -> dict:
     with open(file, "r") as f:
-        data = json.load(f)
-
-    return data
-
-
-def get_random_page(data: dict) -> int:
-    page = random.randint(0, len(data["texte"]) - 1)
-    return page
-
-
-def get_page(data: dict, page: int) -> List[str]:
-    return [e for e in (saxutils.unescape(e).strip() for e in data["texte"][page]) if e]
+        return json.load(f)
 
 
 def get_page_nb(data: dict, page: int) -> int:
     return data["pages_number"][page]
+
+
+def get_random_page(data: dict) -> int:
+    return random.randint(0, len(data["texte"]) - 1)
+
+
+def get_page_text(data: dict, page: int) -> List[str]:
+    return [e for e in (saxutils.unescape(e).strip() for e in data["texte"][page]) if e]
 
 
 def get_pages_nb(data: dict) -> List[int]:
@@ -112,11 +98,11 @@ def get_pages_nb(data: dict) -> List[int]:
 
 
 def get_first_page(data: dict) -> int:
-    return min(data["pages_number"])  # Should be the first index of pages_number  but its safer this way
+    return min(data["pages_number"], key=int)  # Should be the first index of pages_number  but its safer this way
 
 
 def get_last_page(data: dict) -> int:
-    return max(data["pages_number"])  # Same as above
+    return max(data["pages_number"], key=int)  # Same as above
 
 
 def get_img_path(file: Path, page_nb: int) -> Path | str | None:
@@ -159,7 +145,7 @@ async def read_random():
         return await read_random()
 
     page = get_random_page(data)
-    text = get_page(data, page)
+    text = get_page_text(data, page)
     page_nb = get_page_nb(data, page)
     first_page = get_first_page(data)
     last_page = get_last_page(data)
@@ -202,6 +188,57 @@ async def read_root():
             "last_page": last_page,
         }
     )
+
+
+def read_page(file: int | str, page_nb: int):
+    file = get_doc(file)
+    if not file:
+        return JSONResponse(status_code=404, content={"message": "File not found"})
+
+    print(f"file: {file}, page_nb: {page_nb}")
+
+    data = open_file(file)
+    page = get_page_text(data, page_nb)
+
+    page_nb = get_page_nb(data, page_nb)
+    first_page = get_first_page(data)
+    last_page = get_last_page(data)
+
+    img = get_img_url(file, page_nb)
+    if not img:
+        return JSONResponse(status_code=404, content={"message": "Image not found"})
+
+    print(
+        f"file: {file}, page: {page}, page_nb: {page_nb}, text: {page}, img: {img}, first_page: {first_page}, last_page: {last_page}, pages_nb: {get_pages_nb(data)}"
+    )
+    page = "\n".join(page)
+    return templates.TemplateResponse(
+        "index.html",
+        {
+            "request": {},
+            "host": host,
+            "prefix": prefix,
+            # "pic": img.as_posix(),
+            "pic": img,
+            "file": file,
+            "file_name": file.name,
+            "page": page_nb,
+            "page_nb": page_nb,
+            "ocr": page,
+            "first_page": first_page,
+            "last_page": last_page,
+        }
+    )
+
+
+@app.get("/{file}/{page_nb}", response_class=HTMLResponse, tags=["main"])
+async def read_page_n(file: int, page_nb: int):
+    return read_page(file, page_nb)
+
+
+@app.get("/s/{file}/{page_nb}", response_class=HTMLResponse, tags=["main"])
+def read_page_s(file: int, page_nb: int):
+    return read_page(f"s{file}", page_nb)
 
 
 @app.get("/imgs/{path:path}", response_class=FileResponse, tags=["main"])
