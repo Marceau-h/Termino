@@ -51,7 +51,7 @@ prefix = os.getenv("MAZETTE_PREFIX", "")
 
 maz_non_corr = Path(os.getenv("MAZETTE_NON_CORR", "MAZ_non_corr"))
 maz_corr = Path(os.getenv("MAZETTE_CORR", "MAZ_corr"))
-imgs = Path(os.getenv("MAZETTE_IMGS", "imgs"))
+imgs = Path(os.getenv("MAZETTE_IMGS", "webp"))
 
 hmb = Path(os.getenv("MAZETTE_HMB", "how_many_for_b.json"))
 
@@ -106,8 +106,8 @@ def get_last_page(data: dict) -> int:
 
 
 def get_img_path(file: Path, page_nb: int) -> Path | str | None:
-    # return imgs / file.parent.name / file.stem / f"{page_nb}.png"
-    file = f"{file.parent.name}/{file.stem}/{page_nb}.png"
+    # return imgs / file.parent.name / file.stem / f"{page_nb}.webp"
+    file = f"{file.parent.name}/{file.stem}/{page_nb}.webp"
     if (imgs / file).exists():
         return imgs / file
     else:
@@ -124,7 +124,7 @@ def get_img_path(file: Path, page_nb: int) -> Path | str | None:
 
 
 def get_img_url(file: Path, page_nb: int) -> Optional[str]:
-    file = f"{file.parent.name}/{file.stem}/{page_nb}.png"
+    file = f"{file.parent.name}/{file.stem}/{page_nb}.webp"
     url = f"https://cdn.marceau-h.fr/mazette/{file}"
     try:
         r = requests.get(url)
@@ -252,7 +252,7 @@ async def read_img(path: str):
     try:
         # r = requests.get(url, stream=True)
         # r.raise_for_status()
-        # return StreamingResponse(r.raw, media_type="image/png")
+        # return StreamingResponse(r.raw, media_type="image/webp")
         r = requests.get(url)
         r.raise_for_status()
         return RedirectResponse(url)
