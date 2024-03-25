@@ -3,6 +3,7 @@ import os
 import random
 import re
 import uuid
+import logging
 import xml.sax.saxutils as saxutils
 from pathlib import Path
 from typing import List, Annotated, Optional
@@ -50,6 +51,10 @@ files = {number_from_file(f): f for f in files}
 
 max_nb = max((k for k in files if isinstance(k, int)))
 min_nb = min((k for k in files if isinstance(k, int)))
+
+logger_level = os.getenv("MAZETTE_LOG_LEVEL", "WARNING")
+logger = logging.getLogger("mazette")
+logger.setLevel(logger_level)
 
 
 def get_doc(nb: int | str) -> Optional[Path]:
@@ -122,7 +127,7 @@ def get_img_url(file: Path, page_nb: int) -> Optional[str]:
 
 
 async def read_random():
-    print("random")
+    logger.info("random")
 
     file = get_random_doc()
     data = open_file(file)
@@ -141,9 +146,8 @@ async def read_random():
     if not img:
         return await read_random()
 
-    print(
+    logger.info(
         f"file: {file}, page: {page}, page_nb: {page_nb}, text: {text}, img: {img}, "
-        # f"img.exists: {img.exists()}, img.is_file: {img.is_file()}"
     )
     text = "\n".join(text)
     return file, page, page_nb, first_page, last_page, text, img
@@ -152,9 +156,10 @@ async def read_random():
 async def read_page(file: int | str, page_nb: int):
     file = get_doc(file)
     if not file:
+        logger.warning(f"file not found: {file}")
         return JSONResponse(status_code=404, content={"message": "File not found"})
 
-    print(f"file: {file}, page_nb: {page_nb}")
+    logger.info(f"file: {file}, page_nb: {page_nb}")
 
     data = open_file(file)
     page = get_page_text(data, page_nb)
@@ -165,9 +170,10 @@ async def read_page(file: int | str, page_nb: int):
 
     img = get_img_url(file, page_nb)
     if not img:
+        logger.warning(f"img not found: {img}")
         return JSONResponse(status_code=404, content={"message": "Image not found"})
 
-    print(
+    logger.info(
         f"file: {file}, page: {page}, page_nb: {page_nb}, text: {page}, img: {img}, first_page: {first_page}, last_page: {last_page}, pages_nb: {get_pages_nb(data)}"
     )
     page = "\n".join(page)
@@ -197,8 +203,6 @@ async def favicon():
 
 @app.get("/", response_class=HTMLResponse, tags=["main"])
 async def read_root(mazette: str = Cookie(None)):
-    # user = get_user_by_uuid(mazette)
-
     mazette = uuid.UUID(mazette)
 
     while True:
@@ -252,7 +256,7 @@ async def read_img(path: str):
         return RedirectResponse(url)
 
     except Exception as e:
-        print(e)
+        logger.error(e)
         return JSONResponse(status_code=404, content={"message": "Image not found"})
 
 
@@ -267,7 +271,7 @@ async def submit(
         corrected: Annotated[str, Form()],
         mazette: str = Cookie(None),
 ):
-    print(f"submit: {file=}, {page=}, {page_nb=}, {corresponding=}, {good_page=}, {ocr=}, {corrected=}")
+    logger.info(f"submit: {file=}, {page=}, {page_nb=}, {corresponding=}, {good_page=}, {ocr=}, {corrected=}")
 
     json_res = {
         "file": file,
@@ -291,7 +295,7 @@ async def submit(
 
         json_res["page_"] = create_page(file.__str__(), page_nb)
 
-        print(json_res)
+        logger.info(json_res)
 
         conn.execute(
             Correction.__table__.insert(),
@@ -303,15 +307,15 @@ async def submit(
 
 @app.get("/set_cookie", response_class=JSONResponse, tags=["main"])
 def create_cookie():
-    print("cookie")
+    logger.info("cookie")
     response = JSONResponse(content={"message": "Come to the dark side, we have cookies"})
     response.set_cookie(
         key="mazette",
         value=create_user().hex,
         secure=False,
     )
-    print(response.body)
-    print(response.raw_headers)
+    logger.info(response.body)
+    logger.info(response.raw_headers)
     return response
 
 
