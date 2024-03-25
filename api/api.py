@@ -12,25 +12,11 @@ from fastapi import FastAPI, Form, Cookie
 from fastapi.responses import HTMLResponse, FileResponse, RedirectResponse
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
-from sqlalchemy import create_engine
 from starlette.templating import Jinja2Templates
 
-from .sql_driver import Correction, User, Page
+from .sql_driver import Correction, User, get_pages_done_by_user, create_user, create_page, engine, \
+    get_user_by_uuid
 from .type_hint import GoodPage
-
-engine = create_engine("sqlite:///database.db")
-with engine.begin() as conn:
-    print(f"has_table: {engine.dialect.has_table(conn, 'Correction')}")
-    if not engine.dialect.has_table(conn, "correction"):
-        Correction.__table__.create(bind=engine)
-
-    print(f"has_table: {engine.dialect.has_table(conn, 'User')}")
-    if not engine.dialect.has_table(conn, "user"):
-        User.__table__.create(bind=engine)
-
-    print(f"has_table: {engine.dialect.has_table(conn, 'Page')}")
-    if not engine.dialect.has_table(conn, "page"):
-        Page.__table__.create(bind=engine)
 
 el_numbre = re.compile(r"(\d+)[_-]")
 
@@ -163,34 +149,7 @@ async def read_random():
     return file, page, page_nb, first_page, last_page, text, img
 
 
-@app.get("/favicon.ico", response_class=FileResponse, tags=["main"])
-async def favicon():
-    return FileResponse(main_dir / "static" / "favicon.ico")
-
-
-@app.get("/", response_class=HTMLResponse, tags=["main"])
-async def read_root():
-    file, page, page_nb, first_page, last_page, text, img = await read_random()
-    return templates.TemplateResponse(
-        "index.html",
-        {
-            "request": {},
-            "host": host,
-            "prefix": prefix,
-            # "pic": img.as_posix(),
-            "pic": img,
-            "file": file,
-            "file_name": file.name,
-            "page": page,
-            "page_nb": page_nb,
-            "ocr": text,
-            "first_page": first_page,
-            "last_page": last_page,
-        }
-    )
-
-
-def read_page(file: int | str, page_nb: int):
+async def read_page(file: int | str, page_nb: int):
     file = get_doc(file)
     if not file:
         return JSONResponse(status_code=404, content={"message": "File not found"})
@@ -225,6 +184,41 @@ def read_page(file: int | str, page_nb: int):
             "page": page_nb,
             "page_nb": page_nb,
             "ocr": page,
+            "first_page": first_page,
+            "last_page": last_page,
+        }
+    )
+
+
+@app.get("/favicon.ico", response_class=FileResponse, tags=["main"])
+async def favicon():
+    return FileResponse(main_dir / "static" / "favicon.ico")
+
+
+@app.get("/", response_class=HTMLResponse, tags=["main"])
+async def read_root(mazette: str = Cookie(None)):
+    # user = get_user_by_uuid(mazette)
+
+    mazette = uuid.UUID(mazette)
+
+    while True:
+        file, page, page_nb, first_page, last_page, text, img = await read_random()
+        if (file.__str__(), page_nb) not in get_pages_done_by_user(mazette):
+            break
+
+    return templates.TemplateResponse(
+        "index.html",
+        {
+            "request": {},
+            "host": host,
+            "prefix": prefix,
+            # "pic": img.as_posix(),
+            "pic": img,
+            "file": file,
+            "file_name": file.name,
+            "page": page,
+            "page_nb": page_nb,
+            "ocr": text,
             "first_page": first_page,
             "last_page": last_page,
         }
@@ -324,25 +318,3 @@ def create_cookie():
 @app.get("/read_cookie", response_class=JSONResponse, tags=["main"])
 async def read_cookie(mazette: str = Cookie(None)):
     return JSONResponse(content={"mazette": mazette})
-
-
-def create_user():
-    with engine.begin() as conn:
-        while True:
-            uuid_ = uuid.uuid4()
-            user = conn.execute(User.__table__.select().where(User.UUID == uuid_)).first()
-            if not user:
-                conn.execute(User.__table__.insert(), {"UUID": uuid_})
-                return uuid_
-
-
-def create_page(document_id: str, page_number: int):
-    with engine.begin() as conn:
-        conn.execute(
-            Page.__table__.insert(),
-            {"document_id": document_id, "page_number": page_number}
-        )
-
-        return conn.execute(
-            Page.__table__.select().where(Page.document_id == document_id).where(Page.page_number == page_number)
-        ).first().id
