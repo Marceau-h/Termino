@@ -1,9 +1,9 @@
 import json
+import logging
 import os
 import random
 import re
 import uuid
-import logging
 import xml.sax.saxutils as saxutils
 from pathlib import Path
 from typing import List, Annotated, Optional
@@ -16,10 +16,17 @@ from fastapi.staticfiles import StaticFiles
 from starlette.templating import Jinja2Templates
 
 from .sql_driver import Correction, User, get_pages_done_by_user, create_user, create_page, engine, \
-    get_user_by_uuid
+    get_the_thing
 from .type_hint import GoodPage
 
 el_numbre = re.compile(r"(\d+)[_-]")
+
+ranges = {
+    "0": (1,),
+    "1": (2, 3, 4, 5),
+    "2": (6, 7, 8),
+    "VT": (9, 10),
+}
 
 
 def number_from_file(file: Path) -> int | str:
@@ -65,6 +72,41 @@ def get_random_doc() -> Path:
     """Gets a random document, we cant recursively call in the get method because then get calls it
     before finishing the lookup which causes a recursion error """
     return files.get(random.randint(min_nb, max_nb), None) or get_random_doc()
+
+
+def get_random_doc_and_page_not_in_set(pages: set[tuple[str, int]], tries: int = 0) -> Optional[tuple[Path, int]]:
+    if tries > 10:
+        return None
+
+    file = get_random_doc()
+    page = get_random_page(file)
+    if (file.name, page) not in pages:
+        return file, page
+    return get_random_doc_and_page_not_in_set(pages, tries + 1)
+
+
+def get_random_doc_and_page_in_set(pages: set[tuple[str, int]]) -> Optional[tuple[Path, int]]:
+    if not pages:
+        return None
+    file_name, page = random.choice(list(pages))
+    file, page = files.get(file_name, None), page or get_random_doc_and_page_in_set(pages)
+    return file, page
+
+
+def get_random_doc_and_page_for_user(uuid_: uuid.UUID) -> tuple[Path, int]:
+    pages_1, pages_2, pages_3, pages_more = get_the_thing(uuid_)
+
+    match random.randint(1, 10):
+        case ranges.get("0"):
+            result = get_random_doc_and_page_not_in_set(pages_1 | pages_2 | pages_3 | pages_more)
+        case ranges.get("1"):
+            result = get_random_doc_and_page_in_set(pages_1)
+        case ranges.get("2"):
+            result = get_random_doc_and_page_not_in_set(pages_2)
+        case ranges.get("VT"):
+            raise ValueError("VT not implemented")
+
+    return result or get_random_doc_and_page_for_user(uuid_)
 
 
 def open_file(file: Path) -> dict:
@@ -126,16 +168,16 @@ def get_img_url(file: Path, page_nb: int) -> Optional[str]:
     return None
 
 
-async def read_random():
+async def read_random_for_user(uuid_: uuid.UUID):
     logger.info("random")
 
-    file = get_random_doc()
+    file, page = get_random_doc_for_user(uuid_)
     data = open_file(file)
 
     if not data["texte"]:
-        return await read_random()
+        return await read_random_for_user(uuid_)
 
-    page = get_random_page(data)
+    # page = get_random_page(data)
     text = get_page_text(data, page)
     page_nb = get_page_nb(data, page)
     first_page = get_first_page(data)
@@ -144,7 +186,7 @@ async def read_random():
     img = get_img_url(file, page_nb)
 
     if not img:
-        return await read_random()
+        return await read_random_for_user(uuid_)
 
     logger.info(
         f"file: {file}, page: {page}, page_nb: {page_nb}, text: {text}, img: {img}, "
@@ -206,7 +248,7 @@ async def read_root(mazette: str = Cookie(None)):
     mazette = uuid.UUID(mazette)
 
     while True:
-        file, page, page_nb, first_page, last_page, text, img = await read_random()
+        file, page, page_nb, first_page, last_page, text, img = await read_random_for_user(mazette)
         if (file.__str__(), page_nb) not in get_pages_done_by_user(mazette):
             break
 
