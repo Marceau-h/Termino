@@ -1,5 +1,5 @@
 import uuid
-from typing import Optional, List
+from typing import Optional, List, Set
 
 from sqlalchemy import UniqueConstraint
 from sqlalchemy import create_engine
@@ -34,9 +34,16 @@ class Page(SQLModel, table=True):
     __table_args__ = (UniqueConstraint("document_id", "page_number"),)
 
 
-def get_pages_done_by_user(uuid_: uuid.UUID) -> List[tuple[str, int]]:
-    with engine.begin() as conn:
+def sql_page_to_tup(page: Page) -> tuple[str, int]:
+    return page.document_id, page.page_number
 
+
+def sql_pages_to_tup(pages: List[Page]) -> Set[tuple[str, int]]:
+    return {(page.document_id, page.page_number) for page in pages}
+
+
+def get_pages_done_by_user(uuid_: uuid.UUID) -> Set[tuple[str, int]]:
+    with engine.begin() as conn:
         user = conn.execute(User.__table__.select().where(User.UUID == uuid_)).first()
         if not user:
             raise ValueError("User not found")
@@ -45,8 +52,77 @@ def get_pages_done_by_user(uuid_: uuid.UUID) -> List[tuple[str, int]]:
         pages = [page.page_ for page in pages]
         pages = conn.execute(Page.__table__.select().where(Page.id.in_(pages))).all()
 
-        return [(page.document_id, page.page_number) for page in pages]
+        return sql_pages_to_tup(pages)
 
+
+def get_pages_done_n_times(n: int) -> Set[tuple[str, int]]:
+    with engine.begin() as conn:
+        pages = conn.execute(Correction.__table__.select()).all()
+        pages = [page.page_ for page in pages]
+        count_pages = {page: 0 for page in pages}
+        for page in pages:
+            count_pages[page] += 1
+        pages = [page for page in count_pages if count_pages[page] == n]
+        pages = conn.execute(Page.__table__.select().where(Page.id.in_(pages))).all()
+
+        return sql_pages_to_tup(pages)
+
+
+def get_pages_done_1_2_3_and_more_times() -> tuple[
+    Set[tuple[str, int]],
+    Set[tuple[str, int]],
+    Set[tuple[str, int]],
+    Set[tuple[str, int]],
+]:
+    with engine.begin() as conn:
+        pages = conn.execute(Correction.__table__.select()).all()
+        pages = [page.page_ for page in pages]
+        count_pages = {page: 0 for page in pages}
+
+        for page in pages:
+            count_pages[page] += 1
+
+        pages_1 = [page for page in count_pages if count_pages[page] == 1]
+        pages_2 = [page for page in count_pages if count_pages[page] == 2]
+        pages_3 = [page for page in count_pages if count_pages[page] == 3]
+        pages_more = [page for page in count_pages if count_pages[page] > 3]
+
+        pages_1 = conn.execute(Page.__table__.select().where(Page.id.in_(pages_1))).all()
+        pages_2 = conn.execute(Page.__table__.select().where(Page.id.in_(pages_2))).all()
+        pages_3 = conn.execute(Page.__table__.select().where(Page.id.in_(pages_3))).all()
+        pages_more = conn.execute(Page.__table__.select().where(Page.id.in_(pages_more))).all()
+
+        return (
+            sql_pages_to_tup(pages_1),
+            sql_pages_to_tup(pages_2),
+            sql_pages_to_tup(pages_3),
+            sql_pages_to_tup(pages_more)
+        )
+
+
+def get_pages_done_1_2_3_and_more_times_but_not_by_user(uuid_: uuid.UUID) -> tuple[
+    Set[tuple[str, int]],
+    Set[tuple[str, int]],
+    Set[tuple[str, int]],
+    Set[tuple[str, int]],
+]:
+    pages_1, pages_2, pages_3, pages_more = get_pages_done_1_2_3_and_more_times()
+    pages_done_by_user = get_pages_done_by_user(uuid_)
+    return (
+        pages_1 - pages_done_by_user,
+        pages_2 - pages_done_by_user,
+        pages_3 - pages_done_by_user,
+        pages_more - pages_done_by_user,
+    )
+
+def get_the_thing(uuid_: uuid.UUID) -> tuple[
+    Set[tuple[str, int]],
+    Set[tuple[str, int]],
+    Set[tuple[str, int]],
+    Set[tuple[str, int]],
+]:
+    """Short for get_pages_done_1_2_3_and_more_times_but_not_by_user"""
+    return get_pages_done_1_2_3_and_more_times_but_not_by_user(uuid_)
 
 def create_user():
     with engine.begin() as conn:
