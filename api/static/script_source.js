@@ -225,12 +225,15 @@ function setPreviousCookie(cookie, uuid) {
 
 function init() {
     var search = location.search.substring(1);
-    search = JSON.parse('{"' + decodeURI(search).replace(/"/g, '\\"').replace(/&/g, '","').replace(/=/g, '":"') + '"}')
-    const uuid = search['uuid'];
-    if (uuid !== null) {
-        console.log('UUID found, setting cookie...');
-        setPreviousCookie(null, uuid);
-        return;
+    if (search !== null && search !== '') {
+        search = JSON.parse('{"' + decodeURI(search).replace(/"/g, '\\"').replace(/&/g, '","').replace(/=/g, '":"') + '"}')
+        const uuid = search['uuid'];
+        if (uuid !== null) {
+            console.log('UUID found, setting cookie...');
+            setPreviousCookie(null, uuid);
+            location.replace("/");
+            return;
+        }
     }
 
 

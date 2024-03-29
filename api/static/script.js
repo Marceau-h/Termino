@@ -231,7 +231,7 @@ function init() {
         if (uuid !== null) {
             console.log('UUID found, setting cookie...');
             setPreviousCookie(null, uuid);
-            location.replace("{{host + '/'}}");
+            location.replace("/");
             return;
         }
     }
