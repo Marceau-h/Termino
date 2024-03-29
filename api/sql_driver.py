@@ -204,7 +204,7 @@ def full_bind(uuid_: uuid.UUID, n_etudiant: str):
     except ValueError:
         prev_uuid = None
 
-    if prev_uuid:
+    if prev_uuid and prev_uuid != uuid_:
         remove_user(uuid_)
         uuid_ = prev_uuid
     else:
