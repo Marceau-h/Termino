@@ -190,12 +190,13 @@ def bind_n_etudiant_to_uuid(n_etudiant: str, uuid_: uuid.UUID):
 
 
 def remove_user(uuid_: uuid.UUID):
-    with engine.begin() as conn:
-        user = conn.execute(User.__table__.select().where(User.UUID == uuid_)).first()
-        if not user:
-            raise ValueError("User not found")
-
-        conn.execute(User.__table__.delete().where(User.id == user.id))
+    pass  # SAFER TO NOT IMPLEMENT
+    # with engine.begin() as conn:
+    #     user = conn.execute(User.__table__.select().where(User.UUID == uuid_)).first()
+    #     if not user:
+    #         raise ValueError("User not found")
+    #
+    #     conn.execute(User.__table__.delete().where(User.id == user.id))
 
 
 def full_bind(uuid_: uuid.UUID, n_etudiant: str):
