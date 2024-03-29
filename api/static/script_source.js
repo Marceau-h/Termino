@@ -216,7 +216,24 @@ function setCookie(cookie) {
     xhr.send(cookie);
 }
 
+function setPreviousCookie(cookie, uuid) {
+    const xhr = new XMLHttpRequest();
+    xhr.open("get", "/set_cookie/" + uuid, false);
+    xhr.send(cookie);
+}
+
+
 function init() {
+    var search = location.search.substring(1);
+    search = JSON.parse('{"' + decodeURI(search).replace(/"/g, '\\"').replace(/&/g, '","').replace(/=/g, '":"') + '"}')
+    const uuid = search['uuid'];
+    if (uuid !== null) {
+        console.log('UUID found, setting cookie...');
+        setPreviousCookie(null, uuid);
+        return;
+    }
+
+
     const cookie = JSON.parse(getCookie());
     if (cookie['mazette'] === null) {
         console.log("Empty cookie, first visit ? ");
