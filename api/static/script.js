@@ -131,7 +131,7 @@ function submitForm() {
 
     // Wait for the xhr to be sent
     setTimeout(function () {
-        location.reload();
+        location.replace("/");
     }, 1000);
 
 }
@@ -189,7 +189,7 @@ function passer() {
             return;
         }
     }
-    location.reload();
+    location.replace("/");
 }
 
 
