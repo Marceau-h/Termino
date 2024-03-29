@@ -16,7 +16,7 @@ from fastapi.staticfiles import StaticFiles
 from starlette.templating import Jinja2Templates
 
 from .sql_driver import Correction, User, get_pages_done_by_user, create_user, create_page, engine, \
-    get_the_thing
+    get_the_thing, full_bind
 from .type_hint import GoodPage
 
 el_numbre = re.compile(r"(\d+)[_-]")
@@ -74,37 +74,41 @@ def get_random_doc() -> Path:
     return files.get(random.randint(min_nb, max_nb), None) or get_random_doc()
 
 
-def get_random_doc_and_page_not_in_set(pages: set[tuple[str, int]], tries: int = 0) -> Optional[tuple[Path, int]]:
+def get_random_doc_and_page_not_in_set(pages: set[tuple[str, int]], tries: int = 0) -> Optional[tuple[Path, dict, int]]:
     if tries > 10:
         return None
 
     file = get_random_doc()
-    page = get_random_page(file)
+    data = open_file(file)
+    page = get_random_page(data)
     if (file.name, page) not in pages:
-        return file, page
+        return file, data, page
     return get_random_doc_and_page_not_in_set(pages, tries + 1)
 
 
-def get_random_doc_and_page_in_set(pages: set[tuple[str, int]]) -> Optional[tuple[Path, int]]:
+def get_random_doc_and_page_in_set(pages: set[tuple[str, int]]) -> Optional[tuple[Path, dict, int]]:
     if not pages:
         return None
     file_name, page = random.choice(list(pages))
     file, page = files.get(file_name, None), page or get_random_doc_and_page_in_set(pages)
-    return file, page
+    data = open_file(file)
+    return file, data, page
 
 
-def get_random_doc_and_page_for_user(uuid_: uuid.UUID) -> tuple[Path, int]:
+def get_random_doc_and_page_for_user(uuid_: uuid.UUID) -> tuple[Path, dict, int]:
     pages_1, pages_2, pages_3, pages_more = get_the_thing(uuid_)
 
-    match random.randint(1, 10):
-        case ranges.get("0"):
-            result = get_random_doc_and_page_not_in_set(pages_1 | pages_2 | pages_3 | pages_more)
-        case ranges.get("1"):
-            result = get_random_doc_and_page_in_set(pages_1)
-        case ranges.get("2"):
-            result = get_random_doc_and_page_not_in_set(pages_2)
-        case ranges.get("VT"):
-            raise ValueError("VT not implemented")
+    result = None
+    rand = random.randint(1, 10)
+    if rand in ranges.get("0"):
+        result = get_random_doc_and_page_not_in_set(pages_1 | pages_2 | pages_3 | pages_more)
+    elif rand in ranges.get("1"):
+        result = get_random_doc_and_page_in_set(pages_1)
+    elif rand in ranges.get("2"):
+        result = get_random_doc_and_page_not_in_set(pages_2)
+    elif rand in ranges.get("VT"):
+        return get_random_doc_and_page_not_in_set(pages_more)
+        # raise ValueError("VT not implemented")
 
     return result or get_random_doc_and_page_for_user(uuid_)
 
@@ -171,8 +175,7 @@ def get_img_url(file: Path, page_nb: int) -> Optional[str]:
 async def read_random_for_user(uuid_: uuid.UUID):
     logger.info("random")
 
-    file, page = get_random_doc_for_user(uuid_)
-    data = open_file(file)
+    file, data, page = get_random_doc_and_page_for_user(uuid_)
 
     if not data["texte"]:
         return await read_random_for_user(uuid_)
@@ -238,6 +241,39 @@ async def read_page(file: int | str, page_nb: int):
     )
 
 
+@app.get("/set_cookie", response_class=JSONResponse, tags=["main"])
+def create_cookie():
+    logger.info("cookie")
+    response = JSONResponse(content={"message": "Come to the dark side, we have cookies"})
+    response.set_cookie(
+        key="mazette",
+        value=create_user().hex,
+        secure=False,
+    )
+    logger.info(response.body)
+    logger.info(response.raw_headers)
+    return response
+
+
+@app.get("/set_cookie/{newuuid}", response_class=JSONResponse, tags=["main"])
+def create_cookie(newuuid: str):
+    logger.info("cookie")
+    response = JSONResponse(content={"message": "Come to the dark side, we have cookies"})
+    response.set_cookie(
+        key="mazette",
+        value=newuuid,
+        secure=False,
+    )
+    logger.info(response.body)
+    logger.info(response.raw_headers)
+    return response
+
+
+@app.get("/read_cookie", response_class=JSONResponse, tags=["main"])
+async def read_cookie(mazette: str = Cookie(None)):
+    return JSONResponse(content={"mazette": mazette})
+
+
 @app.get("/favicon.ico", response_class=FileResponse, tags=["main"])
 async def favicon():
     return FileResponse(main_dir / "static" / "favicon.ico")
@@ -245,6 +281,15 @@ async def favicon():
 
 @app.get("/", response_class=HTMLResponse, tags=["main"])
 async def read_root(mazette: str = Cookie(None)):
+    if not mazette:
+        return templates.TemplateResponse(
+            "minimal.html",
+            {
+                "request": {},
+                "host": host,
+                "prefix": prefix,
+            }
+        )
     mazette = uuid.UUID(mazette)
 
     while True:
@@ -347,20 +392,25 @@ async def submit(
     return JSONResponse(status_code=200, content=json_res)
 
 
-@app.get("/set_cookie", response_class=JSONResponse, tags=["main"])
-def create_cookie():
-    logger.info("cookie")
-    response = JSONResponse(content={"message": "Come to the dark side, we have cookies"})
-    response.set_cookie(
-        key="mazette",
-        value=create_user().hex,
-        secure=False,
+@app.get("/etudiants", response_class=HTMLResponse, tags=["main"])
+async def read_etu():
+    return templates.TemplateResponse(
+        "etudiants.html",
+        {
+            "request": {},
+            "host": host,
+            "prefix": prefix,
+        }
     )
-    logger.info(response.body)
-    logger.info(response.raw_headers)
-    return response
 
 
-@app.get("/read_cookie", response_class=JSONResponse, tags=["main"])
-async def read_cookie(mazette: str = Cookie(None)):
-    return JSONResponse(content={"mazette": mazette})
+@app.post("/bind", response_class=RedirectResponse, tags=["main"], status_code=302)
+async def bind(
+        username: Annotated[str, Form()],
+        mazette: str = Cookie(None),
+):
+    logger.info(f"bind: {mazette=}, {username=}")
+
+    uuid_ = full_bind(uuid.UUID(mazette), username).hex
+
+    return RedirectResponse(url=f"/?uuid={uuid_}", status_code=302)  # 302 To redirect to a GET request
