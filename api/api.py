@@ -318,7 +318,7 @@ async def read_root(mazette: str = Cookie(None)):
 
 @app.get("/{file}/{page_nb}", response_class=HTMLResponse, tags=["main"])
 async def read_page_n(file: int, page_nb: int):
-    return read_page(file, page_nb)
+    return await read_page(file, page_nb)
 
 
 @app.get("/s/{file}/{page_nb}", response_class=HTMLResponse, tags=["main"])
