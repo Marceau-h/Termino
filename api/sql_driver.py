@@ -24,7 +24,8 @@ class Correction(SQLModel, table=True):
 class User(SQLModel, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
     UUID: uuid.UUID
-    __table_args__ = (UniqueConstraint("UUID"),)
+    n_etudiant: Optional[str] = None
+    __table_args__ = (UniqueConstraint("UUID"), UniqueConstraint("n_etudiant"))
 
 
 class Page(SQLModel, table=True):
@@ -115,6 +116,7 @@ def get_pages_done_1_2_3_and_more_times_but_not_by_user(uuid_: uuid.UUID) -> tup
         pages_more - pages_done_by_user,
     )
 
+
 def get_the_thing(uuid_: uuid.UUID) -> tuple[
     Set[tuple[str, int]],
     Set[tuple[str, int]],
@@ -123,6 +125,7 @@ def get_the_thing(uuid_: uuid.UUID) -> tuple[
 ]:
     """Short for get_pages_done_1_2_3_and_more_times_but_not_by_user"""
     return get_pages_done_1_2_3_and_more_times_but_not_by_user(uuid_)
+
 
 def create_user():
     with engine.begin() as conn:
@@ -157,6 +160,57 @@ def create_page(document_id: str, page_number: int):
 def get_page_by_id(page_id: int) -> Page:
     with engine.begin() as conn:
         return conn.execute(Page.__table__.select().where(Page.id == page_id)).first()
+
+
+def get_n_etudiant_by_uuid(uuid_: uuid.UUID) -> str:
+    with engine.begin() as conn:
+        user = conn.execute(User.__table__.select().where(User.UUID == uuid_)).first()
+        if not user:
+            raise ValueError("User not found")
+
+        return user.n_etudiant
+
+
+def get_uuid_by_n_etudiant(n_etudiant: str) -> uuid.UUID:
+    with engine.begin() as conn:
+        user = conn.execute(User.__table__.select().where(User.n_etudiant == n_etudiant)).first()
+        if not user:
+            raise ValueError("User not found")
+
+        return user.UUID
+
+
+def bind_n_etudiant_to_uuid(n_etudiant: str, uuid_: uuid.UUID):
+    with engine.begin() as conn:
+        user = conn.execute(User.__table__.select().where(User.UUID == uuid_)).first()
+        if not user:
+            raise ValueError("User not found")
+
+        conn.execute(User.__table__.update().where(User.id == user.id), {"n_etudiant": n_etudiant})
+
+
+def remove_user(uuid_: uuid.UUID):
+    with engine.begin() as conn:
+        user = conn.execute(User.__table__.select().where(User.UUID == uuid_)).first()
+        if not user:
+            raise ValueError("User not found")
+
+        conn.execute(User.__table__.delete().where(User.id == user.id))
+
+
+def full_bind(uuid_: uuid.UUID, n_etudiant: str):
+    try:
+        prev_uuid = get_uuid_by_n_etudiant(n_etudiant)
+    except ValueError:
+        prev_uuid = None
+
+    if prev_uuid:
+        remove_user(uuid_)
+        uuid_ = prev_uuid
+    else:
+        bind_n_etudiant_to_uuid(n_etudiant, uuid_)
+
+    return uuid_
 
 
 engine = create_engine("sqlite:///database.db")
