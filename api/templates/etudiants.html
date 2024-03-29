@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Mazette - MAZarinades Extended Through Text Edition</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=JetBrains+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{host + '/static/style.css'}}">
+    <link rel="icon" href="{{host + '/static/favicon.ico'}}"/>
+    <script src="{{host + '/static/script.js'}}"></script>
+    <meta name="description" content="Mazette est un outil de correction destiné aux sorties d'OCR.">
+    <style>
+        body {
+            font-family: 'JetBrains Mono', monospace;
+            background-color: #f1f1f1;
+            font-size: 2em;
+        }
+
+        button {
+            width: 100%;
+            color: orange;
+            margin: 10px 0px;
+            border: none;
+            cursor: pointer;
+        }
+
+        form {
+            border: 3px solid #f1f1f1;
+            width: 50%;
+        }
+
+        input[type=text] {
+            width: 100%;
+            margin: 8px 0;
+            padding: 12px 20px;
+            display: inline-block;
+            border: 5px solid green;
+            box-sizing: border-box;
+        }
+
+        .container {
+            padding: 25px;
+            background-color: lightblue;
+        }
+
+    </style>
+</head>
+<body>
+<center><h1> Mazette ! </h1>
+    <form action="{{host + '/bind'}}" method="post">
+        <div class="container">
+            <label>Numéro étudiant : </label>
+            <input type="text" placeholder="Entrez votre numéro d'étudiant" name="username" required>
+            <button type="submit" class="btn good">Valider</button>
+        </div>
+    </form>
+</center>
+</body>
+</html>
+
+
