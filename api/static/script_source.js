@@ -231,7 +231,7 @@ function init() {
         if (uuid !== null) {
             console.log('UUID found, setting cookie...');
             setPreviousCookie(null, uuid);
-            window.location.href = "/";
+            location.replace("/");
             return;
         }
     }
