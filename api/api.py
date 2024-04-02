@@ -63,6 +63,10 @@ logger_level = os.getenv("MAZETTE_LOG_LEVEL", "WARNING")
 logger = logging.getLogger("mazette")
 logger.setLevel(logger_level)
 
+VT = (e["file"] for e in json.load(open(hmb, "r")) if e["ratio"] == 1)
+VT = [Path(e) for e in VT]
+VT = {number_from_file(e): e for e in VT}
+
 
 def get_doc(nb: int | str) -> Optional[Path]:
     return files.get(nb)
@@ -97,22 +101,43 @@ def get_random_doc_and_page_in_set(pages: set[tuple[str, int]]) -> Optional[tupl
     return file, data, page
 
 
-def get_random_doc_and_page_for_user(uuid_: uuid.UUID) -> tuple[Path, dict, int]:
+def get_random_doc_and_page_in_VT() -> Optional[tuple[Path, dict, int]]:
+    if not VT:
+        return None
+    file = random.choice(list(VT.values()))
+    data = open_file(file)
+    page = get_random_page(data)
+    return file, data, page
+
+
+def get_random_doc_and_page_for_user(uuid_: uuid.UUID, tries: int = 5) -> tuple[Path, dict, int]:
+    if tries <= 0:
+        logger.error("Tries exhausted")
+        return get_random_doc_and_page_not_in_set(set())
+    elif tries != 5:
+        logger.warning(f"Could not find a page for user {uuid_}, trying again, tries left: {tries}")
+
     pages_1, pages_2, pages_3, pages_more = get_the_thing(uuid_)
 
     result = None
     rand = random.randint(1, 10)
+    logger.info(f"rand: {rand}")
+    logger.info(f"Expected branch: {ranges[str(rand)]}")
     if rand in ranges.get("0"):
+        logger.info("Branch 0")
         result = get_random_doc_and_page_not_in_set(pages_1 | pages_2 | pages_3 | pages_more)
     elif rand in ranges.get("1"):
+        logger.info("Branch 1")
         result = get_random_doc_and_page_in_set(pages_1)
     elif rand in ranges.get("2"):
+        logger.info("Branch 2")
         result = get_random_doc_and_page_not_in_set(pages_2)
     elif rand in ranges.get("VT"):
-        return get_random_doc_and_page_not_in_set(pages_more)
-        # raise ValueError("VT not implemented")
+        logger.info("Branch VT")
+        result = get_random_doc_and_page_in_VT()
 
-    return result or get_random_doc_and_page_for_user(uuid_)
+    logger.info(f"Result: {result}")
+    return result or get_random_doc_and_page_for_user(uuid_, tries - 1)
 
 
 def open_file(file: Path) -> dict:
