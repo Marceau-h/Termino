@@ -319,6 +319,7 @@ async def favicon():
 
 @app.get("/", response_class=HTMLResponse, tags=["main"])
 async def read_root(mazette: str = Cookie(None)):
+    print(f"Read root at {datetime.now()}") # To prevent restating while someones on the page
     if not mazette:
         return templates.TemplateResponse(
             "minimal.html",
