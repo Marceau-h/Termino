@@ -146,7 +146,7 @@ def get_random_doc_and_page_for_user(uuid_: uuid.UUID, tries: int = 5) -> tuple[
     logger.info(f"{result = }\n{bool(result) = }")
 
     if result is None:
-        logger.warning(f"Could not find a page for user {uuid_}, trying again, tries left: {tries}")
+        logger.warning(f"Could not find a page for user {uuid_}, trying again, tries left: {tries}, {rand = }")
         return get_random_doc_and_page_for_user(uuid_, tries - 1)
     return result
 
