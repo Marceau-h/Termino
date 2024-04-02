@@ -5,6 +5,7 @@ import random
 import re
 import uuid
 import xml.sax.saxutils as saxutils
+from datetime import datetime
 from pathlib import Path
 from typing import List, Annotated, Optional
 
@@ -62,13 +63,7 @@ min_nb = min((k for k in files if isinstance(k, int)))
 logger_level = os.getenv("MAZETTE_LOG_LEVEL", "WARNING")
 logger = logging.getLogger("mazette")
 logger.setLevel(logger_level)
-logger.critical(f"Logger level: {logger_level}:{logger.getEffectiveLevel()}:{logger.level}")
-# logger.critical(f"{logger.isEnabledFor(logging.CRITICAL)}:{logger.isEnabledFor(logging.ERROR)}:{logger.isEnabledFor(logging.WARNING)}:{logger.isEnabledFor(logging.INFO)}:{logger.isEnabledFor(logging.DEBUG)}")
-# logger.debug("test debug")
-# logger.info("test info")
-# logger.warning("test warning")
-# logger.error("test error")
-# logger.critical("test critical")
+logger.info(f"Logger level: {logger_level}:{logger.getEffectiveLevel()}:{logger.level}")
 
 VT = (e["file"] for e in json.load(open(hmb, "r")) if e["ratio"] == 1)
 VT = [Path(e) for e in VT]
@@ -118,13 +113,20 @@ def get_random_doc_and_page_in_VT() -> Optional[tuple[Path, dict, int]]:
 
 
 def get_random_doc_and_page_for_user(uuid_: uuid.UUID, tries: int = 5) -> tuple[Path, dict, int]:
-    if tries <= 0:
+    pages_1, pages_2, pages_3, pages_more = get_the_thing(uuid_)
+
+    if tries == 0:
         logger.error("Tries exhausted")
-        return get_random_doc_and_page_not_in_set(set())
+        return get_random_doc_and_page_not_in_set(pages_1 | pages_2 | pages_3 | pages_more) or get_random_doc_and_page_for_user(uuid_, tries - 1)
+    elif tries == -1:
+        logger.error("Tries beyond exhausted")
+        return get_random_doc_and_page_not_in_set(set()) or get_random_doc_and_page_for_user(uuid_, tries - 1)
+    elif tries == -2:
+        logger.critical(f"{datetime.now()}, {uuid_}: Unable to find a page inside the whole corpora !!!")
+        raise FileNotFoundError("Unable to find a page inside the whole corpora !!!")
     elif tries != 5:
         logger.warning(f"Could not find a page for user {uuid_}, trying again, tries left: {tries}")
 
-    pages_1, pages_2, pages_3, pages_more = get_the_thing(uuid_)
 
     result = None
     rand = random.randint(1, 10)
