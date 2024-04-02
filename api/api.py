@@ -90,7 +90,9 @@ def get_random_doc_and_page_in_set(pages: set[tuple[str, int]]) -> Optional[tupl
     if not pages:
         return None
     file_name, page = random.choice(list(pages))
-    file, page = files.get(file_name, None), page or get_random_doc_and_page_in_set(pages)
+    file = files.get(file_name, None)
+    if not file:
+        return get_random_doc_and_page_not_in_set(pages)
     data = open_file(file)
     return file, data, page
 
