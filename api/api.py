@@ -62,6 +62,13 @@ min_nb = min((k for k in files if isinstance(k, int)))
 logger_level = os.getenv("MAZETTE_LOG_LEVEL", "WARNING")
 logger = logging.getLogger("mazette")
 logger.setLevel(logger_level)
+logger.critical(f"Logger level: {logger_level}:{logger.getEffectiveLevel()}:{logger.level}")
+# logger.critical(f"{logger.isEnabledFor(logging.CRITICAL)}:{logger.isEnabledFor(logging.ERROR)}:{logger.isEnabledFor(logging.WARNING)}:{logger.isEnabledFor(logging.INFO)}:{logger.isEnabledFor(logging.DEBUG)}")
+# logger.debug("test debug")
+# logger.info("test info")
+# logger.warning("test warning")
+# logger.error("test error")
+# logger.critical("test critical")
 
 VT = (e["file"] for e in json.load(open(hmb, "r")) if e["ratio"] == 1)
 VT = [Path(e) for e in VT]
@@ -122,7 +129,7 @@ def get_random_doc_and_page_for_user(uuid_: uuid.UUID, tries: int = 5) -> tuple[
     result = None
     rand = random.randint(1, 10)
     logger.info(f"rand: {rand}")
-    logger.info(f"Expected branch: {ranges[str(rand)]}")
+    logger.info(f"Expected branch: {[r for r, v in ranges.items() if rand in v][0]}")
     if rand in ranges.get("0"):
         logger.info("Branch 0")
         result = get_random_doc_and_page_not_in_set(pages_1 | pages_2 | pages_3 | pages_more)
@@ -136,7 +143,7 @@ def get_random_doc_and_page_for_user(uuid_: uuid.UUID, tries: int = 5) -> tuple[
         logger.info("Branch VT")
         result = get_random_doc_and_page_in_VT()
 
-    logger.info(f"Result: {result}")
+    logger.info(f"{result = }\n{bool(result) = }")
     return result or get_random_doc_and_page_for_user(uuid_, tries - 1)
 
 
