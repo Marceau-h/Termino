@@ -124,8 +124,6 @@ def get_random_doc_and_page_for_user(uuid_: uuid.UUID, tries: int = 5) -> tuple[
     elif tries == -2:
         logger.critical(f"{datetime.now()}, {uuid_}: Unable to find a page inside the whole corpora !!!")
         raise FileNotFoundError("Unable to find a page inside the whole corpora !!!")
-    elif tries != 5:
-        logger.warning(f"Could not find a page for user {uuid_}, trying again, tries left: {tries}")
 
 
     result = None
@@ -146,7 +144,11 @@ def get_random_doc_and_page_for_user(uuid_: uuid.UUID, tries: int = 5) -> tuple[
         result = get_random_doc_and_page_in_VT()
 
     logger.info(f"{result = }\n{bool(result) = }")
-    return result or get_random_doc_and_page_for_user(uuid_, tries - 1)
+
+    if result is None:
+        logger.warning(f"Could not find a page for user {uuid_}, trying again, tries left: {tries}")
+        return get_random_doc_and_page_for_user(uuid_, tries - 1)
+    return result
 
 
 def open_file(file: Path) -> dict:
