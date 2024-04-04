@@ -80,8 +80,7 @@ function nextPage() {
 }
 
 function resetForm() {
-    const really = confirm('Êtes-vous sûr de vouloir réinitialiser votre correction ?\n' +
-        'Toutes les modifications seront perdues. (À jamais !)');
+    const really = confirm('Êtes-vous sûr de vouloir réinitialiser votre correction ?\n' + 'Toutes les modifications seront perdues. (À jamais !)');
     if (really) {
         document.getElementById('ocr-form').reset();
         alert('Votre correction a bien été réinitialisée.');
@@ -99,8 +98,7 @@ function submitForm() {
     const ocr = document.getElementById('ocr').value;
     const ocr_bak = document.getElementById('ocr-original').value;
     if (ocr === ocr_bak) {
-        really = confirm('Votre correction ne contient aucune modification.\n' +
-            'Êtes-vous sûr de vouloir soumettre votre correction ?');
+        really = confirm('Votre correction ne contient aucune modification.\n' + 'Êtes-vous sûr de vouloir soumettre votre correction ?');
         if (!really) {
             document.getElementById('send').disabled = false;
             return;
@@ -131,14 +129,14 @@ function submitForm() {
 
     // Wait for the xhr to be sent
     setTimeout(function () {
+        OK_TO_LEAVE = true;
         location.replace("/");
     }, 1000);
 
 }
 
 function bad() {
-    const really = confirm('Si vous êtes sur une image ne correspondant pas au texte actuel, veuillez naviguer jusqu\'à la bonne page.\n' +
-        'Par la suite, vous pouvez valider la nouvelle page en cliquant sur le bouton "Bonne page".');
+    const really = confirm('Si vous êtes sur une image ne correspondant pas au texte actuel, veuillez naviguer jusqu\'à la bonne page.\n' + 'Par la suite, vous pouvez valider la nouvelle page en cliquant sur le bouton "Bonne page".');
     if (!really) {
         return;
     }
@@ -182,13 +180,12 @@ function passer() {
     const ocr = document.getElementById('ocr').value;
     const ocr_bak = document.getElementById('ocr-original').value;
     if (ocr !== ocr_bak) {
-        const really = confirm('Votre correction contient des modifications.\n' +
-            'Êtes-vous sûr de vouloir passer à la page suivante ' +
-            'sans soumettre votre correction ?');
+        const really = confirm('Votre correction contient des modifications.\n' + 'Êtes-vous sûr de vouloir passer à la page suivante ' + 'sans soumettre votre correction ?');
         if (!really) {
             return;
         }
     }
+    OK_TO_LEAVE = true;
     location.replace("/");
 }
 
@@ -196,7 +193,7 @@ function passer() {
 window.onbeforeunload = function () {
     const ocr = document.getElementById('ocr').value;
     const ocr_bak = document.getElementById('ocr-original').value;
-    if (ocr !== ocr_bak) {
+    if (ocr !== ocr_bak && !OK_TO_LEAVE) {
         return "Attention ! Vous avez des modifications non sauvegardées.";
     }
     return null;
@@ -236,7 +233,6 @@ function init() {
         }
     }
 
-
     const cookie = JSON.parse(getCookie());
     if (cookie['mazette'] === null) {
         console.log("Empty cookie, first visit ? ");
@@ -244,4 +240,5 @@ function init() {
     }
 }
 
+var OK_TO_LEAVE = false;
 init();
