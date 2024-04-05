@@ -1,0 +1,4 @@
+*.csv
+*.db
+*.zip
+.env_mazette
