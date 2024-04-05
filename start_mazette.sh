@@ -6,22 +6,6 @@ source .env_mazette > /dev/null 2>&1
 
 set +a
 
-if [ "$MAZETTE_OUTPUT" ]
-then
-    echo "MAZETTE_OUTPUT is set to '$MAZETTE_OUTPUT'"
-else
-    echo "MAZETTE_OUTPUT is not set, if you continue, no output will be saved"
-    read -p "Continue? [ y / $(tput setaf 1)N$(tput sgr0) ] " -n 1 -r
-    echo
-    if [[ ! $REPLY =~ ^[Yy]$ ]]
-    then
-        echo "Aborting"
-        exit 1
-    else
-        echo "Caution, no output will be saved"
-    fi
-fi
-
 cd "${FOLDER:=`pwd`/}"
 
 # Ensure pwd has worked
@@ -30,9 +14,6 @@ then
     echo "The pwd command failed, leading to cd to $FOLDER"
     exit 1
 fi
-
-# git pull origin master --quiet || exit
-
 
 if [ ! -d "venv" ]
 then
