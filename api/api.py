@@ -33,8 +33,14 @@ ranges = {
 def number_from_file(file: Path) -> int | str:
     stem = file.stem
     if "suppl" in stem:
-        return "s" + el_numbre.search(stem).group(1)
+        return f"s{el_numbre.search(stem).group(1)}"
     return int(el_numbre.search(stem).group(1))
+
+
+def number_from_name(file: str) -> int | str:
+    if "suppl" in file:
+        return f"s{el_numbre.search(file).group(1)}"
+    return int(el_numbre.search(file).group(1))
 
 
 main_dir = Path(__file__).parent
@@ -55,6 +61,7 @@ templates = Jinja2Templates(directory=main_dir / "templates")
 
 files = maz_non_corr.glob("*/*.json")
 files = {f for f in files if "to_do" not in f.as_posix() and "Doublons" not in f.as_posix()}
+files_list = [f for f in files]
 files = {number_from_file(f): f for f in files}
 
 max_nb = max((k for k in files if isinstance(k, int)))
@@ -67,7 +74,6 @@ logger.info(f"Logger level: {logger_level}:{logger.getEffectiveLevel()}:{logger.
 
 VT = (e["file"] for e in json.load(open(hmb, "r")) if e["ratio"] == 1)
 VT = [Path(e) for e in VT]
-VT = {number_from_file(e): e for e in VT}
 
 
 def get_doc(nb: int | str) -> Optional[Path]:
@@ -75,30 +81,35 @@ def get_doc(nb: int | str) -> Optional[Path]:
 
 
 def get_random_doc() -> Path:
-    """Gets a random document, we cant recursively call in the get method because then get calls it
-    before finishing the lookup which causes a recursion error """
-    return files.get(random.randint(min_nb, max_nb), None) or get_random_doc()
+    return random.choice(files_list)
 
 
-def get_random_doc_and_page_not_in_set(pages: set[tuple[str, int]], tries: int = 0) -> Optional[tuple[Path, dict, int]]:
-    if tries > 10:
-        return None
-
-    file = get_random_doc()
-    data = open_file(file)
-    page = get_random_page(data)
-    if (file.name, page) not in pages:
-        return file, data, page
-    return get_random_doc_and_page_not_in_set(pages, tries + 1)
+def get_random_doc_and_page_not_in_set(pages: set[tuple[str, int]]) -> Optional[tuple[Path, dict, int]]:
+    while (tries := 10) > 0:
+        file = get_random_doc()
+        data = open_file(file)
+        page = get_random_page(data)
+        if (file.name, page) not in pages:
+            return file, data, page
+        tries -= 1
+    return None
 
 
 def get_random_doc_and_page_in_set(pages: set[tuple[str, int]]) -> Optional[tuple[Path, dict, int]]:
     if not pages:
         return None
-    file_name, page = random.choice(list(pages))
-    file = files.get(file_name, None)
-    if not file:
-        return get_random_doc_and_page_not_in_set(pages)
+
+    file = None
+    page = None
+    #
+    # We loop if ever the doc was in the set but left it at some point (should not happen) unless `non_corr` is modified
+    while file is None:
+        file_name, page = random.choice(list(pages))
+        file = files.get(number_from_name(file_name), None)
+        if file is None:
+            logger.error(f"File not found: {file_name = }, {page = }")
+            # pages.remove((file_name, page))
+
     data = open_file(file)
     return file, data, page
 
@@ -106,18 +117,20 @@ def get_random_doc_and_page_in_set(pages: set[tuple[str, int]]) -> Optional[tupl
 def get_random_doc_and_page_in_VT() -> Optional[tuple[Path, dict, int]]:
     if not VT:
         return None
-    file = random.choice(list(VT.values()))
+    file = random.choice(VT)
     data = open_file(file)
     page = get_random_page(data)
     return file, data, page
 
 
-def get_random_doc_and_page_for_user(uuid_: uuid.UUID, tries: int = 5) -> tuple[Path, dict, int]:
+def get_random_doc_and_page_for_user(uuid_: uuid.UUID, tries: int = 5, past_rand: int = None) -> tuple[
+    tuple[Path, dict, int], int]:
     pages_1, pages_2, pages_3, pages_more = get_the_thing(uuid_)
 
     if tries == 0:
         logger.error("Tries exhausted")
-        return get_random_doc_and_page_not_in_set(pages_1 | pages_2 | pages_3 | pages_more) or get_random_doc_and_page_for_user(uuid_, tries - 1)
+        return get_random_doc_and_page_not_in_set(
+            pages_1 | pages_2 | pages_3 | pages_more) or get_random_doc_and_page_for_user(uuid_, tries - 1)
     elif tries == -1:
         logger.error("Tries beyond exhausted")
         return get_random_doc_and_page_not_in_set(set()) or get_random_doc_and_page_for_user(uuid_, tries - 1)
@@ -125,10 +138,14 @@ def get_random_doc_and_page_for_user(uuid_: uuid.UUID, tries: int = 5) -> tuple[
         logger.critical(f"{datetime.now()}, {uuid_}: Unable to find a page inside the whole corpora !!!")
         raise FileNotFoundError("Unable to find a page inside the whole corpora !!!")
 
-
     result = None
-    rand = random.randint(1, 10)
-    logger.info(f"rand: {rand}")
+    if past_rand:
+        rand = past_rand
+        logger.info(f"Past rand: {rand}")
+    else:
+        rand = random.randint(1, 10)
+        logger.info(f"rand: {rand}")
+
     logger.info(f"Expected branch: {[r for r, v in ranges.items() if rand in v][0]}")
     if rand in ranges.get("0"):
         logger.info("Branch 0")
@@ -138,7 +155,7 @@ def get_random_doc_and_page_for_user(uuid_: uuid.UUID, tries: int = 5) -> tuple[
         result = get_random_doc_and_page_in_set(pages_1)
     elif rand in ranges.get("2"):
         logger.info("Branch 2")
-        result = get_random_doc_and_page_not_in_set(pages_2)
+        result = get_random_doc_and_page_in_set(pages_2)
     elif rand in ranges.get("VT"):
         logger.info("Branch VT")
         result = get_random_doc_and_page_in_VT()
@@ -147,12 +164,18 @@ def get_random_doc_and_page_for_user(uuid_: uuid.UUID, tries: int = 5) -> tuple[
 
     if result is None:
         logger.warning(f"Could not find a page for user {uuid_}, trying again, tries left: {tries}, {rand = }")
-        return get_random_doc_and_page_for_user(uuid_, tries - 1)
-    return result
+
+        if tries == 2:
+            logger.warning("Tries almost exhausted")
+            rand = rand // 2
+
+        return get_random_doc_and_page_for_user(uuid_, tries - 1, rand)
+
+    return result, rand
 
 
 def open_file(file: Path) -> dict:
-    with open(file, "r") as f:
+    with file.open(mode="r", encoding="utf-8") as f:
         return json.load(f)
 
 
@@ -164,7 +187,10 @@ def get_random_page(data: dict) -> int:
     return random.randint(0, len(data["texte"]) - 1)
 
 
-def get_page_text(data: dict, page: int) -> List[str]:
+def get_page_text(data: dict, page: int) -> Optional[List[str]]:
+    if "texte" not in data or len(data["texte"]) <= page or not data["texte"][page]:
+        return None
+
     return [e for e in (saxutils.unescape(e).strip() for e in data["texte"][page]) if e]
 
 
@@ -210,16 +236,16 @@ def get_img_url(file: Path, page_nb: int) -> Optional[str]:
     return None
 
 
-async def read_random_for_user(uuid_: uuid.UUID):
+async def read_random_for_user(uuid_: uuid.UUID, rand: int = None):
     logger.info("random")
 
-    file, data, page = get_random_doc_and_page_for_user(uuid_)
+    (file, data, page), rand = get_random_doc_and_page_for_user(uuid_)
 
-    if not data["texte"]:
-        return await read_random_for_user(uuid_)
-
-    # page = get_random_page(data)
     text = get_page_text(data, page)
+
+    if not text:
+        return await read_random_for_user(uuid_, rand=rand)
+
     page_nb = get_page_nb(data, page)
     first_page = get_first_page(data)
     last_page = get_last_page(data)
@@ -227,7 +253,7 @@ async def read_random_for_user(uuid_: uuid.UUID):
     img = get_img_url(file, page_nb)
 
     if not img:
-        return await read_random_for_user(uuid_)
+        return await read_random_for_user(uuid_, rand=rand)
 
     logger.info(
         f"file: {file}, page: {page}, page_nb: {page_nb}, text: {text}, img: {img}, "
@@ -319,7 +345,7 @@ async def favicon():
 
 @app.get("/", response_class=HTMLResponse, tags=["main"])
 async def read_root(mazette: str = Cookie(None)):
-    print(f"Read root at {datetime.now()}") # To prevent restating while someones on the page
+    print(f"Read root at {datetime.now()}")  # To prevent restating while someones on the page
     if not mazette:
         return templates.TemplateResponse(
             "minimal.html",
