@@ -27,10 +27,21 @@ source "$FOLDER"/"venv/bin/activate"
 # Ensure that we have everything we need
 for package in `cat requirements.txt`
 do
-    if ! pip show $package > /dev/null
+    if "git" in "$package"
     then
-        echo "Missing $package, trying to install it..."
-        pip install $package
+      package_name=$(echo "$package" | cut -d'@' -f1)
+      package_url=$(echo "$package" | cut -d'@' -f2)
+      if ! pip show "$package_name" > /dev/null
+      then
+          echo "Missing $package, trying to install it..."
+          pip install git+"$package_url"@master
+      fi
+    else
+      if ! pip show "$package" > /dev/null
+      then
+          echo "Missing $package, trying to install it..."
+          pip install "$package"
+      fi
     fi
 done
 
