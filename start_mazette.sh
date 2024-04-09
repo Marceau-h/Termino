@@ -24,10 +24,10 @@ fi
 
 source "$FOLDER"/"venv/bin/activate"
 
-# Ensure that we have everything we need
-for package in `cat requirements.txt`
+set +e
+sed "s/\(.*\)\(--\|#\).*/\1/g" "requirements.txt" | grep -v '^ *#' | while IFS= read -r package
 do
-    if "git" in "$package"
+    if [[ "git" == *"$package"* ]]
     then
       package_name=$(echo "$package" | cut -d'@' -f1)
       package_url=$(echo "$package" | cut -d'@' -f2)
@@ -44,6 +44,7 @@ do
       fi
     fi
 done
+set -e
 
 COMMAND="source $FOLDER/venv/bin/activate; python -m uvicorn api.api:app --host ${MAZETTE_HOST:-'0.0.0.0'} --port ${MAZETTE_PORT:-'8000'} --root-path ${ROOT_PATH:-'/'} --workers 8 --timeout-keep-alive 1000 --log-config log.conf"
 
